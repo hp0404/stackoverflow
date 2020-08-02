@@ -20,12 +20,11 @@ def get_epochs(date):
         year=date.year, month=date.month, day=date.day,
         hour=23, minute=59, second=59
     )
-
     return int(start.timestamp()), int(end.timestamp())
 
 
 def fetch_questions(start, end, tag, site="stackoverflow"):
-    """ Fetches questions from stackoverflowAPI. """
+    """ Fetch questions from stackoverflowAPI. """
 
     _params = {
         "fromdate": start,
@@ -39,26 +38,24 @@ def fetch_questions(start, end, tag, site="stackoverflow"):
 
 
 def build_table(*args, **kwargs):
-    """ Builds a markdown table from a list of entries. """
+    """ Build a markdown table from a list of entries. """
 
-    responses = []
-    for chunk in args:
-        md = "\n".join(
-            [
-                "* [{title}]({url}) - {score} votes".format(
-                    title=re.sub(r'[^\w\s]', '', item["title"]),
-                    url=item["link"],
-                    score=item["score"]
-                )
-                for item in chunk["items"][:8]
-            ]
+    columns = [
+        "\n".join(
+            "* [{title}]({url}) - {score} votes".format(
+                title=re.sub(r'[^\w\s]', '', item["title"]),
+                url=item["link"],
+                score=item["score"]
+            )
+            for item in chunk["items"][:8]
         )
-        responses.append(md)
-    return responses
+        for chunk in args
+    ]
+    return columns
 
 
 def replace_chunk(content, marker, chunk, inline=False):
-    """ Replaces chunks of README.md """
+    """ Replace chunks of README.md """
 
     r = re.compile(
         r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
