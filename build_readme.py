@@ -14,7 +14,7 @@ def get_epochs(date):
 
     start = datetime(
         year=date.year, month=date.month, day=date.day,
-        hour=0, minute=59, second=59
+        hour=0, minute=0, second=0
     )
     end = datetime(
         year=date.year, month=date.month, day=date.day,
