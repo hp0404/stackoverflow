@@ -1,41 +1,41 @@
-# Stackoverflow daily top questions: <!-- date starts -->2020-08-02<!-- date ends -->
+# Stackoverflow daily top questions: <!-- date starts -->2020-08-03<!-- date ends -->
 
 <table><tr><td valign="top" width="33%">
 
 ### Pandas
 <!-- pandas starts -->
-* [How to sum dataframe in pandas for more than 5](https://stackoverflow.com/questions/63213256/how-to-sum-dataframe-in-pandas-for-more-than-5) - 3 votes
-* [How to extract contents of a table from webpage using Python](https://stackoverflow.com/questions/63215642/how-to-extract-contents-of-a-table-from-webpage-using-python) - 3 votes
-* [Column value will increment and reset for changes in another two columns](https://stackoverflow.com/questions/63220183/column-value-will-increment-and-reset-for-changes-in-another-two-columns) - 2 votes
-* [Multiply columns in Dataframe where columns are pdMultiIndex](https://stackoverflow.com/questions/63219407/multiply-columns-in-dataframe-where-columns-are-pd-multiindex) - 2 votes
-* [Why does Pandas seriesstrcontains method not detect match when there is a leading space](https://stackoverflow.com/questions/63211473/why-does-pandas-series-str-contains-method-not-detect-match-when-there-is-a-lead) - 2 votes
-* [How can I apply a function to every other row in a series in Pandas](https://stackoverflow.com/questions/63212292/how-can-i-apply-a-function-to-every-other-row-in-a-series-in-pandas) - 2 votes
-* [How to efficiently remove elements from series of pandas dataframe](https://stackoverflow.com/questions/63211636/how-to-efficiently-remove-elements-from-series-of-pandas-dataframe) - 2 votes
-* [Splitting cells within dataframe](https://stackoverflow.com/questions/63211311/splitting-cells-within-dataframe) - 2 votes
+* [Apply function to pandas rowrow cross product](https://stackoverflow.com/questions/63231615/apply-function-to-pandas-row-row-cross-product) - 5 votes
+* [How can I count a pandas dataframe over duplications](https://stackoverflow.com/questions/63229017/how-can-i-count-a-pandas-dataframe-over-duplications) - 5 votes
+* [Edgelist within pandas dataframe to visualise using networkx](https://stackoverflow.com/questions/63230886/edgelist-within-pandas-dataframe-to-visualise-using-networkx) - 4 votes
+* [Pandas new column based on row values](https://stackoverflow.com/questions/63232108/pandas-new-column-based-on-row-values) - 3 votes
+* [Find match in series excluding substrings](https://stackoverflow.com/questions/63233966/find-match-in-series-excluding-substrings) - 3 votes
+* [How do I replace duplicate value in a column to make it unique based on another column in Pandas](https://stackoverflow.com/questions/63222383/how-do-i-replace-duplicate-value-in-a-column-to-make-it-unique-based-on-another) - 3 votes
+* [Count hashtag frequency in a dataframe](https://stackoverflow.com/questions/63228403/count-hashtag-frequency-in-a-dataframe) - 3 votes
+* [Create pandas dataframe from output of for loop](https://stackoverflow.com/questions/63234176/create-pandas-dataframe-from-output-of-for-loop) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### BeautifulSoup
 <!-- bs starts -->
-* [How to extract contents of a table from webpage using Python](https://stackoverflow.com/questions/63215642/how-to-extract-contents-of-a-table-from-webpage-using-python) - 3 votes
-* [Parsing JSON out of HTML with Beautifulsoup](https://stackoverflow.com/questions/63216552/parsing-json-out-of-html-with-beautifulsoup) - 1 votes
-* [How can I scrape a lth1gt tag using BeautifulSoup Python](https://stackoverflow.com/questions/63217096/how-can-i-scrape-a-h1-tag-using-beautifulsoup-python) - 1 votes
-* [How to parse the string date value in the given scenario after the ltbrgt tag using python and beautifulsoup](https://stackoverflow.com/questions/63220276/how-to-parse-the-string-date-value-in-the-given-scenario-after-the-br-tag-u) - 0 votes
-* [How to use multiple URLs from a txt file using BeautifulSoup](https://stackoverflow.com/questions/63221653/how-to-use-multiple-urls-from-a-txt-file-using-beautifulsoup) - 0 votes
-* [Problems with web scraping the UFC site for fighter information](https://stackoverflow.com/questions/63220023/problems-with-web-scraping-the-ufc-site-for-fighter-information) - 0 votes
-* [How to scrape tbody from a collapsible table using BeautifulSoup library](https://stackoverflow.com/questions/63219169/how-to-scrape-tbody-from-a-collapsible-table-using-beautifulsoup-library) - 0 votes
-* [How Do I Find an element with 39sponsoredpost39 class in the html](https://stackoverflow.com/questions/63218510/how-do-i-find-an-element-with-sponsored-post-class-in-the-html) - 0 votes
+* [How to get my Discord bot to addremove items from a text file](https://stackoverflow.com/questions/63225782/how-to-get-my-discord-bot-to-add-remove-items-from-a-text-file) - 1 votes
+* [Beautiful Soup 4 parse line](https://stackoverflow.com/questions/63223523/beautiful-soup-4-parse-line) - 1 votes
+* [BeautifulSoup to crawl Tables with and without an ID in Python](https://stackoverflow.com/questions/63237384/beautifulsoup-to-crawl-tables-with-and-without-an-id-in-python) - 1 votes
+* [Data cleaning while Webscraping using Beautiful soup](https://stackoverflow.com/questions/63225130/data-cleaning-while-web-scraping-using-beautiful-soup) - 0 votes
+* [Special Characters in URL while getting data using requestsget](https://stackoverflow.com/questions/63233939/special-characters-in-url-while-getting-data-using-requests-get) - 0 votes
+* [Navigate website and extract phone numbers](https://stackoverflow.com/questions/63225486/navigate-website-and-extract-phone-numbers) - 0 votes
+* [Looping URLs for scraping on BeautifulSoup](https://stackoverflow.com/questions/63224730/looping-urls-for-scraping-on-beautifulsoup) - 0 votes
+* [HTML parsing divpol returns blank in Python](https://stackoverflow.com/questions/63237606/html-parsing-div-p-ol-returns-blank-in-python) - 0 votes
 <!-- bs ends -->
 </td><td valign="top" width="34%">
 
 
 ### Python code review submissions
 <!-- code_review starts -->
-* [Depth First Search Using Stack in Python](https://codereview.stackexchange.com/questions/247368/depth-first-search-using-stack-in-python) - 2 votes
-* [Euler Transform on Leibniz Series of Pi](https://codereview.stackexchange.com/questions/247389/euler-transform-on-leibniz-series-of-pi) - 1 votes
-* [Interpolation across different dataframes with Pandas](https://codereview.stackexchange.com/questions/247376/interpolation-across-different-dataframes-with-pandas) - 1 votes
-* [Python recursive function that receives list of strings and returns a nested list of anagrams](https://codereview.stackexchange.com/questions/247372/python-recursive-function-that-receives-list-of-strings-and-returns-a-nested-li) - 1 votes
-* [Designing a hashset with LinkedLists as buckets](https://codereview.stackexchange.com/questions/247390/designing-a-hashset-with-linkedlists-as-buckets) - 0 votes
+* [What is the best way to make this code dry](https://codereview.stackexchange.com/questions/247449/what-is-the-best-way-to-make-this-code-dry) - 3 votes
+* [Reddit Hangman Bot Python3](https://codereview.stackexchange.com/questions/247406/reddit-hangman-bot-python3) - 3 votes
+* [Python decorator for token for REST API client](https://codereview.stackexchange.com/questions/247451/python-decorator-for-token-for-rest-api-client) - 2 votes
+* [Fetch StackOverflow questions and save them to a markdown table](https://codereview.stackexchange.com/questions/247417/fetch-stackoverflow-questions-and-save-them-to-a-markdown-table) - 2 votes
+* [Pad233 approximants as acceleration for lebniez series of pi](https://codereview.stackexchange.com/questions/247444/pad%c3%a9-approximants-as-acceleration-for-lebniez-series-of-pi) - -3 votes
 <!-- code_review ends -->
 </td><td valign="top" width="34%">
