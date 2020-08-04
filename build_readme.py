@@ -23,7 +23,7 @@ def get_epochs(date):
     return int(start.timestamp()), int(end.timestamp())
 
 
-def fetch_questions(start, end, tag, site="stackoverflow"):
+def fetch_questions(start, end, tag, votes_threshold=1, site="stackoverflow"):
     """ Fetch questions from stackoverflowAPI. """
 
     _params = {
@@ -31,6 +31,7 @@ def fetch_questions(start, end, tag, site="stackoverflow"):
         "todate": end,
         "order": "desc",
         "sort": "votes",
+        "min": votes_threshold,
         "tagged": tag,
         "site": site,
     }
@@ -47,7 +48,7 @@ def build_table(*args, **kwargs):
                 url=item["link"],
                 score=item["score"]
             )
-            for item in chunk["items"][:8]
+            for item in chunk["items"][:5]
         )
         for chunk in args
     ]
