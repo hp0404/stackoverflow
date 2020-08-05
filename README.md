@@ -4,11 +4,11 @@
 
 ### Pandas (today)
 <!-- pandas starts -->
+* [Pandas replace last item in groupby if NaN with another colum](https://stackoverflow.com/questions/63273409/pandas-replace-last-item-in-groupby-if-nan-with-another-colum) - 4 votes
 * [How to get a series from a pandas dataframe using a series of column names](https://stackoverflow.com/questions/63269857/how-to-get-a-series-from-a-pandas-dataframe-using-a-series-of-column-names) - 3 votes
-* [How do I create a hashing algorithim based on a combination of two variables in a dataframe](https://stackoverflow.com/questions/63256534/how-do-i-create-a-hashing-algorithim-based-on-a-combination-of-two-variables-in) - 3 votes
+* [Add constant list to pandas column](https://stackoverflow.com/questions/63274430/add-constant-list-to-pandas-column) - 3 votes
+* [In pandas how to replace all zero values with the last non zero value which is not more than 4 rows up without a for loop](https://stackoverflow.com/questions/63270852/in-pandas-how-to-replace-all-zero-values-with-the-last-non-zero-value-which-is) - 2 votes
 * [Python Pandas dataframe row entry is not comparable by condition](https://stackoverflow.com/questions/63261862/python-pandas-dataframe-row-entry-is-not-comparable-by-condition) - 2 votes
-* [Calculations on extracted data from excel using python](https://stackoverflow.com/questions/63259867/calculations-on-extracted-data-from-excel-using-python) - 2 votes
-* [pandas dataframe delete groups with more than n rows in groupby](https://stackoverflow.com/questions/63259726/pandas-dataframe-delete-groups-with-more-than-n-rows-in-groupby) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
@@ -16,10 +16,10 @@
 ### BeautifulSoup (last three days)
 <!-- beautifulsoup starts -->
 * [How to extract contents of a table from webpage using Python](https://stackoverflow.com/questions/63215642/how-to-extract-contents-of-a-table-from-webpage-using-python) - 3 votes
-* [Extracting Character Roles from Tom Holland39s IMDB Page using BeautifulSoup](https://stackoverflow.com/questions/63210174/extracting-character-roles-from-tom-hollands-imdb-page-using-beautifulsoup) - 2 votes
+* [Loop through Hrefs in Python Using BeautifulSoup](https://stackoverflow.com/questions/63269263/loop-through-hrefs-in-python-using-beautifulsoup) - 2 votes
 * [How to parse the string date value in the given scenario after the ltbrgt tag using python and beautifulsoup](https://stackoverflow.com/questions/63220276/how-to-parse-the-string-date-value-in-the-given-scenario-after-the-br-tag-u) - 1 votes
+* [Python replace not replacing Beginner](https://stackoverflow.com/questions/63274083/python-replace-not-replacing-beginner) - 1 votes
 * [unable to Webscrap dropdown item Pythonbeautifulsoup](https://stackoverflow.com/questions/63260136/unable-to-webscrap-dropdown-item-pythonbeautifulsoup) - 1 votes
-* [Parsing JSON out of HTML with Beautifulsoup](https://stackoverflow.com/questions/63216552/parsing-json-out-of-html-with-beautifulsoup) - 1 votes
 <!-- beautifulsoup ends -->
 </td><td valign="top" width="34%">
 
