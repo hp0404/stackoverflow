@@ -85,9 +85,9 @@ if __name__ == "__main__":
     readme = ROOT / "README.md"
     readme_contents = readme.open().read()
     rewritten = replace_chunk(
-        readme_contents, "date", DATE.strftime("%Y-%m-%d"), inline=True
+        readme_contents, DATE.strftime("%Y-%m-%d"), "date", inline=True
     )
-    
+
     sections = (
         {'tags': "pandas", "site": "stackoverflow", "offset_days": 0},
         {'tags': "beautifulsoup", "site": "stackoverflow", "offset_days": 3},
