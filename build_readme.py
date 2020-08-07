@@ -37,7 +37,20 @@ def fetch_questions(
     votes_threshold: int = 1,
     **kwargs
 ) -> Dict[str, Any]:
-    """ Fetch questions from stackoverflow API. """
+    """ Fetch questions from stack exchange API. 
+    
+    
+    Parameters
+    ----------
+    start, end : int, epoch timestamps
+        Correspond to fromdate and todate API params and are inclusive
+    tags : str, tag(s) to look for
+        might take up to 5 tags using AND operator : "pandas;numpy"
+    site : str 
+        stackexchange site to fetch questions from 
+    votes_threshold : int 
+        min number of votes a question should have
+    """
 
     params = {
         "fromdate": start,
@@ -95,8 +108,10 @@ if __name__ == "__main__":
     )
     for section in sections:
         start, end = get_epochs(DATE, **section)
-        questions = fetch_questions(start, end, **section)
-        column = build_column(questions)
-        rewritten = replace_chunk(rewritten, column, **section)
+
+        content = build_column(
+            fetch_questions(start, end, **section)
+        )
+        rewritten = replace_chunk(rewritten, content, **section)
         with open(readme, "w") as output:
             output.write(rewritten)
