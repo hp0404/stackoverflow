@@ -8,10 +8,10 @@ Automatically updates via GitHub Action, last update: **<!-- date starts -->2020
 ### Pandas (today)
 <!-- pandas starts -->
 * [Pandas DataFrame Filling missing values in a column](https://stackoverflow.com/questions/63412782/pandas-dataframe-filling-missing-values-in-a-column) - 5 votes
+* [Turn multiple columns into two new columns in a dataframe using Pandas](https://stackoverflow.com/questions/63418487/turn-multiple-columns-into-two-new-columns-in-a-dataframe-using-pandas) - 3 votes
 * [Trying to get average spend in a certain store in a certain town](https://stackoverflow.com/questions/63411747/trying-to-get-average-spend-in-a-certain-store-in-a-certain-town) - 3 votes
-* [pandas  from a two columns dataframe to a time series multicolumned dataFrame](https://stackoverflow.com/questions/63409225/pandas-from-a-two-columns-dataframe-to-a-time-series-multi-columned-datafram) - 2 votes
-* [Filter rows from a dataframe](https://stackoverflow.com/questions/63410386/filter-rows-from-a-dataframe) - 2 votes
-* [How to split 39Hour39 and 39Minute39 from my dataset](https://stackoverflow.com/questions/63407427/how-to-split-hour-and-minute-from-my-dataset) - 2 votes
+* [In pandas can asfreq be used to select the specific times sampled](https://stackoverflow.com/questions/63415893/in-pandas-can-asfreq-be-used-to-select-the-specific-times-sampled) - 3 votes
+* [Transforming pandas dataframe  convert some row values to columns](https://stackoverflow.com/questions/63413708/transforming-pandas-dataframe-convert-some-row-values-to-columns) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
