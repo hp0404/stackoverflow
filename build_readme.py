@@ -102,16 +102,15 @@ if __name__ == "__main__":
     )
 
     sections = (
-        {'tags': "pandas", "site": "stackoverflow", "offset_days": 0},
-        {'tags': "beautifulsoup", "site": "stackoverflow", "offset_days": 3},
-        {'tags': "python", "site": "codereview", "offset_days": 7},
+        {"tags": "pandas", "site": "stackoverflow", "offset_days": 0},
+        {"tags": "beautifulsoup", "site": "stackoverflow", "offset_days": 3},
+        {"tags": "python", "site": "codereview", "offset_days": 7},
+        #{"tags": "matplotlib", "site": "stackoverflow", "offset_days": 2}
     )
     for section in sections:
         start, end = get_epochs(DATE, **section)
-
-        content = build_column(
-            fetch_questions(start, end, **section)
-        )
+        questions = fetch_questions(start, end, **section)
+        content = build_column(questions)
         rewritten = replace_chunk(rewritten, content, **section)
         with open(readme, "w") as output:
             output.write(rewritten)
