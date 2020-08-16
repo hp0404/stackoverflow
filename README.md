@@ -37,5 +37,9 @@ Automatically updates via GitHub Action, last update: **<!-- date starts -->2020
 <!-- python ends -->
 </td></tr></table>
 
-
 <a href="https://github.com/hp0404/hp0404/actions"><img src="https://github.com/hp0404/hp0404/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <p>*Inspired by  [simonw](https://github.com/simonw/simonw)*</p>
+
+<div align="right">
+<p></p> Views:
+<img src="https://profile-counter.glitch.me/hp0404/count.svg" align="center">
+</div>
