@@ -1,28 +1,28 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-08-19<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-08-20<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### Pandas (today)
 <!-- pandas starts -->
-* [What39s the computational complexity of iloc in pandas dataframes](https://stackoverflow.com/questions/63485231/whats-the-computational-complexity-of-iloc-in-pandas-dataframes) - 6 votes
-* [How can I find identical rows in different arrays regardless of element order using Numpy](https://stackoverflow.com/questions/63480874/how-can-i-find-identical-rows-in-different-arrays-regardless-of-element-order-us) - 5 votes
-* [pythonic way to rank and then merge duplicated rows in a dataframe](https://stackoverflow.com/questions/63480518/pythonic-way-to-rank-and-then-merge-duplicated-rows-in-a-dataframe) - 4 votes
-* [Fastest Way to Zero dataframecolumn in Python Pandas](https://stackoverflow.com/questions/63479014/fastest-way-to-zero-dataframe-column-in-python-pandas) - 4 votes
-* [How to check consecutive same value and count of value occur same time pandas](https://stackoverflow.com/questions/63481447/how-to-check-consecutive-same-value-and-count-of-value-occur-same-time-pandas) - 3 votes
+* [How can i smooth data in Python](https://stackoverflow.com/questions/63511090/how-can-i-smooth-data-in-python) - 3 votes
+* [Convert a pandas Series of lists into a numpy array](https://stackoverflow.com/questions/63505439/convert-a-pandas-series-of-lists-into-a-numpy-array) - 3 votes
+* [Using Ifelse to change values in Pandas](https://stackoverflow.com/questions/63512202/using-if-else-to-change-values-in-pandas) - 2 votes
+* [Delete column and make next row column](https://stackoverflow.com/questions/63509387/delete-column-and-make-next-row-column) - 2 votes
+* [DataFrame from list of multiple dictionaries where keys are index and values is column data](https://stackoverflow.com/questions/63510343/dataframe-from-list-of-multiple-dictionaries-where-keys-are-index-and-values-is) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### BeautifulSoup (last three days)
 <!-- beautifulsoup starts -->
-* [The following error pops when I try to scrap web data  module 39html5libtreebuilders39 has no attribute 39_base39](https://stackoverflow.com/questions/63438909/the-following-error-pops-when-i-try-to-scrap-web-data-module-html5lib-treebui) - 3 votes
-* [Beautiful Soup Not Finding Table](https://stackoverflow.com/questions/63433853/beautiful-soup-not-finding-table) - 3 votes
-* [Getting lyrics of song from genius lyrics with beautifulsoup python 38](https://stackoverflow.com/questions/63436239/getting-lyrics-of-song-from-genius-lyrics-with-beautifulsoup-python-3-8) - 2 votes
-* [Python Beautifulsoup get href tag in a tag](https://stackoverflow.com/questions/63449111/python-beautifulsoup-get-href-tag-in-a-tag) - 1 votes
-* [strip and replace are not taking off quotnquot](https://stackoverflow.com/questions/63441469/strip-and-replace-are-not-taking-off-n) - 1 votes
+* [Python Beautifulsoup get href tag in a tag](https://stackoverflow.com/questions/63449111/python-beautifulsoup-get-href-tag-in-a-tag) - 2 votes
+* [Extracting data from Script tags in HTML using Python](https://stackoverflow.com/questions/63461993/extracting-data-from-script-tags-in-html-using-python) - 1 votes
+* [How to extract json within the html comment tag using BeautifulSoup](https://stackoverflow.com/questions/63511163/how-to-extract-json-within-the-html-comment-tag-using-beautifulsoup) - 1 votes
+* [Beautiful Soup and Pandas How to assign values to dataframe columns](https://stackoverflow.com/questions/63495724/beautiful-soup-and-pandas-how-to-assign-values-to-dataframe-columns) - 1 votes
+* [Beautifulsoup Match Empty Class](https://stackoverflow.com/questions/63494930/beautifulsoup-match-empty-class) - 1 votes
 <!-- beautifulsoup ends -->
 </td><td valign="top" width="34%">
 
@@ -30,10 +30,10 @@ Automatically updates via GitHub Action, last update: **<!-- date starts -->2020
 ### Сode review (last week)
 <!-- python starts -->
 * [Coin Flip Streaks  correct streak condition](https://codereview.stackexchange.com/questions/247936/coin-flip-streaks-correct-streak-condition) - 8 votes
-* [A Server and Client Chatroom Using Sockets and Threading](https://codereview.stackexchange.com/questions/247815/a-server-and-client-chatroom-using-sockets-and-threading) - 8 votes
 * [How to clean the indexes and ideally not create an additional array](https://codereview.stackexchange.com/questions/247981/how-to-clean-the-indexes-and-ideally-not-create-an-additional-array) - 7 votes
+* [A simple word autocompleter meant for use in a shell](https://codereview.stackexchange.com/questions/248100/a-simple-word-autocompleter-meant-for-use-in-a-shell) - 7 votes
 * [Largest odd number](https://codereview.stackexchange.com/questions/248102/largest-odd-number) - 6 votes
-* [Simple python string to list parser](https://codereview.stackexchange.com/questions/247798/simple-python-string-to-list-parser) - 6 votes
+* [Python Morse Code Translator](https://codereview.stackexchange.com/questions/248068/python-morse-code-translator) - 6 votes
 <!-- python ends -->
 </td></tr></table>
 
