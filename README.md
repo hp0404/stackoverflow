@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-08-27<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-08-28<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### Pandas (today)
 <!-- pandas starts -->
-* [How do I create a signature numerical for OneHotEncoded values and hashlibs in python](https://stackoverflow.com/questions/63608539/how-do-i-create-a-signature-numerical-for-onehotencoded-values-and-hashlibs-in-p) - 4 votes
-* [How can I generate a pandas date range with a frequency of Tue to Sat inclusive](https://stackoverflow.com/questions/63621747/how-can-i-generate-a-pandas-date-range-with-a-frequency-of-tue-to-sat-inclusive) - 3 votes
-* [Find bundles of repeating values and perform operations on them separately](https://stackoverflow.com/questions/63618938/find-bundles-of-repeating-values-and-perform-operations-on-them-separately) - 2 votes
-* [Counting number of certain values in each column using pandas and collections](https://stackoverflow.com/questions/63609435/counting-number-of-certain-values-in-each-column-using-pandas-and-collections) - 2 votes
-* [Replace NaN with existing value of the group](https://stackoverflow.com/questions/63609017/replace-nan-with-existing-value-of-the-group) - 2 votes
+* [How to get top n rows with a max limit by group in pandas](https://stackoverflow.com/questions/63639543/how-to-get-top-n-rows-with-a-max-limit-by-group-in-pandas) - 3 votes
+* [How do i get an aggregate percentage on two concatenated codes denoted by a value in a pandas dataframe](https://stackoverflow.com/questions/63638948/how-do-i-get-an-aggregate-percentage-on-two-concatenated-codes-denoted-by-a-valu) - 3 votes
+* [I want to add a new DataFrame column based on previous column such that if previous column element matches with list value change the value](https://stackoverflow.com/questions/63636992/i-want-to-add-a-new-dataframe-column-based-on-previous-column-such-that-if-previ) - 2 votes
+* [Pandas column where each value depends on another df query](https://stackoverflow.com/questions/63629740/pandas-column-where-each-value-depends-on-another-df-query) - 2 votes
+* [Filtering for 39contains value39 in a dataset in Python](https://stackoverflow.com/questions/63628564/filtering-for-contains-value-in-a-dataset-in-python) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
@@ -30,10 +30,10 @@ Automatically updates via GitHub Action, last update: **<!-- date starts -->2020
 ### Сode review (last week)
 <!-- python starts -->
 * [Stacking frames of a video file horizontally into a single image](https://codereview.stackexchange.com/questions/248338/stacking-frames-of-a-video-file-horizontally-into-a-single-image) - 9 votes
-* [Improving a Medicare Beneficiary Identifier MBI generator](https://codereview.stackexchange.com/questions/248438/improving-a-medicare-beneficiary-identifier-mbi-generator) - 6 votes
+* [Improving a Medicare Beneficiary Identifier MBI generator](https://codereview.stackexchange.com/questions/248438/improving-a-medicare-beneficiary-identifier-mbi-generator) - 7 votes
+* [LIFE in Python 3](https://codereview.stackexchange.com/questions/248491/life-in-python-3) - 5 votes
 * [Quadratic Expression Factorer and Solver](https://codereview.stackexchange.com/questions/248281/quadratic-expression-factorer-and-solver) - 5 votes
-* [LIFE in Python 3](https://codereview.stackexchange.com/questions/248491/life-in-python-3) - 4 votes
-* [Concatenate several CSV files in a single dataframe](https://codereview.stackexchange.com/questions/248359/concatenate-several-csv-files-in-a-single-dataframe) - 4 votes
+* [Concatenate several CSV files in a single dataframe](https://codereview.stackexchange.com/questions/248359/concatenate-several-csv-files-in-a-single-dataframe) - 5 votes
 <!-- python ends -->
 </td></tr></table>
 
