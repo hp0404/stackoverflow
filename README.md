@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-08-30<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-08-31<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### Pandas (today)
 <!-- pandas starts -->
-* [How to annotate pandas datetime format in Matplotlib like Plotly](https://stackoverflow.com/questions/63658141/how-to-annotate-pandas-date-time-format-in-matplotlib-like-plotly) - 3 votes
-* [Expand a column of lists into multiple rows in Pandas](https://stackoverflow.com/questions/63655905/expand-a-column-of-lists-into-multiple-rows-in-pandas) - 3 votes
-* [Converting python list of delimited items in to a pandas data frame](https://stackoverflow.com/questions/63653521/converting-python-list-of-delimited-items-in-to-a-pandas-data-frame) - 2 votes
-* [Looking for a faster way to replace year in pandas DatetimeIndex](https://stackoverflow.com/questions/63657368/looking-for-a-faster-way-to-replace-year-in-pandas-datetimeindex) - 2 votes
-* [ImportError Plotly express requires pandas to be installed](https://stackoverflow.com/questions/63656891/importerror-plotly-express-requires-pandas-to-be-installed) - 2 votes
+* [Efficiently finding consecutive streaks in a pandas DataFrame column](https://stackoverflow.com/questions/63672218/efficiently-finding-consecutive-streaks-in-a-pandas-dataframe-column) - 5 votes
+* [How to ignore min amp max value in group when calculating weighted mean by group in Pandas](https://stackoverflow.com/questions/63676201/how-to-ignore-min-max-value-in-group-when-calculating-weighted-mean-by-group-i) - 4 votes
+* [Average over fixed timewindow for each row](https://stackoverflow.com/questions/63670342/average-over-fixed-time-window-for-each-row) - 3 votes
+* [Pandas  Count consecutive rows with column values greater than a threshold limit](https://stackoverflow.com/questions/63673211/pandas-count-consecutive-rows-with-column-values-greater-than-a-threshold-limi) - 3 votes
+* [How do I label a Pandas datetime row in a new column for every 15 minute interval](https://stackoverflow.com/questions/63665428/how-do-i-label-a-pandas-datetime-row-in-a-new-column-for-every-15-minute-inter) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
@@ -29,9 +29,9 @@ Automatically updates via GitHub Action, last update: **<!-- date starts -->2020
 
 ### Сode review (last week)
 <!-- python starts -->
-* [Fraud detection database API server](https://codereview.stackexchange.com/questions/248587/fraud-detection-database-api-server) - 13 votes
-* [Stacking frames of a video file horizontally into a single image](https://codereview.stackexchange.com/questions/248338/stacking-frames-of-a-video-file-horizontally-into-a-single-image) - 9 votes
+* [Fraud detection database API server](https://codereview.stackexchange.com/questions/248587/fraud-detection-database-api-server) - 18 votes
 * [Improving a Medicare Beneficiary Identifier MBI generator](https://codereview.stackexchange.com/questions/248438/improving-a-medicare-beneficiary-identifier-mbi-generator) - 7 votes
+* [Organize if else block](https://codereview.stackexchange.com/questions/248673/organize-if-else-block) - 5 votes
 * [LIFE in Python 3](https://codereview.stackexchange.com/questions/248491/life-in-python-3) - 5 votes
 * [Is this an improvement or did I overcomplicate this script for producing crystal lattices](https://codereview.stackexchange.com/questions/248598/is-this-an-improvement-or-did-i-over-complicate-this-script-for-producing-crysta) - 5 votes
 <!-- python ends -->
