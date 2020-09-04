@@ -103,9 +103,9 @@ if __name__ == "__main__":
 
     sections = (
         {"tags": "pandas", "site": "stackoverflow", "offset_days": 0},
-        {"tags": "beautifulsoup", "site": "stackoverflow", "offset_days": 3},
+        # {"tags": "beautifulsoup", "site": "stackoverflow", "offset_days": 3},
         {"tags": "python", "site": "codereview", "offset_days": 7},
-        #{"tags": "matplotlib", "site": "stackoverflow", "offset_days": 2}
+        {"tags": "matplotlib", "site": "stackoverflow", "offset_days": 2}
     )
     for section in sections:
         start, end = get_epochs(DATE, **section)

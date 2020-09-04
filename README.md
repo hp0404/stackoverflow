@@ -16,14 +16,14 @@ Automatically updates via GitHub Action, last update: **<!-- date starts -->2020
 </td><td valign="top" width="34%">
 
 
-### BeautifulSoup (last three days)
-<!-- beautifulsoup starts -->
+### Matplotlib (last two days)
+<!-- matplotlib starts -->
 * [Extracting href from 39a39 element with text only attribute](https://stackoverflow.com/questions/63692383/extracting-href-from-a-element-with-text-only-attribute) - 3 votes
 * [Beautiful Soap find  try different class elements with possible 39NoneType39 errors](https://stackoverflow.com/questions/63725601/beautiful-soap-find-try-different-class-elements-with-possible-nonetype-erro) - 3 votes
 * [Python Extract different tables and merge them into a single CSV file](https://stackoverflow.com/questions/63706257/python-extract-different-tables-and-merge-them-into-a-single-csv-file) - 2 votes
 * [Python Beautifulsoup htmltableextraction issue](https://stackoverflow.com/questions/63704822/python-beautifulsoup-htmltableextraction-issue) - 2 votes
 * [Python Beautiful Soup  Removed Tag Still Influencing Output](https://stackoverflow.com/questions/63725544/python-beautiful-soup-removed-tag-still-influencing-output) - 2 votes
-<!-- beautifulsoup ends -->
+<!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
