@@ -1,28 +1,28 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-09-11<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-09-12<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### Pandas (today)
 <!-- pandas starts -->
-* [Compare current row value to previous row values](https://stackoverflow.com/questions/63840851/compare-current-row-value-to-previous-row-values) - 6 votes
-* [Pandas in df column extract string after colon if colon exits if not keep text](https://stackoverflow.com/questions/63840249/pandas-in-df-column-extract-string-after-colon-if-colon-exits-if-not-keep-text) - 4 votes
-* [Pandas group by a specific value in any of given columns](https://stackoverflow.com/questions/63844487/pandas-group-by-a-specific-value-in-any-of-given-columns) - 4 votes
-* [Oversampling a sparse dataset in Python](https://stackoverflow.com/questions/63851719/oversampling-a-sparse-dataset-in-python) - 2 votes
-* [How to plot bar stack in Pandas](https://stackoverflow.com/questions/63849660/how-to-plot-bar-stack-in-pandas) - 2 votes
+* [Using for loop in Python to add leading zeros to date column](https://stackoverflow.com/questions/63861906/using-for-loop-in-python-to-add-leading-zeros-to-date-column) - 4 votes
+* [Threshold a variable based on the average of values above that threshold](https://stackoverflow.com/questions/63855934/threshold-a-variable-based-on-the-average-of-values-above-that-threshold) - 3 votes
+* [Drop boolean rows from dataframe](https://stackoverflow.com/questions/63862272/drop-boolean-rows-from-dataframe) - 2 votes
+* [python How to get rid of the redundant xaxis ticks plotted by Plotly](https://stackoverflow.com/questions/63860454/python-how-to-get-rid-of-the-redundant-xaxis-ticks-plotted-by-plotly) - 2 votes
+* [Summary stats for wide data](https://stackoverflow.com/questions/63859501/summary-stats-for-wide-data) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### Matplotlib (last two days)
 <!-- matplotlib starts -->
-* [What exactly is happening under the hood in Normalized colour mapping in matlpotlib](https://stackoverflow.com/questions/63805594/what-exactly-is-happening-under-the-hood-in-normalized-colour-mapping-in-matlpot) - 3 votes
 * [How to use matplotlib to plot a function with the argument on an axis](https://stackoverflow.com/questions/63837586/how-to-use-matplotlib-to-plot-a-function-with-the-argument-on-an-axis) - 2 votes
-* [Advanced horizontal bar chart with Python](https://stackoverflow.com/questions/63843796/advanced-horizontal-bar-chart-with-python) - 2 votes
+* [Vertical quotbrokenquot bar plot with arrays as bar heights and color coding](https://stackoverflow.com/questions/63859980/vertical-broken-bar-plot-with-arrays-as-bar-heights-and-color-coding) - 2 votes
 * [How to plot gradient vector on contour plot in python](https://stackoverflow.com/questions/63843310/how-to-plot-gradient-vector-on-contour-plot-in-python) - 2 votes
-* [seaborn quotkde jointplotquot doesn39t have color mapping in the latest version 0110](https://stackoverflow.com/questions/63842336/seaborn-kde-jointplot-doesnt-have-color-mapping-in-the-latest-version-0-11-0) - 2 votes
+* [Python matplotlib scatter plot import colormap list](https://stackoverflow.com/questions/63856622/python-matplotlib-scatter-plot-import-colormap-list) - 2 votes
+* [clustering multiple categorical columns to make time series line plot in matplotlib](https://stackoverflow.com/questions/63851071/clustering-multiple-categorical-columns-to-make-time-series-line-plot-in-matplot) - 2 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
@@ -32,7 +32,7 @@ Automatically updates via GitHub Action, last update: **<!-- date starts -->2020
 * [ATM code for account balance withdrawals and deposits](https://codereview.stackexchange.com/questions/249138/atm-code-for-account-balance-withdrawals-and-deposits) - 10 votes
 * [Implementation of Dijkstra39s algorithm in Python](https://codereview.stackexchange.com/questions/249011/implementation-of-dijkstras-algorithm-in-python) - 10 votes
 * [Print a word one character per line backwards](https://codereview.stackexchange.com/questions/249015/print-a-word-one-character-per-line-backwards) - 9 votes
-* [Xero API Client in Django](https://codereview.stackexchange.com/questions/248920/xero-api-client-in-django) - 6 votes
+* [Python risk game](https://codereview.stackexchange.com/questions/249260/python-risk-game) - 7 votes
 * [First password generator in Python](https://codereview.stackexchange.com/questions/249174/first-password-generator-in-python) - 5 votes
 <!-- python ends -->
 </td></tr></table>
