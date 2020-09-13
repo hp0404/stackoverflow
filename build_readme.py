@@ -1,6 +1,7 @@
 import re
 import datetime
 import requests
+import sqlite_utils
 from pathlib import Path
 from typing import Any, Dict, List, Tuple
 
@@ -93,6 +94,50 @@ def replace_chunk(
     return r.sub(chunk, content)
 
 
+def upsert_db(data: List[Dict[str, Any]]):
+    """ update-or-insert questions to sqlite db. """
+    questions = data["items"][:5]
+    timestamp = f"{DATE:%Y-%m-%d %H:%M}"
+    convert_epoch = datetime.datetime.utcfromtimestamp
+
+    db = sqlite_utils.Database(ROOT / "stackoverflow.db")
+    db["questions"].upsert_all(
+            (
+                {
+                    "question_id": row["question_id"],
+                    "title": row["title"],
+                    "tags": ",".join(row["tags"]),
+                    "owner_id": row["owner"]["user_id"],
+                    "is_answered": row["is_answered"],
+                    "view_count": row["view_count"],
+                    "answer_count": row["answer_count"],
+                    "score": row["score"],
+                    "site": row["link"].split(".")[0].split("/")[-1],
+                    "link": row["link"],
+                    "creation_date": f'{convert_epoch(row["creation_date"]):%Y-%m-%d %H:%M}',
+                    "inserted_date": timestamp
+                }
+                for row in questions
+            ),
+            pk="question_id"
+        )
+
+    db["users"].upsert_all(
+            (
+                {
+                    "user_id": row["owner"]["user_id"],
+                    "user_type": row["owner"]["user_type"],
+                    "display_name": row["owner"]["display_name"],
+                    "link": row["owner"]["link"],
+                    "site": row["link"].split(".")[0].split("/")[-1],
+                    "inserted_date": timestamp 
+                }
+                for row in questions
+            ),
+            pk="user_id"
+        )
+
+
 if __name__ == "__main__":
     
     readme = ROOT / "README.md"
@@ -103,14 +148,18 @@ if __name__ == "__main__":
 
     sections = (
         {"tags": "pandas", "site": "stackoverflow", "offset_days": 0},
-        # {"tags": "beautifulsoup", "site": "stackoverflow", "offset_days": 3},
         {"tags": "python", "site": "codereview", "offset_days": 7},
         {"tags": "matplotlib", "site": "stackoverflow", "offset_days": 2}
     )
+
     for section in sections:
         start, end = get_epochs(DATE, **section)
         questions = fetch_questions(start, end, **section)
         content = build_column(questions)
         rewritten = replace_chunk(rewritten, content, **section)
+        
         with open(readme, "w") as output:
             output.write(rewritten)
+
+        upsert_db(questions)
+        
