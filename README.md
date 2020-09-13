@@ -7,11 +7,11 @@ Automatically updates via GitHub Action, last update: **<!-- date starts -->2020
 
 ### Pandas (today)
 <!-- pandas starts -->
+* [change specific values in dataframe if one cell in a row is null](https://stackoverflow.com/questions/63872530/change-specific-values-in-dataframe-if-one-cell-in-a-row-is-null) - 5 votes
+* [Change values in one dataframe if values appear in another dataframe based on one column value](https://stackoverflow.com/questions/63872223/change-values-in-one-dataframe-if-values-appear-in-another-dataframe-based-on-on) - 2 votes
+* [Defining a new word within frequency analysis](https://stackoverflow.com/questions/63875764/defining-a-new-word-within-frequency-analysis) - 2 votes
 * [How to make a function in pandas that fills missing numbers in multiple series with different numeric scales that outputs a constant column](https://stackoverflow.com/questions/63867276/how-to-make-a-function-in-pandas-that-fills-missing-numbers-in-multiple-series-w) - 2 votes
 * [Pandas dataframe to nested dictionary with a name space as None](https://stackoverflow.com/questions/63866525/pandas-dataframe-to-nested-dictionary-with-a-name-space-as-none) - 2 votes
-* [How to convert values from a string into columns using pandas](https://stackoverflow.com/questions/63865172/how-to-convert-values-from-a-string-into-columns-using-pandas) - 1 votes
-* [Python save stock data to excel file](https://stackoverflow.com/questions/63870450/python-save-stock-data-to-excel-file) - 1 votes
-* [Create new columns based on distinct row values and calculate frequency of every value](https://stackoverflow.com/questions/63869975/create-new-columns-based-on-distinct-row-values-and-calculate-frequency-of-every) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
@@ -32,7 +32,7 @@ Automatically updates via GitHub Action, last update: **<!-- date starts -->2020
 * [ATM code for account balance withdrawals and deposits](https://codereview.stackexchange.com/questions/249138/atm-code-for-account-balance-withdrawals-and-deposits) - 10 votes
 * [Implementation of Dijkstra39s algorithm in Python](https://codereview.stackexchange.com/questions/249011/implementation-of-dijkstras-algorithm-in-python) - 10 votes
 * [Print a word one character per line backwards](https://codereview.stackexchange.com/questions/249015/print-a-word-one-character-per-line-backwards) - 9 votes
-* [Python risk game](https://codereview.stackexchange.com/questions/249260/python-risk-game) - 8 votes
+* [Python risk game](https://codereview.stackexchange.com/questions/249260/python-risk-game) - 9 votes
 * [First password generator in Python](https://codereview.stackexchange.com/questions/249174/first-password-generator-in-python) - 5 votes
 <!-- python ends -->
 </td></tr></table>
