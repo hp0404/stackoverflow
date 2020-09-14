@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-09-13<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-09-14<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### Pandas (today)
 <!-- pandas starts -->
-* [change specific values in dataframe if one cell in a row is null](https://stackoverflow.com/questions/63872530/change-specific-values-in-dataframe-if-one-cell-in-a-row-is-null) - 5 votes
-* [Change values in one dataframe if values appear in another dataframe based on one column value](https://stackoverflow.com/questions/63872223/change-values-in-one-dataframe-if-values-appear-in-another-dataframe-based-on-on) - 2 votes
-* [Defining a new word within frequency analysis](https://stackoverflow.com/questions/63875764/defining-a-new-word-within-frequency-analysis) - 2 votes
-* [How to make a function in pandas that fills missing numbers in multiple series with different numeric scales that outputs a constant column](https://stackoverflow.com/questions/63867276/how-to-make-a-function-in-pandas-that-fills-missing-numbers-in-multiple-series-w) - 2 votes
-* [Pandas dataframe to nested dictionary with a name space as None](https://stackoverflow.com/questions/63866525/pandas-dataframe-to-nested-dictionary-with-a-name-space-as-none) - 2 votes
+* [Pandas Split column into multiple columns by multiple string delimiters](https://stackoverflow.com/questions/63879459/pandas-split-column-into-multiple-columns-by-multiple-string-delimiters) - 4 votes
+* [Expand pandas dataframe and consolidate columns](https://stackoverflow.com/questions/63877488/expand-pandas-dataframe-and-consolidate-columns) - 4 votes
+* [Find the top 5 values based on the sum in the last column and last row](https://stackoverflow.com/questions/63885941/find-the-top-5-values-based-on-the-sum-in-the-last-column-and-last-row) - 4 votes
+* [How would I count all unique values of a dataframe in python without double counting](https://stackoverflow.com/questions/63886534/how-would-i-count-all-unique-values-of-a-dataframe-in-python-without-double-coun) - 3 votes
+* [count values of each month fill NaN if under certain limit](https://stackoverflow.com/questions/63881236/count-values-of-each-month-fill-nan-if-under-certain-limit) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### Matplotlib (last two days)
 <!-- matplotlib starts -->
-* [strange shape of the boxplot using matplotlib](https://stackoverflow.com/questions/63868799/strange-shape-of-the-boxplot-using-matplotlib) - 3 votes
+* [strange shape of the boxplot using matplotlib](https://stackoverflow.com/questions/63868799/strange-shape-of-the-boxplot-using-matplotlib) - 4 votes
 * [Vertical quotbrokenquot bar plot with arrays as bar heights and color coding](https://stackoverflow.com/questions/63859980/vertical-broken-bar-plot-with-arrays-as-bar-heights-and-color-coding) - 3 votes
-* [How to plot gradient vector on contour plot in python](https://stackoverflow.com/questions/63843310/how-to-plot-gradient-vector-on-contour-plot-in-python) - 3 votes
 * [Python matplotlib scatter plot import colormap list](https://stackoverflow.com/questions/63856622/python-matplotlib-scatter-plot-import-colormap-list) - 3 votes
-* [clustering multiple categorical columns to make time series line plot in matplotlib](https://stackoverflow.com/questions/63851071/clustering-multiple-categorical-columns-to-make-time-series-line-plot-in-matplot) - 3 votes
+* [Drawing arrows between two tables as an image Python](https://stackoverflow.com/questions/63866035/drawing-arrows-between-two-tables-as-an-image-python) - 3 votes
+* [How do I create a Matplotlib bar chart with categories](https://stackoverflow.com/questions/63886711/how-do-i-create-a-matplotlib-bar-chart-with-categories) - 2 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### Сode review (last week)
 <!-- python starts -->
+* [Python risk game](https://codereview.stackexchange.com/questions/249260/python-risk-game) - 11 votes
 * [ATM code for account balance withdrawals and deposits](https://codereview.stackexchange.com/questions/249138/atm-code-for-account-balance-withdrawals-and-deposits) - 10 votes
-* [Implementation of Dijkstra39s algorithm in Python](https://codereview.stackexchange.com/questions/249011/implementation-of-dijkstras-algorithm-in-python) - 10 votes
 * [Print a word one character per line backwards](https://codereview.stackexchange.com/questions/249015/print-a-word-one-character-per-line-backwards) - 9 votes
-* [Python risk game](https://codereview.stackexchange.com/questions/249260/python-risk-game) - 9 votes
 * [First password generator in Python](https://codereview.stackexchange.com/questions/249174/first-password-generator-in-python) - 5 votes
+* [Python 3 Curses Terminal Tetris](https://codereview.stackexchange.com/questions/249326/python-3-curses-terminal-tetris) - 5 votes
 <!-- python ends -->
 </td></tr></table>
 
