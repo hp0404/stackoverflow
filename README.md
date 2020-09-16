@@ -1,28 +1,28 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-09-15<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-09-16<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### Pandas (today)
 <!-- pandas starts -->
-* [Pivoting pandas dataframe by rank on id](https://stackoverflow.com/questions/63897557/pivoting-pandas-dataframe-by-rank-on-id) - 4 votes
-* [How to get second highest value in a pandas column for a certain ID](https://stackoverflow.com/questions/63906205/how-to-get-second-highest-value-in-a-pandas-column-for-a-certain-id) - 4 votes
-* [regex change quotwhite spacequot chracter and  character to null](https://stackoverflow.com/questions/63899277/regex-change-white-space-chracter-and-character-to-null) - 3 votes
-* [Pandas Get N largest values and insert NaN values if there are no elements](https://stackoverflow.com/questions/63904994/pandas-get-n-largest-values-and-insert-nan-values-if-there-are-no-elements) - 2 votes
-* [Pandas sum columns on matching dates in multiple csv files](https://stackoverflow.com/questions/63900444/pandas-sum-columns-on-matching-dates-in-multiple-csv-files) - 2 votes
+* [Reading bigint int8 column data from Redshift without Scientific Notation using Pandas](https://stackoverflow.com/questions/63920186/reading-bigint-int8-column-data-from-redshift-without-scientific-notation-usin) - 4 votes
+* [Identify first row amongst similar set of data from pandas dataframe](https://stackoverflow.com/questions/63920408/identify-first-row-amongst-similar-set-of-data-from-pandas-dataframe) - 3 votes
+* [Conditional Slicing from Columns in Pandas MultiIndex](https://stackoverflow.com/questions/63925877/conditional-slicing-from-columns-in-pandas-multiindex) - 3 votes
+* [Given any lat long coordinates what is the fastest way to find the closest coordinates on a list](https://stackoverflow.com/questions/63922133/given-any-lat-long-coordinates-what-is-the-fastest-way-to-find-the-closest-c) - 3 votes
+* [Conversion between quotpandasSeriesquot to numpy array](https://stackoverflow.com/questions/63920897/conversion-between-pandas-series-to-numpy-array) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### Matplotlib (last two days)
 <!-- matplotlib starts -->
-* [strange shape of the boxplot using matplotlib](https://stackoverflow.com/questions/63868799/strange-shape-of-the-boxplot-using-matplotlib) - 4 votes
-* [Drawing arrows between two tables as an image Python](https://stackoverflow.com/questions/63866035/drawing-arrows-between-two-tables-as-an-image-python) - 4 votes
-* [How do I create a Matplotlib bar chart with categories](https://stackoverflow.com/questions/63886711/how-do-i-create-a-matplotlib-bar-chart-with-categories) - 2 votes
-* [How to load a text file and plot multiple columns in a single figure](https://stackoverflow.com/questions/63886233/how-to-load-a-text-file-and-plot-multiple-columns-in-a-single-figure) - 2 votes
-* [Histogram with two variable in matplotlib](https://stackoverflow.com/questions/63879745/histogram-with-two-variable-in-matplotlib) - 2 votes
+* [How do I create a Matplotlib bar chart with categories](https://stackoverflow.com/questions/63886711/how-do-i-create-a-matplotlib-bar-chart-with-categories) - 3 votes
+* [How to load a text file and plot multiple columns in a single figure](https://stackoverflow.com/questions/63886233/how-to-load-a-text-file-and-plot-multiple-columns-in-a-single-figure) - 3 votes
+* [Histogram with two variable in matplotlib](https://stackoverflow.com/questions/63879745/histogram-with-two-variable-in-matplotlib) - 3 votes
+* [Animate scatter points and line in matplotlib](https://stackoverflow.com/questions/63919284/animate-scatter-points-and-line-in-matplotlib) - 2 votes
+* [Animate arrows in matplotlib](https://stackoverflow.com/questions/63914377/animate-arrows-in-matplotlib) - 2 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
@@ -31,9 +31,9 @@ Automatically updates via GitHub Action, last update: **<!-- date starts -->2020
 <!-- python starts -->
 * [Python Risk game](https://codereview.stackexchange.com/questions/249260/python-risk-game) - 12 votes
 * [ATM code for account balance withdrawals and deposits](https://codereview.stackexchange.com/questions/249138/atm-code-for-account-balance-withdrawals-and-deposits) - 10 votes
+* [Python 3 Curses Terminal Tetris](https://codereview.stackexchange.com/questions/249326/python-3-curses-terminal-tetris) - 6 votes
+* [Betting odds tracker](https://codereview.stackexchange.com/questions/249183/betting-odds-tracker) - 6 votes
 * [First password generator in Python](https://codereview.stackexchange.com/questions/249174/first-password-generator-in-python) - 5 votes
-* [Return the indexs of two numbers that total a given number](https://codereview.stackexchange.com/questions/249366/return-the-indexs-of-two-numbers-that-total-a-given-number) - 5 votes
-* [Python 3 Curses Terminal Tetris](https://codereview.stackexchange.com/questions/249326/python-3-curses-terminal-tetris) - 5 votes
 <!-- python ends -->
 </td></tr></table>
 
