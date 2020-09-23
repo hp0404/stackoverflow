@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-09-22<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-09-23<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### Pandas (today)
 <!-- pandas starts -->
-* [Create a dataframe based in common timestamps of multiple dataframes](https://stackoverflow.com/questions/64013456/create-a-dataframe-based-in-common-timestamps-of-multiple-dataframes) - 3 votes
-* [From a pandas column of lists how to remove all values not in another column of list](https://stackoverflow.com/questions/64001496/from-a-pandas-column-of-lists-how-to-remove-all-values-not-in-another-column-of) - 3 votes
-* [Create a distance matrix from Pandas Dataframe using a bespoke distance function](https://stackoverflow.com/questions/64008893/create-a-distance-matrix-from-pandas-dataframe-using-a-bespoke-distance-function) - 3 votes
-* [Pandas How to assign the value to the first row of a group after groupby](https://stackoverflow.com/questions/64002415/pandas-how-to-assign-the-value-to-the-first-row-of-a-group-after-groupby) - 3 votes
-* [Network Analysis with Plotly showing hover and text information](https://stackoverflow.com/questions/64002898/network-analysis-with-plotly-showing-hover-and-text-information) - 3 votes
+* [fill values after condition with NaN](https://stackoverflow.com/questions/64025109/fill-values-after-condition-with-nan) - 4 votes
+* [creating a json object from pandas dataframe](https://stackoverflow.com/questions/64022093/creating-a-json-object-from-pandas-dataframe) - 4 votes
+* [How to add difference row to each index value](https://stackoverflow.com/questions/64030376/how-to-add-difference-row-to-each-index-value) - 3 votes
+* [pdcut nonuniform bin intervals](https://stackoverflow.com/questions/64028406/pd-cut-non-uniform-bin-intervals) - 3 votes
+* [Using slice on DaraFrameGroupBy](https://stackoverflow.com/questions/64027054/using-slice-on-daraframegroupby) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### Matplotlib (last two days)
 <!-- matplotlib starts -->
-* [How to convert a dataframe from long to wide with values grouped by year in the index](https://stackoverflow.com/questions/63975678/how-to-convert-a-dataframe-from-long-to-wide-with-values-grouped-by-year-in-the) - 5 votes
-* [Matplotlib trying to draw a circle though basic equation  x2  y2  9](https://stackoverflow.com/questions/63975431/matplotlib-trying-to-draw-a-circle-though-basic-equation-x2-y2-9) - 5 votes
+* [Matplotlib Can39t change the ticks on second y axis](https://stackoverflow.com/questions/64029924/matplotlib-cant-change-the-ticks-on-second-y-axis) - 4 votes
 * [date and graph alignment  Economic analysis](https://stackoverflow.com/questions/63990443/date-and-graph-alignment-economic-analysis) - 3 votes
-* [DotplotGgplot with Pandas DataFrame Column names as xvalues and and the corresponding columns values as yvalues](https://stackoverflow.com/questions/63977495/dot-plot-ggplot-with-pandas-dataframe-column-names-as-x-values-and-and-the-corr) - 3 votes
 * [How can I reduce the amount of decimals in contour plot legend](https://stackoverflow.com/questions/64005585/how-can-i-reduce-the-amount-of-decimals-in-contour-plot-legend) - 2 votes
+* [How to convert Pandas Timestamp to Matplotlib float format](https://stackoverflow.com/questions/64004456/how-to-convert-pandas-timestamp-to-matplotlib-float-format) - 2 votes
+* [python matplotlib  How to make sure x axis values to be the same of the source data](https://stackoverflow.com/questions/64020663/python-matplotlib-how-to-make-sure-x-axis-values-to-be-the-same-of-the-source) - 2 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### Сode review (last week)
 <!-- python starts -->
-* [Chaining list operations in Python](https://codereview.stackexchange.com/questions/249610/chaining-list-operations-in-python) - 10 votes
+* [Chaining list operations in Python](https://codereview.stackexchange.com/questions/249610/chaining-list-operations-in-python) - 11 votes
 * [Priority based categorization using pandaspython](https://codereview.stackexchange.com/questions/249474/priority-based-categorization-using-pandas-python) - 8 votes
 * [Project Euler 645  speed up MonteCarlo simulation in Python](https://codereview.stackexchange.com/questions/249427/project-euler-645-speed-up-monte-carlo-simulation-in-python) - 7 votes
+* [Testing lower and upper bound values in Python](https://codereview.stackexchange.com/questions/249547/testing-lower-and-upper-bound-values-in-python) - 5 votes
 * [Complex Numbers amp Unit Tests in Python](https://codereview.stackexchange.com/questions/249460/complex-numbers-unit-tests-in-python) - 5 votes
-* [Testing lower and upper bound values in Python](https://codereview.stackexchange.com/questions/249547/testing-lower-and-upper-bound-values-in-python) - 4 votes
 <!-- python ends -->
 </td></tr></table>
 
