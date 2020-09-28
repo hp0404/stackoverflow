@@ -148,8 +148,8 @@ if __name__ == "__main__":
 
     sections = (
         {"tags": "pandas", "site": "stackoverflow", "offset_days": 0},
-        {"tags": "python", "site": "codereview", "offset_days": 7},
-        {"tags": "matplotlib", "site": "stackoverflow", "offset_days": 2}
+        {"tags": "ggplot2", "site": "stackoverflow", "offset_days": 0},
+        {"tags": "matplotlib", "site": "stackoverflow", "offset_days": 0}
     )
 
     for section in sections:
