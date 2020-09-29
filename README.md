@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-09-28<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-09-29<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Partial fraction decomposition](https://stackoverflow.com/questions/64101194/partial-fraction-decomposition) - 7 votes
-* [How to get the most frequent row in table](https://stackoverflow.com/questions/64104341/how-to-get-the-most-frequent-row-in-table) - 4 votes
-* [Python How to find most frequent combination of elements](https://stackoverflow.com/questions/64099029/python-how-to-find-most-frequent-combination-of-elements) - 4 votes
-* [Check if pandas row is unique when order is not considered](https://stackoverflow.com/questions/64105699/check-if-pandas-row-is-unique-when-order-is-not-considered) - 3 votes
-* [Updating dataframe value based on list](https://stackoverflow.com/questions/64108469/updating-dataframe-value-based-on-list) - 3 votes
+* [Group pandas dataframe in unusual way](https://stackoverflow.com/questions/64122311/group-pandas-dataframe-in-unusual-way) - 9 votes
+* [How I can aggregate employee based on their department and show average salary in each department using groupby pandas](https://stackoverflow.com/questions/64113002/how-i-can-aggregate-employee-based-on-their-department-and-show-average-salary-i) - 5 votes
+* [How to only keep the fastest ride in pandas](https://stackoverflow.com/questions/64116143/how-to-only-keep-the-fastest-ride-in-pandas) - 5 votes
+* [How to create a cumulative sum column in python if column value is greater than other value](https://stackoverflow.com/questions/64127733/how-to-create-a-cumulative-sum-column-in-python-if-column-value-is-greater-than) - 3 votes
+* [Creating a DataFrame in a For Loop Produces Nan Error](https://stackoverflow.com/questions/64118038/creating-a-dataframe-in-a-for-loop-produces-nan-error) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to fill the region between several curves in python](https://stackoverflow.com/questions/64109344/how-to-fill-the-region-between-several-curves-in-python) - 3 votes
-* [Problem to fit a poisson histogram in python](https://stackoverflow.com/questions/64108155/problem-to-fit-a-poisson-histogram-in-python) - 2 votes
-* [How to groupby and plot aggregated data](https://stackoverflow.com/questions/64095552/how-to-groupby-and-plot-aggregated-data) - 1 votes
-* [How to plot such a graph with matplotlib](https://stackoverflow.com/questions/64108277/how-to-plot-such-a-graph-with-matplotlib) - 1 votes
-* [Export rotable 3D plots from Python to HTML](https://stackoverflow.com/questions/64104189/export-rotable-3d-plots-from-python-to-html) - 1 votes
+* [How to plot multiple variables programatically](https://stackoverflow.com/questions/64125589/how-to-plot-multiple-variables-programatically) - 2 votes
+* [Why both image created from npones and npzeros shows black blank image while combining both gives black and white mixed image as expected](https://stackoverflow.com/questions/64120730/why-both-image-created-from-np-ones-and-np-zeros-shows-black-blank-image-while-c) - 2 votes
+* [Matplotlib HeatMap Label](https://stackoverflow.com/questions/64112161/matplotlib-heat-map-label) - 2 votes
+* [How do you remove spaces between bars in bar charts for where plotted values are zero](https://stackoverflow.com/questions/64124339/how-do-you-remove-spaces-between-bars-in-bar-charts-for-where-plotted-values-are) - 2 votes
+* [python pandas plotting two data39s but only one shows on the histogram](https://stackoverflow.com/questions/64111533/python-pandas-plotting-two-datas-but-only-one-shows-on-the-histogram) - 2 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [ggplot draw segment that goes off the chart39s limits](https://stackoverflow.com/questions/64109135/ggplot-draw-segment-that-goes-off-the-charts-limits) - 3 votes
-* [How to change color of quottile groutquot in R waffle plot to match background](https://stackoverflow.com/questions/64108314/how-to-change-color-of-tile-grout-in-r-waffle-plot-to-match-background) - 3 votes
-* [R shiny plot colour conditionally based on values on separate data frame](https://stackoverflow.com/questions/64106420/r-shiny-plot-colour-conditionally-based-on-values-on-separate-data-frame) - 2 votes
-* [R Shiny plot by time](https://stackoverflow.com/questions/64109283/r-shiny-plot-by-time) - 2 votes
-* [How to plot multiple columns in r](https://stackoverflow.com/questions/64100710/how-to-plot-multiple-columns-in-r) - 1 votes
+* [Use a superscript in the title of a merged legend in ggplot2](https://stackoverflow.com/questions/64116979/use-a-superscript-in-the-title-of-a-merged-legend-in-ggplot2) - 2 votes
+* [how can I plot two graphs in one coordinate system combining all the values of one column](https://stackoverflow.com/questions/64115665/how-can-i-plot-two-graphs-in-one-coordinate-system-combining-all-the-values-of-o) - 1 votes
+* [Equivalent ggplot2 alternative to gplots39s balloonplot](https://stackoverflow.com/questions/64111932/equivalent-ggplot2-alternative-to-gplotss-balloonplot) - 1 votes
+* [ggplot code works for a single list element for not in for loop](https://stackoverflow.com/questions/64122510/ggplot-code-works-for-a-single-list-element-for-not-in-for-loop) - 1 votes
+* [Delete missing values detected by ggplot in R](https://stackoverflow.com/questions/64117496/delete-missing-values-detected-by-ggplot-in-r) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
