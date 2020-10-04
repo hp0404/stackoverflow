@@ -1,37 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-03<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-04<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to create images from the row values in a pandas dataframe using PIL](https://stackoverflow.com/questions/64188514/how-to-create-images-from-the-row-values-in-a-pandas-dataframe-using-pil) - 3 votes
-* [Sorting letters within each cell in pandas](https://stackoverflow.com/questions/64187760/sorting-letters-within-each-cell-in-pandas) - 2 votes
-* [Faster solution to get values in list of dictionaries and add row in pandas dataframe for observations with multiple dictionaries](https://stackoverflow.com/questions/64188276/faster-solution-to-get-values-in-list-of-dictionaries-and-add-row-in-pandas-data) - 2 votes
-* [How to control the color of a specific column in a bar plot depending on it39s xtick label](https://stackoverflow.com/questions/64179970/how-to-control-the-color-of-a-specific-column-in-a-bar-plot-depending-on-its-xt) - 2 votes
-* [AxesSubplot not rendered after plot in another cell](https://stackoverflow.com/questions/64183654/axessubplot-not-rendered-after-plot-in-another-cell) - 2 votes
+* [Replace column value based on value in other column](https://stackoverflow.com/questions/64197434/replace-column-value-based-on-value-in-other-column) - 4 votes
+* [Order Pandas DataFrame by groups and Timestamp](https://stackoverflow.com/questions/64195126/order-pandas-dataframe-by-groups-and-timestamp) - 3 votes
+* [Calculate number of occurrence of common element in Pandas](https://stackoverflow.com/questions/64197352/calculate-number-of-occurrence-of-common-element-in-pandas) - 2 votes
+* [Adding correction column to dataframe](https://stackoverflow.com/questions/64200427/adding-correction-column-to-dataframe) - 2 votes
+* [How can I chain the conditions for style functions in pandas](https://stackoverflow.com/questions/64197958/how-can-i-chain-the-conditions-for-style-functions-in-pandas) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to create images from the row values in a pandas dataframe using PIL](https://stackoverflow.com/questions/64188514/how-to-create-images-from-the-row-values-in-a-pandas-dataframe-using-pil) - 3 votes
-* [How to control the color of a specific column in a bar plot depending on it39s xtick label](https://stackoverflow.com/questions/64179970/how-to-control-the-color-of-a-specific-column-in-a-bar-plot-depending-on-its-xt) - 2 votes
-* [AxesSubplot not rendered after plot in another cell](https://stackoverflow.com/questions/64183654/axessubplot-not-rendered-after-plot-in-another-cell) - 2 votes
-* [pltshow is empty when the pltplot calls are done in other cells](https://stackoverflow.com/questions/64183326/plt-show-is-empty-when-the-plt-plot-calls-are-done-in-other-cells) - 2 votes
-* [How to plot multiple subplot dataframe histograms in Python](https://stackoverflow.com/questions/64181675/how-to-plot-multiple-subplot-dataframe-histograms-in-python) - 1 votes
+* [PythonPandas data frame time data in rows grouped by name](https://stackoverflow.com/questions/64197426/python-pandas-data-frame-time-data-in-rows-grouped-by-name) - 2 votes
+* [How to exit python matplotlib and continue code after that](https://stackoverflow.com/questions/64196498/how-to-exit-python-matplotlib-and-continue-code-after-that) - 2 votes
+* [Getting data of scatter plot other than xy data](https://stackoverflow.com/questions/64192176/getting-data-of-scatter-plot-other-than-x-y-data) - 2 votes
+* [How to separate a dataframe column by intervals and plot](https://stackoverflow.com/questions/64198842/how-to-separate-a-dataframe-column-by-intervals-and-plot) - 1 votes
+* [How do I turn points from function in to a list to plot a complete graph](https://stackoverflow.com/questions/64199752/how-do-i-turn-points-from-function-in-to-a-list-to-plot-a-complete-graph) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Putting horizontal lines on grouped boxplots](https://stackoverflow.com/questions/64186967/putting-horizontal-lines-on-grouped-boxplots) - 1 votes
-* [Is it possibe to color specific regions under the line graph in ggplot2 based on a binary variable](https://stackoverflow.com/questions/64188190/is-it-possibe-to-color-specific-regions-under-the-line-graph-in-ggplot2-based-on) - 1 votes
-* [Shading a particular X variable in R boxplot ggplot2](https://stackoverflow.com/questions/64181893/shading-a-particular-x-variable-in-r-boxplot-ggplot2) - 1 votes
+* [How to save a plot exactly same as it appears in Rstudio](https://stackoverflow.com/questions/64192158/how-to-save-a-plot-exactly-same-as-it-appears-in-rstudio) - 3 votes
+* [How to manage the free scaling in facet_wrap as the plot area size crops the labels on geom_bar](https://stackoverflow.com/questions/64197251/how-to-manage-the-free-scaling-in-facet-wrap-as-the-plot-area-size-crops-the-lab) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
