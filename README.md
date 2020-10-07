@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-06<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-07<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Groupby based on a multiple logical conditions applicated to a different columns DataFrame](https://stackoverflow.com/questions/64220438/groupby-based-on-a-multiple-logical-conditions-applicated-to-a-different-columns) - 8 votes
-* [Pandas Summing all elements in a dataframe](https://stackoverflow.com/questions/64217914/pandas-summing-all-elements-in-a-dataframe) - 3 votes
-* [Dummy based on nth decile by group in pandas python](https://stackoverflow.com/questions/64229381/dummy-based-on-nth-decile-by-group-in-pandas-python) - 3 votes
-* [How to update dataframe based on dependent value in pandas](https://stackoverflow.com/questions/64220021/how-to-update-dataframe-based-on-dependent-value-in-pandas) - 3 votes
-* [How do you calculate this type of difference in dataframe](https://stackoverflow.com/questions/64226309/how-do-you-calculate-this-type-of-difference-in-dataframe) - 3 votes
+* [Add missing rows based on column](https://stackoverflow.com/questions/64246528/add-missing-rows-based-on-column) - 4 votes
+* [Pandas Remove all rows where any of the column contains a certain substring](https://stackoverflow.com/questions/64240221/pandas-remove-all-rows-where-any-of-the-column-contains-a-certain-substring) - 4 votes
+* [How to aggregate combining dataframes with pandas groupby](https://stackoverflow.com/questions/64250017/how-to-aggregate-combining-dataframes-with-pandas-groupby) - 4 votes
+* [Pandas Get Max values within each group by group sum](https://stackoverflow.com/questions/64250696/pandas-get-max-values-within-each-group-by-group-sum) - 3 votes
+* [Manipulatecopy dataframe pandas and maintain only the last day of each month](https://stackoverflow.com/questions/64248943/manipulate-copy-dataframe-pandas-and-maintain-only-the-last-day-of-each-month) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to plot a sidebyside grouped bar plot](https://stackoverflow.com/questions/64234413/how-to-plot-a-side-by-side-grouped-bar-plot) - 2 votes
-* [How to plot figures to different subplot axes in matplotlib](https://stackoverflow.com/questions/64230269/how-to-plot-figures-to-different-subplot-axes-in-matplotlib) - 2 votes
-* [My fig1savefig function is saving my figure as a blank screen how do I fix this](https://stackoverflow.com/questions/64218519/my-fig1-savefig-function-is-saving-my-figure-as-a-blank-screen-how-do-i-fix-thi) - 2 votes
-* [How to fix 39numpyndarray39 object has no attribute 39get_figure39 when plotting subplots](https://stackoverflow.com/questions/64229894/how-to-fix-numpy-ndarray-object-has-no-attribute-get-figure-when-plotting-su) - 1 votes
-* [How do I separate subplots](https://stackoverflow.com/questions/64218722/how-do-i-separate-subplots) - 1 votes
+* [How to display an annotation and exploding a wedge when hovering over pie chart](https://stackoverflow.com/questions/64246979/how-to-display-an-annotation-and-exploding-a-wedge-when-hovering-over-pie-chart) - 2 votes
+* [How can I improve the quality of my plots in matplotlib](https://stackoverflow.com/questions/64244347/how-can-i-improve-the-quality-of-my-plots-in-matplotlib) - 2 votes
+* [Plotly How to add markers at specific points in plotly line graph python  pandas](https://stackoverflow.com/questions/64241461/plotly-how-to-add-markers-at-specific-points-in-plotly-line-graph-python-pan) - 2 votes
+* [Histogram given y axis](https://stackoverflow.com/questions/64246467/histogram-given-y-axis) - 1 votes
+* [Logarithmic color scale not in base 10](https://stackoverflow.com/questions/64251874/logarithmic-color-scale-not-in-base-10) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to custom add vertical lines to ggplot facet function](https://stackoverflow.com/questions/64228622/how-to-custom-add-vertical-lines-to-ggplot-facet-function) - 2 votes
-* [Why does R behave differently when parsing parameters of plotting](https://stackoverflow.com/questions/64225704/why-does-r-behave-differently-when-parsing-parameters-of-plotting) - 2 votes
-* [Two graphical representations in the same graph](https://stackoverflow.com/questions/64234632/two-graphical-representations-in-the-same-graph) - 1 votes
-* [ggplot2  any way to automatically plot the different transformedy on the same scatter plot for you](https://stackoverflow.com/questions/64226316/ggplot2-any-way-to-automatically-plot-the-different-transformed-y-on-the-same) - 1 votes
-* [Ordering matrix plot using ggplot2](https://stackoverflow.com/questions/64219566/ordering-matrix-plot-using-ggplot2) - 1 votes
+* [Convex hull on horizontal and vertical error bars](https://stackoverflow.com/questions/64239201/convex-hull-on-horizontal-and-vertical-error-bars) - 2 votes
+* [Plotting multiple plots with two discrete variables  how to include all discrete variables in both axes](https://stackoverflow.com/questions/64251644/plotting-multiple-plots-with-two-discrete-variables-how-to-include-all-discret) - 2 votes
+* [For Loop for withinsubjects ggplot with 2 y axes](https://stackoverflow.com/questions/64252335/for-loop-for-within-subjects-ggplot-with-2-y-axes) - 1 votes
+* [Beginner  I want to make ggplot on Shiny in R and I don39t know where I made up mistake](https://stackoverflow.com/questions/64250226/beginner-i-want-to-make-ggplot-on-shiny-in-r-and-i-dont-know-where-i-made-up) - 1 votes
+* [Need to reorder the plot according to the total](https://stackoverflow.com/questions/64236705/need-to-reorder-the-plot-according-to-the-total) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
