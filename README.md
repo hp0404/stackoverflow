@@ -1,37 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-08<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-09<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [sum column abovebelow current row in pandas](https://stackoverflow.com/questions/64264918/sum-column-above-below-current-row-in-pandas) - 4 votes
-* [Merging two columns into one](https://stackoverflow.com/questions/64265275/merging-two-columns-into-one) - 3 votes
-* [Pandas dataframe Split One column data into 2 using some condition](https://stackoverflow.com/questions/64257194/pandas-dataframe-split-one-column-data-into-2-using-some-condition) - 3 votes
-* [Groupby transform  revert back to original table](https://stackoverflow.com/questions/64268844/groupby-transform-revert-back-to-original-table) - 3 votes
-* [Reassigning value in dataset based on a subset](https://stackoverflow.com/questions/64254258/reassigning-value-in-dataset-based-on-a-subset) - 3 votes
+* [Order the rows of one dataframe column with duplicates based on a column of another dataframe in Python](https://stackoverflow.com/questions/64274292/order-the-rows-of-one-dataframe-column-with-duplicates-based-on-a-column-of-an) - 4 votes
+* [split pandas column to many columns](https://stackoverflow.com/questions/64278047/split-pandas-column-to-many-columns) - 4 votes
+* [i can39t pull data by column name](https://stackoverflow.com/questions/64283735/i-cant-pull-data-by-column-name) - 3 votes
+* [How to avoid few columns in a data frame while merging data with an other data frame](https://stackoverflow.com/questions/64285039/how-to-avoid-few-columns-in-a-data-frame-while-merging-data-with-an-other-data-f) - 3 votes
+* [How to remove columns after any row has a NaN value in Python pandas dataframe](https://stackoverflow.com/questions/64284130/how-to-remove-columns-after-any-row-has-a-nan-value-in-python-pandas-dataframe) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [PLT Latex with variables](https://stackoverflow.com/questions/64262037/plt-latex-with-variables) - 1 votes
-* [How to set Matplotlib RadioButton radius using set_radius](https://stackoverflow.com/questions/64265736/how-to-set-matplotlib-radiobutton-radius-using-set-radius) - 1 votes
-* [Plotting a graph with separating classes with color gradient](https://stackoverflow.com/questions/64263242/plotting-a-graph-with-separating-classes-with-color-gradient) - 1 votes
+* [ipywidget with matplotlib figure always shows two axes](https://stackoverflow.com/questions/64285570/ipywidget-with-matplotlib-figure-always-shows-two-axes) - 2 votes
+* [How to import Matplotlib Latex as text with Tex fonts in Inkscape](https://stackoverflow.com/questions/64279128/how-to-import-matplotlib-latex-as-text-with-tex-fonts-in-inkscape) - 2 votes
+* [Adding legend information to matplotlib plot](https://stackoverflow.com/questions/64280020/adding-legend-information-to-matplotlib-plot) - 1 votes
+* [How to plot a multicategorical dataframe as a single boxplot figure](https://stackoverflow.com/questions/64288143/how-to-plot-a-multi-categorical-dataframe-as-a-single-boxplot-figure) - 1 votes
+* [Problem with installation of matplotlib in Python](https://stackoverflow.com/questions/64285251/problem-with-installation-of-matplotlib-in-python) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to recreate this excel Barchart  data table in R ggplot2](https://stackoverflow.com/questions/64265093/how-to-recreate-this-excel-barchart-data-table-in-r-ggplot2) - 2 votes
-* [Error in stopquotanimation of quot classplot1 quot objects not supportedquot  argument quotplotquot is missing with no default](https://stackoverflow.com/questions/64254840/error-in-stopanimation-of-classplot1-objects-not-supported-argum) - 2 votes
-* [Removing points from plot generated with stat_summary](https://stackoverflow.com/questions/64262314/removing-points-from-plot-generated-with-stat-summary) - 1 votes
-* [How to make randomly generated data less uniform on plot in R](https://stackoverflow.com/questions/64263117/how-to-make-randomly-generated-data-less-uniform-on-plot-in-r) - 1 votes
-* [R ggplot2 line two rows and all columns](https://stackoverflow.com/questions/64271502/r-ggplot2-line-two-rows-and-all-columns) - 1 votes
+* [ggplot plot mean values instead of counts](https://stackoverflow.com/questions/64278093/ggplot-plot-mean-values-instead-of-counts) - 3 votes
+* [How can I create a shaded histogram in ggplot2](https://stackoverflow.com/questions/64279954/how-can-i-create-a-shaded-histogram-in-ggplot2) - 2 votes
+* [can not mapping discrete and continuous value to a map in r](https://stackoverflow.com/questions/64282304/can-not-mapping-discrete-and-continuous-value-to-a-map-in-r) - 2 votes
+* [ggplot2 labels wonamp39t dodge with geom_col bars](https://stackoverflow.com/questions/64284012/ggplot2-labels-won39t-dodge-with-geom-col-bars) - 1 votes
+* [ggplot2How do I use conditional colours in heat map](https://stackoverflow.com/questions/64279859/ggplot2-how-do-i-use-conditional-colours-in-heat-map) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
