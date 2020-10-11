@@ -1,36 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-10<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-11<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Matching IDs with names on a pandas DataFrame](https://stackoverflow.com/questions/64297355/matching-ids-with-names-on-a-pandas-dataframe) - 3 votes
-* [How to apply regex over all the rows of a dataset](https://stackoverflow.com/questions/64298113/how-to-apply-regex-over-all-the-rows-of-a-dataset) - 3 votes
-* [Check if a date lies in first half of month or second in pandas](https://stackoverflow.com/questions/64292622/check-if-a-date-lies-in-first-half-of-month-or-second-in-pandas) - 3 votes
-* [GroupBy and plot with pandas](https://stackoverflow.com/questions/64292297/groupby-and-plot-with-pandas) - 3 votes
-* [Add n values from the both sides of a pandas data frame column values](https://stackoverflow.com/questions/64297560/add-n-values-from-the-both-sides-of-a-pandas-data-frame-column-values) - 2 votes
+* [How to make text processing in a pandas df column more faster for large textual data](https://stackoverflow.com/questions/64300837/how-to-make-text-processing-in-a-pandas-df-column-more-faster-for-large-textual) - 5 votes
+* [How to create a pandas dataframe with 2 dataframes one as columns and one as rows](https://stackoverflow.com/questions/64306933/how-to-create-a-pandas-dataframe-with-2-dataframes-one-as-columns-and-one-as-row) - 3 votes
+* [how do I process an excel file with hyperlinkurl in pandas](https://stackoverflow.com/questions/64300613/how-do-i-process-an-excel-file-with-hyperlink-url-in-pandas) - 3 votes
+* [Count duplicates in specific column](https://stackoverflow.com/questions/64304443/count-duplicates-in-specific-column) - 2 votes
+* [Finding elements from a list included in another one](https://stackoverflow.com/questions/64307259/finding-elements-from-a-list-included-in-another-one) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [GroupBy and plot with pandas](https://stackoverflow.com/questions/64292297/groupby-and-plot-with-pandas) - 3 votes
-* [Matplotlib different tick directions for one axis](https://stackoverflow.com/questions/64296891/matplotlib-different-tick-directions-for-one-axis) - 1 votes
-* [matplotlib  module 39sip39 has no attribute 39setapi39](https://stackoverflow.com/questions/64291087/matplotlib-module-sip-has-no-attribute-setapi) - 1 votes
+* [Custom scientific axis unit with matplotlib](https://stackoverflow.com/questions/64302588/custom-scientific-axis-unit-with-matplotlib) - 1 votes
+* [How to render the Nepali text as label](https://stackoverflow.com/questions/64300662/how-to-render-the-nepali-text-as-label) - 1 votes
+* [TypeError must be str not float  linear Regression](https://stackoverflow.com/questions/64300064/typeerror-must-be-str-not-float-linear-regression) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to change the plotbackground in Donut ggplot graph](https://stackoverflow.com/questions/64297387/how-to-change-the-plot-background-in-donut-ggplot-graph) - 1 votes
-* [Change color of median line ggplot geom_boxplot](https://stackoverflow.com/questions/64289509/change-color-of-median-line-ggplot-geom-boxplot) - 1 votes
-* [Is there a way to include different angles of a symbol in the legend in R](https://stackoverflow.com/questions/64295406/is-there-a-way-to-include-different-angles-of-a-symbol-in-the-legend-in-r) - 1 votes
-* [Add point at map centre in ggplot in r](https://stackoverflow.com/questions/64288986/add-point-at-map-centre-in-ggplot-in-r) - 1 votes
+* [geom_col with facet_grid with marginsTRUE not stacking up](https://stackoverflow.com/questions/64309250/geom-col-with-facet-grid-with-margins-true-not-stacking-up) - 3 votes
+* [ggplot2 specify a secondary axis for both value and datedatetime](https://stackoverflow.com/questions/64305294/ggplot2-specify-a-secondary-axis-for-both-value-and-date-datetime) - 2 votes
+* [R ggplot2  Plot year variable one over the other in same plot](https://stackoverflow.com/questions/64307389/r-ggplot2-plot-year-variable-one-over-the-other-in-same-plot) - 1 votes
+* [Rotate direction of title of secondary axis](https://stackoverflow.com/questions/64308980/rotate-direction-of-title-of-secondary-axis) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
