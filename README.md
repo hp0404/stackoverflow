@@ -1,36 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-11<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-12<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to make text processing in a pandas df column more faster for large textual data](https://stackoverflow.com/questions/64300837/how-to-make-text-processing-in-a-pandas-df-column-more-faster-for-large-textual) - 5 votes
-* [How to create a pandas dataframe with 2 dataframes one as columns and one as rows](https://stackoverflow.com/questions/64306933/how-to-create-a-pandas-dataframe-with-2-dataframes-one-as-columns-and-one-as-row) - 3 votes
-* [how do I process an excel file with hyperlinkurl in pandas](https://stackoverflow.com/questions/64300613/how-do-i-process-an-excel-file-with-hyperlink-url-in-pandas) - 3 votes
-* [Count duplicates in specific column](https://stackoverflow.com/questions/64304443/count-duplicates-in-specific-column) - 2 votes
-* [Finding elements from a list included in another one](https://stackoverflow.com/questions/64307259/finding-elements-from-a-list-included-in-another-one) - 2 votes
+* [find which column is unique to which excel worksheet dataframe](https://stackoverflow.com/questions/64312252/find-which-column-is-unique-to-which-excel-worksheet-dataframe) - 5 votes
+* [Calculate previous occurence](https://stackoverflow.com/questions/64317045/calculate-previous-occurence) - 3 votes
+* [pandas resample a multiindex dataframe](https://stackoverflow.com/questions/64318421/pandas-resample-a-multi-index-dataframe) - 3 votes
+* [Alternative for loop over all rows pandas](https://stackoverflow.com/questions/64322535/alternative-for-loop-over-all-rows-pandas) - 2 votes
+* [Pandas compare 3 columns and output the result if count more than 1](https://stackoverflow.com/questions/64311468/pandas-compare-3-columns-and-output-the-result-if-count-more-than-1) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Custom scientific axis unit with matplotlib](https://stackoverflow.com/questions/64302588/custom-scientific-axis-unit-with-matplotlib) - 1 votes
-* [How to render the Nepali text as label](https://stackoverflow.com/questions/64300662/how-to-render-the-nepali-text-as-label) - 1 votes
-* [TypeError must be str not float  linear Regression](https://stackoverflow.com/questions/64300064/typeerror-must-be-str-not-float-linear-regression) - 1 votes
+* [Tick label padding and tick label position on polar  radial chart  matplotlib](https://stackoverflow.com/questions/64313104/tick-label-padding-and-tick-label-position-on-polar-radial-chart-matplotlib) - 3 votes
+* [Plotly Tree Graph Not Creating The Root Node](https://stackoverflow.com/questions/64313354/plotly-tree-graph-not-creating-the-root-node) - 2 votes
+* [Plot focal mechanisms on map](https://stackoverflow.com/questions/64320264/plot-focal-mechanisms-on-map) - 2 votes
+* [Plotly How to plot multiple lines in one plotly chart from different columns from the same pandas dataframe](https://stackoverflow.com/questions/64316098/plotly-how-to-plot-multiple-lines-in-one-plotly-chart-from-different-columns-fr) - 1 votes
+* [Different color for each populations in cmap](https://stackoverflow.com/questions/64319621/different-color-for-each-populations-in-cmap) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [geom_col with facet_grid with marginsTRUE not stacking up](https://stackoverflow.com/questions/64309250/geom-col-with-facet-grid-with-margins-true-not-stacking-up) - 3 votes
-* [ggplot2 specify a secondary axis for both value and datedatetime](https://stackoverflow.com/questions/64305294/ggplot2-specify-a-secondary-axis-for-both-value-and-date-datetime) - 2 votes
-* [R ggplot2  Plot year variable one over the other in same plot](https://stackoverflow.com/questions/64307389/r-ggplot2-plot-year-variable-one-over-the-other-in-same-plot) - 1 votes
-* [Rotate direction of title of secondary axis](https://stackoverflow.com/questions/64308980/rotate-direction-of-title-of-secondary-axis) - 1 votes
+* [Better transformation for secondary yaxis in ggplot2](https://stackoverflow.com/questions/64324221/better-transformation-for-secondary-y-axis-in-ggplot2) - 3 votes
+* [Change order margin is presented in facet_grid ggplot2](https://stackoverflow.com/questions/64324933/change-order-margin-is-presented-in-facet-grid-ggplot2) - 2 votes
+* [How do I scale all the text in a ggplot by some multiple](https://stackoverflow.com/questions/64320662/how-do-i-scale-all-the-text-in-a-ggplot-by-some-multiple) - 1 votes
+* [annotate ggplot above plot](https://stackoverflow.com/questions/64319452/annotate-ggplot-above-plot) - 1 votes
+* [Can I get rid of the top bar in Flexdashboards](https://stackoverflow.com/questions/64320759/can-i-get-rid-of-the-top-bar-in-flexdashboards) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
