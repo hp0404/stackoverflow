@@ -17,7 +17,6 @@ def get_epochs(
     **kwargs
 ) -> Tuple[int]:    
     """ Get epoch dates for the start and end of the date. """
-    
     offset_date = date - datetime.timedelta(days=offset_days)
     start = datetime.datetime(
         year=offset_date.year, month=offset_date.month, day=offset_date.day,
@@ -40,7 +39,7 @@ def fetch_questions(
 ) -> Dict[str, Any]:
     """ Fetch questions from stack exchange API. 
     
-    
+
     Parameters
     ----------
     start, end : int, epoch timestamps
@@ -52,7 +51,6 @@ def fetch_questions(
     votes_threshold : int 
         min number of votes a question should have
     """
-
     params = {
         "fromdate": start,
         "todate": end,
@@ -69,7 +67,6 @@ def fetch_questions(
 
 def format_item(item: Dict[str, Any]) -> str:
     """ Format entry. """
-    
     title = re.sub(r"[^\w\s]", "", item["title"])
     return f"* [{title}]({item['link']}) - {item['score']} votes"
 
@@ -83,14 +80,13 @@ def replace_chunk(
     content: str, chunk: str, tags: str, inline: bool = False, **kwargs
 ) -> str:
     """ Replace chunks of README.md """
-    
     r = re.compile(
         rf"<!-- {tags} starts -->.*<!-- {tags} ends -->",
         re.DOTALL,
     )
     if not inline:
         chunk = f"\n{chunk}\n"
-    chunk = f"<!-- {tags} starts -->{chunk}<!-- {tags} ends -->"
+    chunk = rf"<!-- {tags} starts -->{chunk}<!-- {tags} ends -->"
     return r.sub(chunk, content)
 
 
@@ -139,27 +135,24 @@ def upsert_db(data: List[Dict[str, Any]]):
 
 
 if __name__ == "__main__":
-    
     readme = ROOT / "README.md"
     readme_contents = readme.open().read()
     rewritten = replace_chunk(
         readme_contents, DATE.strftime("%Y-%m-%d"), "date", inline=True
     )
-
+    
     sections = (
         {"tags": "pandas", "site": "stackoverflow", "offset_days": 0},
         {"tags": "ggplot2", "site": "stackoverflow", "offset_days": 0},
         {"tags": "matplotlib", "site": "stackoverflow", "offset_days": 0}
     )
-
     for section in sections:
         start, end = get_epochs(DATE, **section)
         questions = fetch_questions(start, end, **section)
         content = build_column(questions)
         rewritten = replace_chunk(rewritten, content, **section)
-        
         with open(readme, "w") as output:
             output.write(rewritten)
-
+        
         upsert_db(questions)
         
