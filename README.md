@@ -1,35 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-13<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-14<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How can I transform a DataFrame so that the headers become column values](https://stackoverflow.com/questions/64328033/how-can-i-transform-a-dataframe-so-that-the-headers-become-column-values) - 4 votes
-* [How can I get a column with random samples based on weights contained in a pandas dataframe](https://stackoverflow.com/questions/64332217/how-can-i-get-a-column-with-random-samples-based-on-weights-contained-in-a-pand) - 3 votes
-* [Convert String of Backtick   fraction to Float](https://stackoverflow.com/questions/64330768/convert-string-of-backtick-fraction-to-float) - 3 votes
-* [Pandas Remove rows and columns with a certain string based on a complex logic](https://stackoverflow.com/questions/64330560/pandas-remove-rows-and-columns-with-a-certain-string-based-on-a-complex-logic) - 3 votes
-* [Finding the lowest number over 10 in a nestedflat list of strings and integers](https://stackoverflow.com/questions/64332997/finding-the-lowest-number-over-10-in-a-nested-flat-list-of-strings-and-integers) - 3 votes
+* [How to melt a dataframe while doing some operation](https://stackoverflow.com/questions/64362032/how-to-melt-a-dataframe-while-doing-some-operation) - 4 votes
+* [Linear Programing Max value optimization](https://stackoverflow.com/questions/64356351/linear-programing-max-value-optimization) - 4 votes
+* [How do you switch single quotes to double quotes using to_tsv when dealing with a column of lists](https://stackoverflow.com/questions/64344943/how-do-you-switch-single-quotes-to-double-quotes-using-to-tsv-when-dealing-wit) - 4 votes
+* [pandas create column from list of tuple upoon matching first element](https://stackoverflow.com/questions/64357348/pandas-create-column-from-list-of-tuple-upoon-matching-first-element) - 3 votes
+* [How can I merge a Pandas dataframes based on a substring from one of the columns](https://stackoverflow.com/questions/64345704/how-can-i-merge-a-pandas-dataframes-based-on-a-substring-from-one-of-the-columns) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to update an imshow inside a ipywidgets layout](https://stackoverflow.com/questions/64335224/how-to-update-an-imshow-inside-a-ipywidgets-layout) - 1 votes
+* [Why is the hatch not showing](https://stackoverflow.com/questions/64360615/why-is-the-hatch-not-showing) - 2 votes
+* [Issue with tight_layout with matplotlib and cartopy](https://stackoverflow.com/questions/64354935/issue-with-tight-layout-with-matplotlib-and-cartopy) - 2 votes
+* [Gradient colour for scatter plot based on age similarity](https://stackoverflow.com/questions/64345357/gradient-colour-for-scatter-plot-based-on-age-similarity) - 2 votes
+* [How do you change an x axis that displays date and time to show only month name](https://stackoverflow.com/questions/64353456/how-do-you-change-an-x-axis-that-displays-date-and-time-to-show-only-month-name) - 2 votes
+* [Find out if a line is part of a legend](https://stackoverflow.com/questions/64358117/find-out-if-a-line-is-part-of-a-legend) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Reproducing quotComputer composition with linesquot in R](https://stackoverflow.com/questions/64330865/reproducing-computer-composition-with-lines-in-r) - 7 votes
-* [ggplot multiple plots using the first column as x axis and other columns as y axis with conditional labels on points with x axis name](https://stackoverflow.com/questions/64343500/ggplot-multiple-plots-using-the-first-column-as-x-axis-and-other-columns-as-y) - 2 votes
-* [R Horizontal bar chart simple gantt chart](https://stackoverflow.com/questions/64334320/r-horizontal-bar-chart-simple-gantt-chart) - 1 votes
-* [Trend Graph Failing to Plot Correctly](https://stackoverflow.com/questions/64326839/trend-graph-failing-to-plot-correctly) - 1 votes
-* [How do I change the title of the legend in this ggplot](https://stackoverflow.com/questions/64340672/how-do-i-change-the-title-of-the-legend-in-this-ggplot) - 1 votes
+* [Mixed fill color in ggplot2 legend using geom_smooth in R](https://stackoverflow.com/questions/64359233/mixed-fill-color-in-ggplot2-legend-using-geom-smooth-in-r) - 1 votes
+* [Free y axis in only some subplots with facet_wrap](https://stackoverflow.com/questions/64356677/free-y-axis-in-only-some-subplots-with-facet-wrap) - 1 votes
+* [Round corners in ggplots geom_tile possible](https://stackoverflow.com/questions/64355877/round-corners-in-ggplots-geom-tile-possible) - 1 votes
+* [How do I put legend for Na in sf_geom ggplot](https://stackoverflow.com/questions/64354097/how-do-i-put-legend-for-na-in-sf-geom-ggplot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
