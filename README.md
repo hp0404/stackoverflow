@@ -1,38 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-14<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-15<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to melt a dataframe while doing some operation](https://stackoverflow.com/questions/64362032/how-to-melt-a-dataframe-while-doing-some-operation) - 4 votes
-* [Linear Programing Max value optimization](https://stackoverflow.com/questions/64356351/linear-programing-max-value-optimization) - 4 votes
-* [How do you switch single quotes to double quotes using to_tsv when dealing with a column of lists](https://stackoverflow.com/questions/64344943/how-do-you-switch-single-quotes-to-double-quotes-using-to-tsv-when-dealing-wit) - 4 votes
-* [pandas create column from list of tuple upoon matching first element](https://stackoverflow.com/questions/64357348/pandas-create-column-from-list-of-tuple-upoon-matching-first-element) - 3 votes
-* [How can I merge a Pandas dataframes based on a substring from one of the columns](https://stackoverflow.com/questions/64345704/how-can-i-merge-a-pandas-dataframes-based-on-a-substring-from-one-of-the-columns) - 3 votes
+* [Deleting rows which sum to zero in 1 column but are otherwise duplicates in pandas](https://stackoverflow.com/questions/64370230/deleting-rows-which-sum-to-zero-in-1-column-but-are-otherwise-duplicates-in-pand) - 5 votes
+* [How to calculate distance for every row in a pandas dataframe from a single point efficiently](https://stackoverflow.com/questions/64374482/how-to-calculate-distance-for-every-row-in-a-pandas-dataframe-from-a-single-poin) - 4 votes
+* [Pandas groupby transform cumulative with conditions](https://stackoverflow.com/questions/64373081/pandas-groupby-transform-cumulative-with-conditions) - 4 votes
+* [Make a color pallet with Pandas Dataframe](https://stackoverflow.com/questions/64371040/make-a-color-pallet-with-pandas-dataframe) - 3 votes
+* [How to store a dataframe39s values in a single list](https://stackoverflow.com/questions/64368127/how-to-store-a-dataframes-values-in-a-single-list) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Why is the hatch not showing](https://stackoverflow.com/questions/64360615/why-is-the-hatch-not-showing) - 2 votes
-* [Issue with tight_layout with matplotlib and cartopy](https://stackoverflow.com/questions/64354935/issue-with-tight-layout-with-matplotlib-and-cartopy) - 2 votes
-* [Gradient colour for scatter plot based on age similarity](https://stackoverflow.com/questions/64345357/gradient-colour-for-scatter-plot-based-on-age-similarity) - 2 votes
-* [How do you change an x axis that displays date and time to show only month name](https://stackoverflow.com/questions/64353456/how-do-you-change-an-x-axis-that-displays-date-and-time-to-show-only-month-name) - 2 votes
-* [Find out if a line is part of a legend](https://stackoverflow.com/questions/64358117/find-out-if-a-line-is-part-of-a-legend) - 1 votes
+* [pandas plot timeseries color per id of the individual time series](https://stackoverflow.com/questions/64372291/pandas-plot-timeseries-color-per-id-of-the-individual-time-series) - 2 votes
+* [How to draw a circle without fill in matplotlib](https://stackoverflow.com/questions/64364398/how-to-draw-a-circle-without-fill-in-matplotlib) - 1 votes
+* [Plot Multiple sensor dataPandas Matplotlib](https://stackoverflow.com/questions/64372240/plot-multiple-sensor-datapandas-matplotlib) - 1 votes
+* [Matplotlib polygon patch not plotting using list of xy39s from pandas df](https://stackoverflow.com/questions/64372065/matplotlib-polygon-patch-not-plotting-using-list-of-xys-from-pandas-df) - 1 votes
+* [Error exporting animation ffmpeg  Matplotlib](https://stackoverflow.com/questions/64364319/error-exporting-animation-ffmpeg-matplotlib) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Mixed fill color in ggplot2 legend using geom_smooth in R](https://stackoverflow.com/questions/64359233/mixed-fill-color-in-ggplot2-legend-using-geom-smooth-in-r) - 1 votes
-* [Free y axis in only some subplots with facet_wrap](https://stackoverflow.com/questions/64356677/free-y-axis-in-only-some-subplots-with-facet-wrap) - 1 votes
-* [Round corners in ggplots geom_tile possible](https://stackoverflow.com/questions/64355877/round-corners-in-ggplots-geom-tile-possible) - 1 votes
-* [How do I put legend for Na in sf_geom ggplot](https://stackoverflow.com/questions/64354097/how-do-i-put-legend-for-na-in-sf-geom-ggplot) - 1 votes
+* [ggplot with stacked bar chart ordered by a separate variable](https://stackoverflow.com/questions/64369664/ggplot-with-stacked-bar-chart-ordered-by-a-separate-variable) - 3 votes
+* [avoid colored box in legend](https://stackoverflow.com/questions/64372128/avoid-colored-box-in-legend) - 2 votes
+* [Dotplot Annotating on Multiple Facets](https://stackoverflow.com/questions/64374834/dotplot-annotating-on-multiple-facets) - 2 votes
+* [How to visualize line plot with ggplot in R Here is example](https://stackoverflow.com/questions/64369424/how-to-visualize-line-plot-with-ggplot-in-r-here-is-example) - 1 votes
+* [How to add a point or marker for the last date in a time series](https://stackoverflow.com/questions/64368059/how-to-add-a-point-or-marker-for-the-last-date-in-a-time-series) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
