@@ -1,35 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-17<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-18<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Split dataframe with all values in one row](https://stackoverflow.com/questions/64407347/split-dataframe-with-all-values-in-one-row) - 3 votes
-* [Seaborn lineplot and barplot don39t align in the X axis](https://stackoverflow.com/questions/64402358/seaborn-lineplot-and-barplot-dont-align-in-the-x-axis) - 3 votes
-* [how to bring same category columns under a single header in a pandas dataframe](https://stackoverflow.com/questions/64401558/how-to-bring-same-category-columns-under-a-single-header-in-a-pandas-dataframe) - 3 votes
-* [Merging 1300 data frames into a single frame columnwise becomes really slow](https://stackoverflow.com/questions/64407576/merging-1300-data-frames-into-a-single-frame-column-wise-becomes-really-slow) - 3 votes
-* [isinstance alternative to overwrite default values](https://stackoverflow.com/questions/64401640/isinstance-alternative-to-overwrite-default-values) - 3 votes
+* [Counting tokens in a document](https://stackoverflow.com/questions/64408817/counting-tokens-in-a-document) - 4 votes
+* [Select a partial string from a list within a column in Pandas DataFrame](https://stackoverflow.com/questions/64408879/select-a-partial-string-from-a-list-within-a-column-in-pandas-dataframe) - 3 votes
+* [List of Dataframes drop Dataframe column columns have different names if row contains a special string](https://stackoverflow.com/questions/64411371/list-of-dataframes-drop-dataframe-column-columns-have-different-names-if-row) - 3 votes
+* [min max and sum functions working on pandas group by object but not mean](https://stackoverflow.com/questions/64411352/min-max-and-sum-functions-working-on-pandas-group-by-object-but-not-mean) - 3 votes
+* [Add values from Pandas row to dictionary](https://stackoverflow.com/questions/64408484/add-values-from-pandas-row-to-dictionary) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to set different markers on a MatplotlibBasemap plot based on elements in a CSV column](https://stackoverflow.com/questions/64406546/how-to-set-different-markers-on-a-matplotlib-basemap-plot-based-on-elements-in-a) - 3 votes
-* [Python xaxis title is overlapping the tick labels in matplotlib](https://stackoverflow.com/questions/64401900/python-x-axis-title-is-overlapping-the-tick-labels-in-matplotlib) - 2 votes
-* [deprecated Warning  where parameter in mataplotlib library](https://stackoverflow.com/questions/64399271/deprecated-warning-where-parameter-in-mataplotlib-library) - 2 votes
-* [ValueError invalid literal for int with base 10 39u39 occurs when plotting from a specific file](https://stackoverflow.com/questions/64406210/valueerror-invalid-literal-for-int-with-base-10-u-occurs-when-plotting-fro) - 1 votes
-* [How to Mix Markers and Labels in Matplotlib Legend](https://stackoverflow.com/questions/64407637/how-to-mix-markers-and-labels-in-matplotlib-legend) - 1 votes
+* [How to plot a waveform from wav file in python](https://stackoverflow.com/questions/64410196/how-to-plot-a-waveform-from-wav-file-in-python) - 2 votes
+* [Overlaying contour colorbar over pcolormesh](https://stackoverflow.com/questions/64418357/overlaying-contour-colorbar-over-pcolormesh) - 1 votes
+* [How to set the edge color of polygon patch in matplotlib](https://stackoverflow.com/questions/64417566/how-to-set-the-edge-color-of-polygon-patch-in-matplotlib) - 1 votes
+* [How to format Pandas  Matplotlib graph so the xaxis ticks are ONLY hours and minutes](https://stackoverflow.com/questions/64412233/how-to-format-pandas-matplotlib-graph-so-the-x-axis-ticks-are-only-hours-and-m) - 1 votes
+* [Updating matplotlib figures within a for loop in python](https://stackoverflow.com/questions/64409326/updating-matplotlib-figures-within-a-for-loop-in-python) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [stacked histogram changes scale when filled in R](https://stackoverflow.com/questions/64407694/stacked-histogram-changes-scale-when-filled-in-r) - 1 votes
+* [Making barplot with offset baselines using ggplot2](https://stackoverflow.com/questions/64419096/making-barplot-with-offset-baselines-using-ggplot2) - 2 votes
+* [How can I create a bar plot without 39fill39 in R](https://stackoverflow.com/questions/64417000/how-can-i-create-a-bar-plot-without-fill-in-r) - 1 votes
+* [Add a gradient of intensiy to an interference plot](https://stackoverflow.com/questions/64411121/add-a-gradient-of-intensiy-to-an-interference-plot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
