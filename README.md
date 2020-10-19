@@ -1,37 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-18<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-19<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Counting tokens in a document](https://stackoverflow.com/questions/64408817/counting-tokens-in-a-document) - 4 votes
-* [Select a partial string from a list within a column in Pandas DataFrame](https://stackoverflow.com/questions/64408879/select-a-partial-string-from-a-list-within-a-column-in-pandas-dataframe) - 3 votes
-* [List of Dataframes drop Dataframe column columns have different names if row contains a special string](https://stackoverflow.com/questions/64411371/list-of-dataframes-drop-dataframe-column-columns-have-different-names-if-row) - 3 votes
-* [min max and sum functions working on pandas group by object but not mean](https://stackoverflow.com/questions/64411352/min-max-and-sum-functions-working-on-pandas-group-by-object-but-not-mean) - 3 votes
-* [Add values from Pandas row to dictionary](https://stackoverflow.com/questions/64408484/add-values-from-pandas-row-to-dictionary) - 3 votes
+* [split multiple columns in pandas dataframe by delimiter](https://stackoverflow.com/questions/64431313/split-multiple-columns-in-pandas-dataframe-by-delimiter) - 6 votes
+* [How to find the distance from each row to the nearest row that meets a condition](https://stackoverflow.com/questions/64432421/how-to-find-the-distance-from-each-row-to-the-nearest-row-that-meets-a-condition) - 3 votes
+* [Calculate difference between two time columns in pandas as a new column excluding weekends when the columns may contain NaT](https://stackoverflow.com/questions/64430023/calculate-difference-between-two-time-columns-in-pandas-as-a-new-column-excludin) - 3 votes
+* [Sorting a list based on values from another list and excluding elements in list from the sort](https://stackoverflow.com/questions/64428967/sorting-a-list-based-on-values-from-another-list-and-excluding-elements-in-list) - 2 votes
+* [Find the column with duplicate value across each row amp get related values](https://stackoverflow.com/questions/64424181/find-the-column-with-duplicate-value-across-each-row-get-related-values) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to plot a waveform from wav file in python](https://stackoverflow.com/questions/64410196/how-to-plot-a-waveform-from-wav-file-in-python) - 2 votes
-* [Overlaying contour colorbar over pcolormesh](https://stackoverflow.com/questions/64418357/overlaying-contour-colorbar-over-pcolormesh) - 1 votes
-* [How to set the edge color of polygon patch in matplotlib](https://stackoverflow.com/questions/64417566/how-to-set-the-edge-color-of-polygon-patch-in-matplotlib) - 1 votes
-* [How to format Pandas  Matplotlib graph so the xaxis ticks are ONLY hours and minutes](https://stackoverflow.com/questions/64412233/how-to-format-pandas-matplotlib-graph-so-the-x-axis-ticks-are-only-hours-and-m) - 1 votes
-* [Updating matplotlib figures within a for loop in python](https://stackoverflow.com/questions/64409326/updating-matplotlib-figures-within-a-for-loop-in-python) - 1 votes
+* [Matplotlib animation](https://stackoverflow.com/questions/64421567/matplotlib-animation) - 2 votes
+* [How to change seaborn regplot scattplot to lineplot](https://stackoverflow.com/questions/64436305/how-to-change-seaborn-regplot-scattplot-to-lineplot) - 1 votes
+* [Making Multiple Figures From the Same Plot](https://stackoverflow.com/questions/64435014/making-multiple-figures-from-the-same-plot) - 1 votes
+* [Matplotlib  Skipping xticks while maintaining correct x value](https://stackoverflow.com/questions/64428886/matplotlib-skipping-xticks-while-maintaining-correct-x-value) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Making barplot with offset baselines using ggplot2](https://stackoverflow.com/questions/64419096/making-barplot-with-offset-baselines-using-ggplot2) - 2 votes
-* [How can I create a bar plot without 39fill39 in R](https://stackoverflow.com/questions/64417000/how-can-i-create-a-bar-plot-without-fill-in-r) - 1 votes
-* [Add a gradient of intensiy to an interference plot](https://stackoverflow.com/questions/64411121/add-a-gradient-of-intensiy-to-an-interference-plot) - 1 votes
+* [ggmap in R  keep google copyright information on cropped map](https://stackoverflow.com/questions/64425970/ggmap-in-r-keep-google-copyright-information-on-cropped-map) - 3 votes
+* [Is there a way to manually set the height of horizontal boxplots in ggplot2 Vertical dodge](https://stackoverflow.com/questions/64431976/is-there-a-way-to-manually-set-the-height-of-horizontal-boxplots-in-ggplot2-ve) - 2 votes
+* [ggplot time series interval stacked bars](https://stackoverflow.com/questions/64421797/ggplot-time-series-interval-stacked-bars) - 2 votes
+* [select colors in ggsci using ggplot2](https://stackoverflow.com/questions/64428024/select-colors-in-ggsci-using-ggplot2) - 1 votes
+* [Produce Country flag using Emoji in R in gt table](https://stackoverflow.com/questions/64422095/produce-country-flag-using-emoji-in-r-in-gt-table) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
