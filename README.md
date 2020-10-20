@@ -1,38 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-19<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-20<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [split multiple columns in pandas dataframe by delimiter](https://stackoverflow.com/questions/64431313/split-multiple-columns-in-pandas-dataframe-by-delimiter) - 6 votes
-* [How to find the distance from each row to the nearest row that meets a condition](https://stackoverflow.com/questions/64432421/how-to-find-the-distance-from-each-row-to-the-nearest-row-that-meets-a-condition) - 3 votes
-* [Calculate difference between two time columns in pandas as a new column excluding weekends when the columns may contain NaT](https://stackoverflow.com/questions/64430023/calculate-difference-between-two-time-columns-in-pandas-as-a-new-column-excludin) - 3 votes
-* [Sorting a list based on values from another list and excluding elements in list from the sort](https://stackoverflow.com/questions/64428967/sorting-a-list-based-on-values-from-another-list-and-excluding-elements-in-list) - 2 votes
-* [Find the column with duplicate value across each row amp get related values](https://stackoverflow.com/questions/64424181/find-the-column-with-duplicate-value-across-each-row-get-related-values) - 2 votes
+* [Python mean doesn39t work when groupby aggregates dataframe to one line](https://stackoverflow.com/questions/64448221/python-mean-doesnt-work-when-groupby-aggregates-dataframe-to-one-line) - 6 votes
+* [Why is my python plotting code runs so slow after I add the legend](https://stackoverflow.com/questions/64438602/why-is-my-python-plotting-code-runs-so-slow-after-i-add-the-legend) - 4 votes
+* [How to apply function to two columns of Pandas dataframe and two if fucntion](https://stackoverflow.com/questions/64450435/how-to-apply-function-to-two-columns-of-pandas-dataframe-and-two-if-fucntion) - 3 votes
+* [group by columns values combination](https://stackoverflow.com/questions/64448157/group-by-columns-values-combination) - 3 votes
+* [Filtering Pandas DataFrames on datetimes](https://stackoverflow.com/questions/64437418/filtering-pandas-dataframes-on-datetimes) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Matplotlib animation](https://stackoverflow.com/questions/64421567/matplotlib-animation) - 2 votes
-* [How to change seaborn regplot scattplot to lineplot](https://stackoverflow.com/questions/64436305/how-to-change-seaborn-regplot-scattplot-to-lineplot) - 1 votes
-* [Making Multiple Figures From the Same Plot](https://stackoverflow.com/questions/64435014/making-multiple-figures-from-the-same-plot) - 1 votes
-* [Matplotlib  Skipping xticks while maintaining correct x value](https://stackoverflow.com/questions/64428886/matplotlib-skipping-xticks-while-maintaining-correct-x-value) - 1 votes
+* [Why is my python plotting code runs so slow after I add the legend](https://stackoverflow.com/questions/64438602/why-is-my-python-plotting-code-runs-so-slow-after-i-add-the-legend) - 4 votes
+* [Plot Pandas timeseries cumulative number of unique occurences in column over time](https://stackoverflow.com/questions/64443567/plot-pandas-timeseries-cumulative-number-of-unique-occurences-in-column-over-tim) - 1 votes
+* [pass in a list of labels for generation of figures in for loop](https://stackoverflow.com/questions/64440309/pass-in-a-list-of-labels-for-generation-of-figures-in-for-loop) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [ggmap in R  keep google copyright information on cropped map](https://stackoverflow.com/questions/64425970/ggmap-in-r-keep-google-copyright-information-on-cropped-map) - 3 votes
-* [Is there a way to manually set the height of horizontal boxplots in ggplot2 Vertical dodge](https://stackoverflow.com/questions/64431976/is-there-a-way-to-manually-set-the-height-of-horizontal-boxplots-in-ggplot2-ve) - 2 votes
-* [ggplot time series interval stacked bars](https://stackoverflow.com/questions/64421797/ggplot-time-series-interval-stacked-bars) - 2 votes
-* [select colors in ggsci using ggplot2](https://stackoverflow.com/questions/64428024/select-colors-in-ggsci-using-ggplot2) - 1 votes
-* [Produce Country flag using Emoji in R in gt table](https://stackoverflow.com/questions/64422095/produce-country-flag-using-emoji-in-r-in-gt-table) - 1 votes
+* [Why my ggplot bars are on two separate grids](https://stackoverflow.com/questions/64444653/why-my-ggplot-bars-are-on-two-separate-grids) - 2 votes
+* [Problem of using groupby function drawing a plot](https://stackoverflow.com/questions/64451518/problem-of-using-groupby-function-drawing-a-plot) - 1 votes
+* [Ordering geom_col NOT by fill value](https://stackoverflow.com/questions/64436754/ordering-geom-col-not-by-fill-value) - 1 votes
+* [ggplot for objects stored in an 3D array](https://stackoverflow.com/questions/64454033/ggplot-for-objects-stored-in-an-3d-array) - 1 votes
+* [How to make a beforeafter treatment plot in R and then add it to a layout function](https://stackoverflow.com/questions/64439673/how-to-make-a-before-after-treatment-plot-in-r-and-then-add-it-to-a-layout-funct) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
