@@ -1,37 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-20<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-21<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Python mean doesn39t work when groupby aggregates dataframe to one line](https://stackoverflow.com/questions/64448221/python-mean-doesnt-work-when-groupby-aggregates-dataframe-to-one-line) - 6 votes
-* [Why is my python plotting code runs so slow after I add the legend](https://stackoverflow.com/questions/64438602/why-is-my-python-plotting-code-runs-so-slow-after-i-add-the-legend) - 4 votes
-* [How to apply function to two columns of Pandas dataframe and two if fucntion](https://stackoverflow.com/questions/64450435/how-to-apply-function-to-two-columns-of-pandas-dataframe-and-two-if-fucntion) - 3 votes
-* [group by columns values combination](https://stackoverflow.com/questions/64448157/group-by-columns-values-combination) - 3 votes
-* [Filtering Pandas DataFrames on datetimes](https://stackoverflow.com/questions/64437418/filtering-pandas-dataframes-on-datetimes) - 3 votes
+* [How can I convert a numpy array to a matrix with counts of occurences](https://stackoverflow.com/questions/64464861/how-can-i-convert-a-numpy-array-to-a-matrix-with-counts-of-occurences) - 12 votes
+* [pandas LocateSelect records where a column has list of nan](https://stackoverflow.com/questions/64466718/pandas-locate-select-records-where-a-column-has-list-of-nan) - 3 votes
+* [Add density curve on the histogram](https://stackoverflow.com/questions/64467644/add-density-curve-on-the-histogram) - 2 votes
+* [Pandas timestamp converts to integers when its forced into a unique list  possible bug](https://stackoverflow.com/questions/64462369/pandas-timestamp-converts-to-integers-when-its-forced-into-a-unique-list-possi) - 2 votes
+* [pandas dataframe groupby index and convert row values into columns](https://stackoverflow.com/questions/64459856/pandas-dataframe-groupby-index-and-convert-row-values-into-columns) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Why is my python plotting code runs so slow after I add the legend](https://stackoverflow.com/questions/64438602/why-is-my-python-plotting-code-runs-so-slow-after-i-add-the-legend) - 4 votes
-* [Plot Pandas timeseries cumulative number of unique occurences in column over time](https://stackoverflow.com/questions/64443567/plot-pandas-timeseries-cumulative-number-of-unique-occurences-in-column-over-tim) - 1 votes
-* [pass in a list of labels for generation of figures in for loop](https://stackoverflow.com/questions/64440309/pass-in-a-list-of-labels-for-generation-of-figures-in-for-loop) - 1 votes
+* [Add density curve on the histogram](https://stackoverflow.com/questions/64467644/add-density-curve-on-the-histogram) - 2 votes
+* [Peculiar horizontal lines in 3d plots](https://stackoverflow.com/questions/64469180/peculiar-horizontal-lines-in-3d-plots) - 2 votes
+* [Matplotlibpyplot easy way for conditional formatting of linestyle](https://stackoverflow.com/questions/64455005/matplotlib-pyplot-easy-way-for-conditional-formatting-of-linestyle) - 1 votes
+* [How to plot a line with matplotlib which is given in linear algebra form](https://stackoverflow.com/questions/64472259/how-to-plot-a-line-with-matplotlib-which-is-given-in-linear-algebra-form) - 1 votes
+* [Overlapping X labels](https://stackoverflow.com/questions/64466239/overlapping-x-labels) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Why my ggplot bars are on two separate grids](https://stackoverflow.com/questions/64444653/why-my-ggplot-bars-are-on-two-separate-grids) - 2 votes
-* [Problem of using groupby function drawing a plot](https://stackoverflow.com/questions/64451518/problem-of-using-groupby-function-drawing-a-plot) - 1 votes
-* [Ordering geom_col NOT by fill value](https://stackoverflow.com/questions/64436754/ordering-geom-col-not-by-fill-value) - 1 votes
-* [ggplot for objects stored in an 3D array](https://stackoverflow.com/questions/64454033/ggplot-for-objects-stored-in-an-3d-array) - 1 votes
-* [How to make a beforeafter treatment plot in R and then add it to a layout function](https://stackoverflow.com/questions/64439673/how-to-make-a-before-after-treatment-plot-in-r-and-then-add-it-to-a-layout-funct) - 1 votes
+* [How to order primary Y axis within label in ggplot](https://stackoverflow.com/questions/64470942/how-to-order-primary-y-axis-within-label-in-ggplot) - 3 votes
+* [How to store custom ggplot aliases as list objects in R script and source them along required label vectors](https://stackoverflow.com/questions/64462705/how-to-store-custom-ggplot-aliases-as-list-objects-in-r-script-and-source-the) - 2 votes
+* [How do I overlay facets in the same plot](https://stackoverflow.com/questions/64462439/how-do-i-overlay-facets-in-the-same-plot) - 2 votes
+* [plot coefficient point estimate with standard errors for factors](https://stackoverflow.com/questions/64455220/plot-coefficient-point-estimate-with-standard-errors-for-factors) - 2 votes
+* [Absolute values in axis labels](https://stackoverflow.com/questions/64462326/absolute-values-in-axis-labels) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
