@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-22<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-23<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Efficient way of filtering by datetime in groupby](https://stackoverflow.com/questions/64483854/efficient-way-of-filtering-by-datetime-in-groupby) - 4 votes
-* [Plot a chart with two yaxes in pyplot](https://stackoverflow.com/questions/64490335/plot-a-chart-with-two-y-axes-in-pyplot) - 3 votes
-* [Adding sum of batches of rows in dataframe](https://stackoverflow.com/questions/64490931/adding-sum-of-batches-of-rows-in-dataframe) - 2 votes
-* [How to Create Partially Stacked Bar Plot](https://stackoverflow.com/questions/64473988/how-to-create-partially-stacked-bar-plot) - 2 votes
-* [Removing Row Indices and Reverting them to a Column](https://stackoverflow.com/questions/64473929/removing-row-indices-and-reverting-them-to-a-column) - 2 votes
+* [Convert X and Y arrays into a frequencies grid](https://stackoverflow.com/questions/64503929/convert-x-and-y-arrays-into-a-frequencies-grid) - 7 votes
+* [Data slicing evenly and odd using python](https://stackoverflow.com/questions/64502850/data-slicing-evenly-and-odd-using-python) - 2 votes
+* [How to find the total length of a column value that has multiple values in different rows for another column](https://stackoverflow.com/questions/64495124/how-to-find-the-total-length-of-a-column-value-that-has-multiple-values-in-diffe) - 2 votes
+* [extract last row of each shiftdayamp night from dataframe using python](https://stackoverflow.com/questions/64495464/extract-last-row-of-each-shiftday-night-from-dataframe-using-python) - 2 votes
+* [Python Pandas  using loc to select with AND and OR on multiple columns](https://stackoverflow.com/questions/64492454/python-pandas-using-loc-to-select-with-and-and-or-on-multiple-columns) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Plot a chart with two yaxes in pyplot](https://stackoverflow.com/questions/64490335/plot-a-chart-with-two-y-axes-in-pyplot) - 3 votes
-* [How to Create Partially Stacked Bar Plot](https://stackoverflow.com/questions/64473988/how-to-create-partially-stacked-bar-plot) - 2 votes
-* [x and y must be the same size](https://stackoverflow.com/questions/64490910/x-and-y-must-be-the-same-size) - 1 votes
-* [The problem that a value whose index I know with the loc function cannot update another column in the same index](https://stackoverflow.com/questions/64490288/the-problem-that-a-value-whose-index-i-know-with-the-loc-function-cannot-update) - 1 votes
-* [How to increase precision in matplotlib](https://stackoverflow.com/questions/64488326/how-to-increase-precision-in-matplotlib) - 1 votes
+* [Make 2 overlapping lines NOT look thicker](https://stackoverflow.com/questions/64507732/make-2-overlapping-lines-not-look-thicker) - 2 votes
+* [How to have multiple categorical markers on a scatterplot](https://stackoverflow.com/questions/64504299/how-to-have-multiple-categorical-markers-on-a-scatterplot) - 2 votes
+* [How do the subplot indices work in Python](https://stackoverflow.com/questions/64493821/how-do-the-subplot-indices-work-in-python) - 2 votes
+* [How to change the position of some x axis tick labels on top of the bottom x axis in matplotlib](https://stackoverflow.com/questions/64500061/how-to-change-the-position-of-some-x-axis-tick-labels-on-top-of-the-bottom-x-axi) - 1 votes
+* [Jupyternotebook nontransparent plot surroundings when saving figure](https://stackoverflow.com/questions/64496699/jupyter-notebook-non-transparent-plot-surroundings-when-saving-figure) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to remove lines at the ends of the range when using geom_freqpoly](https://stackoverflow.com/questions/64478313/how-to-remove-lines-at-the-ends-of-the-range-when-using-geom-freqpoly) - 1 votes
-* [R ggplot confidence interval plot](https://stackoverflow.com/questions/64487249/r-ggplot-confidence-interval-plot) - 1 votes
-* [Width of bars in ggplot2 with many groups](https://stackoverflow.com/questions/64485293/width-of-bars-in-ggplot2-with-many-groups) - 1 votes
-* [Is it possible to add tooltips in a Shiny app to a Sankey plot created with ggalluvial](https://stackoverflow.com/questions/64482350/is-it-possible-to-add-tooltips-in-a-shiny-app-to-a-sankey-plot-created-with-ggal) - 1 votes
-* [Numa Nodes information data format and plot](https://stackoverflow.com/questions/64482079/numa-nodes-information-data-format-and-plot) - 1 votes
+* [How to add mathsubscript in geom_bracket in ggplot2](https://stackoverflow.com/questions/64500133/how-to-add-math-subscript-in-geom-bracket-in-ggplot2) - 4 votes
+* [Create custom legend in ggplot2](https://stackoverflow.com/questions/64496037/create-custom-legend-in-ggplot2) - 2 votes
+* [Variable geom_text is overwritten when plots saved in list](https://stackoverflow.com/questions/64496048/variable-geom-text-is-overwritten-when-plots-saved-in-list) - 2 votes
+* [Open tab by clicking on a stacked barchart](https://stackoverflow.com/questions/64502622/open-tab-by-clicking-on-a-stacked-barchart) - 2 votes
+* [Side by Side plot with one legend in ggplot2](https://stackoverflow.com/questions/64501733/side-by-side-plot-with-one-legend-in-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
