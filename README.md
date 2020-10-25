@@ -1,36 +1,33 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-24<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-25<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How do we update column data in rows of similar columns with the data found after merge operation](https://stackoverflow.com/questions/64514685/how-do-we-update-column-data-in-rows-of-similar-columns-with-the-data-found-afte) - 5 votes
-* [Pandas loc and PEP8](https://stackoverflow.com/questions/64517048/pandas-loc-and-pep8) - 4 votes
-* [Python Load Json Lines to Pandas Dataframe](https://stackoverflow.com/questions/64512076/python-load-json-lines-to-pandas-dataframe) - 2 votes
-* [Add a column name to a panda dataframe multi index](https://stackoverflow.com/questions/64511457/add-a-column-name-to-a-panda-dataframe-multi-index) - 2 votes
-* [creating a Pandas dataframe from a nested dictionary within nested dictionary](https://stackoverflow.com/questions/64516019/creating-a-pandas-dataframe-from-a-nested-dictionary-within-nested-dictionary) - 2 votes
+* [How to calculate the size of blocks of values in a list](https://stackoverflow.com/questions/64525237/how-to-calculate-the-size-of-blocks-of-values-in-a-list) - 3 votes
+* [How to concatenate pandas dataframes with automatic keys](https://stackoverflow.com/questions/64527109/how-to-concatenate-pandas-dataframes-with-automatic-keys) - 3 votes
+* [Efficiently Merging two Dataframes Column and Row wise in Pandas](https://stackoverflow.com/questions/64523935/efficiently-merging-two-dataframes-column-and-row-wise-in-pandas) - 2 votes
+* [Remove Row if NaN in First Five Columns](https://stackoverflow.com/questions/64528034/remove-row-if-nan-in-first-five-columns) - 2 votes
+* [Pandas to create new rows from each exisitng rows](https://stackoverflow.com/questions/64519155/pandas-to-create-new-rows-from-each-exisitng-rows) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [common x label for subplots](https://stackoverflow.com/questions/64512227/common-x-label-for-subplots) - 2 votes
-* [How to generate several legends for single plot matplotlib](https://stackoverflow.com/questions/64509179/how-to-generate-several-legends-for-single-plot-matplotlib) - 1 votes
-* [How can I adjust the graph spacing of a bar chart Matplotlib](https://stackoverflow.com/questions/64513664/how-can-i-adjust-the-graph-spacing-of-a-bar-chart-matplotlib) - 1 votes
-* [How to classify data relative to line using Python Left or right side of a line](https://stackoverflow.com/questions/64516936/how-to-classify-data-relative-to-line-using-python-left-or-right-side-of-a-line) - 1 votes
-* [Saving Matplotlib sufaceplot with transparent background](https://stackoverflow.com/questions/64513416/saving-matplotlib-suface-plot-with-transparent-background) - 1 votes
+* [Xticks in a subplots line graph are different python plot](https://stackoverflow.com/questions/64519910/x-ticks-in-a-subplots-line-graph-are-different-python-plot) - 1 votes
+* [Plot variable 1 against variable 2 with curves grouped by variable 3 in Python](https://stackoverflow.com/questions/64519904/plot-variable-1-against-variable-2-with-curves-grouped-by-variable-3-in-python) - 1 votes
+* [Matplotlib  plot dates in days and hours x axis vs values y axis](https://stackoverflow.com/questions/64525113/matplotlib-plot-dates-in-days-and-hours-x-axis-vs-values-y-axis) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Using switch to transform a variable from within a ggplot2 function](https://stackoverflow.com/questions/64518664/using-switch-to-transform-a-variable-from-within-a-ggplot2-function) - 2 votes
-* [How can I change the grid line spacing on a ggplot2 dotplot](https://stackoverflow.com/questions/64517930/how-can-i-change-the-grid-line-spacing-on-a-ggplot2-dotplot) - 1 votes
+* [Creating a plot with multiple variables and multiple plots next to each other](https://stackoverflow.com/questions/64527881/creating-a-plot-with-multiple-variables-and-multiple-plots-next-to-each-other) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
