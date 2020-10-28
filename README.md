@@ -1,37 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-27<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-28<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Performing a merge in Pandas on a column containing a Python range or listlike](https://stackoverflow.com/questions/64562029/performing-a-merge-in-pandas-on-a-column-containing-a-python-range-or-list-lik) - 4 votes
-* [Splitting a Column into two columns leaving blanks](https://stackoverflow.com/questions/64561980/splitting-a-column-into-two-columns-leaving-blanks) - 3 votes
-* [Pandas  Count different values by date  A more efficient way](https://stackoverflow.com/questions/64558775/pandas-count-different-values-by-date-a-more-efficient-way) - 2 votes
-* [pandas  how to count number of elements in a row greater than zero](https://stackoverflow.com/questions/64554908/pandas-how-to-count-number-of-elements-in-a-row-greater-than-zero) - 2 votes
-* [How to set order of sorting MultiIndex](https://stackoverflow.com/questions/64557615/how-to-set-order-of-sorting-multiindex) - 2 votes
+* [Pandas GroupBy frequency of values](https://stackoverflow.com/questions/64564720/pandas-groupby-frequency-of-values) - 4 votes
+* [How to fill names with NA based on a different column](https://stackoverflow.com/questions/64573207/how-to-fill-names-with-na-based-on-a-different-column) - 3 votes
+* [Sort_value wrong descend](https://stackoverflow.com/questions/64570173/sort-value-wrong-descend) - 2 votes
+* [Python  Get date from day of week year and week number](https://stackoverflow.com/questions/64568100/python-get-date-from-day-of-week-year-and-week-number) - 2 votes
+* [How to unstack and grab multiple columns into index](https://stackoverflow.com/questions/64566957/how-to-unstack-and-grab-multiple-columns-into-index) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to combine two heatmaps in Seaborn in Python so both are shown in the same heatmap](https://stackoverflow.com/questions/64562879/how-to-combine-two-heatmaps-in-seaborn-in-python-so-both-are-shown-in-the-same-h) - 2 votes
-* [How to put Seaborn FacetGrid on pltsubplots grid and change title or xlabel](https://stackoverflow.com/questions/64553039/how-to-put-seaborn-facetgrid-on-plt-subplots-grid-and-change-title-or-xlabel) - 2 votes
-* [plot errorbar with matplotlib based on multiindex pandas dataframe](https://stackoverflow.com/questions/64550318/plot-errorbar-with-matplotlib-based-on-multiindex-pandas-dataframe) - 1 votes
-* [Save dataframe into a png caused an missing from current font error](https://stackoverflow.com/questions/64559151/save-dataframe-into-a-png-caused-an-missing-from-current-font-error) - 1 votes
-* [How to add shading for consecutive values on a plot](https://stackoverflow.com/questions/64552706/how-to-add-shading-for-consecutive-values-on-a-plot) - 1 votes
+* [How to plot an arrow into one of the subplots](https://stackoverflow.com/questions/64579296/how-to-plot-an-arrow-into-one-of-the-subplots) - 1 votes
+* [How to extend a matplotlib axis if the ticks are labels and not numeric](https://stackoverflow.com/questions/64571664/how-to-extend-a-matplotlib-axis-if-the-ticks-are-labels-and-not-numeric) - 1 votes
+* [Why don39t all of the factor variables appear in the legend](https://stackoverflow.com/questions/64580513/why-dont-all-of-the-factor-variables-appear-in-the-legend) - 1 votes
+* [Dataframe object has no attribute](https://stackoverflow.com/questions/64573129/dataframe-object-has-no-attribute) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [ggplot2 use label if object exists otherwise choose defaultNULL](https://stackoverflow.com/questions/64552510/ggplot2-use-label-if-object-exists-otherwise-choose-default-null) - 2 votes
-* [How to center time series of different lengths around specific points in a ggplot graphic](https://stackoverflow.com/questions/64560756/how-to-center-time-series-of-different-lengths-around-specific-points-in-a-ggplo) - 1 votes
-* [ggplot within a function does not return a scatterplot with datapoints instead a plot with dataframe values How to fix this](https://stackoverflow.com/questions/64553440/ggplot-within-a-function-does-not-return-a-scatterplot-with-datapoints-instead) - 1 votes
+* [Pairwise correlation from Dunnett39s rank test](https://stackoverflow.com/questions/64576035/pairwise-correlation-from-dunnetts-rank-test) - 4 votes
+* [How to create segmented graphs in ggplot2 with legend](https://stackoverflow.com/questions/64566463/how-to-create-segmented-graphs-in-ggplot2-with-legend) - 2 votes
+* [bad interaction between stat_smooth and geom_ribbon](https://stackoverflow.com/questions/64578056/bad-interaction-between-stat-smooth-and-geom-ribbon) - 2 votes
+* [no fill for secondary points in a ggplot](https://stackoverflow.com/questions/64579456/no-fill-for-secondary-points-in-a-ggplot) - 2 votes
+* [Add label with percentage per bin or column to geom_histogram](https://stackoverflow.com/questions/64576401/add-label-with-percentage-per-bin-or-column-to-geom-histogram) - 2 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
