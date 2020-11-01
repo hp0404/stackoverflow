@@ -1,37 +1,34 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-10-31<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-01<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to count nonzero occurrences based on another variable in python](https://stackoverflow.com/questions/64618613/how-to-count-nonzero-occurrences-based-on-another-variable-in-python) - 4 votes
-* [Subtract from every value in a DataFrame](https://stackoverflow.com/questions/64625342/subtract-from-every-value-in-a-dataframe) - 3 votes
-* [Rename fasta file according to a dataframe in python](https://stackoverflow.com/questions/64625728/rename-fasta-file-according-to-a-dataframe-in-python) - 3 votes
-* [Plotting two dataframes into one bar chart distinguishing their values](https://stackoverflow.com/questions/64617240/plotting-two-dataframes-into-one-bar-chart-distinguishing-their-values) - 3 votes
-* [Print beauty dataframe in Jupyter Notebook](https://stackoverflow.com/questions/64620587/print-beauty-dataframe-in-jupyter-notebook) - 2 votes
+* [unpivot MultiIndex DataFrame with pdmelt](https://stackoverflow.com/questions/64631371/unpivot-multiindex-dataframe-with-pd-melt) - 3 votes
+* [How to include an input argument in function which is not always required in python](https://stackoverflow.com/questions/64633048/how-to-include-an-input-argument-in-function-which-is-not-always-required-in-py) - 2 votes
+* [Python map values from dictionary to dataframe](https://stackoverflow.com/questions/64635154/python-map-values-from-dictionary-to-dataframe) - 2 votes
+* [How to flatten list in a pandas dataframe column](https://stackoverflow.com/questions/64628230/how-to-flatten-list-in-a-pandas-dataframe-column) - 2 votes
+* [Rectify incomplete year  Python](https://stackoverflow.com/questions/64632362/rectify-incomplete-year-python) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Plotting two dataframes into one bar chart distinguishing their values](https://stackoverflow.com/questions/64617240/plotting-two-dataframes-into-one-bar-chart-distinguishing-their-values) - 3 votes
-* [Performance improvement in numpy array transformation](https://stackoverflow.com/questions/64621487/performance-improvement-in-numpy-array-transformation) - 1 votes
-* [Plotting multiple graphs sidebyside in one figure](https://stackoverflow.com/questions/64620944/plotting-multiple-graphs-side-by-side-in-one-figure) - 1 votes
-* [error Errno 13 Permission denied 39configure39 when use pip3 install matplotlib on termux](https://stackoverflow.com/questions/64619057/error-errno-13-permission-denied-configure-when-use-pip3-install-matplot) - 1 votes
-* [Plotting 3D and 2D conture plot](https://stackoverflow.com/questions/64623441/plotting-3d-and-2d-conture-plot) - 1 votes
+* [how to connect markers with lines when drawing scatterplots using matplotlib in the pandas](https://stackoverflow.com/questions/64635764/how-to-connect-markers-with-lines-when-drawing-scatterplots-using-matplotlib-in) - 2 votes
+* [Use groupby for plotting sales trend](https://stackoverflow.com/questions/64627793/use-groupby-for-plotting-sales-trend) - 1 votes
+* [Is it possible to customise each square in a scatterplot](https://stackoverflow.com/questions/64630982/is-it-possible-to-customise-each-square-in-a-scatterplot) - 1 votes
+* [Initialising a python interactive plot to improve responsiveness](https://stackoverflow.com/questions/64630658/initialising-a-python-interactive-plot-to-improve-responsiveness) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Adding an additional legend manually for different dataframes used in the same ggplot](https://stackoverflow.com/questions/64626743/adding-an-additional-legend-manually-for-different-data-frames-used-in-the-same) - 4 votes
-* [Combined persp and ggplot graph on the same window persp too small](https://stackoverflow.com/questions/64627290/combined-persp-and-ggplot-graph-on-the-same-window-persp-too-small) - 1 votes
-* [Match palette of persp graph to contour graph ggplot2](https://stackoverflow.com/questions/64627143/match-palette-of-persp-graph-to-contour-graph-ggplot2) - 1 votes
+* [Sum y axis in ggplot2](https://stackoverflow.com/questions/64635700/sum-y-axis-in-ggplot2) - 3 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
