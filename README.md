@@ -1,39 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-02<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-03<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Calculate similarity between rows of a dataframe count values in common](https://stackoverflow.com/questions/64646490/calculate-similarity-between-rows-of-a-dataframe-count-values-in-common) - 3 votes
-* [Get list element from a panda list column based of value of different column](https://stackoverflow.com/questions/64640753/get-list-element-from-a-panda-list-column-based-of-value-of-different-column) - 3 votes
-* [Sort columns based the presence of a suffix in the column name](https://stackoverflow.com/questions/64643525/sort-columns-based-the-presence-of-a-suffix-in-the-column-name) - 2 votes
-* [finding a list stored in dataframe cell](https://stackoverflow.com/questions/64639009/finding-a-list-stored-in-dataframe-cell) - 2 votes
-* [Regex Expression Capture Existing and Non Existing Data](https://stackoverflow.com/questions/64650780/regex-expression-capture-existing-and-non-existing-data) - 2 votes
+* [Dataframe removes duplicate when certain values are reached](https://stackoverflow.com/questions/64666718/dataframe-removes-duplicate-when-certain-values-are-reached) - 7 votes
+* [Best way to apply function with many iterations to pandas series](https://stackoverflow.com/questions/64667058/best-way-to-apply-function-with-many-iterations-to-pandas-series) - 5 votes
+* [How to vectorise this for loop in Python](https://stackoverflow.com/questions/64667952/how-to-vectorise-this-for-loop-in-python) - 4 votes
+* [Generate unique key from multiple dataframes based on name](https://stackoverflow.com/questions/64663456/generate-unique-key-from-multiple-dataframes-based-on-name) - 3 votes
+* [In pandas find row per group which is smallest value greater than value](https://stackoverflow.com/questions/64670637/in-pandas-find-row-per-group-which-is-smallest-value-greater-than-value) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Bar text is above the plot matplotlib](https://stackoverflow.com/questions/64647500/bar-text-is-above-the-plot-matplotlib) - 1 votes
-* [Set order of y axis in python with Matplotlib](https://stackoverflow.com/questions/64647174/set-order-of-y-axis-in-python-with-matplotlib) - 1 votes
-* [How to set size of mouse coordinates in matplotlib toolbar](https://stackoverflow.com/questions/64651137/how-to-set-size-of-mouse-coordinates-in-matplotlib-toolbar) - 1 votes
-* [Setting errorbar style fails in Pandas scatter plot](https://stackoverflow.com/questions/64648154/setting-errorbar-style-fails-in-pandas-scatter-plot) - 1 votes
-* [find xaxis values according to yaxis values in python](https://stackoverflow.com/questions/64646422/find-x-axis-values-according-to-y-axis-values-in-python) - 1 votes
+* [How to show coordinates of point on the graph by clicking on it in matplotlib](https://stackoverflow.com/questions/64664528/how-to-show-coordinates-of-point-on-the-graph-by-clicking-on-it-in-matplotlib) - 2 votes
+* [Markers at the ends of hlines in matplolib](https://stackoverflow.com/questions/64664666/markers-at-the-ends-of-hlines-in-matplolib) - 1 votes
+* [How to remove square brackets in legend of scatterplot](https://stackoverflow.com/questions/64670285/how-to-remove-square-brackets-in-legend-of-scatterplot) - 1 votes
+* [Animate a pie chart column by column using a DataFrame](https://stackoverflow.com/questions/64670477/animate-a-pie-chart-column-by-column-using-a-dataframe) - 1 votes
+* [Selecting gridded data from an array using numpy and plotting it with matplotlib and cartopy tricontourf](https://stackoverflow.com/questions/64661761/selecting-gridded-data-from-an-array-using-numpy-and-plotting-it-with-matplotlib) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [R deleting ggplot2 object does not free space Possible memory leakage](https://stackoverflow.com/questions/64654252/r-deleting-ggplot2-object-does-not-free-space-possible-memory-leakage) - 3 votes
-* [For ggplot2 legend key add border that matches color of other aesthetics with not fill](https://stackoverflow.com/questions/64653256/for-ggplot2-legend-key-add-border-that-matches-color-of-other-aesthetics-with-n) - 2 votes
-* [Access fields by name in a loop with ggplot](https://stackoverflow.com/questions/64646441/access-fields-by-name-in-a-loop-with-ggplot) - 2 votes
-* [ggplot layer breaks order when placed first](https://stackoverflow.com/questions/64639827/ggplot-layer-breaks-order-when-placed-first) - 2 votes
-* [geom_freqpoly not plotting when I run this chunk of code with ggplot2](https://stackoverflow.com/questions/64638809/geom-freqpoly-not-plotting-when-i-run-this-chunk-of-code-with-ggplot2) - 2 votes
+* [Ggplot stacked area](https://stackoverflow.com/questions/64667443/ggplot-stacked-area) - 3 votes
+* [scaling two yaxis in ggplot](https://stackoverflow.com/questions/64669840/scaling-two-y-axis-in-ggplot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
