@@ -1,36 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-03<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-04<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Dataframe removes duplicate when certain values are reached](https://stackoverflow.com/questions/64666718/dataframe-removes-duplicate-when-certain-values-are-reached) - 7 votes
-* [Best way to apply function with many iterations to pandas series](https://stackoverflow.com/questions/64667058/best-way-to-apply-function-with-many-iterations-to-pandas-series) - 5 votes
-* [How to vectorise this for loop in Python](https://stackoverflow.com/questions/64667952/how-to-vectorise-this-for-loop-in-python) - 4 votes
-* [Generate unique key from multiple dataframes based on name](https://stackoverflow.com/questions/64663456/generate-unique-key-from-multiple-dataframes-based-on-name) - 3 votes
-* [In pandas find row per group which is smallest value greater than value](https://stackoverflow.com/questions/64670637/in-pandas-find-row-per-group-which-is-smallest-value-greater-than-value) - 3 votes
+* [Pandas groupby and count unique value of column](https://stackoverflow.com/questions/64687636/pandas-groupby-and-count-unique-value-of-column) - 2 votes
+* [Keep groups that satisfy two conditions](https://stackoverflow.com/questions/64685067/keep-groups-that-satisfy-two-conditions) - 2 votes
+* [How to set the columns in a dataframe even when one of the columns doesn39t exist](https://stackoverflow.com/questions/64682298/how-to-set-the-columns-in-a-dataframe-even-when-one-of-the-columns-doesnt-exist) - 2 votes
+* [Split and sort Pandas DataFrame in Python](https://stackoverflow.com/questions/64687475/split-and-sort-pandas-dataframe-in-python) - 2 votes
+* [Replace all instances of a string on one dataframe that are found in another dataframe](https://stackoverflow.com/questions/64686810/replace-all-instances-of-a-string-on-one-dataframe-that-are-found-in-another-dat) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to show coordinates of point on the graph by clicking on it in matplotlib](https://stackoverflow.com/questions/64664528/how-to-show-coordinates-of-point-on-the-graph-by-clicking-on-it-in-matplotlib) - 2 votes
-* [Markers at the ends of hlines in matplolib](https://stackoverflow.com/questions/64664666/markers-at-the-ends-of-hlines-in-matplolib) - 1 votes
-* [How to remove square brackets in legend of scatterplot](https://stackoverflow.com/questions/64670285/how-to-remove-square-brackets-in-legend-of-scatterplot) - 1 votes
-* [Animate a pie chart column by column using a DataFrame](https://stackoverflow.com/questions/64670477/animate-a-pie-chart-column-by-column-using-a-dataframe) - 1 votes
-* [Selecting gridded data from an array using numpy and plotting it with matplotlib and cartopy tricontourf](https://stackoverflow.com/questions/64661761/selecting-gridded-data-from-an-array-using-numpy-and-plotting-it-with-matplotlib) - 1 votes
+* [Display Images from scatter plot by drawing a line](https://stackoverflow.com/questions/64681593/display-images-from-scatter-plot-by-drawing-a-line) - 2 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Ggplot stacked area](https://stackoverflow.com/questions/64667443/ggplot-stacked-area) - 3 votes
-* [scaling two yaxis in ggplot](https://stackoverflow.com/questions/64669840/scaling-two-y-axis-in-ggplot) - 1 votes
+* [ggplot facet grid y axis some values are not visible how adjust grid](https://stackoverflow.com/questions/64687160/ggplot-facet-grid-y-axis-some-values-are-not-visible-how-adjust-grid) - 2 votes
+* [sf to dataframe why as_Spatial needed before asdataframe](https://stackoverflow.com/questions/64688622/sf-to-data-frame-why-as-spatial-needed-before-as-data-frame) - 2 votes
+* [Extracting coordinates pairs for a string](https://stackoverflow.com/questions/64685533/extracting-coordinates-pairs-for-a-string) - 1 votes
+* [Change longitude and latitude values of sf objects in r](https://stackoverflow.com/questions/64672488/change-longitude-and-latitude-values-of-sf-objects-in-r) - 1 votes
+* [sort on two variables using ggplot and reorder](https://stackoverflow.com/questions/64688781/sort-on-two-variables-using-ggplot-and-reorder) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
