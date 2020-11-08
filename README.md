@@ -1,36 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-07<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-08<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Can I create column where each row is a running list in a Pandas data frame using groupby](https://stackoverflow.com/questions/64728739/can-i-create-column-where-each-row-is-a-running-list-in-a-pandas-data-frame-usin) - 4 votes
-* [Finding and storing dominant rows of pandas df into another df](https://stackoverflow.com/questions/64726561/finding-and-storing-dominant-rows-of-pandas-df-into-another-df) - 2 votes
-* [Is there any good way to group time series Stock Data](https://stackoverflow.com/questions/64728803/is-there-any-good-way-to-group-time-series-stock-data) - 2 votes
-* [Do fullouterjoin with pandasmerge_asof](https://stackoverflow.com/questions/64723478/do-full-outer-join-with-pandas-merge-asof) - 2 votes
-* [Buffer for this type not yet supported when using rpy2 in jupyter notebook](https://stackoverflow.com/questions/64723137/buffer-for-this-type-not-yet-supported-when-using-rpy2-in-jupyter-notebook) - 2 votes
+* [Deleting all text starting with a specific string in a pandas series](https://stackoverflow.com/questions/64738100/deleting-all-text-starting-with-a-specific-string-in-a-pandas-series) - 2 votes
+* [Conditional fillna in pandas dataframe](https://stackoverflow.com/questions/64741449/conditional-fillna-in-pandas-dataframe) - 2 votes
+* [How to return NumPy array from Pandas MultiIndexed Dataframe](https://stackoverflow.com/questions/64734190/how-to-return-numpy-array-from-pandas-multiindexed-dataframe) - 2 votes
+* [Python appending a list to dataframe column](https://stackoverflow.com/questions/64734085/python-appending-a-list-to-dataframe-column) - 2 votes
+* [How to load sframe format file in pandas](https://stackoverflow.com/questions/64735928/how-to-load-sframe-format-file-in-pandas) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [reconfiguration a numpy array RGB](https://stackoverflow.com/questions/64731434/reconfiguration-a-numpy-array-rgb) - 1 votes
-* [Is there a Pandas function to create a 7day moving average from a timeseries](https://stackoverflow.com/questions/64729104/is-there-a-pandas-function-to-create-a-7-day-moving-average-from-a-time-series) - 1 votes
-* [Display eigenvector centrality values as circles ontop of nodes in NetworkX](https://stackoverflow.com/questions/64727486/display-eigenvector-centrality-values-as-circles-ontop-of-nodes-in-networkx) - 1 votes
-* [How do you plot a single row of values from csv](https://stackoverflow.com/questions/64727301/how-do-you-plot-a-single-row-of-values-from-csv) - 1 votes
-* [lineplot whit different colour on line Visualize timeseries with](https://stackoverflow.com/questions/64726940/lineplot-whit-different-colour-on-line-visualize-time-series-with) - 1 votes
+* [RGB TIF to GeoTIF and Removing the Background Color](https://stackoverflow.com/questions/64733639/rgb-tif-to-geotif-and-removing-the-background-color) - 2 votes
+* [FuncAnimation being called too many times](https://stackoverflow.com/questions/64743729/funcanimation-being-called-too-many-times) - 1 votes
+* [Reproducing a 2d histogram in Python](https://stackoverflow.com/questions/64743208/reproducing-a-2d-histogram-in-python) - 1 votes
+* [Drawing a line from origin to points on the circle](https://stackoverflow.com/questions/64739878/drawing-a-line-from-origin-to-points-on-the-circle) - 1 votes
+* [Animating pie chart using FuncAnimation showing last frame only](https://stackoverflow.com/questions/64734034/animating-pie-chart-using-funcanimation-showing-last-frame-only) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [ggplotly works in RStudio console but not rendering in shiny app](https://stackoverflow.com/questions/64729619/ggplotly-works-in-rstudio-console-but-not-rendering-in-shiny-app) - 1 votes
-* [How does bquote treat Unicode characters when using annotate R](https://stackoverflow.com/questions/64724292/how-does-bquote-treat-unicode-characters-when-using-annotate-r) - 1 votes
+* [Why library or require should not be used in a R package](https://stackoverflow.com/questions/64737686/why-library-or-require-should-not-be-used-in-a-r-package) - 2 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
