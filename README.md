@@ -1,39 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-10<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-11<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Average of all elements in tuple list having the same index](https://stackoverflow.com/questions/64769721/average-of-all-elements-in-tuple-list-having-the-same-index) - 3 votes
-* [Split two columns in a pandas dataframe into two and name them](https://stackoverflow.com/questions/64773001/split-two-columns-in-a-pandas-dataframe-into-two-and-name-them) - 3 votes
-* [Parallel processing of each row in Pandas iteration](https://stackoverflow.com/questions/64763867/parallel-processing-of-each-row-in-pandas-iteration) - 3 votes
-* [Pandas dataframe to dictionary with row index as value](https://stackoverflow.com/questions/64763352/pandas-dataframe-to-dictionary-with-row-index-as-value) - 3 votes
-* [How to extract first name in list](https://stackoverflow.com/questions/64761899/how-to-extract-first-name-in-list) - 2 votes
+* [Need a list of rowvalues in pandas](https://stackoverflow.com/questions/64789818/need-a-list-of-row-values-in-pandas) - 3 votes
+* [Python  How to delete all characters in a sub string up to and including a keyword](https://stackoverflow.com/questions/64795173/python-how-to-delete-all-characters-in-a-sub-string-up-to-and-including-a-keyw) - 3 votes
+* [How to handle missing values by including all types of filling in one function](https://stackoverflow.com/questions/64792751/how-to-handle-missing-values-by-including-all-types-of-filling-in-one-function) - 3 votes
+* [Show the top 3 items and summarize the rest](https://stackoverflow.com/questions/64788564/show-the-top-3-items-and-summarize-the-rest) - 3 votes
+* [Get first and last value for a sequence of pairs between two columns of a pandas dataframe](https://stackoverflow.com/questions/64784428/get-first-and-last-value-for-a-sequence-of-pairs-between-two-columns-of-a-pandas) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Unable to use 39x39 and 3939 markers in Seaborn stripplot](https://stackoverflow.com/questions/64775341/unable-to-use-x-and-markers-in-seaborn-stripplot) - 2 votes
-* [Hiding values next to seaborn colormap](https://stackoverflow.com/questions/64766644/hiding-values-next-to-seaborn-colormap) - 2 votes
-* [how can I plot missing points to a full circle](https://stackoverflow.com/questions/64767967/how-can-i-plot-missing-points-to-a-full-circle) - 2 votes
-* [Hiding the first value of a number by replacing it with an X in matplotlib](https://stackoverflow.com/questions/64768086/hiding-the-first-value-of-a-number-by-replacing-it-with-an-x-in-matplotlib) - 1 votes
-* [Plotting column values per group but with a color based on another column](https://stackoverflow.com/questions/64772954/plotting-column-values-per-group-but-with-a-color-based-on-another-column) - 1 votes
+* [Show the top 3 items and summarize the rest](https://stackoverflow.com/questions/64788564/show-the-top-3-items-and-summarize-the-rest) - 3 votes
+* [Python multiple lines by year](https://stackoverflow.com/questions/64781591/python-multiple-lines-by-year) - 2 votes
+* [Draw grid line on SecondaryAxis  Matplotlib](https://stackoverflow.com/questions/64784834/draw-grid-line-on-secondaryaxis-matplotlib) - 2 votes
+* [Plotting variables by classes](https://stackoverflow.com/questions/64778714/plotting-variables-by-classes) - 1 votes
+* [plotting two dataframes into 1 graph](https://stackoverflow.com/questions/64788831/plotting-two-dataframes-into-1-graph) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [What is the unit of text height in ggplot2 annotate](https://stackoverflow.com/questions/64762371/what-is-the-unit-of-text-height-in-ggplot2-annotate) - 2 votes
-* [How to get sample information or gating from scatterplot in R](https://stackoverflow.com/questions/64765866/how-to-get-sample-information-or-gating-from-scatter-plot-in-r) - 1 votes
-* [R Animating line plot using gganimate and geom_text](https://stackoverflow.com/questions/64762634/r-animating-line-plot-using-gganimate-and-geom-text) - 1 votes
-* [leave empty space for legend in ggplot](https://stackoverflow.com/questions/64777426/leave-empty-space-for-legend-in-ggplot) - 1 votes
-* [ggplotly and lubridate Hoover shows seconds not minutes](https://stackoverflow.com/questions/64776096/ggplotly-and-lubridate-hoover-shows-seconds-not-minutes) - 1 votes
+* [Plotting a scatter plot in R](https://stackoverflow.com/questions/64788506/plotting-a-scatter-plot-in-r) - 1 votes
+* [Selecting color to mark means on boxplot with stat_summary](https://stackoverflow.com/questions/64794387/selecting-color-to-mark-means-on-boxplot-with-stat-summary) - 1 votes
+* [R Add a arrow on a circular barplot with ggplot2](https://stackoverflow.com/questions/64780790/r-add-a-arrow-on-a-circular-barplot-with-ggplot2) - 1 votes
+* [R How does stat_density_ridges modify and plot data](https://stackoverflow.com/questions/64779280/r-how-does-stat-density-ridges-modify-and-plot-data) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
