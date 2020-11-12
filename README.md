@@ -1,38 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-11<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-12<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Need a list of rowvalues in pandas](https://stackoverflow.com/questions/64789818/need-a-list-of-row-values-in-pandas) - 3 votes
-* [Python  How to delete all characters in a sub string up to and including a keyword](https://stackoverflow.com/questions/64795173/python-how-to-delete-all-characters-in-a-sub-string-up-to-and-including-a-keyw) - 3 votes
-* [How to handle missing values by including all types of filling in one function](https://stackoverflow.com/questions/64792751/how-to-handle-missing-values-by-including-all-types-of-filling-in-one-function) - 3 votes
-* [Show the top 3 items and summarize the rest](https://stackoverflow.com/questions/64788564/show-the-top-3-items-and-summarize-the-rest) - 3 votes
-* [Get first and last value for a sequence of pairs between two columns of a pandas dataframe](https://stackoverflow.com/questions/64784428/get-first-and-last-value-for-a-sequence-of-pairs-between-two-columns-of-a-pandas) - 3 votes
+* [Print the colname and rowname for values that meet certain condition](https://stackoverflow.com/questions/64810857/print-the-colname-and-rowname-for-values-that-meet-certain-condition) - 4 votes
+* [How to do multiple queries](https://stackoverflow.com/questions/64797192/how-to-do-multiple-queries) - 4 votes
+* [Only cut training and validation data after a complete purchase](https://stackoverflow.com/questions/64801469/only-cut-training-and-validation-data-after-a-complete-purchase) - 3 votes
+* [Why does converting from string to integer then back to string raise exception](https://stackoverflow.com/questions/64804970/why-does-converting-from-string-to-integer-then-back-to-string-raise-exception) - 2 votes
+* [Trying to write a Pythonpandas function to update rows in a specific column that equal 0](https://stackoverflow.com/questions/64800032/trying-to-write-a-python-pandas-function-to-update-rows-in-a-specific-column-tha) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Show the top 3 items and summarize the rest](https://stackoverflow.com/questions/64788564/show-the-top-3-items-and-summarize-the-rest) - 3 votes
-* [Python multiple lines by year](https://stackoverflow.com/questions/64781591/python-multiple-lines-by-year) - 2 votes
-* [Draw grid line on SecondaryAxis  Matplotlib](https://stackoverflow.com/questions/64784834/draw-grid-line-on-secondaryaxis-matplotlib) - 2 votes
-* [Plotting variables by classes](https://stackoverflow.com/questions/64778714/plotting-variables-by-classes) - 1 votes
-* [plotting two dataframes into 1 graph](https://stackoverflow.com/questions/64788831/plotting-two-dataframes-into-1-graph) - 1 votes
+* [How to plot minmax bars with a bar plot](https://stackoverflow.com/questions/64796315/how-to-plot-min-max-bars-with-a-bar-plot) - 1 votes
+* [Seaborn Confusion Matrix heatmap 2 color schemes correct diagonal vs wrong rest](https://stackoverflow.com/questions/64800003/seaborn-confusion-matrix-heatmap-2-color-schemes-correct-diagonal-vs-wrong-re) - 1 votes
+* [Histogram of most common words in collectionsCounter object](https://stackoverflow.com/questions/64809764/histogram-of-most-common-words-in-collections-counter-object) - 1 votes
+* [Seaborn Matplotlib Get custom legend outside of plot](https://stackoverflow.com/questions/64808241/seaborn-matplotlib-get-custom-legend-outside-of-plot) - 1 votes
+* [Display multiple images in a grid using subplot](https://stackoverflow.com/questions/64807466/display-multiple-images-in-a-grid-using-subplot) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Plotting a scatter plot in R](https://stackoverflow.com/questions/64788506/plotting-a-scatter-plot-in-r) - 1 votes
-* [Selecting color to mark means on boxplot with stat_summary](https://stackoverflow.com/questions/64794387/selecting-color-to-mark-means-on-boxplot-with-stat-summary) - 1 votes
-* [R Add a arrow on a circular barplot with ggplot2](https://stackoverflow.com/questions/64780790/r-add-a-arrow-on-a-circular-barplot-with-ggplot2) - 1 votes
-* [R How does stat_density_ridges modify and plot data](https://stackoverflow.com/questions/64779280/r-how-does-stat-density-ridges-modify-and-plot-data) - 1 votes
+* [How to make scatter plot points into numbers](https://stackoverflow.com/questions/64810347/how-to-make-scatter-plot-points-into-numbers) - 2 votes
+* [R Titanic dataset practice  trying to find ratio survived](https://stackoverflow.com/questions/64810080/r-titanic-dataset-practice-trying-to-find-ratio-survived) - 1 votes
+* [Geom_point putting dots at wrong values](https://stackoverflow.com/questions/64811681/geom-point-putting-dots-at-wrong-values) - 1 votes
+* [Removing the empty data spaces and retaining the uniform bar width in grouped bar chart Using facet grid in ggplot2](https://stackoverflow.com/questions/64801803/removing-the-empty-data-spaces-and-retaining-the-uniform-bar-width-in-grouped-ba) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
