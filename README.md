@@ -1,38 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-12<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-13<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Print the colname and rowname for values that meet certain condition](https://stackoverflow.com/questions/64810857/print-the-colname-and-rowname-for-values-that-meet-certain-condition) - 4 votes
-* [How to do multiple queries](https://stackoverflow.com/questions/64797192/how-to-do-multiple-queries) - 4 votes
-* [Only cut training and validation data after a complete purchase](https://stackoverflow.com/questions/64801469/only-cut-training-and-validation-data-after-a-complete-purchase) - 3 votes
-* [Why does converting from string to integer then back to string raise exception](https://stackoverflow.com/questions/64804970/why-does-converting-from-string-to-integer-then-back-to-string-raise-exception) - 2 votes
-* [Trying to write a Pythonpandas function to update rows in a specific column that equal 0](https://stackoverflow.com/questions/64800032/trying-to-write-a-python-pandas-function-to-update-rows-in-a-specific-column-tha) - 2 votes
+* [How do you scrape a table when the table is unable to return values BeautifulSoup](https://stackoverflow.com/questions/64827590/how-do-you-scrape-a-table-when-the-table-is-unable-to-return-values-beautifuls) - 5 votes
+* [Pandas  write dataframe in fixedwidth formatted lines to a file](https://stackoverflow.com/questions/64826735/pandas-write-dataframe-in-fixed-width-formatted-lines-to-a-file) - 4 votes
+* [Convert pandas df to nested dictionary](https://stackoverflow.com/questions/64817116/convert-pandas-df-to-nested-dictionary) - 3 votes
+* [Adding or subtracting elements within list of list component wise](https://stackoverflow.com/questions/64816522/adding-or-subtracting-elements-within-list-of-list-component-wise) - 3 votes
+* [Change all the values of a data frame based on conditions in pandas](https://stackoverflow.com/questions/64820463/change-all-the-values-of-a-data-frame-based-on-conditions-in-pandas) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to plot minmax bars with a bar plot](https://stackoverflow.com/questions/64796315/how-to-plot-min-max-bars-with-a-bar-plot) - 1 votes
-* [Seaborn Confusion Matrix heatmap 2 color schemes correct diagonal vs wrong rest](https://stackoverflow.com/questions/64800003/seaborn-confusion-matrix-heatmap-2-color-schemes-correct-diagonal-vs-wrong-re) - 1 votes
-* [Histogram of most common words in collectionsCounter object](https://stackoverflow.com/questions/64809764/histogram-of-most-common-words-in-collections-counter-object) - 1 votes
-* [Seaborn Matplotlib Get custom legend outside of plot](https://stackoverflow.com/questions/64808241/seaborn-matplotlib-get-custom-legend-outside-of-plot) - 1 votes
-* [Display multiple images in a grid using subplot](https://stackoverflow.com/questions/64807466/display-multiple-images-in-a-grid-using-subplot) - 1 votes
+* [How to change xlabel of figure in every loop](https://stackoverflow.com/questions/64823550/how-to-change-xlabel-of-figure-in-every-loop) - 3 votes
+* [Python plot 2D array with black and white cells](https://stackoverflow.com/questions/64826246/python-plot-2d-array-with-black-and-white-cells) - 1 votes
+* [How to create a loop to curvefit different data sets of y for same x in Python](https://stackoverflow.com/questions/64828671/how-to-create-a-loop-to-curve-fit-different-data-sets-of-y-for-same-x-in-python) - 1 votes
+* [Efficiency of Code for Matrix operations on Wave equation](https://stackoverflow.com/questions/64827710/efficiency-of-code-for-matrix-operations-on-wave-equation) - 1 votes
+* [Adding a python colorbar but certain values are fixed to a color](https://stackoverflow.com/questions/64826730/adding-a-python-colorbar-but-certain-values-are-fixed-to-a-color) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to make scatter plot points into numbers](https://stackoverflow.com/questions/64810347/how-to-make-scatter-plot-points-into-numbers) - 2 votes
-* [R Titanic dataset practice  trying to find ratio survived](https://stackoverflow.com/questions/64810080/r-titanic-dataset-practice-trying-to-find-ratio-survived) - 1 votes
-* [Geom_point putting dots at wrong values](https://stackoverflow.com/questions/64811681/geom-point-putting-dots-at-wrong-values) - 1 votes
-* [Removing the empty data spaces and retaining the uniform bar width in grouped bar chart Using facet grid in ggplot2](https://stackoverflow.com/questions/64801803/removing-the-empty-data-spaces-and-retaining-the-uniform-bar-width-in-grouped-ba) - 1 votes
+* [ggplot update facet labels with number of points in the plot](https://stackoverflow.com/questions/64821652/ggplot-update-facet-labels-with-number-of-points-in-the-plot) - 2 votes
+* [Displaying saved ggplots in a grid when saved in a matrix in r](https://stackoverflow.com/questions/64817461/displaying-saved-ggplots-in-a-grid-when-saved-in-a-matrix-in-r) - 1 votes
+* [ggplot2  Showing data values for only one category in a stack on bar chart](https://stackoverflow.com/questions/64825777/ggplot2-showing-data-values-for-only-one-category-in-a-stack-on-bar-chart) - 1 votes
+* [How can I animate geom_bar to quotadd dataquot using a filter function](https://stackoverflow.com/questions/64828174/how-can-i-animate-geom-bar-to-add-data-using-a-filter-function) - 1 votes
+* [ggplot labels with quotKquot for thousands or quotMquot for millions maintaining 39comma39 yaxis labeling](https://stackoverflow.com/questions/64827839/ggplot-labels-with-k-for-thousands-or-m-for-millions-maintaining-comma-y) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
