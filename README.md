@@ -1,39 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-13<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-14<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How do you scrape a table when the table is unable to return values BeautifulSoup](https://stackoverflow.com/questions/64827590/how-do-you-scrape-a-table-when-the-table-is-unable-to-return-values-beautifuls) - 5 votes
-* [Pandas  write dataframe in fixedwidth formatted lines to a file](https://stackoverflow.com/questions/64826735/pandas-write-dataframe-in-fixed-width-formatted-lines-to-a-file) - 4 votes
-* [Convert pandas df to nested dictionary](https://stackoverflow.com/questions/64817116/convert-pandas-df-to-nested-dictionary) - 3 votes
-* [Adding or subtracting elements within list of list component wise](https://stackoverflow.com/questions/64816522/adding-or-subtracting-elements-within-list-of-list-component-wise) - 3 votes
-* [Change all the values of a data frame based on conditions in pandas](https://stackoverflow.com/questions/64820463/change-all-the-values-of-a-data-frame-based-on-conditions-in-pandas) - 2 votes
+* [How to create a cooccurence matrix of product orders in python](https://stackoverflow.com/questions/64837148/how-to-create-a-co-occurence-matrix-of-product-orders-in-python) - 5 votes
+* [How to create sum of columns in Pandas based on a conditional of multiple columns](https://stackoverflow.com/questions/64835098/how-to-create-sum-of-columns-in-pandas-based-on-a-conditional-of-multiple-column) - 4 votes
+* [pandas  how to convert a column to a datetime object](https://stackoverflow.com/questions/64835678/pandas-how-to-convert-a-column-to-a-datetime-object) - 3 votes
+* [Combining Observations of dataframe hourly](https://stackoverflow.com/questions/64836844/combining-observations-of-dataframe-hourly) - 2 votes
+* [Convert DataFrame to multidimensional array following a format](https://stackoverflow.com/questions/64830961/convert-dataframe-to-multidimensional-array-following-a-format) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to change xlabel of figure in every loop](https://stackoverflow.com/questions/64823550/how-to-change-xlabel-of-figure-in-every-loop) - 3 votes
-* [Python plot 2D array with black and white cells](https://stackoverflow.com/questions/64826246/python-plot-2d-array-with-black-and-white-cells) - 1 votes
-* [How to create a loop to curvefit different data sets of y for same x in Python](https://stackoverflow.com/questions/64828671/how-to-create-a-loop-to-curve-fit-different-data-sets-of-y-for-same-x-in-python) - 1 votes
-* [Efficiency of Code for Matrix operations on Wave equation](https://stackoverflow.com/questions/64827710/efficiency-of-code-for-matrix-operations-on-wave-equation) - 1 votes
-* [Adding a python colorbar but certain values are fixed to a color](https://stackoverflow.com/questions/64826730/adding-a-python-colorbar-but-certain-values-are-fixed-to-a-color) - 1 votes
+* [Why are the columns in the matplotlib histogram not on top of the numbers](https://stackoverflow.com/questions/64835095/why-are-the-columns-in-the-matplotlib-histogram-not-on-top-of-the-numbers) - 2 votes
+* [Apps not popping up on macOS Big Sur 1101](https://stackoverflow.com/questions/64833558/apps-not-popping-up-on-macos-big-sur-11-0-1) - 2 votes
+* [Matplotlib How to plot points on my graph instead of painting them on a button](https://stackoverflow.com/questions/64833470/matplotlib-how-to-plot-points-on-my-graph-instead-of-painting-them-on-a-button) - 1 votes
+* [what is a relationship between a string representation of date and datetime object on this plt39s plot](https://stackoverflow.com/questions/64834556/what-is-a-relationship-between-a-string-representation-of-date-and-datetime-obje) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [ggplot update facet labels with number of points in the plot](https://stackoverflow.com/questions/64821652/ggplot-update-facet-labels-with-number-of-points-in-the-plot) - 2 votes
-* [Displaying saved ggplots in a grid when saved in a matrix in r](https://stackoverflow.com/questions/64817461/displaying-saved-ggplots-in-a-grid-when-saved-in-a-matrix-in-r) - 1 votes
-* [ggplot2  Showing data values for only one category in a stack on bar chart](https://stackoverflow.com/questions/64825777/ggplot2-showing-data-values-for-only-one-category-in-a-stack-on-bar-chart) - 1 votes
-* [How can I animate geom_bar to quotadd dataquot using a filter function](https://stackoverflow.com/questions/64828174/how-can-i-animate-geom-bar-to-add-data-using-a-filter-function) - 1 votes
-* [ggplot labels with quotKquot for thousands or quotMquot for millions maintaining 39comma39 yaxis labeling](https://stackoverflow.com/questions/64827839/ggplot-labels-with-k-for-thousands-or-m-for-millions-maintaining-comma-y) - 1 votes
+* [how to plot multiple area plots with ggplot2](https://stackoverflow.com/questions/64836417/how-to-plot-multiple-area-plots-with-ggplot2) - 2 votes
+* [geom_bar grouped data with geom_point color based on values](https://stackoverflow.com/questions/64837113/geom-bar-grouped-data-with-geom-point-color-based-on-values) - 2 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
