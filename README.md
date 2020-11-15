@@ -1,35 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-14<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-15<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to create a cooccurence matrix of product orders in python](https://stackoverflow.com/questions/64837148/how-to-create-a-co-occurence-matrix-of-product-orders-in-python) - 5 votes
-* [How to create sum of columns in Pandas based on a conditional of multiple columns](https://stackoverflow.com/questions/64835098/how-to-create-sum-of-columns-in-pandas-based-on-a-conditional-of-multiple-column) - 4 votes
-* [pandas  how to convert a column to a datetime object](https://stackoverflow.com/questions/64835678/pandas-how-to-convert-a-column-to-a-datetime-object) - 3 votes
-* [Combining Observations of dataframe hourly](https://stackoverflow.com/questions/64836844/combining-observations-of-dataframe-hourly) - 2 votes
-* [Convert DataFrame to multidimensional array following a format](https://stackoverflow.com/questions/64830961/convert-dataframe-to-multidimensional-array-following-a-format) - 2 votes
+* [Groupby and Aggregate over a pandas column with list as elements and get unique values in list](https://stackoverflow.com/questions/64843758/groupby-and-aggregate-over-a-pandas-column-with-list-as-elements-and-get-unique) - 2 votes
+* [converting string ratio to integer](https://stackoverflow.com/questions/64847350/converting-string-ratio-to-integer) - 2 votes
+* [Condensing Wide Data Based on Column Name](https://stackoverflow.com/questions/64850612/condensing-wide-data-based-on-column-name) - 2 votes
+* [Extracting continuous values above a certain threshold in a Numpy array](https://stackoverflow.com/questions/64840152/extracting-continuous-values-above-a-certain-threshold-in-a-numpy-array) - 2 votes
+* [Splitting a string in dataframe](https://stackoverflow.com/questions/64847859/splitting-a-string-in-dataframe) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Why are the columns in the matplotlib histogram not on top of the numbers](https://stackoverflow.com/questions/64835095/why-are-the-columns-in-the-matplotlib-histogram-not-on-top-of-the-numbers) - 2 votes
-* [Apps not popping up on macOS Big Sur 1101](https://stackoverflow.com/questions/64833558/apps-not-popping-up-on-macos-big-sur-11-0-1) - 2 votes
-* [Matplotlib How to plot points on my graph instead of painting them on a button](https://stackoverflow.com/questions/64833470/matplotlib-how-to-plot-points-on-my-graph-instead-of-painting-them-on-a-button) - 1 votes
-* [what is a relationship between a string representation of date and datetime object on this plt39s plot](https://stackoverflow.com/questions/64834556/what-is-a-relationship-between-a-string-representation-of-date-and-datetime-obje) - 1 votes
+* [How to combine two DataFrames in subplots](https://stackoverflow.com/questions/64846085/how-to-combine-two-dataframes-in-subplots) - 1 votes
+* [Plot categorical scatterplot in seaborn or matplotlib](https://stackoverflow.com/questions/64840798/plot-categorical-scatterplot-in-seaborn-or-matplotlib) - 1 votes
+* [Trying to limit the plot display into a cube with solid walls matplotlib 3d surface](https://stackoverflow.com/questions/64848915/trying-to-limit-the-plot-display-into-a-cube-with-solid-walls-matplotlib-3d-sur) - 1 votes
+* [Subplots not plotting correctly matplotlib](https://stackoverflow.com/questions/64847274/subplots-not-plotting-correctly-matplotlib) - 1 votes
+* [matplotlib imshow not showing updated image that should be represented by changed np array](https://stackoverflow.com/questions/64847140/matplotlib-imshow-not-showing-updated-image-that-should-be-represented-by-change) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [how to plot multiple area plots with ggplot2](https://stackoverflow.com/questions/64836417/how-to-plot-multiple-area-plots-with-ggplot2) - 2 votes
-* [geom_bar grouped data with geom_point color based on values](https://stackoverflow.com/questions/64837113/geom-bar-grouped-data-with-geom-point-color-based-on-values) - 2 votes
+* [ggplot plotting more than one function on one plot](https://stackoverflow.com/questions/64848044/ggplot-plotting-more-than-one-function-on-one-plot) - 2 votes
+* [how to prevent an overlapped segments in geom_segment](https://stackoverflow.com/questions/64848879/how-to-prevent-an-overlapped-segments-in-geom-segment) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
