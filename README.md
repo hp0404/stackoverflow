@@ -1,38 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-17<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-18<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas creating a new column conditional on substring searches of one column and inverse of another column](https://stackoverflow.com/questions/64884355/pandas-creating-a-new-column-conditional-on-substring-searches-of-one-column-an) - 3 votes
-* [How to mix two pandas columns into one dataframe with first element from first column second element from second column and so on](https://stackoverflow.com/questions/64876626/how-to-mix-two-pandas-columns-into-one-dataframe-with-first-element-from-first-c) - 2 votes
-* [How to title a pandas dataframe](https://stackoverflow.com/questions/64881586/how-to-title-a-pandas-dataframe) - 2 votes
-* [pandas create n new columns to contain last n values rolling](https://stackoverflow.com/questions/64878086/pandas-create-n-new-columns-to-contain-last-n-values-rolling) - 2 votes
-* [How to store result of pip command into Pandas Datafarme](https://stackoverflow.com/questions/64873796/how-to-store-result-of-pip-command-into-pandas-datafarme) - 2 votes
+* [Create dataframe from dictionary where arrays are of unequal length](https://stackoverflow.com/questions/64900636/create-dataframe-from-dictionary-where-arrays-are-of-unequal-length) - 3 votes
+* [How do I avoid type errors when internal function returns 39Union39 that could be 39None39](https://stackoverflow.com/questions/64896838/how-do-i-avoid-type-errors-when-internal-function-returns-union-that-could-be) - 3 votes
+* [Python Pandas How do I create a column given a condition based on another column](https://stackoverflow.com/questions/64890256/python-pandas-how-do-i-create-a-column-given-a-condition-based-on-another-colum) - 2 votes
+* [How to replace all numbers with letterssymbols attached ie 43 in a dataframe column](https://stackoverflow.com/questions/64892229/how-to-replace-all-numbers-with-letters-symbols-attached-i-e-43-in-a-datafr) - 2 votes
+* [Replacing values in pandas dataframe columns by criteria](https://stackoverflow.com/questions/64886014/replacing-values-in-pandas-dataframe-columns-by-criteria) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to create two different figures based on the same previous one](https://stackoverflow.com/questions/64873354/how-to-create-two-different-figures-based-on-the-same-previous-one) - 1 votes
-* [Type hint for matplotlib axes](https://stackoverflow.com/questions/64880328/type-hint-for-matplotlib-axes) - 1 votes
-* [Is there any way of plotting several categorical variables against one numerical variable in Python](https://stackoverflow.com/questions/64880290/is-there-any-way-of-plotting-several-categorical-variables-against-one-numerical) - 1 votes
-* [How to plot a streamplot in python for a streamline flow arround a cylinder](https://stackoverflow.com/questions/64877298/how-to-plot-a-streamplot-in-python-for-a-streamline-flow-arround-a-cylinder) - 1 votes
-* [Using two types of grouping one for plotting line one for color in matplotlib](https://stackoverflow.com/questions/64873832/using-two-types-of-grouping-one-for-plotting-line-one-for-color-in-matplotlib) - 1 votes
+* [How to plot the line between the green and red points](https://stackoverflow.com/questions/64894307/how-to-plot-the-line-between-the-green-and-red-points) - 2 votes
+* [Basic Python an equation and a plot using Jupyter Notebook not working](https://stackoverflow.com/questions/64893652/basic-python-an-equation-and-a-plot-using-jupyter-notebook-not-working) - 1 votes
+* [Animate the evolution of a Markov Chain on a 2 dimensional array with python matplotlib imshow](https://stackoverflow.com/questions/64899030/animate-the-evolution-of-a-markov-chain-on-a-2-dimensional-array-with-python-mat) - 1 votes
+* [Cannot import matplotlibpyplot because of ArialMT font on Ubuntu](https://stackoverflow.com/questions/64892162/cannot-import-matplotlib-pyplot-because-of-arialmt-font-on-ubuntu) - 1 votes
+* [I39m plotting vectors with pyplotarrows Is there a proper way to connect ends of vectors with dashed lines](https://stackoverflow.com/questions/64891855/im-plotting-vectors-with-pyplot-arrows-is-there-a-proper-way-to-connect-ends-o) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Bring labels to the front and leaders to the back using geom_label_repel in R](https://stackoverflow.com/questions/64884545/bring-labels-to-the-front-and-leaders-to-the-back-using-geom-label-repel-in-r) - 2 votes
-* [no of geom_point matches the value](https://stackoverflow.com/questions/64869181/no-of-geom-point-matches-the-value) - 1 votes
-* [ggridges not showing all factors in legend](https://stackoverflow.com/questions/64883153/ggridges-not-showing-all-factors-in-legend) - 1 votes
-* [Keep same breaks across different contour plots in ggplot2](https://stackoverflow.com/questions/64873086/keep-same-breaks-across-different-contour-plots-in-ggplot2) - 1 votes
+* [Legends labels don39t match with assigned colour ggplot2](https://stackoverflow.com/questions/64886963/legends-labels-dont-match-with-assigned-colour-ggplot2) - 3 votes
+* [Divide year in quarters with ggplot2](https://stackoverflow.com/questions/64894516/divide-year-in-quarters-with-ggplot2) - 2 votes
+* [Detecting programmatically whether axis labels overlap](https://stackoverflow.com/questions/64901424/detecting-programmatically-whether-axis-labels-overlap) - 2 votes
+* [where can I find the complete list of shapes and colors as character inputs for geom_point](https://stackoverflow.com/questions/64886672/where-can-i-find-the-complete-list-of-shapes-and-colors-as-character-inputs-for) - 1 votes
+* [How can have different ggplot2 backgrounds for different regions in a plot](https://stackoverflow.com/questions/64887416/how-can-have-different-ggplot2-backgrounds-for-different-regions-in-a-plot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
