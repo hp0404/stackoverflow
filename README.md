@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-18<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-19<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Create dataframe from dictionary where arrays are of unequal length](https://stackoverflow.com/questions/64900636/create-dataframe-from-dictionary-where-arrays-are-of-unequal-length) - 3 votes
-* [How do I avoid type errors when internal function returns 39Union39 that could be 39None39](https://stackoverflow.com/questions/64896838/how-do-i-avoid-type-errors-when-internal-function-returns-union-that-could-be) - 3 votes
-* [Python Pandas How do I create a column given a condition based on another column](https://stackoverflow.com/questions/64890256/python-pandas-how-do-i-create-a-column-given-a-condition-based-on-another-colum) - 2 votes
-* [How to replace all numbers with letterssymbols attached ie 43 in a dataframe column](https://stackoverflow.com/questions/64892229/how-to-replace-all-numbers-with-letters-symbols-attached-i-e-43-in-a-datafr) - 2 votes
-* [Replacing values in pandas dataframe columns by criteria](https://stackoverflow.com/questions/64886014/replacing-values-in-pandas-dataframe-columns-by-criteria) - 2 votes
+* [Pandas pivot or reshape dataframe with NaN](https://stackoverflow.com/questions/64905007/pandas-pivot-or-reshape-dataframe-with-nan) - 3 votes
+* [Replace values in pandas dataframe column with different replacement dict based on condition](https://stackoverflow.com/questions/64908770/replace-values-in-pandas-dataframe-column-with-different-replacement-dict-based) - 3 votes
+* [Pythonic way to get a weighted sum using a DataFrame and dict](https://stackoverflow.com/questions/64904728/pythonic-way-to-get-a-weighted-sum-using-a-dataframe-and-dict) - 3 votes
+* [Pandas removing float values from output of a pivot_table used for counting](https://stackoverflow.com/questions/64904345/pandas-removing-float-values-from-output-of-a-pivot-table-used-for-counting) - 3 votes
+* [Slice rows with same index number pandas](https://stackoverflow.com/questions/64906272/slice-rows-with-same-index-number-pandas) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to plot the line between the green and red points](https://stackoverflow.com/questions/64894307/how-to-plot-the-line-between-the-green-and-red-points) - 2 votes
-* [Basic Python an equation and a plot using Jupyter Notebook not working](https://stackoverflow.com/questions/64893652/basic-python-an-equation-and-a-plot-using-jupyter-notebook-not-working) - 1 votes
-* [Animate the evolution of a Markov Chain on a 2 dimensional array with python matplotlib imshow](https://stackoverflow.com/questions/64899030/animate-the-evolution-of-a-markov-chain-on-a-2-dimensional-array-with-python-mat) - 1 votes
-* [Cannot import matplotlibpyplot because of ArialMT font on Ubuntu](https://stackoverflow.com/questions/64892162/cannot-import-matplotlib-pyplot-because-of-arialmt-font-on-ubuntu) - 1 votes
-* [I39m plotting vectors with pyplotarrows Is there a proper way to connect ends of vectors with dashed lines](https://stackoverflow.com/questions/64891855/im-plotting-vectors-with-pyplot-arrows-is-there-a-proper-way-to-connect-ends-o) - 1 votes
+* [Visualizing data in python](https://stackoverflow.com/questions/64907396/visualizing-data-in-python) - 3 votes
+* [How to draw single plot with two colors in Pandas](https://stackoverflow.com/questions/64908409/how-to-draw-single-plot-with-two-colors-in-pandas) - 2 votes
+* [How to plot a Gaussian Distribution on yaxis](https://stackoverflow.com/questions/64918365/how-to-plot-a-gaussian-distribution-on-y-axis) - 1 votes
+* [how to modify the legend and the background in matplotlib](https://stackoverflow.com/questions/64904138/how-to-modify-the-legend-and-the-background-in-matplotlib) - 1 votes
+* [Why i cant save animation in mp4](https://stackoverflow.com/questions/64921445/why-i-cant-save-animation-in-mp4) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Legends labels don39t match with assigned colour ggplot2](https://stackoverflow.com/questions/64886963/legends-labels-dont-match-with-assigned-colour-ggplot2) - 3 votes
-* [Divide year in quarters with ggplot2](https://stackoverflow.com/questions/64894516/divide-year-in-quarters-with-ggplot2) - 2 votes
-* [Detecting programmatically whether axis labels overlap](https://stackoverflow.com/questions/64901424/detecting-programmatically-whether-axis-labels-overlap) - 2 votes
-* [where can I find the complete list of shapes and colors as character inputs for geom_point](https://stackoverflow.com/questions/64886672/where-can-i-find-the-complete-list-of-shapes-and-colors-as-character-inputs-for) - 1 votes
-* [How can have different ggplot2 backgrounds for different regions in a plot](https://stackoverflow.com/questions/64887416/how-can-have-different-ggplot2-backgrounds-for-different-regions-in-a-plot) - 1 votes
+* [ggplot fill property changes scale](https://stackoverflow.com/questions/64906802/ggplot-fill-property-changes-scale) - 1 votes
+* [How can I make a feather plot in R](https://stackoverflow.com/questions/64919147/how-can-i-make-a-feather-plot-in-r) - 1 votes
+* [ggplot2 drawing a line between two values](https://stackoverflow.com/questions/64914651/ggplot2-drawing-a-line-between-two-values) - 1 votes
+* [ggplot in R to add significance asterisk vs control group over multiple variables](https://stackoverflow.com/questions/64917757/ggplot-in-r-to-add-significance-asterisk-vs-control-group-over-multiple-variable) - 1 votes
+* [add multiple geom_density lines by str_detect class in ggplot](https://stackoverflow.com/questions/64906360/add-multiple-geom-density-lines-by-str-detect-class-in-ggplot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
