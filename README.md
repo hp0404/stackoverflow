@@ -1,38 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-21<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-22<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Python Dataframe extract list of unique dates from a big datetimeindex of few million rows](https://stackoverflow.com/questions/64939852/python-dataframe-extract-list-of-unique-dates-from-a-big-datetimeindex-of-few-mi) - 3 votes
-* [Dataframe Left Merge with Matching Keys In Different Columns](https://stackoverflow.com/questions/64943817/dataframe-left-merge-with-matching-keys-in-different-columns) - 3 votes
-* [Replace values by result of a function](https://stackoverflow.com/questions/64945894/replace-values-by-result-of-a-function) - 2 votes
-* [How to extract row with mixed value](https://stackoverflow.com/questions/64948047/how-to-extract-row-with-mixed-value) - 2 votes
-* [Calculate mean for selected rows for selected columns in pandas data framebut end up with some weird number](https://stackoverflow.com/questions/64940903/calculate-mean-for-selected-rows-for-selected-columns-in-pandas-data-frame-but-e) - 2 votes
+* [Difference between  and  in Python](https://stackoverflow.com/questions/64955439/difference-between-and-in-python) - 3 votes
+* [Filtering a dataframe using a list of strings](https://stackoverflow.com/questions/64952292/filtering-a-dataframe-using-a-list-of-strings) - 3 votes
+* [replace values in data frame based on pivot table values](https://stackoverflow.com/questions/64950734/replace-values-in-data-frame-based-on-pivot-table-values) - 3 votes
+* [How can I find the highest value between rows every time that they met a certain condition](https://stackoverflow.com/questions/64950108/how-can-i-find-the-highest-value-between-rows-every-time-that-they-met-a-certain) - 2 votes
+* [Replace NaN in Pandas based on a multicolumn condition](https://stackoverflow.com/questions/64953680/replace-nan-in-pandas-based-on-a-multi-column-condition) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Geopandas  plot points with their IDs](https://stackoverflow.com/questions/64939075/geopandas-plot-points-with-their-ids) - 2 votes
-* [Adding a line on top of each bar in MatPlotlib graph](https://stackoverflow.com/questions/64947317/adding-a-line-on-top-of-each-bar-in-matplotlib-graph) - 1 votes
-* [How to connect surfaces in 3D](https://stackoverflow.com/questions/64948227/how-to-connect-surfaces-in-3d) - 1 votes
-* [How can I assign different colors to different nodes in my network](https://stackoverflow.com/questions/64939523/how-can-i-assign-different-colors-to-different-nodes-in-my-network) - 1 votes
+* [Plotting line graph for 3 variables in python](https://stackoverflow.com/questions/64949449/plotting-line-graph-for-3-variables-in-python) - 4 votes
+* [change font size and bold of 39xticks39 and 39Yticks39 for subplots in matplotlib](https://stackoverflow.com/questions/64951674/change-font-size-and-bold-of-xticks-and-yticks-for-subplots-in-matplotlib) - 1 votes
+* [How to locate the ticks to center of grid when plotting heatmap with seaborn](https://stackoverflow.com/questions/64950543/how-to-locate-the-ticks-to-center-of-grid-when-plotting-heatmap-with-seaborn) - 1 votes
+* [Matplotlib I have data for different days Is there a simple way to fill in all values for using last value for missing dates](https://stackoverflow.com/questions/64952879/matplotlib-i-have-data-for-different-days-is-there-a-simple-way-to-fill-in-all) - 1 votes
+* [matplotlib 330 custom latex preamble format in style sheet](https://stackoverflow.com/questions/64952361/matplotlib-3-3-0-custom-latex-preamble-format-in-style-sheet) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [ggplot reorder categorical yaxis Gantt chart](https://stackoverflow.com/questions/64940870/ggplot-re-order-categorical-y-axis-gantt-chart) - 3 votes
-* [parsing numeric values in character as they are irrespective of value of scipen](https://stackoverflow.com/questions/64948539/parsing-numeric-values-in-character-as-they-are-irrespective-of-value-of-scipen) - 2 votes
-* [ggplot2 How to show a datapoint in a circular 360 degree bar plot with an angle of 0 degree](https://stackoverflow.com/questions/64942504/ggplot2-how-to-show-a-datapoint-in-a-circular-360-degree-bar-plot-with-an-angle) - 2 votes
-* [Scatter plot and line of best fit  Two sets](https://stackoverflow.com/questions/64946441/scatter-plot-and-line-of-best-fit-two-sets) - 1 votes
-* [R Label Xaxis on line chart with ggplot2](https://stackoverflow.com/questions/64948053/r-label-x-axis-on-line-chart-with-ggplot2) - 1 votes
+* [plotting predictions from a piecewise mixed regression model](https://stackoverflow.com/questions/64949427/plotting-predictions-from-a-piece-wise-mixed-regression-model) - 4 votes
+* [how to use facet_wrap to ggplot multiple location point in R](https://stackoverflow.com/questions/64958072/how-to-use-facet-wrap-to-ggplot-multiple-location-point-in-r) - 1 votes
+* [R by group mirrored histogram using ggplot2](https://stackoverflow.com/questions/64957319/r-by-group-mirrored-histogram-using-ggplot2) - 1 votes
+* [Location letters in a horizontal line in R](https://stackoverflow.com/questions/64960677/location-letters-in-a-horizontal-line-in-r) - 1 votes
+* [How to alter relative width of ggplot panels in ggarrange](https://stackoverflow.com/questions/64958412/how-to-alter-relative-width-of-ggplot-panels-in-ggarrange) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
