@@ -1,39 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-22<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-23<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Difference between  and  in Python](https://stackoverflow.com/questions/64955439/difference-between-and-in-python) - 3 votes
-* [Filtering a dataframe using a list of strings](https://stackoverflow.com/questions/64952292/filtering-a-dataframe-using-a-list-of-strings) - 3 votes
-* [replace values in data frame based on pivot table values](https://stackoverflow.com/questions/64950734/replace-values-in-data-frame-based-on-pivot-table-values) - 3 votes
-* [How can I find the highest value between rows every time that they met a certain condition](https://stackoverflow.com/questions/64950108/how-can-i-find-the-highest-value-between-rows-every-time-that-they-met-a-certain) - 2 votes
-* [Replace NaN in Pandas based on a multicolumn condition](https://stackoverflow.com/questions/64953680/replace-nan-in-pandas-based-on-a-multi-column-condition) - 2 votes
+* [Can I use pandas39 pivot_table to aggregate over a column with missing values](https://stackoverflow.com/questions/64976121/can-i-use-pandas-pivot-table-to-aggregate-over-a-column-with-missing-values) - 4 votes
+* [python dataframe income column cleanup](https://stackoverflow.com/questions/64962033/python-dataframe-income-column-cleanup) - 4 votes
+* [Python Can you check how many times a unique combination of two column values appears in another dataframe](https://stackoverflow.com/questions/64972029/python-can-you-check-how-many-times-a-unique-combination-of-two-column-values-a) - 3 votes
+* [Find groups containing several rows matching condition](https://stackoverflow.com/questions/64977069/find-groups-containing-several-rows-matching-condition) - 3 votes
+* [Pandas convert integer zeroes and ones to boolean](https://stackoverflow.com/questions/64968646/pandas-convert-integer-zeroes-and-ones-to-boolean) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Plotting line graph for 3 variables in python](https://stackoverflow.com/questions/64949449/plotting-line-graph-for-3-variables-in-python) - 4 votes
-* [change font size and bold of 39xticks39 and 39Yticks39 for subplots in matplotlib](https://stackoverflow.com/questions/64951674/change-font-size-and-bold-of-xticks-and-yticks-for-subplots-in-matplotlib) - 1 votes
-* [How to locate the ticks to center of grid when plotting heatmap with seaborn](https://stackoverflow.com/questions/64950543/how-to-locate-the-ticks-to-center-of-grid-when-plotting-heatmap-with-seaborn) - 1 votes
-* [Matplotlib I have data for different days Is there a simple way to fill in all values for using last value for missing dates](https://stackoverflow.com/questions/64952879/matplotlib-i-have-data-for-different-days-is-there-a-simple-way-to-fill-in-all) - 1 votes
-* [matplotlib 330 custom latex preamble format in style sheet](https://stackoverflow.com/questions/64952361/matplotlib-3-3-0-custom-latex-preamble-format-in-style-sheet) - 1 votes
+* [How can I subtract from an array the subsequent number in the same array](https://stackoverflow.com/questions/64972820/how-can-i-subtract-from-an-array-the-subsequent-number-in-the-same-array) - 1 votes
+* [Is it possible to access the rasterized representation of a matplotlib Artist](https://stackoverflow.com/questions/64963287/is-it-possible-to-access-the-rasterized-representation-of-a-matplotlib-artist) - 1 votes
+* [color cycler in matplotlib  how to repeat each color once before cycling](https://stackoverflow.com/questions/64962945/color-cycler-in-matplotlib-how-to-repeat-each-color-once-before-cycling) - 1 votes
+* [matplotlibshow seemingly not doing anything](https://stackoverflow.com/questions/64970304/matplotlib-show-seemingly-not-doing-anything) - 1 votes
+* [Matplotlib  Plot uneven steps from DataFrame](https://stackoverflow.com/questions/64962643/matplotlib-plot-uneven-steps-from-dataframe) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [plotting predictions from a piecewise mixed regression model](https://stackoverflow.com/questions/64949427/plotting-predictions-from-a-piece-wise-mixed-regression-model) - 4 votes
-* [how to use facet_wrap to ggplot multiple location point in R](https://stackoverflow.com/questions/64958072/how-to-use-facet-wrap-to-ggplot-multiple-location-point-in-r) - 1 votes
-* [R by group mirrored histogram using ggplot2](https://stackoverflow.com/questions/64957319/r-by-group-mirrored-histogram-using-ggplot2) - 1 votes
-* [Location letters in a horizontal line in R](https://stackoverflow.com/questions/64960677/location-letters-in-a-horizontal-line-in-r) - 1 votes
-* [How to alter relative width of ggplot panels in ggarrange](https://stackoverflow.com/questions/64958412/how-to-alter-relative-width-of-ggplot-panels-in-ggarrange) - 1 votes
+* [ggplot2 Creating Bar Plot for every element on xaxis but also for the whole sample](https://stackoverflow.com/questions/64961151/ggplot2-creating-bar-plot-for-every-element-on-x-axis-but-also-for-the-whole-sa) - 1 votes
+* [How to Change colors IF in geom_bar ggplot2 IFelse dont work](https://stackoverflow.com/questions/64976274/how-to-change-colors-if-in-geom-bar-ggplot2-ifelse-dont-work) - 1 votes
+* [Graph Sizing for RMarkdown  ggplotly](https://stackoverflow.com/questions/64973845/graph-sizing-for-rmarkdown-ggplotly) - 1 votes
+* [geom_contour specific isobar value](https://stackoverflow.com/questions/64966887/geom-contour-specific-isobar-value) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
