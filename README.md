@@ -1,38 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-23<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-24<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Can I use pandas39 pivot_table to aggregate over a column with missing values](https://stackoverflow.com/questions/64976121/can-i-use-pandas-pivot-table-to-aggregate-over-a-column-with-missing-values) - 4 votes
-* [python dataframe income column cleanup](https://stackoverflow.com/questions/64962033/python-dataframe-income-column-cleanup) - 4 votes
-* [Python Can you check how many times a unique combination of two column values appears in another dataframe](https://stackoverflow.com/questions/64972029/python-can-you-check-how-many-times-a-unique-combination-of-two-column-values-a) - 3 votes
-* [Find groups containing several rows matching condition](https://stackoverflow.com/questions/64977069/find-groups-containing-several-rows-matching-condition) - 3 votes
-* [Pandas convert integer zeroes and ones to boolean](https://stackoverflow.com/questions/64968646/pandas-convert-integer-zeroes-and-ones-to-boolean) - 2 votes
+* [change value of a column based on another column](https://stackoverflow.com/questions/64980121/change-value-of-a-column-based-on-another-column) - 4 votes
+* [pandas groupby rolling behaviour](https://stackoverflow.com/questions/64987852/pandas-groupby-rolling-behaviour) - 4 votes
+* [Roll up dataframe values into a cell above it](https://stackoverflow.com/questions/64992183/roll-up-dataframe-values-into-a-cell-above-it) - 3 votes
+* [Python Pandas Remove Duplicate Cells issue](https://stackoverflow.com/questions/64982951/python-pandas-remove-duplicate-cells-issue) - 3 votes
+* [Any straightforward way of adding multiindex columns](https://stackoverflow.com/questions/64980064/any-straightforward-way-of-adding-multiindex-columns) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How can I subtract from an array the subsequent number in the same array](https://stackoverflow.com/questions/64972820/how-can-i-subtract-from-an-array-the-subsequent-number-in-the-same-array) - 1 votes
-* [Is it possible to access the rasterized representation of a matplotlib Artist](https://stackoverflow.com/questions/64963287/is-it-possible-to-access-the-rasterized-representation-of-a-matplotlib-artist) - 1 votes
-* [color cycler in matplotlib  how to repeat each color once before cycling](https://stackoverflow.com/questions/64962945/color-cycler-in-matplotlib-how-to-repeat-each-color-once-before-cycling) - 1 votes
-* [matplotlibshow seemingly not doing anything](https://stackoverflow.com/questions/64970304/matplotlib-show-seemingly-not-doing-anything) - 1 votes
-* [Matplotlib  Plot uneven steps from DataFrame](https://stackoverflow.com/questions/64962643/matplotlib-plot-uneven-steps-from-dataframe) - 1 votes
+* [Is there a way to add a new tick to the y axis in pyplot while using a log scale](https://stackoverflow.com/questions/64985835/is-there-a-way-to-add-a-new-tick-to-the-y-axis-in-pyplot-while-using-a-log-scale) - 2 votes
+* [Printing power at certain frequencies using rtlsdr](https://stackoverflow.com/questions/64995955/printing-power-at-certain-frequencies-using-rtlsdr) - 2 votes
+* [There is a ready to use matplotlib toolbar button to measure axis delta in selected range](https://stackoverflow.com/questions/64992578/there-is-a-ready-to-use-matplotlib-toolbar-button-to-measure-axis-delta-in-selec) - 2 votes
+* [Plot a list of tuples on x axis](https://stackoverflow.com/questions/64980924/plot-a-list-of-tuples-on-x-axis) - 1 votes
+* [Plotting a sequence with lines at 90 degree angles in Matplotlib](https://stackoverflow.com/questions/64991444/plotting-a-sequence-with-lines-at-90-degree-angles-in-matplotlib) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [ggplot2 Creating Bar Plot for every element on xaxis but also for the whole sample](https://stackoverflow.com/questions/64961151/ggplot2-creating-bar-plot-for-every-element-on-x-axis-but-also-for-the-whole-sa) - 1 votes
-* [How to Change colors IF in geom_bar ggplot2 IFelse dont work](https://stackoverflow.com/questions/64976274/how-to-change-colors-if-in-geom-bar-ggplot2-ifelse-dont-work) - 1 votes
-* [Graph Sizing for RMarkdown  ggplotly](https://stackoverflow.com/questions/64973845/graph-sizing-for-rmarkdown-ggplotly) - 1 votes
-* [geom_contour specific isobar value](https://stackoverflow.com/questions/64966887/geom-contour-specific-isobar-value) - 1 votes
+* [Add black outline for different geom_point shapes on DESeq2 PCA](https://stackoverflow.com/questions/64989894/add-black-outline-for-different-geom-point-shapes-on-deseq2-pca) - 2 votes
+* [Automatically Convert Polynomials to Expression for ggplot Legend in R](https://stackoverflow.com/questions/64988222/automatically-convert-polynomials-to-expression-for-ggplot-legend-in-r) - 2 votes
+* [Dividing a linecurve into certain number of points and extract the coordinates](https://stackoverflow.com/questions/64992229/dividing-a-line-curve-into-certain-number-of-points-and-extract-the-co-ordinates) - 1 votes
+* [How to increase aesthetic qualities of ggplot](https://stackoverflow.com/questions/64985637/how-to-increase-aesthetic-qualities-of-ggplot) - 1 votes
+* [Dynamic axis ticks at top and bottom of plot area with consistent number of intervals and consistent width when looping ggplot2 gridarrange](https://stackoverflow.com/questions/64991743/dynamic-axis-ticks-at-top-and-bottom-of-plot-area-with-consistent-number-of-inte) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
