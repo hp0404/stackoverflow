@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-24<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-25<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [change value of a column based on another column](https://stackoverflow.com/questions/64980121/change-value-of-a-column-based-on-another-column) - 4 votes
-* [pandas groupby rolling behaviour](https://stackoverflow.com/questions/64987852/pandas-groupby-rolling-behaviour) - 4 votes
-* [Roll up dataframe values into a cell above it](https://stackoverflow.com/questions/64992183/roll-up-dataframe-values-into-a-cell-above-it) - 3 votes
-* [Python Pandas Remove Duplicate Cells issue](https://stackoverflow.com/questions/64982951/python-pandas-remove-duplicate-cells-issue) - 3 votes
-* [Any straightforward way of adding multiindex columns](https://stackoverflow.com/questions/64980064/any-straightforward-way-of-adding-multiindex-columns) - 3 votes
+* [Is there a way to filter a dataframe based on a specific value but also keep all other values for the unique identifier using pandas](https://stackoverflow.com/questions/65010276/is-there-a-way-to-filter-a-dataframe-based-on-a-specific-value-but-also-keep-all) - 3 votes
+* [How to append column to Panda dataframe based on a rolling window lookup](https://stackoverflow.com/questions/65012962/how-to-append-column-to-panda-dataframe-based-on-a-rolling-window-lookup) - 3 votes
+* [Drop Nonequivalent Multiindex Rows in Pandas Dataframe](https://stackoverflow.com/questions/64999054/drop-non-equivalent-multiindex-rows-in-pandas-dataframe) - 3 votes
+* [how to count words in a dataframe using pandas](https://stackoverflow.com/questions/64999656/how-to-count-words-in-a-dataframe-using-pandas) - 2 votes
+* [How to remove all rows that have values above the 99th percentile for certain columns in pandas efficiently](https://stackoverflow.com/questions/65007625/how-to-remove-all-rows-that-have-values-above-the-99th-percentile-for-certain-co) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Is there a way to add a new tick to the y axis in pyplot while using a log scale](https://stackoverflow.com/questions/64985835/is-there-a-way-to-add-a-new-tick-to-the-y-axis-in-pyplot-while-using-a-log-scale) - 2 votes
-* [Printing power at certain frequencies using rtlsdr](https://stackoverflow.com/questions/64995955/printing-power-at-certain-frequencies-using-rtlsdr) - 2 votes
-* [There is a ready to use matplotlib toolbar button to measure axis delta in selected range](https://stackoverflow.com/questions/64992578/there-is-a-ready-to-use-matplotlib-toolbar-button-to-measure-axis-delta-in-selec) - 2 votes
-* [Plot a list of tuples on x axis](https://stackoverflow.com/questions/64980924/plot-a-list-of-tuples-on-x-axis) - 1 votes
-* [Plotting a sequence with lines at 90 degree angles in Matplotlib](https://stackoverflow.com/questions/64991444/plotting-a-sequence-with-lines-at-90-degree-angles-in-matplotlib) - 1 votes
+* [Represent intervals within the x axis of histogram in Python](https://stackoverflow.com/questions/65010736/represent-intervals-within-the-x-axis-of-histogram-in-python) - 3 votes
+* [Plot specific column values in Seaborn instead of every column value](https://stackoverflow.com/questions/65012697/plot-specific-column-values-in-seaborn-instead-of-every-column-value) - 1 votes
+* [Color of bar in chart based off boolean value in the same row of dataframe](https://stackoverflow.com/questions/65008989/color-of-bar-in-chart-based-off-boolean-value-in-the-same-row-of-dataframe) - 1 votes
+* [Python  Plot geospatial data  multiple legends](https://stackoverflow.com/questions/65008782/python-plot-geospatial-data-multiple-legends) - 1 votes
+* [Sending a new line in venn diagram of mpld3](https://stackoverflow.com/questions/65008174/sending-a-new-line-in-venn-diagram-of-mpld3) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Add black outline for different geom_point shapes on DESeq2 PCA](https://stackoverflow.com/questions/64989894/add-black-outline-for-different-geom-point-shapes-on-deseq2-pca) - 2 votes
-* [Automatically Convert Polynomials to Expression for ggplot Legend in R](https://stackoverflow.com/questions/64988222/automatically-convert-polynomials-to-expression-for-ggplot-legend-in-r) - 2 votes
-* [Dividing a linecurve into certain number of points and extract the coordinates](https://stackoverflow.com/questions/64992229/dividing-a-line-curve-into-certain-number-of-points-and-extract-the-co-ordinates) - 1 votes
-* [How to increase aesthetic qualities of ggplot](https://stackoverflow.com/questions/64985637/how-to-increase-aesthetic-qualities-of-ggplot) - 1 votes
-* [Dynamic axis ticks at top and bottom of plot area with consistent number of intervals and consistent width when looping ggplot2 gridarrange](https://stackoverflow.com/questions/64991743/dynamic-axis-ticks-at-top-and-bottom-of-plot-area-with-consistent-number-of-inte) - 1 votes
+* [GGPubr vs RBoxplot shows different extreme values](https://stackoverflow.com/questions/65009078/ggpubr-vs-r-boxplot-shows-different-extreme-values) - 1 votes
+* [How to make forloop work in order to automate plotting](https://stackoverflow.com/questions/65001903/how-to-make-for-loop-work-in-order-to-automate-plotting) - 1 votes
+* [Share a continuous valuecolor mapping across several ggplots](https://stackoverflow.com/questions/64998807/share-a-continuous-value-color-mapping-across-several-ggplots) - 1 votes
+* [Dynamically Assign character output of a variable to color](https://stackoverflow.com/questions/64997103/dynamically-assign-character-output-of-a-variable-to-color) - 1 votes
+* [Subsetting within R function](https://stackoverflow.com/questions/65013809/subsetting-within-r-function) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
