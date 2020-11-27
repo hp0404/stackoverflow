@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-26<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-27<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Get name of colums where true in pandas dataframe](https://stackoverflow.com/questions/65029418/get-name-of-colums-where-true-in-pandas-dataframe) - 4 votes
-* [Pandas Finding max min rows for every column in the dataframe](https://stackoverflow.com/questions/65025762/pandas-finding-max-min-rows-for-every-column-in-the-dataframe) - 3 votes
-* [Reverse get_dummies](https://stackoverflow.com/questions/65020813/reverse-get-dummies) - 3 votes
-* [Is it possible to access column names within pandas groupby transform](https://stackoverflow.com/questions/65019669/is-it-possible-to-access-column-names-within-pandas-groupby-transform) - 2 votes
-* [Pandas Groupby count as column value](https://stackoverflow.com/questions/65015242/pandas-groupby-count-as-column-value) - 2 votes
+* [replace value if string ends with certain value pandas dataframe](https://stackoverflow.com/questions/65031781/replace-value-if-string-ends-with-certain-value-pandas-dataframe) - 2 votes
+* [How to select the actual row and the above based on specific string in pandas](https://stackoverflow.com/questions/65041993/how-to-select-the-actual-row-and-the-above-based-on-specific-string-in-pandas) - 2 votes
+* [Pandas Rolling Conditional Function](https://stackoverflow.com/questions/65041429/pandas-rolling-conditional-function) - 2 votes
+* [How to read a txt file into pandas DataFrame from transposed format](https://stackoverflow.com/questions/65040592/how-to-read-a-txt-file-into-pandas-dataframe-from-transposed-format) - 2 votes
+* [Apply multiple functions to GroupBy object in a specific order](https://stackoverflow.com/questions/65033492/apply-multiple-functions-to-groupby-object-in-a-specific-order) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Rotate matplotlib colourmap](https://stackoverflow.com/questions/65018952/rotate-matplotlib-colourmap) - 2 votes
-* [Add the vertical line to the hoverbox see pictures](https://stackoverflow.com/questions/65020537/add-the-vertical-line-to-the-hoverbox-see-pictures) - 2 votes
-* [How to calculate proportion display pie chart in pandas or others](https://stackoverflow.com/questions/65023229/how-to-calculate-proportion-display-pie-chart-in-pandas-or-others) - 2 votes
-* [How to plot an horizontal barplot with percentage distribution from a pandas dataframe](https://stackoverflow.com/questions/65023350/how-to-plot-an-horizontal-barplot-with-percentage-distribution-from-a-pandas-dat) - 1 votes
-* [Matplotlib contour plot with data interpolation](https://stackoverflow.com/questions/65023656/matplotlib-contour-plot-with-data-interpolation) - 1 votes
+* [Matplotlib 3D Quiver plot makes the lines the right color but the arrow head the wrong color](https://stackoverflow.com/questions/65039988/matplotlib-3d-quiver-plot-makes-the-lines-the-right-color-but-the-arrow-head-the) - 2 votes
+* [Calculating xy coordinates from distance matrix](https://stackoverflow.com/questions/65043257/calculating-x-y-coordinates-from-distance-matrix) - 2 votes
+* [converting none size1 arrays to scalars](https://stackoverflow.com/questions/65043569/converting-none-size-1-arrays-to-scalars) - 1 votes
+* [Display bars in plot by ascendingdescending order Matplotlib Python](https://stackoverflow.com/questions/65040182/display-bars-in-plot-by-ascending-descending-order-matplotlib-python) - 1 votes
+* [networkx plotting directed graph](https://stackoverflow.com/questions/65036869/networkx-plotting-directed-graph) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Changing colour of existing geom with no grouping](https://stackoverflow.com/questions/65023578/changing-colour-of-existing-geom-with-no-grouping) - 2 votes
-* [Can I draw a horizontal line at specific number of range of values using ggplot2](https://stackoverflow.com/questions/65025596/can-i-draw-a-horizontal-line-at-specific-number-of-range-of-values-using-ggplot2) - 1 votes
-* [Low color of my scale_fill_gradient stays white](https://stackoverflow.com/questions/65022579/low-color-of-my-scale-fill-gradient-stays-white) - 1 votes
-* [How can I change the color of my facet label to be the same as its bars](https://stackoverflow.com/questions/65019793/how-can-i-change-the-color-of-my-facet-label-to-be-the-same-as-its-bars) - 1 votes
-* [Adding a subplot to each facet_wrap using same facet data](https://stackoverflow.com/questions/65019335/adding-a-subplot-to-each-facet-wrap-using-same-facet-data) - 1 votes
+* [Using geom_text nudge half the length of a label in ggplot](https://stackoverflow.com/questions/65032099/using-geom-text-nudge-half-the-length-of-a-label-in-ggplot) - 3 votes
+* [Ordering of ggplot2 facets changes after adding to a facet](https://stackoverflow.com/questions/65034001/ordering-of-ggplot2-facets-changes-after-adding-to-a-facet) - 2 votes
+* [Simple way to plot a cumulative distribution function using TIdyverse](https://stackoverflow.com/questions/65031794/simple-way-to-plot-a-cumulative-distribution-function-using-tidyverse) - 2 votes
+* [Create separate plots from one tibble and save each plot separately in R](https://stackoverflow.com/questions/65030723/create-separate-plots-from-one-tibble-and-save-each-plot-separately-in-r) - 2 votes
+* [R plotting graphs ggplot vs autoplot](https://stackoverflow.com/questions/65033260/r-plotting-graphs-ggplot-vs-autoplot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
