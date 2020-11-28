@@ -1,39 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-27<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-28<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [replace value if string ends with certain value pandas dataframe](https://stackoverflow.com/questions/65031781/replace-value-if-string-ends-with-certain-value-pandas-dataframe) - 2 votes
-* [How to select the actual row and the above based on specific string in pandas](https://stackoverflow.com/questions/65041993/how-to-select-the-actual-row-and-the-above-based-on-specific-string-in-pandas) - 2 votes
-* [Pandas Rolling Conditional Function](https://stackoverflow.com/questions/65041429/pandas-rolling-conditional-function) - 2 votes
-* [How to read a txt file into pandas DataFrame from transposed format](https://stackoverflow.com/questions/65040592/how-to-read-a-txt-file-into-pandas-dataframe-from-transposed-format) - 2 votes
-* [Apply multiple functions to GroupBy object in a specific order](https://stackoverflow.com/questions/65033492/apply-multiple-functions-to-groupby-object-in-a-specific-order) - 2 votes
+* [Filter user names from a string](https://stackoverflow.com/questions/65050413/filter-user-names-from-a-string) - 2 votes
+* [Get the count of strings found in column A from column B and return value in a new column](https://stackoverflow.com/questions/65048803/get-the-count-of-strings-found-in-column-a-from-column-b-and-return-value-in-a-n) - 2 votes
+* [adding values in new column based on string contains in another column](https://stackoverflow.com/questions/65046948/adding-values-in-new-column-based-on-string-contains-in-another-column) - 2 votes
+* [Pandas once condition is met in column delete n rows then go to next section](https://stackoverflow.com/questions/65045653/pandas-once-condition-is-met-in-column-delete-n-rows-then-go-to-next-section) - 2 votes
+* [Python Memory efficient quick lookup in python for 100 million pairs of data](https://stackoverflow.com/questions/65045474/python-memory-efficient-quick-lookup-in-python-for-100-million-pairs-of-data) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Matplotlib 3D Quiver plot makes the lines the right color but the arrow head the wrong color](https://stackoverflow.com/questions/65039988/matplotlib-3d-quiver-plot-makes-the-lines-the-right-color-but-the-arrow-head-the) - 2 votes
-* [Calculating xy coordinates from distance matrix](https://stackoverflow.com/questions/65043257/calculating-x-y-coordinates-from-distance-matrix) - 2 votes
-* [converting none size1 arrays to scalars](https://stackoverflow.com/questions/65043569/converting-none-size-1-arrays-to-scalars) - 1 votes
-* [Display bars in plot by ascendingdescending order Matplotlib Python](https://stackoverflow.com/questions/65040182/display-bars-in-plot-by-ascending-descending-order-matplotlib-python) - 1 votes
-* [networkx plotting directed graph](https://stackoverflow.com/questions/65036869/networkx-plotting-directed-graph) - 1 votes
+* [How to plot replace numbers with letters on Matplotlib subplot axis](https://stackoverflow.com/questions/65055006/how-to-plot-replace-numbers-with-letters-on-matplotlib-subplot-axis) - 1 votes
+* [Cube in python  setting of the color of scatter](https://stackoverflow.com/questions/65054690/cube-in-python-setting-of-the-color-of-scatter) - 1 votes
+* [How to plot two different functions in the same graph in Python](https://stackoverflow.com/questions/65051537/how-to-plot-two-different-functions-in-the-same-graph-in-python) - 1 votes
+* [Python  resizing a plot in a for loop](https://stackoverflow.com/questions/65050977/python-resizing-a-plot-in-a-for-loop) - 1 votes
+* [Ordering Horizontal Bars Using Python matplotlib](https://stackoverflow.com/questions/65050808/ordering-horizontal-bars-using-python-matplotlib) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Using geom_text nudge half the length of a label in ggplot](https://stackoverflow.com/questions/65032099/using-geom-text-nudge-half-the-length-of-a-label-in-ggplot) - 3 votes
-* [Ordering of ggplot2 facets changes after adding to a facet](https://stackoverflow.com/questions/65034001/ordering-of-ggplot2-facets-changes-after-adding-to-a-facet) - 2 votes
-* [Simple way to plot a cumulative distribution function using TIdyverse](https://stackoverflow.com/questions/65031794/simple-way-to-plot-a-cumulative-distribution-function-using-tidyverse) - 2 votes
-* [Create separate plots from one tibble and save each plot separately in R](https://stackoverflow.com/questions/65030723/create-separate-plots-from-one-tibble-and-save-each-plot-separately-in-r) - 2 votes
-* [R plotting graphs ggplot vs autoplot](https://stackoverflow.com/questions/65033260/r-plotting-graphs-ggplot-vs-autoplot) - 1 votes
+* [ggplot2 legend not working add manual legend](https://stackoverflow.com/questions/65053925/ggplot2-legend-not-working-add-manual-legend) - 1 votes
+* [How to get axis scale and ticks in this plot using ggplot2](https://stackoverflow.com/questions/65052102/how-to-get-axis-scale-and-ticks-in-this-plot-using-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
