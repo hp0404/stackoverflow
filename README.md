@@ -1,36 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-28<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-29<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Filter user names from a string](https://stackoverflow.com/questions/65050413/filter-user-names-from-a-string) - 2 votes
-* [Get the count of strings found in column A from column B and return value in a new column](https://stackoverflow.com/questions/65048803/get-the-count-of-strings-found-in-column-a-from-column-b-and-return-value-in-a-n) - 2 votes
-* [adding values in new column based on string contains in another column](https://stackoverflow.com/questions/65046948/adding-values-in-new-column-based-on-string-contains-in-another-column) - 2 votes
-* [Pandas once condition is met in column delete n rows then go to next section](https://stackoverflow.com/questions/65045653/pandas-once-condition-is-met-in-column-delete-n-rows-then-go-to-next-section) - 2 votes
-* [Python Memory efficient quick lookup in python for 100 million pairs of data](https://stackoverflow.com/questions/65045474/python-memory-efficient-quick-lookup-in-python-for-100-million-pairs-of-data) - 2 votes
+* [Spark with Scala and Pandas](https://stackoverflow.com/questions/65058672/spark-with-scala-and-pandas) - 6 votes
+* [pandas select subdatasets by complex condition in each group](https://stackoverflow.com/questions/65059391/pandas-select-sub-datasets-by-complex-condition-in-each-group) - 3 votes
+* [what is the complimentary method of pdDataFramedrop](https://stackoverflow.com/questions/65058219/what-is-the-complimentary-method-of-pd-dataframe-drop) - 2 votes
+* [how do i remove 39 39   in array python](https://stackoverflow.com/questions/65062045/how-do-i-remove-in-array-python) - 2 votes
+* [Populate column in PandasDataFrame based on matches in another columns](https://stackoverflow.com/questions/65064741/populate-column-in-pandas-dataframe-based-on-matches-in-another-columns) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to plot replace numbers with letters on Matplotlib subplot axis](https://stackoverflow.com/questions/65055006/how-to-plot-replace-numbers-with-letters-on-matplotlib-subplot-axis) - 1 votes
-* [Cube in python  setting of the color of scatter](https://stackoverflow.com/questions/65054690/cube-in-python-setting-of-the-color-of-scatter) - 1 votes
-* [How to plot two different functions in the same graph in Python](https://stackoverflow.com/questions/65051537/how-to-plot-two-different-functions-in-the-same-graph-in-python) - 1 votes
-* [Python  resizing a plot in a for loop](https://stackoverflow.com/questions/65050977/python-resizing-a-plot-in-a-for-loop) - 1 votes
-* [Ordering Horizontal Bars Using Python matplotlib](https://stackoverflow.com/questions/65050808/ordering-horizontal-bars-using-python-matplotlib) - 1 votes
+* [Possible memory leak when using mplfinancematplotlib How to solve it](https://stackoverflow.com/questions/65058442/possible-memory-leak-when-using-mplfinance-matplotlib-how-to-solve-it) - 2 votes
+* [Is there a possibillity to show the 0 on an logarithmic scale with matplotlib](https://stackoverflow.com/questions/65059091/is-there-a-possibillity-to-show-the-0-on-an-logarithmic-scale-with-matplotlib) - 1 votes
+* [Is there a way to draw a matplotlib patch rectangle with an arc on one side](https://stackoverflow.com/questions/65064836/is-there-a-way-to-draw-a-matplotlib-patch-rectangle-with-an-arc-on-one-side) - 1 votes
+* [Plot specific data from pandas dataframe with matplotlib](https://stackoverflow.com/questions/65062917/plot-specific-data-from-pandas-dataframe-with-matplotlib) - 1 votes
+* [Is there a simple solution to have the same height for 2D and 3D plots in a figure](https://stackoverflow.com/questions/65059679/is-there-a-simple-solution-to-have-the-same-height-for-2d-and-3d-plots-in-a-figu) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [ggplot2 legend not working add manual legend](https://stackoverflow.com/questions/65053925/ggplot2-legend-not-working-add-manual-legend) - 1 votes
-* [How to get axis scale and ticks in this plot using ggplot2](https://stackoverflow.com/questions/65052102/how-to-get-axis-scale-and-ticks-in-this-plot-using-ggplot2) - 1 votes
+* [lines not appearing in ggplot](https://stackoverflow.com/questions/65065476/lines-not-appearing-in-ggplot) - 2 votes
+* [ggplot2 drawing a area between two values](https://stackoverflow.com/questions/65056630/ggplot2-drawing-a-area-between-two-values) - 1 votes
+* [How to add to the face labels in ggplot2](https://stackoverflow.com/questions/65065880/how-to-add-to-the-face-labels-in-ggplot2) - 1 votes
+* [How do you obtain the actual polynomial function associated with a PDF curve in R](https://stackoverflow.com/questions/65063245/how-do-you-obtain-the-actual-polynomial-function-associated-with-a-pdf-curve-in) - 1 votes
+* [How do I rename xlabels for this histogram](https://stackoverflow.com/questions/65064340/how-do-i-rename-xlabels-for-this-histogram) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
