@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-29<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-30<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Spark with Scala and Pandas](https://stackoverflow.com/questions/65058672/spark-with-scala-and-pandas) - 6 votes
-* [pandas select subdatasets by complex condition in each group](https://stackoverflow.com/questions/65059391/pandas-select-sub-datasets-by-complex-condition-in-each-group) - 3 votes
-* [what is the complimentary method of pdDataFramedrop](https://stackoverflow.com/questions/65058219/what-is-the-complimentary-method-of-pd-dataframe-drop) - 2 votes
-* [how do i remove 39 39   in array python](https://stackoverflow.com/questions/65062045/how-do-i-remove-in-array-python) - 2 votes
-* [Populate column in PandasDataFrame based on matches in another columns](https://stackoverflow.com/questions/65064741/populate-column-in-pandas-dataframe-based-on-matches-in-another-columns) - 2 votes
+* [How to change the color of points with special conditions in the dataframe](https://stackoverflow.com/questions/65077948/how-to-change-the-color-of-points-with-special-conditions-in-the-dataframe) - 5 votes
+* [Convert Dataframe into pivot with grouping of values into a list](https://stackoverflow.com/questions/65076161/convert-dataframe-into-pivot-with-grouping-of-values-into-a-list) - 3 votes
+* [Replace n last rows with NaN](https://stackoverflow.com/questions/65073169/replace-n-last-rows-with-nan) - 2 votes
+* [pandas frequency of a specific value per group](https://stackoverflow.com/questions/65067042/pandas-frequency-of-a-specific-value-per-group) - 2 votes
+* [If list value corresponds to column name how to set column value to one specified by row index](https://stackoverflow.com/questions/65066802/if-list-value-corresponds-to-column-name-how-to-set-column-value-to-one-specif) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Possible memory leak when using mplfinancematplotlib How to solve it](https://stackoverflow.com/questions/65058442/possible-memory-leak-when-using-mplfinance-matplotlib-how-to-solve-it) - 2 votes
-* [Is there a possibillity to show the 0 on an logarithmic scale with matplotlib](https://stackoverflow.com/questions/65059091/is-there-a-possibillity-to-show-the-0-on-an-logarithmic-scale-with-matplotlib) - 1 votes
-* [Is there a way to draw a matplotlib patch rectangle with an arc on one side](https://stackoverflow.com/questions/65064836/is-there-a-way-to-draw-a-matplotlib-patch-rectangle-with-an-arc-on-one-side) - 1 votes
-* [Plot specific data from pandas dataframe with matplotlib](https://stackoverflow.com/questions/65062917/plot-specific-data-from-pandas-dataframe-with-matplotlib) - 1 votes
-* [Is there a simple solution to have the same height for 2D and 3D plots in a figure](https://stackoverflow.com/questions/65059679/is-there-a-simple-solution-to-have-the-same-height-for-2d-and-3d-plots-in-a-figu) - 1 votes
+* [plotting two matrices in the same graph with matplotlib](https://stackoverflow.com/questions/65069649/plotting-two-matrices-in-the-same-graph-with-matplotlib) - 2 votes
+* [How to graphically compare several columns with a single column pandas](https://stackoverflow.com/questions/65076966/how-to-graphically-compare-several-columns-with-a-single-column-pandas) - 1 votes
+* [Matplotlib pie chart with explode not round](https://stackoverflow.com/questions/65074529/matplotlib-pie-chart-with-explode-not-round) - 1 votes
+* [Annotating seaborn lineplot fails with matplotlibunitsConversionError Failed to convert values to axis units 392020051439](https://stackoverflow.com/questions/65066727/annotating-seaborn-lineplot-fails-with-matplotlib-units-conversionerror-failed) - 1 votes
+* [Get mappings of all possible threedimensional visualisations with python](https://stackoverflow.com/questions/65081922/get-mappings-of-all-possible-three-dimensional-visualisations-with-python) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [lines not appearing in ggplot](https://stackoverflow.com/questions/65065476/lines-not-appearing-in-ggplot) - 2 votes
-* [ggplot2 drawing a area between two values](https://stackoverflow.com/questions/65056630/ggplot2-drawing-a-area-between-two-values) - 1 votes
-* [How to add to the face labels in ggplot2](https://stackoverflow.com/questions/65065880/how-to-add-to-the-face-labels-in-ggplot2) - 1 votes
-* [How do you obtain the actual polynomial function associated with a PDF curve in R](https://stackoverflow.com/questions/65063245/how-do-you-obtain-the-actual-polynomial-function-associated-with-a-pdf-curve-in) - 1 votes
-* [How do I rename xlabels for this histogram](https://stackoverflow.com/questions/65064340/how-do-i-rename-xlabels-for-this-histogram) - 1 votes
+* [ggplot size of annotate vs size of element_text](https://stackoverflow.com/questions/65076492/ggplot-size-of-annotate-vs-size-of-element-text) - 2 votes
+* [Is there a way to combine two similar legends into one simple legend using ggplot](https://stackoverflow.com/questions/65079574/is-there-a-way-to-combine-two-similar-legends-into-one-simple-legend-using-ggplo) - 1 votes
+* [Selecting the degree of spline function based on a set R2 threshold value](https://stackoverflow.com/questions/65074651/selecting-the-degree-of-spline-function-based-on-a-set-r2-threshold-value) - 1 votes
+* [longer object length is not a multiple of shorter object length using MAP2 function](https://stackoverflow.com/questions/65082506/longer-object-length-is-not-a-multiple-of-shorter-object-length-using-map2-funct) - 1 votes
+* [ggplot2 vertical profile plots](https://stackoverflow.com/questions/65075056/ggplot2-vertical-profile-plots) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
