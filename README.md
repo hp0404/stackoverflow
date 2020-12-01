@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-11-30<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-01<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to change the color of points with special conditions in the dataframe](https://stackoverflow.com/questions/65077948/how-to-change-the-color-of-points-with-special-conditions-in-the-dataframe) - 5 votes
-* [Convert Dataframe into pivot with grouping of values into a list](https://stackoverflow.com/questions/65076161/convert-dataframe-into-pivot-with-grouping-of-values-into-a-list) - 3 votes
-* [Replace n last rows with NaN](https://stackoverflow.com/questions/65073169/replace-n-last-rows-with-nan) - 2 votes
-* [pandas frequency of a specific value per group](https://stackoverflow.com/questions/65067042/pandas-frequency-of-a-specific-value-per-group) - 2 votes
-* [If list value corresponds to column name how to set column value to one specified by row index](https://stackoverflow.com/questions/65066802/if-list-value-corresponds-to-column-name-how-to-set-column-value-to-one-specif) - 2 votes
+* [Adding df column finding matching values in another df for both indexed values and a dynamic source column](https://stackoverflow.com/questions/65085181/adding-df-column-finding-matching-values-in-another-df-for-both-indexed-values-a) - 5 votes
+* [Groupby Column in Pandas and Perform calculation Python](https://stackoverflow.com/questions/65096825/groupby-column-in-pandas-and-perform-calculation-python) - 3 votes
+* [Regex in pandas dataframe](https://stackoverflow.com/questions/65091515/regex-in-pandas-dataframe) - 3 votes
+* [Pandas  Merge two DataFrame with partial match](https://stackoverflow.com/questions/65090530/pandas-merge-two-dataframe-with-partial-match) - 3 votes
+* [Fill NaN values of DataFrame with random values from the column depending on frequency](https://stackoverflow.com/questions/65096532/fill-nan-values-of-dataframe-with-random-values-from-the-column-depending-on-fr) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [plotting two matrices in the same graph with matplotlib](https://stackoverflow.com/questions/65069649/plotting-two-matrices-in-the-same-graph-with-matplotlib) - 2 votes
-* [How to graphically compare several columns with a single column pandas](https://stackoverflow.com/questions/65076966/how-to-graphically-compare-several-columns-with-a-single-column-pandas) - 1 votes
-* [Matplotlib pie chart with explode not round](https://stackoverflow.com/questions/65074529/matplotlib-pie-chart-with-explode-not-round) - 1 votes
-* [Annotating seaborn lineplot fails with matplotlibunitsConversionError Failed to convert values to axis units 392020051439](https://stackoverflow.com/questions/65066727/annotating-seaborn-lineplot-fails-with-matplotlib-units-conversionerror-failed) - 1 votes
-* [Get mappings of all possible threedimensional visualisations with python](https://stackoverflow.com/questions/65081922/get-mappings-of-all-possible-three-dimensional-visualisations-with-python) - 1 votes
+* [Increase space between secondary y axis and x axis](https://stackoverflow.com/questions/65089329/increase-space-between-secondary-y-axis-and-x-axis) - 2 votes
+* [Python Barplot colored according to a third variable](https://stackoverflow.com/questions/65094280/python-barplot-colored-according-to-a-third-variable) - 1 votes
+* [Adding secondary y labels to heatmap in matplotlib](https://stackoverflow.com/questions/65098212/adding-secondary-y-labels-to-heatmap-in-matplotlib) - 1 votes
+* [Colour code the scatter plot based on the two data frame values](https://stackoverflow.com/questions/65098145/colour-code-the-scatter-plot-based-on-the-two-data-frame-values) - 1 votes
+* [How to add customized ticks in Heatmap](https://stackoverflow.com/questions/65097637/how-to-add-customized-ticks-in-heatmap) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [ggplot size of annotate vs size of element_text](https://stackoverflow.com/questions/65076492/ggplot-size-of-annotate-vs-size-of-element-text) - 2 votes
-* [Is there a way to combine two similar legends into one simple legend using ggplot](https://stackoverflow.com/questions/65079574/is-there-a-way-to-combine-two-similar-legends-into-one-simple-legend-using-ggplo) - 1 votes
-* [Selecting the degree of spline function based on a set R2 threshold value](https://stackoverflow.com/questions/65074651/selecting-the-degree-of-spline-function-based-on-a-set-r2-threshold-value) - 1 votes
-* [longer object length is not a multiple of shorter object length using MAP2 function](https://stackoverflow.com/questions/65082506/longer-object-length-is-not-a-multiple-of-shorter-object-length-using-map2-funct) - 1 votes
-* [ggplot2 vertical profile plots](https://stackoverflow.com/questions/65075056/ggplot2-vertical-profile-plots) - 1 votes
+* [How to use superscripts in cowplot multipanel plot labels](https://stackoverflow.com/questions/65086663/how-to-use-superscripts-in-cowplot-multipanel-plot-labels) - 2 votes
+* [ggplot2 How do I rearrange the bars from highest to lowest](https://stackoverflow.com/questions/65097239/ggplot2-how-do-i-rearrange-the-bars-from-highest-to-lowest) - 2 votes
+* [How to use key_glyph with geom_jitter](https://stackoverflow.com/questions/65093729/how-to-use-key-glyph-with-geom-jitter) - 1 votes
+* [Ordering of stacked bars according to first facet in ggplot2](https://stackoverflow.com/questions/65087039/ordering-of-stacked-bars-according-to-first-facet-in-ggplot2) - 1 votes
+* [Creating a bar graph with several variables in the x axis](https://stackoverflow.com/questions/65100131/creating-a-bar-graph-with-several-variables-in-the-x-axis) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
