@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-02<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-03<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to display a dataframe with columns showing twice in a row](https://stackoverflow.com/questions/65104345/how-to-display-a-dataframe-with-columns-showing-twice-in-a-row) - 4 votes
-* [How to create offsets from start in pandas given length of segments and offsets in segment](https://stackoverflow.com/questions/65114591/how-to-create-offsets-from-start-in-pandas-given-length-of-segments-and-offsets) - 4 votes
-* [named Transform in Pandas](https://stackoverflow.com/questions/65100541/named-transform-in-pandas) - 4 votes
-* [How can I sort strings in pandas data file according to the value in specific column](https://stackoverflow.com/questions/65107749/how-can-i-sort-strings-in-pandas-data-file-according-to-the-value-in-specific-co) - 3 votes
-* [Pandas  get the mean of one column using descending N rows of another column](https://stackoverflow.com/questions/65115116/pandas-get-the-mean-of-one-column-using-descending-n-rows-of-another-column) - 3 votes
+* [Copying a section of a string from one column and putting it into a new pandas column](https://stackoverflow.com/questions/65133951/copying-a-section-of-a-string-from-one-column-and-putting-it-into-a-new-pandas-c) - 5 votes
+* [Groupby and aggregate using lambda functions](https://stackoverflow.com/questions/65119376/groupby-and-aggregate-using-lambda-functions) - 4 votes
+* [Scraping Vocabulary using Selenium and parsing to DataFrame](https://stackoverflow.com/questions/65134886/scraping-vocabulary-using-selenium-and-parsing-to-dataframe) - 4 votes
+* [Python  Reduce list of duplicates but preserve duplicates in list if they are alternating](https://stackoverflow.com/questions/65130960/python-reduce-list-of-duplicates-but-preserve-duplicates-in-list-if-they-are) - 3 votes
+* [How to run hypothesis test with pandas data frame and specific conditions](https://stackoverflow.com/questions/65121277/how-to-run-hypothesis-test-with-pandas-data-frame-and-specific-conditions) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [giving the shortest path a different color than the rest in a plot](https://stackoverflow.com/questions/65110406/giving-the-shortest-path-a-different-color-than-the-rest-in-a-plot) - 1 votes
-* [Change Rotations and Distributions of YTicks on Matplotlib Radar Chart](https://stackoverflow.com/questions/65112455/change-rotations-and-distributions-of-y-ticks-on-matplotlib-radar-chart) - 1 votes
-* [Plotting the mean square displacement of a 2D random walk as a function of δt](https://stackoverflow.com/questions/65109902/plotting-the-mean-square-displacement-of-a-2d-random-walk-as-a-function-of-%ce%b4t) - 1 votes
-* [Generating Inline Plots with Matplotlib Using Terminology EFL by enlightenmentorg](https://stackoverflow.com/questions/65103867/generating-inline-plots-with-matplotlib-using-terminology-efl-by-enlightenment) - 1 votes
-* [How to create one custom legend for multiple subplots](https://stackoverflow.com/questions/65100756/how-to-create-one-custom-legend-for-multiple-subplots) - 1 votes
+* [Pandas dataframe datetime conversion and minmax calculation](https://stackoverflow.com/questions/65125509/pandas-dataframe-datetime-conversion-and-min-max-calculation) - 2 votes
+* [customized contour line on 3d surface matplotlib](https://stackoverflow.com/questions/65135396/customized-contour-line-on-3d-surface-matplotlib) - 2 votes
+* [Is there any way to put two different scale types on the same axis matplotlib](https://stackoverflow.com/questions/65127414/is-there-any-way-to-put-two-different-scale-types-on-the-same-axis-matplotlib) - 2 votes
+* [Plot networkx graph with hierachy horizontally and manipulate length of arrows](https://stackoverflow.com/questions/65124349/plot-networkx-graph-with-hierachy-horizontally-and-manipulate-length-of-arrows) - 2 votes
+* [Create multiple plots using loop and show separate plot in one](https://stackoverflow.com/questions/65133509/create-multiple-plots-using-loop-and-show-separate-plot-in-one) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [R ggplot2 bar plot](https://stackoverflow.com/questions/65115996/r-ggplot2-bar-plot) - 1 votes
-* [How to create a ggplot when the answers are FALSE or TRUE](https://stackoverflow.com/questions/65112037/how-to-create-a-ggplot-when-the-answers-are-false-or-true) - 1 votes
-* [Separate regression lines overlaid in ggplot2](https://stackoverflow.com/questions/65113563/separate-regression-lines-overlaid-in-ggplot2) - 1 votes
-* [Is there a way I can add log gridlines to my graph with RStudio](https://stackoverflow.com/questions/65109960/is-there-a-way-i-can-add-log-gridlines-to-my-graph-with-rstudio) - 1 votes
-* [How to add data labels to dumbbell graph](https://stackoverflow.com/questions/65107915/how-to-add-data-labels-to-dumbbell-graph) - 1 votes
+* [Can someone help me properly set up my ggplot legend with multiple defined aesthetics](https://stackoverflow.com/questions/65122520/can-someone-help-me-properly-set-up-my-ggplot-legend-with-multiple-defined-aesth) - 1 votes
+* [Name multiple plots with lapplyggplot  ggtitle with nested list name accordingly](https://stackoverflow.com/questions/65133609/name-multiple-plots-with-lapplyggplot-ggtitle-with-nested-list-name-accordin) - 1 votes
+* [scalesfree does not react in ggplot with facets](https://stackoverflow.com/questions/65126489/scales-free-does-not-react-in-ggplot-with-facets) - 1 votes
+* [comma and apostrophe in annotate in ggplot2](https://stackoverflow.com/questions/65119038/comma-and-apostrophe-in-annotate-in-ggplot2) - 1 votes
+* [Fixing Xaxis of Horizontal Plotly Bar Chart](https://stackoverflow.com/questions/65118632/fixing-x-axis-of-horizontal-plotly-bar-chart) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
