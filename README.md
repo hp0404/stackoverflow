@@ -1,39 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-03<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-04<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Copying a section of a string from one column and putting it into a new pandas column](https://stackoverflow.com/questions/65133951/copying-a-section-of-a-string-from-one-column-and-putting-it-into-a-new-pandas-c) - 5 votes
-* [Groupby and aggregate using lambda functions](https://stackoverflow.com/questions/65119376/groupby-and-aggregate-using-lambda-functions) - 4 votes
-* [Scraping Vocabulary using Selenium and parsing to DataFrame](https://stackoverflow.com/questions/65134886/scraping-vocabulary-using-selenium-and-parsing-to-dataframe) - 4 votes
-* [Python  Reduce list of duplicates but preserve duplicates in list if they are alternating](https://stackoverflow.com/questions/65130960/python-reduce-list-of-duplicates-but-preserve-duplicates-in-list-if-they-are) - 3 votes
-* [How to run hypothesis test with pandas data frame and specific conditions](https://stackoverflow.com/questions/65121277/how-to-run-hypothesis-test-with-pandas-data-frame-and-specific-conditions) - 3 votes
+* [Pandas how to get rows with consecutive dates and sales more than 1000](https://stackoverflow.com/questions/65146320/pandas-how-to-get-rows-with-consecutive-dates-and-sales-more-than-1000) - 6 votes
+* [How can I change the column colors of a stacked pyplot chart to indicate whether another column is true or false](https://stackoverflow.com/questions/65148530/how-can-i-change-the-column-colors-of-a-stacked-pyplot-chart-to-indicate-whether) - 3 votes
+* [How to make my function39s output be pandas dataframe](https://stackoverflow.com/questions/65150831/how-to-make-my-functions-output-be-pandas-dataframe) - 3 votes
+* [Adding additional calculations to a numpywhere statement](https://stackoverflow.com/questions/65145307/adding-additional-calculations-to-a-numpy-where-statement) - 2 votes
+* [Lookup intersecting values in df2 based on column values in df1 and create a new column with retrieved value in df1 non matching column names](https://stackoverflow.com/questions/65151212/lookup-intersecting-values-in-df2-based-on-column-values-in-df1-and-create-a-new) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Pandas dataframe datetime conversion and minmax calculation](https://stackoverflow.com/questions/65125509/pandas-dataframe-datetime-conversion-and-min-max-calculation) - 2 votes
-* [customized contour line on 3d surface matplotlib](https://stackoverflow.com/questions/65135396/customized-contour-line-on-3d-surface-matplotlib) - 2 votes
-* [Is there any way to put two different scale types on the same axis matplotlib](https://stackoverflow.com/questions/65127414/is-there-any-way-to-put-two-different-scale-types-on-the-same-axis-matplotlib) - 2 votes
-* [Plot networkx graph with hierachy horizontally and manipulate length of arrows](https://stackoverflow.com/questions/65124349/plot-networkx-graph-with-hierachy-horizontally-and-manipulate-length-of-arrows) - 2 votes
-* [Create multiple plots using loop and show separate plot in one](https://stackoverflow.com/questions/65133509/create-multiple-plots-using-loop-and-show-separate-plot-in-one) - 1 votes
+* [How can I change the column colors of a stacked pyplot chart to indicate whether another column is true or false](https://stackoverflow.com/questions/65148530/how-can-i-change-the-column-colors-of-a-stacked-pyplot-chart-to-indicate-whether) - 3 votes
+* [How could I plot the relative frequency of data split into categories](https://stackoverflow.com/questions/65150022/how-could-i-plot-the-relative-frequency-of-data-split-into-categories) - 2 votes
+* [Is there a way to improve the label of a bucket created by cut](https://stackoverflow.com/questions/65150536/is-there-a-way-to-improve-the-label-of-a-bucket-created-by-cut) - 1 votes
+* [TypeError unhashable type 39list39  Python Cartopy](https://stackoverflow.com/questions/65148528/typeerror-unhashable-type-list-python-cartopy) - 1 votes
+* [Plot Dataframe doesn39t start from the beginning with matplotlibaxesplot](https://stackoverflow.com/questions/65147372/plot-dataframe-doesnt-start-from-the-beginning-with-matplotlib-axes-plot) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Can someone help me properly set up my ggplot legend with multiple defined aesthetics](https://stackoverflow.com/questions/65122520/can-someone-help-me-properly-set-up-my-ggplot-legend-with-multiple-defined-aesth) - 1 votes
-* [Name multiple plots with lapplyggplot  ggtitle with nested list name accordingly](https://stackoverflow.com/questions/65133609/name-multiple-plots-with-lapplyggplot-ggtitle-with-nested-list-name-accordin) - 1 votes
-* [scalesfree does not react in ggplot with facets](https://stackoverflow.com/questions/65126489/scales-free-does-not-react-in-ggplot-with-facets) - 1 votes
-* [comma and apostrophe in annotate in ggplot2](https://stackoverflow.com/questions/65119038/comma-and-apostrophe-in-annotate-in-ggplot2) - 1 votes
-* [Fixing Xaxis of Horizontal Plotly Bar Chart](https://stackoverflow.com/questions/65118632/fixing-x-axis-of-horizontal-plotly-bar-chart) - 1 votes
+* [Plotting Polynomial Regression Curves in R](https://stackoverflow.com/questions/65137690/plotting-polynomial-regression-curves-in-r) - 1 votes
+* [R Plotting ROC curves without the quotPECquot library](https://stackoverflow.com/questions/65137064/r-plotting-roc-curves-without-the-pec-library) - 1 votes
+* [Adding  labels to pie chart that doesn39t have Y or X defined](https://stackoverflow.com/questions/65136505/adding-labels-to-pie-chart-that-doesnt-have-y-or-x-defined) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
