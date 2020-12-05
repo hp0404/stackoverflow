@@ -1,37 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-04<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-05<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas how to get rows with consecutive dates and sales more than 1000](https://stackoverflow.com/questions/65146320/pandas-how-to-get-rows-with-consecutive-dates-and-sales-more-than-1000) - 6 votes
-* [How can I change the column colors of a stacked pyplot chart to indicate whether another column is true or false](https://stackoverflow.com/questions/65148530/how-can-i-change-the-column-colors-of-a-stacked-pyplot-chart-to-indicate-whether) - 3 votes
-* [How to make my function39s output be pandas dataframe](https://stackoverflow.com/questions/65150831/how-to-make-my-functions-output-be-pandas-dataframe) - 3 votes
-* [Adding additional calculations to a numpywhere statement](https://stackoverflow.com/questions/65145307/adding-additional-calculations-to-a-numpy-where-statement) - 2 votes
-* [Lookup intersecting values in df2 based on column values in df1 and create a new column with retrieved value in df1 non matching column names](https://stackoverflow.com/questions/65151212/lookup-intersecting-values-in-df2-based-on-column-values-in-df1-and-create-a-new) - 2 votes
+* [Reshaping dataframe with column names inside the other column](https://stackoverflow.com/questions/65159436/reshaping-dataframe-with-column-names-inside-the-other-column) - 2 votes
+* [Padding columns of dataframe](https://stackoverflow.com/questions/65155933/padding-columns-of-dataframe) - 2 votes
+* [Assign a smaller df into a bigger df by matching values in a common column](https://stackoverflow.com/questions/65154140/assign-a-smaller-df-into-a-bigger-df-by-matching-values-in-a-common-column) - 2 votes
+* [Create DataFrame with 1 column from dictionary of dictionaries](https://stackoverflow.com/questions/65160910/create-dataframe-with-1-column-from-dictionary-of-dictionaries) - 1 votes
+* [how to use pandas for condition selection](https://stackoverflow.com/questions/65154410/how-to-use-pandas-for-condition-selection) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How can I change the column colors of a stacked pyplot chart to indicate whether another column is true or false](https://stackoverflow.com/questions/65148530/how-can-i-change-the-column-colors-of-a-stacked-pyplot-chart-to-indicate-whether) - 3 votes
-* [How could I plot the relative frequency of data split into categories](https://stackoverflow.com/questions/65150022/how-could-i-plot-the-relative-frequency-of-data-split-into-categories) - 2 votes
-* [Is there a way to improve the label of a bucket created by cut](https://stackoverflow.com/questions/65150536/is-there-a-way-to-improve-the-label-of-a-bucket-created-by-cut) - 1 votes
-* [TypeError unhashable type 39list39  Python Cartopy](https://stackoverflow.com/questions/65148528/typeerror-unhashable-type-list-python-cartopy) - 1 votes
-* [Plot Dataframe doesn39t start from the beginning with matplotlibaxesplot](https://stackoverflow.com/questions/65147372/plot-dataframe-doesnt-start-from-the-beginning-with-matplotlib-axes-plot) - 1 votes
+* [How would I add a x axis label in pltsubplots](https://stackoverflow.com/questions/65157073/how-would-i-add-a-x-axis-label-in-plt-subplots) - 1 votes
+* [How to use correctly the method nxcheck_planarity of networkx](https://stackoverflow.com/questions/65155095/how-to-use-correctly-the-method-nx-check-planarity-of-networkx) - 1 votes
+* [How to connect matplotlib cursor mouse_move object with slider value](https://stackoverflow.com/questions/65154345/how-to-connect-matplotlib-cursor-mouse-move-object-with-slider-value) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Plotting Polynomial Regression Curves in R](https://stackoverflow.com/questions/65137690/plotting-polynomial-regression-curves-in-r) - 1 votes
-* [R Plotting ROC curves without the quotPECquot library](https://stackoverflow.com/questions/65137064/r-plotting-roc-curves-without-the-pec-library) - 1 votes
-* [Adding  labels to pie chart that doesn39t have Y or X defined](https://stackoverflow.com/questions/65136505/adding-labels-to-pie-chart-that-doesnt-have-y-or-x-defined) - 1 votes
+* [Create videos from saved plots in R](https://stackoverflow.com/questions/65153045/create-videos-from-saved-plots-in-r) - 1 votes
+* [ggplot barplot getting each individual token as its own bar](https://stackoverflow.com/questions/65157809/ggplot-barplot-getting-each-individual-token-as-its-own-bar) - 1 votes
+* [Many colors for the same time series plot in R is it possible](https://stackoverflow.com/questions/65158865/many-colors-for-the-same-time-series-plot-in-r-is-it-possible) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
