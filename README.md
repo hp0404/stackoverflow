@@ -1,37 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-06<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-07<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to use replace in pandas with two DataFrames](https://stackoverflow.com/questions/65172075/how-to-use-replace-in-pandas-with-two-dataframes) - 3 votes
-* [Replace rows in a dataframe with rows in another dataframe given multiple columns as keys](https://stackoverflow.com/questions/65169539/replace-rows-in-a-dataframe-with-rows-in-another-dataframe-given-multiple-column) - 2 votes
-* [How to vectorize a nonoverlapped dataframe to overlapped shiftting dataframe](https://stackoverflow.com/questions/65166839/how-to-vectorize-a-non-overlapped-dataframe-to-overlapped-shiftting-dataframe) - 2 votes
-* [Return last not null value before nan occurrences](https://stackoverflow.com/questions/65170463/return-last-not-null-value-before-nan-occurrences) - 2 votes
-* [Grouping a 3 column dataframe by values of a particular column to create list of dictionaries](https://stackoverflow.com/questions/65170379/grouping-a-3-column-dataframe-by-values-of-a-particular-column-to-create-list-of) - 2 votes
+* [Create new column with data that has same column](https://stackoverflow.com/questions/65182169/create-new-column-with-data-that-has-same-column) - 5 votes
+* [Add time from column to datecolumn on condition from third column](https://stackoverflow.com/questions/65179620/add-time-from-column-to-date-column-on-condition-from-third-column) - 3 votes
+* [sum of specific rows pandas dataframe](https://stackoverflow.com/questions/65178983/sum-of-specific-rows-pandas-dataframe) - 2 votes
+* [Empty copy of Pandas DataFrame](https://stackoverflow.com/questions/65188612/empty-copy-of-pandas-dataframe) - 2 votes
+* [How can i drop out the words in a big dataframe with apply function](https://stackoverflow.com/questions/65176395/how-can-i-drop-out-the-words-in-a-big-dataframe-with-apply-function) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to highlight a plotline chart with vertical color bar for specific weekdays saturday and sunday](https://stackoverflow.com/questions/65170902/how-to-highlight-a-plotline-chart-with-vertical-color-bar-for-specific-weekdays) - 1 votes
-* [Matplotlib plot barplotsstacked in a loop in different positions on xaxis](https://stackoverflow.com/questions/65169162/matplotlib-plot-barplots-stacked-in-a-loop-in-different-positions-on-x-axis) - 1 votes
-* [TypeError QPixmap argument 1 has unexpected type 39Figure39](https://stackoverflow.com/questions/65172406/typeerror-qpixmap-argument-1-has-unexpected-type-figure) - 1 votes
-* [Python  Legend overlaps with multiple pie chart](https://stackoverflow.com/questions/65171910/python-legend-overlaps-with-multiple-pie-chart) - 1 votes
-* [Joining splitted data series into a graph](https://stackoverflow.com/questions/65167427/joining-splitted-data-series-into-a-graph) - 1 votes
+* [Where am I going wrong when analyzing this data](https://stackoverflow.com/questions/65186944/where-am-i-going-wrong-when-analyzing-this-data) - 1 votes
+* [Python setting the extracted Yearmonth in the Datetime format](https://stackoverflow.com/questions/65183321/python-setting-the-extracted-year-month-in-the-datetime-format) - 1 votes
+* [Matplotlib mouse cursor coordinates not shown for empty tick labels](https://stackoverflow.com/questions/65180000/matplotlib-mouse-cursor-coordinates-not-shown-for-empty-tick-labels) - 1 votes
+* [Python for loop matplotlib bar chart not displaying all data](https://stackoverflow.com/questions/65188027/python-for-loop-matplotlib-bar-chart-not-displaying-all-data) - 1 votes
+* [How do I plot an animation and a point in the same matplotlib plot](https://stackoverflow.com/questions/65182626/how-do-i-plot-an-animation-and-a-point-in-the-same-matplotlib-plot) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [r filter issue plotly vs ggplot](https://stackoverflow.com/questions/65168393/r-filter-issue-plotly-vs-ggplot) - 1 votes
-* [R how to order the xaxis in a graph in chronological order](https://stackoverflow.com/questions/65174250/r-how-to-order-the-x-axis-in-a-graph-in-chronological-order) - 1 votes
-* [R how to plot a quottime seriesquot with ggplot2](https://stackoverflow.com/questions/65164596/r-how-to-plot-a-time-series-with-ggplot2) - 1 votes
+* [ggplot how show data for the last month period](https://stackoverflow.com/questions/65189846/ggplot-how-show-data-for-the-last-month-period) - 1 votes
+* [How to add percentage above the ggplot graph bars](https://stackoverflow.com/questions/65175367/how-to-add-percentage-above-the-ggplot-graph-bars) - 1 votes
+* [Font spacing whern using cairo_pdf device](https://stackoverflow.com/questions/65188058/font-spacing-whern-using-cairo-pdf-device) - 1 votes
+* [Set Anchor point geom_text_repelgeom_label_repel to be the same for all labels left side](https://stackoverflow.com/questions/65186393/set-anchor-point-geom-text-repel-geom-label-repel-to-be-the-same-for-all-labels) - 1 votes
+* [Patchwork error  Error in gridCallgraphicsC_setviewport vp TRUE  invalid 39layoutposrow39](https://stackoverflow.com/questions/65184299/patchwork-error-error-in-grid-call-graphicsc-setviewport-vp-true-invalid) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
