@@ -1,34 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-08<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-09<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Python  Most efficient way to count elements of long list 1 in long list 2  list comprehension is really slow](https://stackoverflow.com/questions/65202651/python-most-efficient-way-to-count-elements-of-long-list-1-in-long-list-2-l) - 3 votes
-* [How to speedup the groupbyfilter operation](https://stackoverflow.com/questions/65191690/how-to-speedup-the-groupby-filter-operation) - 3 votes
-* [Python list to nparray of counts](https://stackoverflow.com/questions/65200206/python-list-to-np-array-of-counts) - 2 votes
-* [Create python pandas series from dict problem to assign index](https://stackoverflow.com/questions/65193488/create-python-pandas-series-from-dict-problem-to-assign-index) - 2 votes
-* [Change entry in Python Pandas dataframe if other entries in rows match](https://stackoverflow.com/questions/65206943/change-entry-in-python-pandas-dataframe-if-other-entries-in-rows-match) - 2 votes
+* [Why does pddfrollingaggregate takes so much longer when the input is a list](https://stackoverflow.com/questions/65224014/why-does-pd-df-rolling-aggregate-takes-so-much-longer-when-the-input-is-a-list) - 4 votes
+* [Find if value is max for previous rows](https://stackoverflow.com/questions/65226269/find-if-value-is-max-for-previous-rows) - 3 votes
+* [Why is pandas throwing quotData overlapsquot when I use pdupdate](https://stackoverflow.com/questions/65217999/why-is-pandas-throwing-data-overlaps-when-i-use-pd-update) - 3 votes
+* [How to sample from DataFrame based on percentile of a column](https://stackoverflow.com/questions/65222324/how-to-sample-from-dataframe-based-on-percentile-of-a-column) - 2 votes
+* [Pandas merge two list columns elementbyelement](https://stackoverflow.com/questions/65217255/pandas-merge-two-list-columns-element-by-element) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Combining a grouped bar plot with a truncated line chart](https://stackoverflow.com/questions/65197871/combining-a-grouped-bar-plot-with-a-truncated-line-chart) - 1 votes
-* [Using PyPlot in Julia gives Error PyCall not properly installed](https://stackoverflow.com/questions/65206122/using-pyplot-in-julia-gives-error-pycall-not-properly-installed) - 1 votes
+* [Is there a way to generate a gif in python without consuming an excessive amount of RAM](https://stackoverflow.com/questions/65219072/is-there-a-way-to-generate-a-gif-in-python-without-consuming-an-excessive-amount) - 3 votes
+* [How to create a video from a 3d heat map in Python](https://stackoverflow.com/questions/65221459/how-to-create-a-video-from-a-3d-heat-map-in-python) - 2 votes
+* [Python matplotlib add text below plot only if condition matches](https://stackoverflow.com/questions/65225109/python-matplotlib-add-text-below-plot-only-if-condition-matches) - 1 votes
+* [How to plot a data in matplot only if the y values is greater than 50](https://stackoverflow.com/questions/65210104/how-to-plot-a-data-in-matplot-only-if-the-y-values-is-greater-than-50) - 1 votes
+* [Reducing vertical space between subplots in matplotlib](https://stackoverflow.com/questions/65210045/reducing-vertical-space-between-subplots-in-matplotlib) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Graphical representation of a series of probabilities from logistic model with R](https://stackoverflow.com/questions/65204307/graphical-representation-of-a-series-of-probabilities-from-logistic-model-with-r) - 1 votes
-* [GGplot2 colour scheme in separate dataframe](https://stackoverflow.com/questions/65203427/ggplot2-colour-scheme-in-separate-dataframe) - 1 votes
-* [ggplot join line and point plot with conditional colours](https://stackoverflow.com/questions/65198935/ggplot-join-line-and-point-plot-with-conditional-colours) - 1 votes
+* [label y axis with a different column in ggplot2](https://stackoverflow.com/questions/65214766/label-y-axis-with-a-different-column-in-ggplot2) - 1 votes
+* [plot GPS position over the road](https://stackoverflow.com/questions/65209043/plot-gps-position-over-the-road) - 1 votes
+* [ignore axis labels when computing margins in patchwork and ggplot2](https://stackoverflow.com/questions/65225352/ignore-axis-labels-when-computing-margins-in-patchwork-and-ggplot2) - 1 votes
+* [Why can I not get my boxplots properly aligned when using 39varwidthTRUE39 in geom_boxplot](https://stackoverflow.com/questions/65212980/why-can-i-not-get-my-boxplots-properly-aligned-when-using-varwidth-true-in-geo) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
