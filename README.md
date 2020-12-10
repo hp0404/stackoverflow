@@ -1,38 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-09<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-10<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Why does pddfrollingaggregate takes so much longer when the input is a list](https://stackoverflow.com/questions/65224014/why-does-pd-df-rolling-aggregate-takes-so-much-longer-when-the-input-is-a-list) - 4 votes
-* [Find if value is max for previous rows](https://stackoverflow.com/questions/65226269/find-if-value-is-max-for-previous-rows) - 3 votes
-* [Why is pandas throwing quotData overlapsquot when I use pdupdate](https://stackoverflow.com/questions/65217999/why-is-pandas-throwing-data-overlaps-when-i-use-pd-update) - 3 votes
-* [How to sample from DataFrame based on percentile of a column](https://stackoverflow.com/questions/65222324/how-to-sample-from-dataframe-based-on-percentile-of-a-column) - 2 votes
-* [Pandas merge two list columns elementbyelement](https://stackoverflow.com/questions/65217255/pandas-merge-two-list-columns-element-by-element) - 2 votes
+* [Change How Pandas Displays nan](https://stackoverflow.com/questions/65243677/change-how-pandas-displays-nan) - 5 votes
+* [Vectorized method for mapping a list from one Dataframe row to another Dataframe row](https://stackoverflow.com/questions/65229666/vectorized-method-for-mapping-a-list-from-one-dataframe-row-to-another-dataframe) - 3 votes
+* [Improve efficiency of iloc  merging two tables with startwith](https://stackoverflow.com/questions/65228447/improve-efficiency-of-iloc-merging-two-tables-with-startwith) - 3 votes
+* [timestamp in pandas dataframe](https://stackoverflow.com/questions/65228576/timestamp-in-pandas-dataframe) - 2 votes
+* [Python  Get policy year from datetime dataframe](https://stackoverflow.com/questions/65242947/python-get-policy-year-from-datetime-dataframe) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Is there a way to generate a gif in python without consuming an excessive amount of RAM](https://stackoverflow.com/questions/65219072/is-there-a-way-to-generate-a-gif-in-python-without-consuming-an-excessive-amount) - 3 votes
-* [How to create a video from a 3d heat map in Python](https://stackoverflow.com/questions/65221459/how-to-create-a-video-from-a-3d-heat-map-in-python) - 2 votes
-* [Python matplotlib add text below plot only if condition matches](https://stackoverflow.com/questions/65225109/python-matplotlib-add-text-below-plot-only-if-condition-matches) - 1 votes
-* [How to plot a data in matplot only if the y values is greater than 50](https://stackoverflow.com/questions/65210104/how-to-plot-a-data-in-matplot-only-if-the-y-values-is-greater-than-50) - 1 votes
-* [Reducing vertical space between subplots in matplotlib](https://stackoverflow.com/questions/65210045/reducing-vertical-space-between-subplots-in-matplotlib) - 1 votes
+* [Matplotlib Show all dates on custom formatted x axis](https://stackoverflow.com/questions/65232750/matplotlib-show-all-dates-on-custom-formatted-x-axis) - 1 votes
+* [Why is the x axis backwards and x and y axis not labeled in this simple scatter plot](https://stackoverflow.com/questions/65243770/why-is-the-x-axis-backwards-and-x-and-y-axis-not-labeled-in-this-simple-scatter) - 1 votes
+* [Matplotlib Iteratively producing TeX symbols in the title and label](https://stackoverflow.com/questions/65242516/matplotlib-iteratively-producing-tex-symbols-in-the-title-and-label) - 1 votes
+* [Why pltplot does not show me the graph](https://stackoverflow.com/questions/65230456/why-plt-plot-does-not-show-me-the-graph) - 1 votes
+* [Add different shade colors for trend and forecast  with text on the region](https://stackoverflow.com/questions/65229027/add-different-shade-colors-for-trend-and-forecast-with-text-on-the-region) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [label y axis with a different column in ggplot2](https://stackoverflow.com/questions/65214766/label-y-axis-with-a-different-column-in-ggplot2) - 1 votes
-* [plot GPS position over the road](https://stackoverflow.com/questions/65209043/plot-gps-position-over-the-road) - 1 votes
-* [ignore axis labels when computing margins in patchwork and ggplot2](https://stackoverflow.com/questions/65225352/ignore-axis-labels-when-computing-margins-in-patchwork-and-ggplot2) - 1 votes
-* [Why can I not get my boxplots properly aligned when using 39varwidthTRUE39 in geom_boxplot](https://stackoverflow.com/questions/65212980/why-can-i-not-get-my-boxplots-properly-aligned-when-using-varwidth-true-in-geo) - 1 votes
+* [When to use aes mapping for the xend argument of the geom_segment function in R39s ggplot2 package](https://stackoverflow.com/questions/65241153/when-to-use-aes-mapping-for-the-xend-argument-of-the-geom-segment-function-in) - 1 votes
+* [Cannot add ggproto objects together](https://stackoverflow.com/questions/65243530/cannot-add-ggproto-objects-together) - 1 votes
+* [How do I represent an enormous bar plot with very long axis labels in R and ggplot](https://stackoverflow.com/questions/65242883/how-do-i-represent-an-enormous-bar-plot-with-very-long-axis-labels-in-r-and-ggpl) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
