@@ -1,37 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-10<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-11<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Change How Pandas Displays nan](https://stackoverflow.com/questions/65243677/change-how-pandas-displays-nan) - 5 votes
-* [Vectorized method for mapping a list from one Dataframe row to another Dataframe row](https://stackoverflow.com/questions/65229666/vectorized-method-for-mapping-a-list-from-one-dataframe-row-to-another-dataframe) - 3 votes
-* [Improve efficiency of iloc  merging two tables with startwith](https://stackoverflow.com/questions/65228447/improve-efficiency-of-iloc-merging-two-tables-with-startwith) - 3 votes
-* [timestamp in pandas dataframe](https://stackoverflow.com/questions/65228576/timestamp-in-pandas-dataframe) - 2 votes
-* [Python  Get policy year from datetime dataframe](https://stackoverflow.com/questions/65242947/python-get-policy-year-from-datetime-dataframe) - 2 votes
+* [Interesting results with duplicate columns in pandasDataFrame](https://stackoverflow.com/questions/65255166/interesting-results-with-duplicate-columns-in-pandas-dataframe) - 4 votes
+* [Need to count repeating consecutive values in python dataframe within a groupby](https://stackoverflow.com/questions/65258458/need-to-count-repeating-consecutive-values-in-python-dataframe-within-a-groupby) - 3 votes
+* [Fastest way to merge and append multiple CSVs  data frames using pandas](https://stackoverflow.com/questions/65247168/fastest-way-to-merge-and-append-multiple-csvs-data-frames-using-pandas) - 3 votes
+* [Column Name Shift using read_csv in Dask](https://stackoverflow.com/questions/65254645/column-name-shift-using-read-csv-in-dask) - 3 votes
+* [Derive numeric values from dataframe column using regex vectorized mapping](https://stackoverflow.com/questions/65247810/derive-numeric-values-from-dataframe-column-using-regex-vectorized-mapping) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Matplotlib Show all dates on custom formatted x axis](https://stackoverflow.com/questions/65232750/matplotlib-show-all-dates-on-custom-formatted-x-axis) - 1 votes
-* [Why is the x axis backwards and x and y axis not labeled in this simple scatter plot](https://stackoverflow.com/questions/65243770/why-is-the-x-axis-backwards-and-x-and-y-axis-not-labeled-in-this-simple-scatter) - 1 votes
-* [Matplotlib Iteratively producing TeX symbols in the title and label](https://stackoverflow.com/questions/65242516/matplotlib-iteratively-producing-tex-symbols-in-the-title-and-label) - 1 votes
-* [Why pltplot does not show me the graph](https://stackoverflow.com/questions/65230456/why-plt-plot-does-not-show-me-the-graph) - 1 votes
-* [Add different shade colors for trend and forecast  with text on the region](https://stackoverflow.com/questions/65229027/add-different-shade-colors-for-trend-and-forecast-with-text-on-the-region) - 1 votes
+* [Plot each day as a time serie on a hourly basis](https://stackoverflow.com/questions/65250406/plot-each-day-as-a-time-serie-on-a-hourly-basis) - 2 votes
+* [Why is my graph not showing every Month Facetgrid Seaborn](https://stackoverflow.com/questions/65251338/why-is-my-graph-not-showing-every-month-facetgrid-seaborn) - 1 votes
+* [Increasing the spacing between plotting texts in matplotlib](https://stackoverflow.com/questions/65259748/increasing-the-spacing-between-plotting-texts-in-matplotlib) - 1 votes
+* [How to add a legend to a plt plot created by a plotting function](https://stackoverflow.com/questions/65256034/how-to-add-a-legend-to-a-plt-plot-created-by-a-plotting-function) - 1 votes
+* [Drawing binary tree with matplotlib](https://stackoverflow.com/questions/65255664/drawing-binary-tree-with-matplotlib) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [When to use aes mapping for the xend argument of the geom_segment function in R39s ggplot2 package](https://stackoverflow.com/questions/65241153/when-to-use-aes-mapping-for-the-xend-argument-of-the-geom-segment-function-in) - 1 votes
-* [Cannot add ggproto objects together](https://stackoverflow.com/questions/65243530/cannot-add-ggproto-objects-together) - 1 votes
-* [How do I represent an enormous bar plot with very long axis labels in R and ggplot](https://stackoverflow.com/questions/65242883/how-do-i-represent-an-enormous-bar-plot-with-very-long-axis-labels-in-r-and-ggpl) - 1 votes
+* [Making violin plots for a time series in R](https://stackoverflow.com/questions/65256761/making-violin-plots-for-a-time-series-in-r) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
