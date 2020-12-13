@@ -1,35 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-12<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-13<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How do I get all items with which a user was in contact](https://stackoverflow.com/questions/65262850/how-do-i-get-all-items-with-which-a-user-was-in-contact) - 3 votes
-* [Pandas groupby and get tail based on some column value](https://stackoverflow.com/questions/65270388/pandas-groupby-and-get-tail-based-on-some-column-value) - 3 votes
-* [Pandas how do I selectfilter a subgroup within a subgroup](https://stackoverflow.com/questions/65262313/pandas-how-do-i-selectfilter-a-subgroup-within-a-subgroup) - 3 votes
-* [Get a specific string with Regex in Python](https://stackoverflow.com/questions/65263070/get-a-specific-string-with-regex-in-python) - 2 votes
-* [How can I normalize a dict inside a CSV](https://stackoverflow.com/questions/65260776/how-can-i-normalize-a-dict-inside-a-csv) - 2 votes
+* [Continuous dates for products in Pandas](https://stackoverflow.com/questions/65275226/continuous-dates-for-products-in-pandas) - 3 votes
+* [Is it a must to convert pandas dataframe to numpy arrays for machine learning algorithms in scikitlearn](https://stackoverflow.com/questions/65273553/is-it-a-must-to-convert-pandas-dataframe-to-numpy-arrays-for-machine-learning-al) - 2 votes
+* [Creating matrix in python with pandas and numpy](https://stackoverflow.com/questions/65277714/creating-matrix-in-python-with-pandas-and-numpy) - 2 votes
+* [How to extract column labels only from pandas dataframe](https://stackoverflow.com/questions/65276777/how-to-extract-column-labels-only-from-pandas-dataframe) - 1 votes
+* [SMOTE  could not convert string to float](https://stackoverflow.com/questions/65280842/smote-could-not-convert-string-to-float) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Customising Matplotlib Subplots](https://stackoverflow.com/questions/65267066/customising-matplotlib-subplots) - 1 votes
-* [How to plot with matplotlib when both dependent and independent variables are in the same list](https://stackoverflow.com/questions/65261448/how-to-plot-with-matplotlib-when-both-dependent-and-independent-variables-are-in) - 1 votes
-* [my box plot has no output in jupyter notebook](https://stackoverflow.com/questions/65266249/my-box-plot-has-no-output-in-jupyter-notebook) - 1 votes
-* [polar hist2d not showing full circle for plot](https://stackoverflow.com/questions/65261498/polar-hist2d-not-showing-full-circle-for-plot) - 1 votes
+* [Matplotlib Why does interpolated points fall outside the plotted line](https://stackoverflow.com/questions/65280524/matplotlib-why-does-interpolated-points-fall-outside-the-plotted-line) - 1 votes
+* [How to make a stacked bar chart in matplotlib](https://stackoverflow.com/questions/65279856/how-to-make-a-stacked-bar-chart-in-matplotlib) - 1 votes
+* [local variable referenced before assignment  matplotlib](https://stackoverflow.com/questions/65277755/local-variable-referenced-before-assignment-matplotlib) - 1 votes
+* [How to add text in matplotlibseaborn](https://stackoverflow.com/questions/65271315/how-to-add-text-in-matplotlib-seaborn) - 1 votes
+* [Seaborn  Matplotlib Modify axis limits of bivariate histogram without distorting bin size](https://stackoverflow.com/questions/65271258/seaborn-matplotlib-modify-axis-limits-of-bivariate-histogram-without-distorti) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Y label overlapping ggplot and ordering](https://stackoverflow.com/questions/65262372/y-label-overlapping-ggplot-and-ordering) - 2 votes
-* [How does enquotequote works in ggplot](https://stackoverflow.com/questions/65269029/how-does-enquote-quote-works-in-ggplot) - 1 votes
+* [using mapply with ggplot](https://stackoverflow.com/questions/65279156/using-mapply-with-ggplot) - 1 votes
+* [linetype manual change in ggplot](https://stackoverflow.com/questions/65278558/linetype-manual-change-in-ggplot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
