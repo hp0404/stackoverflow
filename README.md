@@ -1,37 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-14<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-15<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [What is a pythonpandas equivalent to R39s with](https://stackoverflow.com/questions/65284942/what-is-a-python-pandas-equivalent-to-rs-with) - 5 votes
-* [Using itertools melt and groupby correctly to count pairs of event per attribute value using Pandas](https://stackoverflow.com/questions/65296068/using-itertools-melt-and-groupby-correctly-to-count-pairs-of-event-per-attribut) - 5 votes
-* [Pandas extract columns and rows by ID from a distance matrix](https://stackoverflow.com/questions/65288185/pandas-extract-columns-and-rows-by-id-from-a-distance-matrix) - 3 votes
-* [How can I index this csv file](https://stackoverflow.com/questions/65282205/how-can-i-index-this-csv-file) - 3 votes
-* [Change value of a specific column on dataframe subgroups in pandas based on condition](https://stackoverflow.com/questions/65294684/change-value-of-a-specific-column-on-dataframe-subgroups-in-pandas-based-on-cond) - 2 votes
+* [Pandas json_normalize returns KeyError](https://stackoverflow.com/questions/65308566/pandas-json-normalize-returns-keyerror) - 3 votes
+* [pandas groupby and map list of values](https://stackoverflow.com/questions/65300549/pandas-groupby-and-map-list-of-values) - 2 votes
+* [how to use pandas to subtract rows of a column based upon data by group](https://stackoverflow.com/questions/65301072/how-to-use-pandas-to-subtract-rows-of-a-column-based-upon-data-by-group) - 2 votes
+* [How to extract specific text from a pandas column](https://stackoverflow.com/questions/65315149/how-to-extract-specific-text-from-a-pandas-column) - 2 votes
+* [Merge and align columns based on 2 columns](https://stackoverflow.com/questions/65303121/merge-and-align-columns-based-on-2-columns) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How can I draw the right and top axis and remove the left and bottom axis in a Pairplot of Seaborn](https://stackoverflow.com/questions/65289588/how-can-i-draw-the-right-and-top-axis-and-remove-the-left-and-bottom-axis-in-a-p) - 2 votes
-* [Plotting frequency of elements within a list of lists](https://stackoverflow.com/questions/65287603/plotting-frequency-of-elements-within-a-list-of-lists) - 1 votes
-* [Plot certain range of values with pandas and matplotlib](https://stackoverflow.com/questions/65290417/plot-certain-range-of-values-with-pandas-and-matplotlib) - 1 votes
-* [Why isn39t my matplotlib pie chart saving as a png image properly](https://stackoverflow.com/questions/65282407/why-isnt-my-matplotlib-pie-chart-saving-as-a-png-image-properly) - 1 votes
-* [using the matplotlib pylot for drawing histogram and the smooth curve which lies on the histogram](https://stackoverflow.com/questions/65292070/using-the-matplotlib-pylot-for-drawing-histogram-and-the-smooth-curve-which-lie) - 1 votes
+* [PYPLOT Defining a marker shape in Python with a variable](https://stackoverflow.com/questions/65300049/pyplot-defining-a-marker-shape-in-python-with-a-variable) - 2 votes
+* [Select N points across a line using Matplotlib](https://stackoverflow.com/questions/65305419/select-n-points-across-a-line-using-matplotlib) - 1 votes
+* [Unable to import 39matplotlibpyplot39 without conda](https://stackoverflow.com/questions/65300217/unable-to-import-matplotlib-pyplot-without-conda) - 1 votes
+* [Matplotlib simple way to set axes tick intervals equal](https://stackoverflow.com/questions/65298997/matplotlib-simple-way-to-set-axes-tick-intervals-equal) - 1 votes
+* [How to centre an imshow image](https://stackoverflow.com/questions/65298813/how-to-centre-an-imshow-image) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Very large difference in size of html output from R markdown on Windows and Linux](https://stackoverflow.com/questions/65293835/very-large-difference-in-size-of-html-output-from-r-markdown-on-windows-and-linu) - 2 votes
-* [Merging two yaxes titles in patchwork](https://stackoverflow.com/questions/65291723/merging-two-y-axes-titles-in-patchwork) - 1 votes
-* [How to plot lines and dots in the same plot while using different sized data](https://stackoverflow.com/questions/65289904/how-to-plot-lines-and-dots-in-the-same-plot-while-using-different-sized-data) - 1 votes
+* [ggplot removes geom_label border from legend](https://stackoverflow.com/questions/65298945/ggplot-removes-geom-label-border-from-legend) - 2 votes
+* [Is there a way to plot a stacked bar plot using both colour and shading to distinguish categories](https://stackoverflow.com/questions/65312775/is-there-a-way-to-plot-a-stacked-bar-plot-using-both-colour-and-shading-to-disti) - 1 votes
+* [Plot multiple columns on same plot](https://stackoverflow.com/questions/65315116/plot-multiple-columns-on-same-plot) - 1 votes
+* [Can you get polygon coordinates from a ggplot2geom_density_2d_filled plot](https://stackoverflow.com/questions/65313262/can-you-get-polygon-coordinates-from-a-ggplot2geom-density-2d-filled-plot) - 1 votes
+* [Change color of points within group while keeping jitter using ggplot](https://stackoverflow.com/questions/65303141/change-color-of-points-within-group-while-keeping-jitter-using-ggplot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
