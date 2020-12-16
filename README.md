@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-15<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-16<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas json_normalize returns KeyError](https://stackoverflow.com/questions/65308566/pandas-json-normalize-returns-keyerror) - 3 votes
-* [pandas groupby and map list of values](https://stackoverflow.com/questions/65300549/pandas-groupby-and-map-list-of-values) - 2 votes
-* [how to use pandas to subtract rows of a column based upon data by group](https://stackoverflow.com/questions/65301072/how-to-use-pandas-to-subtract-rows-of-a-column-based-upon-data-by-group) - 2 votes
-* [How to extract specific text from a pandas column](https://stackoverflow.com/questions/65315149/how-to-extract-specific-text-from-a-pandas-column) - 2 votes
-* [Merge and align columns based on 2 columns](https://stackoverflow.com/questions/65303121/merge-and-align-columns-based-on-2-columns) - 2 votes
+* [How to sum rows in the same column than the category in pandas dataframe  python](https://stackoverflow.com/questions/65323350/how-to-sum-rows-in-the-same-column-than-the-category-in-pandas-dataframe-pytho) - 5 votes
+* [How to make a column based on previous values in dataframe](https://stackoverflow.com/questions/65331297/how-to-make-a-column-based-on-previous-values-in-dataframe) - 5 votes
+* [Trying to match each row in df1 with multiple other rows in df1](https://stackoverflow.com/questions/65331540/trying-to-match-each-row-in-df1-with-multiple-other-rows-in-df1) - 4 votes
+* [Reshaping a 3D array to a 2D array to produce a DataFrame keep track of indices to produce column names](https://stackoverflow.com/questions/65319546/reshaping-a-3d-array-to-a-2d-array-to-produce-a-dataframe-keep-track-of-indices) - 3 votes
+* [Filling npnan entries of Float Column gives ValueError fill value must be in categories](https://stackoverflow.com/questions/65316023/filling-np-nan-entries-of-float-column-gives-valueerror-fill-value-must-be-in-c) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [PYPLOT Defining a marker shape in Python with a variable](https://stackoverflow.com/questions/65300049/pyplot-defining-a-marker-shape-in-python-with-a-variable) - 2 votes
-* [Select N points across a line using Matplotlib](https://stackoverflow.com/questions/65305419/select-n-points-across-a-line-using-matplotlib) - 1 votes
-* [Unable to import 39matplotlibpyplot39 without conda](https://stackoverflow.com/questions/65300217/unable-to-import-matplotlib-pyplot-without-conda) - 1 votes
-* [Matplotlib simple way to set axes tick intervals equal](https://stackoverflow.com/questions/65298997/matplotlib-simple-way-to-set-axes-tick-intervals-equal) - 1 votes
-* [How to centre an imshow image](https://stackoverflow.com/questions/65298813/how-to-centre-an-imshow-image) - 1 votes
+* [How do i plot this polynomial fraction using numpy and matplotlib](https://stackoverflow.com/questions/65330039/how-do-i-plot-this-polynomial-fraction-using-numpy-and-matplotlib) - 2 votes
+* [understanding matplotlib set_bad colormap](https://stackoverflow.com/questions/65322133/understanding-matplotlib-set-bad-colormap) - 1 votes
+* [Matplotlib mouse outside of slider axes continues to change plot](https://stackoverflow.com/questions/65332684/matplotlib-mouse-outside-of-slider-axes-continues-to-change-plot) - 1 votes
+* [Converting dataset to list of libraries to plot](https://stackoverflow.com/questions/65332231/converting-dataset-to-list-of-libraries-to-plot) - 1 votes
+* [How to create conditional plots of groupby objects using matplotlibseaborn](https://stackoverflow.com/questions/65328383/how-to-create-conditional-plots-of-groupby-objects-using-matplotlib-seaborn) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [ggplot removes geom_label border from legend](https://stackoverflow.com/questions/65298945/ggplot-removes-geom-label-border-from-legend) - 2 votes
-* [Is there a way to plot a stacked bar plot using both colour and shading to distinguish categories](https://stackoverflow.com/questions/65312775/is-there-a-way-to-plot-a-stacked-bar-plot-using-both-colour-and-shading-to-disti) - 1 votes
-* [Plot multiple columns on same plot](https://stackoverflow.com/questions/65315116/plot-multiple-columns-on-same-plot) - 1 votes
-* [Can you get polygon coordinates from a ggplot2geom_density_2d_filled plot](https://stackoverflow.com/questions/65313262/can-you-get-polygon-coordinates-from-a-ggplot2geom-density-2d-filled-plot) - 1 votes
-* [Change color of points within group while keeping jitter using ggplot](https://stackoverflow.com/questions/65303141/change-color-of-points-within-group-while-keeping-jitter-using-ggplot) - 1 votes
+* [collecting guides in patchwork not working for two grid faceted ggplots](https://stackoverflow.com/questions/65323243/collecting-guides-in-patchwork-not-working-for-two-grid-faceted-ggplots) - 3 votes
+* [Legend disappears](https://stackoverflow.com/questions/65328670/legend-disappears) - 2 votes
+* [Changing colour by name in a scatterplot](https://stackoverflow.com/questions/65321270/changing-colour-by-name-in-a-scatterplot) - 2 votes
+* [How to format R2 and RMSE table added to a ggplot](https://stackoverflow.com/questions/65321984/how-to-format-r2-and-rmse-table-added-to-a-ggplot) - 1 votes
+* [Creating Dynamic Ymax in a Loop Based on a Subsets in R ggplot2](https://stackoverflow.com/questions/65315856/creating-dynamic-ymax-in-a-loop-based-on-a-subsets-in-r-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
