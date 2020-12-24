@@ -2,7 +2,7 @@ name: Build README & update .db
 
 on:
   schedule:
-    - cron:  '50 23 * * *'
+    - cron:  '30 23 * * *'
 
 jobs:
   build:
