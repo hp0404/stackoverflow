@@ -1,37 +1,34 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-27<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-28<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas Data Frame Filtering Multiple Conditions](https://stackoverflow.com/questions/65467349/pandas-data-frame-filtering-multiple-conditions) - 5 votes
-* [Pandas Apply filter on a subset of columns](https://stackoverflow.com/questions/65465134/pandas-apply-filter-on-a-subset-of-columns) - 4 votes
-* [How can I quotgroup byquot cell value in pandas](https://stackoverflow.com/questions/65467067/how-can-i-group-by-cell-value-in-pandas) - 4 votes
-* [Find out skipped values in a Series of integers](https://stackoverflow.com/questions/65462266/find-out-skipped-values-in-a-series-of-integers) - 4 votes
-* [extract data with special value](https://stackoverflow.com/questions/65468699/extract-data-with-special-value) - 3 votes
+* [Argsort DataFrame according to columns](https://stackoverflow.com/questions/65481308/argsort-dataframe-according-to-columns) - 4 votes
+* [How to change one columns values based another column via the index](https://stackoverflow.com/questions/65484541/how-to-change-one-columns-values-based-another-column-via-the-index) - 3 votes
+* [pdconcat with join39inner39 doesn39t produce intersection of pandas dataframes](https://stackoverflow.com/questions/65473354/pd-concat-with-join-inner-doesnt-produce-intersection-of-pandas-datafram) - 3 votes
+* [Exclude item from value_counts over multiple columns](https://stackoverflow.com/questions/65474059/exclude-item-from-value-counts-over-multiple-columns) - 2 votes
+* [Reassigning multiple columns with same array](https://stackoverflow.com/questions/65475162/reassigning-multiple-columns-with-same-array) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How can i make invisible the clusters without cluster centroid in python](https://stackoverflow.com/questions/65468508/how-can-i-make-invisible-the-clusters-without-cluster-centroid-in-python) - 2 votes
-* [Matplotlib Add border around group of bins with most frequent values in hexbin plot](https://stackoverflow.com/questions/65469173/matplotlib-add-border-around-group-of-bins-with-most-frequent-values-in-hexbin) - 2 votes
-* [How to add a mesh grid automatically to fit points in python by matplotlib](https://stackoverflow.com/questions/65462131/how-to-add-a-mesh-grid-automatically-to-fit-points-in-python-by-matplotlib) - 2 votes
-* [How to label colored bars on matplotlib](https://stackoverflow.com/questions/65469608/how-to-label-colored-bars-on-matplotlib) - 1 votes
-* [error while plotting histogram with PILplt  numpy](https://stackoverflow.com/questions/65462964/error-while-plotting-histogram-with-pil-plt-numpy) - 1 votes
+* [Tkinter with matplotlib  Heatmap colorbar not clearing with rest of axes](https://stackoverflow.com/questions/65485347/tkinter-with-matplotlib-heatmap-colorbar-not-clearing-with-rest-of-axes) - 2 votes
+* [How do I add labels to a subset of makers in Seaborn Regplot](https://stackoverflow.com/questions/65482512/how-do-i-add-labels-to-a-subset-of-makers-in-seaborn-regplot) - 1 votes
+* [Adjusting spacing between axes label and axes boundary in matplotlib inset](https://stackoverflow.com/questions/65480860/adjusting-spacing-between-axes-label-and-axes-boundary-in-matplotlib-inset) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to use for loops inside of ggplot2 with maps](https://stackoverflow.com/questions/65463205/how-to-use-for-loops-inside-of-ggplot2-with-maps) - 1 votes
-* [Why does the graph made by ggplot2 have no axes](https://stackoverflow.com/questions/65465716/why-does-the-graph-made-by-ggplot2-have-no-axes) - 1 votes
-* [When an arguments is missing in R how to call another function to use its default argument](https://stackoverflow.com/questions/65465152/when-an-arguments-is-missing-in-r-how-to-call-another-function-to-use-its-defau) - 1 votes
+* [Colouring a particular class](https://stackoverflow.com/questions/65479913/colouring-a-particular-class) - 1 votes
+* [Plot a line graph with different collors for each client in R](https://stackoverflow.com/questions/65483527/plot-a-line-graph-with-different-collors-for-each-client-in-r) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
