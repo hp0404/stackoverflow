@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-29<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-30<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How do I transform df using pandas](https://stackoverflow.com/questions/65499719/how-do-i-transform-df-using-pandas) - 3 votes
-* [How to convert a pandas data frame to nested json](https://stackoverflow.com/questions/65493350/how-to-convert-a-pandas-data-frame-to-nested-json) - 3 votes
-* [Pandas Impute a given number of missing values beforeafter a series of available values](https://stackoverflow.com/questions/65488924/pandas-impute-a-given-number-of-missing-values-before-after-a-series-of-availab) - 3 votes
-* [Pandas applymap not working at some rows when custom function is used](https://stackoverflow.com/questions/65492714/pandas-apply-map-not-working-at-some-rows-when-custom-function-is-used) - 3 votes
-* [Replacing missing values with mean](https://stackoverflow.com/questions/65490680/replacing-missing-values-with-mean) - 2 votes
+* [Transposing group of data in pandas dataframe](https://stackoverflow.com/questions/65509802/transposing-group-of-data-in-pandas-dataframe) - 3 votes
+* [Produce Unique value for duplicates in column using PandasPython](https://stackoverflow.com/questions/65500785/produce-unique-value-for-duplicates-in-column-using-pandas-python) - 3 votes
+* [DataFrame MultiIndex  find column by value](https://stackoverflow.com/questions/65506750/dataframe-multiindex-find-column-by-value) - 3 votes
+* [Passing multiple dataframes from a list into a new dataframe](https://stackoverflow.com/questions/65501983/passing-multiple-dataframes-from-a-list-into-a-new-dataframe) - 3 votes
+* [Concatenate 2 dataframes having different values](https://stackoverflow.com/questions/65502542/concatenate-2-dataframes-having-different-values) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How do I solve the index error generated in matplotlib animation](https://stackoverflow.com/questions/65492590/how-do-i-solve-the-index-error-generated-in-matplotlib-animation) - 2 votes
-* [What does Matplotlib hist do with a 2D numpy array input](https://stackoverflow.com/questions/65486157/what-does-matplotlib-hist-do-with-a-2-d-numpy-array-input) - 2 votes
-* [Matplotlib Subplot with wxPython crashes exe but not when code run from console in IDE](https://stackoverflow.com/questions/65498017/matplotlib-subplot-with-wxpython-crashes-exe-but-not-when-code-run-from-console) - 2 votes
-* [How to rotate a Contextily basemap in matplotlib and Jupyter notebook](https://stackoverflow.com/questions/65498106/how-to-rotate-a-contextily-basemap-in-matplotlib-and-jupyter-notebook) - 1 votes
-* [How to add a third bar to a bar chart in matplotlib](https://stackoverflow.com/questions/65496879/how-to-add-a-third-bar-to-a-bar-chart-in-matplotlib) - 1 votes
+* [Python Fourbar linkage angletime plot](https://stackoverflow.com/questions/65507899/python-four-bar-linkage-angle-time-plot) - 1 votes
+* [Date in seaborn heatmap axis](https://stackoverflow.com/questions/65508110/date-in-seaborn-heatmap-axis) - 1 votes
+* [How to make radar spider chart with pentagon grid using matplotlib and python](https://stackoverflow.com/questions/65514398/how-to-make-radar-spider-chart-with-pentagon-grid-using-matplotlib-and-python) - 1 votes
+* [Include quotcontourquot package into matlplotlib and set title using it](https://stackoverflow.com/questions/65503916/include-contour-package-into-matlplotlib-and-set-title-using-it) - 1 votes
+* [Want to reproduce the same logical reasoning about overlapping contours on a triplot joint distribution](https://stackoverflow.com/questions/65503027/want-to-reproduce-the-same-logical-reasoning-about-overlapping-contours-on-a-tri) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to add a border to a rectangular rasterGrob in ggplot2](https://stackoverflow.com/questions/65496330/how-to-add-a-border-to-a-rectangular-rastergrob-in-ggplot2) - 4 votes
-* [How to remove NA value from the ggplot in shiny app](https://stackoverflow.com/questions/65493127/how-to-remove-na-value-from-the-ggplot-in-shiny-app) - 3 votes
-* [Tidy evaluation in making multiple panel plots using ggplot2](https://stackoverflow.com/questions/65492281/tidy-evaluation-in-making-multiple-panel-plots-using-ggplot2) - 3 votes
-* [Slight misalignment of vertical bar in ggplot2 barplot R](https://stackoverflow.com/questions/65489321/slight-misalignment-of-vertical-bar-in-ggplot2-barplot-r) - 2 votes
-* [Stacked bar chart with multiple columns in R](https://stackoverflow.com/questions/65491789/stacked-bar-chart-with-multiple-columns-in-r) - 1 votes
+* [Arrange names of bins by ascending order with ggplot2](https://stackoverflow.com/questions/65507942/arrange-names-of-bins-by-ascending-order-with-ggplot2) - 1 votes
+* [connecting box plot means on a line graph in R](https://stackoverflow.com/questions/65513658/connecting-box-plot-means-on-a-line-graph-in-r) - 1 votes
+* [Reorder x values by factor in ggplot](https://stackoverflow.com/questions/65511810/reorder-x-values-by-factor-in-ggplot) - 1 votes
+* [How to manually add a geom_vline when my xaxis is a factor R ggplot](https://stackoverflow.com/questions/65514761/how-to-manually-add-a-geom-vline-when-my-x-axis-is-a-factor-r-ggplot) - 1 votes
+* [Geom tile collapses along Yaxis when adding coord_equal](https://stackoverflow.com/questions/65503737/geom-tile-collapses-along-y-axis-when-adding-coord-equal) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
