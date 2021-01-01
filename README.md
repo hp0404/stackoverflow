@@ -1,38 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2020-12-31<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-01-01<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Fill null values in a column using percent change from a second column while grouping by a third column](https://stackoverflow.com/questions/65515347/fill-null-values-in-a-column-using-percent-change-from-a-second-column-while-gro) - 4 votes
-* [How to add rows for a timeseries dataframe](https://stackoverflow.com/questions/65516535/how-to-add-rows-for-a-timeseries-dataframe) - 4 votes
-* [How to separate entries based on rows and columns in pandas dataframe](https://stackoverflow.com/questions/65525023/how-to-separate-entries-based-on-rows-and-columns-in-pandas-dataframe) - 3 votes
-* [Find the days lag and replace 0 with last day lag pandas](https://stackoverflow.com/questions/65517384/find-the-days-lag-and-replace-0-with-last-day-lag-pandas) - 3 votes
-* [Retrieving Unknown Column Names from DataFrameapply](https://stackoverflow.com/questions/65516973/retrieving-unknown-column-names-from-dataframe-apply) - 2 votes
+* [remove rows from a couple of dataframes with equal values](https://stackoverflow.com/questions/65526853/remove-rows-from-a-couple-of-dataframes-with-equal-values) - 4 votes
+* [Could you please help me pivot this pandas data frame in python](https://stackoverflow.com/questions/65526864/could-you-please-help-me-pivot-this-pandas-data-frame-in-python) - 4 votes
+* [Creating a dict of list from pandas row](https://stackoverflow.com/questions/65527125/creating-a-dict-of-list-from-pandas-row) - 3 votes
+* [Process finished with exit code 137 interrupted by signal 9 SIGKILL  Retrieving image data](https://stackoverflow.com/questions/65526655/process-finished-with-exit-code-137-interrupted-by-signal-9-sigkill-retriev) - 3 votes
+* [Rolling idxminmax for pandas DataFrame](https://stackoverflow.com/questions/65526535/rolling-idxmin-max-for-pandas-dataframe) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Boundary condition](https://stackoverflow.com/questions/65517708/boundary-condition) - 2 votes
-* [Some points are not displayed on the graph plotted using NumPy and matplotlib](https://stackoverflow.com/questions/65515721/some-points-are-not-displayed-on-the-graph-plotted-using-numpy-and-matplotlib) - 2 votes
-* [Colormap diverging from black instead of white](https://stackoverflow.com/questions/65523844/colormap-diverging-from-black-instead-of-white) - 1 votes
-* [I am trying to execute a code using Matplotlib in Python and getting the below issue while using fill_between for matplotlib 330](https://stackoverflow.com/questions/65518623/i-am-trying-to-execute-a-code-using-matplotlib-in-python-and-getting-the-below-i) - 1 votes
+* [When I run 393939snshistplotdf39price39393939 in pycharm I get the code output but no graph why is this](https://stackoverflow.com/questions/65530383/when-i-run-sns-histplotdfprice-in-pycharm-i-get-the-code-output-but) - 2 votes
+* [execute py file call python function in for loop](https://stackoverflow.com/questions/65531184/execute-py-file-call-python-function-in-for-loop) - 1 votes
+* [Avoiding data labels from crossing one another Matplotlib Python](https://stackoverflow.com/questions/65527767/avoiding-data-labels-from-crossing-one-another-matplotlib-python) - 1 votes
+* [Matplotlib zeroed spines extend out of axis when panning](https://stackoverflow.com/questions/65526742/matplotlib-zeroed-spines-extend-out-of-axis-when-panning) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [specific fill order in geom_area](https://stackoverflow.com/questions/65523826/specific-fill-order-in-geom-area) - 3 votes
-* [How label min and max values per group in ggplot](https://stackoverflow.com/questions/65519449/how-label-min-and-max-values-per-group-in-ggplot) - 2 votes
-* [Errorbars in a log scale plot](https://stackoverflow.com/questions/65525087/errorbars-in-a-log-scale-plot) - 2 votes
-* [calculate density of one point in groups](https://stackoverflow.com/questions/65515063/calculate-density-of-one-point-in-groups) - 2 votes
-* [Plot of the LC50 Curve in R using ggplot2 with estimates obtained in the stan](https://stackoverflow.com/questions/65521648/plot-of-the-lc50-curve-in-r-using-ggplot2-with-estimates-obtained-in-the-stan) - 1 votes
+* [Convert builtin plots in highquality graphics for publications](https://stackoverflow.com/questions/65533166/convert-built-in-plots-in-high-quality-graphics-for-publications) - 1 votes
+* [How to get max value of each quotuniq labelquot in dataframe](https://stackoverflow.com/questions/65534227/how-to-get-max-value-of-each-uniq-label-in-data-frame) - 1 votes
+* [How do I create a ggplot in R from a nonlinear model using the mgcv package](https://stackoverflow.com/questions/65527152/how-do-i-create-a-ggplot-in-r-from-a-non-linear-model-using-the-mgcv-package) - 1 votes
+* [Create a plot with geom_col and show only part of the graph](https://stackoverflow.com/questions/65531125/create-a-plot-with-geom-col-and-show-only-part-of-the-graph) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
