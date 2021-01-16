@@ -1,39 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-01-15<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-01-16<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas dataframe column subtraction handling NaN](https://stackoverflow.com/questions/65731024/pandas-dataframe-column-subtraction-handling-nan) - 4 votes
-* [Pandas Dataframe Regrouping](https://stackoverflow.com/questions/65740018/pandas-dataframe-regrouping) - 4 votes
-* [How to treat some rows as new columns using pandas](https://stackoverflow.com/questions/65741681/how-to-treat-some-rows-as-new-columns-using-pandas) - 3 votes
-* [Extracting from Parenthesis in Pandas](https://stackoverflow.com/questions/65731505/extracting-from-parenthesis-in-pandas) - 3 votes
-* [Duplicate rows based on other columns containing values then return row with split column value](https://stackoverflow.com/questions/65729078/duplicate-rows-based-on-other-columns-containing-values-then-return-row-with-sp) - 3 votes
+* [Filtering columns based on last row value](https://stackoverflow.com/questions/65752116/filtering-columns-based-on-last-row-value) - 4 votes
+* [repeat a row in pandas n times based on the value of other two columns](https://stackoverflow.com/questions/65747750/repeat-a-row-in-pandas-n-times-based-on-the-value-of-other-two-columns) - 2 votes
+* [Mergejoin two dataframes based on index and colum](https://stackoverflow.com/questions/65749852/merge-join-two-dataframes-based-on-index-and-colum) - 2 votes
+* [count number of a specific string in entire data frame in Pandas and add its value in a new column](https://stackoverflow.com/questions/65749805/count-number-of-a-specific-string-in-entire-data-frame-in-pandas-and-add-its-val) - 2 votes
+* [multiple levels of pivot_table with pandas](https://stackoverflow.com/questions/65746739/multiple-levels-of-pivot-table-with-pandas) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Problem in elemintaing the brackets  and post processing the dataframe using Pandas in Python](https://stackoverflow.com/questions/65736983/problem-in-elemintaing-the-brackets-and-post-processing-the-dataframe-using-p) - 2 votes
-* [How to prevent matplotlib from to showing a figure even with pltclose in jupyter notebook](https://stackoverflow.com/questions/65739473/how-to-prevent-matplotlib-from-to-showing-a-figure-even-with-plt-close-in-jupy) - 2 votes
-* [Is there a way to overplot a line onto a 2D color plot in matplotlib](https://stackoverflow.com/questions/65729050/is-there-a-way-to-overplot-a-line-onto-a-2d-color-plot-in-matplotlib) - 1 votes
-* [How can I make a grid between some lines that given a value the grid moves between the lines](https://stackoverflow.com/questions/65730453/how-can-i-make-a-grid-between-some-lines-that-given-a-value-the-grid-moves-bet) - 1 votes
-* [How can the line segment be removed within the inner circle and outside the outer circle](https://stackoverflow.com/questions/65738637/how-can-the-line-segment-be-removed-within-the-inner-circle-and-outside-the-oute) - 1 votes
+* [How to fitsize subplots with aspect and box_aspect in matplotlib python](https://stackoverflow.com/questions/65745407/how-to-fit-size-subplots-with-aspect-and-box-aspect-in-matplotlib-python) - 2 votes
+* [Python  Plot showing Empty](https://stackoverflow.com/questions/65750808/python-plot-showing-empty) - 1 votes
+* [How to add colors to violinplots](https://stackoverflow.com/questions/65746484/how-to-add-colors-to-violinplots) - 1 votes
+* [Subplot two figures on top and a third one centered in bottom](https://stackoverflow.com/questions/65751398/subplot-two-figures-on-top-and-a-third-one-centered-in-bottom) - 1 votes
+* [How to plot maps with Python39s matplotlib so that small island states are included too](https://stackoverflow.com/questions/65749316/how-to-plot-maps-with-pythons-matplotlib-so-that-small-island-states-are-includ) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Reduce superscript font size ggplot2 R](https://stackoverflow.com/questions/65740983/reduce-superscript-font-size-ggplot2-r) - 2 votes
-* [Add legend between patchwork main title and plot titles](https://stackoverflow.com/questions/65733641/add-legend-between-patchwork-main-title-and-plot-titles) - 2 votes
-* [ggplot2 how to shift histogram](https://stackoverflow.com/questions/65736270/ggplot2-how-to-shift-histogram) - 2 votes
-* [How to change axis text after reordering the axis by value in ggplot](https://stackoverflow.com/questions/65740329/how-to-change-axis-text-after-reordering-the-axis-by-value-in-ggplot) - 1 votes
-* [How to modify the x axis levels without affecting the number of points of the plot](https://stackoverflow.com/questions/65737938/how-to-modify-the-x-axis-levels-without-affecting-the-number-of-points-of-the-pl) - 1 votes
+* [Failing to increase xaxis ticks with usual code](https://stackoverflow.com/questions/65753163/failing-to-increase-x-axis-ticks-with-usual-code) - 2 votes
+* [Aesthetics error in a bar chart ggplot R](https://stackoverflow.com/questions/65753031/aesthetics-error-in-a-bar-chart-ggplot-r) - 1 votes
+* [Scaling X axis error and need help adding quotquot symbol to X axis in ggplot R](https://stackoverflow.com/questions/65751962/scaling-x-axis-error-and-need-help-adding-symbol-to-x-axis-in-ggplot-r) - 1 votes
+* [How can i create a ggplot bar chart without overlapping bars](https://stackoverflow.com/questions/65752338/how-can-i-create-a-ggplot-bar-chart-without-overlapping-bars) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
