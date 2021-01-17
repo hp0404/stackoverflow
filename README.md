@@ -1,38 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-01-16<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-01-17<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Filtering columns based on last row value](https://stackoverflow.com/questions/65752116/filtering-columns-based-on-last-row-value) - 4 votes
-* [repeat a row in pandas n times based on the value of other two columns](https://stackoverflow.com/questions/65747750/repeat-a-row-in-pandas-n-times-based-on-the-value-of-other-two-columns) - 2 votes
-* [Mergejoin two dataframes based on index and colum](https://stackoverflow.com/questions/65749852/merge-join-two-dataframes-based-on-index-and-colum) - 2 votes
-* [count number of a specific string in entire data frame in Pandas and add its value in a new column](https://stackoverflow.com/questions/65749805/count-number-of-a-specific-string-in-entire-data-frame-in-pandas-and-add-its-val) - 2 votes
-* [multiple levels of pivot_table with pandas](https://stackoverflow.com/questions/65746739/multiple-levels-of-pivot-table-with-pandas) - 2 votes
+* [Add a counter column to my data frame that increments depending on temperature values in other column](https://stackoverflow.com/questions/65765710/add-a-counter-column-to-my-data-frame-that-increments-depending-on-temperature-v) - 2 votes
+* [Check values of multiple categorical columns at a same time](https://stackoverflow.com/questions/65759870/check-values-of-multiple-categorical-columns-at-a-same-time) - 2 votes
+* [Dealing with decimals with many digits in Pandas](https://stackoverflow.com/questions/65756367/dealing-with-decimals-with-many-digits-in-pandas) - 2 votes
+* [Display another column where the conditions are determined in other columns](https://stackoverflow.com/questions/65761375/display-another-column-where-the-conditions-are-determined-in-other-columns) - 2 votes
+* [Pandas DataFrame Adding a new column with the average price sold of an Author](https://stackoverflow.com/questions/65759420/pandas-dataframe-adding-a-new-column-with-the-average-price-sold-of-an-author) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to fitsize subplots with aspect and box_aspect in matplotlib python](https://stackoverflow.com/questions/65745407/how-to-fit-size-subplots-with-aspect-and-box-aspect-in-matplotlib-python) - 2 votes
-* [Python  Plot showing Empty](https://stackoverflow.com/questions/65750808/python-plot-showing-empty) - 1 votes
-* [How to add colors to violinplots](https://stackoverflow.com/questions/65746484/how-to-add-colors-to-violinplots) - 1 votes
-* [Subplot two figures on top and a third one centered in bottom](https://stackoverflow.com/questions/65751398/subplot-two-figures-on-top-and-a-third-one-centered-in-bottom) - 1 votes
-* [How to plot maps with Python39s matplotlib so that small island states are included too](https://stackoverflow.com/questions/65749316/how-to-plot-maps-with-pythons-matplotlib-so-that-small-island-states-are-includ) - 1 votes
+* [Changing a color for a value in Imshow](https://stackoverflow.com/questions/65759544/changing-a-color-for-a-value-in-imshow) - 2 votes
+* [Line plot with marker at final point](https://stackoverflow.com/questions/65763972/line-plot-with-marker-at-final-point) - 1 votes
+* [Plotting multiple bars into a chart using MatPlotLib](https://stackoverflow.com/questions/65762954/plotting-multiple-bars-into-a-chart-using-matplotlib) - 1 votes
+* [Create new plots to get user input in a loop and keep another open to update statistics using matplotlib](https://stackoverflow.com/questions/65762738/create-new-plots-to-get-user-input-in-a-loop-and-keep-another-open-to-update-sta) - 1 votes
+* [Pycharm Matplotlib backend doesn39t change from Agg](https://stackoverflow.com/questions/65761743/pycharm-matplotlib-backend-doesnt-change-from-agg) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Failing to increase xaxis ticks with usual code](https://stackoverflow.com/questions/65753163/failing-to-increase-x-axis-ticks-with-usual-code) - 2 votes
-* [Aesthetics error in a bar chart ggplot R](https://stackoverflow.com/questions/65753031/aesthetics-error-in-a-bar-chart-ggplot-r) - 1 votes
-* [Scaling X axis error and need help adding quotquot symbol to X axis in ggplot R](https://stackoverflow.com/questions/65751962/scaling-x-axis-error-and-need-help-adding-symbol-to-x-axis-in-ggplot-r) - 1 votes
-* [How can i create a ggplot bar chart without overlapping bars](https://stackoverflow.com/questions/65752338/how-can-i-create-a-ggplot-bar-chart-without-overlapping-bars) - 1 votes
+* [Building a new geom_hurricane](https://stackoverflow.com/questions/65761550/building-a-new-geom-hurricane) - 3 votes
+* [Dodge two different geoms apart in ggplot2](https://stackoverflow.com/questions/65765703/dodge-two-different-geoms-apart-in-ggplot2) - 3 votes
+* [How to improve speed of ggplot bar chart when plotting gt1000 points](https://stackoverflow.com/questions/65756639/how-to-improve-speed-of-ggplot-bar-chart-when-plotting-1000-points) - 1 votes
+* [Adjusted regression line considering different factors in ggplot2](https://stackoverflow.com/questions/65763748/adjusted-regression-line-considering-different-factors-in-ggplot2) - 1 votes
+* [How to add different points in multiple lines in R](https://stackoverflow.com/questions/65765444/how-to-add-different-points-in-multiple-lines-in-r) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
