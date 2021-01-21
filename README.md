@@ -1,39 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-01-20<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-01-21<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to create new rows with missing years and populate them with current rows](https://stackoverflow.com/questions/65817843/how-to-create-new-rows-with-missing-years-and-populate-them-with-current-rows) - 4 votes
-* [How to get real and imaginary parts of a column in a Pandas dataframe](https://stackoverflow.com/questions/65813757/how-to-get-real-and-imaginary-parts-of-a-column-in-a-pandas-dataframe) - 4 votes
-* [Unique values across columns rowwise in pandas with missing values](https://stackoverflow.com/questions/65812732/unique-values-across-columns-row-wise-in-pandas-with-missing-values) - 3 votes
-* [Pandas groupy aggregateapply specific functions to specific columns npsum sum](https://stackoverflow.com/questions/65815186/pandas-groupy-aggregate-apply-specific-functions-to-specific-columns-np-sum-su) - 3 votes
-* [How would I go about extracting data that is horizoantal and formatting vertiacally in python](https://stackoverflow.com/questions/65817057/how-would-i-go-about-extracting-data-that-is-horizoantal-and-formatting-vertiaca) - 3 votes
+* [Is there an optimal way to get all combinations of values in a grouped pandas dataframe](https://stackoverflow.com/questions/65834299/is-there-an-optimal-way-to-get-all-combinations-of-values-in-a-grouped-pandas-da) - 5 votes
+* [Concatenate columns if same column name in a dataframe](https://stackoverflow.com/questions/65823592/concatenate-columns-if-same-column-name-in-a-dataframe) - 2 votes
+* [How to convert the dataframe to a desired format](https://stackoverflow.com/questions/65821504/how-to-convert-the-dataframe-to-a-desired-format) - 2 votes
+* [Editing Row Data in the Dataframe Pandas](https://stackoverflow.com/questions/65833217/editing-row-data-in-the-dataframe-pandas) - 2 votes
+* [In python how would you create two columns that iterate into eachother](https://stackoverflow.com/questions/65829898/in-python-how-would-you-create-two-columns-that-iterate-into-eachother) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [OverflowError figsavefig triggered by dpi](https://stackoverflow.com/questions/65806135/overflowerror-fig-savefig-triggered-by-dpi) - 2 votes
-* [Tick labels in between colors discrete colorer](https://stackoverflow.com/questions/65816418/tick-labels-in-between-colors-discrete-colorer) - 1 votes
-* [Matlotlib How to pass the subplotnumber to floating_axesFloatingSubplot method](https://stackoverflow.com/questions/65816019/matlotlib-how-to-pass-the-subplot-number-to-floating-axes-floatingsubplot-metho) - 1 votes
-* [Create line plot from dataframe with two columns index](https://stackoverflow.com/questions/65805813/create-line-plot-from-dataframe-with-two-columns-index) - 1 votes
-* [Matplotlib How to remove axis and set facecolor in a rotated axes](https://stackoverflow.com/questions/65805735/matplotlib-how-to-remove-axis-and-set-facecolor-in-a-rotated-axes) - 1 votes
+* [Is there a way to modify the dataframe passed to a facetgrid in seaborn](https://stackoverflow.com/questions/65833882/is-there-a-way-to-modify-the-dataframe-passed-to-a-facetgrid-in-seaborn) - 1 votes
+* [Why certain line styles do not work in matplotlib](https://stackoverflow.com/questions/65833552/why-certain-line-styles-do-not-work-in-matplotlib) - 1 votes
+* [pyplot colormap and bar not corresponding to values](https://stackoverflow.com/questions/65820559/pyplot-colormap-and-bar-not-corresponding-to-values) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How can I draw a rectangular grid connecting the points](https://stackoverflow.com/questions/65803726/how-can-i-draw-a-rectangular-grid-connecting-the-points) - 3 votes
-* [How to add geom_text or geom_label with a position relative to the size of a geom_point](https://stackoverflow.com/questions/65812988/how-to-add-geom-text-or-geom-label-with-a-position-relative-to-the-size-of-a-geo) - 2 votes
-* [S3 Methods Extending ggplot2 gg function](https://stackoverflow.com/questions/65817557/s3-methods-extending-ggplot2-gg-function) - 2 votes
-* [Is there a way to plot the change per period with a line plot in a bar plot with ggplot2](https://stackoverflow.com/questions/65815466/is-there-a-way-to-plot-the-change-per-period-with-a-line-plot-in-a-bar-plot-with) - 2 votes
-* [Is there a way to stop my ggplot to get smaller due to an added title](https://stackoverflow.com/questions/65807738/is-there-a-way-to-stop-my-ggplot-to-get-smaller-due-to-an-added-title) - 2 votes
+* [How to save ggplot with an added logo to it while preserving image quality](https://stackoverflow.com/questions/65835871/how-to-save-ggplot-with-an-added-logo-to-it-while-preserving-image-quality) - 2 votes
+* [array of correlation plots](https://stackoverflow.com/questions/65820664/array-of-correlation-plots) - 2 votes
+* [Can I justify and italicize different categories in one axis](https://stackoverflow.com/questions/65823321/can-i-justify-and-italicize-different-categories-in-one-axis) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
