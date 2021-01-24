@@ -1,37 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-01-23<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-01-24<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [From DataFrame to Nested Dictionary](https://stackoverflow.com/questions/65861513/from-dataframe-to-nested-dictionary) - 3 votes
-* [Keep the data with latest date from a pandas dataframe](https://stackoverflow.com/questions/65859559/keep-the-data-with-latest-date-from-a-pandas-dataframe) - 3 votes
-* [How do I integrate faster transcription condition within my python app](https://stackoverflow.com/questions/65857045/how-do-i-integrate-faster-transcription-condition-within-my-python-app) - 3 votes
-* [pandasconcat using only the index from one table](https://stackoverflow.com/questions/65863436/pandas-concat-using-only-the-index-from-one-table) - 2 votes
-* [How to modify columns of a dataframe into values](https://stackoverflow.com/questions/65860704/how-to-modify-columns-of-a-dataframe-into-values) - 2 votes
+* [mix the information of all columns in a single column](https://stackoverflow.com/questions/65869962/mix-the-information-of-all-columns-in-a-single-column) - 3 votes
+* [How to divide one column by another where one dataframe39s column value corresponds to another dataframe39s column39s value in Python Pandas](https://stackoverflow.com/questions/65872434/how-to-divide-one-column-by-another-where-one-dataframes-column-value-correspon) - 2 votes
+* [How to get unique lists in a Pandas column of lists](https://stackoverflow.com/questions/65872965/how-to-get-unique-lists-in-a-pandas-column-of-lists) - 2 votes
+* [Pandas adding additional values between two rowvalues in a dataframe with number constraint](https://stackoverflow.com/questions/65871169/pandas-adding-additional-values-between-two-row-values-in-a-dataframe-with-numbe) - 2 votes
+* [Is there any way to change the index of the dataframe for ploting](https://stackoverflow.com/questions/65868790/is-there-any-way-to-change-the-index-of-the-dataframe-for-ploting) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to create a pin plot in matplotlib](https://stackoverflow.com/questions/65858386/how-to-create-a-pin-plot-in-matplotlib) - 2 votes
-* [Plotly How to plot histogram with xhour](https://stackoverflow.com/questions/65856933/plotly-how-to-plot-histogram-with-x-hour) - 2 votes
-* [How to display negative values in matplotlib39s stackplot](https://stackoverflow.com/questions/65859200/how-to-display-negative-values-in-matplotlibs-stackplot) - 1 votes
-* [Matplotlib not setting minimum yaxis](https://stackoverflow.com/questions/65863110/matplotlib-not-setting-minimum-y-axis) - 1 votes
-* [The axes of the plot won39t show when start FuncAnimation](https://stackoverflow.com/questions/65862229/the-axes-of-the-plot-wont-show-when-start-funcanimation) - 1 votes
+* [What is the equivalent of Matlab quotaxis xyquot in Matplotlib](https://stackoverflow.com/questions/65870495/what-is-the-equivalent-of-matlab-axis-xy-in-matplotlib) - 1 votes
+* [How to plot computed values](https://stackoverflow.com/questions/65871424/how-to-plot-computed-values) - 1 votes
+* [How to change color in statsmodel39s plot_acf function](https://stackoverflow.com/questions/65870368/how-to-change-color-in-statsmodels-plot-acf-function) - 1 votes
+* [Seaborne Linechart Style Causing Duplicate Legend Entries](https://stackoverflow.com/questions/65866533/seaborne-linechart-style-causing-duplicate-legend-entries) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Why are certain aesthetics functions of my graph not displaying](https://stackoverflow.com/questions/65857399/why-are-certain-aesthetics-functions-of-my-graph-not-displaying) - 1 votes
-* [Remove Grid in fviz_silhouette](https://stackoverflow.com/questions/65861244/remove-grid-in-fviz-silhouette) - 1 votes
-* [Arrange line plot by order of the variables in data frame](https://stackoverflow.com/questions/65859080/arrange-line-plot-by-order-of-the-variables-in-data-frame) - 1 votes
+* [Making my plotly graph display more aesthetic](https://stackoverflow.com/questions/65866436/making-my-plotly-graph-display-more-aesthetic) - 2 votes
+* [How to always plot Sum as the last label on x axis and bottom row on the y axis](https://stackoverflow.com/questions/65866142/how-to-always-plot-sum-as-the-last-label-on-x-axis-and-bottom-row-on-the-y-axis) - 1 votes
+* [How to put label on bar plot using ggplot2](https://stackoverflow.com/questions/65872919/how-to-put-label-on-bar-plot-using-ggplot2) - 1 votes
+* [How to graphically measure a relationship between variables](https://stackoverflow.com/questions/65870902/how-to-graphically-measure-a-relationship-between-variables) - 1 votes
+* [Stacked geom_bar with 2 bars per x value](https://stackoverflow.com/questions/65867082/stacked-geom-bar-with-2-bars-per-x-value) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
