@@ -1,33 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-01-25<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-01-26<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas Lookup to be deprecated  elegant and efficient alternative](https://stackoverflow.com/questions/65882258/pandas-lookup-to-be-deprecated-elegant-and-efficient-alternative) - 4 votes
-* [Vectorization Pandas DataFrame](https://stackoverflow.com/questions/65889255/vectorization-pandas-dataframe) - 3 votes
-* [How to create a new column basis on calculative condtions](https://stackoverflow.com/questions/65890244/how-to-create-a-new-column-basis-on-calculative-condtions) - 3 votes
-* [Removing symmetric pairs in DataFrame with MultiIndex](https://stackoverflow.com/questions/65886664/removing-symmetric-pairs-in-dataframe-with-multiindex) - 2 votes
-* [Sum dataframe column with multiple categories](https://stackoverflow.com/questions/65883542/sum-dataframe-column-with-multiple-categories) - 2 votes
+* [pandas 121 to_csv performance with datetime as the index and setting date_format](https://stackoverflow.com/questions/65903287/pandas-1-2-1-to-csv-performance-with-datetime-as-the-index-and-setting-date-form) - 3 votes
+* [Replace one column with another except another is NaN in Pandas](https://stackoverflow.com/questions/65897528/replace-one-column-with-another-except-another-is-nan-in-pandas) - 2 votes
+* [Pandas transform complex numbers column into modulus and argument columns](https://stackoverflow.com/questions/65907736/pandas-transform-complex-numbers-column-into-modulus-and-argument-columns) - 2 votes
+* [An easy way to calculate time intervals between dates in a column in Python](https://stackoverflow.com/questions/65901247/an-easy-way-to-calculate-time-intervals-between-dates-in-a-column-in-python) - 2 votes
+* [Contracted nodes automatically in Networkx](https://stackoverflow.com/questions/65904495/contracted-nodes-automatically-in-networkx) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Fitting a line through 3D xyz scatter plot data](https://stackoverflow.com/questions/65888553/fitting-a-line-through-3d-x-y-z-scatter-plot-data) - 2 votes
-* [How to prevent scatter legend from overlapping](https://stackoverflow.com/questions/65888394/how-to-prevent-scatter-legend-from-overlapping) - 1 votes
-* [Setting Axis ticks of an Axes3D object](https://stackoverflow.com/questions/65887619/setting-axis-ticks-of-an-axes3d-object) - 1 votes
+* [Scatter Pie Plot Python Pandas](https://stackoverflow.com/questions/65904279/scatter-pie-plot-python-pandas) - 1 votes
+* [matplotlib How to add linear secondary_yaxis for logscale primary axis](https://stackoverflow.com/questions/65900231/matplotlib-how-to-add-linear-secondary-yaxis-for-log-scale-primary-axis) - 1 votes
+* [How to resample the data by month and plot monthly percentages](https://stackoverflow.com/questions/65899210/how-to-resample-the-data-by-month-and-plot-monthly-percentages) - 1 votes
+* [python scatter plot combine subtractive colors cyan and yellow to obtain strong green color not faded](https://stackoverflow.com/questions/65894258/python-scatter-plot-combine-subtractive-colors-cyan-and-yellow-to-obtain-strong) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to display 2 categorical variables on the 1 heatmap](https://stackoverflow.com/questions/65887187/how-to-display-2-categorical-variables-on-the-1-heatmap) - 2 votes
+* [How do I change the background colour of a legend box in ggplot](https://stackoverflow.com/questions/65901541/how-do-i-change-the-background-colour-of-a-legend-box-in-ggplot) - 3 votes
+* [ggplot2 add legend manually to existing legend](https://stackoverflow.com/questions/65903112/ggplot2-add-legend-manually-to-existing-legend) - 1 votes
+* [How to tailor the xaxis of a ggplot to include dates](https://stackoverflow.com/questions/65894787/how-to-tailor-the-x-axis-of-a-ggplot-to-include-dates) - 1 votes
+* [Unable to generate a legend in ggplot2 for mixed geoms](https://stackoverflow.com/questions/65895663/unable-to-generate-a-legend-in-ggplot2-for-mixed-geoms) - 1 votes
+* [Set ylim in a log10 scale_y_continuous in R](https://stackoverflow.com/questions/65903831/set-ylim-in-a-log10-scale-y-continuous-in-r) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
