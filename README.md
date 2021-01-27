@@ -1,38 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-01-26<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-01-27<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [pandas 121 to_csv performance with datetime as the index and setting date_format](https://stackoverflow.com/questions/65903287/pandas-1-2-1-to-csv-performance-with-datetime-as-the-index-and-setting-date-form) - 3 votes
-* [Replace one column with another except another is NaN in Pandas](https://stackoverflow.com/questions/65897528/replace-one-column-with-another-except-another-is-nan-in-pandas) - 2 votes
-* [Pandas transform complex numbers column into modulus and argument columns](https://stackoverflow.com/questions/65907736/pandas-transform-complex-numbers-column-into-modulus-and-argument-columns) - 2 votes
-* [An easy way to calculate time intervals between dates in a column in Python](https://stackoverflow.com/questions/65901247/an-easy-way-to-calculate-time-intervals-between-dates-in-a-column-in-python) - 2 votes
-* [Contracted nodes automatically in Networkx](https://stackoverflow.com/questions/65904495/contracted-nodes-automatically-in-networkx) - 2 votes
+* [Pandas skipping lines when in read_csv can I record these to variablelog file](https://stackoverflow.com/questions/65922015/pandas-skipping-lines-when-in-read-csv-can-i-record-these-to-variable-log-file) - 3 votes
+* [Pivot Pandas dataframe to see if condition is met](https://stackoverflow.com/questions/65912371/pivot-pandas-dataframe-to-see-if-condition-is-met) - 2 votes
+* [Extract distinct values from Dataframe and insert them into new Dataframe with same column Name](https://stackoverflow.com/questions/65913796/extract-distinct-values-from-dataframe-and-insert-them-into-new-dataframe-with-s) - 2 votes
+* [Reorder Columns In A Data Frame Depending On Conditions Of Values](https://stackoverflow.com/questions/65912245/re-order-columns-in-a-data-frame-depending-on-conditions-of-values) - 2 votes
+* [Repeat the task of exporting multiple Panda datames into multiple csvfiles](https://stackoverflow.com/questions/65916809/repeat-the-task-of-exporting-multiple-panda-datames-into-multiple-csv-files) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Scatter Pie Plot Python Pandas](https://stackoverflow.com/questions/65904279/scatter-pie-plot-python-pandas) - 1 votes
-* [matplotlib How to add linear secondary_yaxis for logscale primary axis](https://stackoverflow.com/questions/65900231/matplotlib-how-to-add-linear-secondary-yaxis-for-log-scale-primary-axis) - 1 votes
-* [How to resample the data by month and plot monthly percentages](https://stackoverflow.com/questions/65899210/how-to-resample-the-data-by-month-and-plot-monthly-percentages) - 1 votes
-* [python scatter plot combine subtractive colors cyan and yellow to obtain strong green color not faded](https://stackoverflow.com/questions/65894258/python-scatter-plot-combine-subtractive-colors-cyan-and-yellow-to-obtain-strong) - 1 votes
+* [Animating a scatter plot with a stationary gap in python](https://stackoverflow.com/questions/65922585/animating-a-scatter-plot-with-a-stationary-gap-in-python) - 2 votes
+* [Matplotlob set_position is not working with subplots with constrained_layout](https://stackoverflow.com/questions/65912899/matplotlob-set-position-is-not-working-with-subplots-with-constrained-layout) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How do I change the background colour of a legend box in ggplot](https://stackoverflow.com/questions/65901541/how-do-i-change-the-background-colour-of-a-legend-box-in-ggplot) - 3 votes
-* [ggplot2 add legend manually to existing legend](https://stackoverflow.com/questions/65903112/ggplot2-add-legend-manually-to-existing-legend) - 1 votes
-* [How to tailor the xaxis of a ggplot to include dates](https://stackoverflow.com/questions/65894787/how-to-tailor-the-x-axis-of-a-ggplot-to-include-dates) - 1 votes
-* [Unable to generate a legend in ggplot2 for mixed geoms](https://stackoverflow.com/questions/65895663/unable-to-generate-a-legend-in-ggplot2-for-mixed-geoms) - 1 votes
-* [Set ylim in a log10 scale_y_continuous in R](https://stackoverflow.com/questions/65903831/set-ylim-in-a-log10-scale-y-continuous-in-r) - 1 votes
+* [How to insure proper alignment for two layer geom_point](https://stackoverflow.com/questions/65917340/how-to-insure-proper-alignment-for-two-layer-geom-point) - 4 votes
+* [How to plot surface fit through 3D data in R](https://stackoverflow.com/questions/65918325/how-to-plot-surface-fit-through-3d-data-in-r) - 2 votes
+* [How to change title of already existing ggplot](https://stackoverflow.com/questions/65916960/how-to-change-title-of-already-existing-ggplot) - 1 votes
+* [ggplot2 for a newbie multiple columns grouped in a bar chart](https://stackoverflow.com/questions/65922402/ggplot2-for-a-newbie-multiple-columns-grouped-in-a-bar-chart) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
