@@ -1,39 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-01-28<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-01-29<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [pandas pivot table where the column contains a string with multiple catogeries](https://stackoverflow.com/questions/65941783/pandas-pivot-table-where-the-column-contains-a-string-with-multiple-catogeries) - 4 votes
-* [How to customize axis ticks label on X or Y axis in Pandas](https://stackoverflow.com/questions/65933037/how-to-customize-axis-ticks-label-on-x-or-y-axis-in-pandas) - 4 votes
-* [How to group pairs based on shared item in pd dataframe](https://stackoverflow.com/questions/65930248/how-to-group-pairs-based-on-shared-item-in-pd-dataframe) - 4 votes
-* [Loop over a column and remove characters  Python Pandas](https://stackoverflow.com/questions/65935190/loop-over-a-column-and-remove-characters-python-pandas) - 3 votes
-* [Count of number of days for each unique column values and extend ratings](https://stackoverflow.com/questions/65934971/count-of-number-of-days-for-each-unique-column-values-and-extend-ratings) - 3 votes
+* [Pandas Equivalent for SQL window function and rows range](https://stackoverflow.com/questions/65959870/pandas-equivalent-for-sql-window-function-and-rows-range) - 5 votes
+* [pandas split values and join across columns](https://stackoverflow.com/questions/65951438/pandas-split-values-and-join-across-columns) - 3 votes
+* [Python  Get dictionary value if key is contained in a string](https://stackoverflow.com/questions/65957275/python-get-dictionary-value-if-key-is-contained-in-a-string) - 2 votes
+* [pandas new column with difference from series object list](https://stackoverflow.com/questions/65952978/pandas-new-column-with-difference-from-series-object-list) - 2 votes
+* [Binning a numerical column with PySpark](https://stackoverflow.com/questions/65950652/binning-a-numerical-column-with-pyspark) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Is matplotlib inline still needed](https://stackoverflow.com/questions/65934740/is-matplotlib-inline-still-needed) - 5 votes
-* [Drawing plot by positions with different colors using python](https://stackoverflow.com/questions/65930306/drawing-plot-by-positions-with-different-colors-using-python) - 3 votes
-* [Using Boolean selection on a dataframe results in a KeyError](https://stackoverflow.com/questions/65942098/using-boolean-selection-on-a-dataframe-results-in-a-keyerror) - 1 votes
-* [Matplotlib why does colorbar y label disappear with multiple colorbars](https://stackoverflow.com/questions/65942632/matplotlib-why-does-colorbar-y-label-disappear-with-multiple-colorbars) - 1 votes
-* [footnoteannotate overlapping with xlabel](https://stackoverflow.com/questions/65940496/footnote-annotate-overlapping-with-xlabel) - 1 votes
+* [How can I make my FacetGrid plot work for the data below](https://stackoverflow.com/questions/65956467/how-can-i-make-my-facetgrid-plot-work-for-the-data-below) - 1 votes
+* [Python Bar plot y axis display percentage](https://stackoverflow.com/questions/65948203/python-bar-plot-y-axis-display-percentage) - 1 votes
+* [matplotlib configuration file and style sheets](https://stackoverflow.com/questions/65951177/matplotlib-configuration-file-and-style-sheets) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [ggplot melted data sharing common aesthetics](https://stackoverflow.com/questions/65930458/ggplot-melted-data-sharing-common-aesthetics) - 2 votes
-* [Create a polygon within a graph in ggplot R](https://stackoverflow.com/questions/65930166/create-a-polygon-within-a-graph-in-ggplot-r) - 2 votes
-* [Aligning a violin plot with a forest plot](https://stackoverflow.com/questions/65930776/aligning-a-violin-plot-with-a-forest-plot) - 2 votes
-* [Removing single entries from xaxis ggplot R](https://stackoverflow.com/questions/65940185/removing-single-entries-from-x-axis-ggplot-r) - 1 votes
-* [Convert to tidy format and Plot four density plots in the same plot](https://stackoverflow.com/questions/65944385/convert-to-tidy-format-and-plot-four-density-plots-in-the-same-plot) - 1 votes
+* [Adding a density line to a histogram with multiple variables in ggplot2](https://stackoverflow.com/questions/65952120/adding-a-density-line-to-a-histogram-with-multiple-variables-in-ggplot2) - 1 votes
+* [Error message of missing values while plotting facet_grid bar plot](https://stackoverflow.com/questions/65958625/error-message-of-missing-values-while-plotting-facet-grid-bar-plot) - 1 votes
+* [ggplot2 How to dynamically wrapresizerescale x axis labels so they won39t overlap](https://stackoverflow.com/questions/65956833/ggplot2-how-to-dynamically-wrap-resize-rescale-x-axis-labels-so-they-wont-over) - 1 votes
+* [How to display geom_text as millions in ggplot2](https://stackoverflow.com/questions/65960642/how-to-display-geom-text-as-millions-in-ggplot2) - 1 votes
+* [How can I work with stat_density and a timeseries Posixct on x axis](https://stackoverflow.com/questions/65954686/how-can-i-work-with-stat-density-and-a-timeseries-posixct-on-x-axis) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
