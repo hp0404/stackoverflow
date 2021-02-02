@@ -1,39 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-01<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-02<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Transpose by grouping a Dataframe having both numeric and string variables](https://stackoverflow.com/questions/65992077/transpose-by-grouping-a-dataframe-having-both-numeric-and-string-variables) - 4 votes
-* [How to create pandas datafram from a dictionary and keep list in one cell](https://stackoverflow.com/questions/65987573/how-to-create-pandas-datafram-from-a-dictionary-and-keep-list-in-one-cell) - 2 votes
-* [How to merge back dataframe from a pivot operation](https://stackoverflow.com/questions/65989510/how-to-merge-back-dataframe-from-a-pivot-operation) - 2 votes
-* [Aggregation involving two columns in pandas](https://stackoverflow.com/questions/65996636/aggregation-involving-two-columns-in-pandas) - 2 votes
-* [Pandas Dataframe average non 0 value](https://stackoverflow.com/questions/65995268/pandas-dataframe-average-non-0-value) - 2 votes
+* [Pandas agg array with special rules](https://stackoverflow.com/questions/66010081/pandas-agg-array-with-special-rules) - 4 votes
+* [Sepration of words and count in columns and seperate then in two words](https://stackoverflow.com/questions/66012407/sepration-of-words-and-count-in-columns-and-seperate-then-in-two-words) - 2 votes
+* [Allowing last line in quotamountquot column of dataframe to be a plug value to solve rounding error](https://stackoverflow.com/questions/66003243/allowing-last-line-in-amount-column-of-dataframe-to-be-a-plug-value-to-solve-r) - 2 votes
+* [Search and replace values between two different pandas dataframes](https://stackoverflow.com/questions/66017014/search-and-replace-values-between-two-different-pandas-dataframes) - 2 votes
+* [Loop through arrays in dataframe and plot by group](https://stackoverflow.com/questions/66005764/loop-through-arrays-in-dataframe-and-plot-by-group) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Matplotlib How to add effects to background color of a plot](https://stackoverflow.com/questions/65995445/matplotlib-how-to-add-effects-to-background-color-of-a-plot) - 3 votes
-* [How to stack multiple graphs](https://stackoverflow.com/questions/65993507/how-to-stack-multiple-graphs) - 1 votes
-* [Bar chart with Matplotlib gives excessive bar width](https://stackoverflow.com/questions/65989107/bar-chart-with-matplotlib-gives-excessive-bar-width) - 1 votes
-* [Unintentionally plotting multiple lines in matplotlib](https://stackoverflow.com/questions/65986418/unintentionally-plotting-multiple-lines-in-matplotlib) - 1 votes
-* [How to make subplots of various regions from a single plot](https://stackoverflow.com/questions/65998557/how-to-make-subplots-of-various-regions-from-a-single-plot) - 1 votes
+* [How to find point inside an ellipse](https://stackoverflow.com/questions/66010530/how-to-find-point-inside-an-ellipse) - 2 votes
+* [Loop through arrays in dataframe and plot by group](https://stackoverflow.com/questions/66005764/loop-through-arrays-in-dataframe-and-plot-by-group) - 2 votes
+* [Python DataFrame  plot a bar chart for data frame with groupedby columns at least two columns](https://stackoverflow.com/questions/66016045/python-dataframe-plot-a-bar-chart-for-data-frame-with-grouped-by-columns-at-l) - 2 votes
+* [Polar plot xtick label position](https://stackoverflow.com/questions/66007742/polar-plot-xtick-label-position) - 2 votes
+* [Convert two columns into two lists for plotting with Python](https://stackoverflow.com/questions/66006791/convert-two-columns-into-two-lists-for-plotting-with-python) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Change 39aaa39 from geom_text legend to the the corresponding label text](https://stackoverflow.com/questions/65989810/change-aaa-from-geom-text-legend-to-the-the-corresponding-label-text) - 1 votes
-* [Defining gridarrange so the third plot is in the middle](https://stackoverflow.com/questions/65985705/defining-grid-arrange-so-the-third-plot-is-in-the-middle) - 1 votes
-* [Adding a rainbow gradient on just one bar in ggplot2](https://stackoverflow.com/questions/65999236/adding-a-rainbow-gradient-on-just-one-bar-in-ggplot2) - 1 votes
-* [ggplot scale_fill_manual within groups](https://stackoverflow.com/questions/65988418/ggplot-scale-fill-manual-within-groups) - 1 votes
-* [Why do geom_smooth nls and the standalone nls give different fit results](https://stackoverflow.com/questions/65986592/why-do-geom-smooth-nls-and-the-standalone-nls-give-different-fit-results) - 1 votes
+* [How to prevent ggplot2 from combining key glyphs](https://stackoverflow.com/questions/66002192/how-to-prevent-ggplot2-from-combining-key-glyphs) - 5 votes
+* [Logistic Regression Error Computation failed in stat_smooth y values must be 0 lt y lt 1](https://stackoverflow.com/questions/66005572/logistic-regression-error-computation-failed-in-stat-smooth-y-values-must) - 2 votes
+* [Error Aesthetics must be either length 1 or the same as the data n fill](https://stackoverflow.com/questions/66015706/error-aesthetics-must-be-either-length-1-or-the-same-as-the-data-n-fill) - 1 votes
+* [How to embed an image within a ggplot figure and control the margins](https://stackoverflow.com/questions/66015724/how-to-embed-an-image-within-a-ggplot-figure-and-control-the-margins) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
