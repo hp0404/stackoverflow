@@ -1,38 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-03<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-04<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Add 1 day every x rows](https://stackoverflow.com/questions/66024328/add-1-day-every-x-rows) - 4 votes
-* [Lookup from multiple columns python](https://stackoverflow.com/questions/66028966/lookup-from-multiple-columns-python) - 3 votes
-* [Extract Hours from DateTime Pandas Series](https://stackoverflow.com/questions/66025501/extract-hours-from-datetime-pandas-series) - 2 votes
-* [Filling Null Values of a Pandas Column with a List](https://stackoverflow.com/questions/66032612/filling-null-values-of-a-pandas-column-with-a-list) - 2 votes
-* [Stacking just one of the bars on a pandas MultiIndex dataframe using matplotlib bar plot](https://stackoverflow.com/questions/66031892/stacking-just-one-of-the-bars-on-a-pandas-multiindex-dataframe-using-matplotlib) - 2 votes
+* [How to keep the only the top N values in a dataframe](https://stackoverflow.com/questions/66048632/how-to-keep-the-only-the-top-n-values-in-a-dataframe) - 4 votes
+* [Rename multiple columns by index using an iterative name in pandas](https://stackoverflow.com/questions/66039894/rename-multiple-columns-by-index-using-an-iterative-name-in-pandas) - 3 votes
+* [how to make interpret date as 3 12 not 31 2 in ddmmyyyy format](https://stackoverflow.com/questions/66039469/how-to-make-interpret-date-as-3-12-not-31-2-in-ddmmyyyy-format) - 3 votes
+* [How to set nonadjacent cell range for XlsxWriter Data Validation](https://stackoverflow.com/questions/66045417/how-to-set-non-adjacent-cell-range-for-xlsxwriter-data-validation) - 3 votes
+* [Sorting a pandas dataframe based on number of values of a categorical column](https://stackoverflow.com/questions/66041108/sorting-a-pandas-dataframe-based-on-number-of-values-of-a-categorical-column) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Stacking just one of the bars on a pandas MultiIndex dataframe using matplotlib bar plot](https://stackoverflow.com/questions/66031892/stacking-just-one-of-the-bars-on-a-pandas-multiindex-dataframe-using-matplotlib) - 2 votes
-* [Matplotlib bar chart how to change names on axis x](https://stackoverflow.com/questions/66027923/matplotlib-bar-chart-how-to-change-names-on-axis-x) - 1 votes
-* [How to plot 3 axis info in a 2d plot](https://stackoverflow.com/questions/66021209/how-to-plot-3-axis-info-in-a-2d-plot) - 1 votes
-* [Meaning of quotclosedquot Path parameter in matplotlib](https://stackoverflow.com/questions/66032074/meaning-of-closed-path-parameter-in-matplotlib) - 1 votes
-* [Python number recognition on colored screen](https://stackoverflow.com/questions/66027978/python-number-recognition-on-colored-screen) - 1 votes
+* [How to create a heatmap where each cell is divided into 4 triangles](https://stackoverflow.com/questions/66048529/how-to-create-a-heatmap-where-each-cell-is-divided-into-4-triangles) - 2 votes
+* [Python Using a dictionary for matplotlib colors and hatching](https://stackoverflow.com/questions/66049669/python-using-a-dictionary-for-matplotlib-colors-and-hatching) - 1 votes
+* [Unable to use subplot more than once without recreating my grouped dataframe](https://stackoverflow.com/questions/66039385/unable-to-use-subplot-more-than-once-without-re-creating-my-grouped-dataframe) - 1 votes
+* [Matplotlib animate scatterplot with time axis](https://stackoverflow.com/questions/66048025/matplotlib-animate-scatterplot-with-time-axis) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Changing yaxis limits in ggplot without cutting off graph or losing data](https://stackoverflow.com/questions/66020613/changing-y-axis-limits-in-ggplot-without-cutting-off-graph-or-losing-data) - 1 votes
-* [Why does hjust move my labels up and down and vjust left and right Isn39t that backward](https://stackoverflow.com/questions/66024109/why-does-hjust-move-my-labels-up-and-down-and-vjust-left-and-right-isnt-that) - 1 votes
-* [Graph bars only appear when lower limit of y axis set to 0 in ggplot](https://stackoverflow.com/questions/66020146/graph-bars-only-appear-when-lower-limit-of-y-axis-set-to-0-in-ggplot) - 1 votes
-* [Voronoi tesselation in ggmap with custom color codes](https://stackoverflow.com/questions/66019446/voronoi-tesselation-in-ggmap-with-custom-color-codes) - 1 votes
+* [How do I use subset in a ggplot pipe](https://stackoverflow.com/questions/66049762/how-do-i-use-subset-in-a-ggplot-pipe) - 4 votes
+* [Can the boxplot and the dotplot come from two different data in ggplot](https://stackoverflow.com/questions/66038107/can-the-boxplot-and-the-dotplot-come-from-two-different-data-in-ggplot) - 2 votes
+* [How to loop and filter over groups](https://stackoverflow.com/questions/66038413/how-to-loop-and-filter-over-groups) - 1 votes
+* [Troubleshooting aesgroup not connecting lines](https://stackoverflow.com/questions/66048705/troubleshooting-aesgroup-not-connecting-lines) - 1 votes
+* [Axis covers the labels in the plot](https://stackoverflow.com/questions/66048340/axis-covers-the-labels-in-the-plot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
