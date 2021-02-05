@@ -1,38 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-04<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-05<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to keep the only the top N values in a dataframe](https://stackoverflow.com/questions/66048632/how-to-keep-the-only-the-top-n-values-in-a-dataframe) - 4 votes
-* [Rename multiple columns by index using an iterative name in pandas](https://stackoverflow.com/questions/66039894/rename-multiple-columns-by-index-using-an-iterative-name-in-pandas) - 3 votes
-* [how to make interpret date as 3 12 not 31 2 in ddmmyyyy format](https://stackoverflow.com/questions/66039469/how-to-make-interpret-date-as-3-12-not-31-2-in-ddmmyyyy-format) - 3 votes
-* [How to set nonadjacent cell range for XlsxWriter Data Validation](https://stackoverflow.com/questions/66045417/how-to-set-non-adjacent-cell-range-for-xlsxwriter-data-validation) - 3 votes
-* [Sorting a pandas dataframe based on number of values of a categorical column](https://stackoverflow.com/questions/66041108/sorting-a-pandas-dataframe-based-on-number-of-values-of-a-categorical-column) - 2 votes
+* [Checking if a list is a subset of another in a pandas Dataframe](https://stackoverflow.com/questions/66066357/checking-if-a-list-is-a-subset-of-another-in-a-pandas-dataframe) - 4 votes
+* [Different operations on different columns of a pandas DataFrame](https://stackoverflow.com/questions/66061636/different-operations-on-different-columns-of-a-pandas-dataframe) - 3 votes
+* [How do you change input parameters of pandas groupbyagg function](https://stackoverflow.com/questions/66068515/how-do-you-change-input-parameters-of-pandas-groupby-agg-function) - 2 votes
+* [Pandas How to use applymapapply function with arguements to a dataframe without looping](https://stackoverflow.com/questions/66058705/pandas-how-to-use-applymap-apply-function-with-arguements-to-a-dataframe-withou) - 2 votes
+* [Is there a function to compare two DataFrames and output the different elements](https://stackoverflow.com/questions/66070238/is-there-a-function-to-compare-two-dataframes-and-output-the-different-elements) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to create a heatmap where each cell is divided into 4 triangles](https://stackoverflow.com/questions/66048529/how-to-create-a-heatmap-where-each-cell-is-divided-into-4-triangles) - 2 votes
-* [Python Using a dictionary for matplotlib colors and hatching](https://stackoverflow.com/questions/66049669/python-using-a-dictionary-for-matplotlib-colors-and-hatching) - 1 votes
-* [Unable to use subplot more than once without recreating my grouped dataframe](https://stackoverflow.com/questions/66039385/unable-to-use-subplot-more-than-once-without-re-creating-my-grouped-dataframe) - 1 votes
-* [Matplotlib animate scatterplot with time axis](https://stackoverflow.com/questions/66048025/matplotlib-animate-scatterplot-with-time-axis) - 1 votes
+* [How to get the limits of plotted data from a Figure or Axes object in Matplotlib](https://stackoverflow.com/questions/66065830/how-to-get-the-limits-of-plotted-data-from-a-figure-or-axes-object-in-matplotlib) - 2 votes
+* [Display multiple columns in same Histogram](https://stackoverflow.com/questions/66068207/display-multiple-columns-in-same-histogram) - 1 votes
+* [Errorbar colors in Seaborn barplot with hue](https://stackoverflow.com/questions/66064409/errorbar-colors-in-seaborn-barplot-with-hue) - 1 votes
+* [How to connect the points from a contour of a binary image](https://stackoverflow.com/questions/66064162/how-to-connect-the-points-from-a-contour-of-a-binary-image) - 1 votes
+* [Annotation of the first axes does not show when adding the second axes into Matplotlib Figure](https://stackoverflow.com/questions/66057274/annotation-of-the-first-axes-does-not-show-when-adding-the-second-axes-into-matp) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How do I use subset in a ggplot pipe](https://stackoverflow.com/questions/66049762/how-do-i-use-subset-in-a-ggplot-pipe) - 4 votes
-* [Can the boxplot and the dotplot come from two different data in ggplot](https://stackoverflow.com/questions/66038107/can-the-boxplot-and-the-dotplot-come-from-two-different-data-in-ggplot) - 2 votes
-* [How to loop and filter over groups](https://stackoverflow.com/questions/66038413/how-to-loop-and-filter-over-groups) - 1 votes
-* [Troubleshooting aesgroup not connecting lines](https://stackoverflow.com/questions/66048705/troubleshooting-aesgroup-not-connecting-lines) - 1 votes
-* [Axis covers the labels in the plot](https://stackoverflow.com/questions/66048340/axis-covers-the-labels-in-the-plot) - 1 votes
+* [Pie chart and Bar chart aligned on same plot](https://stackoverflow.com/questions/66060366/pie-chart-and-bar-chart-aligned-on-same-plot) - 4 votes
+* [ggplot colour bar with 2 scales top and bottom](https://stackoverflow.com/questions/66061462/ggplot-colour-bar-with-2-scales-top-and-bottom) - 2 votes
+* [Horizontal percent total stacked bar chart with labels on each end](https://stackoverflow.com/questions/66066366/horizontal-percent-total-stacked-bar-chart-with-labels-on-each-end) - 1 votes
+* [R  optimal way to truncate with dplyr](https://stackoverflow.com/questions/66065975/r-optimal-way-to-truncate-with-dplyr) - 1 votes
+* [How to add edgesborders to the links in geom_link2 in R](https://stackoverflow.com/questions/66058394/how-to-add-edges-borders-to-the-links-in-geom-link2-in-r) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
