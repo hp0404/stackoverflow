@@ -1,39 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-06<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-07<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas add new column with count how often the highest score of a day was reached by this person](https://stackoverflow.com/questions/66075873/pandas-add-new-column-with-count-how-often-the-highest-score-of-a-day-was-reach) - 4 votes
-* [Create a pandas column of numbers from 1 to 3 and repeat again](https://stackoverflow.com/questions/66075712/create-a-pandas-column-of-numbers-from-1-to-3-and-repeat-again) - 3 votes
-* [Python get value counts from multiple columns and average from another column](https://stackoverflow.com/questions/66074831/python-get-value-counts-from-multiple-columns-and-average-from-another-column) - 3 votes
-* [How to get the cumulative count based on two columns](https://stackoverflow.com/questions/66079156/how-to-get-the-cumulative-count-based-on-two-columns) - 2 votes
-* [Repeat rows based on item count for each row and assign values for repeated rows](https://stackoverflow.com/questions/66075856/repeat-rows-based-on-item-count-for-each-row-and-assign-values-for-repeated-rows) - 2 votes
+* [Fill column based on subsets of array](https://stackoverflow.com/questions/66088436/fill-column-based-on-subsets-of-array) - 3 votes
+* [Sort pandas dataframe by customize way](https://stackoverflow.com/questions/66090077/sort-pandas-dataframe-by-customize-way) - 3 votes
+* [How do I create a function that will accept a pandas dataframe and remove rows containing a specific value](https://stackoverflow.com/questions/66091152/how-do-i-create-a-function-that-will-accept-a-pandas-dataframe-and-remove-rows-c) - 2 votes
+* [Histogram bin edges don39t align with two overlaid plots](https://stackoverflow.com/questions/66084052/histogram-bin-edges-dont-align-with-two-overlaid-plots) - 2 votes
+* [How to replace pandas column value with condition](https://stackoverflow.com/questions/66089086/how-to-replace-pandas-column-value-with-condition) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Matplotlib draw grid behind everything else](https://stackoverflow.com/questions/66080430/matplotlib-draw-grid-behind-everything-else) - 1 votes
-* [custom marker with lines skipping the marker region](https://stackoverflow.com/questions/66076818/custom-marker-with-lines-skipping-the-marker-region) - 1 votes
-* [How can I make that the diagram is a graph not a line](https://stackoverflow.com/questions/66076144/how-can-i-make-that-the-diagram-is-a-graph-not-a-line) - 1 votes
-* [matplotlib plot function ignores one line](https://stackoverflow.com/questions/66073667/matplotlib-plot-function-ignores-one-line) - 1 votes
-* [How to make subplots from multiple files Python matplot lib](https://stackoverflow.com/questions/66073237/how-to-make-subplots-from-multiple-files-python-matplot-lib) - 1 votes
+* [Histogram bin edges don39t align with two overlaid plots](https://stackoverflow.com/questions/66084052/histogram-bin-edges-dont-align-with-two-overlaid-plots) - 2 votes
+* [Removing axis and setting background colour not working together](https://stackoverflow.com/questions/66090347/removing-axis-and-setting-background-colour-not-working-together) - 1 votes
+* [contourf does not show the color outside the levels range without colorbar](https://stackoverflow.com/questions/66087436/contourf-does-not-show-the-color-outside-the-levels-range-without-colorbar) - 1 votes
+* [How to show two pictures in one cell in Jupyter Notebook matplotlib python](https://stackoverflow.com/questions/66086191/how-to-show-two-pictures-in-one-cell-in-jupyter-notebook-matplotlib-python) - 1 votes
+* [Plotting multiple box plots unevenly over an even x axis in Python](https://stackoverflow.com/questions/66083454/plotting-multiple-box-plots-unevenly-over-an-even-x-axis-in-python) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Fitting a line to the mean values of a multilevel variable using geom_smooth](https://stackoverflow.com/questions/66075721/fitting-a-line-to-the-mean-values-of-a-multilevel-variable-using-geom-smooth) - 1 votes
-* [R ggplot a vertical line based on a condition but after a facet_grid command](https://stackoverflow.com/questions/66074238/r-ggplot-a-vertical-line-based-on-a-condition-but-after-a-facet-grid-command) - 1 votes
-* [Control colours on double geom_ribbon for two variables with ggplot2 in R](https://stackoverflow.com/questions/66078750/control-colours-on-double-geom-ribbon-for-two-variables-with-ggplot2-in-r) - 1 votes
-* [Axes tick marks at extremes of axes do not align with panel border](https://stackoverflow.com/questions/66077612/axes-tick-marks-at-extremes-of-axes-do-not-align-with-panel-border) - 1 votes
-* [geom_mosaic and aes magic](https://stackoverflow.com/questions/66075092/geom-mosaic-and-aes-magic) - 1 votes
+* [Adjusting the secondary y axis using ggplot](https://stackoverflow.com/questions/66083557/adjusting-the-secondary-y-axis-using-ggplot) - 2 votes
+* [Changing lower limit of graph yaxis when x is a discrete variable without cutting off bottom of bars](https://stackoverflow.com/questions/66084411/changing-lower-limit-of-graph-y-axis-when-x-is-a-discrete-variable-without-cutti) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
