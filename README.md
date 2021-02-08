@@ -1,36 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-07<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-08<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Fill column based on subsets of array](https://stackoverflow.com/questions/66088436/fill-column-based-on-subsets-of-array) - 3 votes
-* [Sort pandas dataframe by customize way](https://stackoverflow.com/questions/66090077/sort-pandas-dataframe-by-customize-way) - 3 votes
-* [How do I create a function that will accept a pandas dataframe and remove rows containing a specific value](https://stackoverflow.com/questions/66091152/how-do-i-create-a-function-that-will-accept-a-pandas-dataframe-and-remove-rows-c) - 2 votes
-* [Histogram bin edges don39t align with two overlaid plots](https://stackoverflow.com/questions/66084052/histogram-bin-edges-dont-align-with-two-overlaid-plots) - 2 votes
-* [How to replace pandas column value with condition](https://stackoverflow.com/questions/66089086/how-to-replace-pandas-column-value-with-condition) - 2 votes
+* [Filtering pandas dataframe using element of list](https://stackoverflow.com/questions/66104429/filtering-pandas-dataframe-using-element-of-list) - 3 votes
+* [Python conditional formatting for coloring of string values](https://stackoverflow.com/questions/66098023/python-conditional-formatting-for-coloring-of-string-values) - 3 votes
+* [Explicitly set dummy variables in Python](https://stackoverflow.com/questions/66107025/explicitly-set-dummy-variables-in-python) - 2 votes
+* [Map multiple columns from pandas DataFrame into one column](https://stackoverflow.com/questions/66101459/map-multiple-columns-from-pandas-dataframe-into-one-column) - 2 votes
+* [Split Dataframe column on delimiter when number string t split is not definite](https://stackoverflow.com/questions/66106253/split-dataframe-column-on-delimiter-when-number-string-t-split-is-not-definite) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Histogram bin edges don39t align with two overlaid plots](https://stackoverflow.com/questions/66084052/histogram-bin-edges-dont-align-with-two-overlaid-plots) - 2 votes
-* [Removing axis and setting background colour not working together](https://stackoverflow.com/questions/66090347/removing-axis-and-setting-background-colour-not-working-together) - 1 votes
-* [contourf does not show the color outside the levels range without colorbar](https://stackoverflow.com/questions/66087436/contourf-does-not-show-the-color-outside-the-levels-range-without-colorbar) - 1 votes
-* [How to show two pictures in one cell in Jupyter Notebook matplotlib python](https://stackoverflow.com/questions/66086191/how-to-show-two-pictures-in-one-cell-in-jupyter-notebook-matplotlib-python) - 1 votes
-* [Plotting multiple box plots unevenly over an even x axis in Python](https://stackoverflow.com/questions/66083454/plotting-multiple-box-plots-unevenly-over-an-even-x-axis-in-python) - 1 votes
+* [How does matplotlib calculate the min  max axis values Or how to automatically add the matplotlib margin when setting the limits](https://stackoverflow.com/questions/66103794/how-does-matplotlib-calculate-the-min-max-axis-values-or-how-to-automatically) - 2 votes
+* [Highlight specific sample in stripplot from pandas dataframe](https://stackoverflow.com/questions/66102744/highlight-specific-sample-in-stripplot-from-pandas-dataframe) - 1 votes
+* [Bar and Line Subplot with shared yaxis](https://stackoverflow.com/questions/66101498/bar-and-line-subplot-with-shared-y-axis) - 1 votes
+* [How do I make a horizontal histogram in Plotly express using Python](https://stackoverflow.com/questions/66097839/how-do-i-make-a-horizontal-histogram-in-plotly-express-using-python) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Adjusting the secondary y axis using ggplot](https://stackoverflow.com/questions/66083557/adjusting-the-secondary-y-axis-using-ggplot) - 2 votes
-* [Changing lower limit of graph yaxis when x is a discrete variable without cutting off bottom of bars](https://stackoverflow.com/questions/66084411/changing-lower-limit-of-graph-y-axis-when-x-is-a-discrete-variable-without-cutti) - 1 votes
+* [Turn off clipping of facet labels](https://stackoverflow.com/questions/66101250/turn-off-clipping-of-facet-labels) - 3 votes
+* [How can I rotate labels in ggplot2](https://stackoverflow.com/questions/66101889/how-can-i-rotate-labels-in-ggplot2) - 2 votes
+* [Putting factors together in data frame R](https://stackoverflow.com/questions/66098631/putting-factors-together-in-data-frame-r) - 2 votes
+* [ggplot layering multiple geom_points on top of each other with specific order](https://stackoverflow.com/questions/66096298/ggplot-layering-multiple-geom-points-on-top-of-each-other-with-specific-order) - 2 votes
+* [ggplot scale_fill_identity legend missing when specifying labels and breaks](https://stackoverflow.com/questions/66105551/ggplot-scale-fill-identity-legend-missing-when-specifying-labels-and-breaks) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
