@@ -1,38 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-08<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-09<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Filtering pandas dataframe using element of list](https://stackoverflow.com/questions/66104429/filtering-pandas-dataframe-using-element-of-list) - 3 votes
-* [Python conditional formatting for coloring of string values](https://stackoverflow.com/questions/66098023/python-conditional-formatting-for-coloring-of-string-values) - 3 votes
-* [Explicitly set dummy variables in Python](https://stackoverflow.com/questions/66107025/explicitly-set-dummy-variables-in-python) - 2 votes
-* [Map multiple columns from pandas DataFrame into one column](https://stackoverflow.com/questions/66101459/map-multiple-columns-from-pandas-dataframe-into-one-column) - 2 votes
-* [Split Dataframe column on delimiter when number string t split is not definite](https://stackoverflow.com/questions/66106253/split-dataframe-column-on-delimiter-when-number-string-t-split-is-not-definite) - 2 votes
+* [How to do onehotencoding based on a combination of two categorical columns using pandas](https://stackoverflow.com/questions/66122583/how-to-do-one-hot-encoding-based-on-a-combination-of-two-categorical-columns-usi) - 4 votes
+* [Shorter way to create new column in groupby based on previous n rows](https://stackoverflow.com/questions/66119746/shorter-way-to-create-new-column-in-groupby-based-on-previous-n-rows) - 4 votes
+* [sum up all the time delta values in a dictionary](https://stackoverflow.com/questions/66113992/sum-up-all-the-time-delta-values-in-a-dictionary) - 3 votes
+* [Using pandas groupby and apply for cumulative integration](https://stackoverflow.com/questions/66118971/using-pandas-groupby-and-apply-for-cumulative-integration) - 3 votes
+* [Pandas add elements to index at even intervals](https://stackoverflow.com/questions/66124374/pandas-add-elements-to-index-at-even-intervals) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How does matplotlib calculate the min  max axis values Or how to automatically add the matplotlib margin when setting the limits](https://stackoverflow.com/questions/66103794/how-does-matplotlib-calculate-the-min-max-axis-values-or-how-to-automatically) - 2 votes
-* [Highlight specific sample in stripplot from pandas dataframe](https://stackoverflow.com/questions/66102744/highlight-specific-sample-in-stripplot-from-pandas-dataframe) - 1 votes
-* [Bar and Line Subplot with shared yaxis](https://stackoverflow.com/questions/66101498/bar-and-line-subplot-with-shared-y-axis) - 1 votes
-* [How do I make a horizontal histogram in Plotly express using Python](https://stackoverflow.com/questions/66097839/how-do-i-make-a-horizontal-histogram-in-plotly-express-using-python) - 1 votes
+* [In matplotlib how to add a table to a subplot without resizing other subplots](https://stackoverflow.com/questions/66115704/in-matplotlib-how-to-add-a-table-to-a-subplot-without-resizing-other-subplots) - 2 votes
+* [When I set different xticklabels for different subplots in a multiplot figure only the last one is used](https://stackoverflow.com/questions/66124670/when-i-set-different-xticklabels-for-different-subplots-in-a-multiplot-figure-o) - 1 votes
+* [replot existing figures in a new supblot in matplotlib](https://stackoverflow.com/questions/66125474/re-plot-existing-figures-in-a-new-supblot-in-matplotlib) - 1 votes
+* [Why pltsavefig reduced the original size of an image](https://stackoverflow.com/questions/66121087/why-plt-savefig-reduced-the-original-size-of-an-image) - 1 votes
+* [Adjust plot height to map height when plotting matplotlib plot and geopandas map side by side](https://stackoverflow.com/questions/66122422/adjust-plot-height-to-map-height-when-plotting-matplotlib-plot-and-geopandas-map) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Turn off clipping of facet labels](https://stackoverflow.com/questions/66101250/turn-off-clipping-of-facet-labels) - 3 votes
-* [How can I rotate labels in ggplot2](https://stackoverflow.com/questions/66101889/how-can-i-rotate-labels-in-ggplot2) - 2 votes
-* [Putting factors together in data frame R](https://stackoverflow.com/questions/66098631/putting-factors-together-in-data-frame-r) - 2 votes
-* [ggplot layering multiple geom_points on top of each other with specific order](https://stackoverflow.com/questions/66096298/ggplot-layering-multiple-geom-points-on-top-of-each-other-with-specific-order) - 2 votes
-* [ggplot scale_fill_identity legend missing when specifying labels and breaks](https://stackoverflow.com/questions/66105551/ggplot-scale-fill-identity-legend-missing-when-specifying-labels-and-breaks) - 1 votes
+* [Cannot set colours as values in scale_colour_discrete](https://stackoverflow.com/questions/66115833/cannot-set-colours-as-values-in-scale-colour-discrete) - 2 votes
+* [Xaxis sublabels in ggplot R](https://stackoverflow.com/questions/66113715/x-axis-sub-labels-in-ggplot-r) - 2 votes
+* [geom_rect gives empty plot with no rectangle](https://stackoverflow.com/questions/66118174/geom-rect-gives-empty-plot-with-no-rectangle) - 1 votes
+* [Add label to annotation rect ggplot](https://stackoverflow.com/questions/66126698/add-label-to-annotation-rect-ggplot) - 1 votes
+* [Changing the colour of the bars in a ggplot bar graph in R](https://stackoverflow.com/questions/66112724/changing-the-colour-of-the-bars-in-a-ggplot-bar-graph-in-r) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
