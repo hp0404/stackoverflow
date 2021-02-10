@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-09<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-10<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to do onehotencoding based on a combination of two categorical columns using pandas](https://stackoverflow.com/questions/66122583/how-to-do-one-hot-encoding-based-on-a-combination-of-two-categorical-columns-usi) - 4 votes
-* [Shorter way to create new column in groupby based on previous n rows](https://stackoverflow.com/questions/66119746/shorter-way-to-create-new-column-in-groupby-based-on-previous-n-rows) - 4 votes
-* [sum up all the time delta values in a dictionary](https://stackoverflow.com/questions/66113992/sum-up-all-the-time-delta-values-in-a-dictionary) - 3 votes
-* [Using pandas groupby and apply for cumulative integration](https://stackoverflow.com/questions/66118971/using-pandas-groupby-and-apply-for-cumulative-integration) - 3 votes
-* [Pandas add elements to index at even intervals](https://stackoverflow.com/questions/66124374/pandas-add-elements-to-index-at-even-intervals) - 3 votes
+* [Transposing data and splitting columns](https://stackoverflow.com/questions/66135902/transposing-data-and-splitting-columns) - 3 votes
+* [Calculate end of quarter dates](https://stackoverflow.com/questions/66134954/calculate-end-of-quarter-dates) - 3 votes
+* [Computing rate of occurrences per unit of time in a pandas dataframe](https://stackoverflow.com/questions/66143839/computing-rate-of-occurrences-per-unit-of-time-in-a-pandas-dataframe) - 3 votes
+* [How to merge dataframes in Databricks notebook using Python  Pyspark](https://stackoverflow.com/questions/66140972/how-to-merge-dataframes-in-databricks-notebook-using-python-pyspark) - 2 votes
+* [Way to create a dictionary while iterating through a dataframe](https://stackoverflow.com/questions/66140314/way-to-create-a-dictionary-while-iterating-through-a-dataframe) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [In matplotlib how to add a table to a subplot without resizing other subplots](https://stackoverflow.com/questions/66115704/in-matplotlib-how-to-add-a-table-to-a-subplot-without-resizing-other-subplots) - 2 votes
-* [When I set different xticklabels for different subplots in a multiplot figure only the last one is used](https://stackoverflow.com/questions/66124670/when-i-set-different-xticklabels-for-different-subplots-in-a-multiplot-figure-o) - 1 votes
-* [replot existing figures in a new supblot in matplotlib](https://stackoverflow.com/questions/66125474/re-plot-existing-figures-in-a-new-supblot-in-matplotlib) - 1 votes
-* [Why pltsavefig reduced the original size of an image](https://stackoverflow.com/questions/66121087/why-plt-savefig-reduced-the-original-size-of-an-image) - 1 votes
-* [Adjust plot height to map height when plotting matplotlib plot and geopandas map side by side](https://stackoverflow.com/questions/66122422/adjust-plot-height-to-map-height-when-plotting-matplotlib-plot-and-geopandas-map) - 1 votes
+* [Matplotlib plot is plotting the wrong way](https://stackoverflow.com/questions/66131795/matplotlib-plot-is-plotting-the-wrong-way) - 2 votes
+* [How to use a raw string for latex with a string variable](https://stackoverflow.com/questions/66130745/how-to-use-a-raw-string-for-latex-with-a-string-variable) - 1 votes
+* [How to make a grid of histograms in pandas with a common graph in all of them](https://stackoverflow.com/questions/66140463/how-to-make-a-grid-of-histograms-in-pandas-with-a-common-graph-in-all-of-them) - 1 votes
+* [Error bars in matplotlib display over other curves](https://stackoverflow.com/questions/66139357/error-bars-in-matplotlib-display-over-other-curves) - 1 votes
+* [Axesset_ylim overwrites previous command](https://stackoverflow.com/questions/66143740/axes-set-ylim-overwrites-previous-command) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Cannot set colours as values in scale_colour_discrete](https://stackoverflow.com/questions/66115833/cannot-set-colours-as-values-in-scale-colour-discrete) - 2 votes
-* [Xaxis sublabels in ggplot R](https://stackoverflow.com/questions/66113715/x-axis-sub-labels-in-ggplot-r) - 2 votes
-* [geom_rect gives empty plot with no rectangle](https://stackoverflow.com/questions/66118174/geom-rect-gives-empty-plot-with-no-rectangle) - 1 votes
-* [Add label to annotation rect ggplot](https://stackoverflow.com/questions/66126698/add-label-to-annotation-rect-ggplot) - 1 votes
-* [Changing the colour of the bars in a ggplot bar graph in R](https://stackoverflow.com/questions/66112724/changing-the-colour-of-the-bars-in-a-ggplot-bar-graph-in-r) - 1 votes
+* [geom_segment arrow settings  head same width as line](https://stackoverflow.com/questions/66133888/geom-segment-arrow-settings-head-same-width-as-line) - 2 votes
+* [x axis as week number and secondary xaxis as date](https://stackoverflow.com/questions/66129660/x-axis-as-week-number-and-secondary-x-axis-as-date) - 1 votes
+* [Using interplot to plot continuouscontinuous interactions for multiple individuals](https://stackoverflow.com/questions/66136394/using-interplot-to-plot-continuouscontinuous-interactions-for-multiple-individu) - 1 votes
+* [geomsmooth fitting the curve better to the points](https://stackoverflow.com/questions/66133994/geom-smooth-fitting-the-curve-better-to-the-points) - 1 votes
+* [Flip facet label small_multiple](https://stackoverflow.com/questions/66129930/flip-facet-label-small-multiple) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
