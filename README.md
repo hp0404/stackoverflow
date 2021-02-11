@@ -1,39 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-10<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-11<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Transposing data and splitting columns](https://stackoverflow.com/questions/66135902/transposing-data-and-splitting-columns) - 3 votes
-* [Calculate end of quarter dates](https://stackoverflow.com/questions/66134954/calculate-end-of-quarter-dates) - 3 votes
-* [Computing rate of occurrences per unit of time in a pandas dataframe](https://stackoverflow.com/questions/66143839/computing-rate-of-occurrences-per-unit-of-time-in-a-pandas-dataframe) - 3 votes
-* [How to merge dataframes in Databricks notebook using Python  Pyspark](https://stackoverflow.com/questions/66140972/how-to-merge-dataframes-in-databricks-notebook-using-python-pyspark) - 2 votes
-* [Way to create a dictionary while iterating through a dataframe](https://stackoverflow.com/questions/66140314/way-to-create-a-dictionary-while-iterating-through-a-dataframe) - 2 votes
+* [pandas drop value in a group if values are multiple](https://stackoverflow.com/questions/66157537/pandas-drop-value-in-a-group-if-values-are-multiple) - 4 votes
+* [Pandas Create dict where one column is key and list of remaining columns are values](https://stackoverflow.com/questions/66149627/pandas-create-dict-where-one-column-is-key-and-list-of-remaining-columns-are-va) - 4 votes
+* [Create a new column based on other column values  conditional forward fill](https://stackoverflow.com/questions/66160150/create-a-new-column-based-on-other-column-values-conditional-forward-fill) - 2 votes
+* [Remove rows in pandas dataframe after certain value while for looping](https://stackoverflow.com/questions/66161026/remove-rows-in-pandas-dataframe-after-certain-value-while-for-looping) - 2 votes
+* [How to add a row based on last user event in pandas](https://stackoverflow.com/questions/66151225/how-to-add-a-row-based-on-last-user-event-in-pandas) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Matplotlib plot is plotting the wrong way](https://stackoverflow.com/questions/66131795/matplotlib-plot-is-plotting-the-wrong-way) - 2 votes
-* [How to use a raw string for latex with a string variable](https://stackoverflow.com/questions/66130745/how-to-use-a-raw-string-for-latex-with-a-string-variable) - 1 votes
-* [How to make a grid of histograms in pandas with a common graph in all of them](https://stackoverflow.com/questions/66140463/how-to-make-a-grid-of-histograms-in-pandas-with-a-common-graph-in-all-of-them) - 1 votes
-* [Error bars in matplotlib display over other curves](https://stackoverflow.com/questions/66139357/error-bars-in-matplotlib-display-over-other-curves) - 1 votes
-* [Axesset_ylim overwrites previous command](https://stackoverflow.com/questions/66143740/axes-set-ylim-overwrites-previous-command) - 1 votes
+* [How do I fit an exponential decay curve which accounts for uncertainties](https://stackoverflow.com/questions/66154701/how-do-i-fit-an-exponential-decay-curve-which-accounts-for-uncertainties) - 4 votes
+* [Matplotlib Bar Graph Error  TypeError only size1 arrays can be converted to Python scalars](https://stackoverflow.com/questions/66154591/matplotlib-bar-graph-error-typeerror-only-size-1-arrays-can-be-converted-to-p) - 1 votes
+* [How to center labels in histogram in matplotlib](https://stackoverflow.com/questions/66152160/how-to-center-labels-in-histogram-in-matplotlib) - 1 votes
+* [Select plot linestyle with plotly pandas backend](https://stackoverflow.com/questions/66152058/select-plot-linestyle-with-plotly-pandas-backend) - 1 votes
+* [pyplot draw a smooth curve over a histogram](https://stackoverflow.com/questions/66151692/pyplot-draw-a-smooth-curve-over-a-histogram) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [geom_segment arrow settings  head same width as line](https://stackoverflow.com/questions/66133888/geom-segment-arrow-settings-head-same-width-as-line) - 2 votes
-* [x axis as week number and secondary xaxis as date](https://stackoverflow.com/questions/66129660/x-axis-as-week-number-and-secondary-x-axis-as-date) - 1 votes
-* [Using interplot to plot continuouscontinuous interactions for multiple individuals](https://stackoverflow.com/questions/66136394/using-interplot-to-plot-continuouscontinuous-interactions-for-multiple-individu) - 1 votes
-* [geomsmooth fitting the curve better to the points](https://stackoverflow.com/questions/66133994/geom-smooth-fitting-the-curve-better-to-the-points) - 1 votes
-* [Flip facet label small_multiple](https://stackoverflow.com/questions/66129930/flip-facet-label-small-multiple) - 1 votes
+* [How can I add lines to connect points on regression line to both x and y axis on ggplot](https://stackoverflow.com/questions/66148676/how-can-i-add-lines-to-connect-points-on-regression-line-to-both-x-and-y-axis-on) - 6 votes
+* [How to add custom label to grouped frequency stat_bin plot without zeros](https://stackoverflow.com/questions/66150793/how-to-add-custom-label-to-grouped-frequency-stat-bin-plot-without-zeros) - 1 votes
+* [How to calculate the p value between groups in rows](https://stackoverflow.com/questions/66148873/how-to-calculate-the-p-value-between-groups-in-rows) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
