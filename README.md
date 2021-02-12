@@ -1,37 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-11<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-12<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [pandas drop value in a group if values are multiple](https://stackoverflow.com/questions/66157537/pandas-drop-value-in-a-group-if-values-are-multiple) - 4 votes
-* [Pandas Create dict where one column is key and list of remaining columns are values](https://stackoverflow.com/questions/66149627/pandas-create-dict-where-one-column-is-key-and-list-of-remaining-columns-are-va) - 4 votes
-* [Create a new column based on other column values  conditional forward fill](https://stackoverflow.com/questions/66160150/create-a-new-column-based-on-other-column-values-conditional-forward-fill) - 2 votes
-* [Remove rows in pandas dataframe after certain value while for looping](https://stackoverflow.com/questions/66161026/remove-rows-in-pandas-dataframe-after-certain-value-while-for-looping) - 2 votes
-* [How to add a row based on last user event in pandas](https://stackoverflow.com/questions/66151225/how-to-add-a-row-based-on-last-user-event-in-pandas) - 2 votes
+* [find specific value that meets conditions  python](https://stackoverflow.com/questions/66165400/find-specific-value-that-meets-conditions-python) - 5 votes
+* [Pandas return the occurrences of the most frequent value for each group possibly without apply](https://stackoverflow.com/questions/66166610/pandas-return-the-occurrences-of-the-most-frequent-value-for-each-group-possib) - 3 votes
+* [create new df from existing df in pandas  python](https://stackoverflow.com/questions/66165933/create-new-df-from-existing-df-in-pandas-python) - 2 votes
+* [check if value is changed between group of transactions](https://stackoverflow.com/questions/66175579/check-if-value-is-changed-between-group-of-transactions) - 2 votes
+* [Pandas udf loop over PySpark dataframe rows](https://stackoverflow.com/questions/66174399/pandas-udf-loop-over-pyspark-dataframe-rows) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How do I fit an exponential decay curve which accounts for uncertainties](https://stackoverflow.com/questions/66154701/how-do-i-fit-an-exponential-decay-curve-which-accounts-for-uncertainties) - 4 votes
-* [Matplotlib Bar Graph Error  TypeError only size1 arrays can be converted to Python scalars](https://stackoverflow.com/questions/66154591/matplotlib-bar-graph-error-typeerror-only-size-1-arrays-can-be-converted-to-p) - 1 votes
-* [How to center labels in histogram in matplotlib](https://stackoverflow.com/questions/66152160/how-to-center-labels-in-histogram-in-matplotlib) - 1 votes
-* [Select plot linestyle with plotly pandas backend](https://stackoverflow.com/questions/66152058/select-plot-linestyle-with-plotly-pandas-backend) - 1 votes
-* [pyplot draw a smooth curve over a histogram](https://stackoverflow.com/questions/66151692/pyplot-draw-a-smooth-curve-over-a-histogram) - 1 votes
+* [different alpha properties for arrow head and shaft in quiver](https://stackoverflow.com/questions/66175337/different-alpha-properties-for-arrow-head-and-shaft-in-quiver) - 4 votes
+* [How to get all color codes from LinearSegmentedColormap](https://stackoverflow.com/questions/66171467/how-to-get-all-color-codes-from-linearsegmentedcolormap) - 2 votes
+* [Plotting two dataframes with same column names as side by side bar chart](https://stackoverflow.com/questions/66174685/plotting-two-dataframes-with-same-column-names-as-side-by-side-bar-chart) - 1 votes
+* [Scatterplot Matrices in Matplotlib quotsingular matrixquot Error](https://stackoverflow.com/questions/66166194/scatterplot-matrices-in-matplotlib-singular-matrix-error) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How can I add lines to connect points on regression line to both x and y axis on ggplot](https://stackoverflow.com/questions/66148676/how-can-i-add-lines-to-connect-points-on-regression-line-to-both-x-and-y-axis-on) - 6 votes
-* [How to add custom label to grouped frequency stat_bin plot without zeros](https://stackoverflow.com/questions/66150793/how-to-add-custom-label-to-grouped-frequency-stat-bin-plot-without-zeros) - 1 votes
-* [How to calculate the p value between groups in rows](https://stackoverflow.com/questions/66148873/how-to-calculate-the-p-value-between-groups-in-rows) - 1 votes
+* [Horizontal alignment of colour scales in patchwork](https://stackoverflow.com/questions/66174318/horizontal-alignment-of-colour-scales-in-patchwork) - 2 votes
+* [changing expressions to bold face in ggplot2 while preserving its size](https://stackoverflow.com/questions/66175722/changing-expressions-to-bold-face-in-ggplot2-while-preserving-its-size) - 2 votes
+* [ggplot date axis How to set limits](https://stackoverflow.com/questions/66171225/ggplot-date-axis-how-to-set-limits) - 1 votes
+* [how to suppress warning messages from ggplot2](https://stackoverflow.com/questions/66167903/how-to-suppress-warning-messages-from-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
