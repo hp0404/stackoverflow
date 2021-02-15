@@ -1,35 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-14<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-15<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to determine if values in a datetime column are between any pair of datetimes from another dataframe](https://stackoverflow.com/questions/66191317/how-to-determine-if-values-in-a-datetime-column-are-between-any-pair-of-datetime) - 3 votes
-* [Find groups in pandas DataFrame that satisfy multiple logical boolean conditions](https://stackoverflow.com/questions/66193238/find-groups-in-pandas-dataframe-that-satisfy-multiple-logical-boolean-conditio) - 2 votes
-* [Retrieve rows with highest value with condition](https://stackoverflow.com/questions/66194784/retrieve-rows-with-highest-value-with-condition) - 2 votes
-* [Pandas dataframe groupby remove column](https://stackoverflow.com/questions/66193817/pandas-dataframe-groupby-remove-column) - 2 votes
-* [Best way to create a table of matches with an existing DataFrame](https://stackoverflow.com/questions/66194943/best-way-to-create-a-table-of-matches-with-an-existing-dataframe) - 1 votes
+* [Pandas MultiIndex Dataframe Groupby Rolling Mean](https://stackoverflow.com/questions/66202472/pandas-multiindex-dataframe-groupby-rolling-mean) - 3 votes
+* [Pandas pivot table to show equal number of rows for each entry](https://stackoverflow.com/questions/66202297/pandas-pivot-table-to-show-equal-number-of-rows-for-each-entry) - 3 votes
+* [Creating a dataframe by repeating each column a certain number of times](https://stackoverflow.com/questions/66201980/creating-a-dataframe-by-repeating-each-column-a-certain-number-of-times) - 2 votes
+* [Renaming multi index in pandas](https://stackoverflow.com/questions/66213212/renaming-multi-index-in-pandas) - 2 votes
+* [Unpack list of dictionary into separate columns in Pandas](https://stackoverflow.com/questions/66212125/unpack-list-of-dictionary-into-separate-columns-in-pandas) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How can I generate this plot](https://stackoverflow.com/questions/66197596/how-can-i-generate-this-plot) - 1 votes
-* [Update bar chart with matplotlib](https://stackoverflow.com/questions/66199003/update-bar-chart-with-matplotlib) - 1 votes
-* [Problem when I plot a 3D surface with matplotlib](https://stackoverflow.com/questions/66193800/problem-when-i-plot-a-3d-surface-with-matplotlib) - 1 votes
+* [Changing the order of pandasmatplotlib line plotting without changing data order](https://stackoverflow.com/questions/66205687/changing-the-order-of-pandas-matplotlib-line-plotting-without-changing-data-orde) - 1 votes
+* [How to iteratively plot to the correct subplot axes](https://stackoverflow.com/questions/66201864/how-to-iteratively-plot-to-the-correct-subplot-axes) - 1 votes
+* [Only 10 newest rows inside 2Darray](https://stackoverflow.com/questions/66211295/only-10-newest-rows-inside-2d-array) - 1 votes
+* [Error bars in 1 direction but direction varies from point to point](https://stackoverflow.com/questions/66208272/error-bars-in-1-direction-but-direction-varies-from-point-to-point) - 1 votes
+* [Interactive matplotlib in Jupyter notebook with a shell command 39 python filenamepy 39 on remote server ssh i access](https://stackoverflow.com/questions/66205491/interactive-matplotlib-in-jupyter-notebook-with-a-shell-command-python-filena) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [draw straight line between any two point when using coord_polar in ggplot2 R](https://stackoverflow.com/questions/66196451/draw-straight-line-between-any-two-point-when-using-coord-polar-in-ggplot2-r) - 1 votes
-* [R ggplot and how to place a reference geom_line with CIs behind 2 factors](https://stackoverflow.com/questions/66199269/r-ggplot-and-how-to-place-a-reference-geom-line-with-cis-behind-2-factors) - 1 votes
-* [Overlapping barplothistogram with variable widths](https://stackoverflow.com/questions/66197720/overlapping-barplot-histogram-with-variable-widths) - 1 votes
+* [Adding list outside of ggplot2 which changes as time progresses  gganimate](https://stackoverflow.com/questions/66209022/adding-list-outside-of-ggplot2-which-changes-as-time-progresses-gganimate) - 2 votes
+* [Adding multiple text labels to a single facet_grid panel](https://stackoverflow.com/questions/66212202/adding-multiple-text-labels-to-a-single-facet-grid-panel) - 1 votes
+* [Crop geographical boundaries in a heatmap in r ggplot](https://stackoverflow.com/questions/66206252/crop-geographical-boundaries-in-a-heatmap-in-r-ggplot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
