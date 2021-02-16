@@ -1,37 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-15<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-16<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas MultiIndex Dataframe Groupby Rolling Mean](https://stackoverflow.com/questions/66202472/pandas-multiindex-dataframe-groupby-rolling-mean) - 3 votes
-* [Pandas pivot table to show equal number of rows for each entry](https://stackoverflow.com/questions/66202297/pandas-pivot-table-to-show-equal-number-of-rows-for-each-entry) - 3 votes
-* [Creating a dataframe by repeating each column a certain number of times](https://stackoverflow.com/questions/66201980/creating-a-dataframe-by-repeating-each-column-a-certain-number-of-times) - 2 votes
-* [Renaming multi index in pandas](https://stackoverflow.com/questions/66213212/renaming-multi-index-in-pandas) - 2 votes
-* [Unpack list of dictionary into separate columns in Pandas](https://stackoverflow.com/questions/66212125/unpack-list-of-dictionary-into-separate-columns-in-pandas) - 2 votes
+* [Find the difference between the max value and 2nd highest value within a subset of pandas columns](https://stackoverflow.com/questions/66218556/find-the-difference-between-the-max-value-and-2nd-highest-value-within-a-subset) - 5 votes
+* [Pad selection range in Pandas Dataframe](https://stackoverflow.com/questions/66228402/pad-selection-range-in-pandas-dataframe) - 3 votes
+* [Multiply every 2nd row by 1 in pandas col](https://stackoverflow.com/questions/66220207/multiply-every-2nd-row-by-1-in-pandas-col) - 2 votes
+* [Find the range of values that fullfill a condition in a column from another colum using Pandas](https://stackoverflow.com/questions/66227017/find-the-range-of-values-that-fullfill-a-condition-in-a-column-from-another-colu) - 2 votes
+* [Averaging out every four elements in a CSV file](https://stackoverflow.com/questions/66219285/averaging-out-every-four-elements-in-a-csv-file) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Changing the order of pandasmatplotlib line plotting without changing data order](https://stackoverflow.com/questions/66205687/changing-the-order-of-pandas-matplotlib-line-plotting-without-changing-data-orde) - 1 votes
-* [How to iteratively plot to the correct subplot axes](https://stackoverflow.com/questions/66201864/how-to-iteratively-plot-to-the-correct-subplot-axes) - 1 votes
-* [Only 10 newest rows inside 2Darray](https://stackoverflow.com/questions/66211295/only-10-newest-rows-inside-2d-array) - 1 votes
-* [Error bars in 1 direction but direction varies from point to point](https://stackoverflow.com/questions/66208272/error-bars-in-1-direction-but-direction-varies-from-point-to-point) - 1 votes
-* [Interactive matplotlib in Jupyter notebook with a shell command 39 python filenamepy 39 on remote server ssh i access](https://stackoverflow.com/questions/66205491/interactive-matplotlib-in-jupyter-notebook-with-a-shell-command-python-filena) - 1 votes
+* [Change the labelsize  football pitch](https://stackoverflow.com/questions/66223938/change-the-labelsize-football-pitch) - 3 votes
+* [plotting animation of different dune lee angles](https://stackoverflow.com/questions/66226903/plotting-animation-of-different-dune-lee-angles) - 2 votes
+* [How to make sympyplottingplot3d to ignore undefined points](https://stackoverflow.com/questions/66226819/how-to-make-sympy-plotting-plot3d-to-ignore-undefined-points) - 2 votes
+* [How do you add padding between the xaxis tick marks not tick labels and the xaxis in Matplotlib and Seaborn](https://stackoverflow.com/questions/66226320/how-do-you-add-padding-between-the-x-axis-tick-marks-not-tick-labels-and-the-x) - 1 votes
+* [How to overlay a boxplot and a lineplot](https://stackoverflow.com/questions/66224343/how-to-overlay-a-boxplot-and-a-lineplot) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Adding list outside of ggplot2 which changes as time progresses  gganimate](https://stackoverflow.com/questions/66209022/adding-list-outside-of-ggplot2-which-changes-as-time-progresses-gganimate) - 2 votes
-* [Adding multiple text labels to a single facet_grid panel](https://stackoverflow.com/questions/66212202/adding-multiple-text-labels-to-a-single-facet-grid-panel) - 1 votes
-* [Crop geographical boundaries in a heatmap in r ggplot](https://stackoverflow.com/questions/66206252/crop-geographical-boundaries-in-a-heatmap-in-r-ggplot) - 1 votes
+* [How to add a yaxis](https://stackoverflow.com/questions/66229326/how-to-add-a-yaxis) - 2 votes
+* [ordered bar chart with multiple groupings in ggplot2](https://stackoverflow.com/questions/66230448/ordered-bar-chart-with-multiple-groupings-in-ggplot2) - 1 votes
+* [How to visualize time series in mmyyyy format](https://stackoverflow.com/questions/66223308/how-to-visualize-time-series-in-mm-yyyy-format) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
