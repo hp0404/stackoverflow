@@ -1,38 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-18<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-19<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [concatenating a dataframe row values into one with consistent padding](https://stackoverflow.com/questions/66256385/concatenating-a-dataframe-row-values-into-one-with-consistent-padding) - 4 votes
-* [Pandas Find max in rolling window and return sum of another column for the row of the max and proceeding four rows](https://stackoverflow.com/questions/66252982/pandas-find-max-in-rolling-window-and-return-sum-of-another-column-for-the-row) - 3 votes
-* [Sorted MultiIndex DataFrame indexig by index number](https://stackoverflow.com/questions/66262679/sorted-multiindex-dataframe-indexig-by-index-number) - 2 votes
-* [Python  How to combine the rows into a single row in Pandas not group by](https://stackoverflow.com/questions/66266438/python-how-to-combine-the-rows-into-a-single-row-in-pandas-not-group-by) - 2 votes
-* [How do I fill a string column using a set in Pandas dataframe](https://stackoverflow.com/questions/66258890/how-do-i-fill-a-string-column-using-a-set-in-pandas-dataframe) - 2 votes
+* [Statistics of one hot encoded columns in pandas dataframe](https://stackoverflow.com/questions/66273710/statistics-of-one-hot-encoded-columns-in-pandas-dataframe) - 5 votes
+* [How can I unroll a multilevel pandas dataframe](https://stackoverflow.com/questions/66281617/how-can-i-unroll-a-multi-level-pandas-dataframe) - 3 votes
+* [Average visited interval for different people](https://stackoverflow.com/questions/66274035/average-visited-interval-for-different-people) - 3 votes
+* [Sort pandas dataframe by index then by alphabetical order](https://stackoverflow.com/questions/66271694/sort-pandas-dataframe-by-index-then-by-alphabetical-order) - 2 votes
+* [Truth value of a Series is ambiguous when using apply lambda to check condition](https://stackoverflow.com/questions/66283472/truth-value-of-a-series-is-ambiguous-when-using-apply-lambda-to-check-condition) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Nested dictionary to line graph  Python](https://stackoverflow.com/questions/66253053/nested-dictionary-to-line-graph-python) - 1 votes
-* [How do I use tsne to visualize data with high dimensionality](https://stackoverflow.com/questions/66265595/how-do-i-use-tsne-to-visualize-data-with-high-dimensionality) - 1 votes
-* [Use Matplotlib color graph](https://stackoverflow.com/questions/66263417/use-matplotlib-color-graph) - 1 votes
-* [4D Density Plot in Python](https://stackoverflow.com/questions/66261066/4d-density-plot-in-python) - 1 votes
+* [How can I create matplotlib line with z dependent fill color](https://stackoverflow.com/questions/66279878/how-can-i-create-matplotlib-line-with-z-dependent-fill-color) - 4 votes
+* [Boxplot in Python](https://stackoverflow.com/questions/66283023/boxplot-in-python) - 2 votes
+* [MatplotlibSeaborn Where am I making an elementwise comparison ValueError The truth value of an array with more than one element is ambiguous](https://stackoverflow.com/questions/66281826/matplotlib-seaborn-where-am-i-making-an-elementwise-comparison-valueerror-the) - 1 votes
+* [how to keep the previous images when calling matplotlib imshow multiple times in a single cell google colab](https://stackoverflow.com/questions/66275108/how-to-keep-the-previous-images-when-calling-matplotlib-imshow-multiple-times) - 1 votes
+* [Matplotlib 2D bar with scatter not lining up as expected](https://stackoverflow.com/questions/66272053/matplotlib-2d-bar-with-scatter-not-lining-up-as-expected) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to plot facets with discontinuous yaxis](https://stackoverflow.com/questions/66267473/how-to-plot-facets-with-discontinuous-y-axis) - 2 votes
-* [boxplot ggplot with median first and third percentile R](https://stackoverflow.com/questions/66261820/boxplot-ggplot-with-median-first-and-third-percentile-r) - 1 votes
-* [R how to use geom_point to add points to sidebyside error bars](https://stackoverflow.com/questions/66264712/r-how-to-use-geom-point-to-add-points-to-side-by-side-error-bars) - 1 votes
-* [How to plot conditional colored outlines of barplots according to some variable](https://stackoverflow.com/questions/66259303/how-to-plot-conditional-colored-outlines-of-barplots-according-to-some-variable) - 1 votes
-* [How to include ticks for every date using ggplot](https://stackoverflow.com/questions/66258649/how-to-include-ticks-for-every-date-using-ggplot) - 1 votes
+* [Displaying LM based on pvalue](https://stackoverflow.com/questions/66274290/displaying-lm-based-on-p-value) - 3 votes
+* [Remove first label of y axis](https://stackoverflow.com/questions/66279940/remove-first-label-of-y-axis) - 2 votes
+* [strange symbols generated from rmarkdown when I use Chinese characters in ggplot2](https://stackoverflow.com/questions/66271628/strange-symbols-generated-from-rmarkdown-when-i-use-chinese-characters-in-ggplot) - 2 votes
+* [Two plots with and without legend with same inner plot size](https://stackoverflow.com/questions/66278369/two-plots-with-and-without-legend-with-same-inner-plot-size) - 1 votes
+* [How to make all values below a threshold have single color with scale continuous](https://stackoverflow.com/questions/66274831/how-to-make-all-values-below-a-threshold-have-single-color-with-scale-continuous) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
