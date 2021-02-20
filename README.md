@@ -1,39 +1,34 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-19<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-20<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Statistics of one hot encoded columns in pandas dataframe](https://stackoverflow.com/questions/66273710/statistics-of-one-hot-encoded-columns-in-pandas-dataframe) - 5 votes
-* [How can I unroll a multilevel pandas dataframe](https://stackoverflow.com/questions/66281617/how-can-i-unroll-a-multi-level-pandas-dataframe) - 3 votes
-* [Average visited interval for different people](https://stackoverflow.com/questions/66274035/average-visited-interval-for-different-people) - 3 votes
-* [Sort pandas dataframe by index then by alphabetical order](https://stackoverflow.com/questions/66271694/sort-pandas-dataframe-by-index-then-by-alphabetical-order) - 2 votes
-* [Truth value of a Series is ambiguous when using apply lambda to check condition](https://stackoverflow.com/questions/66283472/truth-value-of-a-series-is-ambiguous-when-using-apply-lambda-to-check-condition) - 2 votes
+* [How to filter a set of rows according to an indexed position](https://stackoverflow.com/questions/66289956/how-to-filter-a-set-of-rows-according-to-an-indexed-position) - 5 votes
+* [How do I interpolate filling in nans with the minimum value on either side](https://stackoverflow.com/questions/66293446/how-do-i-interpolate-filling-in-nans-with-the-minimum-value-on-either-side) - 5 votes
+* [convert website table to pandas df beautifulsoup doesn39t recognize table](https://stackoverflow.com/questions/66295502/convert-website-table-to-pandas-df-beautifulsoup-doesnt-recognize-table) - 2 votes
+* [Calculate the anniversary date for each row and for each index](https://stackoverflow.com/questions/66292142/calculate-the-anniversary-date-for-each-row-and-for-each-index) - 2 votes
+* [pandas group by a column find min value of multiple columns and create new column for the min row in group](https://stackoverflow.com/questions/66286989/pandas-group-by-a-column-find-min-value-of-multiple-columns-and-create-new-col) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How can I create matplotlib line with z dependent fill color](https://stackoverflow.com/questions/66279878/how-can-i-create-matplotlib-line-with-z-dependent-fill-color) - 4 votes
-* [Boxplot in Python](https://stackoverflow.com/questions/66283023/boxplot-in-python) - 2 votes
-* [MatplotlibSeaborn Where am I making an elementwise comparison ValueError The truth value of an array with more than one element is ambiguous](https://stackoverflow.com/questions/66281826/matplotlib-seaborn-where-am-i-making-an-elementwise-comparison-valueerror-the) - 1 votes
-* [how to keep the previous images when calling matplotlib imshow multiple times in a single cell google colab](https://stackoverflow.com/questions/66275108/how-to-keep-the-previous-images-when-calling-matplotlib-imshow-multiple-times) - 1 votes
-* [Matplotlib 2D bar with scatter not lining up as expected](https://stackoverflow.com/questions/66272053/matplotlib-2d-bar-with-scatter-not-lining-up-as-expected) - 1 votes
+* [How to save VennDiagram as png file in matplotlib_venn](https://stackoverflow.com/questions/66289004/how-to-save-venndiagram-as-png-file-in-matplotlib-venn) - 1 votes
+* [Three subplots in Python using the same data](https://stackoverflow.com/questions/66289909/three-subplots-in-python-using-the-same-data) - 1 votes
+* [Updating Pandas Dataframe from Matplotlib animation function](https://stackoverflow.com/questions/66288218/updating-pandas-dataframe-from-matplotlib-animation-function) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Displaying LM based on pvalue](https://stackoverflow.com/questions/66274290/displaying-lm-based-on-p-value) - 3 votes
-* [Remove first label of y axis](https://stackoverflow.com/questions/66279940/remove-first-label-of-y-axis) - 2 votes
-* [strange symbols generated from rmarkdown when I use Chinese characters in ggplot2](https://stackoverflow.com/questions/66271628/strange-symbols-generated-from-rmarkdown-when-i-use-chinese-characters-in-ggplot) - 2 votes
-* [Two plots with and without legend with same inner plot size](https://stackoverflow.com/questions/66278369/two-plots-with-and-without-legend-with-same-inner-plot-size) - 1 votes
-* [How to make all values below a threshold have single color with scale continuous](https://stackoverflow.com/questions/66274831/how-to-make-all-values-below-a-threshold-have-single-color-with-scale-continuous) - 1 votes
+* [How can I use gganimate with geom_tile](https://stackoverflow.com/questions/66288559/how-can-i-use-gganimate-with-geom-tile) - 2 votes
+* [Reordering variables using fct_relevel with ggplot in R](https://stackoverflow.com/questions/66296215/reordering-variables-using-fct-relevel-with-ggplot-in-r) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
