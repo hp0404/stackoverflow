@@ -1,34 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-20<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-21<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to filter a set of rows according to an indexed position](https://stackoverflow.com/questions/66289956/how-to-filter-a-set-of-rows-according-to-an-indexed-position) - 5 votes
-* [How do I interpolate filling in nans with the minimum value on either side](https://stackoverflow.com/questions/66293446/how-do-i-interpolate-filling-in-nans-with-the-minimum-value-on-either-side) - 5 votes
-* [convert website table to pandas df beautifulsoup doesn39t recognize table](https://stackoverflow.com/questions/66295502/convert-website-table-to-pandas-df-beautifulsoup-doesnt-recognize-table) - 2 votes
-* [Calculate the anniversary date for each row and for each index](https://stackoverflow.com/questions/66292142/calculate-the-anniversary-date-for-each-row-and-for-each-index) - 2 votes
-* [pandas group by a column find min value of multiple columns and create new column for the min row in group](https://stackoverflow.com/questions/66286989/pandas-group-by-a-column-find-min-value-of-multiple-columns-and-create-new-col) - 2 votes
+* [Pandas DataFrame Groupby How to get the group as a list and get average of particular column](https://stackoverflow.com/questions/66301106/pandas-dataframe-groupby-how-to-get-the-group-as-a-list-and-get-average-of-parti) - 4 votes
+* [How to iterate through rows and add number increments based on whether a number in a column increases](https://stackoverflow.com/questions/66301311/how-to-iterate-through-rows-and-add-number-increments-based-on-whether-a-number) - 3 votes
+* [Creating a Pandas DataFrame from a dictionary that contains key and nested list of dictionary items](https://stackoverflow.com/questions/66306846/creating-a-pandas-dataframe-from-a-dictionary-that-contains-key-and-nested-list) - 2 votes
+* [Using Regex to extract Data to different Columns in Pandas](https://stackoverflow.com/questions/66302182/using-regex-to-extract-data-to-different-columns-in-pandas) - 2 votes
+* [Pandas Dataframe  Column re structure](https://stackoverflow.com/questions/66305277/pandas-dataframe-column-re-structure) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to save VennDiagram as png file in matplotlib_venn](https://stackoverflow.com/questions/66289004/how-to-save-venndiagram-as-png-file-in-matplotlib-venn) - 1 votes
-* [Three subplots in Python using the same data](https://stackoverflow.com/questions/66289909/three-subplots-in-python-using-the-same-data) - 1 votes
-* [Updating Pandas Dataframe from Matplotlib animation function](https://stackoverflow.com/questions/66288218/updating-pandas-dataframe-from-matplotlib-animation-function) - 1 votes
+* [Logarithm in Seaborn](https://stackoverflow.com/questions/66302366/logarithm-in-seaborn) - 3 votes
+* [Adjusting Scale of Y axis in Seaborn and improving clumsy graphs](https://stackoverflow.com/questions/66303938/adjusting-scale-of-y-axis-in-seaborn-and-improving-clumsy-graphs) - 3 votes
+* [How to set individual subfigure size in seaborn plot](https://stackoverflow.com/questions/66304376/how-to-set-individual-sub-figure-size-in-seaborn-plot) - 1 votes
+* [Matplotlib  Horizontal Bar Chart Timeline With Dates  Xticks not showing date](https://stackoverflow.com/questions/66300513/matplotlib-horizontal-bar-chart-timeline-with-dates-xticks-not-showing-date) - 1 votes
+* [Matplotlib  Diverging Contourplot  How make Center more concise](https://stackoverflow.com/questions/66302953/matplotlib-diverging-contourplot-how-make-center-more-concise) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How can I use gganimate with geom_tile](https://stackoverflow.com/questions/66288559/how-can-i-use-gganimate-with-geom-tile) - 2 votes
-* [Reordering variables using fct_relevel with ggplot in R](https://stackoverflow.com/questions/66296215/reordering-variables-using-fct-relevel-with-ggplot-in-r) - 1 votes
+* [How to plot 39outside39 of plotting area using ggplot in R](https://stackoverflow.com/questions/66307022/how-to-plot-outside-of-plotting-area-using-ggplot-in-r) - 2 votes
+* [ggplot Map shifts when adding geom_point](https://stackoverflow.com/questions/66298040/ggplot-map-shifts-when-adding-geom-point) - 1 votes
+* [Adding significance levels for percentage differences to a multilevel dodge ggplot2](https://stackoverflow.com/questions/66302940/adding-significance-levels-for-percentage-differences-to-a-multilevel-dodge-gg) - 1 votes
+* [Diacritics in ggplot2](https://stackoverflow.com/questions/66301505/diacritics-in-ggplot2) - 1 votes
+* [adding p values to ggplots created in loops](https://stackoverflow.com/questions/66298269/adding-p-values-to-ggplots-created-in-loops) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
