@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-21<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-22<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas DataFrame Groupby How to get the group as a list and get average of particular column](https://stackoverflow.com/questions/66301106/pandas-dataframe-groupby-how-to-get-the-group-as-a-list-and-get-average-of-parti) - 4 votes
-* [How to iterate through rows and add number increments based on whether a number in a column increases](https://stackoverflow.com/questions/66301311/how-to-iterate-through-rows-and-add-number-increments-based-on-whether-a-number) - 3 votes
-* [Creating a Pandas DataFrame from a dictionary that contains key and nested list of dictionary items](https://stackoverflow.com/questions/66306846/creating-a-pandas-dataframe-from-a-dictionary-that-contains-key-and-nested-list) - 2 votes
-* [Using Regex to extract Data to different Columns in Pandas](https://stackoverflow.com/questions/66302182/using-regex-to-extract-data-to-different-columns-in-pandas) - 2 votes
-* [Pandas Dataframe  Column re structure](https://stackoverflow.com/questions/66305277/pandas-dataframe-column-re-structure) - 2 votes
+* [change year of datetime column by the year of another column  1](https://stackoverflow.com/questions/66317763/change-year-of-datetime-column-by-the-year-of-another-column-1) - 2 votes
+* [Truly deep copying Pandas DataFrames](https://stackoverflow.com/questions/66318160/truly-deep-copying-pandas-dataframes) - 2 votes
+* [Pandas select data between both index and value range](https://stackoverflow.com/questions/66309838/pandas-select-data-between-both-index-and-value-range) - 2 votes
+* [Python Count Distinct User IDs that share the same email  Pandas Data Manipulation](https://stackoverflow.com/questions/66309402/python-count-distinct-user-ids-that-share-the-same-email-pandas-data-manipula) - 2 votes
+* [How do I sum columns on the basis of a condition using pandas](https://stackoverflow.com/questions/66308841/how-do-i-sum-columns-on-the-basis-of-a-condition-using-pandas) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Logarithm in Seaborn](https://stackoverflow.com/questions/66302366/logarithm-in-seaborn) - 3 votes
-* [Adjusting Scale of Y axis in Seaborn and improving clumsy graphs](https://stackoverflow.com/questions/66303938/adjusting-scale-of-y-axis-in-seaborn-and-improving-clumsy-graphs) - 3 votes
-* [How to set individual subfigure size in seaborn plot](https://stackoverflow.com/questions/66304376/how-to-set-individual-sub-figure-size-in-seaborn-plot) - 1 votes
-* [Matplotlib  Horizontal Bar Chart Timeline With Dates  Xticks not showing date](https://stackoverflow.com/questions/66300513/matplotlib-horizontal-bar-chart-timeline-with-dates-xticks-not-showing-date) - 1 votes
-* [Matplotlib  Diverging Contourplot  How make Center more concise](https://stackoverflow.com/questions/66302953/matplotlib-diverging-contourplot-how-make-center-more-concise) - 1 votes
+* [Errors while trying to store two box plots back to back](https://stackoverflow.com/questions/66323360/errors-while-trying-to-store-two-box-plots-back-to-back) - 2 votes
+* [Matplotlib  How to put stacked barplots into subplots](https://stackoverflow.com/questions/66319419/matplotlib-how-to-put-stacked-barplots-into-subplots) - 1 votes
+* [How to stack a kernel above each point with Seaborn kdeplot](https://stackoverflow.com/questions/66319865/how-to-stack-a-kernel-above-each-point-with-seaborn-kdeplot) - 1 votes
+* [Find graphs intersection python](https://stackoverflow.com/questions/66315662/find-graphs-intersection-python) - 1 votes
+* [Creating real time bar chart  graph](https://stackoverflow.com/questions/66308717/creating-real-time-bar-chart-graph) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to plot 39outside39 of plotting area using ggplot in R](https://stackoverflow.com/questions/66307022/how-to-plot-outside-of-plotting-area-using-ggplot-in-r) - 2 votes
-* [ggplot Map shifts when adding geom_point](https://stackoverflow.com/questions/66298040/ggplot-map-shifts-when-adding-geom-point) - 1 votes
-* [Adding significance levels for percentage differences to a multilevel dodge ggplot2](https://stackoverflow.com/questions/66302940/adding-significance-levels-for-percentage-differences-to-a-multilevel-dodge-gg) - 1 votes
-* [Diacritics in ggplot2](https://stackoverflow.com/questions/66301505/diacritics-in-ggplot2) - 1 votes
-* [adding p values to ggplots created in loops](https://stackoverflow.com/questions/66298269/adding-p-values-to-ggplots-created-in-loops) - 1 votes
+* [Is it possible to show a xaxis variable on multiple lines in ggplot2](https://stackoverflow.com/questions/66318155/is-it-possible-to-show-a-x-axis-variable-on-multiple-lines-in-ggplot2) - 2 votes
+* [Plot multiple plots dependent on value in column](https://stackoverflow.com/questions/66312097/plot-multiple-plots-dependent-on-value-in-column) - 1 votes
+* [How can I add these data points clearly to a chart without them looking the way they do](https://stackoverflow.com/questions/66318922/how-can-i-add-these-data-points-clearly-to-a-chart-without-them-looking-the-way) - 1 votes
+* [How to use specific filling colors when using scale_fill_binned](https://stackoverflow.com/questions/66318404/how-to-use-specific-filling-colors-when-using-scale-fill-binned) - 1 votes
+* [Add a continuous legend to a heat map in R base R preferred because ggplot is not working](https://stackoverflow.com/questions/66318319/add-a-continuous-legend-to-a-heat-map-in-r-base-r-preferred-because-ggplot-is-n) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
