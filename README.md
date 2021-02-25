@@ -1,37 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-24<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-25<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Title words in a column except certain words](https://stackoverflow.com/questions/66348567/title-words-in-a-column-except-certain-words) - 7 votes
-* [How to find row names where values are maximum in a column in Pyspark](https://stackoverflow.com/questions/66353350/how-to-find-row-names-where-values-are-maximum-in-a-column-in-pyspark) - 3 votes
-* [How to handle inconsistent columns of CSV](https://stackoverflow.com/questions/66350286/how-to-handle-inconsistent-columns-of-csv) - 3 votes
-* [Python How to convert Pandas Dataframe Row Values to individual columns](https://stackoverflow.com/questions/66347877/python-how-to-convert-pandas-dataframe-row-values-to-individual-columns) - 2 votes
-* [Dataframe split before a specific string for all rows](https://stackoverflow.com/questions/66349310/dataframe-split-before-a-specific-string-for-all-rows) - 2 votes
+* [specify number of spaces between pandas DataFrame columns when printing](https://stackoverflow.com/questions/66375262/specify-number-of-spaces-between-pandas-dataframe-columns-when-printing) - 5 votes
+* [More effective  clean way to aggregate data](https://stackoverflow.com/questions/66373110/more-effective-clean-way-to-aggregate-data) - 4 votes
+* [Is there a way to get the number of occurrences of the last value in a groupby](https://stackoverflow.com/questions/66361621/is-there-a-way-to-get-the-number-of-occurrences-of-the-last-value-in-a-groupby) - 4 votes
+* [Complex merge of two DataFrames](https://stackoverflow.com/questions/66371370/complex-merge-of-two-dataframes) - 4 votes
+* [Removing right part of string from pandas column if equal to another pandas column](https://stackoverflow.com/questions/66373411/removing-right-part-of-string-from-pandas-column-if-equal-to-another-pandas-colu) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How do add a legend to CSV data plot with no header in Python](https://stackoverflow.com/questions/66346722/how-do-add-a-legend-to-csv-data-plot-with-no-header-in-python) - 1 votes
-* [jupyter print plot and dataframe in order for loop](https://stackoverflow.com/questions/66353551/jupyter-print-plot-and-dataframe-in-order-for-loop) - 1 votes
-* [How do I reduce quotNoisequot within a model in python](https://stackoverflow.com/questions/66358631/how-do-i-reduce-noise-within-a-model-in-python) - 1 votes
-* [how to display multiple bars in barplot in pandas for csv file](https://stackoverflow.com/questions/66358306/how-to-display-multiple-bars-in-barplot-in-pandas-for-csv-file) - 1 votes
-* [Is there an easy way to print a Matplotlib figure Saros Dial to an exact size on a DIN A4 jpeg](https://stackoverflow.com/questions/66357753/is-there-an-easy-way-to-print-a-matplotlib-figure-saros-dial-to-an-exact-size) - 1 votes
+* [Unable to read data from kdeplot](https://stackoverflow.com/questions/66365883/unable-to-read-data-from-kdeplot) - 2 votes
+* [Plotting bmi against medical insurance charges](https://stackoverflow.com/questions/66364860/plotting-bmi-against-medical-insurance-charges) - 1 votes
+* [Fitting a gaussian curve to data](https://stackoverflow.com/questions/66373093/fitting-a-gaussian-curve-to-data) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Changing the colour of median and mean in ggplot2 legend](https://stackoverflow.com/questions/66357299/changing-the-colour-of-median-and-mean-in-ggplot2-legend) - 1 votes
-* [Plotting values in ggplot over time by group with condition where one group is one line of the mean and the other group as individual lines in R](https://stackoverflow.com/questions/66353999/plotting-values-in-ggplot-over-time-by-group-with-condition-where-one-group-is) - 1 votes
-* [Changing the Font of ggplot text](https://stackoverflow.com/questions/66344484/changing-the-font-of-ggplot-text) - 1 votes
+* [ggplot2 How to reorder stacked bar charts by proportions of fill variable](https://stackoverflow.com/questions/66361709/ggplot2-how-to-reorder-stacked-bar-charts-by-proportions-of-fill-variable) - 1 votes
+* [Changing Tick Marks on ggplot with multiple lines](https://stackoverflow.com/questions/66374996/changing-tick-marks-on-ggplot-with-multiple-lines) - 1 votes
+* [How do I remove labels based on certain conditions in ggplot2](https://stackoverflow.com/questions/66372501/how-do-i-remove-labels-based-on-certain-conditions-in-ggplot2) - 1 votes
+* [Annotate ggplot based on a second data frame](https://stackoverflow.com/questions/66373812/annotate-ggplot-based-on-a-second-data-frame) - 1 votes
+* [R Stacked percentage bar plot with two factor variables  How to label the  inside the plot without counting the NA](https://stackoverflow.com/questions/66367774/r-stacked-percentage-bar-plot-with-two-factor-variables-how-to-label-the-ins) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
