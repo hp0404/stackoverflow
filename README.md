@@ -1,38 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-26<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-27<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas DataFrame replace negative values with latest preceding positive value](https://stackoverflow.com/questions/66383772/pandas-dataframe-replace-negative-values-with-latest-preceding-positive-value) - 3 votes
-* [How to append column total to pandas dataframe every 4th row](https://stackoverflow.com/questions/66389603/how-to-append-column-total-to-pandas-dataframe-every-4th-row) - 3 votes
-* [pandas  replace values with percent of observations that are belowless](https://stackoverflow.com/questions/66385989/pandas-replace-values-with-percent-of-observations-that-are-below-less) - 2 votes
-* [Pandas return separate column value in current index if two separate columns match](https://stackoverflow.com/questions/66379865/pandas-return-separate-column-value-in-current-index-if-two-separate-columns-mat) - 2 votes
-* [Create column with some values from another columns  Conditional](https://stackoverflow.com/questions/66390895/create-column-with-some-values-from-another-columns-conditional) - 2 votes
+* [Efficiently extracting a few values from several large Pandas dataframes](https://stackoverflow.com/questions/66401129/efficiently-extracting-a-few-values-from-several-large-pandas-dataframes) - 2 votes
+* [Merge two dataframes with different Date Time Indexes](https://stackoverflow.com/questions/66400640/merge-two-dataframes-with-different-date-time-indexes) - 2 votes
+* [How can I create a pivot table indexed on a column with duplicate entries that should be grouped by values of another column](https://stackoverflow.com/questions/66399848/how-can-i-create-a-pivot-table-indexed-on-a-column-with-duplicate-entries-that-s) - 2 votes
+* [Is there a solution to count and recount on a condition in pandas](https://stackoverflow.com/questions/66398330/is-there-a-solution-to-count-and-recount-on-a-condition-in-pandas) - 2 votes
+* [Can39t insert a list into a dataframe because of a 39date39 column](https://stackoverflow.com/questions/66398216/cant-insert-a-list-into-a-dataframe-because-of-a-date-column) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How can I vary the resonance frequency correctly in my animated resonanance amplitude](https://stackoverflow.com/questions/66391009/how-can-i-vary-the-resonance-frequency-correctly-in-my-animated-resonanance-ampl) - 1 votes
-* [Adding labels to graphs](https://stackoverflow.com/questions/66387202/adding-labels-to-graphs) - 1 votes
-* [Set titles for the subplots indicating the generating function linearexponential](https://stackoverflow.com/questions/66385868/set-titles-for-the-subplots-indicating-the-generating-function-linear-exponent) - 1 votes
-* [pandas data frame plotting in subplots](https://stackoverflow.com/questions/66379396/pandas-data-frame-plotting-in-subplots) - 1 votes
+* [How to render matplotlib plots in ipython](https://stackoverflow.com/questions/66400601/how-to-render-matplotlib-plots-in-ipython) - 1 votes
+* [Plot a circle on a cartopy mercator projection](https://stackoverflow.com/questions/66400300/plot-a-circle-on-a-cartopy-mercator-projection) - 1 votes
+* [How to avoid change in matplotlib background image aspect ratio and instead crop it into right size](https://stackoverflow.com/questions/66398548/how-to-avoid-change-in-matplotlib-background-image-aspect-ratio-and-instead-crop) - 1 votes
+* [Why can data read from a CSV file with Pandas not be plotted using matplotlib after turning it into integers](https://stackoverflow.com/questions/66395232/why-can-data-read-from-a-csv-file-with-pandas-not-be-plotted-using-matplotlib-a) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Plotting country shapefiles next to each other preserving scale](https://stackoverflow.com/questions/66378582/plotting-country-shapefiles-next-to-each-other-preserving-scale) - 2 votes
-* [When inside an R library getting the path of the original file calling the library](https://stackoverflow.com/questions/66391497/when-inside-an-r-library-getting-the-path-of-the-original-file-calling-the-libr) - 1 votes
-* [Error in FUNXi   object 39group39 not found when using ggplot to make a map of Antarctica](https://stackoverflow.com/questions/66390931/error-in-funxi-object-group-not-found-when-using-ggplot-to-make-a) - 1 votes
-* [R Why does stat_function take random noninteger values instead of 39x39](https://stackoverflow.com/questions/66388441/r-why-does-stat-function-take-random-non-integer-values-instead-of-x) - 1 votes
-* [how to change decimal to numeric on y axis](https://stackoverflow.com/questions/66387048/how-to-change-decimal-to-numeric-on-y-axis) - 1 votes
+* [Fitting multiple different regression lines with ggplot](https://stackoverflow.com/questions/66400857/fitting-multiple-different-regression-lines-with-ggplot) - 1 votes
+* [Creating vertical line in ggplot with time series data](https://stackoverflow.com/questions/66401163/creating-vertical-line-in-ggplot-with-time-series-data) - 1 votes
+* [GGPlot Not using correct colors from paired column of hexcodes](https://stackoverflow.com/questions/66402485/ggplot-not-using-correct-colors-from-paired-column-of-hexcodes) - 1 votes
+* [Suppressing Parts of the Legend in ggplot2](https://stackoverflow.com/questions/66394428/suppressing-parts-of-the-legend-in-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
