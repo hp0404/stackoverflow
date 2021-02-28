@@ -1,37 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-27<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-02-28<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Efficiently extracting a few values from several large Pandas dataframes](https://stackoverflow.com/questions/66401129/efficiently-extracting-a-few-values-from-several-large-pandas-dataframes) - 2 votes
-* [Merge two dataframes with different Date Time Indexes](https://stackoverflow.com/questions/66400640/merge-two-dataframes-with-different-date-time-indexes) - 2 votes
-* [How can I create a pivot table indexed on a column with duplicate entries that should be grouped by values of another column](https://stackoverflow.com/questions/66399848/how-can-i-create-a-pivot-table-indexed-on-a-column-with-duplicate-entries-that-s) - 2 votes
-* [Is there a solution to count and recount on a condition in pandas](https://stackoverflow.com/questions/66398330/is-there-a-solution-to-count-and-recount-on-a-condition-in-pandas) - 2 votes
-* [Can39t insert a list into a dataframe because of a 39date39 column](https://stackoverflow.com/questions/66398216/cant-insert-a-list-into-a-dataframe-because-of-a-date-column) - 2 votes
+* [how can i change value in a data frame python](https://stackoverflow.com/questions/66406247/how-can-i-change-value-in-a-data-frame-python) - 3 votes
+* [Randomly Filling NaN values of a Column with NonNull String Values](https://stackoverflow.com/questions/66406662/randomly-filling-nan-values-of-a-column-with-non-null-string-values) - 3 votes
+* [How do I add and sort the monthyear columns in my final df using pandas](https://stackoverflow.com/questions/66407662/how-do-i-add-and-sort-the-month-year-columns-in-my-final-df-using-pandas) - 3 votes
+* [Python apply a lambda function into a csv fileLarge files](https://stackoverflow.com/questions/66409893/python-apply-a-lambda-function-into-a-csv-filelarge-files) - 2 votes
+* [Pandas groupby sum rows and divide sum by number of rows in group](https://stackoverflow.com/questions/66408073/pandas-groupby-sum-rows-and-divide-sum-by-number-of-rows-in-group) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to render matplotlib plots in ipython](https://stackoverflow.com/questions/66400601/how-to-render-matplotlib-plots-in-ipython) - 1 votes
-* [Plot a circle on a cartopy mercator projection](https://stackoverflow.com/questions/66400300/plot-a-circle-on-a-cartopy-mercator-projection) - 1 votes
-* [How to avoid change in matplotlib background image aspect ratio and instead crop it into right size](https://stackoverflow.com/questions/66398548/how-to-avoid-change-in-matplotlib-background-image-aspect-ratio-and-instead-crop) - 1 votes
-* [Why can data read from a CSV file with Pandas not be plotted using matplotlib after turning it into integers](https://stackoverflow.com/questions/66395232/why-can-data-read-from-a-csv-file-with-pandas-not-be-plotted-using-matplotlib-a) - 1 votes
+* [why my curve fitting plot using matplotlib looks obscured](https://stackoverflow.com/questions/66406007/why-my-curve-fitting-plot-using-matplotlib-looks-obscured) - 1 votes
+* [SOLVED When I try to run quotimport matplotlibpyplot as pltquot I receive the following error quotModuleNotFoundError No module named 39PIL39quot](https://stackoverflow.com/questions/66411307/solved-when-i-try-to-run-import-matplotlib-pyplot-as-plt-i-receive-the-fol) - 1 votes
+* [Understanding of fig ax and plt when combining Matplotlib and Pandas](https://stackoverflow.com/questions/66410803/understanding-of-fig-ax-and-plt-when-combining-matplotlib-and-pandas) - 1 votes
+* [subplot X axis ticks labels overlap needs autoset](https://stackoverflow.com/questions/66409673/subplot-x-axis-ticks-labels-overlap-needs-auto-set) - 1 votes
+* [How do I change what is displayed on XAxis](https://stackoverflow.com/questions/66407681/how-do-i-change-what-is-displayed-on-x-axis) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Fitting multiple different regression lines with ggplot](https://stackoverflow.com/questions/66400857/fitting-multiple-different-regression-lines-with-ggplot) - 1 votes
-* [Creating vertical line in ggplot with time series data](https://stackoverflow.com/questions/66401163/creating-vertical-line-in-ggplot-with-time-series-data) - 1 votes
-* [GGPlot Not using correct colors from paired column of hexcodes](https://stackoverflow.com/questions/66402485/ggplot-not-using-correct-colors-from-paired-column-of-hexcodes) - 1 votes
-* [Suppressing Parts of the Legend in ggplot2](https://stackoverflow.com/questions/66394428/suppressing-parts-of-the-legend-in-ggplot2) - 1 votes
+* [Improving quality of RStudio graphics device preview](https://stackoverflow.com/questions/66410305/improving-quality-of-rstudio-graphics-device-preview) - 2 votes
+* [How to plot a zoom of the plot inside the same plot area using ggplot2](https://stackoverflow.com/questions/66409781/how-to-plot-a-zoom-of-the-plot-inside-the-same-plot-area-using-ggplot2) - 1 votes
+* [Adding borders to histograms in ggplot](https://stackoverflow.com/questions/66409910/adding-borders-to-histograms-in-ggplot) - 1 votes
+* [Plotting order of circles in ggforce](https://stackoverflow.com/questions/66408402/plotting-order-of-circles-in-ggforce) - 1 votes
+* [When I use aesshape in geom_jitter the individual points no longer line up with their respective groups in an overlayed geom_col graph](https://stackoverflow.com/questions/66405766/when-i-use-aesshape-in-geom-jitter-the-individual-points-no-longer-line-up-wi) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
