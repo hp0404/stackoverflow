@@ -1,35 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-01<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-02<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [count contiguous NaN values and get the start and final date of the NaN contiguous period](https://stackoverflow.com/questions/66426653/count-contiguous-nan-values-and-get-the-start-and-final-date-of-the-nan-contiguo) - 2 votes
-* [How to filter time with respect to date in pandas](https://stackoverflow.com/questions/66417695/how-to-filter-time-with-respect-to-date-in-pandas) - 2 votes
-* [count operations grouped by country return dataframe in python](https://stackoverflow.com/questions/66423313/count-operations-grouped-by-country-return-dataframe-in-python) - 2 votes
-* [Dropping a row in a dataframe has text instead of a number probably easy pandas dataframe python](https://stackoverflow.com/questions/66421367/dropping-a-row-in-a-dataframe-has-text-instead-of-a-number-probably-easy-pan) - 2 votes
-* [Not able to groupby apply function with two arguments in Python](https://stackoverflow.com/questions/66428037/not-able-to-groupby-apply-function-with-two-arguments-in-python) - 1 votes
+* [Iterating through a column of lists and appending other columns based on list order](https://stackoverflow.com/questions/66444201/iterating-through-a-column-of-lists-and-appending-other-columns-based-on-list-or) - 2 votes
+* [Get every year last date values from data frame](https://stackoverflow.com/questions/66436120/get-every-year-last-date-values-from-data-frame) - 2 votes
+* [Combining two dataframes so that the values in one dataframe become headers in the other](https://stackoverflow.com/questions/66446802/combining-two-dataframes-so-that-the-values-in-one-dataframe-become-headers-in-t) - 2 votes
+* [Fill null values for groups of rows](https://stackoverflow.com/questions/66446950/fill-null-values-for-groups-of-rows) - 2 votes
+* [Generate new rows in pandas by adding values based on previous rows](https://stackoverflow.com/questions/66443652/generate-new-rows-in-pandas-by-adding-values-based-on-previous-rows) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to create a new Pandas DataFrame from alternating boolean rows such that the new DataFrame is ready to plot](https://stackoverflow.com/questions/66417281/how-to-create-a-new-pandas-dataframe-from-alternating-boolean-rows-such-that-the) - 1 votes
-* [Matplotlib colorbars multiple pltimshow plots](https://stackoverflow.com/questions/66427787/matplotlib-colorbars-multiple-plt-imshow-plots) - 1 votes
-* [I made this colorbar but now I can39t apply it to my contour plot](https://stackoverflow.com/questions/66424391/i-made-this-colorbar-but-now-i-cant-apply-it-to-my-contour-plot) - 1 votes
-* [matplotlib legend picking with pandas dataframe doesn39t work](https://stackoverflow.com/questions/66423508/matplotlib-legend-picking-with-pandas-dataframe-doesnt-work) - 1 votes
-* [pandas plot time series label the first point on xaxis or change major_ticks](https://stackoverflow.com/questions/66427193/pandas-plot-time-series-label-the-first-point-on-x-axis-or-change-major-ticks) - 1 votes
+* [Moving a plot between figures in matplotlib](https://stackoverflow.com/questions/66437017/moving-a-plot-between-figures-in-matplotlib) - 2 votes
+* [vmin and vmax in hist2d](https://stackoverflow.com/questions/66443606/vmin-and-vmax-in-hist2d) - 1 votes
+* [Python  Use bins from one snshistplot for another  Extract bin information from an snshistpllot](https://stackoverflow.com/questions/66446681/python-use-bins-from-one-sns-histplot-for-another-extract-bin-information) - 1 votes
+* [Multiple multiline plots group wise in Python](https://stackoverflow.com/questions/66441517/multiple-multi-line-plots-group-wise-in-python) - 1 votes
+* [Scatter plot xaxis tick labels not showing up](https://stackoverflow.com/questions/66444722/scatter-plot-x-axis-tick-labels-not-showing-up) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-
+* [How can I paste text onto numerical yaxis ticks in ggplot2 figures in R](https://stackoverflow.com/questions/66431963/how-can-i-paste-text-onto-numerical-y-axis-ticks-in-ggplot2-figures-in-r) - 3 votes
+* [Can an r ggplot object be stored in an S4 slot](https://stackoverflow.com/questions/66431876/can-an-r-ggplot-object-be-stored-in-an-s4-slot) - 1 votes
+* [Consecutive plots numbering](https://stackoverflow.com/questions/66435382/consecutive-plots-numbering) - 1 votes
+* [Line segments coming out of the interior of a map of brazil using the ggrepel package](https://stackoverflow.com/questions/66441996/line-segments-coming-out-of-the-interior-of-a-map-of-brazil-using-the-ggrepel-pa) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
