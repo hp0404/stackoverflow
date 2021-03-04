@@ -1,38 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-03<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-04<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Is it possible to ignore NA but not drop it in a dataframe Intrusion Detection System Dataset](https://stackoverflow.com/questions/66456241/is-it-possible-to-ignore-na-but-not-drop-it-in-a-dataframe-intrusion-detection) - 3 votes
-* [Column Addition if not available Pandas](https://stackoverflow.com/questions/66450668/column-addition-if-not-available-pandas) - 2 votes
-* [Check if Column exceeding specific value and replace](https://stackoverflow.com/questions/66451513/check-if-column-exceeding-specific-value-and-replace) - 2 votes
-* [duplicating rows by splitting comma separated multiple values in another column pandas](https://stackoverflow.com/questions/66450416/duplicating-rows-by-splitting-comma-separated-multiple-values-in-another-column) - 2 votes
-* [Groupby over periods of time](https://stackoverflow.com/questions/66459591/groupby-over-periods-of-time) - 2 votes
+* [Strange Behavior With Pandas Group By  Transform On String Columns](https://stackoverflow.com/questions/66480197/strange-behavior-with-pandas-group-by-transform-on-string-columns) - 5 votes
+* [find groups of neighboring True in pandas series](https://stackoverflow.com/questions/66476980/find-groups-of-neighboring-true-in-pandas-series) - 3 votes
+* [Pandas Rolling vs Scipy kurtosis  serious numerical inaccuracy](https://stackoverflow.com/questions/66477764/pandas-rolling-vs-scipy-kurtosis-serious-numerical-inaccuracy) - 3 votes
+* [Python Pandas How to subtract values in two nonconsecutive rows in a specific column of a dataframe from one another](https://stackoverflow.com/questions/66481302/python-pandas-how-to-subtract-values-in-two-non-consecutive-rows-in-a-specific) - 2 votes
+* [Efficient way to compute number of nonzeros with a rolling window in pandas](https://stackoverflow.com/questions/66481191/efficient-way-to-compute-number-of-nonzeros-with-a-rolling-window-in-pandas) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Projecting contour lines from one graph to another](https://stackoverflow.com/questions/66454207/projecting-contour-lines-from-one-graph-to-another) - 2 votes
-* [4 variables in 2d plot](https://stackoverflow.com/questions/66449837/4-variables-in-2d-plot) - 2 votes
-* [How to subplot a dictionary of dataframes](https://stackoverflow.com/questions/66461227/how-to-subplot-a-dictionary-of-dataframes) - 1 votes
-* [Plot and rearrange values in ascending order in seaborn](https://stackoverflow.com/questions/66456956/plot-and-rearrange-values-in-ascending-order-in-seaborn) - 1 votes
-* [How to Show the actual value instead of the percent in a Matplotlib Pie Chart](https://stackoverflow.com/questions/66450790/how-to-show-the-actual-value-instead-of-the-percent-in-a-matplotlib-pie-chart) - 1 votes
+* [Matplotlib Collection Not Being Cleared](https://stackoverflow.com/questions/66476637/matplotlib-collection-not-being-cleared) - 2 votes
+* [How to create grid plot with inner subplots](https://stackoverflow.com/questions/66468158/how-to-create-grid-plot-with-inner-subplots) - 2 votes
+* [How to plot bar and line chart together and formatting the x axes with dates](https://stackoverflow.com/questions/66480546/how-to-plot-bar-and-line-chart-together-and-formatting-the-x-axes-with-dates) - 1 votes
+* [Python  matplotlib how to change RectangleSelector properties](https://stackoverflow.com/questions/66475776/python-matplotlib-how-to-change-rectangleselector-properties) - 1 votes
+* [matplotlib histogram bins do not work well](https://stackoverflow.com/questions/66479965/matplotlib-histogram-bins-do-not-work-well) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [ggplot how to color points different than the connecting line](https://stackoverflow.com/questions/66457731/ggplot-how-to-color-points-different-than-the-connecting-line) - 2 votes
-* [Common title for side by side plots](https://stackoverflow.com/questions/66459111/common-title-for-side-by-side-plots) - 1 votes
-* [How to add single annotation to overall ggplot plot and not to each facet](https://stackoverflow.com/questions/66458560/how-to-add-single-annotation-to-overall-ggplot-plot-and-not-to-each-facet) - 1 votes
-* [How to add effect sizes to ggplot bar graphs of ttests eg Cohen39s d or Hedges39 g](https://stackoverflow.com/questions/66464930/how-to-add-effect-sizes-to-ggplot-bar-graphs-of-t-tests-e-g-cohens-d-or-hed) - 1 votes
+* [Group geom_violin by two features](https://stackoverflow.com/questions/66467706/group-geom-violin-by-two-features) - 2 votes
+* [Can you combine a geom_bar pie over a geom_point plot in R](https://stackoverflow.com/questions/66479147/can-you-combine-a-geom-bar-pie-over-a-geom-point-plot-in-r) - 1 votes
+* [Adding a regression trend line and a shaded standard error area to a ggplot for regression models that geom_smooth does not handle](https://stackoverflow.com/questions/66481034/adding-a-regression-trend-line-and-a-shaded-standard-error-area-to-a-ggplot-for) - 1 votes
+* [How to get from ggcombine to a single plot with two yaxes](https://stackoverflow.com/questions/66475615/how-to-get-from-ggcombine-to-a-single-plot-with-two-y-axes) - 1 votes
+* [Displaying regression lines based on Pvalue](https://stackoverflow.com/questions/66471817/displaying-regression-lines-based-on-p-value) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
