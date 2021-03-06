@@ -1,37 +1,34 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-05<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-06<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Filter data without altering date format](https://stackoverflow.com/questions/66490802/filter-data-without-altering-date-format) - 4 votes
-* [Merge rows with duplications in pandas](https://stackoverflow.com/questions/66489962/merge-rows-with-duplications-in-pandas) - 4 votes
-* [Stack pandas dataframe](https://stackoverflow.com/questions/66493394/stack-pandas-dataframe) - 3 votes
-* [Add tuple values to dict if one value is a key in the dict](https://stackoverflow.com/questions/66496077/add-tuple-values-to-dict-if-one-value-is-a-key-in-the-dict) - 3 votes
-* [Pandas  Find unique values that show in every class group](https://stackoverflow.com/questions/66494352/pandas-find-unique-values-that-show-in-every-class-group) - 2 votes
+* [iterate over pandas columns based on conditions](https://stackoverflow.com/questions/66502388/iterate-over-pandas-columns-based-on-conditions) - 4 votes
+* [How to use multiple separators in a pandas Series and split into multiple rows](https://stackoverflow.com/questions/66506384/how-to-use-multiple-separators-in-a-pandas-series-and-split-into-multiple-rows) - 3 votes
+* [How can I count the number of floats or integers in a column of a Pandas dataframe](https://stackoverflow.com/questions/66507524/how-can-i-count-the-number-of-floats-or-integers-in-a-column-of-a-pandas-datafra) - 3 votes
+* [How to self joingroup by to get sum](https://stackoverflow.com/questions/66503310/how-to-self-join-group-by-to-get-sum) - 3 votes
+* [Modifying a matrix to include various data features](https://stackoverflow.com/questions/66506780/modifying-a-matrix-to-include-various-data-features) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Converting pixels colour creates noise](https://stackoverflow.com/questions/66492366/converting-pixels-colour-creates-noise) - 2 votes
-* [How can I make matplotlib animation that uses networkx much faster](https://stackoverflow.com/questions/66496889/how-can-i-make-matplotlib-animation-that-uses-networkx-much-faster) - 2 votes
-* [How to discard the vertical lines when plotting piecewise functions in matplotlib](https://stackoverflow.com/questions/66498285/how-to-discard-the-vertical-lines-when-plotting-piecewise-functions-in-matplotli) - 1 votes
-* [Matplotlib 2 plots on the same figure with separate sizes](https://stackoverflow.com/questions/66487928/matplotlib-2-plots-on-the-same-figure-with-separate-sizes) - 1 votes
-* [how to plot graded letters like A in matplotlib](https://stackoverflow.com/questions/66496312/how-to-plot-graded-letters-like-a-in-matplotlib) - 1 votes
+* [How do I ampquotclipampquot a matplotlib colourbar](https://stackoverflow.com/questions/66509565/how-do-i-quotclipquot-a-matplotlib-colourbar) - 2 votes
+* [Python Seaborn Could not interpret input 39Weekday Name39](https://stackoverflow.com/questions/66510356/python-seaborn-could-not-interpret-input-weekday-name) - 1 votes
+* [how to put equations of 2 trendlines in Python](https://stackoverflow.com/questions/66505344/how-to-put-equations-of-2-trendlines-in-python) - 1 votes
+* [Pycharm Cannot find reference 39linspace39 in matplotlibpyplot](https://stackoverflow.com/questions/66507061/pycharm-cannot-find-reference-linspace-in-matplotlib-pyplot) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to set custom colors in ggplot2 using theme_classic function](https://stackoverflow.com/questions/66497023/how-to-set-custom-colors-in-ggplot2-using-theme-classic-function) - 1 votes
-* [How to keep coloured geom_sina points within geom_violin plots](https://stackoverflow.com/questions/66492818/how-to-keep-coloured-geom-sina-points-within-geom-violin-plots) - 1 votes
-* [Can one use ggMarginal on a plot combining points and density lines](https://stackoverflow.com/questions/66490428/can-one-use-ggmarginal-on-a-plot-combining-points-and-density-lines) - 1 votes
+* [boxplot in ggplot for two groups of data in the same data frame](https://stackoverflow.com/questions/66510575/boxplot-in-ggplot-for-two-groups-of-data-in-the-same-data-frame) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
