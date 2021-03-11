@@ -1,37 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-10<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-11<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Output all rows with word count in a column greater than 3](https://stackoverflow.com/questions/66570375/output-all-rows-with-word-count-in-a-column-greater-than-3) - 5 votes
-* [Keep X last rows by group in Pandas](https://stackoverflow.com/questions/66557891/keep-x-last-rows-by-group-in-pandas) - 4 votes
-* [Changing multiple column names by column number in Pandas](https://stackoverflow.com/questions/66569767/changing-multiple-column-names-by-column-number-in-pandas) - 3 votes
-* [How to add impute additional rows on to a DF in Python](https://stackoverflow.com/questions/66570748/how-to-add-impute-additional-rows-on-to-a-df-in-python) - 3 votes
-* [Generate count column in dataframe based on multiple criteria pandas](https://stackoverflow.com/questions/66568876/generate-count-column-in-dataframe-based-on-multiple-criteria-pandas) - 3 votes
+* [How to generate a new column which the values are between two existing columns](https://stackoverflow.com/questions/66590229/how-to-generate-a-new-column-which-the-values-are-between-two-existing-columns) - 3 votes
+* [python substitute whole words in pandas df](https://stackoverflow.com/questions/66586810/python-substitute-whole-words-in-pandas-df) - 3 votes
+* [how to split a column based on a character and append the rest of columns with each split](https://stackoverflow.com/questions/66577285/how-to-split-a-column-based-on-a-character-and-append-the-rest-of-columns-with-e) - 3 votes
+* [Convert TimedeltaIndex to DatetimeIndex](https://stackoverflow.com/questions/66588484/convert-timedeltaindex-to-datetimeindex) - 3 votes
+* [How to read in a txt file when the column names are inline with the data with Pandas](https://stackoverflow.com/questions/66589600/how-to-read-in-a-txt-file-when-the-column-names-are-inline-with-the-data-with-p) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Plot against dummy variables and grouped values](https://stackoverflow.com/questions/66557502/plot-against-dummy-variables-and-grouped-values) - 1 votes
-* [How to fit dates on a plot](https://stackoverflow.com/questions/66564424/how-to-fit-dates-on-a-plot) - 1 votes
-* [Get boxplot in one plot and matplotlib in another plot](https://stackoverflow.com/questions/66564417/get-boxplot-in-one-plot-and-matplotlib-in-another-plot) - 1 votes
-* [How to make a nested for loop by plotting two different data sets side by side](https://stackoverflow.com/questions/66568735/how-to-make-a-nested-for-loop-by-plotting-two-different-data-sets-side-by-side) - 1 votes
-* [how to display every data label on yaxis and it should be integer](https://stackoverflow.com/questions/66559296/how-to-display-every-data-label-on-y-axis-and-it-should-be-integer) - 1 votes
+* [Forcing colorbar ticks at minmax values](https://stackoverflow.com/questions/66585484/forcing-colorbar-ticks-at-min-max-values) - 2 votes
+* [How to draw a bivariate polynomial function in Python](https://stackoverflow.com/questions/66577256/how-to-draw-a-bi-variate-polynomial-function-in-python) - 2 votes
+* [What is Wrong with my Physics Equations in this Matplotlib Graph of Object Trajectories](https://stackoverflow.com/questions/66589574/what-is-wrong-with-my-physics-equations-in-this-matplotlib-graph-of-object-traje) - 1 votes
+* [time series with different time range on the same plot result in ValueError operands could not be broadcast together with shapes 366 92](https://stackoverflow.com/questions/66585029/time-series-with-different-time-range-on-the-same-plot-result-in-valueerror-ope) - 1 votes
+* [How to plot a dot plot type scatterplot in matplotlib or seaborn](https://stackoverflow.com/questions/66579313/how-to-plot-a-dot-plot-type-scatterplot-in-matplotlib-or-seaborn) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Annotate plot with speech bubbles in ggplot](https://stackoverflow.com/questions/66564313/annotate-plot-with-speech-bubbles-in-ggplot) - 1 votes
-* [Inconsistent bar spacing in ggplot  geom_bar with time series data](https://stackoverflow.com/questions/66563265/inconsistent-bar-spacing-in-ggplot-geom-bar-with-time-series-data) - 1 votes
-* [Using methodquotnlsquot to plot 3 parameter Weibull curve](https://stackoverflow.com/questions/66560424/using-method-nls-to-plot-3-parameter-weibull-curve) - 1 votes
+* [Grid Arrange mutliple ggplots from evaluated text](https://stackoverflow.com/questions/66581347/grid-arrange-mutliple-ggplots-from-evaluated-text) - 1 votes
+* [How do I modify labels produced by scales package](https://stackoverflow.com/questions/66589314/how-do-i-modify-labels-produced-by-scales-package) - 1 votes
+* [ggplot time series messed up x axis for data with missing values](https://stackoverflow.com/questions/66582125/ggplot-time-series-messed-up-x-axis-for-data-with-missing-values) - 1 votes
+* [How can I fix missing color scale in the legend when I plot continuous color using ggplot2](https://stackoverflow.com/questions/66575610/how-can-i-fix-missing-color-scale-in-the-legend-when-i-plot-continuous-color-usi) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
