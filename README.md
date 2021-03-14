@@ -1,33 +1,33 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-13<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-14<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas How to denormalize such complex dataframe structure](https://stackoverflow.com/questions/66611777/pandas-how-to-denormalize-such-complex-dataframe-structure) - 5 votes
-* [split based on comma and create new data frame in Python](https://stackoverflow.com/questions/66615007/split-based-on-comma-and-create-new-data-frame-in-python) - 4 votes
-* [run a loop inside another loop in pandas](https://stackoverflow.com/questions/66611936/run-a-loop-inside-another-loop-in-pandas) - 3 votes
-* [how to convert data into nested dictionary in pythondataframe](https://stackoverflow.com/questions/66610707/how-to-convert-data-into-nested-dictionary-in-python-dataframe) - 3 votes
-* [Updating a dataframe based on another dataframe in Python](https://stackoverflow.com/questions/66613193/updating-a-dataframe-based-on-another-dataframe-in-python) - 2 votes
+* [Questions about Inplace memory operations in pandas 12](https://stackoverflow.com/questions/66624804/questions-about-in-place-memory-operations-in-pandas-1-2) - 4 votes
+* [How to get first 3 elements with values per ordered row in Python](https://stackoverflow.com/questions/66625401/how-to-get-first-3-elements-with-values-per-ordered-row-in-python) - 3 votes
+* [Regroup the data in one dataframe using the information from another dataframe](https://stackoverflow.com/questions/66624817/regroup-the-data-in-one-dataframe-using-the-information-from-another-dataframe) - 3 votes
+* [How to group pandas dataframe by custom overlapping periods](https://stackoverflow.com/questions/66620092/how-to-group-pandas-dataframe-by-custom-overlapping-periods) - 2 votes
+* [Wrapping similar transformers with Pipeline and Column Transformer gives different results](https://stackoverflow.com/questions/66628038/wrapping-similar-transformers-with-pipeline-and-column-transformer-gives-differe) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Python Matplotlib Bars Starting from Negative YValues](https://stackoverflow.com/questions/66617296/python-matplotlib-bars-starting-from-negative-y-values) - 3 votes
-* [jupyter amp matplotlib  how to turn on and off the interactive mode on a figure](https://stackoverflow.com/questions/66609007/jupyter-matplotlib-how-to-turn-on-and-off-the-interactive-mode-on-a-figure) - 1 votes
+* [matplotlib  set the maximum yaxis value in bar chart](https://stackoverflow.com/questions/66629565/matplotlib-set-the-maximum-y-axis-value-in-bar-chart) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Circular barchart customization from rgraphgallery](https://stackoverflow.com/questions/66616495/circular-barchart-customization-from-r-graph-gallery) - 1 votes
-* [How to take percentages and make histogram in GGplot using results from tabyl](https://stackoverflow.com/questions/66610760/how-to-take-percentages-and-make-histogram-in-ggplot-using-results-from-tabyl) - 1 votes
+* [ggplot2 Label not showing with the geom_text function](https://stackoverflow.com/questions/66628313/ggplot2-label-not-showing-with-the-geom-text-function) - 2 votes
+* [R stuck on rendering in anim_save](https://stackoverflow.com/questions/66629505/r-stuck-on-rendering-in-anim-save) - 2 votes
+* [Line graph not connected after applying ggplotly](https://stackoverflow.com/questions/66624372/line-graph-not-connected-after-applying-ggplotly) - 2 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
