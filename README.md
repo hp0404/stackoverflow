@@ -1,37 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-15<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-16<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Python Pandas  highlighting cells in a dataframe](https://stackoverflow.com/questions/66636771/python-pandas-highlighting-cells-in-a-dataframe) - 4 votes
-* [Get index of column where consecutive values are zero in pandas df](https://stackoverflow.com/questions/66641594/get-index-of-column-where-consecutive-values-are-zero-in-pandas-df) - 3 votes
-* [Python search string contains characters](https://stackoverflow.com/questions/66639616/python-search-string-contains-characters) - 3 votes
-* [Group a dataframe on one column and take max from one column and its corresponding value from the other col](https://stackoverflow.com/questions/66638218/group-a-dataframe-on-one-column-and-take-max-from-one-column-and-its-correspondi) - 3 votes
-* [Split Pandas Column of type String using fixed width similar to Excel texttocolumns functionality with fixed width](https://stackoverflow.com/questions/66643122/split-pandas-column-of-type-string-using-fixed-width-similar-to-excel-text-to-c) - 3 votes
+* [Get dates where category change happened for each user in dataframe](https://stackoverflow.com/questions/66648842/get-dates-where-category-change-happened-for-each-user-in-dataframe) - 4 votes
+* [How do I map a column of string values in one dataframe to another column in another dataframe](https://stackoverflow.com/questions/66649173/how-do-i-map-a-column-of-string-values-in-one-dataframe-to-another-column-in-ano) - 2 votes
+* [How to use the gzip module to open a csv file](https://stackoverflow.com/questions/66648223/how-to-use-the-gzip-module-to-open-a-csv-file) - 2 votes
+* [Cumulative histogram plot from dataframe](https://stackoverflow.com/questions/66656013/cumulative-histogram-plot-from-dataframe) - 2 votes
+* [splitting column into multiple columns](https://stackoverflow.com/questions/66653654/splitting-column-into-multiple-columns) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Add legend to x y coordinates on the status bar](https://stackoverflow.com/questions/66643653/add-legend-to-x-y-coordinates-on-the-status-bar) - 1 votes
-* [How to insert Normal distribution in multiple subplots](https://stackoverflow.com/questions/66642788/how-to-insert-normal-distribution-in-multiple-subplots) - 1 votes
-* [quotonly size1 arrays can be converted to Python scalarsquot when I use the sin function](https://stackoverflow.com/questions/66642531/only-size-1-arrays-can-be-converted-to-python-scalars-when-i-use-the-sin-funct) - 1 votes
-* [How to add weighting and return parameters in logistic curve](https://stackoverflow.com/questions/66631481/how-to-add-weighting-and-return-parameters-in-logistic-curve) - 1 votes
+* [i can39t see the animation by using matplotlibanimation](https://stackoverflow.com/questions/66660332/i-cant-see-the-animation-by-using-matplotlib-animation) - 3 votes
+* [Cumulative histogram plot from dataframe](https://stackoverflow.com/questions/66656013/cumulative-histogram-plot-from-dataframe) - 2 votes
+* [hist2d stripes when saving as pdf](https://stackoverflow.com/questions/66660304/hist2d-stripes-when-saving-as-pdf) - 1 votes
+* [Use two colors to color different rows in seaborn heatmap split the rows into two](https://stackoverflow.com/questions/66656960/use-two-colors-to-color-different-rows-in-seaborn-heatmap-split-the-rows-into-tw) - 1 votes
+* [Create histogram with specific values in x and y](https://stackoverflow.com/questions/66655104/create-histogram-with-specific-values-in-x-and-y) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Can I combine an area graph and bar graph in the same plot ggplot2](https://stackoverflow.com/questions/66642139/can-i-combine-an-area-graph-and-bar-graph-in-the-same-plot-ggplot2) - 2 votes
-* [Are there any other additional fillable shapes in ggplot](https://stackoverflow.com/questions/66642492/are-there-any-other-additional-fillable-shapes-in-ggplot) - 1 votes
-* [show range in a log scale](https://stackoverflow.com/questions/66639128/show-range-in-a-log-scale) - 1 votes
-* [make the width scale of y axis proper size in R](https://stackoverflow.com/questions/66638998/make-the-width-scale-of-y-axis-proper-size-in-r) - 1 votes
+* [How to change the limits and divisions of the axes of each facet using ggplot2 Dealing with quoterror in xclone attempt to apply nonfunctionquot](https://stackoverflow.com/questions/66658012/how-to-change-the-limits-and-divisions-of-the-axes-of-each-facet-using-ggplot2) - 2 votes
+* [Removing borders around points in ggplot](https://stackoverflow.com/questions/66651195/removing-borders-around-points-in-ggplot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
