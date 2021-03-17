@@ -1,36 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-16<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-17<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Get dates where category change happened for each user in dataframe](https://stackoverflow.com/questions/66648842/get-dates-where-category-change-happened-for-each-user-in-dataframe) - 4 votes
-* [How do I map a column of string values in one dataframe to another column in another dataframe](https://stackoverflow.com/questions/66649173/how-do-i-map-a-column-of-string-values-in-one-dataframe-to-another-column-in-ano) - 2 votes
-* [How to use the gzip module to open a csv file](https://stackoverflow.com/questions/66648223/how-to-use-the-gzip-module-to-open-a-csv-file) - 2 votes
-* [Cumulative histogram plot from dataframe](https://stackoverflow.com/questions/66656013/cumulative-histogram-plot-from-dataframe) - 2 votes
-* [splitting column into multiple columns](https://stackoverflow.com/questions/66653654/splitting-column-into-multiple-columns) - 2 votes
+* [SplitExpand Dataframe based on column values](https://stackoverflow.com/questions/66676630/split-expand-dataframe-based-on-column-values) - 7 votes
+* [Regex to group words separated by space](https://stackoverflow.com/questions/66675837/regex-to-group-words-separated-by-space) - 7 votes
+* [Why does pdto_datetime use different default YMD based on whether format is specified](https://stackoverflow.com/questions/66679129/why-does-pd-to-datetime-use-different-default-y-m-d-based-on-whether-format-is-s) - 5 votes
+* [How to access two elements at once in a for loop without duplicates in python](https://stackoverflow.com/questions/66665762/how-to-access-two-elements-at-once-in-a-for-loop-without-duplicates-in-python) - 4 votes
+* [Python Pandas Drop rows from data frame if list of string value  none](https://stackoverflow.com/questions/66677499/python-pandas-drop-rows-from-data-frame-if-list-of-string-value-none) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [i can39t see the animation by using matplotlibanimation](https://stackoverflow.com/questions/66660332/i-cant-see-the-animation-by-using-matplotlib-animation) - 3 votes
-* [Cumulative histogram plot from dataframe](https://stackoverflow.com/questions/66656013/cumulative-histogram-plot-from-dataframe) - 2 votes
-* [hist2d stripes when saving as pdf](https://stackoverflow.com/questions/66660304/hist2d-stripes-when-saving-as-pdf) - 1 votes
-* [Use two colors to color different rows in seaborn heatmap split the rows into two](https://stackoverflow.com/questions/66656960/use-two-colors-to-color-different-rows-in-seaborn-heatmap-split-the-rows-into-tw) - 1 votes
-* [Create histogram with specific values in x and y](https://stackoverflow.com/questions/66655104/create-histogram-with-specific-values-in-x-and-y) - 1 votes
+* [Python  Scatter plot of dataframe values when row index and columns both are categories](https://stackoverflow.com/questions/66666797/python-scatter-plot-of-dataframe-values-when-row-index-and-columns-both-are-ca) - 2 votes
+* [How to add more levels to a level curve graph](https://stackoverflow.com/questions/66681043/how-to-add-more-levels-to-a-level-curve-graph) - 1 votes
+* [Matplotlib external axes ruin subplot layout](https://stackoverflow.com/questions/66673930/matplotlib-external-axes-ruin-subplot-layout) - 1 votes
+* [How to add a colorbar to seaborn boxplot](https://stackoverflow.com/questions/66679767/how-to-add-a-colorbar-to-seaborn-boxplot) - 1 votes
+* [Box and Whisker Plot with three bins per point](https://stackoverflow.com/questions/66679338/box-and-whisker-plot-with-three-bins-per-point) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to change the limits and divisions of the axes of each facet using ggplot2 Dealing with quoterror in xclone attempt to apply nonfunctionquot](https://stackoverflow.com/questions/66658012/how-to-change-the-limits-and-divisions-of-the-axes-of-each-facet-using-ggplot2) - 2 votes
-* [Removing borders around points in ggplot](https://stackoverflow.com/questions/66651195/removing-borders-around-points-in-ggplot) - 1 votes
+* [ggplot how to break the xaxis into months when data points are per week](https://stackoverflow.com/questions/66679393/ggplot-how-to-break-the-x-axis-into-months-when-data-points-are-per-week) - 3 votes
+* [GGPLOT Align Labels in Stacked Barplot with Subset of Data](https://stackoverflow.com/questions/66673452/ggplot-align-labels-in-stacked-barplot-with-subset-of-data) - 2 votes
+* [ggplot how to get a semitransparent fill in a geom_rect with a color different from other geoms fillalpha does not seem to work](https://stackoverflow.com/questions/66675708/ggplot-how-to-get-a-semi-transparent-fill-in-a-geom-rect-with-a-color-different) - 1 votes
+* [R  ggplot showing distribution of binary flag variable 01 over time as normalized bar chart ](https://stackoverflow.com/questions/66665669/r-ggplot-showing-distribution-of-binary-flag-variable-0-1-over-time-as-norma) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
