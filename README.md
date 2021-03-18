@@ -1,38 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-17<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-18<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [SplitExpand Dataframe based on column values](https://stackoverflow.com/questions/66676630/split-expand-dataframe-based-on-column-values) - 7 votes
-* [Regex to group words separated by space](https://stackoverflow.com/questions/66675837/regex-to-group-words-separated-by-space) - 7 votes
-* [Why does pdto_datetime use different default YMD based on whether format is specified](https://stackoverflow.com/questions/66679129/why-does-pd-to-datetime-use-different-default-y-m-d-based-on-whether-format-is-s) - 5 votes
-* [How to access two elements at once in a for loop without duplicates in python](https://stackoverflow.com/questions/66665762/how-to-access-two-elements-at-once-in-a-for-loop-without-duplicates-in-python) - 4 votes
-* [Python Pandas Drop rows from data frame if list of string value  none](https://stackoverflow.com/questions/66677499/python-pandas-drop-rows-from-data-frame-if-list-of-string-value-none) - 3 votes
+* [How to transfer multiple files from sub directories to a single path folder using python](https://stackoverflow.com/questions/66684491/how-to-transfer-multiple-files-from-sub-directories-to-a-single-path-folder-usin) - 5 votes
+* [Can I apply a function to multiple columns in Pandas dataframe without a for loop](https://stackoverflow.com/questions/66697125/can-i-apply-a-function-to-multiple-columns-in-pandas-dataframe-without-a-for-loo) - 3 votes
+* [Pandas Groupby dataframe and create dicts with missing data](https://stackoverflow.com/questions/66688299/pandas-groupby-dataframe-and-create-dicts-with-missing-data) - 3 votes
+* [Pandas resample n points on large dataframes](https://stackoverflow.com/questions/66686980/pandas-resample-n-points-on-large-dataframes) - 3 votes
+* [How to select values based on array39s index from another column](https://stackoverflow.com/questions/66695966/how-to-select-values-based-on-arrays-index-from-another-column) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Python  Scatter plot of dataframe values when row index and columns both are categories](https://stackoverflow.com/questions/66666797/python-scatter-plot-of-dataframe-values-when-row-index-and-columns-both-are-ca) - 2 votes
-* [How to add more levels to a level curve graph](https://stackoverflow.com/questions/66681043/how-to-add-more-levels-to-a-level-curve-graph) - 1 votes
-* [Matplotlib external axes ruin subplot layout](https://stackoverflow.com/questions/66673930/matplotlib-external-axes-ruin-subplot-layout) - 1 votes
-* [How to add a colorbar to seaborn boxplot](https://stackoverflow.com/questions/66679767/how-to-add-a-colorbar-to-seaborn-boxplot) - 1 votes
-* [Box and Whisker Plot with three bins per point](https://stackoverflow.com/questions/66679338/box-and-whisker-plot-with-three-bins-per-point) - 1 votes
+* [Multiple curves overshadowed by their fluctuations using matplotlib](https://stackoverflow.com/questions/66685451/multiple-curves-overshadowed-by-their-fluctuations-using-matplotlib) - 2 votes
+* [Is there a way to plot pie chart in matplotlib heatmap](https://stackoverflow.com/questions/66690896/is-there-a-way-to-plot-pie-chart-in-matplotlib-heatmap) - 1 votes
+* [Python  Can39t change xmargin in matplotlib  seaborn plots](https://stackoverflow.com/questions/66685713/python-cant-change-xmargin-in-matplotlib-seaborn-plots) - 1 votes
+* [Turning object columns except one into integer pdto_numeric not working data listed as object and errored as float](https://stackoverflow.com/questions/66684741/turning-object-columns-except-one-into-integer-pd-to-numeric-not-working-data) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [ggplot how to break the xaxis into months when data points are per week](https://stackoverflow.com/questions/66679393/ggplot-how-to-break-the-x-axis-into-months-when-data-points-are-per-week) - 3 votes
-* [GGPLOT Align Labels in Stacked Barplot with Subset of Data](https://stackoverflow.com/questions/66673452/ggplot-align-labels-in-stacked-barplot-with-subset-of-data) - 2 votes
-* [ggplot how to get a semitransparent fill in a geom_rect with a color different from other geoms fillalpha does not seem to work](https://stackoverflow.com/questions/66675708/ggplot-how-to-get-a-semi-transparent-fill-in-a-geom-rect-with-a-color-different) - 1 votes
-* [R  ggplot showing distribution of binary flag variable 01 over time as normalized bar chart ](https://stackoverflow.com/questions/66665669/r-ggplot-showing-distribution-of-binary-flag-variable-0-1-over-time-as-norma) - 1 votes
+* [View bar tags  axis text  labels with theme_void](https://stackoverflow.com/questions/66697297/view-bar-tags-axis-text-labels-with-theme-void) - 1 votes
+* [ggplot why does coord_cartesianxlim   not apply to scale_x_date](https://stackoverflow.com/questions/66686355/ggplot-why-does-coord-cartesianxlim-not-apply-to-scale-x-date) - 1 votes
+* [gganimate object too large to render](https://stackoverflow.com/questions/66696561/gganimate-object-too-large-to-render) - 1 votes
+* [control x axis of a violin plot in ggplot2](https://stackoverflow.com/questions/66691080/control-x-axis-of-a-violin-plot-in-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
