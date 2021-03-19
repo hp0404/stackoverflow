@@ -1,37 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-18<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-19<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to transfer multiple files from sub directories to a single path folder using python](https://stackoverflow.com/questions/66684491/how-to-transfer-multiple-files-from-sub-directories-to-a-single-path-folder-usin) - 5 votes
-* [Can I apply a function to multiple columns in Pandas dataframe without a for loop](https://stackoverflow.com/questions/66697125/can-i-apply-a-function-to-multiple-columns-in-pandas-dataframe-without-a-for-loo) - 3 votes
-* [Pandas Groupby dataframe and create dicts with missing data](https://stackoverflow.com/questions/66688299/pandas-groupby-dataframe-and-create-dicts-with-missing-data) - 3 votes
-* [Pandas resample n points on large dataframes](https://stackoverflow.com/questions/66686980/pandas-resample-n-points-on-large-dataframes) - 3 votes
-* [How to select values based on array39s index from another column](https://stackoverflow.com/questions/66695966/how-to-select-values-based-on-arrays-index-from-another-column) - 2 votes
+* [flatten group by columns with correct order](https://stackoverflow.com/questions/66709741/flatten-group-by-columns-with-correct-order) - 4 votes
+* [divide all columns by each column in pandas](https://stackoverflow.com/questions/66703500/divide-all-columns-by-each-column-in-pandas) - 4 votes
+* [How to remove a character from some rows in a dataframe column](https://stackoverflow.com/questions/66709418/how-to-remove-a-character-from-some-rows-in-a-dataframe-column) - 3 votes
+* [pandas plothist with groupby](https://stackoverflow.com/questions/66701446/pandas-plot-hist-with-groupby) - 3 votes
+* [Python How to select columns that contain specific months of a year](https://stackoverflow.com/questions/66710080/python-how-to-select-columns-that-contain-specific-months-of-a-year) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Multiple curves overshadowed by their fluctuations using matplotlib](https://stackoverflow.com/questions/66685451/multiple-curves-overshadowed-by-their-fluctuations-using-matplotlib) - 2 votes
-* [Is there a way to plot pie chart in matplotlib heatmap](https://stackoverflow.com/questions/66690896/is-there-a-way-to-plot-pie-chart-in-matplotlib-heatmap) - 1 votes
-* [Python  Can39t change xmargin in matplotlib  seaborn plots](https://stackoverflow.com/questions/66685713/python-cant-change-xmargin-in-matplotlib-seaborn-plots) - 1 votes
-* [Turning object columns except one into integer pdto_numeric not working data listed as object and errored as float](https://stackoverflow.com/questions/66684741/turning-object-columns-except-one-into-integer-pd-to-numeric-not-working-data) - 1 votes
+* [How to plot matplotlib quiver arrows over xaxis and yaxis  Python](https://stackoverflow.com/questions/66702229/how-to-plot-matplotlib-quiver-arrows-over-x-axis-and-y-axis-python) - 2 votes
+* [Seaborn Line Plot for plotting multiple parameters](https://stackoverflow.com/questions/66704053/seaborn-line-plot-for-plotting-multiple-parameters) - 1 votes
+* [Multithreading to draw multiple bounding boxes on a common figure figax with maltplotlib](https://stackoverflow.com/questions/66714616/multithreading-to-draw-multiple-bounding-boxes-on-a-common-figure-fig-ax-with) - 1 votes
+* [How to color for every array of x y points in the list](https://stackoverflow.com/questions/66708111/how-to-color-for-every-array-of-x-y-points-in-the-list) - 1 votes
+* [Creating subplots through a loop from a dataframe](https://stackoverflow.com/questions/66705955/creating-subplots-through-a-loop-from-a-dataframe) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [View bar tags  axis text  labels with theme_void](https://stackoverflow.com/questions/66697297/view-bar-tags-axis-text-labels-with-theme-void) - 1 votes
-* [ggplot why does coord_cartesianxlim   not apply to scale_x_date](https://stackoverflow.com/questions/66686355/ggplot-why-does-coord-cartesianxlim-not-apply-to-scale-x-date) - 1 votes
-* [gganimate object too large to render](https://stackoverflow.com/questions/66696561/gganimate-object-too-large-to-render) - 1 votes
-* [control x axis of a violin plot in ggplot2](https://stackoverflow.com/questions/66691080/control-x-axis-of-a-violin-plot-in-ggplot2) - 1 votes
+* [Change the color of legend elements in ggplot R](https://stackoverflow.com/questions/66701803/change-the-color-of-legend-elements-in-ggplot-r) - 3 votes
+* [Break ggplot2 into Windowsfacets with labels in alphabetical order](https://stackoverflow.com/questions/66711454/break-ggplot2-into-windows-facets-with-labels-in-alphabetical-order) - 2 votes
+* [R Plot several lines in the same plot ggplot  data tables or frames vs matrices](https://stackoverflow.com/questions/66714129/r-plot-several-lines-in-the-same-plot-ggplot-data-tables-or-frames-vs-matric) - 1 votes
+* [How can I make PCA vector arrows bold wider](https://stackoverflow.com/questions/66713320/how-can-i-make-pca-vector-arrows-bold-wider) - 1 votes
+* [How to merge color and fill aes on same legend in ggplot](https://stackoverflow.com/questions/66707398/how-to-merge-color-and-fill-aes-on-same-legend-in-ggplot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
