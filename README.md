@@ -1,39 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-19<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-20<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [flatten group by columns with correct order](https://stackoverflow.com/questions/66709741/flatten-group-by-columns-with-correct-order) - 4 votes
-* [divide all columns by each column in pandas](https://stackoverflow.com/questions/66703500/divide-all-columns-by-each-column-in-pandas) - 4 votes
-* [How to remove a character from some rows in a dataframe column](https://stackoverflow.com/questions/66709418/how-to-remove-a-character-from-some-rows-in-a-dataframe-column) - 3 votes
-* [pandas plothist with groupby](https://stackoverflow.com/questions/66701446/pandas-plot-hist-with-groupby) - 3 votes
-* [Python How to select columns that contain specific months of a year](https://stackoverflow.com/questions/66710080/python-how-to-select-columns-that-contain-specific-months-of-a-year) - 2 votes
+* [Python Pandas  Lookup a column value based on a cell value](https://stackoverflow.com/questions/66725269/python-pandas-lookup-a-column-value-based-on-a-cell-value) - 3 votes
+* [Combining Pandas Dataframes](https://stackoverflow.com/questions/66718979/combining-pandas-dataframes) - 3 votes
+* [Faster way of setting rows of DataFrame to NaN based on last index](https://stackoverflow.com/questions/66724101/faster-way-of-setting-rows-of-dataframe-to-nan-based-on-last-index) - 2 votes
+* [Pandas  New column based on the value of another column N rows back when N is stored in a column](https://stackoverflow.com/questions/66725758/pandas-new-column-based-on-the-value-of-another-column-n-rows-back-when-n-is) - 2 votes
+* [Multiplying pandas columns based on multiple conditions](https://stackoverflow.com/questions/66717869/multiplying-pandas-columns-based-on-multiple-conditions) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to plot matplotlib quiver arrows over xaxis and yaxis  Python](https://stackoverflow.com/questions/66702229/how-to-plot-matplotlib-quiver-arrows-over-x-axis-and-y-axis-python) - 2 votes
-* [Seaborn Line Plot for plotting multiple parameters](https://stackoverflow.com/questions/66704053/seaborn-line-plot-for-plotting-multiple-parameters) - 1 votes
-* [Multithreading to draw multiple bounding boxes on a common figure figax with maltplotlib](https://stackoverflow.com/questions/66714616/multithreading-to-draw-multiple-bounding-boxes-on-a-common-figure-fig-ax-with) - 1 votes
-* [How to color for every array of x y points in the list](https://stackoverflow.com/questions/66708111/how-to-color-for-every-array-of-x-y-points-in-the-list) - 1 votes
-* [Creating subplots through a loop from a dataframe](https://stackoverflow.com/questions/66705955/creating-subplots-through-a-loop-from-a-dataframe) - 1 votes
+* [Is there a way to color in a region of this normal distribution](https://stackoverflow.com/questions/66724640/is-there-a-way-to-color-in-a-region-of-this-normal-distribution) - 2 votes
+* [What is the most efficient way to create multiple subplots with statsmodelsapiqqplot](https://stackoverflow.com/questions/66722077/what-is-the-most-efficient-way-to-create-multiple-subplots-with-statsmodels-api) - 1 votes
+* [How to get the outer profile](https://stackoverflow.com/questions/66723006/how-to-get-the-outer-profile) - 1 votes
+* [Adjusting tick frequency of embedded Matplotlib graph in Tkinter](https://stackoverflow.com/questions/66718071/adjusting-tick-frequency-of-embedded-matplotlib-graph-in-tkinter) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Change the color of legend elements in ggplot R](https://stackoverflow.com/questions/66701803/change-the-color-of-legend-elements-in-ggplot-r) - 3 votes
-* [Break ggplot2 into Windowsfacets with labels in alphabetical order](https://stackoverflow.com/questions/66711454/break-ggplot2-into-windows-facets-with-labels-in-alphabetical-order) - 2 votes
-* [R Plot several lines in the same plot ggplot  data tables or frames vs matrices](https://stackoverflow.com/questions/66714129/r-plot-several-lines-in-the-same-plot-ggplot-data-tables-or-frames-vs-matric) - 1 votes
-* [How can I make PCA vector arrows bold wider](https://stackoverflow.com/questions/66713320/how-can-i-make-pca-vector-arrows-bold-wider) - 1 votes
-* [How to merge color and fill aes on same legend in ggplot](https://stackoverflow.com/questions/66707398/how-to-merge-color-and-fill-aes-on-same-legend-in-ggplot) - 1 votes
+* [How to make a boxplot on ggplot with two columns for my xaxis and two columns for my yaxis](https://stackoverflow.com/questions/66724368/how-to-make-a-boxplot-on-ggplot-with-two-columns-for-my-x-axis-and-two-columns-f) - 1 votes
+* [X and Y names from a melted object for aes](https://stackoverflow.com/questions/66719112/x-and-y-names-from-a-melted-object-for-aes) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
