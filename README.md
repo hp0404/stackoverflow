@@ -1,35 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-20<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-21<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Python Pandas  Lookup a column value based on a cell value](https://stackoverflow.com/questions/66725269/python-pandas-lookup-a-column-value-based-on-a-cell-value) - 3 votes
-* [Combining Pandas Dataframes](https://stackoverflow.com/questions/66718979/combining-pandas-dataframes) - 3 votes
-* [Faster way of setting rows of DataFrame to NaN based on last index](https://stackoverflow.com/questions/66724101/faster-way-of-setting-rows-of-dataframe-to-nan-based-on-last-index) - 2 votes
-* [Pandas  New column based on the value of another column N rows back when N is stored in a column](https://stackoverflow.com/questions/66725758/pandas-new-column-based-on-the-value-of-another-column-n-rows-back-when-n-is) - 2 votes
-* [Multiplying pandas columns based on multiple conditions](https://stackoverflow.com/questions/66717869/multiplying-pandas-columns-based-on-multiple-conditions) - 2 votes
+* [Sorting by data in another Dataframe](https://stackoverflow.com/questions/66734396/sorting-by-data-in-another-dataframe) - 4 votes
+* [Efficiently Remove all Zeroes from Pandas Dataframe](https://stackoverflow.com/questions/66733075/efficiently-remove-all-zeroes-from-pandas-dataframe) - 3 votes
+* [Pandas Group by reoccurring dates](https://stackoverflow.com/questions/66732543/pandas-group-by-reoccurring-dates) - 3 votes
+* [Python Attempting to make a matrix out of DataFrame from pandas](https://stackoverflow.com/questions/66728398/python-attempting-to-make-a-matrix-out-of-dataframe-from-pandas) - 3 votes
+* [How to input all the featues in one vector column](https://stackoverflow.com/questions/66732622/how-to-input-all-the-featues-in-one-vector-column) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Is there a way to color in a region of this normal distribution](https://stackoverflow.com/questions/66724640/is-there-a-way-to-color-in-a-region-of-this-normal-distribution) - 2 votes
-* [What is the most efficient way to create multiple subplots with statsmodelsapiqqplot](https://stackoverflow.com/questions/66722077/what-is-the-most-efficient-way-to-create-multiple-subplots-with-statsmodels-api) - 1 votes
-* [How to get the outer profile](https://stackoverflow.com/questions/66723006/how-to-get-the-outer-profile) - 1 votes
-* [Adjusting tick frequency of embedded Matplotlib graph in Tkinter](https://stackoverflow.com/questions/66718071/adjusting-tick-frequency-of-embedded-matplotlib-graph-in-tkinter) - 1 votes
+* [Customise plot labels in a loop](https://stackoverflow.com/questions/66729481/customise-plot-labels-in-a-loop) - 1 votes
+* [Displayed ticks on xaxis in Matplotlib using the bar plot](https://stackoverflow.com/questions/66733490/displayed-ticks-on-x-axis-in-matplotlib-using-the-bar-plot) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to make a boxplot on ggplot with two columns for my xaxis and two columns for my yaxis](https://stackoverflow.com/questions/66724368/how-to-make-a-boxplot-on-ggplot-with-two-columns-for-my-x-axis-and-two-columns-f) - 1 votes
-* [X and Y names from a melted object for aes](https://stackoverflow.com/questions/66719112/x-and-y-names-from-a-melted-object-for-aes) - 1 votes
+* [ggplot2 reorder x axis label by factor of levels doesn39t work](https://stackoverflow.com/questions/66733003/ggplot2-reorder-x-axis-label-by-factor-of-levels-doesnt-work) - 1 votes
+* [How to change facet options with sjPlot plot_model with multiple moderators or interactions](https://stackoverflow.com/questions/66729297/how-to-change-facet-options-with-sjplot-plot-model-with-multiple-moderators-or-i) - 1 votes
+* [dot syntax to access data in a ggplot2 layer](https://stackoverflow.com/questions/66736947/dot-syntax-to-access-data-in-a-ggplot2-layer) - 1 votes
+* [How to make a percent stacked barplot of interactions with ggplot](https://stackoverflow.com/questions/66736582/how-to-make-a-percent-stacked-barplot-of-interactions-with-ggplot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
