@@ -1,35 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-21<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-22<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Sorting by data in another Dataframe](https://stackoverflow.com/questions/66734396/sorting-by-data-in-another-dataframe) - 4 votes
-* [Efficiently Remove all Zeroes from Pandas Dataframe](https://stackoverflow.com/questions/66733075/efficiently-remove-all-zeroes-from-pandas-dataframe) - 3 votes
-* [Pandas Group by reoccurring dates](https://stackoverflow.com/questions/66732543/pandas-group-by-reoccurring-dates) - 3 votes
-* [Python Attempting to make a matrix out of DataFrame from pandas](https://stackoverflow.com/questions/66728398/python-attempting-to-make-a-matrix-out-of-dataframe-from-pandas) - 3 votes
-* [How to input all the featues in one vector column](https://stackoverflow.com/questions/66732622/how-to-input-all-the-featues-in-one-vector-column) - 2 votes
+* [Conditional statement  If statement with Dataframes](https://stackoverflow.com/questions/66750326/conditional-statement-if-statement-with-dataframes) - 3 votes
+* [Check if a row in one DataFrame exist in another BASED ON SPECIFIC COLUMNS ONLY](https://stackoverflow.com/questions/66753265/check-if-a-row-in-one-dataframe-exist-in-another-based-on-specific-columns-only) - 3 votes
+* [Change order of values in a column based on values of another column](https://stackoverflow.com/questions/66749973/change-order-of-values-in-a-column-based-on-values-of-another-column) - 2 votes
+* [How I can use replace and then make new rows in pandas](https://stackoverflow.com/questions/66749030/how-i-can-use-replace-and-then-make-new-rows-in-pandas) - 2 votes
+* [Is there a way to vectorize code that currently iterates over rows in a Pandas dataframe](https://stackoverflow.com/questions/66740957/is-there-a-way-to-vectorize-code-that-currently-iterates-over-rows-in-a-pandas-d) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Customise plot labels in a loop](https://stackoverflow.com/questions/66729481/customise-plot-labels-in-a-loop) - 1 votes
-* [Displayed ticks on xaxis in Matplotlib using the bar plot](https://stackoverflow.com/questions/66733490/displayed-ticks-on-x-axis-in-matplotlib-using-the-bar-plot) - 1 votes
+* [sklearn important features error when using logistic regression](https://stackoverflow.com/questions/66750706/sklearn-important-features-error-when-using-logistic-regression) - 1 votes
+* [Plotting different predictions with same column names and categories PythonSeaborn](https://stackoverflow.com/questions/66743368/plotting-different-predictions-with-same-column-names-and-categories-python-seab) - 1 votes
+* [PDF line in distribution fitting Python](https://stackoverflow.com/questions/66740740/pdf-line-in-distribution-fitting-python) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [ggplot2 reorder x axis label by factor of levels doesn39t work](https://stackoverflow.com/questions/66733003/ggplot2-reorder-x-axis-label-by-factor-of-levels-doesnt-work) - 1 votes
-* [How to change facet options with sjPlot plot_model with multiple moderators or interactions](https://stackoverflow.com/questions/66729297/how-to-change-facet-options-with-sjplot-plot-model-with-multiple-moderators-or-i) - 1 votes
-* [dot syntax to access data in a ggplot2 layer](https://stackoverflow.com/questions/66736947/dot-syntax-to-access-data-in-a-ggplot2-layer) - 1 votes
-* [How to make a percent stacked barplot of interactions with ggplot](https://stackoverflow.com/questions/66736582/how-to-make-a-percent-stacked-barplot-of-interactions-with-ggplot) - 1 votes
+* [How can I adjust the size of two ggplots with a fixed aspect ratio in gridExtra](https://stackoverflow.com/questions/66752162/how-can-i-adjust-the-size-of-two-ggplots-with-a-fixed-aspect-ratio-in-gridextra) - 2 votes
+* [Why does changing the label mess up my plot](https://stackoverflow.com/questions/66746124/why-does-changing-the-label-mess-up-my-plot) - 2 votes
+* [ggplot2 geom_density_2d allows to fill by factors but not by values](https://stackoverflow.com/questions/66750303/ggplot2-geom-density-2d-allows-to-fill-by-factors-but-not-by-values) - 2 votes
+* [using subscript in legend](https://stackoverflow.com/questions/66749928/using-subscript-in-legend) - 1 votes
+* [How to make ggplot colors more distinct and colorblind friendly](https://stackoverflow.com/questions/66748997/how-to-make-ggplot-colors-more-distinct-and-colorblind-friendly) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
