@@ -1,38 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-25<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-26<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas check if value in one multiindex column is in any column same row of different multiindex](https://stackoverflow.com/questions/66802094/pandas-check-if-value-in-one-multiindex-column-is-in-any-column-same-row-of-dif) - 8 votes
-* [Getting active contracts by date in Pandas](https://stackoverflow.com/questions/66806126/getting-active-contracts-by-date-in-pandas) - 4 votes
-* [pandas derive missing values in column based on values in another column](https://stackoverflow.com/questions/66797933/pandas-derive-missing-values-in-column-based-on-values-in-another-column) - 4 votes
-* [How can I find the nearest value of a pandas element compared with another entire column](https://stackoverflow.com/questions/66804449/how-can-i-find-the-nearest-value-of-a-pandas-element-compared-with-another-entir) - 4 votes
-* [Python join dataframes by index](https://stackoverflow.com/questions/66801168/python-join-dataframes-by-index) - 4 votes
+* [Merge by looking up multiple column values](https://stackoverflow.com/questions/66809518/merge-by-looking-up-multiple-column-values) - 5 votes
+* [Custom sorting of df](https://stackoverflow.com/questions/66817493/custom-sorting-of-df) - 3 votes
+* [Concatenating Time Column Headers with Corresponding dates in rows in a DataFrame Pandas](https://stackoverflow.com/questions/66816983/concatenating-time-column-headers-with-corresponding-dates-in-rows-in-a-datafram) - 3 votes
+* [python pandas data frame assign function return tuple to two columns of a data frame](https://stackoverflow.com/questions/66822968/python-pandas-data-frame-assign-function-return-tuple-to-two-columns-of-a-data) - 2 votes
+* [matplotlib DateFormatter not showing correct dates with yyyymmdd column](https://stackoverflow.com/questions/66809866/matplotlib-dateformatter-not-showing-correct-dates-with-yyyy-mm-dd-column) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Why is the figure size yaxis fluctuating in this example](https://stackoverflow.com/questions/66802616/why-is-the-figure-size-y-axis-fluctuating-in-this-example) - 3 votes
-* [How do I change the font type of the text in a Matplotlib table](https://stackoverflow.com/questions/66801705/how-do-i-change-the-font-type-of-the-text-in-a-matplotlib-table) - 2 votes
-* [python adding title to individual axis in Seaborn](https://stackoverflow.com/questions/66791857/python-adding-title-to-individual-axis-in-seaborn) - 1 votes
-* [I want to increase the maximum number of notations of searborn clustermap row](https://stackoverflow.com/questions/66802835/i-want-to-increase-the-maximum-number-of-notations-of-searborn-clustermap-row) - 1 votes
+* [How can I use the formatters to make custom ticks in matplotlib](https://stackoverflow.com/questions/66817786/how-can-i-use-the-formatters-to-make-custom-ticks-in-matplotlib) - 2 votes
+* [matplotlib DateFormatter not showing correct dates with yyyymmdd column](https://stackoverflow.com/questions/66809866/matplotlib-dateformatter-not-showing-correct-dates-with-yyyy-mm-dd-column) - 2 votes
+* [DecisiontreeClassifier why is the sum of values wrong](https://stackoverflow.com/questions/66814510/decisiontreeclassifier-why-is-the-sum-of-values-wrong) - 2 votes
+* [Histogram using plot in Pandas  set x label](https://stackoverflow.com/questions/66820330/histogram-using-plot-in-pandas-set-x-label) - 1 votes
+* [What would be the best way to plot a dataset with months as x ticks](https://stackoverflow.com/questions/66811331/what-would-be-the-best-way-to-plot-a-dataset-with-months-as-x-ticks) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Combining scale_colour and scale_fill in same function](https://stackoverflow.com/questions/66801900/combining-scale-colour-and-scale-fill-in-same-function) - 2 votes
-* [Plotting dr4pl dose response curves and how to integrate them with ggplot2](https://stackoverflow.com/questions/66806526/plotting-dr4pl-dose-response-curves-and-how-to-integrate-them-with-ggplot2) - 2 votes
-* [Reduce lineheight in R ggplot in geom_label and geom_text when linebreaking with n](https://stackoverflow.com/questions/66794074/reduce-line-height-in-r-ggplot-in-geom-label-and-geom-text-when-line-breaki) - 1 votes
-* [Assign custom colors to each plot of facet_wrap histograms in R  ggplot](https://stackoverflow.com/questions/66795094/assign-custom-colors-to-each-plot-of-facet-wrap-histograms-in-r-ggplot) - 1 votes
-* [ggplot2 How to split legend by color into a customized legend](https://stackoverflow.com/questions/66804487/ggplot2-how-to-split-legend-by-color-into-a-customized-legend) - 1 votes
+* [How make line red when the value is below zero and green when above](https://stackoverflow.com/questions/66817508/how-make-line-red-when-the-value-is-below-zero-and-green-when-above) - 2 votes
+* [Consistent mapping from value to color in ggplot](https://stackoverflow.com/questions/66814794/consistent-mapping-from-value-to-color-in-ggplot) - 1 votes
+* [Why is ggplot geom_ribbon  area failing with facets amp coord_polar with specific data](https://stackoverflow.com/questions/66821598/why-is-ggplot-geom-ribbon-area-failing-with-facets-coord-polar-with-specific) - 1 votes
+* [plot different metrics in ggplot based on a string vector](https://stackoverflow.com/questions/66820482/plot-different-metrics-in-ggplot-based-on-a-string-vector) - 1 votes
+* [Plot table next to plot and below legend in ggplot2](https://stackoverflow.com/questions/66813118/plot-table-next-to-plot-and-below-legend-in-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
