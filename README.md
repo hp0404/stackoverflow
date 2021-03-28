@@ -1,35 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-27<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-28<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to access and then compare the values of individual cells in a pandas dataframe](https://stackoverflow.com/questions/66831492/how-to-access-and-then-compare-the-values-of-individual-cells-in-a-pandas-datafr) - 3 votes
-* [Finding the smallest n values that are at least x apart in a list](https://stackoverflow.com/questions/66834250/finding-the-smallest-n-values-that-are-at-least-x-apart-in-a-list) - 3 votes
-* [Combine columns in Pandas consisting of numpy arrays](https://stackoverflow.com/questions/66833953/combine-columns-in-pandas-consisting-of-numpy-arrays) - 2 votes
-* [Create a new column by adding matching cell content in pandas](https://stackoverflow.com/questions/66829754/create-a-new-column-by-adding-matching-cell-content-in-pandas) - 2 votes
-* [Centering a table with a heatmap](https://stackoverflow.com/questions/66825885/centering-a-table-with-a-heatmap) - 2 votes
+* [ANSI SQL equivalent of pandas factorize](https://stackoverflow.com/questions/66839602/ansi-sql-equivalent-of-pandas-factorize) - 4 votes
+* [Plot all dictionary points on a scatter plot in python](https://stackoverflow.com/questions/66838712/plot-all-dictionary-points-on-a-scatter-plot-in-python) - 3 votes
+* [Panda Dataframe Floating Point Comparison Issue](https://stackoverflow.com/questions/66839780/panda-dataframe-floating-point-comparison-issue) - 3 votes
+* [Merge overlapping datetime intervals](https://stackoverflow.com/questions/66840175/merge-overlapping-datetime-intervals) - 3 votes
+* [How can I scale a pandas dataframe based on rowcolumn scaling factors defined in another dataframe](https://stackoverflow.com/questions/66838167/how-can-i-scale-a-pandas-dataframe-based-on-row-column-scaling-factors-defined-i) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Centering a table with a heatmap](https://stackoverflow.com/questions/66825885/centering-a-table-with-a-heatmap) - 2 votes
-* [Rescaling image formula with arrays](https://stackoverflow.com/questions/66827978/rescaling-image-formula-with-arrays) - 2 votes
-* [Seaborn heatmap with a custom legend](https://stackoverflow.com/questions/66830956/seaborn-heatmap-with-a-custom-legend) - 1 votes
-* [Trying to fill draw polygons from matplotlib contourf but they don39t seem closed](https://stackoverflow.com/questions/66835055/trying-to-fill-draw-polygons-from-matplotlib-contourf-but-they-dont-seem-clos) - 1 votes
-* [How can I annotate textmark in matplotlib based on an if condition](https://stackoverflow.com/questions/66833120/how-can-i-annotate-text-mark-in-matplotlib-based-on-an-if-condition) - 1 votes
+* [Plot all dictionary points on a scatter plot in python](https://stackoverflow.com/questions/66838712/plot-all-dictionary-points-on-a-scatter-plot-in-python) - 3 votes
+* [Unable to display output from matplotlib using conda through WSL](https://stackoverflow.com/questions/66837604/unable-to-display-output-from-matplotlib-using-conda-through-wsl) - 2 votes
+* [Plots in matplotlib overlapping when I39m sending two requests at the same time](https://stackoverflow.com/questions/66844093/plots-in-matplotlib-overlapping-when-im-sending-two-requests-at-the-same-time) - 1 votes
+* [How to change node positions in networkx graph](https://stackoverflow.com/questions/66843880/how-to-change-node-positions-in-networkx-graph) - 1 votes
+* [Categorical axis labels instead of numbers for box plot](https://stackoverflow.com/questions/66838482/categorical-axis-labels-instead-of-numbers-for-box-plot) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-
+* [Whats the right way to add text to geom_histogram in ggplot](https://stackoverflow.com/questions/66841848/whats-the-right-way-to-add-text-to-geom-histogram-in-ggplot) - 2 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
