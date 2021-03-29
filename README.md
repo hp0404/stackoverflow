@@ -1,35 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-28<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-29<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [ANSI SQL equivalent of pandas factorize](https://stackoverflow.com/questions/66839602/ansi-sql-equivalent-of-pandas-factorize) - 4 votes
-* [Plot all dictionary points on a scatter plot in python](https://stackoverflow.com/questions/66838712/plot-all-dictionary-points-on-a-scatter-plot-in-python) - 3 votes
-* [Panda Dataframe Floating Point Comparison Issue](https://stackoverflow.com/questions/66839780/panda-dataframe-floating-point-comparison-issue) - 3 votes
-* [Merge overlapping datetime intervals](https://stackoverflow.com/questions/66840175/merge-overlapping-datetime-intervals) - 3 votes
-* [How can I scale a pandas dataframe based on rowcolumn scaling factors defined in another dataframe](https://stackoverflow.com/questions/66838167/how-can-i-scale-a-pandas-dataframe-based-on-row-column-scaling-factors-defined-i) - 2 votes
+* [Pandas normalise by column on groupby](https://stackoverflow.com/questions/66853103/pandas-normalise-by-column-on-groupby) - 3 votes
+* [How to group multiple dataframe colmuns yearwise](https://stackoverflow.com/questions/66848067/how-to-group-multiple-dataframe-colmuns-year-wise) - 3 votes
+* [Counting number of columns that have value in python](https://stackoverflow.com/questions/66856965/counting-number-of-columns-that-have-value-in-python) - 2 votes
+* [Pandas group by and aggregate on custom function](https://stackoverflow.com/questions/66861442/pandas-group-by-and-aggregate-on-custom-function) - 2 votes
+* [Identify duplicates from a rolling time window in Pandas Dataframe](https://stackoverflow.com/questions/66847995/identify-duplicates-from-a-rolling-time-window-in-pandas-dataframe) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Plot all dictionary points on a scatter plot in python](https://stackoverflow.com/questions/66838712/plot-all-dictionary-points-on-a-scatter-plot-in-python) - 3 votes
-* [Unable to display output from matplotlib using conda through WSL](https://stackoverflow.com/questions/66837604/unable-to-display-output-from-matplotlib-using-conda-through-wsl) - 2 votes
-* [Plots in matplotlib overlapping when I39m sending two requests at the same time](https://stackoverflow.com/questions/66844093/plots-in-matplotlib-overlapping-when-im-sending-two-requests-at-the-same-time) - 1 votes
-* [How to change node positions in networkx graph](https://stackoverflow.com/questions/66843880/how-to-change-node-positions-in-networkx-graph) - 1 votes
-* [Categorical axis labels instead of numbers for box plot](https://stackoverflow.com/questions/66838482/categorical-axis-labels-instead-of-numbers-for-box-plot) - 1 votes
+* [Extracting values needed for a histogram heatmap from an array](https://stackoverflow.com/questions/66859229/extracting-values-needed-for-a-histogram-heatmap-from-an-array) - 3 votes
+* [How do I fix the Y axis What is this problem](https://stackoverflow.com/questions/66857384/how-do-i-fix-the-y-axis-what-is-this-problem) - 1 votes
+* [Matplotlib doesn39t display correctly in Visual Studio Code](https://stackoverflow.com/questions/66857744/matplotlib-doesnt-display-correctly-in-visual-studio-code) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Whats the right way to add text to geom_histogram in ggplot](https://stackoverflow.com/questions/66841848/whats-the-right-way-to-add-text-to-geom-histogram-in-ggplot) - 2 votes
+* [ggplot background image across geofacets](https://stackoverflow.com/questions/66854769/ggplot-background-image-across-geofacets) - 1 votes
+* [Hiding plotly tooltip color traces](https://stackoverflow.com/questions/66854606/hiding-plotly-tooltip-color-traces) - 1 votes
+* [LaTeX does not render in plot created with ggplotly when generating HTML document from R markdown](https://stackoverflow.com/questions/66851331/latex-does-not-render-in-plot-created-with-ggplotly-when-generating-html-documen) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
