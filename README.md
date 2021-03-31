@@ -1,36 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-30<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-31<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to count string in columns using pandas](https://stackoverflow.com/questions/66865766/how-to-count-string-in-columns-using-pandas) - 5 votes
-* [Splitting a cell in pandas into multiple rows](https://stackoverflow.com/questions/66865578/splitting-a-cell-in-pandas-into-multiple-rows) - 4 votes
-* [Pandas check if column value is unique](https://stackoverflow.com/questions/66869710/pandas-check-if-column-value-is-unique) - 3 votes
-* [How to fill missing values by using different conditions](https://stackoverflow.com/questions/66875735/how-to-fill-missing-values-by-using-different-conditions) - 3 votes
-* [Explode the rows based on integer in pandas](https://stackoverflow.com/questions/66874879/explode-the-rows-based-on-integer-in-pandas) - 3 votes
+* [How to split the string by 3939 and reform it by the split substrings in a dataframe in Python](https://stackoverflow.com/questions/66889932/how-to-split-the-string-by-and-reform-it-by-the-split-substrings-in-a-datafr) - 4 votes
+* [Bar chart with separate bars for positive and negative values](https://stackoverflow.com/questions/66882233/bar-chart-with-separate-bars-for-positive-and-negative-values) - 3 votes
+* [how to get index of closets match elements in list](https://stackoverflow.com/questions/66892092/how-to-get-index-of-closets-match-elements-in-list) - 2 votes
+* [How to split text inside a pandas dataframe into new dataframe columns](https://stackoverflow.com/questions/66882425/how-to-split-text-inside-a-pandas-dataframe-into-new-dataframe-columns) - 2 votes
+* [turn single header in pandas dataframe to multiple headers](https://stackoverflow.com/questions/66881700/turn-single-header-in-pandas-dataframe-to-multiple-headers) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to change the size of pie chart traces](https://stackoverflow.com/questions/66865595/how-to-change-the-size-of-pie-chart-traces) - 1 votes
-* [Why is my correlation matrix displaying a fully white picture](https://stackoverflow.com/questions/66873860/why-is-my-correlation-matrix-displaying-a-fully-white-picture) - 1 votes
-* [How to solve this Python AttributeError module 39matplotlib39 has no attribute 39get_data_path39 in JupyterLab 30gt](https://stackoverflow.com/questions/66868188/how-to-solve-this-python-attributeerror-module-matplotlib-has-no-attribute-g) - 1 votes
+* [How to shift matplotlib annotations after creating them](https://stackoverflow.com/questions/66883325/how-to-shift-matplotlib-annotations-after-creating-them) - 3 votes
+* [check if coordinates are overlapping using numpy matplotlib](https://stackoverflow.com/questions/66881741/check-if-coordinates-are-overlapping-using-numpy-matplotlib) - 1 votes
+* [How to write xaxis labels in scientific notation](https://stackoverflow.com/questions/66891832/how-to-write-xaxis-labels-in-scientific-notation) - 1 votes
+* [is there possible to create ylim just show number following the data](https://stackoverflow.com/questions/66887352/is-there-possible-to-create-ylim-just-show-number-following-the-data) - 1 votes
+* [Positioning and Stretching Matplotlib floating_axesFloatingSubplot Axis](https://stackoverflow.com/questions/66881013/positioning-and-stretching-matplotlib-floating-axes-floatingsubplot-axis) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to fill points from 2 different sets of colours in ggplot](https://stackoverflow.com/questions/66873314/how-to-fill-points-from-2-different-sets-of-colours-in-ggplot) - 2 votes
-* [Changing the Yscale using coord_polar](https://stackoverflow.com/questions/66868756/changing-the-y-scale-using-coord-polar) - 2 votes
-* [Multirow xaxis with separator between them in ggplot](https://stackoverflow.com/questions/66873309/multi-row-x-axis-with-separator-between-them-in-ggplot) - 1 votes
-* [How do I control an unbalanced color scale with scale_fill_continuous_divergingx where one end should be logarithmic](https://stackoverflow.com/questions/66871482/how-do-i-control-an-unbalanced-color-scale-with-scale-fill-continuous-divergingx) - 1 votes
+* [rotate ggplot2 maps to arbitrary angles](https://stackoverflow.com/questions/66889558/rotate-ggplot2-maps-to-arbitrary-angles) - 4 votes
+* [When using a color transformation in ggplot2 change the legend gradient instead of the legend break positions](https://stackoverflow.com/questions/66893928/when-using-a-color-transformation-in-ggplot2-change-the-legend-gradient-instead) - 2 votes
+* [Annotate several regression lines produced with geom_smooth](https://stackoverflow.com/questions/66893846/annotate-several-regression-lines-produced-with-geom-smooth) - 2 votes
+* [ggplot2 get rid of confidence interval](https://stackoverflow.com/questions/66883275/ggplot2-get-rid-of-confidence-interval) - 1 votes
+* [How to prevent gridExtragridarrage from automatically scaling the x axis in R](https://stackoverflow.com/questions/66880413/how-to-prevent-gridextragrid-arrage-from-automatically-scaling-the-x-axis-in-r) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
