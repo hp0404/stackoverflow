@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-03-31<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-01<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to split the string by 3939 and reform it by the split substrings in a dataframe in Python](https://stackoverflow.com/questions/66889932/how-to-split-the-string-by-and-reform-it-by-the-split-substrings-in-a-datafr) - 4 votes
-* [Bar chart with separate bars for positive and negative values](https://stackoverflow.com/questions/66882233/bar-chart-with-separate-bars-for-positive-and-negative-values) - 3 votes
-* [how to get index of closets match elements in list](https://stackoverflow.com/questions/66892092/how-to-get-index-of-closets-match-elements-in-list) - 2 votes
-* [How to split text inside a pandas dataframe into new dataframe columns](https://stackoverflow.com/questions/66882425/how-to-split-text-inside-a-pandas-dataframe-into-new-dataframe-columns) - 2 votes
-* [turn single header in pandas dataframe to multiple headers](https://stackoverflow.com/questions/66881700/turn-single-header-in-pandas-dataframe-to-multiple-headers) - 2 votes
+* [Groupby pandas but perform calculation on multiple columns](https://stackoverflow.com/questions/66910047/groupby-pandas-but-perform-calculation-on-multiple-columns) - 4 votes
+* [Pandas new column using a existing column and a dictionary](https://stackoverflow.com/questions/66909332/pandas-new-column-using-a-existing-column-and-a-dictionary) - 3 votes
+* [TypeError PYOMO Defining constraints based on pandas dataframe](https://stackoverflow.com/questions/66903101/typeerror-pyomo-defining-constraints-based-on-pandas-dataframe) - 3 votes
+* [Create column that shows distinct count of another column for its own group in DAX or Python](https://stackoverflow.com/questions/66908781/create-column-that-shows-distinct-count-of-another-column-for-its-own-group-in-d) - 2 votes
+* [Elegant and efficient way to replace multiple terms in a pandas column](https://stackoverflow.com/questions/66905690/elegant-and-efficient-way-to-replace-multiple-terms-in-a-pandas-column) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to shift matplotlib annotations after creating them](https://stackoverflow.com/questions/66883325/how-to-shift-matplotlib-annotations-after-creating-them) - 3 votes
-* [check if coordinates are overlapping using numpy matplotlib](https://stackoverflow.com/questions/66881741/check-if-coordinates-are-overlapping-using-numpy-matplotlib) - 1 votes
-* [How to write xaxis labels in scientific notation](https://stackoverflow.com/questions/66891832/how-to-write-xaxis-labels-in-scientific-notation) - 1 votes
-* [is there possible to create ylim just show number following the data](https://stackoverflow.com/questions/66887352/is-there-possible-to-create-ylim-just-show-number-following-the-data) - 1 votes
-* [Positioning and Stretching Matplotlib floating_axesFloatingSubplot Axis](https://stackoverflow.com/questions/66881013/positioning-and-stretching-matplotlib-floating-axes-floatingsubplot-axis) - 1 votes
+* [axfill_between how to blend overlapping colors](https://stackoverflow.com/questions/66902694/ax-fill-between-how-to-blend-overlapping-colors) - 2 votes
+* [Set colorpalette in Seaborn Grouped Barplot depending on values](https://stackoverflow.com/questions/66905822/set-color-palette-in-seaborn-grouped-barplot-depending-on-values) - 1 votes
+* [How can I suppress weekend days on matplot datetime index](https://stackoverflow.com/questions/66910139/how-can-i-suppress-weekend-days-on-matplot-datetime-index) - 1 votes
+* [Matplotlib 3d barchart plots some bars out of sequence](https://stackoverflow.com/questions/66910034/matplotlib-3d-barchart-plots-some-bars-out-of-sequence) - 1 votes
+* [Updated How do I plot letters of varying fonts in straightline using the word cloud function in Python](https://stackoverflow.com/questions/66906973/updated-how-do-i-plot-letters-of-varying-fonts-in-straight-line-using-the-word) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [rotate ggplot2 maps to arbitrary angles](https://stackoverflow.com/questions/66889558/rotate-ggplot2-maps-to-arbitrary-angles) - 4 votes
-* [When using a color transformation in ggplot2 change the legend gradient instead of the legend break positions](https://stackoverflow.com/questions/66893928/when-using-a-color-transformation-in-ggplot2-change-the-legend-gradient-instead) - 2 votes
-* [Annotate several regression lines produced with geom_smooth](https://stackoverflow.com/questions/66893846/annotate-several-regression-lines-produced-with-geom-smooth) - 2 votes
-* [ggplot2 get rid of confidence interval](https://stackoverflow.com/questions/66883275/ggplot2-get-rid-of-confidence-interval) - 1 votes
-* [How to prevent gridExtragridarrage from automatically scaling the x axis in R](https://stackoverflow.com/questions/66880413/how-to-prevent-gridextragrid-arrage-from-automatically-scaling-the-x-axis-in-r) - 1 votes
+* [Increase breaks in discrete legend](https://stackoverflow.com/questions/66903039/increase-breaks-in-discrete-legend) - 2 votes
+* [How to force facet_wrap to draw last panel in right bottom corner and leave the white gap](https://stackoverflow.com/questions/66906245/how-to-force-facet-wrap-to-draw-last-panel-in-right-bottom-corner-and-leave-the) - 2 votes
+* [How to change the label angle in ggh4x package after using scale_x_discrete](https://stackoverflow.com/questions/66898266/how-to-change-the-label-angle-in-ggh4x-package-after-using-scale-x-discrete) - 1 votes
+* [Minimize or remove discontinuous axis white spaces or ideally alter axis scaling  trying to find a solution  R](https://stackoverflow.com/questions/66908897/minimize-or-remove-discontinuous-axis-white-spaces-or-ideally-alter-axis-scalin) - 1 votes
+* [facet_wrap_paginate x axis off place in last page](https://stackoverflow.com/questions/66907933/facet-wrap-paginate-x-axis-off-place-in-last-page) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
