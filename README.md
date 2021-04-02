@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-01<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-02<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Groupby pandas but perform calculation on multiple columns](https://stackoverflow.com/questions/66910047/groupby-pandas-but-perform-calculation-on-multiple-columns) - 4 votes
-* [Pandas new column using a existing column and a dictionary](https://stackoverflow.com/questions/66909332/pandas-new-column-using-a-existing-column-and-a-dictionary) - 3 votes
-* [TypeError PYOMO Defining constraints based on pandas dataframe](https://stackoverflow.com/questions/66903101/typeerror-pyomo-defining-constraints-based-on-pandas-dataframe) - 3 votes
-* [Create column that shows distinct count of another column for its own group in DAX or Python](https://stackoverflow.com/questions/66908781/create-column-that-shows-distinct-count-of-another-column-for-its-own-group-in-d) - 2 votes
-* [Elegant and efficient way to replace multiple terms in a pandas column](https://stackoverflow.com/questions/66905690/elegant-and-efficient-way-to-replace-multiple-terms-in-a-pandas-column) - 2 votes
+* [How can i drop duplicates row from pandas dataframe but just in some range](https://stackoverflow.com/questions/66924127/how-can-i-drop-duplicates-row-from-pandas-dataframe-but-just-in-some-range) - 3 votes
+* [How to count number of unique groups missing information in a groupby](https://stackoverflow.com/questions/66924508/how-to-count-number-of-unique-groups-missing-information-in-a-groupby) - 3 votes
+* [How to store synonyms as column in data frame](https://stackoverflow.com/questions/66917904/how-to-store-synonyms-as-column-in-data-frame) - 3 votes
+* [pandas agg with custom aggregation function and dtype condition column disappears silently](https://stackoverflow.com/questions/66922659/pandas-agg-with-custom-aggregation-function-and-dtype-condition-column-disappea) - 2 votes
+* [How can I speed up this dataframe](https://stackoverflow.com/questions/66915742/how-can-i-speed-up-this-dataframe) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [axfill_between how to blend overlapping colors](https://stackoverflow.com/questions/66902694/ax-fill-between-how-to-blend-overlapping-colors) - 2 votes
-* [Set colorpalette in Seaborn Grouped Barplot depending on values](https://stackoverflow.com/questions/66905822/set-color-palette-in-seaborn-grouped-barplot-depending-on-values) - 1 votes
-* [How can I suppress weekend days on matplot datetime index](https://stackoverflow.com/questions/66910139/how-can-i-suppress-weekend-days-on-matplot-datetime-index) - 1 votes
-* [Matplotlib 3d barchart plots some bars out of sequence](https://stackoverflow.com/questions/66910034/matplotlib-3d-barchart-plots-some-bars-out-of-sequence) - 1 votes
-* [Updated How do I plot letters of varying fonts in straightline using the word cloud function in Python](https://stackoverflow.com/questions/66906973/updated-how-do-i-plot-letters-of-varying-fonts-in-straight-line-using-the-word) - 1 votes
+* [Is there any way to get unit vector in matplotlib](https://stackoverflow.com/questions/66915838/is-there-any-way-to-get-unit-vector-in-matplotlib) - 2 votes
+* [Plotting multiple lines onto one graph from for loop](https://stackoverflow.com/questions/66913651/plotting-multiple-lines-onto-one-graph-from-for-loop) - 2 votes
+* [How do I dynamically update matplotlib plots in a tqdmloop inside a Jupyter notebook](https://stackoverflow.com/questions/66914972/how-do-i-dynamically-update-matplotlib-plots-in-a-tqdm-loop-inside-a-jupyter-not) - 1 votes
+* [How to mix the outliers from boxplot or not with violin plot](https://stackoverflow.com/questions/66913456/how-to-mix-the-outliers-from-boxplot-or-not-with-violin-plot) - 1 votes
+* [How do I make the default matplotlib cursor 3939 span the entire xaxes](https://stackoverflow.com/questions/66913391/how-do-i-make-the-default-matplotlib-cursor-span-the-entire-x-axes) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Increase breaks in discrete legend](https://stackoverflow.com/questions/66903039/increase-breaks-in-discrete-legend) - 2 votes
-* [How to force facet_wrap to draw last panel in right bottom corner and leave the white gap](https://stackoverflow.com/questions/66906245/how-to-force-facet-wrap-to-draw-last-panel-in-right-bottom-corner-and-leave-the) - 2 votes
-* [How to change the label angle in ggh4x package after using scale_x_discrete](https://stackoverflow.com/questions/66898266/how-to-change-the-label-angle-in-ggh4x-package-after-using-scale-x-discrete) - 1 votes
-* [Minimize or remove discontinuous axis white spaces or ideally alter axis scaling  trying to find a solution  R](https://stackoverflow.com/questions/66908897/minimize-or-remove-discontinuous-axis-white-spaces-or-ideally-alter-axis-scalin) - 1 votes
-* [facet_wrap_paginate x axis off place in last page](https://stackoverflow.com/questions/66907933/facet-wrap-paginate-x-axis-off-place-in-last-page) - 1 votes
+* [Change title mcmc_trace function with ggplot](https://stackoverflow.com/questions/66920925/change-title-mcmc-trace-function-with-ggplot) - 1 votes
+* [Store plotly tooltip information outside of ggplot object](https://stackoverflow.com/questions/66919633/store-plotly-tooltip-information-outside-of-ggplot-object) - 1 votes
+* [Remove connecting line between first and last record of ggplot](https://stackoverflow.com/questions/66916337/remove-connecting-line-between-first-and-last-record-of-ggplot) - 1 votes
+* [ggplot scale_fill_stepsn and equally spaced legend color scale](https://stackoverflow.com/questions/66921523/ggplot-scale-fill-stepsn-and-equally-spaced-legend-color-scale) - 1 votes
+* [How do I change the colour of the background to the x axis ticks in ggplot2](https://stackoverflow.com/questions/66919738/how-do-i-change-the-colour-of-the-background-to-the-x-axis-ticks-in-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
