@@ -1,39 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-02<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-03<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How can i drop duplicates row from pandas dataframe but just in some range](https://stackoverflow.com/questions/66924127/how-can-i-drop-duplicates-row-from-pandas-dataframe-but-just-in-some-range) - 3 votes
-* [How to count number of unique groups missing information in a groupby](https://stackoverflow.com/questions/66924508/how-to-count-number-of-unique-groups-missing-information-in-a-groupby) - 3 votes
-* [How to store synonyms as column in data frame](https://stackoverflow.com/questions/66917904/how-to-store-synonyms-as-column-in-data-frame) - 3 votes
-* [pandas agg with custom aggregation function and dtype condition column disappears silently](https://stackoverflow.com/questions/66922659/pandas-agg-with-custom-aggregation-function-and-dtype-condition-column-disappea) - 2 votes
-* [How can I speed up this dataframe](https://stackoverflow.com/questions/66915742/how-can-i-speed-up-this-dataframe) - 2 votes
+* [Cumulative count at a group level Python](https://stackoverflow.com/questions/66932614/cumulative-count-at-a-group-level-python) - 6 votes
+* [Count running total of number of days in DataFrame and insert value into new column](https://stackoverflow.com/questions/66928959/count-running-total-of-number-of-days-in-dataframe-and-insert-value-into-new-col) - 3 votes
+* [how to update each series field in a dataframe](https://stackoverflow.com/questions/66933758/how-to-update-each-series-field-in-a-dataframe) - 2 votes
+* [How do I stop aggregate functions from adding unwanted rows to dataframe](https://stackoverflow.com/questions/66928432/how-do-i-stop-aggregate-functions-from-adding-unwanted-rows-to-dataframe) - 2 votes
+* [How to apply multiple conditions for columns in a dataframe](https://stackoverflow.com/questions/66927165/how-to-apply-multiple-conditions-for-columns-in-a-dataframe) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Is there any way to get unit vector in matplotlib](https://stackoverflow.com/questions/66915838/is-there-any-way-to-get-unit-vector-in-matplotlib) - 2 votes
-* [Plotting multiple lines onto one graph from for loop](https://stackoverflow.com/questions/66913651/plotting-multiple-lines-onto-one-graph-from-for-loop) - 2 votes
-* [How do I dynamically update matplotlib plots in a tqdmloop inside a Jupyter notebook](https://stackoverflow.com/questions/66914972/how-do-i-dynamically-update-matplotlib-plots-in-a-tqdm-loop-inside-a-jupyter-not) - 1 votes
-* [How to mix the outliers from boxplot or not with violin plot](https://stackoverflow.com/questions/66913456/how-to-mix-the-outliers-from-boxplot-or-not-with-violin-plot) - 1 votes
-* [How do I make the default matplotlib cursor 3939 span the entire xaxes](https://stackoverflow.com/questions/66913391/how-do-i-make-the-default-matplotlib-cursor-span-the-entire-x-axes) - 1 votes
+* [Changing size of a JointGrid marginal plot or deleting it](https://stackoverflow.com/questions/66931244/changing-size-of-a-jointgrid-marginal-plot-or-deleting-it) - 1 votes
+* [adding required country basemap behind a plot not very detailed  only outer boundaries](https://stackoverflow.com/questions/66931603/adding-required-country-basemap-behind-a-plot-not-very-detailed-only-outer-bo) - 1 votes
+* [Color each row different in Pandas DataFrame using seaborn](https://stackoverflow.com/questions/66929296/color-each-row-different-in-pandas-dataframe-using-seaborn) - 1 votes
+* [How to animate a 2D scatter plot given X Y coordinates and time with appearing and disappearing points](https://stackoverflow.com/questions/66928860/how-to-animate-a-2d-scatter-plot-given-x-y-coordinates-and-time-with-appearing) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Change title mcmc_trace function with ggplot](https://stackoverflow.com/questions/66920925/change-title-mcmc-trace-function-with-ggplot) - 1 votes
-* [Store plotly tooltip information outside of ggplot object](https://stackoverflow.com/questions/66919633/store-plotly-tooltip-information-outside-of-ggplot-object) - 1 votes
-* [Remove connecting line between first and last record of ggplot](https://stackoverflow.com/questions/66916337/remove-connecting-line-between-first-and-last-record-of-ggplot) - 1 votes
-* [ggplot scale_fill_stepsn and equally spaced legend color scale](https://stackoverflow.com/questions/66921523/ggplot-scale-fill-stepsn-and-equally-spaced-legend-color-scale) - 1 votes
-* [How do I change the colour of the background to the x axis ticks in ggplot2](https://stackoverflow.com/questions/66919738/how-do-i-change-the-colour-of-the-background-to-the-x-axis-ticks-in-ggplot2) - 1 votes
+* [Change continious data to discrete ones to be used in ggplot](https://stackoverflow.com/questions/66928997/change-continious-data-to-discrete-ones-to-be-used-in-ggplot) - 1 votes
+* [function that plot bar chart and histogram base on selected column data type](https://stackoverflow.com/questions/66928540/function-that-plot-bar-chart-and-histogram-base-on-selected-column-data-type) - 1 votes
+* [Fix location of Plotly hover legend in R](https://stackoverflow.com/questions/66929127/fix-location-of-plotly-hover-legend-in-r) - 1 votes
+* [How to get manual order or xaxis in ggsummarytable](https://stackoverflow.com/questions/66928877/how-to-get-manual-order-or-x-axis-in-ggsummarytable) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
