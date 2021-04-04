@@ -1,37 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-03<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-04<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Cumulative count at a group level Python](https://stackoverflow.com/questions/66932614/cumulative-count-at-a-group-level-python) - 6 votes
-* [Count running total of number of days in DataFrame and insert value into new column](https://stackoverflow.com/questions/66928959/count-running-total-of-number-of-days-in-dataframe-and-insert-value-into-new-col) - 3 votes
-* [how to update each series field in a dataframe](https://stackoverflow.com/questions/66933758/how-to-update-each-series-field-in-a-dataframe) - 2 votes
-* [How do I stop aggregate functions from adding unwanted rows to dataframe](https://stackoverflow.com/questions/66928432/how-do-i-stop-aggregate-functions-from-adding-unwanted-rows-to-dataframe) - 2 votes
-* [How to apply multiple conditions for columns in a dataframe](https://stackoverflow.com/questions/66927165/how-to-apply-multiple-conditions-for-columns-in-a-dataframe) - 2 votes
+* [iterating through a nested list of strings to get first item](https://stackoverflow.com/questions/66942429/iterating-through-a-nested-list-of-strings-to-get-first-item) - 3 votes
+* [Group Pandas dataframe with multuple column and create distribution](https://stackoverflow.com/questions/66943839/group-pandas-dataframe-with-multuple-column-and-create-distribution) - 2 votes
+* [Including only ids where there is a 2 flags for one id PANDAS](https://stackoverflow.com/questions/66942772/including-only-ids-where-there-is-a-2-flags-for-one-id-pandas) - 2 votes
+* [I have a problem with applying my logic into python code](https://stackoverflow.com/questions/66942099/i-have-a-problem-with-applying-my-logic-into-python-code) - 2 votes
+* [Appending pandas Dataframe to each other inside loop](https://stackoverflow.com/questions/66937668/appending-pandas-dataframe-to-each-other-inside-loop) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Changing size of a JointGrid marginal plot or deleting it](https://stackoverflow.com/questions/66931244/changing-size-of-a-jointgrid-marginal-plot-or-deleting-it) - 1 votes
-* [adding required country basemap behind a plot not very detailed  only outer boundaries](https://stackoverflow.com/questions/66931603/adding-required-country-basemap-behind-a-plot-not-very-detailed-only-outer-bo) - 1 votes
-* [Color each row different in Pandas DataFrame using seaborn](https://stackoverflow.com/questions/66929296/color-each-row-different-in-pandas-dataframe-using-seaborn) - 1 votes
-* [How to animate a 2D scatter plot given X Y coordinates and time with appearing and disappearing points](https://stackoverflow.com/questions/66928860/how-to-animate-a-2d-scatter-plot-given-x-y-coordinates-and-time-with-appearing) - 1 votes
+* [Show exponentiated values along opposite side of log color scale](https://stackoverflow.com/questions/66938969/show-exponentiated-values-along-opposite-side-of-log-color-scale) - 1 votes
+* [Color is not responsive when Drawig a Circle function inside a loop](https://stackoverflow.com/questions/66944758/color-is-not-responsive-when-drawig-a-circle-function-inside-a-loop) - 1 votes
+* [Multiple Bar graphs in single figure matplotlib python](https://stackoverflow.com/questions/66943410/multiple-bar-graphs-in-single-figure-matplotlib-python) - 1 votes
+* [Using a R function in python notebook to visualize missing data](https://stackoverflow.com/questions/66940419/using-a-r-function-in-python-notebook-to-visualize-missing-data) - 1 votes
+* [Matplotlib data points lines fonts get bigger when using a Command CMD terminal](https://stackoverflow.com/questions/66937909/matplotlib-data-points-lines-fonts-get-bigger-when-using-a-command-cmd-termi) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Change continious data to discrete ones to be used in ggplot](https://stackoverflow.com/questions/66928997/change-continious-data-to-discrete-ones-to-be-used-in-ggplot) - 1 votes
-* [function that plot bar chart and histogram base on selected column data type](https://stackoverflow.com/questions/66928540/function-that-plot-bar-chart-and-histogram-base-on-selected-column-data-type) - 1 votes
-* [Fix location of Plotly hover legend in R](https://stackoverflow.com/questions/66929127/fix-location-of-plotly-hover-legend-in-r) - 1 votes
-* [How to get manual order or xaxis in ggsummarytable](https://stackoverflow.com/questions/66928877/how-to-get-manual-order-or-x-axis-in-ggsummarytable) - 1 votes
+* [problems with converting a string into a variable name and use it for plot in a loop in R](https://stackoverflow.com/questions/66937247/problems-with-converting-a-string-into-a-variable-name-and-use-it-for-plot-in-a) - 2 votes
+* [plotting graph using palmer penguins](https://stackoverflow.com/questions/66945050/plotting-graph-using-palmer-penguins) - 1 votes
+* [Using a R function in python notebook to visualize missing data](https://stackoverflow.com/questions/66940419/using-a-r-function-in-python-notebook-to-visualize-missing-data) - 1 votes
+* [Change colours of filling and not just borders in geom_sf](https://stackoverflow.com/questions/66943405/change-colours-of-filling-and-not-just-borders-in-geom-sf) - 1 votes
+* [Unwanted separation marks  lines between assembled ggplots using patchwork](https://stackoverflow.com/questions/66939718/unwanted-separation-marks-lines-between-assembled-ggplots-using-patchwork) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
