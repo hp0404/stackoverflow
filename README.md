@@ -1,39 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-04<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-05<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [iterating through a nested list of strings to get first item](https://stackoverflow.com/questions/66942429/iterating-through-a-nested-list-of-strings-to-get-first-item) - 3 votes
-* [Group Pandas dataframe with multuple column and create distribution](https://stackoverflow.com/questions/66943839/group-pandas-dataframe-with-multuple-column-and-create-distribution) - 2 votes
-* [Including only ids where there is a 2 flags for one id PANDAS](https://stackoverflow.com/questions/66942772/including-only-ids-where-there-is-a-2-flags-for-one-id-pandas) - 2 votes
-* [I have a problem with applying my logic into python code](https://stackoverflow.com/questions/66942099/i-have-a-problem-with-applying-my-logic-into-python-code) - 2 votes
-* [Appending pandas Dataframe to each other inside loop](https://stackoverflow.com/questions/66937668/appending-pandas-dataframe-to-each-other-inside-loop) - 2 votes
+* [Finding longest consecutive increase in Pandas](https://stackoverflow.com/questions/66955196/finding-longest-consecutive-increase-in-pandas) - 3 votes
+* [Merging on columns with dask](https://stackoverflow.com/questions/66950918/merging-on-columns-with-dask) - 3 votes
+* [How to Join Multiple DataFrames through loop in pandas](https://stackoverflow.com/questions/66957636/how-to-join-multiple-dataframes-through-loop-in-pandas) - 2 votes
+* [Drop specified rows from data frame](https://stackoverflow.com/questions/66956423/drop-specified-rows-from-data-frame) - 2 votes
+* [Pandas sample from df keeping balance of groups](https://stackoverflow.com/questions/66950099/pandas-sample-from-df-keeping-balance-of-groups) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Show exponentiated values along opposite side of log color scale](https://stackoverflow.com/questions/66938969/show-exponentiated-values-along-opposite-side-of-log-color-scale) - 1 votes
-* [Color is not responsive when Drawig a Circle function inside a loop](https://stackoverflow.com/questions/66944758/color-is-not-responsive-when-drawig-a-circle-function-inside-a-loop) - 1 votes
-* [Multiple Bar graphs in single figure matplotlib python](https://stackoverflow.com/questions/66943410/multiple-bar-graphs-in-single-figure-matplotlib-python) - 1 votes
-* [Using a R function in python notebook to visualize missing data](https://stackoverflow.com/questions/66940419/using-a-r-function-in-python-notebook-to-visualize-missing-data) - 1 votes
-* [Matplotlib data points lines fonts get bigger when using a Command CMD terminal](https://stackoverflow.com/questions/66937909/matplotlib-data-points-lines-fonts-get-bigger-when-using-a-command-cmd-termi) - 1 votes
+* [Matplotlib pyplot title formatting](https://stackoverflow.com/questions/66948770/matplotlib-pyplot-title-formatting) - 1 votes
+* [How to change the text direction of the xtick labels in matplotlib so that it is stacked vertically](https://stackoverflow.com/questions/66958700/how-to-change-the-text-direction-of-the-xtick-labels-in-matplotlib-so-that-it-is) - 1 votes
+* [Pandas DataFrameplot not setting xlim and ylim properly](https://stackoverflow.com/questions/66949714/pandas-dataframe-plot-not-setting-xlim-and-ylim-properly) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [problems with converting a string into a variable name and use it for plot in a loop in R](https://stackoverflow.com/questions/66937247/problems-with-converting-a-string-into-a-variable-name-and-use-it-for-plot-in-a) - 2 votes
-* [plotting graph using palmer penguins](https://stackoverflow.com/questions/66945050/plotting-graph-using-palmer-penguins) - 1 votes
-* [Using a R function in python notebook to visualize missing data](https://stackoverflow.com/questions/66940419/using-a-r-function-in-python-notebook-to-visualize-missing-data) - 1 votes
-* [Change colours of filling and not just borders in geom_sf](https://stackoverflow.com/questions/66943405/change-colours-of-filling-and-not-just-borders-in-geom-sf) - 1 votes
-* [Unwanted separation marks  lines between assembled ggplots using patchwork](https://stackoverflow.com/questions/66939718/unwanted-separation-marks-lines-between-assembled-ggplots-using-patchwork) - 1 votes
+* [How can I plot an outline or border around a dashed line in ggplot2](https://stackoverflow.com/questions/66958848/how-can-i-plot-an-outline-or-border-around-a-dashed-line-in-ggplot2) - 2 votes
+* [Drop unused levels in facet_wrap in ggplot2](https://stackoverflow.com/questions/66956127/drop-unused-levels-in-facet-wrap-in-ggplot2) - 2 votes
+* [How to continuously vary transparency](https://stackoverflow.com/questions/66947338/how-to-continuously-vary-transparency) - 2 votes
+* [Why is fullrangeTRUE not working for geom_smooth in ggplot2](https://stackoverflow.com/questions/66959036/why-is-fullrange-true-not-working-for-geom-smooth-in-ggplot2) - 2 votes
+* [ggraph use fill and color in geom_node_point](https://stackoverflow.com/questions/66948228/ggraph-use-fill-and-color-in-geom-node-point) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
