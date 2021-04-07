@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-06<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-07<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Why does pandas quotNone  Truequot return False when Python quotNone or Truequot returns True](https://stackoverflow.com/questions/66970702/why-does-pandas-none-true-return-false-when-python-none-or-true-returns-tr) - 7 votes
-* [Transform a Pandas Dataframe Column and Index to Values](https://stackoverflow.com/questions/66972735/transform-a-pandas-dataframe-column-and-index-to-values) - 6 votes
-* [Search for identical strings of certain length in Python](https://stackoverflow.com/questions/66965717/search-for-identical-strings-of-certain-length-in-python) - 4 votes
-* [Removing min max and calculating average](https://stackoverflow.com/questions/66961748/removing-min-max-and-calculating-average) - 4 votes
-* [How to convert the given Excel file to a dictionary in Python](https://stackoverflow.com/questions/66962158/how-to-convert-the-given-excel-file-to-a-dictionary-in-python) - 4 votes
+* [How to join two dataframes in Python](https://stackoverflow.com/questions/66990824/how-to-join-two-dataframes-in-python) - 4 votes
+* [Python  Create a new column that takes the first column from the right that is not NaN in Pandas](https://stackoverflow.com/questions/66978365/python-create-a-new-column-that-takes-the-first-column-from-the-right-that-is) - 3 votes
+* [groupby cumsum sorted dataframe](https://stackoverflow.com/questions/66988105/groupby-cumsum-sorted-dataframe) - 3 votes
+* [How to rewrite a field of a column in a DataFrame in Python](https://stackoverflow.com/questions/66984804/how-to-rewrite-a-field-of-a-column-in-a-dataframe-in-python) - 3 votes
+* [How to add a column after using python groupby if the function is also a custom function](https://stackoverflow.com/questions/66980868/how-to-add-a-column-after-using-python-groupby-if-the-function-is-also-a-custom) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Setting 1 point of a scatterplot in a different color](https://stackoverflow.com/questions/66971350/setting-1-point-of-a-scatterplot-in-a-different-color) - 1 votes
-* [Change the tittle of labels in a dataframe using Panda Data Reader](https://stackoverflow.com/questions/66973951/change-the-tittle-of-labels-in-a-dataframe-using-panda-data-reader) - 1 votes
-* [Unit test matplotlib39s ginput](https://stackoverflow.com/questions/66972337/unit-test-matplotlibs-ginput) - 1 votes
-* [TypeError with scatterplot and label](https://stackoverflow.com/questions/66971585/typeerror-with-scatterplot-and-label) - 1 votes
-* [Can not use builtin functions with importlib in python 379](https://stackoverflow.com/questions/66968554/can-not-use-built-in-functions-with-importlib-in-python-3-7-9) - 1 votes
+* [Zorder for grid is not working for polar plot in matplotlib](https://stackoverflow.com/questions/66979749/zorder-for-grid-is-not-working-for-polar-plot-in-matplotlib) - 2 votes
+* [Matrixlike boxplots for dataframe with 3level multiindex](https://stackoverflow.com/questions/66984251/matrix-like-boxplots-for-dataframe-with-3-level-multiindex) - 1 votes
+* [matplotlib time on x axis from datetime json](https://stackoverflow.com/questions/66986076/matplotlib-time-on-x-axis-from-datetime-json) - 1 votes
+* [How to make a finer 3D plot with Matplotlib](https://stackoverflow.com/questions/66985498/how-to-make-a-finer-3d-plot-with-matplotlib) - 1 votes
+* [3 by 2 sub plot having different yaxis and titles and same x axis](https://stackoverflow.com/questions/66984547/3-by-2-sub-plot-having-different-yaxis-and-titles-and-same-x-axis) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Aligning axis and with multiplot axis labels in ggplot2](https://stackoverflow.com/questions/66961259/aligning-axis-and-with-multiplot-axis-labels-in-ggplot2) - 2 votes
-* [Paste mean values on geom_tile plot ggplot in R](https://stackoverflow.com/questions/66968197/paste-mean-values-on-geom-tile-plot-ggplot-in-r) - 1 votes
-* [Plotting multiple binary variables on the same plot in ggplot](https://stackoverflow.com/questions/66961416/plotting-multiple-binary-variables-on-the-same-plot-in-ggplot) - 1 votes
-* [R stairstep without upwards line after last data point](https://stackoverflow.com/questions/66968142/r-stairstep-without-upwards-line-after-last-data-point) - 1 votes
-* [Find mean and sd in Iris data set and draw graph](https://stackoverflow.com/questions/66964554/find-mean-and-sd-in-iris-data-set-and-draw-graph) - 1 votes
+* [How can I make this kind of plot in ggplot2  show percentage of presence of one variable given other variables](https://stackoverflow.com/questions/66993514/how-can-i-make-this-kind-of-plot-in-ggplot2-show-percentage-of-presence-of-on) - 2 votes
+* [How to add a geom_text conditioned on a character variable](https://stackoverflow.com/questions/66980761/how-to-add-a-geom-text-conditioned-on-a-character-variable) - 1 votes
+* [How do I get my legend dots blue and red instead that both are red](https://stackoverflow.com/questions/66987830/how-do-i-get-my-legend-dots-blue-and-red-instead-that-both-are-red) - 1 votes
+* [Normalize groupwise in a ggplot bar plot](https://stackoverflow.com/questions/66990623/normalize-group-wise-in-a-ggplot-bar-plot) - 1 votes
+* [Show corresponding legend for second geom_point](https://stackoverflow.com/questions/66984409/show-corresponding-legend-for-second-geom-point) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
