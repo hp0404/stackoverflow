@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-09<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-10<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Converting a dataframe with a line separator](https://stackoverflow.com/questions/67016378/converting-a-dataframe-with-a-line-separator) - 3 votes
-* [Calculating difference between first and individual occurence Python Pandas](https://stackoverflow.com/questions/67017775/calculating-difference-between-first-and-individual-occurence-python-pandas) - 3 votes
-* [Python DataFrame  Seperate rows based on custom condition](https://stackoverflow.com/questions/67018896/python-dataframe-seperate-rows-based-on-custom-condition) - 3 votes
-* [How to count the occurrence of specific items on grouped items of a csv file using python](https://stackoverflow.com/questions/67024523/how-to-count-the-occurrence-of-specific-items-on-grouped-items-of-a-csv-file-usi) - 2 votes
-* [How to create a new column from other column by condition](https://stackoverflow.com/questions/67020541/how-to-create-a-new-column-from-other-column-by-condition) - 2 votes
+* [Create column based on date conditions but I get this error AttributeError 39SeriesGroupBy39 object has no attribute 39sub39](https://stackoverflow.com/questions/67036970/create-column-based-on-date-conditions-but-i-get-this-error-attributeerror-se) - 5 votes
+* [Pandas filter and create new columns](https://stackoverflow.com/questions/67036638/pandas-filter-and-create-new-columns) - 3 votes
+* [Reverse row and colums in a pandas Dataframe](https://stackoverflow.com/questions/67034709/reverse-row-and-colums-in-a-pandas-dataframe) - 3 votes
+* [Merge two dataframes for a date in date range with conditions](https://stackoverflow.com/questions/67031770/merge-two-dataframes-for-a-date-in-date-range-with-conditions) - 3 votes
+* [Pandas dataframe values and row condition both depend on other columns](https://stackoverflow.com/questions/67034981/pandas-dataframe-values-and-row-condition-both-depend-on-other-columns) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Hue and shared xaxis not working Seaborn facet grid](https://stackoverflow.com/questions/67015788/hue-and-shared-x-axis-not-working-seaborn-facet-grid) - 2 votes
-* [How would I plot this as a line graph](https://stackoverflow.com/questions/67020692/how-would-i-plot-this-as-a-line-graph) - 1 votes
-* [Changing matplotlib default color while keeping color name](https://stackoverflow.com/questions/67022659/changing-matplotlib-default-color-while-keeping-color-name) - 1 votes
-* [Is there any way to create a number of equal class objects in a for loop in Python](https://stackoverflow.com/questions/67022750/is-there-any-way-to-create-a-number-of-equal-class-objects-in-a-for-loop-in-pyth) - 1 votes
-* [show coordinates of an image stored in an array using mathplotlib](https://stackoverflow.com/questions/67021006/show-coordinates-of-an-image-stored-in-an-array-using-mathplotlib) - 1 votes
+* [How do I shift the xaxis over by one to start at 1 instead of 0](https://stackoverflow.com/questions/67037576/how-do-i-shift-the-x-axis-over-by-one-to-start-at-1-instead-of-0) - 1 votes
+* [Pandas plot bar charts where X and Y values are column values](https://stackoverflow.com/questions/67030528/pandas-plot-bar-charts-where-x-and-y-values-are-column-values) - 1 votes
+* [How do I plot a barchart from the datasets mean value and not its default 0 value in seaborn](https://stackoverflow.com/questions/67037903/how-do-i-plot-a-barchart-from-the-datasets-mean-value-and-not-its-default-0-valu) - 1 votes
+* [Plotting a lineplot from a single line dataframe](https://stackoverflow.com/questions/67033435/plotting-a-lineplot-from-a-single-line-dataframe) - 1 votes
+* [Matplotlib39s mPlot3d cuts out part of the plot39s background](https://stackoverflow.com/questions/67032793/matplotlibs-mplot3d-cuts-out-part-of-the-plots-background) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to reorder words based on their assigned probability in ggplot](https://stackoverflow.com/questions/67014554/how-to-reorder-words-based-on-their-assigned-probability-in-ggplot) - 1 votes
-* [How to create multiple barcharts in a loop](https://stackoverflow.com/questions/67026497/how-to-create-multiple-barcharts-in-a-loop) - 1 votes
-* [How to create a two barplots for two subjects with multiple columns on the xaxis](https://stackoverflow.com/questions/67015821/how-to-create-a-two-barplots-for-two-subjects-with-multiple-columns-on-the-x-ax) - 1 votes
-* [ggproto geom extensions](https://stackoverflow.com/questions/67025081/ggproto-geom-extensions) - 1 votes
-* [How do I plot one of my categorical variables as either differennt colours or shapes using ggplot](https://stackoverflow.com/questions/67015068/how-do-i-plot-one-of-my-categorical-variables-as-either-differennt-colours-or-sh) - 1 votes
+* [Tick marks either side of dates in ggplot](https://stackoverflow.com/questions/67031312/tick-marks-either-side-of-dates-in-ggplot) - 2 votes
+* [Create line and curve line user defined values](https://stackoverflow.com/questions/67034852/create-line-and-curve-line-user-defined-values) - 2 votes
+* [ggplot2  Add extra space between two legend items](https://stackoverflow.com/questions/67030642/ggplot2-add-extra-space-between-two-legend-items) - 2 votes
+* [Can I adjust the fillcolor of different label regions when using ggh4x package](https://stackoverflow.com/questions/67031477/can-i-adjust-the-fillcolor-of-different-label-regions-when-using-ggh4x-package) - 1 votes
+* [How to adjust the each bar39s width after using faceting function](https://stackoverflow.com/questions/67030433/how-to-adjust-the-each-bars-width-after-using-faceting-function) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
