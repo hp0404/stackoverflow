@@ -1,39 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-10<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-11<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Create column based on date conditions but I get this error AttributeError 39SeriesGroupBy39 object has no attribute 39sub39](https://stackoverflow.com/questions/67036970/create-column-based-on-date-conditions-but-i-get-this-error-attributeerror-se) - 5 votes
-* [Pandas filter and create new columns](https://stackoverflow.com/questions/67036638/pandas-filter-and-create-new-columns) - 3 votes
-* [Reverse row and colums in a pandas Dataframe](https://stackoverflow.com/questions/67034709/reverse-row-and-colums-in-a-pandas-dataframe) - 3 votes
-* [Merge two dataframes for a date in date range with conditions](https://stackoverflow.com/questions/67031770/merge-two-dataframes-for-a-date-in-date-range-with-conditions) - 3 votes
-* [Pandas dataframe values and row condition both depend on other columns](https://stackoverflow.com/questions/67034981/pandas-dataframe-values-and-row-condition-both-depend-on-other-columns) - 3 votes
+* [Fillna using multiple approaches at a time  pandas](https://stackoverflow.com/questions/67044877/fillna-using-multiple-approaches-at-a-time-pandas) - 3 votes
+* [Change last word after space in a dafaframe column](https://stackoverflow.com/questions/67041984/change-last-word-after-space-in-a-dafaframe-column) - 2 votes
+* [How to Match multiple columns with given single column and get its name in new column](https://stackoverflow.com/questions/67043612/how-to-match-multiple-columns-with-given-single-column-and-get-its-name-in-new-c) - 2 votes
+* [Updating pandas dataframe if new data exists](https://stackoverflow.com/questions/67041511/updating-pandas-dataframe-if-new-data-exists) - 2 votes
+* [append sequence number with padded zeroes to a series using padas](https://stackoverflow.com/questions/67042817/append-sequence-number-with-padded-zeroes-to-a-series-using-padas) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How do I shift the xaxis over by one to start at 1 instead of 0](https://stackoverflow.com/questions/67037576/how-do-i-shift-the-x-axis-over-by-one-to-start-at-1-instead-of-0) - 1 votes
-* [Pandas plot bar charts where X and Y values are column values](https://stackoverflow.com/questions/67030528/pandas-plot-bar-charts-where-x-and-y-values-are-column-values) - 1 votes
-* [How do I plot a barchart from the datasets mean value and not its default 0 value in seaborn](https://stackoverflow.com/questions/67037903/how-do-i-plot-a-barchart-from-the-datasets-mean-value-and-not-its-default-0-valu) - 1 votes
-* [Plotting a lineplot from a single line dataframe](https://stackoverflow.com/questions/67033435/plotting-a-lineplot-from-a-single-line-dataframe) - 1 votes
-* [Matplotlib39s mPlot3d cuts out part of the plot39s background](https://stackoverflow.com/questions/67032793/matplotlibs-mplot3d-cuts-out-part-of-the-plots-background) - 1 votes
+* [Matplotlib quiver plot vectors not perpendicular to contours](https://stackoverflow.com/questions/67046389/matplotlib-quiver-plot-vectors-not-perpendicular-to-contours) - 2 votes
+* [Adding suffix to labels on xaxis](https://stackoverflow.com/questions/67047808/adding-suffix-to-labels-on-x-axis) - 1 votes
+* [How to draw line between two points in a dataframe using matplotlib](https://stackoverflow.com/questions/67047670/how-to-draw-line-between-two-points-in-a-dataframe-using-matplotlib) - 1 votes
+* [How to draw realtime moving circle in Python matplotlib](https://stackoverflow.com/questions/67043820/how-to-draw-real-time-moving-circle-in-python-matplotlib) - 1 votes
+* [How to set a color to different sub groups in barplot seaborn](https://stackoverflow.com/questions/67042382/how-to-set-a-color-to-different-sub-groups-in-barplot-seaborn) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Tick marks either side of dates in ggplot](https://stackoverflow.com/questions/67031312/tick-marks-either-side-of-dates-in-ggplot) - 2 votes
-* [Create line and curve line user defined values](https://stackoverflow.com/questions/67034852/create-line-and-curve-line-user-defined-values) - 2 votes
-* [ggplot2  Add extra space between two legend items](https://stackoverflow.com/questions/67030642/ggplot2-add-extra-space-between-two-legend-items) - 2 votes
-* [Can I adjust the fillcolor of different label regions when using ggh4x package](https://stackoverflow.com/questions/67031477/can-i-adjust-the-fillcolor-of-different-label-regions-when-using-ggh4x-package) - 1 votes
-* [How to adjust the each bar39s width after using faceting function](https://stackoverflow.com/questions/67030433/how-to-adjust-the-each-bars-width-after-using-faceting-function) - 1 votes
+* [How to change the inside color of geom_point with the same shape for one group in ggplot2](https://stackoverflow.com/questions/67047077/how-to-change-the-inside-color-of-geom-point-with-the-same-shape-for-one-group-i) - 3 votes
+* [How to export information from R objects as png](https://stackoverflow.com/questions/67042357/how-to-export-information-from-r-objects-as-png) - 1 votes
+* [How to correct a different distance between bars in geom_col](https://stackoverflow.com/questions/67045553/how-to-correct-a-different-distance-between-bars-in-geom-col) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
