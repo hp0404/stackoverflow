@@ -1,37 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-11<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-12<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Fillna using multiple approaches at a time  pandas](https://stackoverflow.com/questions/67044877/fillna-using-multiple-approaches-at-a-time-pandas) - 3 votes
-* [Change last word after space in a dafaframe column](https://stackoverflow.com/questions/67041984/change-last-word-after-space-in-a-dafaframe-column) - 2 votes
-* [How to Match multiple columns with given single column and get its name in new column](https://stackoverflow.com/questions/67043612/how-to-match-multiple-columns-with-given-single-column-and-get-its-name-in-new-c) - 2 votes
-* [Updating pandas dataframe if new data exists](https://stackoverflow.com/questions/67041511/updating-pandas-dataframe-if-new-data-exists) - 2 votes
-* [append sequence number with padded zeroes to a series using padas](https://stackoverflow.com/questions/67042817/append-sequence-number-with-padded-zeroes-to-a-series-using-padas) - 2 votes
+* [Applying regex to pandas column based on different pos of same character](https://stackoverflow.com/questions/67056503/applying-regex-to-pandas-column-based-on-different-pos-of-same-character) - 6 votes
+* [How can I add an empty row before a definite row in Python DataFrame](https://stackoverflow.com/questions/67062516/how-can-i-add-an-empty-row-before-a-definite-row-in-python-dataframe) - 3 votes
+* [How to replace 39Zero39 by 39One39 for particular row in data frame](https://stackoverflow.com/questions/67053308/how-to-replace-zero-by-one-for-particular-row-in-data-frame) - 3 votes
+* [Sort values intra group](https://stackoverflow.com/questions/67065611/sort-values-intra-group) - 3 votes
+* [How to display the quarter for a given date using pandas](https://stackoverflow.com/questions/67062561/how-to-display-the-quarter-for-a-given-date-using-pandas) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Matplotlib quiver plot vectors not perpendicular to contours](https://stackoverflow.com/questions/67046389/matplotlib-quiver-plot-vectors-not-perpendicular-to-contours) - 2 votes
-* [Adding suffix to labels on xaxis](https://stackoverflow.com/questions/67047808/adding-suffix-to-labels-on-x-axis) - 1 votes
-* [How to draw line between two points in a dataframe using matplotlib](https://stackoverflow.com/questions/67047670/how-to-draw-line-between-two-points-in-a-dataframe-using-matplotlib) - 1 votes
-* [How to draw realtime moving circle in Python matplotlib](https://stackoverflow.com/questions/67043820/how-to-draw-real-time-moving-circle-in-python-matplotlib) - 1 votes
-* [How to set a color to different sub groups in barplot seaborn](https://stackoverflow.com/questions/67042382/how-to-set-a-color-to-different-sub-groups-in-barplot-seaborn) - 1 votes
+* [How do I fix the overlapping dates](https://stackoverflow.com/questions/67053055/how-do-i-fix-the-overlapping-dates) - 2 votes
+* [How to stack only some of pandas DataFrame series on bar chart](https://stackoverflow.com/questions/67063917/how-to-stack-only-some-of-pandas-dataframe-series-on-bar-chart) - 1 votes
+* [How to add annotation in a plot](https://stackoverflow.com/questions/67051721/how-to-add-annotation-in-a-plot) - 1 votes
+* [scatter39s axis and ticks in matplotlibpyplot](https://stackoverflow.com/questions/67053014/scatters-axis-and-ticks-in-matplotlib-pyplot) - 1 votes
+* [Customising legend in Matplotlib](https://stackoverflow.com/questions/67062713/customising-legend-in-matplotlib) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to change the inside color of geom_point with the same shape for one group in ggplot2](https://stackoverflow.com/questions/67047077/how-to-change-the-inside-color-of-geom-point-with-the-same-shape-for-one-group-i) - 3 votes
-* [How to export information from R objects as png](https://stackoverflow.com/questions/67042357/how-to-export-information-from-r-objects-as-png) - 1 votes
-* [How to correct a different distance between bars in geom_col](https://stackoverflow.com/questions/67045553/how-to-correct-a-different-distance-between-bars-in-geom-col) - 1 votes
+* [Adding a different rectangle to each facet in ggplot](https://stackoverflow.com/questions/67060626/adding-a-different-rectangle-to-each-facet-in-ggplot) - 1 votes
+* [How to display time of day on a ggplot axis after using SQL UNIX_TIMESTAMP](https://stackoverflow.com/questions/67060276/how-to-display-time-of-day-on-a-ggplot-axis-after-using-sql-unix-timestamp) - 1 votes
+* [Border of different color in geom_label_repel](https://stackoverflow.com/questions/67058977/border-of-different-color-in-geom-label-repel) - 1 votes
+* [Is there a way to expand your ggplot figure conditioned on a factor variable](https://stackoverflow.com/questions/67055999/is-there-a-way-to-expand-your-ggplot-figure-conditioned-on-a-factor-variable) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
