@@ -1,38 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-12<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-13<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Applying regex to pandas column based on different pos of same character](https://stackoverflow.com/questions/67056503/applying-regex-to-pandas-column-based-on-different-pos-of-same-character) - 6 votes
-* [How can I add an empty row before a definite row in Python DataFrame](https://stackoverflow.com/questions/67062516/how-can-i-add-an-empty-row-before-a-definite-row-in-python-dataframe) - 3 votes
-* [How to replace 39Zero39 by 39One39 for particular row in data frame](https://stackoverflow.com/questions/67053308/how-to-replace-zero-by-one-for-particular-row-in-data-frame) - 3 votes
-* [Sort values intra group](https://stackoverflow.com/questions/67065611/sort-values-intra-group) - 3 votes
-* [How to display the quarter for a given date using pandas](https://stackoverflow.com/questions/67062561/how-to-display-the-quarter-for-a-given-date-using-pandas) - 3 votes
+* [How to sort a dataframe with the first occurences of each unique element in a column](https://stackoverflow.com/questions/67070881/how-to-sort-a-dataframe-with-the-first-occurences-of-each-unique-element-in-a-co) - 4 votes
+* [Count the occurrence of each value in a Pandas column in a separate list](https://stackoverflow.com/questions/67068793/count-the-occurrence-of-each-value-in-a-pandas-column-in-a-separate-list) - 4 votes
+* [Sum ignoring strings in pandas dataframe](https://stackoverflow.com/questions/67070014/sum-ignoring-strings-in-pandas-dataframe) - 3 votes
+* [Get column value after searching for row in dask](https://stackoverflow.com/questions/67071306/get-column-value-after-searching-for-row-in-dask) - 3 votes
+* [How to add a pdSeries to a subset of multiindex DataFrame](https://stackoverflow.com/questions/67077597/how-to-add-a-pd-series-to-a-subset-of-multi-index-dataframe) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How do I fix the overlapping dates](https://stackoverflow.com/questions/67053055/how-do-i-fix-the-overlapping-dates) - 2 votes
-* [How to stack only some of pandas DataFrame series on bar chart](https://stackoverflow.com/questions/67063917/how-to-stack-only-some-of-pandas-dataframe-series-on-bar-chart) - 1 votes
-* [How to add annotation in a plot](https://stackoverflow.com/questions/67051721/how-to-add-annotation-in-a-plot) - 1 votes
-* [scatter39s axis and ticks in matplotlibpyplot](https://stackoverflow.com/questions/67053014/scatters-axis-and-ticks-in-matplotlib-pyplot) - 1 votes
-* [Customising legend in Matplotlib](https://stackoverflow.com/questions/67062713/customising-legend-in-matplotlib) - 1 votes
+* [How to create scatter plot with 3 columns](https://stackoverflow.com/questions/67071221/how-to-create-scatter-plot-with-3-columns) - 2 votes
+* [how to do colormap to color tablecell background using matplotlib](https://stackoverflow.com/questions/67069861/how-to-do-colormap-to-color-table-cell-background-using-matplotlib) - 2 votes
+* [Add title to each grid with ImageGrid](https://stackoverflow.com/questions/67067953/add-title-to-each-grid-with-imagegrid) - 2 votes
+* [How can I make streamplot not have blank spaces](https://stackoverflow.com/questions/67072591/how-can-i-make-streamplot-not-have-blank-spaces) - 2 votes
+* [Seaborn Barplot  Inconsistence when displaying values](https://stackoverflow.com/questions/67077191/seaborn-barplot-inconsistence-when-displaying-values) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Adding a different rectangle to each facet in ggplot](https://stackoverflow.com/questions/67060626/adding-a-different-rectangle-to-each-facet-in-ggplot) - 1 votes
-* [How to display time of day on a ggplot axis after using SQL UNIX_TIMESTAMP](https://stackoverflow.com/questions/67060276/how-to-display-time-of-day-on-a-ggplot-axis-after-using-sql-unix-timestamp) - 1 votes
-* [Border of different color in geom_label_repel](https://stackoverflow.com/questions/67058977/border-of-different-color-in-geom-label-repel) - 1 votes
-* [Is there a way to expand your ggplot figure conditioned on a factor variable](https://stackoverflow.com/questions/67055999/is-there-a-way-to-expand-your-ggplot-figure-conditioned-on-a-factor-variable) - 1 votes
+* [Significance lines in box plot](https://stackoverflow.com/questions/67072561/significance-lines-in-box-plot) - 2 votes
+* [Slight inconsistency in results using a user function to customize a plot to match certain measurements](https://stackoverflow.com/questions/67070098/slight-inconsistency-in-results-using-a-user-function-to-customize-a-plot-to-mat) - 2 votes
+* [Control the order of the colour based on the values of another variable](https://stackoverflow.com/questions/67067427/control-the-order-of-the-colour-based-on-the-values-of-another-variable) - 1 votes
+* [Display a list of plots in a grid with specified columns and rows based on grouping column values](https://stackoverflow.com/questions/67079420/display-a-list-of-plots-in-a-grid-with-specified-columns-and-rows-based-on-group) - 1 votes
+* [ggplot2 requiring explicit mention of mapping argument](https://stackoverflow.com/questions/67079771/ggplot2-requiring-explicit-mention-of-mapping-argument) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
