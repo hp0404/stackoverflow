@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-13<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-14<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to sort a dataframe with the first occurences of each unique element in a column](https://stackoverflow.com/questions/67070881/how-to-sort-a-dataframe-with-the-first-occurences-of-each-unique-element-in-a-co) - 4 votes
-* [Count the occurrence of each value in a Pandas column in a separate list](https://stackoverflow.com/questions/67068793/count-the-occurrence-of-each-value-in-a-pandas-column-in-a-separate-list) - 4 votes
-* [Sum ignoring strings in pandas dataframe](https://stackoverflow.com/questions/67070014/sum-ignoring-strings-in-pandas-dataframe) - 3 votes
-* [Get column value after searching for row in dask](https://stackoverflow.com/questions/67071306/get-column-value-after-searching-for-row-in-dask) - 3 votes
-* [How to add a pdSeries to a subset of multiindex DataFrame](https://stackoverflow.com/questions/67077597/how-to-add-a-pd-series-to-a-subset-of-multi-index-dataframe) - 3 votes
+* [Explode single DataFrame row into multiple ones](https://stackoverflow.com/questions/67095435/explode-single-dataframe-row-into-multiple-ones) - 4 votes
+* [Faster vectorized way to do this pandas formula with dates](https://stackoverflow.com/questions/67093638/faster-vectorized-way-to-do-this-pandas-formula-with-dates) - 3 votes
+* [Drop row if string is not equal to value  pandas](https://stackoverflow.com/questions/67085285/drop-row-if-string-is-not-equal-to-value-pandas) - 2 votes
+* [Copy nonna rows to fill nonna columns using pandas](https://stackoverflow.com/questions/67087322/copy-non-na-rows-to-fill-non-na-columns-using-pandas) - 2 votes
+* [How to transform multiple boolean columns to one column with column headers and NaN](https://stackoverflow.com/questions/67095325/how-to-transform-multiple-boolean-columns-to-one-column-with-column-headers-and) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to create scatter plot with 3 columns](https://stackoverflow.com/questions/67071221/how-to-create-scatter-plot-with-3-columns) - 2 votes
-* [how to do colormap to color tablecell background using matplotlib](https://stackoverflow.com/questions/67069861/how-to-do-colormap-to-color-table-cell-background-using-matplotlib) - 2 votes
-* [Add title to each grid with ImageGrid](https://stackoverflow.com/questions/67067953/add-title-to-each-grid-with-imagegrid) - 2 votes
-* [How can I make streamplot not have blank spaces](https://stackoverflow.com/questions/67072591/how-can-i-make-streamplot-not-have-blank-spaces) - 2 votes
-* [Seaborn Barplot  Inconsistence when displaying values](https://stackoverflow.com/questions/67077191/seaborn-barplot-inconsistence-when-displaying-values) - 1 votes
+* [Python count of words by word length](https://stackoverflow.com/questions/67087535/python-count-of-words-by-word-length) - 3 votes
+* [Saved matplotlib gif animation is different from the jupyter notebook output  Why](https://stackoverflow.com/questions/67089587/saved-matplotlib-gif-animation-is-different-from-the-jupyter-notebook-output-w) - 2 votes
+* [pandas dataframe overlapping time data on plot](https://stackoverflow.com/questions/67096193/pandas-dataframe-overlapping-time-data-on-plot) - 1 votes
+* [saving image using matplotlib in python](https://stackoverflow.com/questions/67097838/saving-image-using-matplotlib-in-python) - 1 votes
+* [How to set titles to lmplots according to cateogorical variable](https://stackoverflow.com/questions/67095311/how-to-set-titles-to-lmplots-according-to-cateogorical-variable) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Significance lines in box plot](https://stackoverflow.com/questions/67072561/significance-lines-in-box-plot) - 2 votes
-* [Slight inconsistency in results using a user function to customize a plot to match certain measurements](https://stackoverflow.com/questions/67070098/slight-inconsistency-in-results-using-a-user-function-to-customize-a-plot-to-mat) - 2 votes
-* [Control the order of the colour based on the values of another variable](https://stackoverflow.com/questions/67067427/control-the-order-of-the-colour-based-on-the-values-of-another-variable) - 1 votes
-* [Display a list of plots in a grid with specified columns and rows based on grouping column values](https://stackoverflow.com/questions/67079420/display-a-list-of-plots-in-a-grid-with-specified-columns-and-rows-based-on-group) - 1 votes
-* [ggplot2 requiring explicit mention of mapping argument](https://stackoverflow.com/questions/67079771/ggplot2-requiring-explicit-mention-of-mapping-argument) - 1 votes
+* [How to add trailing zeros for cents and a dollar sign  to the Yaxis using ggplot2](https://stackoverflow.com/questions/67084404/how-to-add-trailing-zeros-for-cents-and-a-dollar-sign-to-the-y-axis-using-gg) - 3 votes
+* [Not getting the desired title in gganimate  animated labels with expression](https://stackoverflow.com/questions/67089930/not-getting-the-desired-title-in-gganimate-animated-labels-with-expression) - 3 votes
+* [R  Change background colour with ggplotly](https://stackoverflow.com/questions/67088073/r-change-background-colour-with-ggplotly) - 2 votes
+* [Add significance bars within and between groups in ggplot2 boxplots](https://stackoverflow.com/questions/67086029/add-significance-bars-within-and-between-groups-in-ggplot2-boxplots) - 2 votes
+* [Overlay geom_line within a categorical x axis for each group  ggplot2](https://stackoverflow.com/questions/67094016/overlay-geom-line-within-a-categorical-x-axis-for-each-group-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
