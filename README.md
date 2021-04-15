@@ -1,39 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-14<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-15<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Explode single DataFrame row into multiple ones](https://stackoverflow.com/questions/67095435/explode-single-dataframe-row-into-multiple-ones) - 4 votes
-* [Faster vectorized way to do this pandas formula with dates](https://stackoverflow.com/questions/67093638/faster-vectorized-way-to-do-this-pandas-formula-with-dates) - 3 votes
-* [Drop row if string is not equal to value  pandas](https://stackoverflow.com/questions/67085285/drop-row-if-string-is-not-equal-to-value-pandas) - 2 votes
-* [Copy nonna rows to fill nonna columns using pandas](https://stackoverflow.com/questions/67087322/copy-non-na-rows-to-fill-non-na-columns-using-pandas) - 2 votes
-* [How to transform multiple boolean columns to one column with column headers and NaN](https://stackoverflow.com/questions/67095325/how-to-transform-multiple-boolean-columns-to-one-column-with-column-headers-and) - 2 votes
+* [How can numpy array indexing techniques can give different outputs for same input code](https://stackoverflow.com/questions/67111878/how-can-numpy-array-indexing-techniques-can-give-different-outputs-for-same-inpu) - 4 votes
+* [Filter df containing specific values within sequence  pandas](https://stackoverflow.com/questions/67101267/filter-df-containing-specific-values-within-sequence-pandas) - 3 votes
+* [How to create 0 or 1 if value is the first occurrence and appearing in the latest year in pandas](https://stackoverflow.com/questions/67105439/how-to-create-0-or-1-if-value-is-the-first-occurrence-and-appearing-in-the-lates) - 3 votes
+* [stacked bar python pandas](https://stackoverflow.com/questions/67111912/stacked-bar-python-pandas) - 3 votes
+* [How to hash the strings of a dataframe in Python](https://stackoverflow.com/questions/67115484/how-to-hash-the-strings-of-a-dataframe-in-python) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Python count of words by word length](https://stackoverflow.com/questions/67087535/python-count-of-words-by-word-length) - 3 votes
-* [Saved matplotlib gif animation is different from the jupyter notebook output  Why](https://stackoverflow.com/questions/67089587/saved-matplotlib-gif-animation-is-different-from-the-jupyter-notebook-output-w) - 2 votes
-* [pandas dataframe overlapping time data on plot](https://stackoverflow.com/questions/67096193/pandas-dataframe-overlapping-time-data-on-plot) - 1 votes
-* [saving image using matplotlib in python](https://stackoverflow.com/questions/67097838/saving-image-using-matplotlib-in-python) - 1 votes
-* [How to set titles to lmplots according to cateogorical variable](https://stackoverflow.com/questions/67095311/how-to-set-titles-to-lmplots-according-to-cateogorical-variable) - 1 votes
+* [Make 3d Python plot as beautiful as Matlab](https://stackoverflow.com/questions/67101681/make-3d-python-plot-as-beautiful-as-matlab) - 2 votes
+* [matplotlibanimate in python using multiprocessing](https://stackoverflow.com/questions/67111498/matplotlib-animate-in-python-using-multiprocessing) - 2 votes
+* [Duplicate matplotlib plot in subplots](https://stackoverflow.com/questions/67114486/duplicate-matplotlib-plot-in-subplots) - 1 votes
+* [Change x axis labelling Matplotlib](https://stackoverflow.com/questions/67112621/change-x-axis-labelling-matplotlib) - 1 votes
+* [Using specific keys of python dictionary to plot a graph](https://stackoverflow.com/questions/67108871/using-specific-keys-of-python-dictionary-to-plot-a-graph) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to add trailing zeros for cents and a dollar sign  to the Yaxis using ggplot2](https://stackoverflow.com/questions/67084404/how-to-add-trailing-zeros-for-cents-and-a-dollar-sign-to-the-y-axis-using-gg) - 3 votes
-* [Not getting the desired title in gganimate  animated labels with expression](https://stackoverflow.com/questions/67089930/not-getting-the-desired-title-in-gganimate-animated-labels-with-expression) - 3 votes
-* [R  Change background colour with ggplotly](https://stackoverflow.com/questions/67088073/r-change-background-colour-with-ggplotly) - 2 votes
-* [Add significance bars within and between groups in ggplot2 boxplots](https://stackoverflow.com/questions/67086029/add-significance-bars-within-and-between-groups-in-ggplot2-boxplots) - 2 votes
-* [Overlay geom_line within a categorical x axis for each group  ggplot2](https://stackoverflow.com/questions/67094016/overlay-geom-line-within-a-categorical-x-axis-for-each-group-ggplot2) - 1 votes
+* [Alluvial plot in R how to space the strata](https://stackoverflow.com/questions/67113888/alluvial-plot-in-r-how-to-space-the-strata) - 1 votes
+* [Raincloud plot  histogram](https://stackoverflow.com/questions/67112799/raincloud-plot-histogram) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
