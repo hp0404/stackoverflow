@@ -1,36 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-15<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-16<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How can numpy array indexing techniques can give different outputs for same input code](https://stackoverflow.com/questions/67111878/how-can-numpy-array-indexing-techniques-can-give-different-outputs-for-same-inpu) - 4 votes
-* [Filter df containing specific values within sequence  pandas](https://stackoverflow.com/questions/67101267/filter-df-containing-specific-values-within-sequence-pandas) - 3 votes
-* [How to create 0 or 1 if value is the first occurrence and appearing in the latest year in pandas](https://stackoverflow.com/questions/67105439/how-to-create-0-or-1-if-value-is-the-first-occurrence-and-appearing-in-the-lates) - 3 votes
-* [stacked bar python pandas](https://stackoverflow.com/questions/67111912/stacked-bar-python-pandas) - 3 votes
-* [How to hash the strings of a dataframe in Python](https://stackoverflow.com/questions/67115484/how-to-hash-the-strings-of-a-dataframe-in-python) - 2 votes
+* [Column merge and shift elements in a Dataframe row](https://stackoverflow.com/questions/67124996/column-merge-and-shift-elements-in-a-dataframe-row) - 4 votes
+* [How to calculate the weighted average from three stocks](https://stackoverflow.com/questions/67118615/how-to-calculate-the-weighted-average-from-three-stocks) - 4 votes
+* [Flatten 39trees39 with relationships expressed in two columns with Pandas or Pyspark](https://stackoverflow.com/questions/67126968/flatten-trees-with-relationships-expressed-in-two-columns-with-pandas-or-pyspa) - 3 votes
+* [How to restructure this in python pandas Merge unstack or what](https://stackoverflow.com/questions/67125012/how-to-re-structure-this-in-python-pandas-merge-unstack-or-what) - 3 votes
+* [Avoiding nested apply](https://stackoverflow.com/questions/67127681/avoiding-nested-apply) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Make 3d Python plot as beautiful as Matlab](https://stackoverflow.com/questions/67101681/make-3d-python-plot-as-beautiful-as-matlab) - 2 votes
-* [matplotlibanimate in python using multiprocessing](https://stackoverflow.com/questions/67111498/matplotlib-animate-in-python-using-multiprocessing) - 2 votes
-* [Duplicate matplotlib plot in subplots](https://stackoverflow.com/questions/67114486/duplicate-matplotlib-plot-in-subplots) - 1 votes
-* [Change x axis labelling Matplotlib](https://stackoverflow.com/questions/67112621/change-x-axis-labelling-matplotlib) - 1 votes
-* [Using specific keys of python dictionary to plot a graph](https://stackoverflow.com/questions/67108871/using-specific-keys-of-python-dictionary-to-plot-a-graph) - 1 votes
+* [cannot import name 39configure_inline_support](https://stackoverflow.com/questions/67125699/cannot-import-name-configure-inline-support) - 1 votes
+* [Python How can I find the average value for all rows with a value of n](https://stackoverflow.com/questions/67122213/python-how-can-i-find-the-average-value-for-all-rows-with-a-value-of-n) - 1 votes
+* [how to plot different plot in a single plot matplotlib](https://stackoverflow.com/questions/67125229/how-to-plot-different-plot-in-a-single-plot-matplotlib) - 1 votes
+* [Insert spacing between columns in a table](https://stackoverflow.com/questions/67125160/insert-spacing-between-columns-in-a-table) - 1 votes
+* [stopping NavigationToolbar2Tk from displaying coordinates](https://stackoverflow.com/questions/67124620/stopping-navigationtoolbar2tk-from-displaying-coordinates) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Alluvial plot in R how to space the strata](https://stackoverflow.com/questions/67113888/alluvial-plot-in-r-how-to-space-the-strata) - 1 votes
-* [Raincloud plot  histogram](https://stackoverflow.com/questions/67112799/raincloud-plot-histogram) - 1 votes
+* [Grouped reversed bar plot in ggplot2](https://stackoverflow.com/questions/67123135/grouped-reversed-bar-plot-in-ggplot2) - 2 votes
+* [Can you stack boxplots in ggplot2](https://stackoverflow.com/questions/67119037/can-you-stack-boxplots-in-ggplot2) - 1 votes
+* [ggforcegeom_arc_bar not appearing on ggplot2 pie chart figure](https://stackoverflow.com/questions/67128475/ggforcegeom-arc-bar-not-appearing-on-ggplot2-pie-chart-figure) - 1 votes
+* [Scale_size and scale_alpha_manual based on group name](https://stackoverflow.com/questions/67125869/scale-size-and-scale-alpha-manual-based-on-group-name) - 1 votes
+* [r ggplot barplot with multiple date columns](https://stackoverflow.com/questions/67124271/r-ggplot-barplot-with-multiple-date-columns) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
