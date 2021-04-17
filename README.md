@@ -1,39 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-16<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-17<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Column merge and shift elements in a Dataframe row](https://stackoverflow.com/questions/67124996/column-merge-and-shift-elements-in-a-dataframe-row) - 4 votes
-* [How to calculate the weighted average from three stocks](https://stackoverflow.com/questions/67118615/how-to-calculate-the-weighted-average-from-three-stocks) - 4 votes
-* [Flatten 39trees39 with relationships expressed in two columns with Pandas or Pyspark](https://stackoverflow.com/questions/67126968/flatten-trees-with-relationships-expressed-in-two-columns-with-pandas-or-pyspa) - 3 votes
-* [How to restructure this in python pandas Merge unstack or what](https://stackoverflow.com/questions/67125012/how-to-re-structure-this-in-python-pandas-merge-unstack-or-what) - 3 votes
-* [Avoiding nested apply](https://stackoverflow.com/questions/67127681/avoiding-nested-apply) - 2 votes
+* [Conditional removal of last row in group](https://stackoverflow.com/questions/67136202/conditional-removal-of-last-row-in-group) - 3 votes
+* [how to group by and transform the count back to the dataframe](https://stackoverflow.com/questions/67140686/how-to-group-by-and-transform-the-count-back-to-the-dataframe) - 3 votes
+* [Converting multiple variables into one column and creating a matching values column using pandas](https://stackoverflow.com/questions/67137320/converting-multiple-variables-into-one-column-and-creating-a-matching-values-col) - 3 votes
+* [Return column of pandas df when another column39s list contains specific value](https://stackoverflow.com/questions/67140749/return-column-of-pandas-df-when-another-columns-list-contains-specific-value) - 2 votes
+* [How to extract dataframe by row values by conditions with other columns](https://stackoverflow.com/questions/67134821/how-to-extract-dataframe-by-row-values-by-conditions-with-other-columns) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [cannot import name 39configure_inline_support](https://stackoverflow.com/questions/67125699/cannot-import-name-configure-inline-support) - 1 votes
-* [Python How can I find the average value for all rows with a value of n](https://stackoverflow.com/questions/67122213/python-how-can-i-find-the-average-value-for-all-rows-with-a-value-of-n) - 1 votes
-* [how to plot different plot in a single plot matplotlib](https://stackoverflow.com/questions/67125229/how-to-plot-different-plot-in-a-single-plot-matplotlib) - 1 votes
-* [Insert spacing between columns in a table](https://stackoverflow.com/questions/67125160/insert-spacing-between-columns-in-a-table) - 1 votes
-* [stopping NavigationToolbar2Tk from displaying coordinates](https://stackoverflow.com/questions/67124620/stopping-navigationtoolbar2tk-from-displaying-coordinates) - 1 votes
+* [How do you change the spread of the Y axis of pandas box plot](https://stackoverflow.com/questions/67133645/how-do-you-change-the-spread-of-the-y-axis-of-pandas-box-plot) - 2 votes
+* [matplotlib  annotation line not match start and end point exactly](https://stackoverflow.com/questions/67134532/matplotlib-annotation-line-not-match-start-and-end-point-exactly) - 1 votes
+* [Plot separately different parts of a dataframe](https://stackoverflow.com/questions/67141297/plot-separately-different-parts-of-a-dataframe) - 1 votes
+* [How to add R squared R2 in matplotlib](https://stackoverflow.com/questions/67139011/how-to-add-r-squared-r2-in-matplotlib) - 1 votes
+* [python  How to find the image of an array x1 with a curve made with array xy](https://stackoverflow.com/questions/67136542/python-how-to-find-the-image-of-an-array-x1-with-a-curve-made-with-array-x-y) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Grouped reversed bar plot in ggplot2](https://stackoverflow.com/questions/67123135/grouped-reversed-bar-plot-in-ggplot2) - 2 votes
-* [Can you stack boxplots in ggplot2](https://stackoverflow.com/questions/67119037/can-you-stack-boxplots-in-ggplot2) - 1 votes
-* [ggforcegeom_arc_bar not appearing on ggplot2 pie chart figure](https://stackoverflow.com/questions/67128475/ggforcegeom-arc-bar-not-appearing-on-ggplot2-pie-chart-figure) - 1 votes
-* [Scale_size and scale_alpha_manual based on group name](https://stackoverflow.com/questions/67125869/scale-size-and-scale-alpha-manual-based-on-group-name) - 1 votes
-* [r ggplot barplot with multiple date columns](https://stackoverflow.com/questions/67124271/r-ggplot-barplot-with-multiple-date-columns) - 1 votes
+
 <!-- ggplot2 ends -->
 </td></tr></table>
 
