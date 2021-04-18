@@ -1,35 +1,33 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-17<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-18<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Conditional removal of last row in group](https://stackoverflow.com/questions/67136202/conditional-removal-of-last-row-in-group) - 3 votes
-* [how to group by and transform the count back to the dataframe](https://stackoverflow.com/questions/67140686/how-to-group-by-and-transform-the-count-back-to-the-dataframe) - 3 votes
-* [Converting multiple variables into one column and creating a matching values column using pandas](https://stackoverflow.com/questions/67137320/converting-multiple-variables-into-one-column-and-creating-a-matching-values-col) - 3 votes
-* [Return column of pandas df when another column39s list contains specific value](https://stackoverflow.com/questions/67140749/return-column-of-pandas-df-when-another-columns-list-contains-specific-value) - 2 votes
-* [How to extract dataframe by row values by conditions with other columns](https://stackoverflow.com/questions/67134821/how-to-extract-dataframe-by-row-values-by-conditions-with-other-columns) - 2 votes
+* [how to get a subgroup start finish indexes of dataframe](https://stackoverflow.com/questions/67150765/how-to-get-a-subgroup-start-finish-indexes-of-dataframe) - 3 votes
+* [How to dynamically fill column values based on other column values](https://stackoverflow.com/questions/67147154/how-to-dynamically-fill-column-values-based-on-other-column-values) - 3 votes
+* [In Pandas dataframe using boolean output how to detect crossovers of two different columns lines](https://stackoverflow.com/questions/67146925/in-pandas-dataframe-using-boolean-output-how-to-detect-crossovers-of-two-diffe) - 3 votes
+* [Fill missing combinations with quotonesquot in a groupby object](https://stackoverflow.com/questions/67149327/fill-missing-combinations-with-ones-in-a-groupby-object) - 2 votes
+* [Pandas fill values using previous period](https://stackoverflow.com/questions/67144671/pandas-fill-values-using-previous-period) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How do you change the spread of the Y axis of pandas box plot](https://stackoverflow.com/questions/67133645/how-do-you-change-the-spread-of-the-y-axis-of-pandas-box-plot) - 2 votes
-* [matplotlib  annotation line not match start and end point exactly](https://stackoverflow.com/questions/67134532/matplotlib-annotation-line-not-match-start-and-end-point-exactly) - 1 votes
-* [Plot separately different parts of a dataframe](https://stackoverflow.com/questions/67141297/plot-separately-different-parts-of-a-dataframe) - 1 votes
-* [How to add R squared R2 in matplotlib](https://stackoverflow.com/questions/67139011/how-to-add-r-squared-r2-in-matplotlib) - 1 votes
-* [python  How to find the image of an array x1 with a curve made with array xy](https://stackoverflow.com/questions/67136542/python-how-to-find-the-image-of-an-array-x1-with-a-curve-made-with-array-x-y) - 1 votes
+* [How can i overlap two parts in plthist](https://stackoverflow.com/questions/67146435/how-can-i-overlap-two-parts-in-plt-hist) - 2 votes
+* [FuncAnimation produces one more frame than intended at startup](https://stackoverflow.com/questions/67150552/funcanimation-produces-one-more-frame-than-intended-at-startup) - 1 votes
+* [PythonPandas  How to Create a Line Graph in a multilevel pivoted table](https://stackoverflow.com/questions/67147498/python-pandas-how-to-create-a-line-graph-in-a-multi-level-pivoted-table) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-
+* [Plot a ceteris paribus relationship between two variables](https://stackoverflow.com/questions/67146896/plot-a-ceteris-paribus-relationship-between-two-variables) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
