@@ -1,33 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-18<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-19<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [how to get a subgroup start finish indexes of dataframe](https://stackoverflow.com/questions/67150765/how-to-get-a-subgroup-start-finish-indexes-of-dataframe) - 3 votes
-* [How to dynamically fill column values based on other column values](https://stackoverflow.com/questions/67147154/how-to-dynamically-fill-column-values-based-on-other-column-values) - 3 votes
-* [In Pandas dataframe using boolean output how to detect crossovers of two different columns lines](https://stackoverflow.com/questions/67146925/in-pandas-dataframe-using-boolean-output-how-to-detect-crossovers-of-two-diffe) - 3 votes
-* [Fill missing combinations with quotonesquot in a groupby object](https://stackoverflow.com/questions/67149327/fill-missing-combinations-with-ones-in-a-groupby-object) - 2 votes
-* [Pandas fill values using previous period](https://stackoverflow.com/questions/67144671/pandas-fill-values-using-previous-period) - 2 votes
+* [Faster way to sum all combinations of rows in dataframe](https://stackoverflow.com/questions/67161539/faster-way-to-sum-all-combinations-of-rows-in-dataframe) - 5 votes
+* [Keep only largest interval in coordinates row in pandas](https://stackoverflow.com/questions/67160408/keep-only-largest-interval-in-coordinates-row-in-pandas) - 5 votes
+* [Pandas groupby with multiindex columns](https://stackoverflow.com/questions/67159151/pandas-groupby-with-multiindex-columns) - 4 votes
+* [Calculate month over month and year over year change for vintage data](https://stackoverflow.com/questions/67155907/calculate-month-over-month-and-year-over-year-change-for-vintage-data) - 4 votes
+* [Cumulative sales data with threshold value forming a new series  column with a boolean value](https://stackoverflow.com/questions/67159328/cumulative-sales-data-with-threshold-value-forming-a-new-series-column-with-a) - 4 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How can i overlap two parts in plthist](https://stackoverflow.com/questions/67146435/how-can-i-overlap-two-parts-in-plt-hist) - 2 votes
-* [FuncAnimation produces one more frame than intended at startup](https://stackoverflow.com/questions/67150552/funcanimation-produces-one-more-frame-than-intended-at-startup) - 1 votes
-* [PythonPandas  How to Create a Line Graph in a multilevel pivoted table](https://stackoverflow.com/questions/67147498/python-pandas-how-to-create-a-line-graph-in-a-multi-level-pivoted-table) - 1 votes
+* [Is there a 39levels39equivalent argument for matplotlib scatter plot](https://stackoverflow.com/questions/67165115/is-there-a-levels-equivalent-argument-for-matplotlib-scatter-plot) - 2 votes
+* [Why has subplot of matplotlib not the same size](https://stackoverflow.com/questions/67167917/why-has-subplot-of-matplotlib-not-the-same-size) - 2 votes
+* [Matplotlib slicing a 3D Mesh grid to 2D and do countor plot](https://stackoverflow.com/questions/67159386/matplotlib-slicing-a-3d-mesh-grid-to-2d-and-do-countor-plot) - 2 votes
+* [One colorbar to indicate data range for multiple subplots using matplotlib](https://stackoverflow.com/questions/67165630/one-colorbar-to-indicate-data-range-for-multiple-subplots-using-matplotlib) - 1 votes
+* [surface 3D plotting using matplotlib](https://stackoverflow.com/questions/67164455/surface-3d-plotting-using-matplotlib) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Plot a ceteris paribus relationship between two variables](https://stackoverflow.com/questions/67146896/plot-a-ceteris-paribus-relationship-between-two-variables) - 1 votes
+* [Plots39 names based on original CSV files39 names](https://stackoverflow.com/questions/67161421/plots-names-based-on-original-csv-files-names) - 3 votes
+* [A theme for axis for ggplot2  gap between x and y axis](https://stackoverflow.com/questions/67156636/a-theme-for-axis-for-ggplot2-gap-between-x-and-y-axis) - 2 votes
+* [R latex2exp TeX greek letter display error](https://stackoverflow.com/questions/67156343/r-latex2exp-tex-greek-letter-display-error) - 2 votes
+* [plotting line graph with two lines in R](https://stackoverflow.com/questions/67167017/plotting-line-graph-with-two-lines-in-r) - 1 votes
+* [How to extract longitude and latitude using postal code and ggmap function](https://stackoverflow.com/questions/67154658/how-to-extract-longitude-and-latitude-using-postal-code-and-ggmap-function) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
