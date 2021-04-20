@@ -1,39 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-19<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-20<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Faster way to sum all combinations of rows in dataframe](https://stackoverflow.com/questions/67161539/faster-way-to-sum-all-combinations-of-rows-in-dataframe) - 5 votes
-* [Keep only largest interval in coordinates row in pandas](https://stackoverflow.com/questions/67160408/keep-only-largest-interval-in-coordinates-row-in-pandas) - 5 votes
-* [Pandas groupby with multiindex columns](https://stackoverflow.com/questions/67159151/pandas-groupby-with-multiindex-columns) - 4 votes
-* [Calculate month over month and year over year change for vintage data](https://stackoverflow.com/questions/67155907/calculate-month-over-month-and-year-over-year-change-for-vintage-data) - 4 votes
-* [Cumulative sales data with threshold value forming a new series  column with a boolean value](https://stackoverflow.com/questions/67159328/cumulative-sales-data-with-threshold-value-forming-a-new-series-column-with-a) - 4 votes
+* [swap last 2 string of columns seperated by delimiter](https://stackoverflow.com/questions/67183230/swap-last-2-string-of-columns-seperated-by-delimiter) - 3 votes
+* [How to drop duplicates in a data frame and keep first with two exceptions](https://stackoverflow.com/questions/67182827/how-to-drop-duplicates-in-a-data-frame-and-keep-first-with-two-exceptions) - 3 votes
+* [i want to separate data frame based on marks and download it then](https://stackoverflow.com/questions/67178597/i-want-to-separate-data-frame-based-on-marks-and-download-it-then) - 3 votes
+* [How to filter multiple columns for value or wildcard](https://stackoverflow.com/questions/67175837/how-to-filter-multiple-columns-for-value-or-wildcard) - 3 votes
+* [create a column that can count the fraction](https://stackoverflow.com/questions/67171875/create-a-column-that-can-count-the-fraction) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Is there a 39levels39equivalent argument for matplotlib scatter plot](https://stackoverflow.com/questions/67165115/is-there-a-levels-equivalent-argument-for-matplotlib-scatter-plot) - 2 votes
-* [Why has subplot of matplotlib not the same size](https://stackoverflow.com/questions/67167917/why-has-subplot-of-matplotlib-not-the-same-size) - 2 votes
-* [Matplotlib slicing a 3D Mesh grid to 2D and do countor plot](https://stackoverflow.com/questions/67159386/matplotlib-slicing-a-3d-mesh-grid-to-2d-and-do-countor-plot) - 2 votes
-* [One colorbar to indicate data range for multiple subplots using matplotlib](https://stackoverflow.com/questions/67165630/one-colorbar-to-indicate-data-range-for-multiple-subplots-using-matplotlib) - 1 votes
-* [surface 3D plotting using matplotlib](https://stackoverflow.com/questions/67164455/surface-3d-plotting-using-matplotlib) - 1 votes
+* [How can I plot a pandas dataframe with different line colors for each column](https://stackoverflow.com/questions/67172613/how-can-i-plot-a-pandas-dataframe-with-different-line-colors-for-each-column) - 2 votes
+* [How to put values inside the outer pie plot in nested pie plot in matplotlib](https://stackoverflow.com/questions/67183525/how-to-put-values-inside-the-outer-pie-plot-in-nested-pie-plot-in-matplotlib) - 2 votes
+* [Matplotlib figure size dose not match the pixel length](https://stackoverflow.com/questions/67185064/matplotlib-figure-size-dose-not-match-the-pixel-length) - 1 votes
+* [Choose colors for bar3d matplotlib plot](https://stackoverflow.com/questions/67182896/choose-colors-for-bar3d-matplotlib-plot) - 1 votes
+* [Adding labels to datapoints in python](https://stackoverflow.com/questions/67181339/adding-labels-to-datapoints-in-python) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Plots39 names based on original CSV files39 names](https://stackoverflow.com/questions/67161421/plots-names-based-on-original-csv-files-names) - 3 votes
-* [A theme for axis for ggplot2  gap between x and y axis](https://stackoverflow.com/questions/67156636/a-theme-for-axis-for-ggplot2-gap-between-x-and-y-axis) - 2 votes
-* [R latex2exp TeX greek letter display error](https://stackoverflow.com/questions/67156343/r-latex2exp-tex-greek-letter-display-error) - 2 votes
-* [plotting line graph with two lines in R](https://stackoverflow.com/questions/67167017/plotting-line-graph-with-two-lines-in-r) - 1 votes
-* [How to extract longitude and latitude using postal code and ggmap function](https://stackoverflow.com/questions/67154658/how-to-extract-longitude-and-latitude-using-postal-code-and-ggmap-function) - 1 votes
+* [customize order of yaxis label in ggplot](https://stackoverflow.com/questions/67178575/customize-order-of-y-axis-label-in-ggplot) - 2 votes
+* [stacked bar chart in r using ggplot](https://stackoverflow.com/questions/67174585/stacked-bar-chart-in-r-using-ggplot) - 2 votes
+* [r ggplot how to adjust the column width of bar](https://stackoverflow.com/questions/67183025/r-ggplot-how-to-adjust-the-column-width-of-bar) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
