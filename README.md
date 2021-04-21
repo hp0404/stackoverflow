@@ -1,37 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-20<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-21<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [swap last 2 string of columns seperated by delimiter](https://stackoverflow.com/questions/67183230/swap-last-2-string-of-columns-seperated-by-delimiter) - 3 votes
-* [How to drop duplicates in a data frame and keep first with two exceptions](https://stackoverflow.com/questions/67182827/how-to-drop-duplicates-in-a-data-frame-and-keep-first-with-two-exceptions) - 3 votes
-* [i want to separate data frame based on marks and download it then](https://stackoverflow.com/questions/67178597/i-want-to-separate-data-frame-based-on-marks-and-download-it-then) - 3 votes
-* [How to filter multiple columns for value or wildcard](https://stackoverflow.com/questions/67175837/how-to-filter-multiple-columns-for-value-or-wildcard) - 3 votes
-* [create a column that can count the fraction](https://stackoverflow.com/questions/67171875/create-a-column-that-can-count-the-fraction) - 3 votes
+* [In pandas combine outer json with nested json and create new dataframe](https://stackoverflow.com/questions/67188012/in-pandas-combine-outer-json-with-nested-json-and-create-new-dataframe) - 4 votes
+* [Match one of two lookbehinds](https://stackoverflow.com/questions/67197060/match-one-of-two-lookbehinds) - 3 votes
+* [Apply boolean mask only to indexed portion of a dataframe column](https://stackoverflow.com/questions/67200336/apply-boolean-mask-only-to-indexed-portion-of-a-dataframe-column) - 3 votes
+* [I am trying to get a word counter of and word occurrence of words from a csv in python However I receive an error](https://stackoverflow.com/questions/67199568/i-am-trying-to-get-a-word-counter-of-and-word-occurrence-of-words-from-a-csv-in) - 3 votes
+* [How to add 91 to all the values in a column of a pandas data frame](https://stackoverflow.com/questions/67199019/how-to-add-91-to-all-the-values-in-a-column-of-a-pandas-data-frame) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How can I plot a pandas dataframe with different line colors for each column](https://stackoverflow.com/questions/67172613/how-can-i-plot-a-pandas-dataframe-with-different-line-colors-for-each-column) - 2 votes
-* [How to put values inside the outer pie plot in nested pie plot in matplotlib](https://stackoverflow.com/questions/67183525/how-to-put-values-inside-the-outer-pie-plot-in-nested-pie-plot-in-matplotlib) - 2 votes
-* [Matplotlib figure size dose not match the pixel length](https://stackoverflow.com/questions/67185064/matplotlib-figure-size-dose-not-match-the-pixel-length) - 1 votes
-* [Choose colors for bar3d matplotlib plot](https://stackoverflow.com/questions/67182896/choose-colors-for-bar3d-matplotlib-plot) - 1 votes
-* [Adding labels to datapoints in python](https://stackoverflow.com/questions/67181339/adding-labels-to-datapoints-in-python) - 1 votes
+* [Adding grouping ticks to a bar chart](https://stackoverflow.com/questions/67188965/adding-grouping-ticks-to-a-bar-chart) - 2 votes
+* [Matplotlibpyplottable best way to display table data](https://stackoverflow.com/questions/67188741/matplotlib-pyplot-table-best-way-to-display-table-data) - 2 votes
+* [Consistent color argument between matplotlib scatter to matplotlib plot](https://stackoverflow.com/questions/67199632/consistent-color-argument-between-matplotlib-scatter-to-matplotlib-plot) - 1 votes
+* [create seaborn lineplot with multiple lines and hue](https://stackoverflow.com/questions/67198205/create-seaborn-lineplot-with-multiple-lines-and-hue) - 1 votes
+* [How to plot a graph out of two arrays with the x axis will be the length of the two arrays](https://stackoverflow.com/questions/67190886/how-to-plot-a-graph-out-of-two-arrays-with-the-x-axis-will-be-the-length-of-the) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [customize order of yaxis label in ggplot](https://stackoverflow.com/questions/67178575/customize-order-of-y-axis-label-in-ggplot) - 2 votes
-* [stacked bar chart in r using ggplot](https://stackoverflow.com/questions/67174585/stacked-bar-chart-in-r-using-ggplot) - 2 votes
-* [r ggplot how to adjust the column width of bar](https://stackoverflow.com/questions/67183025/r-ggplot-how-to-adjust-the-column-width-of-bar) - 1 votes
+* [show gap for missing date in geom area](https://stackoverflow.com/questions/67195164/show-gap-for-missing-date-in-geom-area) - 1 votes
+* [Is there a way to change the symbol shape in a ggplot2 legend](https://stackoverflow.com/questions/67188431/is-there-a-way-to-change-the-symbol-shape-in-a-ggplot2-legend) - 1 votes
+* [Combine geom_function and geom_ribbon in ggplot2](https://stackoverflow.com/questions/67203540/combine-geom-function-and-geom-ribbon-in-ggplot2) - 1 votes
+* [A negative value from the top of a stacked bar chart](https://stackoverflow.com/questions/67200321/a-negative-value-from-the-top-of-a-stacked-bar-chart) - 1 votes
+* [Define axis dimensions manually in ggplot in R](https://stackoverflow.com/questions/67199933/define-axis-dimensions-manually-in-ggplot-in-r) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
