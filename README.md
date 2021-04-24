@@ -1,38 +1,34 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-23<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-24<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Apply a function to each cell of a pandas dataframe using information from a particular column](https://stackoverflow.com/questions/67226612/apply-a-function-to-each-cell-of-a-pandas-dataframe-using-information-from-a-par) - 6 votes
-* [Topic modeling using LDA in python not revealing output as desired](https://stackoverflow.com/questions/67233215/topic-modeling-using-lda-in-python-not-revealing-output-as-desired) - 5 votes
-* [Converting Dataframe with multplie values in one cell](https://stackoverflow.com/questions/67225274/converting-dataframe-with-multplie-values-in-one-cell) - 3 votes
-* [Pandas sort_value issue Wrong sorting integer when applied key parameter](https://stackoverflow.com/questions/67228411/pandas-sort-value-issue-wrong-sorting-integer-when-applied-key-parameter) - 3 votes
-* [Compare values in dataframe column by fractions](https://stackoverflow.com/questions/67232619/compare-values-in-dataframe-column-by-fractions) - 3 votes
+* [Subtraction between rows with pandas](https://stackoverflow.com/questions/67240790/subtraction-between-rows-with-pandas) - 3 votes
+* [Subset dataframe based on condition if column value has string](https://stackoverflow.com/questions/67244493/subset-dataframe-based-on-condition-if-column-value-has-string) - 2 votes
+* [How to divide two dfs with dissimilar column length](https://stackoverflow.com/questions/67241562/how-to-divide-two-dfs-with-dissimilar-column-length) - 2 votes
+* [combining multiple text files into csv in python](https://stackoverflow.com/questions/67243902/combining-multiple-text-files-into-csv-in-python) - 2 votes
+* [How to remove the quotquot from phone numbers and choose the phone numbers from a list of strings](https://stackoverflow.com/questions/67238769/how-to-remove-the-from-phone-numbers-and-choose-the-phone-numbers-from-a-lis) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Matplotib Finance mplfinance formatting axes of chart unsing mpfplot](https://stackoverflow.com/questions/67232404/matplotib-finance-mplfinance-formatting-axes-of-chart-unsing-mpf-plot) - 1 votes
-* [Why do OpenCV and Matplotlib force a delay when updating display](https://stackoverflow.com/questions/67235755/why-do-opencv-and-matplotlib-force-a-delay-when-updating-display) - 1 votes
-* [How to change bin size for each subplot when using Dataframeplot in pandas](https://stackoverflow.com/questions/67227478/how-to-change-bin-size-for-each-subplot-when-using-dataframe-plot-in-pandas) - 1 votes
-* [Plotting a 3dimensional numpy array](https://stackoverflow.com/questions/67229303/plotting-a-3-dimensional-numpy-array) - 1 votes
-* [How to customize the coordinate axes in matlibplot](https://stackoverflow.com/questions/67233159/how-to-customize-the-coordinate-axes-in-matlibplot) - 1 votes
+* [matplotlib barh how to make a visual gap between two groups of bars](https://stackoverflow.com/questions/67245180/matplotlib-barh-how-to-make-a-visual-gap-between-two-groups-of-bars) - 1 votes
+* [Matplotlib scatterplot with standardized colormap across subplots](https://stackoverflow.com/questions/67238671/matplotlib-scatterplot-with-standardized-colormap-across-subplots) - 1 votes
+* [Multi Index Seaborn Line Plot](https://stackoverflow.com/questions/67247105/multi-index-seaborn-line-plot) - 1 votes
+* [How to convert number to compact format in python for charting](https://stackoverflow.com/questions/67239317/how-to-convert-number-to-compact-format-in-python-for-charting) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Barplot for count data with multiple columns](https://stackoverflow.com/questions/67233995/barplot-for-count-data-with-multiple-columns) - 1 votes
-* [Find the area enclosed by a loop function in r](https://stackoverflow.com/questions/67235072/find-the-area-enclosed-by-a-loop-function-in-r) - 1 votes
-* [how to plot timeseries events in a barcode style](https://stackoverflow.com/questions/67227496/how-to-plot-timeseries-events-in-a-barcode-style) - 1 votes
-* [R ggplot Sort Percent Stacked Bar Chart](https://stackoverflow.com/questions/67223381/r-ggplot-sort-percent-stacked-bar-chart) - 1 votes
+* [How to plot a 39ggridges39 type plot in 3D with multiple z axis](https://stackoverflow.com/questions/67243131/how-to-plot-a-ggridges-type-plot-in-3d-with-multiple-z-axis) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
