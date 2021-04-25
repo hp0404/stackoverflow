@@ -1,34 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-24<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-25<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Subtraction between rows with pandas](https://stackoverflow.com/questions/67240790/subtraction-between-rows-with-pandas) - 3 votes
-* [Subset dataframe based on condition if column value has string](https://stackoverflow.com/questions/67244493/subset-dataframe-based-on-condition-if-column-value-has-string) - 2 votes
-* [How to divide two dfs with dissimilar column length](https://stackoverflow.com/questions/67241562/how-to-divide-two-dfs-with-dissimilar-column-length) - 2 votes
-* [combining multiple text files into csv in python](https://stackoverflow.com/questions/67243902/combining-multiple-text-files-into-csv-in-python) - 2 votes
-* [How to remove the quotquot from phone numbers and choose the phone numbers from a list of strings](https://stackoverflow.com/questions/67238769/how-to-remove-the-from-phone-numbers-and-choose-the-phone-numbers-from-a-lis) - 1 votes
+* [Create a symmetric matrix that counts the relational records](https://stackoverflow.com/questions/67255415/create-a-symmetric-matrix-that-counts-the-relational-records) - 7 votes
+* [Strange output for topic modeling in python using PAM LDA](https://stackoverflow.com/questions/67254627/strange-output-for-topic-modeling-in-python-using-pam-lda) - 5 votes
+* [How to apply Max function between rows on 2D list in pandas grouped dataframe](https://stackoverflow.com/questions/67251172/how-to-apply-max-function-between-rows-on-2d-list-in-pandas-grouped-dataframe) - 3 votes
+* [How do I remove columns in Pandas that contains nonzero in less than 1 of number of rows](https://stackoverflow.com/questions/67254642/how-do-i-remove-columns-in-pandas-that-contains-non-zero-in-less-than-1-of-numb) - 3 votes
+* [Convert dataframe column string values into dummy variable columns](https://stackoverflow.com/questions/67248922/convert-dataframe-column-string-values-into-dummy-variable-columns) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [matplotlib barh how to make a visual gap between two groups of bars](https://stackoverflow.com/questions/67245180/matplotlib-barh-how-to-make-a-visual-gap-between-two-groups-of-bars) - 1 votes
-* [Matplotlib scatterplot with standardized colormap across subplots](https://stackoverflow.com/questions/67238671/matplotlib-scatterplot-with-standardized-colormap-across-subplots) - 1 votes
-* [Multi Index Seaborn Line Plot](https://stackoverflow.com/questions/67247105/multi-index-seaborn-line-plot) - 1 votes
-* [How to convert number to compact format in python for charting](https://stackoverflow.com/questions/67239317/how-to-convert-number-to-compact-format-in-python-for-charting) - 1 votes
+* [Plotting a discrete transfer function using scipysignaldstep](https://stackoverflow.com/questions/67248802/plotting-a-discrete-transfer-function-using-scipy-signal-dstep) - 3 votes
+* [How to set space between the axis and the label in matplotlib](https://stackoverflow.com/questions/67253174/how-to-set-space-between-the-axis-and-the-label-in-matplotlib) - 2 votes
+* [Fill area between two vectors in matlibplot](https://stackoverflow.com/questions/67254855/fill-area-between-two-vectors-in-matlibplot) - 2 votes
+* [How to plot a pie chart from an object dataframe column in python](https://stackoverflow.com/questions/67250163/how-to-plot-a-pie-chart-from-an-object-dataframe-column-in-python) - 2 votes
+* [Plot four curve with one x axis and 2 different y axis on the same plot in Python](https://stackoverflow.com/questions/67248885/plot-four-curve-with-one-x-axis-and-2-different-y-axis-on-the-same-plot-in-pytho) - 2 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to plot a 39ggridges39 type plot in 3D with multiple z axis](https://stackoverflow.com/questions/67243131/how-to-plot-a-ggridges-type-plot-in-3d-with-multiple-z-axis) - 1 votes
+* [Warning Error in shinyoutput Reading from shinyoutput object is not allowed](https://stackoverflow.com/questions/67249845/warning-error-in-shinyoutput-reading-from-shinyoutput-object-is-not-allowed) - 1 votes
+* [How to extract depth contours depthContour from DepthProc to use them in ggpplot2](https://stackoverflow.com/questions/67251122/how-to-extract-depth-contours-depthcontour-from-depthproc-to-use-them-in-ggppl) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
