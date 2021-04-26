@@ -1,36 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-25<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-26<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Create a symmetric matrix that counts the relational records](https://stackoverflow.com/questions/67255415/create-a-symmetric-matrix-that-counts-the-relational-records) - 7 votes
-* [Strange output for topic modeling in python using PAM LDA](https://stackoverflow.com/questions/67254627/strange-output-for-topic-modeling-in-python-using-pam-lda) - 5 votes
-* [How to apply Max function between rows on 2D list in pandas grouped dataframe](https://stackoverflow.com/questions/67251172/how-to-apply-max-function-between-rows-on-2d-list-in-pandas-grouped-dataframe) - 3 votes
-* [How do I remove columns in Pandas that contains nonzero in less than 1 of number of rows](https://stackoverflow.com/questions/67254642/how-do-i-remove-columns-in-pandas-that-contains-non-zero-in-less-than-1-of-numb) - 3 votes
-* [Convert dataframe column string values into dummy variable columns](https://stackoverflow.com/questions/67248922/convert-dataframe-column-string-values-into-dummy-variable-columns) - 3 votes
+* [Is it possible to unpack a DataFrame into separate Series a function call If so how](https://stackoverflow.com/questions/67264022/is-it-possible-to-unpack-a-dataframe-into-separate-series-a-function-call-if-so) - 4 votes
+* [Subset of dataframe where two columns equals two lists](https://stackoverflow.com/questions/67269166/subset-of-dataframe-where-two-columns-equals-two-lists) - 4 votes
+* [Pandas vectorized way to produce pairwise combinations of a group rows with all other rows](https://stackoverflow.com/questions/67270695/pandas-vectorized-way-to-produce-pair-wise-combinations-of-a-group-rows-with-all) - 4 votes
+* [Split pandas column into two by a numbercontaining time](https://stackoverflow.com/questions/67263365/split-pandas-column-into-two-by-a-numbercontaining-time) - 3 votes
+* [Add level to column from Dictionary](https://stackoverflow.com/questions/67263461/add-level-to-column-from-dictionary) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Plotting a discrete transfer function using scipysignaldstep](https://stackoverflow.com/questions/67248802/plotting-a-discrete-transfer-function-using-scipy-signal-dstep) - 3 votes
-* [How to set space between the axis and the label in matplotlib](https://stackoverflow.com/questions/67253174/how-to-set-space-between-the-axis-and-the-label-in-matplotlib) - 2 votes
-* [Fill area between two vectors in matlibplot](https://stackoverflow.com/questions/67254855/fill-area-between-two-vectors-in-matlibplot) - 2 votes
-* [How to plot a pie chart from an object dataframe column in python](https://stackoverflow.com/questions/67250163/how-to-plot-a-pie-chart-from-an-object-dataframe-column-in-python) - 2 votes
-* [Plot four curve with one x axis and 2 different y axis on the same plot in Python](https://stackoverflow.com/questions/67248885/plot-four-curve-with-one-x-axis-and-2-different-y-axis-on-the-same-plot-in-pytho) - 2 votes
+* [Constraining a Random Walk in python how to make it work](https://stackoverflow.com/questions/67260356/constraining-a-random-walk-in-python-how-to-make-it-work) - 3 votes
+* [Change fontsize of indivual labels in the matplotlib legend](https://stackoverflow.com/questions/67259889/change-fontsize-of-indivual-labels-in-the-matplotlib-legend) - 2 votes
+* [How to set yaxis without scaling my graph](https://stackoverflow.com/questions/67259878/how-to-set-yaxis-without-scaling-my-graph) - 2 votes
+* [matplotlib heatmap text digit](https://stackoverflow.com/questions/67264721/matplotlib-heatmap-text-digit) - 1 votes
+* [How to locate and count the number of words in a column](https://stackoverflow.com/questions/67259338/how-to-locate-and-count-the-number-of-words-in-a-column) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Warning Error in shinyoutput Reading from shinyoutput object is not allowed](https://stackoverflow.com/questions/67249845/warning-error-in-shinyoutput-reading-from-shinyoutput-object-is-not-allowed) - 1 votes
-* [How to extract depth contours depthContour from DepthProc to use them in ggpplot2](https://stackoverflow.com/questions/67251122/how-to-extract-depth-contours-depthcontour-from-depthproc-to-use-them-in-ggppl) - 1 votes
+* [Is their an easy way to use the formula from a ggplot in a markdown table](https://stackoverflow.com/questions/67261244/is-their-an-easy-way-to-use-the-formula-from-a-ggplot-in-a-markdown-table) - 2 votes
+* [Horizontal barplot in R](https://stackoverflow.com/questions/67272982/horizontal-barplot-in-r) - 1 votes
+* [How adjust direction of my arrow in ggplot2](https://stackoverflow.com/questions/67270693/how-adjust-direction-of-my-arrow-in-ggplot2) - 1 votes
+* [Boxplot with Summarized and Grouped Data in R](https://stackoverflow.com/questions/67260125/boxplot-with-summarized-and-grouped-data-in-r) - 1 votes
+* [Equalize the range of the values in legends for multiple ggplots](https://stackoverflow.com/questions/67266198/equalize-the-range-of-the-values-in-legends-for-multiple-ggplots) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
