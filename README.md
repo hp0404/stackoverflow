@@ -1,39 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-26<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-27<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Is it possible to unpack a DataFrame into separate Series a function call If so how](https://stackoverflow.com/questions/67264022/is-it-possible-to-unpack-a-dataframe-into-separate-series-a-function-call-if-so) - 4 votes
-* [Subset of dataframe where two columns equals two lists](https://stackoverflow.com/questions/67269166/subset-of-dataframe-where-two-columns-equals-two-lists) - 4 votes
-* [Pandas vectorized way to produce pairwise combinations of a group rows with all other rows](https://stackoverflow.com/questions/67270695/pandas-vectorized-way-to-produce-pair-wise-combinations-of-a-group-rows-with-all) - 4 votes
-* [Split pandas column into two by a numbercontaining time](https://stackoverflow.com/questions/67263365/split-pandas-column-into-two-by-a-numbercontaining-time) - 3 votes
-* [Add level to column from Dictionary](https://stackoverflow.com/questions/67263461/add-level-to-column-from-dictionary) - 3 votes
+* [How can I do a python keyword search and word counter within all csvs files in directory and write to a single csv](https://stackoverflow.com/questions/67287252/how-can-i-do-a-python-keyword-search-and-word-counter-within-all-csvs-files-in-d) - 10 votes
+* [How to print rows if they meet a certain range](https://stackoverflow.com/questions/67280459/how-to-print-rows-if-they-meet-a-certain-range) - 6 votes
+* [Applying an if else function to two string columns in python  pandas](https://stackoverflow.com/questions/67283294/applying-an-if-else-function-to-two-string-columns-in-python-pandas) - 3 votes
+* [How can I split Pandas dataframe column with strings according to multiple conditions](https://stackoverflow.com/questions/67287696/how-can-i-split-pandas-dataframe-column-with-strings-according-to-multiple-condi) - 3 votes
+* [Read multiple excels according to the date and year you have](https://stackoverflow.com/questions/67285481/read-multiple-excels-according-to-the-date-and-year-you-have) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Constraining a Random Walk in python how to make it work](https://stackoverflow.com/questions/67260356/constraining-a-random-walk-in-python-how-to-make-it-work) - 3 votes
-* [Change fontsize of indivual labels in the matplotlib legend](https://stackoverflow.com/questions/67259889/change-fontsize-of-indivual-labels-in-the-matplotlib-legend) - 2 votes
-* [How to set yaxis without scaling my graph](https://stackoverflow.com/questions/67259878/how-to-set-yaxis-without-scaling-my-graph) - 2 votes
-* [matplotlib heatmap text digit](https://stackoverflow.com/questions/67264721/matplotlib-heatmap-text-digit) - 1 votes
-* [How to locate and count the number of words in a column](https://stackoverflow.com/questions/67259338/how-to-locate-and-count-the-number-of-words-in-a-column) - 1 votes
+* [Circular histogram with fitted Von Mises Distribution](https://stackoverflow.com/questions/67282865/circular-histogram-with-fitted-von-mises-distribution) - 6 votes
+* [Drawing a neural network](https://stackoverflow.com/questions/67279657/drawing-a-neural-network) - 6 votes
+* [Render yaxis properly when overlaying pandas KDE and histogram](https://stackoverflow.com/questions/67288172/render-y-axis-properly-when-overlaying-pandas-kde-and-histogram) - 2 votes
+* [Change color line in pltplot](https://stackoverflow.com/questions/67280385/change-color-line-in-plt-plot) - 2 votes
+* [Seaborn Box Plot Whiskers Not Matching Calculations](https://stackoverflow.com/questions/67276456/seaborn-box-plot-whiskers-not-matching-calculations) - 2 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Is their an easy way to use the formula from a ggplot in a markdown table](https://stackoverflow.com/questions/67261244/is-their-an-easy-way-to-use-the-formula-from-a-ggplot-in-a-markdown-table) - 2 votes
-* [Horizontal barplot in R](https://stackoverflow.com/questions/67272982/horizontal-barplot-in-r) - 1 votes
-* [How adjust direction of my arrow in ggplot2](https://stackoverflow.com/questions/67270693/how-adjust-direction-of-my-arrow-in-ggplot2) - 1 votes
-* [Boxplot with Summarized and Grouped Data in R](https://stackoverflow.com/questions/67260125/boxplot-with-summarized-and-grouped-data-in-r) - 1 votes
-* [Equalize the range of the values in legends for multiple ggplots](https://stackoverflow.com/questions/67266198/equalize-the-range-of-the-values-in-legends-for-multiple-ggplots) - 1 votes
+* [Draw rectangulars in a confusion matrix using geom_rect](https://stackoverflow.com/questions/67288015/draw-rectangulars-in-a-confusion-matrix-using-geom-rect) - 1 votes
+* [How to adjust geom_point dodge width to match geom_boxplot width when varwidth  TRUE](https://stackoverflow.com/questions/67286817/how-to-adjust-geom-point-dodge-width-to-match-geom-boxplot-width-when-varwidth) - 1 votes
+* [Open animated plot in new window](https://stackoverflow.com/questions/67281569/open-animated-plot-in-new-window) - 1 votes
+* [How to use ggplot_add inside another package](https://stackoverflow.com/questions/67279921/how-to-use-ggplot-add-inside-another-package) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
