@@ -1,38 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-27<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-28<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How can I do a python keyword search and word counter within all csvs files in directory and write to a single csv](https://stackoverflow.com/questions/67287252/how-can-i-do-a-python-keyword-search-and-word-counter-within-all-csvs-files-in-d) - 10 votes
-* [How to print rows if they meet a certain range](https://stackoverflow.com/questions/67280459/how-to-print-rows-if-they-meet-a-certain-range) - 6 votes
-* [Applying an if else function to two string columns in python  pandas](https://stackoverflow.com/questions/67283294/applying-an-if-else-function-to-two-string-columns-in-python-pandas) - 3 votes
-* [How can I split Pandas dataframe column with strings according to multiple conditions](https://stackoverflow.com/questions/67287696/how-can-i-split-pandas-dataframe-column-with-strings-according-to-multiple-condi) - 3 votes
-* [Read multiple excels according to the date and year you have](https://stackoverflow.com/questions/67285481/read-multiple-excels-according-to-the-date-and-year-you-have) - 3 votes
+* [Replacing values in a dataframe according to a value from an other dataframe with the same shape Python](https://stackoverflow.com/questions/67302850/replacing-values-in-a-data-frame-according-to-a-value-from-an-other-data-frame-w) - 5 votes
+* [Fill dates on dataframe within groups with same ending](https://stackoverflow.com/questions/67303150/fill-dates-on-dataframe-within-groups-with-same-ending) - 4 votes
+* [Reducing memory footprint of a pandas groupby function](https://stackoverflow.com/questions/67299214/reducing-memory-footprint-of-a-pandas-groupby-function) - 4 votes
+* [How to calculate a mean of a list in a column pandas dataframe](https://stackoverflow.com/questions/67297397/how-to-calculate-a-mean-of-a-list-in-a-column-pandas-dataframe) - 3 votes
+* [Merge pandas data frame based on specific conditions](https://stackoverflow.com/questions/67300254/merge-pandas-data-frame-based-on-specific-conditions) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Circular histogram with fitted Von Mises Distribution](https://stackoverflow.com/questions/67282865/circular-histogram-with-fitted-von-mises-distribution) - 6 votes
-* [Drawing a neural network](https://stackoverflow.com/questions/67279657/drawing-a-neural-network) - 6 votes
-* [Render yaxis properly when overlaying pandas KDE and histogram](https://stackoverflow.com/questions/67288172/render-y-axis-properly-when-overlaying-pandas-kde-and-histogram) - 2 votes
-* [Change color line in pltplot](https://stackoverflow.com/questions/67280385/change-color-line-in-plt-plot) - 2 votes
-* [Seaborn Box Plot Whiskers Not Matching Calculations](https://stackoverflow.com/questions/67276456/seaborn-box-plot-whiskers-not-matching-calculations) - 2 votes
+* [How to add a projection to axis in matplotlib when using subplot2grid](https://stackoverflow.com/questions/67303157/how-to-add-a-projection-to-axis-in-matplotlib-when-using-subplot2grid) - 2 votes
+* [Matplotlib change handles offset in legend](https://stackoverflow.com/questions/67297423/matplotlib-change-handles-offset-in-legend) - 1 votes
+* [returning array of values in hexbin using seaborn jointplot](https://stackoverflow.com/questions/67306147/returning-array-of-values-in-hexbin-using-seaborn-jointplot) - 1 votes
+* [Hour ticks on X axis in Python](https://stackoverflow.com/questions/67305105/hour-ticks-on-x-axis-in-python) - 1 votes
+* [How to only show the last 20 results from an updatingreal time graph](https://stackoverflow.com/questions/67292585/how-to-only-show-the-last-20-results-from-an-updating-real-time-graph) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Draw rectangulars in a confusion matrix using geom_rect](https://stackoverflow.com/questions/67288015/draw-rectangulars-in-a-confusion-matrix-using-geom-rect) - 1 votes
-* [How to adjust geom_point dodge width to match geom_boxplot width when varwidth  TRUE](https://stackoverflow.com/questions/67286817/how-to-adjust-geom-point-dodge-width-to-match-geom-boxplot-width-when-varwidth) - 1 votes
-* [Open animated plot in new window](https://stackoverflow.com/questions/67281569/open-animated-plot-in-new-window) - 1 votes
-* [How to use ggplot_add inside another package](https://stackoverflow.com/questions/67279921/how-to-use-ggplot-add-inside-another-package) - 1 votes
+* [RMarkdown HTML output  poor resolution in different browsers](https://stackoverflow.com/questions/67303576/rmarkdown-html-output-poor-resolution-in-different-browsers) - 2 votes
+* [Frequency count histogram displaying only integer values on the yaxis](https://stackoverflow.com/questions/67295766/frequency-count-histogram-displaying-only-integer-values-on-the-y-axis) - 1 votes
+* [How to group terms](https://stackoverflow.com/questions/67301707/how-to-group-terms) - 1 votes
+* [Create different types of plots within list of plot objects created with lapply](https://stackoverflow.com/questions/67305142/create-different-types-of-plots-within-list-of-plot-objects-created-with-lapply) - 1 votes
+* [How to limit the number of factors in facet_wrap to plot for only top N factors](https://stackoverflow.com/questions/67305248/how-to-limit-the-number-of-factors-in-facet-wrap-to-plot-for-only-top-n-factor) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
