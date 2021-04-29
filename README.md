@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-28<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-29<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Replacing values in a dataframe according to a value from an other dataframe with the same shape Python](https://stackoverflow.com/questions/67302850/replacing-values-in-a-data-frame-according-to-a-value-from-an-other-data-frame-w) - 5 votes
-* [Fill dates on dataframe within groups with same ending](https://stackoverflow.com/questions/67303150/fill-dates-on-dataframe-within-groups-with-same-ending) - 4 votes
-* [Reducing memory footprint of a pandas groupby function](https://stackoverflow.com/questions/67299214/reducing-memory-footprint-of-a-pandas-groupby-function) - 4 votes
-* [How to calculate a mean of a list in a column pandas dataframe](https://stackoverflow.com/questions/67297397/how-to-calculate-a-mean-of-a-list-in-a-column-pandas-dataframe) - 3 votes
-* [Merge pandas data frame based on specific conditions](https://stackoverflow.com/questions/67300254/merge-pandas-data-frame-based-on-specific-conditions) - 3 votes
+* [Pandas  Filtering DataFrame based on unique value and different columns datetime](https://stackoverflow.com/questions/67313904/pandas-filtering-dataframe-based-on-unique-value-and-different-columns-datetim) - 4 votes
+* [How to remove successive similar numbers in a pandas DF column](https://stackoverflow.com/questions/67315831/how-to-remove-successive-similar-numbers-in-a-pandas-df-column) - 3 votes
+* [Updating a column if condition is met with pandas](https://stackoverflow.com/questions/67321585/updating-a-column-if-condition-is-met-with-pandas) - 3 votes
+* [apply function to all columns in pandas groupby dataframe](https://stackoverflow.com/questions/67313816/apply-function-to-all-columns-in-pandas-groupby-dataframe) - 3 votes
+* [How can I group multiple columns and sum the last one](https://stackoverflow.com/questions/67311140/how-can-i-group-multiple-columns-and-sum-the-last-one) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to add a projection to axis in matplotlib when using subplot2grid](https://stackoverflow.com/questions/67303157/how-to-add-a-projection-to-axis-in-matplotlib-when-using-subplot2grid) - 2 votes
-* [Matplotlib change handles offset in legend](https://stackoverflow.com/questions/67297423/matplotlib-change-handles-offset-in-legend) - 1 votes
-* [returning array of values in hexbin using seaborn jointplot](https://stackoverflow.com/questions/67306147/returning-array-of-values-in-hexbin-using-seaborn-jointplot) - 1 votes
-* [Hour ticks on X axis in Python](https://stackoverflow.com/questions/67305105/hour-ticks-on-x-axis-in-python) - 1 votes
-* [How to only show the last 20 results from an updatingreal time graph](https://stackoverflow.com/questions/67292585/how-to-only-show-the-last-20-results-from-an-updating-real-time-graph) - 1 votes
+* [How to plot a xgboost tree](https://stackoverflow.com/questions/67323052/how-to-plot-a-xgboost-tree) - 3 votes
+* [Plot Multicolored line based on conditional in python but end up with fragmented line](https://stackoverflow.com/questions/67319185/plot-multicolored-line-based-on-conditional-in-python-but-end-up-with-fragmented) - 2 votes
+* [Index x axis as datetime64ns not working](https://stackoverflow.com/questions/67319653/index-x-axis-as-datetime64ns-not-working) - 1 votes
+* [How to align a multilevel donut chart in matplotlib](https://stackoverflow.com/questions/67316468/how-to-align-a-multilevel-donut-chart-in-matplotlib) - 1 votes
+* [Visualizing a matrix in python seaborn](https://stackoverflow.com/questions/67322256/visualizing-a-matrix-in-python-seaborn) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [RMarkdown HTML output  poor resolution in different browsers](https://stackoverflow.com/questions/67303576/rmarkdown-html-output-poor-resolution-in-different-browsers) - 2 votes
-* [Frequency count histogram displaying only integer values on the yaxis](https://stackoverflow.com/questions/67295766/frequency-count-histogram-displaying-only-integer-values-on-the-y-axis) - 1 votes
-* [How to group terms](https://stackoverflow.com/questions/67301707/how-to-group-terms) - 1 votes
-* [Create different types of plots within list of plot objects created with lapply](https://stackoverflow.com/questions/67305142/create-different-types-of-plots-within-list-of-plot-objects-created-with-lapply) - 1 votes
-* [How to limit the number of factors in facet_wrap to plot for only top N factors](https://stackoverflow.com/questions/67305248/how-to-limit-the-number-of-factors-in-facet-wrap-to-plot-for-only-top-n-factor) - 1 votes
+* [How do I add lines to plot to highlight points using ggsurvplot](https://stackoverflow.com/questions/67322041/how-do-i-add-lines-to-plot-to-highlight-points-using-ggsurvplot) - 2 votes
+* [How to create a dot plot from multiple columns in one plot](https://stackoverflow.com/questions/67311595/how-to-create-a-dot-plot-from-multiple-columns-in-one-plot) - 2 votes
+* [Is there a way to set the xaxis to min and max value in ggplot](https://stackoverflow.com/questions/67324526/is-there-a-way-to-set-the-x-axis-to-min-and-max-value-in-ggplot) - 2 votes
+* [ggplot2  error plotting subset of data frame after changing column to date class](https://stackoverflow.com/questions/67321392/ggplot2-error-plotting-subset-of-data-frame-after-changing-column-to-date-clas) - 1 votes
+* [39Error in evalsubstituteexpr e  argument is missing with no default39 when reordering axis in ggplot2](https://stackoverflow.com/questions/67310366/error-in-evalsubstituteexpr-e-argument-is-missing-with-no-default-when) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
