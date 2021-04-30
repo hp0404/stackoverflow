@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-29<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-30<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas  Filtering DataFrame based on unique value and different columns datetime](https://stackoverflow.com/questions/67313904/pandas-filtering-dataframe-based-on-unique-value-and-different-columns-datetim) - 4 votes
-* [How to remove successive similar numbers in a pandas DF column](https://stackoverflow.com/questions/67315831/how-to-remove-successive-similar-numbers-in-a-pandas-df-column) - 3 votes
-* [Updating a column if condition is met with pandas](https://stackoverflow.com/questions/67321585/updating-a-column-if-condition-is-met-with-pandas) - 3 votes
-* [apply function to all columns in pandas groupby dataframe](https://stackoverflow.com/questions/67313816/apply-function-to-all-columns-in-pandas-groupby-dataframe) - 3 votes
-* [How can I group multiple columns and sum the last one](https://stackoverflow.com/questions/67311140/how-can-i-group-multiple-columns-and-sum-the-last-one) - 3 votes
+* [Accelerate the loop](https://stackoverflow.com/questions/67330784/accelerate-the-loop) - 5 votes
+* [Correct entries in date column based on time column for a timeseries dataframe](https://stackoverflow.com/questions/67329174/correct-entries-in-date-column-based-on-time-column-for-a-timeseries-dataframe) - 4 votes
+* [Joining two datasets based on overlapping time intervals](https://stackoverflow.com/questions/67337430/joining-two-datasets-based-on-overlapping-time-intervals) - 4 votes
+* [Reindex dataframe inside loop](https://stackoverflow.com/questions/67327234/reindex-dataframe-inside-loop) - 4 votes
+* [How to get 1 for 8 days after a date in pandas and 0 otherwise](https://stackoverflow.com/questions/67333306/how-to-get-1-for-8-days-after-a-date-in-pandas-and-0-otherwise) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to plot a xgboost tree](https://stackoverflow.com/questions/67323052/how-to-plot-a-xgboost-tree) - 3 votes
-* [Plot Multicolored line based on conditional in python but end up with fragmented line](https://stackoverflow.com/questions/67319185/plot-multicolored-line-based-on-conditional-in-python-but-end-up-with-fragmented) - 2 votes
-* [Index x axis as datetime64ns not working](https://stackoverflow.com/questions/67319653/index-x-axis-as-datetime64ns-not-working) - 1 votes
-* [How to align a multilevel donut chart in matplotlib](https://stackoverflow.com/questions/67316468/how-to-align-a-multilevel-donut-chart-in-matplotlib) - 1 votes
-* [Visualizing a matrix in python seaborn](https://stackoverflow.com/questions/67322256/visualizing-a-matrix-in-python-seaborn) - 1 votes
+* [how to plot line of best fit using loglog in python matplotlib](https://stackoverflow.com/questions/67326869/how-to-plot-line-of-best-fit-using-loglog-in-python-matplotlib) - 2 votes
+* [Matplotlib legend entries with variables](https://stackoverflow.com/questions/67330203/matplotlib-legend-entries-with-variables) - 1 votes
+* [How to generate back to back chart in D3](https://stackoverflow.com/questions/67336324/how-to-generate-back-to-back-chart-in-d3) - 1 votes
+* [Tick placement for radial plot with logscale for r](https://stackoverflow.com/questions/67337272/tick-placement-for-radial-plot-with-log-scale-for-r) - 1 votes
+* [LogFormatter with sparse tick labels and no scientific notation](https://stackoverflow.com/questions/67335075/logformatter-with-sparse-tick-labels-and-no-scientific-notation) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How do I add lines to plot to highlight points using ggsurvplot](https://stackoverflow.com/questions/67322041/how-do-i-add-lines-to-plot-to-highlight-points-using-ggsurvplot) - 2 votes
-* [How to create a dot plot from multiple columns in one plot](https://stackoverflow.com/questions/67311595/how-to-create-a-dot-plot-from-multiple-columns-in-one-plot) - 2 votes
-* [Is there a way to set the xaxis to min and max value in ggplot](https://stackoverflow.com/questions/67324526/is-there-a-way-to-set-the-x-axis-to-min-and-max-value-in-ggplot) - 2 votes
-* [ggplot2  error plotting subset of data frame after changing column to date class](https://stackoverflow.com/questions/67321392/ggplot2-error-plotting-subset-of-data-frame-after-changing-column-to-date-clas) - 1 votes
-* [39Error in evalsubstituteexpr e  argument is missing with no default39 when reordering axis in ggplot2](https://stackoverflow.com/questions/67310366/error-in-evalsubstituteexpr-e-argument-is-missing-with-no-default-when) - 1 votes
+* [Using formulae on facet_wrap in ggplot2](https://stackoverflow.com/questions/67328195/using-formulae-on-facet-wrap-in-ggplot2) - 3 votes
+* [Increase space for long axis labels in radar chart](https://stackoverflow.com/questions/67334137/increase-space-for-long-axis-labels-in-radar-chart) - 2 votes
+* [geom_ribbon multiple start stop timepoints](https://stackoverflow.com/questions/67334121/geom-ribbon-multiple-start-stop-timepoints) - 1 votes
+* [Colour gradient in bubble plot](https://stackoverflow.com/questions/67328075/colour-gradient-in-bubble-plot) - 1 votes
+* [How to change background in ggrepel in R](https://stackoverflow.com/questions/67331808/how-to-change-background-in-ggrepel-in-r) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
