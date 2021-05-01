@@ -1,39 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-04-30<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-01<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Accelerate the loop](https://stackoverflow.com/questions/67330784/accelerate-the-loop) - 5 votes
-* [Correct entries in date column based on time column for a timeseries dataframe](https://stackoverflow.com/questions/67329174/correct-entries-in-date-column-based-on-time-column-for-a-timeseries-dataframe) - 4 votes
-* [Joining two datasets based on overlapping time intervals](https://stackoverflow.com/questions/67337430/joining-two-datasets-based-on-overlapping-time-intervals) - 4 votes
-* [Reindex dataframe inside loop](https://stackoverflow.com/questions/67327234/reindex-dataframe-inside-loop) - 4 votes
-* [How to get 1 for 8 days after a date in pandas and 0 otherwise](https://stackoverflow.com/questions/67333306/how-to-get-1-for-8-days-after-a-date-in-pandas-and-0-otherwise) - 3 votes
+* [Get indexs and columns from a Dataframe that satisfy two conditions](https://stackoverflow.com/questions/67344123/get-indexs-and-columns-from-a-dataframe-that-satisfy-two-conditions) - 4 votes
+* [Conditional sum of non zero values](https://stackoverflow.com/questions/67342807/conditional-sum-of-non-zero-values) - 3 votes
+* [Understand assign behaviour in pandas using lambda](https://stackoverflow.com/questions/67348720/understand-assign-behaviour-in-pandas-using-lambda) - 3 votes
+* [Dataframe join on python](https://stackoverflow.com/questions/67343479/dataframe-join-on-python) - 3 votes
+* [Options for improving interactive Altair line charts with many rows](https://stackoverflow.com/questions/67342561/options-for-improving-interactive-altair-line-charts-with-many-rows) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [how to plot line of best fit using loglog in python matplotlib](https://stackoverflow.com/questions/67326869/how-to-plot-line-of-best-fit-using-loglog-in-python-matplotlib) - 2 votes
-* [Matplotlib legend entries with variables](https://stackoverflow.com/questions/67330203/matplotlib-legend-entries-with-variables) - 1 votes
-* [How to generate back to back chart in D3](https://stackoverflow.com/questions/67336324/how-to-generate-back-to-back-chart-in-d3) - 1 votes
-* [Tick placement for radial plot with logscale for r](https://stackoverflow.com/questions/67337272/tick-placement-for-radial-plot-with-log-scale-for-r) - 1 votes
-* [LogFormatter with sparse tick labels and no scientific notation](https://stackoverflow.com/questions/67335075/logformatter-with-sparse-tick-labels-and-no-scientific-notation) - 1 votes
+* [Plot shapefiles with geometry point and line on a single plot in python](https://stackoverflow.com/questions/67343544/plot-shapefiles-with-geometry-point-and-line-on-a-single-plot-in-python) - 3 votes
+* [Python matplotlib polar coordinate is not plotting as it is supposed to be](https://stackoverflow.com/questions/67346431/python-matplotlib-polar-coordinate-is-not-plotting-as-it-is-supposed-to-be) - 1 votes
+* [Matplotlib eventplot  raster plot from binary values](https://stackoverflow.com/questions/67350097/matplotlib-eventplot-raster-plot-from-binary-values) - 1 votes
+* [Difference between pltxcorr at 1lag and npcorrcoef](https://stackoverflow.com/questions/67347418/difference-between-plt-xcorr-at-1-lag-and-np-corrcoef) - 1 votes
+* [Vertical Wind visualization in vector form](https://stackoverflow.com/questions/67347019/vertical-wind-visualization-in-vector-form) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Using formulae on facet_wrap in ggplot2](https://stackoverflow.com/questions/67328195/using-formulae-on-facet-wrap-in-ggplot2) - 3 votes
-* [Increase space for long axis labels in radar chart](https://stackoverflow.com/questions/67334137/increase-space-for-long-axis-labels-in-radar-chart) - 2 votes
-* [geom_ribbon multiple start stop timepoints](https://stackoverflow.com/questions/67334121/geom-ribbon-multiple-start-stop-timepoints) - 1 votes
-* [Colour gradient in bubble plot](https://stackoverflow.com/questions/67328075/colour-gradient-in-bubble-plot) - 1 votes
-* [How to change background in ggrepel in R](https://stackoverflow.com/questions/67331808/how-to-change-background-in-ggrepel-in-r) - 1 votes
+* [How to manually adjust height of merged plots using ggarrange or similar](https://stackoverflow.com/questions/67349446/how-to-manually-adjust-height-of-merged-plots-using-ggarrange-or-similar) - 2 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
