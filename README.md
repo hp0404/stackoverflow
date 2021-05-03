@@ -1,38 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-02<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-03<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Add and count nonzero values of rows based on current date](https://stackoverflow.com/questions/67354885/add-and-count-non-zero-values-of-rows-based-on-current-date) - 4 votes
-* [Only keep df column values that contain a string from list of string](https://stackoverflow.com/questions/67360950/only-keep-df-column-values-that-contain-a-string-from-list-of-string) - 3 votes
-* [Computing the conditional probability based on consecutive occurences of numbers in dataframe](https://stackoverflow.com/questions/67358580/computing-the-conditional-probability-based-on-consecutive-occurences-of-numbers) - 2 votes
-* [Selecting rows with column value in other column list in Python](https://stackoverflow.com/questions/67357815/selecting-rows-with-column-value-in-other-column-list-in-python) - 2 votes
-* [Python pandas dataframe apply result of function to multiple columns where NaN](https://stackoverflow.com/questions/67357814/python-pandas-dataframe-apply-result-of-function-to-multiple-columns-where-nan) - 2 votes
+* [Drop rows that only relate to one value in other columns pandas](https://stackoverflow.com/questions/67362810/drop-rows-that-only-relate-to-one-value-in-other-columns-pandas) - 5 votes
+* [Creating fake data using date logic](https://stackoverflow.com/questions/67370370/creating-fake-data-using-date-logic) - 5 votes
+* [Fill Na39s in column with previousnext value  100](https://stackoverflow.com/questions/67365819/fill-nas-in-column-with-previous-next-value-100) - 4 votes
+* [regex for keeping correct date and time values](https://stackoverflow.com/questions/67371582/regex-for-keeping-correct-date-and-time-values) - 4 votes
+* [pandas add week dates with dataframe](https://stackoverflow.com/questions/67368886/pandas-add-week-dates-with-dataframe) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [PYTHON  Display percent of 100 in stacked horizontal bar plot from crosstab from matplotlib in pandas](https://stackoverflow.com/questions/67352751/python-display-percent-of-100-in-stacked-horizontal-bar-plot-from-crosstab-fro) - 2 votes
-* [Fail to allocate bitmap](https://stackoverflow.com/questions/67352611/fail-to-allocate-bitmap) - 2 votes
-* [Plot list of list 3 values](https://stackoverflow.com/questions/67358120/plot-list-of-list-3-values) - 1 votes
-* [Not getting legend in figureplot](https://stackoverflow.com/questions/67353348/not-getting-legend-in-figure-plot) - 1 votes
+* [Matplotlib How can i use a column as data segmentation on matplotlib](https://stackoverflow.com/questions/67374445/matplotlib-how-can-i-use-a-column-as-data-segmentation-on-matplotlib) - 1 votes
+* [Extending Matplotlib Ray with 2 Coordinates to edge of Chart](https://stackoverflow.com/questions/67372703/extending-matplotlib-ray-with-2-coordinates-to-edge-of-chart) - 1 votes
+* [Difference in where to pass the arguments using Dask](https://stackoverflow.com/questions/67371369/difference-in-where-to-pass-the-arguments-using-dask) - 1 votes
+* [Creating a colour coded plot for specific conditions python](https://stackoverflow.com/questions/67369172/creating-a-colour-coded-plot-for-specific-conditions-python) - 1 votes
+* [How can i make a scrolling Graph](https://stackoverflow.com/questions/67367236/how-can-i-make-a-scrolling-graph) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How do I assign variables to be available when an R package is loaded](https://stackoverflow.com/questions/67353131/how-do-i-assign-variables-to-be-available-when-an-r-package-is-loaded) - 4 votes
-* [Position the labels at the middle of the bin in a binned  step colorbar guide](https://stackoverflow.com/questions/67357589/position-the-labels-at-the-middle-of-the-bin-in-a-binned-step-colorbar-guide) - 3 votes
-* [How to overlay multiple matplots using ggplot in R](https://stackoverflow.com/questions/67359293/how-to-overlay-multiple-matplots-using-ggplot-in-r) - 1 votes
-* [Reshaping my data to introduce a secondary axis ggplot2](https://stackoverflow.com/questions/67354543/reshaping-my-data-to-introduce-a-secondary-axis-ggplot2) - 1 votes
-* [How to fill out an area of a graph with ggplot2](https://stackoverflow.com/questions/67352454/how-to-fill-out-an-area-of-a-graph-with-ggplot2) - 1 votes
+* [ggplot Add annotations using separate data above faceted chart](https://stackoverflow.com/questions/67367294/ggplot-add-annotations-using-separate-data-above-faceted-chart) - 2 votes
+* [Create density plots with facet_wrap in R adding lines and datapoints that represent other columns](https://stackoverflow.com/questions/67372545/create-density-plots-with-facet-wrap-in-r-adding-lines-and-datapoints-that-repre) - 1 votes
+* [Ideas on how to design data structure or table for visualization](https://stackoverflow.com/questions/67363524/ideas-on-how-to-design-data-structure-or-table-for-visualization) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
