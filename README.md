@@ -1,37 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-03<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-04<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Drop rows that only relate to one value in other columns pandas](https://stackoverflow.com/questions/67362810/drop-rows-that-only-relate-to-one-value-in-other-columns-pandas) - 5 votes
-* [Creating fake data using date logic](https://stackoverflow.com/questions/67370370/creating-fake-data-using-date-logic) - 5 votes
-* [Fill Na39s in column with previousnext value  100](https://stackoverflow.com/questions/67365819/fill-nas-in-column-with-previous-next-value-100) - 4 votes
-* [regex for keeping correct date and time values](https://stackoverflow.com/questions/67371582/regex-for-keeping-correct-date-and-time-values) - 4 votes
-* [pandas add week dates with dataframe](https://stackoverflow.com/questions/67368886/pandas-add-week-dates-with-dataframe) - 3 votes
+* [Creating a derived field based on df value comparison in python pandas](https://stackoverflow.com/questions/67386146/creating-a-derived-field-based-on-df-value-comparison-in-python-pandas) - 5 votes
+* [Mapping dictionary with multiple key values to data frame](https://stackoverflow.com/questions/67389953/mapping-dictionary-with-multiple-key-values-to-data-frame) - 3 votes
+* [Remove groups if any column value not in a list in pandas](https://stackoverflow.com/questions/67380011/remove-groups-if-any-column-value-not-in-a-list-in-pandas) - 2 votes
+* [Iterating over conditions from columns and Dataframe to list conversionpandas](https://stackoverflow.com/questions/67380875/iterating-over-conditions-from-columns-and-dataframe-to-list-conversionpandas) - 2 votes
+* [Values of a column in Pandas as columns while keeping the last update](https://stackoverflow.com/questions/67380280/values-of-a-column-in-pandas-as-columns-while-keeping-the-last-update) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Matplotlib How can i use a column as data segmentation on matplotlib](https://stackoverflow.com/questions/67374445/matplotlib-how-can-i-use-a-column-as-data-segmentation-on-matplotlib) - 1 votes
-* [Extending Matplotlib Ray with 2 Coordinates to edge of Chart](https://stackoverflow.com/questions/67372703/extending-matplotlib-ray-with-2-coordinates-to-edge-of-chart) - 1 votes
-* [Difference in where to pass the arguments using Dask](https://stackoverflow.com/questions/67371369/difference-in-where-to-pass-the-arguments-using-dask) - 1 votes
-* [Creating a colour coded plot for specific conditions python](https://stackoverflow.com/questions/67369172/creating-a-colour-coded-plot-for-specific-conditions-python) - 1 votes
-* [How can i make a scrolling Graph](https://stackoverflow.com/questions/67367236/how-can-i-make-a-scrolling-graph) - 1 votes
+* [Update Line2D properties from line on different axes in matplotlib](https://stackoverflow.com/questions/67388945/update-line2d-properties-from-line-on-different-axes-in-matplotlib) - 3 votes
+* [How to pad matplotlib text objects radially with respect to a centroid Python](https://stackoverflow.com/questions/67378132/how-to-pad-matplotlib-text-objects-radially-with-respect-to-a-centroid-python) - 2 votes
+* [Create a bar chart using seabornmatplotlib with specific characteristics](https://stackoverflow.com/questions/67384587/create-a-bar-chart-using-seaborn-matplotlib-with-specific-characteristics) - 2 votes
+* [matplotlib bar method not returning error bars](https://stackoverflow.com/questions/67382203/matplotlib-bar-method-not-returning-error-bars) - 2 votes
+* [matplotlib  how do I set number of minor grid lines to 6 rather than 4](https://stackoverflow.com/questions/67382112/matplotlib-how-do-i-set-number-of-minor-grid-lines-to-6-rather-than-4) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [ggplot Add annotations using separate data above faceted chart](https://stackoverflow.com/questions/67367294/ggplot-add-annotations-using-separate-data-above-faceted-chart) - 2 votes
-* [Create density plots with facet_wrap in R adding lines and datapoints that represent other columns](https://stackoverflow.com/questions/67372545/create-density-plots-with-facet-wrap-in-r-adding-lines-and-datapoints-that-repre) - 1 votes
-* [Ideas on how to design data structure or table for visualization](https://stackoverflow.com/questions/67363524/ideas-on-how-to-design-data-structure-or-table-for-visualization) - 1 votes
+* [Barchart for multiple variables](https://stackoverflow.com/questions/67384221/barchart-for-multiple-variables) - 3 votes
+* [Points not aligned on xaxis of ggplot 1column facet wrap](https://stackoverflow.com/questions/67384371/points-not-aligned-on-x-axis-of-ggplot-1-column-facet-wrap) - 2 votes
+* [Label particular datapoints with text and box and arrows in ggplot](https://stackoverflow.com/questions/67380344/label-particular-datapoints-with-text-and-box-and-arrows-in-ggplot) - 1 votes
+* [R alter paths geom_path passes through in ggplot](https://stackoverflow.com/questions/67382906/r-alter-paths-geom-path-passes-through-in-ggplot) - 1 votes
+* [Add a new column to dataframe based on values in other columns and adjacent rows in R](https://stackoverflow.com/questions/67389303/add-a-new-column-to-dataframe-based-on-values-in-other-columns-and-adjacent-rows) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
