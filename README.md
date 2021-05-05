@@ -1,39 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-04<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-05<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Creating a derived field based on df value comparison in python pandas](https://stackoverflow.com/questions/67386146/creating-a-derived-field-based-on-df-value-comparison-in-python-pandas) - 5 votes
-* [Mapping dictionary with multiple key values to data frame](https://stackoverflow.com/questions/67389953/mapping-dictionary-with-multiple-key-values-to-data-frame) - 3 votes
-* [Remove groups if any column value not in a list in pandas](https://stackoverflow.com/questions/67380011/remove-groups-if-any-column-value-not-in-a-list-in-pandas) - 2 votes
-* [Iterating over conditions from columns and Dataframe to list conversionpandas](https://stackoverflow.com/questions/67380875/iterating-over-conditions-from-columns-and-dataframe-to-list-conversionpandas) - 2 votes
-* [Values of a column in Pandas as columns while keeping the last update](https://stackoverflow.com/questions/67380280/values-of-a-column-in-pandas-as-columns-while-keeping-the-last-update) - 2 votes
+* [Split dataframe based on one column value containing multiple category values in another column](https://stackoverflow.com/questions/67406298/split-dataframe-based-on-one-column-value-containing-multiple-category-values-in) - 4 votes
+* [Python pandas counting the number of unique string sources for substrings](https://stackoverflow.com/questions/67402873/python-pandas-counting-the-number-of-unique-string-sources-for-substrings) - 4 votes
+* [Create list of tuples from two columns with list in pandas](https://stackoverflow.com/questions/67403969/create-list-of-tuples-from-two-columns-with-list-in-pandas) - 3 votes
+* [Summing up multiple values in single row](https://stackoverflow.com/questions/67395897/summing-up-multiple-values-in-single-row) - 3 votes
+* [How to make new columns out of every second row in a pandas df](https://stackoverflow.com/questions/67403174/how-to-make-new-columns-out-of-every-second-row-in-a-pandas-df) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Update Line2D properties from line on different axes in matplotlib](https://stackoverflow.com/questions/67388945/update-line2d-properties-from-line-on-different-axes-in-matplotlib) - 3 votes
-* [How to pad matplotlib text objects radially with respect to a centroid Python](https://stackoverflow.com/questions/67378132/how-to-pad-matplotlib-text-objects-radially-with-respect-to-a-centroid-python) - 2 votes
-* [Create a bar chart using seabornmatplotlib with specific characteristics](https://stackoverflow.com/questions/67384587/create-a-bar-chart-using-seaborn-matplotlib-with-specific-characteristics) - 2 votes
-* [matplotlib bar method not returning error bars](https://stackoverflow.com/questions/67382203/matplotlib-bar-method-not-returning-error-bars) - 2 votes
-* [matplotlib  how do I set number of minor grid lines to 6 rather than 4](https://stackoverflow.com/questions/67382112/matplotlib-how-do-i-set-number-of-minor-grid-lines-to-6-rather-than-4) - 1 votes
+* [How to customize titles and y labels in a Seaborn relplot](https://stackoverflow.com/questions/67394044/how-to-customize-titles-and-y-labels-in-a-seaborn-relplot) - 3 votes
+* [How do I create curved bins in matplotlib polar 2D histogram](https://stackoverflow.com/questions/67400723/how-do-i-create-curved-bins-in-matplotlib-polar-2d-histogram) - 2 votes
+* [Apply scaling to y axis](https://stackoverflow.com/questions/67399471/apply-scaling-to-y-axis) - 2 votes
+* [Matplotlib Plot points on an existing line only by knowing x values](https://stackoverflow.com/questions/67405599/matplotlib-plot-points-on-an-existing-line-only-by-knowing-x-values) - 1 votes
+* [Pyplot imshow function displays only axis instead of image](https://stackoverflow.com/questions/67402117/pyplot-imshow-function-displays-only-axis-instead-of-image) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Barchart for multiple variables](https://stackoverflow.com/questions/67384221/barchart-for-multiple-variables) - 3 votes
-* [Points not aligned on xaxis of ggplot 1column facet wrap](https://stackoverflow.com/questions/67384371/points-not-aligned-on-x-axis-of-ggplot-1-column-facet-wrap) - 2 votes
-* [Label particular datapoints with text and box and arrows in ggplot](https://stackoverflow.com/questions/67380344/label-particular-datapoints-with-text-and-box-and-arrows-in-ggplot) - 1 votes
-* [R alter paths geom_path passes through in ggplot](https://stackoverflow.com/questions/67382906/r-alter-paths-geom-path-passes-through-in-ggplot) - 1 votes
-* [Add a new column to dataframe based on values in other columns and adjacent rows in R](https://stackoverflow.com/questions/67389303/add-a-new-column-to-dataframe-based-on-values-in-other-columns-and-adjacent-rows) - 1 votes
+* [How to migrate base R location plot to ggplot2 and avoid for loop](https://stackoverflow.com/questions/67396412/how-to-migrate-base-r-location-plot-to-ggplot2-and-avoid-for-loop) - 1 votes
+* [Tooltip in percent stacked barchart](https://stackoverflow.com/questions/67398349/tooltip-in-percent-stacked-barchart) - 1 votes
+* [How can I remove an empty value that is generated when I use breaks  seq](https://stackoverflow.com/questions/67394276/how-can-i-remove-an-empty-value-that-is-generated-when-i-use-breaks-seq) - 1 votes
+* [Name topics in lda topic modeling based on beta values](https://stackoverflow.com/questions/67401272/name-topics-in-lda-topic-modeling-based-on-beta-values) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
