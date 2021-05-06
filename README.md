@@ -1,38 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-05<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-06<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Split dataframe based on one column value containing multiple category values in another column](https://stackoverflow.com/questions/67406298/split-dataframe-based-on-one-column-value-containing-multiple-category-values-in) - 4 votes
-* [Python pandas counting the number of unique string sources for substrings](https://stackoverflow.com/questions/67402873/python-pandas-counting-the-number-of-unique-string-sources-for-substrings) - 4 votes
-* [Create list of tuples from two columns with list in pandas](https://stackoverflow.com/questions/67403969/create-list-of-tuples-from-two-columns-with-list-in-pandas) - 3 votes
-* [Summing up multiple values in single row](https://stackoverflow.com/questions/67395897/summing-up-multiple-values-in-single-row) - 3 votes
-* [How to make new columns out of every second row in a pandas df](https://stackoverflow.com/questions/67403174/how-to-make-new-columns-out-of-every-second-row-in-a-pandas-df) - 3 votes
+* [Confusing Speaker labels timestamps from Watson STT shows incorrect number of seconds that each speaker has spoken](https://stackoverflow.com/questions/67424075/confusing-speaker-labels-timestamps-from-watson-stt-shows-incorrect-number-of-se) - 6 votes
+* [Pandas df manipulation  breaking data into 2 columns](https://stackoverflow.com/questions/67419889/pandas-df-manipulation-breaking-data-into-2-columns) - 3 votes
+* [Strip characters to the left of a specific character in a pandas column](https://stackoverflow.com/questions/67414874/strip-characters-to-the-left-of-a-specific-character-in-a-pandas-column) - 3 votes
+* [Python seaborn Unable to make my chart look like excel chart](https://stackoverflow.com/questions/67424853/python-seaborn-unable-to-make-my-chart-look-like-excel-chart) - 3 votes
+* [Pandas removing whitespace from columns to create on column](https://stackoverflow.com/questions/67417000/pandas-removing-whitespace-from-columns-to-create-on-column) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to customize titles and y labels in a Seaborn relplot](https://stackoverflow.com/questions/67394044/how-to-customize-titles-and-y-labels-in-a-seaborn-relplot) - 3 votes
-* [How do I create curved bins in matplotlib polar 2D histogram](https://stackoverflow.com/questions/67400723/how-do-i-create-curved-bins-in-matplotlib-polar-2d-histogram) - 2 votes
-* [Apply scaling to y axis](https://stackoverflow.com/questions/67399471/apply-scaling-to-y-axis) - 2 votes
-* [Matplotlib Plot points on an existing line only by knowing x values](https://stackoverflow.com/questions/67405599/matplotlib-plot-points-on-an-existing-line-only-by-knowing-x-values) - 1 votes
-* [Pyplot imshow function displays only axis instead of image](https://stackoverflow.com/questions/67402117/pyplot-imshow-function-displays-only-axis-instead-of-image) - 1 votes
+* [Python seaborn Unable to make my chart look like excel chart](https://stackoverflow.com/questions/67424853/python-seaborn-unable-to-make-my-chart-look-like-excel-chart) - 3 votes
+* [How to use hue color edgecolor and facecolor in seaborn](https://stackoverflow.com/questions/67422810/how-to-use-hue-color-edgecolor-and-facecolor-in-seaborn) - 2 votes
+* [How do I remove nans from a 3d array](https://stackoverflow.com/questions/67421638/how-do-i-remove-nans-from-a-3d-array) - 1 votes
+* [Python3  Plotting the same matplotlib axes object on multiple figures](https://stackoverflow.com/questions/67423685/python3-plotting-the-same-matplotlib-axes-object-on-multiple-figures) - 1 votes
+* [How do you make a matplotlib funcanimation animation out of matplotlibimageAxesImage objects](https://stackoverflow.com/questions/67420158/how-do-you-make-a-matplotlib-funcanimation-animation-out-of-matplotlib-image-axe) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to migrate base R location plot to ggplot2 and avoid for loop](https://stackoverflow.com/questions/67396412/how-to-migrate-base-r-location-plot-to-ggplot2-and-avoid-for-loop) - 1 votes
-* [Tooltip in percent stacked barchart](https://stackoverflow.com/questions/67398349/tooltip-in-percent-stacked-barchart) - 1 votes
-* [How can I remove an empty value that is generated when I use breaks  seq](https://stackoverflow.com/questions/67394276/how-can-i-remove-an-empty-value-that-is-generated-when-i-use-breaks-seq) - 1 votes
-* [Name topics in lda topic modeling based on beta values](https://stackoverflow.com/questions/67401272/name-topics-in-lda-topic-modeling-based-on-beta-values) - 1 votes
+* [Simulate a twodimensional random walk in a grid in R and plot with ggplot](https://stackoverflow.com/questions/67423834/simulate-a-two-dimensional-random-walk-in-a-grid-in-r-and-plot-with-ggplot) - 1 votes
+* [Adding layers to ggplots works but adding in a loop does not](https://stackoverflow.com/questions/67413684/adding-layers-to-ggplots-works-but-adding-in-a-loop-does-not) - 1 votes
+* [geom_raster produces a whitish surface ontop of the map](https://stackoverflow.com/questions/67425355/geom-raster-produces-a-whitish-surface-ontop-of-the-map) - 1 votes
+* [Adding ggsignif to plot with numeric x axis results in the error quotCan only handle data with groups that are plotted on the xaxisquot](https://stackoverflow.com/questions/67423427/adding-ggsignif-to-plot-with-numeric-x-axis-results-in-the-error-can-only-handl) - 1 votes
+* [How to plot ggplot using for loop](https://stackoverflow.com/questions/67422747/how-to-plot-ggplot-using-for-loop) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
