@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-10<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-11<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Count unique records based on conditional result of aggregate functions on multiple columns](https://stackoverflow.com/questions/67464114/count-unique-records-based-on-conditional-result-of-aggregate-functions-on-multi) - 5 votes
-* [Creating a list from a df using conditionals](https://stackoverflow.com/questions/67475623/creating-a-list-from-a-df-using-conditionals) - 4 votes
-* [Ignoring an invalid filter among multiple filters on a DataFrame](https://stackoverflow.com/questions/67476889/ignoring-an-invalid-filter-among-multiple-filters-on-a-dataframe) - 4 votes
-* [How to replace dataframeelement with another dataframeelement](https://stackoverflow.com/questions/67465405/how-to-replace-dataframe-element-with-another-dataframe-element) - 3 votes
-* [Rearrange the columns according to the order present in a data frame in pandas](https://stackoverflow.com/questions/67470585/rearrange-the-columns-according-to-the-order-present-in-a-data-frame-in-pandas) - 2 votes
+* [How to count number of occurrences of value in one column per value in other column using pandas](https://stackoverflow.com/questions/67489092/how-to-count-number-of-occurrences-of-value-in-one-column-per-value-in-other-col) - 3 votes
+* [Calculate simple historical average using pandas](https://stackoverflow.com/questions/67479667/calculate-simple-historical-average-using-pandas) - 3 votes
+* [reduce to merge if there are blank DataFrame](https://stackoverflow.com/questions/67492323/reduce-to-merge-if-there-are-blank-dataframe) - 3 votes
+* [How to multiply every column in one dataframe with all columns in other dataframe](https://stackoverflow.com/questions/67491363/how-to-multiply-every-column-in-one-dataframe-with-all-columns-in-other-datafram) - 2 votes
+* [How to update a dataframe from a new dataframe that has an additional column](https://stackoverflow.com/questions/67481152/how-to-update-a-dataframe-from-a-new-dataframe-that-has-an-additional-column) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to resolve values plotted out of order relative to a datetime axis](https://stackoverflow.com/questions/67474444/how-to-resolve-values-plotted-out-of-order-relative-to-a-datetime-axis) - 1 votes
-* [How to plot a displot for a single row and all columns](https://stackoverflow.com/questions/67468816/how-to-plot-a-displot-for-a-single-row-and-all-columns) - 1 votes
-* [Unable to load JPEG CMKY image in Python](https://stackoverflow.com/questions/67473091/unable-to-load-jpeg-cmky-image-in-python) - 1 votes
-* [How to break line axlegend](https://stackoverflow.com/questions/67468757/how-to-break-line-ax-legend) - 1 votes
-* [Matplotlib legend shows two same colors for a different data](https://stackoverflow.com/questions/67464684/matplotlib-legend-shows-two-same-colors-for-a-different-data) - 1 votes
+* [Generating a fractal in python](https://stackoverflow.com/questions/67483238/generating-a-fractal-in-python) - 3 votes
+* [How to add additional text to matplotlib annotations](https://stackoverflow.com/questions/67479134/how-to-add-additional-text-to-matplotlib-annotations) - 2 votes
+* [How do I change de size of the legend with matplotlib and identify the states on my map](https://stackoverflow.com/questions/67487331/how-do-i-change-de-size-of-the-legend-with-matplotlib-and-identify-the-states-o) - 2 votes
+* [How to add text inside a filled area in matplotlib](https://stackoverflow.com/questions/67488191/how-to-add-text-inside-a-filled-area-in-matplotlib) - 1 votes
+* [why this error is occurred ValueError Unrecognized marker style array](https://stackoverflow.com/questions/67493922/why-this-error-is-occurred-valueerror-unrecognized-marker-style-array) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Plot multiple variables by year in the same bar plot](https://stackoverflow.com/questions/67472757/plot-multiple-variables-by-year-in-the-same-bar-plot) - 1 votes
-* [R plotting word clouds in custom shape eg logos](https://stackoverflow.com/questions/67466837/r-plotting-word-clouds-in-custom-shape-e-g-logos) - 1 votes
-* [Display of various plots with shared xaxis in R](https://stackoverflow.com/questions/67473897/display-of-various-plots-with-shared-x-axis-in-r) - 1 votes
-* [Legend labels with spaces in ggplot2](https://stackoverflow.com/questions/67470611/legend-labels-with-spaces-in-ggplot2) - 1 votes
-* [R smooth survival curve force start and end](https://stackoverflow.com/questions/67467087/r-smooth-survival-curve-force-start-and-end) - 1 votes
+* [Axis labels disappeared in ggplot2](https://stackoverflow.com/questions/67482249/axis-labels-disappeared-in-ggplot2) - 2 votes
+* [combine and align ggplot including one square with control of their height](https://stackoverflow.com/questions/67493161/combine-and-align-ggplot-including-one-square-with-control-of-their-height) - 2 votes
+* [Automatically find and set the best figure dimensions in r](https://stackoverflow.com/questions/67491961/automatically-find-and-set-the-best-figure-dimensions-in-r) - 2 votes
+* [How to change color of certain border of strip area of ggplot object](https://stackoverflow.com/questions/67479881/how-to-change-color-of-certain-border-of-strip-area-of-ggplot-object) - 1 votes
+* [Making a plot with multiple boxplots but with columns as the factors](https://stackoverflow.com/questions/67491673/making-a-plot-with-multiple-boxplots-but-with-columns-as-the-factors) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
