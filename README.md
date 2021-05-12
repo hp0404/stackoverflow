@@ -1,39 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-11<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-12<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to count number of occurrences of value in one column per value in other column using pandas](https://stackoverflow.com/questions/67489092/how-to-count-number-of-occurrences-of-value-in-one-column-per-value-in-other-col) - 3 votes
-* [Calculate simple historical average using pandas](https://stackoverflow.com/questions/67479667/calculate-simple-historical-average-using-pandas) - 3 votes
-* [reduce to merge if there are blank DataFrame](https://stackoverflow.com/questions/67492323/reduce-to-merge-if-there-are-blank-dataframe) - 3 votes
-* [How to multiply every column in one dataframe with all columns in other dataframe](https://stackoverflow.com/questions/67491363/how-to-multiply-every-column-in-one-dataframe-with-all-columns-in-other-datafram) - 2 votes
-* [How to update a dataframe from a new dataframe that has an additional column](https://stackoverflow.com/questions/67481152/how-to-update-a-dataframe-from-a-new-dataframe-that-has-an-additional-column) - 2 votes
+* [Transforming from one table to another in Python](https://stackoverflow.com/questions/67502124/transforming-from-one-table-to-another-in-python) - 4 votes
+* [Why this grouped data frame don39t show the expected plot](https://stackoverflow.com/questions/67504175/why-this-grouped-data-frame-dont-show-the-expected-plot) - 3 votes
+* [Python How to filter dictionary](https://stackoverflow.com/questions/67507210/python-how-to-filter-dictionary) - 2 votes
+* [test if one numpy array is between arrays a and b](https://stackoverflow.com/questions/67497121/test-if-one-numpy-array-is-between-arrays-a-and-b) - 2 votes
+* [Split an aggregated value into a distinct count in python returning new rows](https://stackoverflow.com/questions/67509127/split-an-aggregated-value-into-a-distinct-count-in-python-returning-new-rows) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Generating a fractal in python](https://stackoverflow.com/questions/67483238/generating-a-fractal-in-python) - 3 votes
-* [How to add additional text to matplotlib annotations](https://stackoverflow.com/questions/67479134/how-to-add-additional-text-to-matplotlib-annotations) - 2 votes
-* [How do I change de size of the legend with matplotlib and identify the states on my map](https://stackoverflow.com/questions/67487331/how-do-i-change-de-size-of-the-legend-with-matplotlib-and-identify-the-states-o) - 2 votes
-* [How to add text inside a filled area in matplotlib](https://stackoverflow.com/questions/67488191/how-to-add-text-inside-a-filled-area-in-matplotlib) - 1 votes
-* [why this error is occurred ValueError Unrecognized marker style array](https://stackoverflow.com/questions/67493922/why-this-error-is-occurred-valueerror-unrecognized-marker-style-array) - 1 votes
+* [Animating Damped Oscillator](https://stackoverflow.com/questions/67498084/animating-damped-oscillator) - 2 votes
+* [How can I assign each csv file to a single subplot](https://stackoverflow.com/questions/67504591/how-can-i-assign-each-csv-file-to-a-single-subplot) - 2 votes
+* [Shading the area of a triangle](https://stackoverflow.com/questions/67500712/shading-the-area-of-a-triangle) - 1 votes
+* [plot multiple lines in seaborn lineplot](https://stackoverflow.com/questions/67507927/plot-multiple-lines-in-seaborn-lineplot) - 1 votes
+* [Is it possible with matplotlib to create a bar plot with custom width bars with vertical gradients and borders for the columns](https://stackoverflow.com/questions/67508852/is-it-possible-with-matplotlib-to-create-a-bar-plot-with-custom-width-bars-with) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Axis labels disappeared in ggplot2](https://stackoverflow.com/questions/67482249/axis-labels-disappeared-in-ggplot2) - 2 votes
-* [combine and align ggplot including one square with control of their height](https://stackoverflow.com/questions/67493161/combine-and-align-ggplot-including-one-square-with-control-of-their-height) - 2 votes
-* [Automatically find and set the best figure dimensions in r](https://stackoverflow.com/questions/67491961/automatically-find-and-set-the-best-figure-dimensions-in-r) - 2 votes
-* [How to change color of certain border of strip area of ggplot object](https://stackoverflow.com/questions/67479881/how-to-change-color-of-certain-border-of-strip-area-of-ggplot-object) - 1 votes
-* [Making a plot with multiple boxplots but with columns as the factors](https://stackoverflow.com/questions/67491673/making-a-plot-with-multiple-boxplots-but-with-columns-as-the-factors) - 1 votes
+* [How can I see the code of a ggplot variable in R](https://stackoverflow.com/questions/67502062/how-can-i-see-the-code-of-a-ggplot-variable-in-r) - 1 votes
+* [unicode symbols not showing in ggplot geom_point shapes and pdf](https://stackoverflow.com/questions/67499141/unicode-symbols-not-showing-in-ggplot-geom-point-shapes-and-pdf) - 1 votes
+* [R ggplot annotate line plot with max value](https://stackoverflow.com/questions/67507136/r-ggplot-annotate-line-plot-with-max-value) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
