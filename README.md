@@ -1,39 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-17<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-18<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to create a column name dynamically when we groupby and sum multiple columns](https://stackoverflow.com/questions/67574792/how-to-create-a-column-name-dynamically-when-we-groupby-and-sum-multiple-column) - 4 votes
-* [Sort Pandas data frame by rows that have multiple similar values](https://stackoverflow.com/questions/67563916/sort-pandas-data-frame-by-rows-that-have-multiple-similar-values) - 3 votes
-* [Add rows in Pandas based on condition grouping](https://stackoverflow.com/questions/67576842/add-rows-in-pandas-based-on-condition-grouping) - 3 votes
-* [Parsing string in Pandas](https://stackoverflow.com/questions/67564696/parsing-string-in-pandas) - 3 votes
-* [Converting a pandas dataframe to a nested dict in Python using groupby](https://stackoverflow.com/questions/67572720/converting-a-pandas-dataframe-to-a-nested-dict-in-python-using-groupby) - 3 votes
+* [iterate over rows to check if values of an array exists between two columns](https://stackoverflow.com/questions/67587467/iterate-over-rows-to-check-if-values-of-an-array-exists-between-two-columns) - 5 votes
+* [Pandas pivot how to keep rows with all NaNs without introducing extra rows](https://stackoverflow.com/questions/67587041/pandas-pivot-how-to-keep-rows-with-all-nans-without-introducing-extra-rows) - 4 votes
+* [how add positive elements and negative in each row](https://stackoverflow.com/questions/67589427/how-add-positive-elements-and-negative-in-each-row) - 3 votes
+* [How to get the correlation between two columns](https://stackoverflow.com/questions/67587663/how-to-get-the-correlation-between-two-columns) - 3 votes
+* [Find pandas dataframe columns which are considered as floats but actually can be written as integers](https://stackoverflow.com/questions/67582683/find-pandas-dataframe-columns-which-are-considered-as-floats-but-actually-can-be) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [IndexError when plotting pandas dataframe with subplots](https://stackoverflow.com/questions/67563612/indexerror-when-plotting-pandas-dataframe-with-subplots) - 2 votes
-* [Visualizing values in a normalized plot](https://stackoverflow.com/questions/67573950/visualizing-values-in-a-normalized-plot) - 1 votes
-* [Displaying a hexagonal grid with matplotlib](https://stackoverflow.com/questions/67563362/displaying-a-hexagonal-grid-with-matplotlib) - 1 votes
-* [Is there a way to plot 2x Standard Deviation in Seaborn](https://stackoverflow.com/questions/67576146/is-there-a-way-to-plot-2x-standard-deviation-in-seaborn) - 1 votes
-* [Why can39t I use cartopy to plot certain time averages of the same dataset](https://stackoverflow.com/questions/67575329/why-cant-i-use-cartopy-to-plot-certain-time-averages-of-the-same-dataset) - 1 votes
+* [Is there a function in Python to paint over the area between lines](https://stackoverflow.com/questions/67589442/is-there-a-function-in-python-to-paint-over-the-area-between-lines) - 2 votes
+* [Plotting time series in Matplotlib with month names ex January and showing years beneath](https://stackoverflow.com/questions/67582913/plotting-time-series-in-matplotlib-with-month-names-ex-january-and-showing-ye) - 1 votes
+* [installing matplotlib ERROR Command errored out with exit status 4](https://stackoverflow.com/questions/67588980/installing-matplotlib-error-command-errored-out-with-exit-status-4) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Issue while creating cartogram plot in r](https://stackoverflow.com/questions/67570783/issue-while-creating-cartogram-plot-in-r) - 2 votes
-* [Coefficient plot of two regressions](https://stackoverflow.com/questions/67572631/coefficient-plot-of-two-regressions) - 1 votes
-* [Change line border color in geom_smooth](https://stackoverflow.com/questions/67569889/change-line-border-color-in-geom-smooth) - 1 votes
-* [how to add legend in goem_hline in R](https://stackoverflow.com/questions/67574736/how-to-add-legend-in-goem-hline-in-r) - 1 votes
-* [Merge legend from different geom and aes](https://stackoverflow.com/questions/67570919/merge-legend-from-different-geom-and-aes) - 1 votes
+* [add one legend with all variables for combined graphs](https://stackoverflow.com/questions/67592542/add-one-legend-with-all-variables-for-combined-graphs) - 3 votes
+* [Why is some data missing in ggplot2 stacked bar graph](https://stackoverflow.com/questions/67586185/why-is-some-data-missing-in-ggplot2-stacked-bar-graph) - 2 votes
+* [Breaks and labels of different lengths scale_size_binned](https://stackoverflow.com/questions/67585114/breaks-and-labels-of-different-lengths-scale-size-binned) - 2 votes
+* [R geom jitter legend does not show color and shape](https://stackoverflow.com/questions/67592667/r-geom-jitter-legend-does-not-show-color-and-shape) - 1 votes
+* [Adding a table next to a diverging stacked chart](https://stackoverflow.com/questions/67589042/adding-a-table-next-to-a-diverging-stacked-chart) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
