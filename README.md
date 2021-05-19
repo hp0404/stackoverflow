@@ -1,37 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-18<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-19<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [iterate over rows to check if values of an array exists between two columns](https://stackoverflow.com/questions/67587467/iterate-over-rows-to-check-if-values-of-an-array-exists-between-two-columns) - 5 votes
-* [Pandas pivot how to keep rows with all NaNs without introducing extra rows](https://stackoverflow.com/questions/67587041/pandas-pivot-how-to-keep-rows-with-all-nans-without-introducing-extra-rows) - 4 votes
-* [how add positive elements and negative in each row](https://stackoverflow.com/questions/67589427/how-add-positive-elements-and-negative-in-each-row) - 3 votes
-* [How to get the correlation between two columns](https://stackoverflow.com/questions/67587663/how-to-get-the-correlation-between-two-columns) - 3 votes
-* [Find pandas dataframe columns which are considered as floats but actually can be written as integers](https://stackoverflow.com/questions/67582683/find-pandas-dataframe-columns-which-are-considered-as-floats-but-actually-can-be) - 2 votes
+* [Sharepercent across a list of columns in a pandas agg](https://stackoverflow.com/questions/67609849/share-percent-across-a-list-of-columns-in-a-pandas-agg) - 4 votes
+* [list duplicate values per item in a nested dictionary with multiple keys](https://stackoverflow.com/questions/67600014/list-duplicate-values-per-item-in-a-nested-dictionary-with-multiple-keys) - 4 votes
+* [Bokeh pie chart show percentage labels upside down](https://stackoverflow.com/questions/67606131/bokeh-pie-chart-show-percentage-labels-upside-down) - 4 votes
+* [In Pandas giving a datetime index with rows on all work days how to determine if a row is beginning of week or end of week](https://stackoverflow.com/questions/67596703/in-pandas-giving-a-datetime-index-with-rows-on-all-work-days-how-to-determine) - 3 votes
+* [Skip rows when loading txt file](https://stackoverflow.com/questions/67604103/skip-rows-when-loading-txt-file) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Is there a function in Python to paint over the area between lines](https://stackoverflow.com/questions/67589442/is-there-a-function-in-python-to-paint-over-the-area-between-lines) - 2 votes
-* [Plotting time series in Matplotlib with month names ex January and showing years beneath](https://stackoverflow.com/questions/67582913/plotting-time-series-in-matplotlib-with-month-names-ex-january-and-showing-ye) - 1 votes
-* [installing matplotlib ERROR Command errored out with exit status 4](https://stackoverflow.com/questions/67588980/installing-matplotlib-error-command-errored-out-with-exit-status-4) - 1 votes
+* [Make a distribution histogram of two columns](https://stackoverflow.com/questions/67608459/make-a-distribution-histogram-of-two-columns) - 2 votes
+* [How to automatically set the yaxis limits after limiting the xaxis](https://stackoverflow.com/questions/67599526/how-to-automatically-set-the-y-axis-limits-after-limiting-the-x-axis) - 2 votes
+* [How to groupby and count binomial variable in python and make a plot of this](https://stackoverflow.com/questions/67608121/how-to-groupby-and-count-binomial-variable-in-python-and-make-a-plot-of-this) - 1 votes
+* [How to display log scale on data that are already in log](https://stackoverflow.com/questions/67608982/how-to-display-log-scale-on-data-that-are-already-in-log) - 1 votes
+* [python  can I create another y axis next to the existing yaxis on the graph with separate values](https://stackoverflow.com/questions/67606977/python-can-i-create-another-y-axis-next-to-the-existing-y-axis-on-the-graph-wi) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [add one legend with all variables for combined graphs](https://stackoverflow.com/questions/67592542/add-one-legend-with-all-variables-for-combined-graphs) - 3 votes
-* [Why is some data missing in ggplot2 stacked bar graph](https://stackoverflow.com/questions/67586185/why-is-some-data-missing-in-ggplot2-stacked-bar-graph) - 2 votes
-* [Breaks and labels of different lengths scale_size_binned](https://stackoverflow.com/questions/67585114/breaks-and-labels-of-different-lengths-scale-size-binned) - 2 votes
-* [R geom jitter legend does not show color and shape](https://stackoverflow.com/questions/67592667/r-geom-jitter-legend-does-not-show-color-and-shape) - 1 votes
-* [Adding a table next to a diverging stacked chart](https://stackoverflow.com/questions/67589042/adding-a-table-next-to-a-diverging-stacked-chart) - 1 votes
+* [Backtobackpopulation plot in ggplot2](https://stackoverflow.com/questions/67596982/back-to-back-population-plot-in-ggplot2) - 2 votes
+* [R rayshader package plot_gg gives blank window](https://stackoverflow.com/questions/67602585/r-rayshader-package-plot-gg-gives-blank-window) - 2 votes
+* [GGplot Plotting Each Point Twice](https://stackoverflow.com/questions/67597378/ggplot-plotting-each-point-twice) - 1 votes
+* [How can I use geom_text to add text at top of each box in a box plot ggplot2](https://stackoverflow.com/questions/67597848/how-can-i-use-geom-text-to-add-text-at-top-of-each-box-in-a-box-plot-ggplot2) - 1 votes
+* [Adding an arrow located outside of the plot that points to the xaxis and is part of a plot in ggarrange in R](https://stackoverflow.com/questions/67608547/adding-an-arrow-located-outside-of-the-plot-that-points-to-the-x-axis-and-is-p) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
