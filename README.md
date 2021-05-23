@@ -1,38 +1,34 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-22<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-23<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Forward fill only certain value](https://stackoverflow.com/questions/67647235/forward-fill-only-certain-value) - 5 votes
-* [Extracting string between multiple occurrence of same delimiter in python pandas](https://stackoverflow.com/questions/67652946/extracting-string-between-multiple-occurrence-of-same-delimiter-in-python-pandas) - 5 votes
-* [Generate 3D quotmatrixquot with Pandas based on comparing two dataframes Python](https://stackoverflow.com/questions/67646341/generate-3d-matrix-with-pandas-based-on-comparing-two-dataframes-python) - 3 votes
-* [How to perform a groupby operation on a pandas Dataframe where the average over a list column is taken](https://stackoverflow.com/questions/67649701/how-to-perform-a-groupby-operation-on-a-pandas-dataframe-where-the-average-over) - 2 votes
-* [Python How can I get a bar chart overview showing distinct values of a data frame](https://stackoverflow.com/questions/67653246/python-how-can-i-get-a-bar-chart-overview-showing-distinct-values-of-a-data-fra) - 2 votes
+* [Convert a dataframe to a list of tuples](https://stackoverflow.com/questions/67657866/convert-a-dataframe-to-a-list-of-tuples) - 5 votes
+* [Can you duplicate rows in a pandas dataframe based on how many times a feature value appears in another dataframe](https://stackoverflow.com/questions/67656561/can-you-duplicate-rows-in-a-pandas-dataframe-based-on-how-many-times-a-feature-v) - 3 votes
+* [Groupby and calculations based on specific row value](https://stackoverflow.com/questions/67662242/groupby-and-calculations-based-on-specific-row-value) - 2 votes
+* [Generate difference between the first and last measurement from aggregated dataset](https://stackoverflow.com/questions/67660771/generate-difference-between-the-first-and-last-measurement-from-aggregated-datas) - 2 votes
+* [Conditionally merge rows in pandas DataFrame](https://stackoverflow.com/questions/67660907/conditionally-merge-rows-in-pandas-dataframe) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Embedding Matplotlib plot inside Tkinter Label](https://stackoverflow.com/questions/67648380/embedding-matplotlib-plot-inside-tkinter-label) - 2 votes
-* [Python plotting from for loop](https://stackoverflow.com/questions/67645369/python-plotting-from-for-loop) - 2 votes
-* [error showing x tick labels on shared subplots  39silent_list39 object has no attribute 39set_visible39](https://stackoverflow.com/questions/67651874/error-showing-x-tick-labels-on-shared-subplots-silent-list-object-has-no-att) - 1 votes
-* [An ImportError occurs when importing matplotlib](https://stackoverflow.com/questions/67645777/an-importerror-occurs-when-importing-matplotlib) - 1 votes
+* [How to create boxplots by group for all dataframe columns](https://stackoverflow.com/questions/67663146/how-to-create-boxplots-by-group-for-all-dataframe-columns) - 1 votes
+* [how to add label of graphs string values like first layer second layer third instead of layer numbers](https://stackoverflow.com/questions/67658795/how-to-add-label-of-graphs-string-values-like-first-layer-second-layer-third-ins) - 1 votes
+* [Why does the graph fall instantly after a certain value of Deltak](https://stackoverflow.com/questions/67657425/why-does-the-graph-fall-instantly-after-a-certain-value-of-delta-k) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Generating LaTeX style scatter plot diagram using R ggplot2](https://stackoverflow.com/questions/67648725/generating-latex-style-scatter-plot-diagram-using-r-ggplot2) - 2 votes
-* [Changing the shape of one point or few points in a scatter plot in R](https://stackoverflow.com/questions/67652479/changing-the-shape-of-one-point-or-few-points-in-a-scatter-plot-in-r) - 2 votes
-* [ggplot2 axis text label subscript  superscript  square brackets](https://stackoverflow.com/questions/67648657/ggplot2-axis-text-label-subscript-superscript-square-brackets) - 2 votes
-* [Colorbar width for facet plot in R](https://stackoverflow.com/questions/67653593/colorbar-width-for-facet-plot-in-r) - 1 votes
-* [Overlaying ggmap and ggplot](https://stackoverflow.com/questions/67646596/overlaying-ggmap-and-ggplot) - 1 votes
+* [Group columns and fit in one plot](https://stackoverflow.com/questions/67663991/group-columns-and-fit-in-one-plot) - 1 votes
+* [How to display a decadal trend onto monthlyannual data in ggplot](https://stackoverflow.com/questions/67655187/how-to-display-a-decadal-trend-onto-monthly-annual-data-in-ggplot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
