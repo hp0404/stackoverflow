@@ -1,34 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-23<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-24<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Convert a dataframe to a list of tuples](https://stackoverflow.com/questions/67657866/convert-a-dataframe-to-a-list-of-tuples) - 5 votes
-* [Can you duplicate rows in a pandas dataframe based on how many times a feature value appears in another dataframe](https://stackoverflow.com/questions/67656561/can-you-duplicate-rows-in-a-pandas-dataframe-based-on-how-many-times-a-feature-v) - 3 votes
-* [Groupby and calculations based on specific row value](https://stackoverflow.com/questions/67662242/groupby-and-calculations-based-on-specific-row-value) - 2 votes
-* [Generate difference between the first and last measurement from aggregated dataset](https://stackoverflow.com/questions/67660771/generate-difference-between-the-first-and-last-measurement-from-aggregated-datas) - 2 votes
-* [Conditionally merge rows in pandas DataFrame](https://stackoverflow.com/questions/67660907/conditionally-merge-rows-in-pandas-dataframe) - 1 votes
+* [Split rows and assign values pandas](https://stackoverflow.com/questions/67677731/split-rows-and-assign-values-pandas) - 3 votes
+* [Sum column values for each row](https://stackoverflow.com/questions/67670063/sum-column-values-for-each-row) - 3 votes
+* [Is it possible to merge two pandas dataframes based on indices and column names](https://stackoverflow.com/questions/67677001/is-it-possible-to-merge-two-pandas-dataframes-based-on-indices-and-column-names) - 2 votes
+* [Check if at least one column contains a string in pandas](https://stackoverflow.com/questions/67675174/check-if-at-least-one-column-contains-a-string-in-pandas) - 2 votes
+* [How to divide a column by the number of rows with equal id in a dataframe](https://stackoverflow.com/questions/67670569/how-to-divide-a-column-by-the-number-of-rows-with-equal-id-in-a-dataframe) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to create boxplots by group for all dataframe columns](https://stackoverflow.com/questions/67663146/how-to-create-boxplots-by-group-for-all-dataframe-columns) - 1 votes
-* [how to add label of graphs string values like first layer second layer third instead of layer numbers](https://stackoverflow.com/questions/67658795/how-to-add-label-of-graphs-string-values-like-first-layer-second-layer-third-ins) - 1 votes
-* [Why does the graph fall instantly after a certain value of Deltak](https://stackoverflow.com/questions/67657425/why-does-the-graph-fall-instantly-after-a-certain-value-of-delta-k) - 1 votes
+* [How to use Matplotlib39s animate function](https://stackoverflow.com/questions/67672601/how-to-use-matplotlibs-animate-function) - 1 votes
+* [Start the Y ticks at origin of graph and end tick where the axis ends in matplotlib pyplot](https://stackoverflow.com/questions/67670076/start-the-y-ticks-at-origin-of-graph-and-end-tick-where-the-axis-ends-in-matplot) - 1 votes
+* [How to plot grouped bars](https://stackoverflow.com/questions/67670430/how-to-plot-grouped-bars) - 1 votes
+* [matplotlib subplots empty when attempting to change font size of axes ticks](https://stackoverflow.com/questions/67667060/matplotlib-subplots-empty-when-attempting-to-change-font-size-of-axes-ticks) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Group columns and fit in one plot](https://stackoverflow.com/questions/67663991/group-columns-and-fit-in-one-plot) - 1 votes
-* [How to display a decadal trend onto monthlyannual data in ggplot](https://stackoverflow.com/questions/67655187/how-to-display-a-decadal-trend-onto-monthly-annual-data-in-ggplot) - 1 votes
+* [Tying geom_smooth to a specific model](https://stackoverflow.com/questions/67675559/tying-geom-smooth-to-a-specific-model) - 1 votes
+* [Remove road from OpenStreeMap map](https://stackoverflow.com/questions/67675895/remove-road-from-openstreemap-map) - 1 votes
+* [Animation with ggplotly points disappearing when grouped by colour andor shape](https://stackoverflow.com/questions/67672446/animation-with-ggplotly-points-disappearing-when-grouped-by-colour-and-or-shape) - 1 votes
+* [set diagonal elements to a certain color on geom_tile ggplot2](https://stackoverflow.com/questions/67665633/set-diagonal-elements-to-a-certain-color-on-geom-tile-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
