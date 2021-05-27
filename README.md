@@ -1,38 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-26<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-27<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Vectorization or efficient way to calculate Longest Increasing subsequence of tuples with Pandas](https://stackoverflow.com/questions/67698793/vectorization-or-efficient-way-to-calculate-longest-increasing-subsequence-of-tu) - 6 votes
-* [python  delete rows and and assign their value to other rows](https://stackoverflow.com/questions/67705546/python-delete-rows-and-and-assign-their-value-to-other-rows) - 4 votes
-* [Subtract a dataframe with some matching and non matching columns and indexes](https://stackoverflow.com/questions/67697921/subtract-a-dataframe-with-some-matching-and-non-matching-columns-and-indexes) - 3 votes
-* [How to add rows with identical items in different columns in Pandas together](https://stackoverflow.com/questions/67712411/how-to-add-rows-with-identical-items-in-different-columns-in-pandas-together) - 3 votes
-* [Conditional count in dataframe across columns time series](https://stackoverflow.com/questions/67711178/conditional-count-in-dataframe-across-columns-time-series) - 2 votes
+* [Python pandas fast way to flatten JSON into rows by a surrogate key](https://stackoverflow.com/questions/67723581/python-pandas-fast-way-to-flatten-json-into-rows-by-a-surrogate-key) - 6 votes
+* [Drop Duplicates on dataframe on value inside dictionary in column](https://stackoverflow.com/questions/67714397/drop-duplicates-on-dataframe-on-value-inside-dictionary-in-column) - 4 votes
+* [Pandas Rename Columns](https://stackoverflow.com/questions/67725610/pandas-rename-columns) - 3 votes
+* [Expand transpose and deaggregate a dataset using python](https://stackoverflow.com/questions/67714240/expand-transpose-and-de-aggregate-a-dataset-using-python) - 3 votes
+* [Improve performance of Pandas subsetsfilters with multiple conditions](https://stackoverflow.com/questions/67724770/improve-performance-of-pandas-subsets-filters-with-multiple-conditions) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Legend handle not correctly aligned in matplotlib](https://stackoverflow.com/questions/67705674/legend-handle-not-correctly-aligned-in-matplotlib) - 1 votes
-* [Matplotlib unaligned values and names of graphs](https://stackoverflow.com/questions/67705134/matplotlib-unaligned-values-and-names-of-graphs) - 1 votes
-* [plotting SNS line chart with category x axis](https://stackoverflow.com/questions/67707557/plotting-sns-line-chart-with-category-x-axis) - 1 votes
-* [Seaborn color bar on FacetGrid for histplot with accurate vminvmax](https://stackoverflow.com/questions/67701339/seaborn-color-bar-on-facetgrid-for-histplot-with-accurate-vmin-vmax) - 1 votes
+* [show image by matplotlib from numpy array](https://stackoverflow.com/questions/67719320/show-image-by-matplotlib-from-numpy-array) - 1 votes
+* [How to plot scatter plot for range data](https://stackoverflow.com/questions/67721112/how-to-plot-scatter-plot-for-range-data) - 1 votes
+* [How can I plot an ellipse from eigenvalues and eigenvectors in Python  Matplotlib](https://stackoverflow.com/questions/67718828/how-can-i-plot-an-ellipse-from-eigenvalues-and-eigenvectors-in-python-matplotl) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to set different fill colour for scale guide in geom_jitter](https://stackoverflow.com/questions/67702299/how-to-set-different-fill-colour-for-scale-guide-in-geom-jitter) - 2 votes
-* [Change the layout of a plot for example a negative plot](https://stackoverflow.com/questions/67707706/change-the-layout-of-a-plot-for-example-a-negative-plot) - 1 votes
-* [Custom legend with ggplot](https://stackoverflow.com/questions/67704474/custom-legend-with-ggplot) - 1 votes
-* [How to include reactive output text Shiny](https://stackoverflow.com/questions/67698702/how-to-include-reactive-output-text-shiny) - 1 votes
-* [Shading every other vertical month alternating white and gray](https://stackoverflow.com/questions/67709949/shading-every-other-vertical-month-alternating-white-and-gray) - 1 votes
+* [How to find frequencies of multiple ID39s from one column by year and plot](https://stackoverflow.com/questions/67715526/how-to-find-frequencies-of-multiple-ids-from-one-column-by-year-and-plot) - 2 votes
+* [Increase space between bars in a stacked bar chart in R](https://stackoverflow.com/questions/67727865/increase-space-between-bars-in-a-stacked-bar-chart-in-r) - 1 votes
+* [Using a custom latex template for R markdown and ggplot2](https://stackoverflow.com/questions/67721303/using-a-custom-latex-template-for-r-markdown-and-ggplot2) - 1 votes
+* [R how to use a variable to select different columns of a dataframe in ggplot2](https://stackoverflow.com/questions/67715110/r-how-to-use-a-variable-to-select-different-columns-of-a-dataframe-in-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
