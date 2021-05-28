@@ -1,36 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-27<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-28<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Python pandas fast way to flatten JSON into rows by a surrogate key](https://stackoverflow.com/questions/67723581/python-pandas-fast-way-to-flatten-json-into-rows-by-a-surrogate-key) - 6 votes
-* [Drop Duplicates on dataframe on value inside dictionary in column](https://stackoverflow.com/questions/67714397/drop-duplicates-on-dataframe-on-value-inside-dictionary-in-column) - 4 votes
-* [Pandas Rename Columns](https://stackoverflow.com/questions/67725610/pandas-rename-columns) - 3 votes
-* [Expand transpose and deaggregate a dataset using python](https://stackoverflow.com/questions/67714240/expand-transpose-and-de-aggregate-a-dataset-using-python) - 3 votes
-* [Improve performance of Pandas subsetsfilters with multiple conditions](https://stackoverflow.com/questions/67724770/improve-performance-of-pandas-subsets-filters-with-multiple-conditions) - 3 votes
+* [How to join dataframe](https://stackoverflow.com/questions/67737660/how-to-join-dataframe) - 3 votes
+* [filtering items from list in df column](https://stackoverflow.com/questions/67741167/filtering-items-from-list-in-df-column) - 2 votes
+* [TypeError object cannot be converted to an IntegerDtype](https://stackoverflow.com/questions/67733179/typeerror-object-cannot-be-converted-to-an-integerdtype) - 2 votes
+* [Merge the Column](https://stackoverflow.com/questions/67739083/merge-the-column) - 2 votes
+* [Split dataframe based on empty column condition](https://stackoverflow.com/questions/67737734/split-dataframe-based-on-empty-column-condition) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [show image by matplotlib from numpy array](https://stackoverflow.com/questions/67719320/show-image-by-matplotlib-from-numpy-array) - 1 votes
-* [How to plot scatter plot for range data](https://stackoverflow.com/questions/67721112/how-to-plot-scatter-plot-for-range-data) - 1 votes
-* [How can I plot an ellipse from eigenvalues and eigenvectors in Python  Matplotlib](https://stackoverflow.com/questions/67718828/how-can-i-plot-an-ellipse-from-eigenvalues-and-eigenvectors-in-python-matplotl) - 1 votes
+* [How do I get a matplot lib plot to display](https://stackoverflow.com/questions/67743202/how-do-i-get-a-matplot-lib-plot-to-display) - 2 votes
+* [Ship Python package with custom matplotlibrc file](https://stackoverflow.com/questions/67736922/ship-python-package-with-custom-matplotlibrc-file) - 1 votes
+* [How do I reuse a previous matplotlib axes object in a new figure](https://stackoverflow.com/questions/67732576/how-do-i-reuse-a-previous-matplotlib-axes-object-in-a-new-figure) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to find frequencies of multiple ID39s from one column by year and plot](https://stackoverflow.com/questions/67715526/how-to-find-frequencies-of-multiple-ids-from-one-column-by-year-and-plot) - 2 votes
-* [Increase space between bars in a stacked bar chart in R](https://stackoverflow.com/questions/67727865/increase-space-between-bars-in-a-stacked-bar-chart-in-r) - 1 votes
-* [Using a custom latex template for R markdown and ggplot2](https://stackoverflow.com/questions/67721303/using-a-custom-latex-template-for-r-markdown-and-ggplot2) - 1 votes
-* [R how to use a variable to select different columns of a dataframe in ggplot2](https://stackoverflow.com/questions/67715110/r-how-to-use-a-variable-to-select-different-columns-of-a-dataframe-in-ggplot2) - 1 votes
+* [Maintain the same order for variables in geom_bar with fill argument](https://stackoverflow.com/questions/67735115/maintain-the-same-order-for-variables-in-geom-bar-with-fill-argument) - 2 votes
+* [Error Aesthetics must be either length 1 or the same as the data 5 y](https://stackoverflow.com/questions/67734616/error-aesthetics-must-be-either-length-1-or-the-same-as-the-data-5-y) - 2 votes
+* [R data visualization with ggplot2  adding colors to 20 variables with RColorBrewer](https://stackoverflow.com/questions/67739682/r-data-visualization-with-ggplot2-adding-colors-to-20-variables-with-rcolorbre) - 1 votes
+* [Is there a way to add number of observations to plot label using ggpmiscstat_poly_eq](https://stackoverflow.com/questions/67742741/is-there-a-way-to-add-number-of-observations-to-plot-label-using-ggpmiscstat-p) - 1 votes
+* [Is there a faster way than flextable to add tables to ggplot objects](https://stackoverflow.com/questions/67742400/is-there-a-faster-way-than-flextable-to-add-tables-to-ggplot-objects) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
