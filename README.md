@@ -1,37 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-28<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-29<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to join dataframe](https://stackoverflow.com/questions/67737660/how-to-join-dataframe) - 3 votes
-* [filtering items from list in df column](https://stackoverflow.com/questions/67741167/filtering-items-from-list-in-df-column) - 2 votes
-* [TypeError object cannot be converted to an IntegerDtype](https://stackoverflow.com/questions/67733179/typeerror-object-cannot-be-converted-to-an-integerdtype) - 2 votes
-* [Merge the Column](https://stackoverflow.com/questions/67739083/merge-the-column) - 2 votes
-* [Split dataframe based on empty column condition](https://stackoverflow.com/questions/67737734/split-dataframe-based-on-empty-column-condition) - 2 votes
+* [How to build a heatmap](https://stackoverflow.com/questions/67753293/how-to-build-a-heatmap) - 5 votes
+* [Is there a way to use the previous calculated row value with the sum of a different column in a Pandas Dataframe](https://stackoverflow.com/questions/67751801/is-there-a-way-to-use-the-previous-calculated-row-value-with-the-sum-of-a-differ) - 4 votes
+* [Fill other columns with missing dates Nan Pandas DataFrane](https://stackoverflow.com/questions/67748409/fill-other-columns-with-missing-dates-nan-pandas-datafrane) - 3 votes
+* [How to add values in dynamic columns in Pandas dataframe](https://stackoverflow.com/questions/67750592/how-to-add-values-in-dynamic-columns-in-pandas-dataframe) - 2 votes
+* [Nested forloop optimization while iterating over Dataframes](https://stackoverflow.com/questions/67748675/nested-for-loop-optimization-while-iterating-over-dataframes) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How do I get a matplot lib plot to display](https://stackoverflow.com/questions/67743202/how-do-i-get-a-matplot-lib-plot-to-display) - 2 votes
-* [Ship Python package with custom matplotlibrc file](https://stackoverflow.com/questions/67736922/ship-python-package-with-custom-matplotlibrc-file) - 1 votes
-* [How do I reuse a previous matplotlib axes object in a new figure](https://stackoverflow.com/questions/67732576/how-do-i-reuse-a-previous-matplotlib-axes-object-in-a-new-figure) - 1 votes
+* [Plot sequence of letters with color in background in Python](https://stackoverflow.com/questions/67751527/plot-sequence-of-letters-with-color-in-background-in-python) - 1 votes
+* [Matplotlib  Display nonequidistant data points in a equidistant way with correct ticks](https://stackoverflow.com/questions/67753489/matplotlib-display-non-equidistant-data-points-in-a-equidistant-way-with-corre) - 1 votes
+* [How to plot Mappings in python](https://stackoverflow.com/questions/67753303/how-to-plot-mappings-in-python) - 1 votes
+* [How to use a dictionary as tick value labels with Seaborn](https://stackoverflow.com/questions/67750629/how-to-use-a-dictionary-as-tick-value-labels-with-seaborn) - 1 votes
+* [How do I get multiple outputs for 2 simultaneous equations in python](https://stackoverflow.com/questions/67749910/how-do-i-get-multiple-outputs-for-2-simultaneous-equations-in-python) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Maintain the same order for variables in geom_bar with fill argument](https://stackoverflow.com/questions/67735115/maintain-the-same-order-for-variables-in-geom-bar-with-fill-argument) - 2 votes
-* [Error Aesthetics must be either length 1 or the same as the data 5 y](https://stackoverflow.com/questions/67734616/error-aesthetics-must-be-either-length-1-or-the-same-as-the-data-5-y) - 2 votes
-* [R data visualization with ggplot2  adding colors to 20 variables with RColorBrewer](https://stackoverflow.com/questions/67739682/r-data-visualization-with-ggplot2-adding-colors-to-20-variables-with-rcolorbre) - 1 votes
-* [Is there a way to add number of observations to plot label using ggpmiscstat_poly_eq](https://stackoverflow.com/questions/67742741/is-there-a-way-to-add-number-of-observations-to-plot-label-using-ggpmiscstat-p) - 1 votes
-* [Is there a faster way than flextable to add tables to ggplot objects](https://stackoverflow.com/questions/67742400/is-there-a-faster-way-than-flextable-to-add-tables-to-ggplot-objects) - 1 votes
+* [R Calculate and display percentages using dplyr and geom_text](https://stackoverflow.com/questions/67749025/r-calculate-and-display-percentages-using-dplyr-and-geom-text) - 1 votes
+* [Graph X axis formatting](https://stackoverflow.com/questions/67753124/graph-x-axis-formatting) - 1 votes
+* [Plot title not working in Circular Barplot](https://stackoverflow.com/questions/67748464/plot-title-not-working-in-circular-barplot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
