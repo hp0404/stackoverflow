@@ -1,37 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-05-31<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-01<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Is there a function to write certain values of a dataframe to a txt file in Python](https://stackoverflow.com/questions/67771907/is-there-a-function-to-write-certain-values-of-a-dataframe-to-a-txt-file-in-pyt) - 5 votes
-* [How get consecutives weeks in a group in df python](https://stackoverflow.com/questions/67775964/how-get-consecutives-weeks-in-a-group-in-df-python) - 3 votes
-* [Replace a loop over pandas DataFrame](https://stackoverflow.com/questions/67768382/replace-a-loop-over-pandas-dataframe) - 3 votes
-* [Interpolate both directions with pandas while first and last values are missing](https://stackoverflow.com/questions/67773127/interpolate-both-directions-with-pandas-while-first-and-last-values-are-missing) - 3 votes
-* [How to add padded rows of 0 to a pandas dataframe](https://stackoverflow.com/questions/67778290/how-to-add-padded-rows-of-0-to-a-pandas-dataframe) - 2 votes
+* [Adding column to Pandas DataFrame based on dynamic indexing condition](https://stackoverflow.com/questions/67782893/adding-column-to-pandas-dataframe-based-on-dynamic-indexing-condition) - 4 votes
+* [Combine two rows in Pandas depending on values in a column and creating a new category](https://stackoverflow.com/questions/67790784/combine-two-rows-in-pandas-depending-on-values-in-a-column-and-creating-a-new-ca) - 3 votes
+* [Merge on specific column with multiple conditions](https://stackoverflow.com/questions/67786158/merge-on-specific-column-with-multiple-conditions) - 3 votes
+* [Compute relative frequency from count table](https://stackoverflow.com/questions/67795923/compute-relative-frequency-from-count-table) - 3 votes
+* [How do I vectorize a Pandas function that counts rows belonging to a group and falling between two dates](https://stackoverflow.com/questions/67783431/how-do-i-vectorize-a-pandas-function-that-counts-rows-belonging-to-a-group-and-f) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to get multiplier string of scientific notation on matplotlib](https://stackoverflow.com/questions/67778063/how-to-get-multiplier-string-of-scientific-notation-on-matplotlib) - 2 votes
-* [Plotting of dot points based on npwhere condition](https://stackoverflow.com/questions/67772777/plotting-of-dot-points-based-on-np-where-condition) - 2 votes
-* [Sales data  Plot number of ordered each item over time](https://stackoverflow.com/questions/67772196/sales-data-plot-number-of-ordered-each-item-over-time) - 1 votes
-* [KMeans clustering from all possible combinations of 2 columns not producing correct output](https://stackoverflow.com/questions/67780180/kmeans-clustering-from-all-possible-combinations-of-2-columns-not-producing-corr) - 1 votes
-* [Stacked Bar Chart Labeling using Matplotlib](https://stackoverflow.com/questions/67777977/stacked-bar-chart-labeling-using-matplotlib) - 1 votes
+* [Merge list of results into a single variable with Python](https://stackoverflow.com/questions/67794684/merge-list-of-results-into-a-single-variable-with-python) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How can I plot multiple columns under X and Y in ggplot2](https://stackoverflow.com/questions/67774545/how-can-i-plot-multiple-columns-under-x-and-y-in-ggplot2) - 2 votes
-* [Create multiple donut plots in one plot](https://stackoverflow.com/questions/67769778/create-multiple-donut-plots-in-one-plot) - 2 votes
-* [How to use ggplot2 package in R to change the range of yaxis](https://stackoverflow.com/questions/67775317/how-to-use-ggplot2-package-in-r-to-change-the-range-of-y-axis) - 1 votes
+* [Is there any way to use 2 color scales on the same ggplot](https://stackoverflow.com/questions/67789467/is-there-any-way-to-use-2-color-scales-on-the-same-ggplot) - 3 votes
+* [How to annotate the area under the curve of density plot of specific interval](https://stackoverflow.com/questions/67786838/how-to-annotate-the-area-under-the-curve-of-density-plot-of-specific-interval) - 2 votes
+* [Labels ggplot patchwork](https://stackoverflow.com/questions/67785239/labels-ggplot-patchwork) - 2 votes
+* [ggplot adding multiple geom_lines](https://stackoverflow.com/questions/67795880/ggplot-adding-multiple-geom-lines) - 1 votes
+* [How can I add custom ticks and text to ggplot2 xaxis](https://stackoverflow.com/questions/67794987/how-can-i-add-custom-ticks-and-text-to-ggplot2-x-axis) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
