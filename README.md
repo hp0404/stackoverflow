@@ -1,35 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-01<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-02<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Adding column to Pandas DataFrame based on dynamic indexing condition](https://stackoverflow.com/questions/67782893/adding-column-to-pandas-dataframe-based-on-dynamic-indexing-condition) - 4 votes
-* [Combine two rows in Pandas depending on values in a column and creating a new category](https://stackoverflow.com/questions/67790784/combine-two-rows-in-pandas-depending-on-values-in-a-column-and-creating-a-new-ca) - 3 votes
-* [Merge on specific column with multiple conditions](https://stackoverflow.com/questions/67786158/merge-on-specific-column-with-multiple-conditions) - 3 votes
-* [Compute relative frequency from count table](https://stackoverflow.com/questions/67795923/compute-relative-frequency-from-count-table) - 3 votes
-* [How do I vectorize a Pandas function that counts rows belonging to a group and falling between two dates](https://stackoverflow.com/questions/67783431/how-do-i-vectorize-a-pandas-function-that-counts-rows-belonging-to-a-group-and-f) - 3 votes
+* [Split a list from Dataframe column into specific column name](https://stackoverflow.com/questions/67807675/split-a-list-from-dataframe-column-into-specific-column-name) - 4 votes
+* [Assigning columns to a hierarchical higher Multiindex level](https://stackoverflow.com/questions/67809292/assigning-columns-to-a-hierarchical-higher-multiindex-level) - 3 votes
+* [Map Unique Values From One Array to Corresponding Sum of Another Array](https://stackoverflow.com/questions/67811530/map-unique-values-from-one-array-to-corresponding-sum-of-another-array) - 3 votes
+* [Apportion row to other rows](https://stackoverflow.com/questions/67809128/apportion-row-to-other-rows) - 3 votes
+* [How to create a column with a count of rows between two values of another column in pandas](https://stackoverflow.com/questions/67804760/how-to-create-a-column-with-a-count-of-rows-between-two-values-of-another-column) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Merge list of results into a single variable with Python](https://stackoverflow.com/questions/67794684/merge-list-of-results-into-a-single-variable-with-python) - 1 votes
+* [Label points in section of npmeshgrid](https://stackoverflow.com/questions/67802251/label-points-in-section-of-np-meshgrid) - 2 votes
+* [I need to plot a lot of X39s on a graph but is there a way to not have to directly specify the color](https://stackoverflow.com/questions/67809009/i-need-to-plot-a-lot-of-xs-on-a-graph-but-is-there-a-way-to-not-have-to-direct) - 1 votes
+* [Python  Assigning Matplotlib Xtick](https://stackoverflow.com/questions/67812941/python-assigning-matplotlib-xtick) - 1 votes
+* [Is there a Python function or methodology for locating the first elbow of a plot](https://stackoverflow.com/questions/67809996/is-there-a-python-function-or-methodology-for-locating-the-first-elbow-of-a-plot) - 1 votes
+* [Memory leak in matplotlibplot](https://stackoverflow.com/questions/67808128/memory-leak-in-matplotlib-plot) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Is there any way to use 2 color scales on the same ggplot](https://stackoverflow.com/questions/67789467/is-there-any-way-to-use-2-color-scales-on-the-same-ggplot) - 3 votes
-* [How to annotate the area under the curve of density plot of specific interval](https://stackoverflow.com/questions/67786838/how-to-annotate-the-area-under-the-curve-of-density-plot-of-specific-interval) - 2 votes
-* [Labels ggplot patchwork](https://stackoverflow.com/questions/67785239/labels-ggplot-patchwork) - 2 votes
-* [ggplot adding multiple geom_lines](https://stackoverflow.com/questions/67795880/ggplot-adding-multiple-geom-lines) - 1 votes
-* [How can I add custom ticks and text to ggplot2 xaxis](https://stackoverflow.com/questions/67794987/how-can-i-add-custom-ticks-and-text-to-ggplot2-x-axis) - 1 votes
+* [How to differentiate groups in a geom_point plot via point types](https://stackoverflow.com/questions/67806815/how-to-differentiate-groups-in-a-geom-point-plot-via-point-types) - 2 votes
+* [Summarise and group_by in ggplot2 seem to be missing out rows of data in my data frame](https://stackoverflow.com/questions/67798760/summarise-and-group-by-in-ggplot2-seem-to-be-missing-out-rows-of-data-in-my) - 1 votes
+* [How to automatically position multiple model evaluation parameters in facetted ggplot2](https://stackoverflow.com/questions/67802720/how-to-automatically-position-multiple-model-evaluation-parameters-in-facetted-g) - 1 votes
+* [How to automatically position R2 and RMSE in facetted ggplot2](https://stackoverflow.com/questions/67800601/how-to-automatically-position-r2-and-rmse-in-facetted-ggplot2) - 1 votes
+* [Multiple box plots in one graph](https://stackoverflow.com/questions/67798005/multiple-box-plots-in-one-graph) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
