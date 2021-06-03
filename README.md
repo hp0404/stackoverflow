@@ -1,39 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-02<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-03<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Split a list from Dataframe column into specific column name](https://stackoverflow.com/questions/67807675/split-a-list-from-dataframe-column-into-specific-column-name) - 4 votes
-* [Assigning columns to a hierarchical higher Multiindex level](https://stackoverflow.com/questions/67809292/assigning-columns-to-a-hierarchical-higher-multiindex-level) - 3 votes
-* [Map Unique Values From One Array to Corresponding Sum of Another Array](https://stackoverflow.com/questions/67811530/map-unique-values-from-one-array-to-corresponding-sum-of-another-array) - 3 votes
-* [Apportion row to other rows](https://stackoverflow.com/questions/67809128/apportion-row-to-other-rows) - 3 votes
-* [How to create a column with a count of rows between two values of another column in pandas](https://stackoverflow.com/questions/67804760/how-to-create-a-column-with-a-count-of-rows-between-two-values-of-another-column) - 2 votes
+* [Map Values from List of Lists to Pandas Dataframe Column](https://stackoverflow.com/questions/67823791/map-values-from-list-of-lists-to-pandas-dataframe-column) - 4 votes
+* [Filter dataframe with list of nested dict](https://stackoverflow.com/questions/67817764/filter-dataframe-with-list-of-nested-dict) - 4 votes
+* [Pandas group by and sum but create a new row when a certain amount is exceeded](https://stackoverflow.com/questions/67815908/pandas-group-by-and-sum-but-create-a-new-row-when-a-certain-amount-is-exceeded) - 4 votes
+* [Extract cooccurrence data from dataframe](https://stackoverflow.com/questions/67822416/extract-co-occurrence-data-from-dataframe) - 3 votes
+* [Delete all rows after the first appearance of a condition in a pandas data frame](https://stackoverflow.com/questions/67824626/delete-all-rows-after-the-first-appearance-of-a-condition-in-a-pandas-data-frame) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Label points in section of npmeshgrid](https://stackoverflow.com/questions/67802251/label-points-in-section-of-np-meshgrid) - 2 votes
-* [I need to plot a lot of X39s on a graph but is there a way to not have to directly specify the color](https://stackoverflow.com/questions/67809009/i-need-to-plot-a-lot-of-xs-on-a-graph-but-is-there-a-way-to-not-have-to-direct) - 1 votes
-* [Python  Assigning Matplotlib Xtick](https://stackoverflow.com/questions/67812941/python-assigning-matplotlib-xtick) - 1 votes
-* [Is there a Python function or methodology for locating the first elbow of a plot](https://stackoverflow.com/questions/67809996/is-there-a-python-function-or-methodology-for-locating-the-first-elbow-of-a-plot) - 1 votes
-* [Memory leak in matplotlibplot](https://stackoverflow.com/questions/67808128/memory-leak-in-matplotlib-plot) - 1 votes
+* [How to plot a wide dataframe with colors and linestyles based on different columns](https://stackoverflow.com/questions/67825258/how-to-plot-a-wide-dataframe-with-colors-and-linestyles-based-on-different-colum) - 2 votes
+* [How to plot a column value with its index as axis](https://stackoverflow.com/questions/67815539/how-to-plot-a-column-value-with-its-index-as-axis) - 2 votes
+* [PCA plot parameters](https://stackoverflow.com/questions/67822663/pca-plot-parameters) - 2 votes
+* [Running into segmentation fault error via Matplotlib](https://stackoverflow.com/questions/67827747/running-into-segmentation-fault-error-via-matplotlib) - 1 votes
+* [Matplotlib Animation  How to make a reverse animation](https://stackoverflow.com/questions/67821406/matplotlib-animation-how-to-make-a-reverse-animation) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to differentiate groups in a geom_point plot via point types](https://stackoverflow.com/questions/67806815/how-to-differentiate-groups-in-a-geom-point-plot-via-point-types) - 2 votes
-* [Summarise and group_by in ggplot2 seem to be missing out rows of data in my data frame](https://stackoverflow.com/questions/67798760/summarise-and-group-by-in-ggplot2-seem-to-be-missing-out-rows-of-data-in-my) - 1 votes
-* [How to automatically position multiple model evaluation parameters in facetted ggplot2](https://stackoverflow.com/questions/67802720/how-to-automatically-position-multiple-model-evaluation-parameters-in-facetted-g) - 1 votes
-* [How to automatically position R2 and RMSE in facetted ggplot2](https://stackoverflow.com/questions/67800601/how-to-automatically-position-r2-and-rmse-in-facetted-ggplot2) - 1 votes
-* [Multiple box plots in one graph](https://stackoverflow.com/questions/67798005/multiple-box-plots-in-one-graph) - 1 votes
+* [Draw only specific axis text labels](https://stackoverflow.com/questions/67824696/draw-only-specific-axis-text-labels) - 2 votes
+* [In ggplot2 plot multiple geom_lines using distinct row names to identify them](https://stackoverflow.com/questions/67815992/in-ggplot2-plot-multiple-geom-lines-using-distinct-row-names-to-identify-them) - 1 votes
+* [Can I access results of quotsetup_dataquot from quotmap_dataquot works fine for quotcompute_layoutquot but not quotmap_dataquot in ggplot2 ggproto](https://stackoverflow.com/questions/67828722/can-i-access-results-of-setup-data-from-map-data-works-fine-for-compute-l) - 1 votes
+* [Refer back to subset dataframe when using stat_function or geom_function](https://stackoverflow.com/questions/67828713/refer-back-to-subset-dataframe-when-using-stat-function-or-geom-function) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
