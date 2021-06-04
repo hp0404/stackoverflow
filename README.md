@@ -1,38 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-03<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-04<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Map Values from List of Lists to Pandas Dataframe Column](https://stackoverflow.com/questions/67823791/map-values-from-list-of-lists-to-pandas-dataframe-column) - 4 votes
-* [Filter dataframe with list of nested dict](https://stackoverflow.com/questions/67817764/filter-dataframe-with-list-of-nested-dict) - 4 votes
-* [Pandas group by and sum but create a new row when a certain amount is exceeded](https://stackoverflow.com/questions/67815908/pandas-group-by-and-sum-but-create-a-new-row-when-a-certain-amount-is-exceeded) - 4 votes
-* [Extract cooccurrence data from dataframe](https://stackoverflow.com/questions/67822416/extract-co-occurrence-data-from-dataframe) - 3 votes
-* [Delete all rows after the first appearance of a condition in a pandas data frame](https://stackoverflow.com/questions/67824626/delete-all-rows-after-the-first-appearance-of-a-condition-in-a-pandas-data-frame) - 3 votes
+* [For a dataframe group by a variable sort and then eliminate the nonconsecutive rows](https://stackoverflow.com/questions/67841259/for-a-dataframe-group-by-a-variable-sort-and-then-eliminate-the-non-consecutiv) - 3 votes
+* [Python How to split each string into new row with some string concatenation](https://stackoverflow.com/questions/67831093/python-how-to-split-each-string-into-new-row-with-some-string-concatenation) - 3 votes
+* [Pandas New column from conditions and from another data frame](https://stackoverflow.com/questions/67836590/pandas-new-column-from-conditions-and-from-another-data-frame) - 2 votes
+* [Add dictionary key as label if Pandas column contains any value from dictionary values](https://stackoverflow.com/questions/67839442/add-dictionary-key-as-label-if-pandas-column-contains-any-value-from-dictionary) - 2 votes
+* [How to combine rows with different values in columns in pandas dataframe](https://stackoverflow.com/questions/67843473/how-to-combine-rows-with-different-values-in-columns-in-pandas-dataframe) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to plot a wide dataframe with colors and linestyles based on different columns](https://stackoverflow.com/questions/67825258/how-to-plot-a-wide-dataframe-with-colors-and-linestyles-based-on-different-colum) - 2 votes
-* [How to plot a column value with its index as axis](https://stackoverflow.com/questions/67815539/how-to-plot-a-column-value-with-its-index-as-axis) - 2 votes
-* [PCA plot parameters](https://stackoverflow.com/questions/67822663/pca-plot-parameters) - 2 votes
-* [Running into segmentation fault error via Matplotlib](https://stackoverflow.com/questions/67827747/running-into-segmentation-fault-error-via-matplotlib) - 1 votes
-* [Matplotlib Animation  How to make a reverse animation](https://stackoverflow.com/questions/67821406/matplotlib-animation-how-to-make-a-reverse-animation) - 1 votes
+* [How can I display kindquotswarmquot and kindquotpointquot on the same catplot in Seaborn](https://stackoverflow.com/questions/67837930/how-can-i-display-kind-swarm-and-kind-point-on-the-same-catplot-in-seaborn) - 2 votes
+* [Matplotlib plot39s title is missing for unknown reason in Python](https://stackoverflow.com/questions/67841265/matplotlib-plots-title-is-missing-for-unknown-reason-in-python) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Draw only specific axis text labels](https://stackoverflow.com/questions/67824696/draw-only-specific-axis-text-labels) - 2 votes
-* [In ggplot2 plot multiple geom_lines using distinct row names to identify them](https://stackoverflow.com/questions/67815992/in-ggplot2-plot-multiple-geom-lines-using-distinct-row-names-to-identify-them) - 1 votes
-* [Can I access results of quotsetup_dataquot from quotmap_dataquot works fine for quotcompute_layoutquot but not quotmap_dataquot in ggplot2 ggproto](https://stackoverflow.com/questions/67828722/can-i-access-results-of-setup-data-from-map-data-works-fine-for-compute-l) - 1 votes
-* [Refer back to subset dataframe when using stat_function or geom_function](https://stackoverflow.com/questions/67828713/refer-back-to-subset-dataframe-when-using-stat-function-or-geom-function) - 1 votes
+* [Changing sizecolors and order in barplot](https://stackoverflow.com/questions/67842321/changing-size-colors-and-order-in-barplot) - 1 votes
+* [Reverse the order of axis and name changing](https://stackoverflow.com/questions/67837497/reverse-the-order-of-axis-and-name-changing) - 1 votes
+* [ggplot2 and dplyr visualize a column which is a character](https://stackoverflow.com/questions/67834697/ggplot2-and-dplyr-visualize-a-column-which-is-a-character) - 1 votes
+* [Error data must be a data frame or other object coercible by fortifyDid you accidentally pass aes to the data argument](https://stackoverflow.com/questions/67841765/error-data-must-be-a-data-frame-or-other-object-coercible-by-fortify) - 1 votes
+* [How to do a nonlinear regression using geom_smooth when start values are separated by category in a different data frame](https://stackoverflow.com/questions/67840788/how-to-do-a-non-linear-regression-using-geom-smooth-when-start-values-are-separa) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
