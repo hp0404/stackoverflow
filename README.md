@@ -1,36 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-04<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-05<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [For a dataframe group by a variable sort and then eliminate the nonconsecutive rows](https://stackoverflow.com/questions/67841259/for-a-dataframe-group-by-a-variable-sort-and-then-eliminate-the-non-consecutiv) - 3 votes
-* [Python How to split each string into new row with some string concatenation](https://stackoverflow.com/questions/67831093/python-how-to-split-each-string-into-new-row-with-some-string-concatenation) - 3 votes
-* [Pandas New column from conditions and from another data frame](https://stackoverflow.com/questions/67836590/pandas-new-column-from-conditions-and-from-another-data-frame) - 2 votes
-* [Add dictionary key as label if Pandas column contains any value from dictionary values](https://stackoverflow.com/questions/67839442/add-dictionary-key-as-label-if-pandas-column-contains-any-value-from-dictionary) - 2 votes
-* [How to combine rows with different values in columns in pandas dataframe](https://stackoverflow.com/questions/67843473/how-to-combine-rows-with-different-values-in-columns-in-pandas-dataframe) - 2 votes
+* [Pick last valid data dates from pair columns in a large dataset](https://stackoverflow.com/questions/67848578/pick-last-valid-data-dates-from-pair-columns-in-a-large-dataset) - 5 votes
+* [Sort pandas df subset of rows within a group by specific column](https://stackoverflow.com/questions/67845362/sort-pandas-df-subset-of-rows-within-a-group-by-specific-column) - 4 votes
+* [comparing multiple columns in dataframe more than 2](https://stackoverflow.com/questions/67851601/comparing-multiple-columns-in-dataframe-more-than-2) - 4 votes
+* [How many months someone was there in that year in Pandas](https://stackoverflow.com/questions/67851398/how-many-months-someone-was-there-in-that-year-in-pandas) - 3 votes
+* [Python Pandas to_datetime AttributeError 39tuple39 object has no attribute 39lower39](https://stackoverflow.com/questions/67848494/python-pandas-to-datetime-attributeerror-tuple-object-has-no-attribute-lower) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How can I display kindquotswarmquot and kindquotpointquot on the same catplot in Seaborn](https://stackoverflow.com/questions/67837930/how-can-i-display-kind-swarm-and-kind-point-on-the-same-catplot-in-seaborn) - 2 votes
-* [Matplotlib plot39s title is missing for unknown reason in Python](https://stackoverflow.com/questions/67841265/matplotlib-plots-title-is-missing-for-unknown-reason-in-python) - 1 votes
+* [Left aligning markers in legend with legend title using matplotlib](https://stackoverflow.com/questions/67848861/left-aligning-markers-in-legend-with-legend-title-using-matplotlib) - 1 votes
+* [How to fill area above the intersection of matplotlib graphs matplotlib](https://stackoverflow.com/questions/67849955/how-to-fill-area-above-the-intersection-of-matplotlib-graphs-matplotlib) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Changing sizecolors and order in barplot](https://stackoverflow.com/questions/67842321/changing-size-colors-and-order-in-barplot) - 1 votes
-* [Reverse the order of axis and name changing](https://stackoverflow.com/questions/67837497/reverse-the-order-of-axis-and-name-changing) - 1 votes
-* [ggplot2 and dplyr visualize a column which is a character](https://stackoverflow.com/questions/67834697/ggplot2-and-dplyr-visualize-a-column-which-is-a-character) - 1 votes
-* [Error data must be a data frame or other object coercible by fortifyDid you accidentally pass aes to the data argument](https://stackoverflow.com/questions/67841765/error-data-must-be-a-data-frame-or-other-object-coercible-by-fortify) - 1 votes
-* [How to do a nonlinear regression using geom_smooth when start values are separated by category in a different data frame](https://stackoverflow.com/questions/67840788/how-to-do-a-non-linear-regression-using-geom-smooth-when-start-values-are-separa) - 1 votes
+* [How to import hand drawn shape in ggplot2 quotggplot2 coloring bookquot](https://stackoverflow.com/questions/67849583/how-to-import-hand-drawn-shape-in-ggplot2-ggplot2-coloring-book) - 2 votes
+* [How do I add the legend of each layer to my ggplot map](https://stackoverflow.com/questions/67848091/how-do-i-add-the-legend-of-each-layer-to-my-ggplot-map) - 2 votes
+* [Confidence interval using ggplot2 manually](https://stackoverflow.com/questions/67846447/confidence-interval-using-ggplot2-manually) - 1 votes
+* [Change the order of factors in yaxis of a ggplot2 heatmap based on how common they are](https://stackoverflow.com/questions/67851237/change-the-order-of-factors-in-y-axis-of-a-ggplot2-heatmap-based-on-how-common-t) - 1 votes
+* [Individual labelling for each group in a clustered stacked bar graph in R](https://stackoverflow.com/questions/67851285/individual-labelling-for-each-group-in-a-clustered-stacked-bar-graph-in-r) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
