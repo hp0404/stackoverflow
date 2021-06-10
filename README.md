@@ -1,38 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-09<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-10<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Replicating the DataFrame row in a special manner](https://stackoverflow.com/questions/67905723/replicating-the-dataframe-row-in-a-special-manner) - 4 votes
-* [How to get all the rows corresponding to maximum values of a column using groupby](https://stackoverflow.com/questions/67904715/how-to-get-all-the-rows-corresponding-to-maximum-values-of-a-column-using-groupb) - 3 votes
-* [How can I add columns at specific positions in pandas](https://stackoverflow.com/questions/67907721/how-can-i-add-columns-at-specific-positions-in-pandas) - 2 votes
-* [Python Pandas DataFrame how to get complete dates for all categories](https://stackoverflow.com/questions/67907299/python-pandas-dataframe-how-to-get-complete-dates-for-all-categories) - 2 votes
-* [move column above and delete rows in pandas python dataframe](https://stackoverflow.com/questions/67910688/move-column-above-and-delete-rows-in-pandas-python-dataframe) - 2 votes
+* [How to use dfloc or some other method to make a new column based on specific conditions](https://stackoverflow.com/questions/67923813/how-to-use-df-loc-or-some-other-method-to-make-a-new-column-based-on-specific) - 8 votes
+* [Convert Pandas dataframe values to percentage](https://stackoverflow.com/questions/67922276/convert-pandas-dataframe-values-to-percentage) - 3 votes
+* [Change value in pandas after chained loc and iloc](https://stackoverflow.com/questions/67916181/change-value-in-pandas-after-chained-loc-and-iloc) - 3 votes
+* [Remove all alphanumeric words from a string using pandas](https://stackoverflow.com/questions/67923729/remove-all-alphanumeric-words-from-a-string-using-pandas) - 2 votes
+* [How to add logic to list comprehension when renaming columns](https://stackoverflow.com/questions/67923923/how-to-add-logic-to-list-comprehension-when-renaming-columns) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Sort DataFrame into groups and plot it](https://stackoverflow.com/questions/67905281/sort-dataframe-into-groups-and-plot-it) - 1 votes
-* [How to trace the path of a patchesRectangle object in matplotlib animation](https://stackoverflow.com/questions/67910801/how-to-trace-the-path-of-a-patches-rectangle-object-in-matplotlib-animation) - 1 votes
-* [How can I plot 0 with this function](https://stackoverflow.com/questions/67908108/how-can-i-plot-0-with-this-function) - 1 votes
-* [Race condition when getting the height and width of a matplotlib plot](https://stackoverflow.com/questions/67907504/race-condition-when-getting-the-height-and-width-of-a-matplotlib-plot) - 1 votes
+* [How fill area between lines](https://stackoverflow.com/questions/67919632/how-fill-area-between-lines) - 1 votes
+* [Intersection between draggable line and Plot Matplotlib on my GUI](https://stackoverflow.com/questions/67919054/intersection-between-draggable-line-and-plot-matplotlib-on-my-gui) - 1 votes
+* [Plot dataframe in Python](https://stackoverflow.com/questions/67918397/plot-dataframe-in-python) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Mix colour fill and linetype in R ggplot legend](https://stackoverflow.com/questions/67908675/mix-colour-fill-and-linetype-in-r-ggplot-legend) - 2 votes
-* [Add macron to letter in faceting label](https://stackoverflow.com/questions/67897638/add-macron-to-letter-in-faceting-label) - 2 votes
-* [Calendar chart or heatmap with ggplot](https://stackoverflow.com/questions/67902897/calendar-chart-or-heatmap-with-ggplot) - 2 votes
-* [Coloured tail with geom_histogram without a step](https://stackoverflow.com/questions/67900037/coloured-tail-with-geom-histogram-without-a-step) - 1 votes
-* [ggplot2 not getting colors assigned in legend values](https://stackoverflow.com/questions/67909603/ggplot2-not-getting-colors-assigned-in-legend-values) - 1 votes
+* [ggplot2 identity of points in stat_density2d contoursbins](https://stackoverflow.com/questions/67928001/ggplot2-identity-of-points-in-stat-density2d-contours-bins) - 1 votes
+* [How to print Frequencies on top of Histogram bars in ggplot](https://stackoverflow.com/questions/67926179/how-to-print-frequencies-on-top-of-histogram-bars-in-ggplot) - 1 votes
+* [How to build a Heatmap for each facet with its own respective scale instead of just one generic scale for all in r](https://stackoverflow.com/questions/67918019/how-to-build-a-heatmap-for-each-facet-with-its-own-respective-scale-instead-of-j) - 1 votes
+* [Plot line in bar plot in ggplot2](https://stackoverflow.com/questions/67917364/plot-line-in-bar-plot-in-ggplot2) - 1 votes
+* [How to add text label to multiple vertical lines automatically based on values from userspecified data subset via Shiny](https://stackoverflow.com/questions/67914930/how-to-add-text-label-to-multiple-vertical-lines-automatically-based-on-values-f) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
