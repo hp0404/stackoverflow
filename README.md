@@ -1,37 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-10<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-11<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to use dfloc or some other method to make a new column based on specific conditions](https://stackoverflow.com/questions/67923813/how-to-use-df-loc-or-some-other-method-to-make-a-new-column-based-on-specific) - 8 votes
-* [Convert Pandas dataframe values to percentage](https://stackoverflow.com/questions/67922276/convert-pandas-dataframe-values-to-percentage) - 3 votes
-* [Change value in pandas after chained loc and iloc](https://stackoverflow.com/questions/67916181/change-value-in-pandas-after-chained-loc-and-iloc) - 3 votes
-* [Remove all alphanumeric words from a string using pandas](https://stackoverflow.com/questions/67923729/remove-all-alphanumeric-words-from-a-string-using-pandas) - 2 votes
-* [How to add logic to list comprehension when renaming columns](https://stackoverflow.com/questions/67923923/how-to-add-logic-to-list-comprehension-when-renaming-columns) - 2 votes
+* [Pandas how to fill missing data with a mean value](https://stackoverflow.com/questions/67933902/pandas-how-to-fill-missing-data-with-a-mean-value) - 3 votes
+* [Pandas  Add mean max min as columns in dataframe](https://stackoverflow.com/questions/67931401/pandas-add-mean-max-min-as-columns-in-dataframe) - 2 votes
+* [How do I sequentially get the index and column of the highest next highest etc number in a pandas dataframe](https://stackoverflow.com/questions/67936010/how-do-i-sequentially-get-the-index-and-column-of-the-highest-next-highest-etc) - 2 votes
+* [Having trouble to sum values in a column that match a given condition](https://stackoverflow.com/questions/67935416/having-trouble-to-sum-values-in-a-column-that-match-a-given-condition) - 2 votes
+* [Pandas Check if one date column falls between two date columns if true populates output](https://stackoverflow.com/questions/67934262/pandas-check-if-one-date-column-falls-between-two-date-columns-if-true-populat) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How fill area between lines](https://stackoverflow.com/questions/67919632/how-fill-area-between-lines) - 1 votes
-* [Intersection between draggable line and Plot Matplotlib on my GUI](https://stackoverflow.com/questions/67919054/intersection-between-draggable-line-and-plot-matplotlib-on-my-gui) - 1 votes
-* [Plot dataframe in Python](https://stackoverflow.com/questions/67918397/plot-dataframe-in-python) - 1 votes
+* [each group of the data frame groupby in subplots](https://stackoverflow.com/questions/67929987/each-group-of-the-data-frame-groupby-in-subplots) - 3 votes
+* [Create streamplot in python ValueError The rows of 39x39 must be equal](https://stackoverflow.com/questions/67941121/create-streamplot-in-python-valueerror-the-rows-of-x-must-be-equal) - 2 votes
+* [Pandas Plot Multiple Lines Based on Per Column Trend](https://stackoverflow.com/questions/67943218/pandas-plot-multiple-lines-based-on-per-column-trend) - 2 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [ggplot2 identity of points in stat_density2d contoursbins](https://stackoverflow.com/questions/67928001/ggplot2-identity-of-points-in-stat-density2d-contours-bins) - 1 votes
-* [How to print Frequencies on top of Histogram bars in ggplot](https://stackoverflow.com/questions/67926179/how-to-print-frequencies-on-top-of-histogram-bars-in-ggplot) - 1 votes
-* [How to build a Heatmap for each facet with its own respective scale instead of just one generic scale for all in r](https://stackoverflow.com/questions/67918019/how-to-build-a-heatmap-for-each-facet-with-its-own-respective-scale-instead-of-j) - 1 votes
-* [Plot line in bar plot in ggplot2](https://stackoverflow.com/questions/67917364/plot-line-in-bar-plot-in-ggplot2) - 1 votes
-* [How to add text label to multiple vertical lines automatically based on values from userspecified data subset via Shiny](https://stackoverflow.com/questions/67914930/how-to-add-text-label-to-multiple-vertical-lines-automatically-based-on-values-f) - 1 votes
+* [Add gradient color within groups in ggplot2](https://stackoverflow.com/questions/67934064/add-gradient-color-within-groups-in-ggplot2) - 2 votes
+* [add pvalue and odd ratio on a barplot](https://stackoverflow.com/questions/67937103/add-pvalue-and-odd-ratio-on-a-barplot) - 2 votes
+* [Change the color of a confidence interval band](https://stackoverflow.com/questions/67937393/change-the-color-of-a-confidence-interval-band) - 1 votes
+* [Incorrect date axis labels](https://stackoverflow.com/questions/67935873/incorrect-date-axis-labels) - 1 votes
+* [How to plot boxplots at once when your x variable has more than 10 values](https://stackoverflow.com/questions/67940323/how-to-plot-boxplots-at-once-when-your-x-variable-has-more-than-10-values) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
