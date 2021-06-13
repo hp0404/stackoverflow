@@ -1,35 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-12<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-13<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Renaming geometry column in GeoDataFrame with more than one geometry](https://stackoverflow.com/questions/67951313/renaming-geometry-column-in-geodataframe-with-more-than-one-geometry) - 2 votes
-* [How to join pandas dataframe to itself by condition](https://stackoverflow.com/questions/67952424/how-to-join-pandas-dataframe-to-itself-by-condition) - 2 votes
-* [merge_asof with multiple columns and forward direction](https://stackoverflow.com/questions/67944611/merge-asof-with-multiple-columns-and-forward-direction) - 2 votes
-* [How to transform a large data frame](https://stackoverflow.com/questions/67951305/how-to-transform-a-large-data-frame) - 1 votes
-* [If there39s a variable in an output is there a way to bring it into use](https://stackoverflow.com/questions/67946495/if-theres-a-variable-in-an-output-is-there-a-way-to-bring-it-into-use) - 1 votes
+* [Replacing text with dictionary keys having multiple values in Python  more efficiency](https://stackoverflow.com/questions/67959404/replacing-text-with-dictionary-keys-having-multiple-values-in-python-more-ef) - 2 votes
+* [groupby function based off multiple rows](https://stackoverflow.com/questions/67962507/groupby-function-based-off-multiple-rows) - 2 votes
+* [Fillna by relating multiple columns using a function](https://stackoverflow.com/questions/67953949/fillna-by-relating-multiple-columns-using-a-function) - 2 votes
+* [Convert str type dicts with nan values to dict type objects](https://stackoverflow.com/questions/67960581/convert-str-type-dicts-with-nan-values-to-dict-type-objects) - 2 votes
+* [Create For Loop To Predict Next Value Over Group Python](https://stackoverflow.com/questions/67961979/create-for-loop-to-predict-next-value-over-group-python) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [plot multiple columns in a different grid in same plot in different colors](https://stackoverflow.com/questions/67952156/plot-multiple-columns-in-a-different-grid-in-same-plot-in-different-colors) - 1 votes
-* [Matplotlib plot without linear ordered](https://stackoverflow.com/questions/67945457/matplotlib-plot-without-linear-ordered) - 1 votes
-* [How do I make the Axes objects have the same size as the one in the default figure size](https://stackoverflow.com/questions/67948175/how-do-i-make-the-axes-objects-have-the-same-size-as-the-one-in-the-default-figu) - 1 votes
-* [Change values of second part of bar chart in matplotlib](https://stackoverflow.com/questions/67947286/change-values-of-second-part-of-bar-chart-in-matplotlib) - 1 votes
+* [Matplotlib animation repeating even whit repeat set to False](https://stackoverflow.com/questions/67959359/matplotlib-animation-repeating-even-whit-repeat-set-to-false) - 2 votes
+* [Why are the value of counts in the matplotlib plot and seaborn plot different and both wrong](https://stackoverflow.com/questions/67955646/why-are-the-value-of-counts-in-the-matplotlib-plot-and-seaborn-plot-different-a) - 1 votes
+* [Extra unidentified text colliding with subplot title](https://stackoverflow.com/questions/67961849/extra-unidentified-text-colliding-with-subplot-title) - 1 votes
+* [How to use twinx to specify 3 y axis](https://stackoverflow.com/questions/67961416/how-to-use-twinx-to-specify-3-y-axis) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to display scientific and nonscientific numbers in geom_text at a time](https://stackoverflow.com/questions/67947567/how-to-display-scientific-and-non-scientific-numbers-in-geom-text-at-a-time) - 2 votes
-* [how can I improve this confusion matrix in R](https://stackoverflow.com/questions/67946452/how-can-i-improve-this-confusion-matrix-in-r) - 1 votes
+* [Waffle chart in R Legend text merely consists of quotAquot quotBquot quotCquot how to change](https://stackoverflow.com/questions/67962107/waffle-chart-in-r-legend-text-merely-consists-of-a-b-c-how-to-change) - 1 votes
+* [Create ggplot with mean and confidence interval](https://stackoverflow.com/questions/67956706/create-ggplot-with-mean-and-confidence-interval) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
