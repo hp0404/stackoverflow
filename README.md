@@ -1,35 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-13<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-14<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Replacing text with dictionary keys having multiple values in Python  more efficiency](https://stackoverflow.com/questions/67959404/replacing-text-with-dictionary-keys-having-multiple-values-in-python-more-ef) - 2 votes
-* [groupby function based off multiple rows](https://stackoverflow.com/questions/67962507/groupby-function-based-off-multiple-rows) - 2 votes
-* [Fillna by relating multiple columns using a function](https://stackoverflow.com/questions/67953949/fillna-by-relating-multiple-columns-using-a-function) - 2 votes
-* [Convert str type dicts with nan values to dict type objects](https://stackoverflow.com/questions/67960581/convert-str-type-dicts-with-nan-values-to-dict-type-objects) - 2 votes
-* [Create For Loop To Predict Next Value Over Group Python](https://stackoverflow.com/questions/67961979/create-for-loop-to-predict-next-value-over-group-python) - 2 votes
+* [How to calculate a percentage using two groups within groupby](https://stackoverflow.com/questions/67969706/how-to-calculate-a-percentage-using-two-groups-within-groupby) - 3 votes
+* [Calculate weighted average results for multiple columns based on another dataframe in Pandas](https://stackoverflow.com/questions/67973717/calculate-weighted-average-results-for-multiple-columns-based-on-another-datafra) - 3 votes
+* [Python collect rows of a column value to a single row](https://stackoverflow.com/questions/67964868/python-collect-rows-of-a-column-value-to-a-single-row) - 3 votes
+* [Separate 39networks39 in a panda39s dataframe](https://stackoverflow.com/questions/67968179/separate-networks-in-a-pandas-dataframe) - 2 votes
+* [average distance for a column in pandas](https://stackoverflow.com/questions/67969106/average-distance-for-a-column-in-pandas) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Matplotlib animation repeating even whit repeat set to False](https://stackoverflow.com/questions/67959359/matplotlib-animation-repeating-even-whit-repeat-set-to-false) - 2 votes
-* [Why are the value of counts in the matplotlib plot and seaborn plot different and both wrong](https://stackoverflow.com/questions/67955646/why-are-the-value-of-counts-in-the-matplotlib-plot-and-seaborn-plot-different-a) - 1 votes
-* [Extra unidentified text colliding with subplot title](https://stackoverflow.com/questions/67961849/extra-unidentified-text-colliding-with-subplot-title) - 1 votes
-* [How to use twinx to specify 3 y axis](https://stackoverflow.com/questions/67961416/how-to-use-twinx-to-specify-3-y-axis) - 1 votes
+* [Correctly compute the divergence of a vector field](https://stackoverflow.com/questions/67974193/correctly-compute-the-divergence-of-a-vector-field) - 5 votes
+* [How to get matplotlib to connect all scatter points](https://stackoverflow.com/questions/67963544/how-to-get-matplotlib-to-connect-all-scatter-points) - 3 votes
+* [Python matplotlib drawing figures line by line](https://stackoverflow.com/questions/67974259/python-matplotlib-drawing-figures-line-by-line) - 2 votes
+* [Mapping dictionary values as labels in heatmap in python using seaborn](https://stackoverflow.com/questions/67969177/mapping-dictionary-values-as-labels-in-heatmap-in-python-using-seaborn) - 2 votes
+* [How to connect boxplots with a mean line](https://stackoverflow.com/questions/67975303/how-to-connect-boxplots-with-a-mean-line) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Waffle chart in R Legend text merely consists of quotAquot quotBquot quotCquot how to change](https://stackoverflow.com/questions/67962107/waffle-chart-in-r-legend-text-merely-consists-of-a-b-c-how-to-change) - 1 votes
-* [Create ggplot with mean and confidence interval](https://stackoverflow.com/questions/67956706/create-ggplot-with-mean-and-confidence-interval) - 1 votes
+* [Manipulate the extreme values used to develop fill in a map](https://stackoverflow.com/questions/67969541/manipulate-the-extreme-values-used-to-develop-fill-in-a-map) - 2 votes
+* [Plot points from multiple series as one and keep order of initial dataframe in ggplot2](https://stackoverflow.com/questions/67969247/plot-points-from-multiple-series-as-one-and-keep-order-of-initial-dataframe-in-g) - 2 votes
+* [Using tabs in a ggplot legend](https://stackoverflow.com/questions/67973199/using-tabs-in-a-ggplot-legend) - 2 votes
+* [Removed N rows containing missing values BUT there are no missing values nor values out of range](https://stackoverflow.com/questions/67965949/removed-n-rows-containing-missing-values-but-there-are-no-missing-values-nor-val) - 1 votes
+* [Why error bar doesn39t show up in ggpubrggbarplot even after adding add39mean_se39](https://stackoverflow.com/questions/67964748/why-error-bar-doesnt-show-up-in-ggpubrggbarplot-even-after-adding-add-mean-s) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
