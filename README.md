@@ -1,39 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-14<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-15<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to calculate a percentage using two groups within groupby](https://stackoverflow.com/questions/67969706/how-to-calculate-a-percentage-using-two-groups-within-groupby) - 3 votes
-* [Calculate weighted average results for multiple columns based on another dataframe in Pandas](https://stackoverflow.com/questions/67973717/calculate-weighted-average-results-for-multiple-columns-based-on-another-datafra) - 3 votes
-* [Python collect rows of a column value to a single row](https://stackoverflow.com/questions/67964868/python-collect-rows-of-a-column-value-to-a-single-row) - 3 votes
-* [Separate 39networks39 in a panda39s dataframe](https://stackoverflow.com/questions/67968179/separate-networks-in-a-pandas-dataframe) - 2 votes
-* [average distance for a column in pandas](https://stackoverflow.com/questions/67969106/average-distance-for-a-column-in-pandas) - 2 votes
+* [How to transform or melt column in python](https://stackoverflow.com/questions/67990805/how-to-transform-or-melt-column-in-python) - 4 votes
+* [Pandas how do you map a dictionary of dictionaries to 2 columns](https://stackoverflow.com/questions/67989170/pandas-how-do-you-map-a-dictionary-of-dictionaries-to-2-columns) - 4 votes
+* [Populating the column values from other rows based on a specific column value](https://stackoverflow.com/questions/67986701/populating-the-column-values-from-other-rows-based-on-a-specific-column-value) - 3 votes
+* [Create new rows in a dataframe by range of dates](https://stackoverflow.com/questions/67984457/create-new-rows-in-a-dataframe-by-range-of-dates) - 3 votes
+* [Increment column value based on value of another column](https://stackoverflow.com/questions/67982095/increment-column-value-based-on-value-of-another-column) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Correctly compute the divergence of a vector field](https://stackoverflow.com/questions/67974193/correctly-compute-the-divergence-of-a-vector-field) - 5 votes
-* [How to get matplotlib to connect all scatter points](https://stackoverflow.com/questions/67963544/how-to-get-matplotlib-to-connect-all-scatter-points) - 3 votes
-* [Python matplotlib drawing figures line by line](https://stackoverflow.com/questions/67974259/python-matplotlib-drawing-figures-line-by-line) - 2 votes
-* [Mapping dictionary values as labels in heatmap in python using seaborn](https://stackoverflow.com/questions/67969177/mapping-dictionary-values-as-labels-in-heatmap-in-python-using-seaborn) - 2 votes
-* [How to connect boxplots with a mean line](https://stackoverflow.com/questions/67975303/how-to-connect-boxplots-with-a-mean-line) - 1 votes
+* [How to interpolate colours to double its number in matplotlib](https://stackoverflow.com/questions/67984124/how-to-interpolate-colours-to-double-its-number-in-matplotlib) - 2 votes
+* [Seaborn chart in Jupyter notebook ignoring figsize parameter](https://stackoverflow.com/questions/67986098/seaborn-chart-in-jupyter-notebook-ignoring-figsize-parameter) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Manipulate the extreme values used to develop fill in a map](https://stackoverflow.com/questions/67969541/manipulate-the-extreme-values-used-to-develop-fill-in-a-map) - 2 votes
-* [Plot points from multiple series as one and keep order of initial dataframe in ggplot2](https://stackoverflow.com/questions/67969247/plot-points-from-multiple-series-as-one-and-keep-order-of-initial-dataframe-in-g) - 2 votes
-* [Using tabs in a ggplot legend](https://stackoverflow.com/questions/67973199/using-tabs-in-a-ggplot-legend) - 2 votes
-* [Removed N rows containing missing values BUT there are no missing values nor values out of range](https://stackoverflow.com/questions/67965949/removed-n-rows-containing-missing-values-but-there-are-no-missing-values-nor-val) - 1 votes
-* [Why error bar doesn39t show up in ggpubrggbarplot even after adding add39mean_se39](https://stackoverflow.com/questions/67964748/why-error-bar-doesnt-show-up-in-ggpubrggbarplot-even-after-adding-add-mean-s) - 1 votes
+* [what39s the correct way to reference dataset variables inside ggplot scale functions](https://stackoverflow.com/questions/67980838/whats-the-correct-way-to-reference-dataset-variables-inside-ggplot-scale-functi) - 2 votes
+* [RStudio Get Size of Plot Zoom Window Programmatically](https://stackoverflow.com/questions/67992318/rstudio-get-size-of-plot-zoom-window-programmatically) - 2 votes
+* [How to decrease the height of the strips while hiding the text in ggplot](https://stackoverflow.com/questions/67983626/how-to-decrease-the-height-of-the-strips-while-hiding-the-text-in-ggplot) - 2 votes
+* [Annotate fraction with changing value in ggplot2](https://stackoverflow.com/questions/67985710/annotate-fraction-with-changing-value-in-ggplot2) - 1 votes
+* [summarized attendance by week in ggplot](https://stackoverflow.com/questions/67989296/summarized-attendance-by-week-in-ggplot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
