@@ -1,36 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-15<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-16<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to transform or melt column in python](https://stackoverflow.com/questions/67990805/how-to-transform-or-melt-column-in-python) - 4 votes
-* [Pandas how do you map a dictionary of dictionaries to 2 columns](https://stackoverflow.com/questions/67989170/pandas-how-do-you-map-a-dictionary-of-dictionaries-to-2-columns) - 4 votes
-* [Populating the column values from other rows based on a specific column value](https://stackoverflow.com/questions/67986701/populating-the-column-values-from-other-rows-based-on-a-specific-column-value) - 3 votes
-* [Create new rows in a dataframe by range of dates](https://stackoverflow.com/questions/67984457/create-new-rows-in-a-dataframe-by-range-of-dates) - 3 votes
-* [Increment column value based on value of another column](https://stackoverflow.com/questions/67982095/increment-column-value-based-on-value-of-another-column) - 3 votes
+* [Python Assign values to new dataframe like a schedule based on multiple conditions from another dataframe](https://stackoverflow.com/questions/68009017/python-assign-values-to-new-dataframe-like-a-schedule-based-on-multiple-conditio) - 3 votes
+* [Iterate using previous rows](https://stackoverflow.com/questions/67999356/iterate-using-previous-rows) - 3 votes
+* [Python Shift values in one column based on Nan or boolean in other column](https://stackoverflow.com/questions/68001377/python-shift-values-in-one-column-based-on-nan-or-boolean-in-other-column) - 3 votes
+* [Pandas cut date column into period date groupsbins](https://stackoverflow.com/questions/67995517/pandas-cut-date-column-into-period-date-groups-bins) - 3 votes
+* [Pandas reshape Dataframe based on column value](https://stackoverflow.com/questions/67997900/pandas-reshape-dataframe-based-on-column-value) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to interpolate colours to double its number in matplotlib](https://stackoverflow.com/questions/67984124/how-to-interpolate-colours-to-double-its-number-in-matplotlib) - 2 votes
-* [Seaborn chart in Jupyter notebook ignoring figsize parameter](https://stackoverflow.com/questions/67986098/seaborn-chart-in-jupyter-notebook-ignoring-figsize-parameter) - 1 votes
+* [Create subplots for two different pandas series](https://stackoverflow.com/questions/68007116/create-subplots-for-two-different-pandas-series) - 1 votes
+* [Plotting multiple group bar charts using matplotlib in python and separate them](https://stackoverflow.com/questions/68008702/plotting-multiple-group-bar-charts-using-matplotlib-in-python-and-separate-them) - 1 votes
+* [Side by side crosstab bar graphs in Python](https://stackoverflow.com/questions/67995539/side-by-side-crosstab-bar-graphs-in-python) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [what39s the correct way to reference dataset variables inside ggplot scale functions](https://stackoverflow.com/questions/67980838/whats-the-correct-way-to-reference-dataset-variables-inside-ggplot-scale-functi) - 2 votes
-* [RStudio Get Size of Plot Zoom Window Programmatically](https://stackoverflow.com/questions/67992318/rstudio-get-size-of-plot-zoom-window-programmatically) - 2 votes
-* [How to decrease the height of the strips while hiding the text in ggplot](https://stackoverflow.com/questions/67983626/how-to-decrease-the-height-of-the-strips-while-hiding-the-text-in-ggplot) - 2 votes
-* [Annotate fraction with changing value in ggplot2](https://stackoverflow.com/questions/67985710/annotate-fraction-with-changing-value-in-ggplot2) - 1 votes
-* [summarized attendance by week in ggplot](https://stackoverflow.com/questions/67989296/summarized-attendance-by-week-in-ggplot) - 1 votes
+* [How to reorder a grouped bar plot by one category](https://stackoverflow.com/questions/68008613/how-to-reorder-a-grouped-bar-plot-by-one-category) - 2 votes
+* [Hot to split geom_col by different groups](https://stackoverflow.com/questions/68006509/hot-to-split-geom-col-by-different-groups) - 1 votes
+* [Error Can39t add ggsave to a ggplot object](https://stackoverflow.com/questions/68003633/error-cant-add-ggsave-to-a-ggplot-object) - 1 votes
+* [how to reorder bars in a funnel chart](https://stackoverflow.com/questions/68005942/how-to-reorder-bars-in-a-funnel-chart) - 1 votes
+* [How to make histogram in ggplot2 start at zero on X axis](https://stackoverflow.com/questions/67998673/how-to-make-histogram-in-ggplot2-start-at-zero-on-x-axis) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
