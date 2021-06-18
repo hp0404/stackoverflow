@@ -1,39 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-17<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-18<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [In Pandas with Groupby assign a value from a column conditioned on another column](https://stackoverflow.com/questions/68024379/in-pandas-with-groupby-assign-a-value-from-a-column-conditioned-on-another-colu) - 4 votes
-* [Custom ranking selection with Pandas](https://stackoverflow.com/questions/68019106/custom-ranking-selection-with-pandas) - 3 votes
-* [Extract Value From Pandas Dataframe Based On Condition in Another Column](https://stackoverflow.com/questions/68017264/extract-value-from-pandas-dataframe-based-on-condition-in-another-column) - 3 votes
-* [Convert list of list coordinates to polygons](https://stackoverflow.com/questions/68024574/convert-list-of-list-co-ordinates-to-polygons) - 3 votes
-* [How can I flatten the output dataframe of pandas crosstab from two series x and y into a series](https://stackoverflow.com/questions/68015083/how-can-i-flatten-the-output-dataframe-of-pandas-crosstab-from-two-series-x-and) - 2 votes
+* [Is there a way to create a pandas dataframe whose rows are integers which increase until a certain value is reached in each row](https://stackoverflow.com/questions/68031743/is-there-a-way-to-create-a-pandas-dataframe-whose-rows-are-integers-which-increa) - 4 votes
+* [Dictionary to dataFrame](https://stackoverflow.com/questions/68037863/dictionary-to-dataframe) - 2 votes
+* [FIltering dataframe groups with quotorquot condition](https://stackoverflow.com/questions/68039680/filtering-dataframe-groups-with-or-condition) - 2 votes
+* [Increasing a value during merge in pandas](https://stackoverflow.com/questions/68034544/increasing-a-value-during-merge-in-pandas) - 2 votes
+* [Drop all rows of higher level multiindex if certain lower level index doesn39t exist](https://stackoverflow.com/questions/68039396/drop-all-rows-of-higher-level-multi-index-if-certain-lower-level-index-doesnt-e) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Is it possible plot lines using data from a dictionary](https://stackoverflow.com/questions/68015669/is-it-possible-plot-lines-using-data-from-a-dictionary) - 2 votes
-* [matplotlib Line plot segment color based on flag column](https://stackoverflow.com/questions/68023663/matplotlib-line-plot-segment-color-based-on-flag-column) - 1 votes
-* [How to remove the frame of a matplotlib image and set background color to transparent](https://stackoverflow.com/questions/68019886/how-to-remove-the-frame-of-a-matplotlib-image-and-set-background-color-to-transp) - 1 votes
-* [How do i animate subplots in python using matplotlib](https://stackoverflow.com/questions/68018424/how-do-i-animate-subplots-in-python-using-matplotlib) - 1 votes
-* [How to find all negative slope straight lines and get the one with the minimum y0 value](https://stackoverflow.com/questions/68018187/how-to-find-all-negative-slope-straight-lines-and-get-the-one-with-the-minimum-y) - 1 votes
+* [Matplotlib  Plotting Normal Distribution alongside Random Points](https://stackoverflow.com/questions/68035859/matplotlib-plotting-normal-distribution-alongside-random-points) - 1 votes
+* [Displaying sympy equations on matplot](https://stackoverflow.com/questions/68031073/displaying-sympy-equations-on-matplot) - 1 votes
+* [Adding signals on the candle chart](https://stackoverflow.com/questions/68035192/adding-signals-on-the-candle-chart) - 1 votes
+* [How to plot subplots in matplotlib as show in the image using python](https://stackoverflow.com/questions/68034316/how-to-plot-subplots-in-matplotlib-as-show-in-the-image-using-python) - 1 votes
+* [Python pyplot text with square root](https://stackoverflow.com/questions/68033971/python-pyplot-text-with-square-root) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [ggplot2 add horizontal line by group inside facet_grid](https://stackoverflow.com/questions/68021646/ggplot2-add-horizontal-line-by-group-inside-facet-grid) - 2 votes
-* [Combine Sankeynetwork plot with a normal ggplot](https://stackoverflow.com/questions/68018212/combine-sankeynetwork-plot-with-a-normal-ggplot) - 2 votes
-* [Why does the same ggplot work direct but fail in Shiny](https://stackoverflow.com/questions/68024984/why-does-the-same-ggplot-work-direct-but-fail-in-shiny) - 1 votes
-* [How do you use ggplot2 to create boxplots when the groupings overlap](https://stackoverflow.com/questions/68021854/how-do-you-use-ggplot2-to-create-boxplots-when-the-groupings-overlap) - 1 votes
-* [How to order a plot from lowest to highest](https://stackoverflow.com/questions/68015689/how-to-order-a-plot-from-lowest-to-highest) - 1 votes
+* [Sort a bar plot based on two conditions in ggplot](https://stackoverflow.com/questions/68034524/sort-a-bar-plot-based-on-two-conditions-in-ggplot) - 1 votes
+* [Fill in continuous colors in geom_sf](https://stackoverflow.com/questions/68037617/fill-in-continuous-colors-in-geom-sf) - 1 votes
+* [Add customized legends to geom_line in R](https://stackoverflow.com/questions/68037615/add-customized-legends-to-geom-line-in-r) - 1 votes
+* [Multiple plots in R by connecting two points using ggplot2](https://stackoverflow.com/questions/68030359/multiple-plots-in-r-by-connecting-two-points-using-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
