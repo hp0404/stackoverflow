@@ -1,38 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-18<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-19<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Is there a way to create a pandas dataframe whose rows are integers which increase until a certain value is reached in each row](https://stackoverflow.com/questions/68031743/is-there-a-way-to-create-a-pandas-dataframe-whose-rows-are-integers-which-increa) - 4 votes
-* [Dictionary to dataFrame](https://stackoverflow.com/questions/68037863/dictionary-to-dataframe) - 2 votes
-* [FIltering dataframe groups with quotorquot condition](https://stackoverflow.com/questions/68039680/filtering-dataframe-groups-with-or-condition) - 2 votes
-* [Increasing a value during merge in pandas](https://stackoverflow.com/questions/68034544/increasing-a-value-during-merge-in-pandas) - 2 votes
-* [Drop all rows of higher level multiindex if certain lower level index doesn39t exist](https://stackoverflow.com/questions/68039396/drop-all-rows-of-higher-level-multi-index-if-certain-lower-level-index-doesnt-e) - 2 votes
+* [How can I make the Lux package work in Python](https://stackoverflow.com/questions/68046925/how-can-i-make-the-lux-package-work-in-python) - 3 votes
+* [Fastest method to replace substring from a Dataframe from key value pairs](https://stackoverflow.com/questions/68042634/fastest-method-to-replace-substring-from-a-dataframe-from-key-value-pairs) - 2 votes
+* [Is there an elegant way to map an alias to its real entity name in a connected data file](https://stackoverflow.com/questions/68047818/is-there-an-elegant-way-to-map-an-alias-to-its-real-entity-name-in-a-connected-d) - 2 votes
+* [Reset Window for EWM in Pandas Dataframe](https://stackoverflow.com/questions/68045839/reset-window-for-ewm-in-pandas-dataframe) - 2 votes
+* [Conditionally create a column equal to a value from a cell in pandas](https://stackoverflow.com/questions/68045982/conditionally-create-a-column-equal-to-a-value-from-a-cell-in-pandas) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Matplotlib  Plotting Normal Distribution alongside Random Points](https://stackoverflow.com/questions/68035859/matplotlib-plotting-normal-distribution-alongside-random-points) - 1 votes
-* [Displaying sympy equations on matplot](https://stackoverflow.com/questions/68031073/displaying-sympy-equations-on-matplot) - 1 votes
-* [Adding signals on the candle chart](https://stackoverflow.com/questions/68035192/adding-signals-on-the-candle-chart) - 1 votes
-* [How to plot subplots in matplotlib as show in the image using python](https://stackoverflow.com/questions/68034316/how-to-plot-subplots-in-matplotlib-as-show-in-the-image-using-python) - 1 votes
-* [Python pyplot text with square root](https://stackoverflow.com/questions/68033971/python-pyplot-text-with-square-root) - 1 votes
+* [How to use Arial font for LaTeX equation in Matplotlib](https://stackoverflow.com/questions/68048099/how-to-use-arial-font-for-latex-equation-in-matplotlib) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Sort a bar plot based on two conditions in ggplot](https://stackoverflow.com/questions/68034524/sort-a-bar-plot-based-on-two-conditions-in-ggplot) - 1 votes
-* [Fill in continuous colors in geom_sf](https://stackoverflow.com/questions/68037617/fill-in-continuous-colors-in-geom-sf) - 1 votes
-* [Add customized legends to geom_line in R](https://stackoverflow.com/questions/68037615/add-customized-legends-to-geom-line-in-r) - 1 votes
-* [Multiple plots in R by connecting two points using ggplot2](https://stackoverflow.com/questions/68030359/multiple-plots-in-r-by-connecting-two-points-using-ggplot2) - 1 votes
+* [calculate a value from several rows based on condition on some columns in R](https://stackoverflow.com/questions/68049381/calculate-a-value-from-several-rows-based-on-condition-on-some-columns-in-r) - 1 votes
+* [Linear Regression on Specific Points](https://stackoverflow.com/questions/68042965/linear-regression-on-specific-points) - 1 votes
+* [Adding points on ECDF without external calculations](https://stackoverflow.com/questions/68048948/adding-points-on-ecdf-without-external-calculations) - 1 votes
+* [Adding point in geom_linerange and reduce the gap in R ggplot2](https://stackoverflow.com/questions/68043553/adding-point-in-geom-linerange-and-reduce-the-gap-in-r-ggplot2) - 1 votes
+* [Dot plot in ggplot from xlsx file changes order of presentation of data](https://stackoverflow.com/questions/68042944/dot-plot-in-ggplot-from-xlsx-file-changes-order-of-presentation-of-data) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
