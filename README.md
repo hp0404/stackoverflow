@@ -1,37 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-23<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-24<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to get fast first nonNan daily value of a DataFrame while keeping the shape and index](https://stackoverflow.com/questions/68099745/how-to-get-fast-first-non-nan-daily-value-of-a-dataframe-while-keeping-the-sha) - 4 votes
-* [Pandas Data Frame  Sum all the values in a previous column which match a specific condition and add it to a new column](https://stackoverflow.com/questions/68099361/pandas-data-frame-sum-all-the-values-in-a-previous-column-which-match-a-specif) - 3 votes
-* [Measure data completeness in PandasPyspark and groupby date](https://stackoverflow.com/questions/68101806/measure-data-completeness-in-pandas-pyspark-and-groupby-date) - 3 votes
-* [Pandas calculating mean values of duplicate entries in a dataframe but values are arrays](https://stackoverflow.com/questions/68105238/pandas-calculating-mean-values-of-duplicate-entries-in-a-dataframe-but-values) - 2 votes
-* [How to transform the below data frame in python](https://stackoverflow.com/questions/68104115/how-to-transform-the-below-data-frame-in-python) - 2 votes
+* [How can I convert transform column in Pandas using regex](https://stackoverflow.com/questions/68110951/how-can-i-convert-transform-column-in-pandas-using-regex) - 5 votes
+* [Group boolean values in Pandas Dataframe](https://stackoverflow.com/questions/68117289/group-boolean-values-in-pandas-dataframe) - 3 votes
+* [How to find closest col name based on if row conditions in python dataframe](https://stackoverflow.com/questions/68120067/how-to-find-closest-col-name-based-on-if-row-conditions-in-python-dataframe) - 3 votes
+* [Pandas Time series find gaps in sessions and name each sessiongap with separate ID](https://stackoverflow.com/questions/68111092/pandas-time-series-find-gaps-in-sessions-and-name-each-session-gap-with-separa) - 3 votes
+* [Pandas row value string parsing mixed string and float](https://stackoverflow.com/questions/68116222/pandas-row-value-string-parsing-mixed-string-and-float) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Matplotlib plots graph in a very strange way](https://stackoverflow.com/questions/68097829/matplotlib-plots-graph-in-a-very-strange-way) - 2 votes
-* [How to color different seaborn kdeplots in one figure](https://stackoverflow.com/questions/68096271/how-to-color-different-seaborn-kdeplots-in-one-figure) - 1 votes
-* [how to nested boxplot groupBy](https://stackoverflow.com/questions/68098491/how-to-nested-boxplot-groupby) - 1 votes
-* [how to open a frame that plot graph once click on a button in the menu bar in tkinter](https://stackoverflow.com/questions/68103490/how-to-open-a-frame-that-plot-graph-once-click-on-a-button-in-the-menu-bar-in-tk) - 1 votes
-* [How to plot daily data as monthly averages for separate years](https://stackoverflow.com/questions/68092764/how-to-plot-daily-data-as-monthly-averages-for-separate-years) - 1 votes
+* [Plotting multiple columns groupby on multiple plots](https://stackoverflow.com/questions/68120319/plotting-multiple-columns-groupby-on-multiple-plots) - 2 votes
+* [How to have a poligon in the legend](https://stackoverflow.com/questions/68120813/how-to-have-a-poligon-in-the-legend) - 2 votes
+* [How to color a dendrogram39s labels according to defined groups in python](https://stackoverflow.com/questions/68122395/how-to-color-a-dendrograms-labels-according-to-defined-groups-in-python) - 1 votes
+* [How to center quothuequot coloring using seaborn stripplot](https://stackoverflow.com/questions/68115336/how-to-center-hue-coloring-using-seaborn-stripplot) - 1 votes
+* [How to plot a boxplot for a pandas dataframe with date by dayweekmonth](https://stackoverflow.com/questions/68108847/how-to-plot-a-boxplot-for-a-pandas-dataframe-with-date-by-day-week-month) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to plot monthly and daily data in same canvas](https://stackoverflow.com/questions/68096830/how-to-plot-monthly-and-daily-data-in-same-canvas) - 1 votes
-* [geom_histogram fractionalbounded data and boundary parameter](https://stackoverflow.com/questions/68093788/geom-histogram-fractional-bounded-data-and-boundary-parameter) - 1 votes
-* [Remove labels on NULL plots using plot_grid and cowplot](https://stackoverflow.com/questions/68093645/remove-labels-on-null-plots-using-plot-grid-and-cowplot) - 1 votes
+* [How to add number of observation and Median per group in boxplot in ggplot2](https://stackoverflow.com/questions/68117425/how-to-add-number-of-observation-and-median-per-group-in-boxplot-in-ggplot2) - 2 votes
+* [How to personalize maps using geom_sf](https://stackoverflow.com/questions/68108382/how-to-personalize-maps-using-geom-sf) - 1 votes
+* [Reordering variables in a plot](https://stackoverflow.com/questions/68119791/reordering-variables-in-a-plot) - 1 votes
+* [Creating multiple overlaid density plots in ggplot2](https://stackoverflow.com/questions/68118432/creating-multiple-overlaid-density-plots-in-ggplot2) - 1 votes
+* [Elegant way to add confidence interval text to ggplot similar to ggpubr](https://stackoverflow.com/questions/68113405/elegant-way-to-add-confidence-interval-text-to-ggplot-similar-to-ggpubr) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
