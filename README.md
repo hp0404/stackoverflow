@@ -1,35 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-26<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-27<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Drop all rows that have all NA values after last row that is not NA](https://stackoverflow.com/questions/68140665/drop-all-rows-that-have-all-na-values-after-last-row-that-is-not-na) - 4 votes
-* [unable to get the transposed data in a particular format in pandas](https://stackoverflow.com/questions/68140407/unable-to-get-the-transposed-data-in-a-particular-format-in-pandas) - 2 votes
-* [Styling the background color of pandas index cell](https://stackoverflow.com/questions/68140575/styling-the-background-color-of-pandas-index-cell) - 2 votes
-* [Combine multiple columns of text of multiple rows in pandas](https://stackoverflow.com/questions/68139013/combine-multiple-columns-of-text-of-multiple-rows-in-pandas) - 2 votes
-* [How to count specific words in a list from a panda dataframe](https://stackoverflow.com/questions/68138677/how-to-count-specific-words-in-a-list-from-a-panda-dataframe) - 1 votes
+* [Retrieving the average of averages in Python DataFrame](https://stackoverflow.com/questions/68148468/retrieving-the-average-of-averages-in-python-dataframe) - 4 votes
+* [value_counts to count NaNs in a dataframe](https://stackoverflow.com/questions/68154806/value-counts-to-count-nans-in-a-dataframe) - 3 votes
+* [Driving column From another Column using Python pandas](https://stackoverflow.com/questions/68154651/driving-column-from-another-column-using-python-pandas) - 2 votes
+* [Performance of using regex matched groups in pandas dataframe](https://stackoverflow.com/questions/68153947/performance-of-using-regex-matched-groups-in-pandas-dataframe) - 2 votes
+* [pandas resampled time series data  multiple agg functions on the same column](https://stackoverflow.com/questions/68153585/pandas-resampled-time-series-data-multiple-agg-functions-on-the-same-column) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [GridSearchCV results heatmap](https://stackoverflow.com/questions/68138679/gridsearchcv-results-heatmap) - 2 votes
-* [Display a smooth curve by removing the drop values](https://stackoverflow.com/questions/68141067/display-a-smooth-curve-by-removing-the-drop-values) - 1 votes
-* [How to add additional labels in my plot in matplotlib](https://stackoverflow.com/questions/68142473/how-to-add-additional-labels-in-my-plot-in-matplotlib) - 1 votes
-* [Matplotlib fill between different shape plots](https://stackoverflow.com/questions/68138168/matplotlib-fill-between-different-shape-plots) - 1 votes
-* [How to resize the xaxis and make it different from the yaxis Matplotlib](https://stackoverflow.com/questions/68138506/how-to-resize-the-x-axis-and-make-it-different-from-the-y-axis-matplotlib) - 1 votes
+
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-
+* [Add multiple level xlabel in ggplot2](https://stackoverflow.com/questions/68147859/add-multiple-level-x-label-in-ggplot2) - 6 votes
+* [ggplot2 plot data Error in xycoords 39x39 and 39y39 lengths differ](https://stackoverflow.com/questions/68154090/ggplot2-plot-data-error-in-xy-coords-x-and-y-lengths-differ) - 2 votes
+* [How to use attributes into barplot labeling R](https://stackoverflow.com/questions/68155251/how-to-use-attributes-into-barplot-labeling-r) - 1 votes
+* [add legend labels to bar graph of ggplot](https://stackoverflow.com/questions/68153954/add-legend-labels-to-bar-graph-of-ggplot) - 1 votes
+* [Left sided exponent in expressions](https://stackoverflow.com/questions/68152351/left-sided-exponent-in-expressions) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
