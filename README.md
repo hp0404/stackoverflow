@@ -1,39 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-28<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-06-29<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Map and merge values from another dataframe](https://stackoverflow.com/questions/68163214/map-and-merge-values-from-another-dataframe) - 3 votes
-* [Label the first element in each groupby](https://stackoverflow.com/questions/68168631/label-the-first-element-in-each-groupby) - 2 votes
-* [Replace 3939 by 39E39 in dataframe cell IF the 3939 is in the middle of a string](https://stackoverflow.com/questions/68163639/replace-by-e-in-dataframe-cell-if-the-is-in-the-middle-of-a-string) - 2 votes
-* [String float to int in python](https://stackoverflow.com/questions/68162237/string-float-to-int-in-python) - 2 votes
-* [Pandas groupby get value of a column where another column is minimum](https://stackoverflow.com/questions/68168208/pandas-groupby-get-value-of-a-column-where-another-column-is-minimum) - 2 votes
+* [Pandas creating new column based on consecutive duplicates](https://stackoverflow.com/questions/68171812/pandas-creating-new-column-based-on-consecutive-duplicates) - 3 votes
+* [replacing special characters from string](https://stackoverflow.com/questions/68181339/replacing-special-characters-from-string) - 2 votes
+* [Pandas  Compute a new column based on linear regression of previous row](https://stackoverflow.com/questions/68179557/pandas-compute-a-new-column-based-on-linear-regression-of-previous-row) - 2 votes
+* [Drop columns from pandas dataframe where header contains int from a range](https://stackoverflow.com/questions/68181259/drop-columns-from-pandas-dataframe-where-header-contains-int-from-a-range) - 2 votes
+* [How to Create New Column in Pandas](https://stackoverflow.com/questions/68179870/how-to-create-new-column-in-pandas) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [In a line segment passing through a grid how to extract points of that line in each grid](https://stackoverflow.com/questions/68158171/in-a-line-segment-passing-through-a-grid-how-to-extract-points-of-that-line-in) - 2 votes
-* [Drawing a hex grid over a Geopandas map](https://stackoverflow.com/questions/68165035/drawing-a-hex-grid-over-a-geopandas-map) - 1 votes
-* [pltsubplot2grid command39s shape dimensionsMatplotlib](https://stackoverflow.com/questions/68159158/plt-subplot2grid-commands-shape-dimensions-matplotlib) - 1 votes
-* [using mathfrak in matplotlib label returns Undefined control sequence](https://stackoverflow.com/questions/68163393/using-mathfrak-in-matplotlib-label-returns-undefined-control-sequence) - 1 votes
-* [Seaborn get_xticklabels return empty text](https://stackoverflow.com/questions/68158407/seaborn-get-xticklabels-return-empty-text) - 1 votes
+* [How to plot a bar chart for the given scenario](https://stackoverflow.com/questions/68172833/how-to-plot-a-bar-chart-for-the-given-scenario) - 2 votes
+* [How to avoid barchart annotations overlapping with left y axis](https://stackoverflow.com/questions/68183139/how-to-avoid-barchart-annotations-overlapping-with-left-y-axis) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Indian Style thousand separator in ggplot2 chart axes](https://stackoverflow.com/questions/68160094/indian-style-thousand-separator-in-ggplot2-chart-axes) - 3 votes
-* [xaxis starting value for diverging plot](https://stackoverflow.com/questions/68161577/x-axis-starting-value-for-diverging-plot) - 2 votes
-* [Add points or dots in specific positions of a line chart and adapt the tooltip accordingly with ggplotly](https://stackoverflow.com/questions/68164380/add-points-or-dots-in-specific-positions-of-a-line-chart-and-adapt-the-tooltip-a) - 1 votes
-* [Swap key and label in ggplot legend](https://stackoverflow.com/questions/68169516/swap-key-and-label-in-ggplot-legend) - 1 votes
-* [How can I remove the NA label in my GGplot legend](https://stackoverflow.com/questions/68157253/how-can-i-remove-the-na-label-in-my-ggplot-legend) - 1 votes
+* [How to combine fill columns and color points and lines legends in a single plot made with ggplot2](https://stackoverflow.com/questions/68180220/how-to-combine-fill-columns-and-color-points-and-lines-legends-in-a-single-p) - 2 votes
+* [scale_x_date returns error how can I apply time frame to xaxis](https://stackoverflow.com/questions/68181069/scale-x-date-returns-error-how-can-i-apply-time-frame-to-x-axis) - 1 votes
+* [Non linear model plotting issues using ggplot](https://stackoverflow.com/questions/68175173/non-linear-model-plotting-issues-using-ggplot) - 1 votes
+* [How to change the color of one factor in every dataset in a list using a loop](https://stackoverflow.com/questions/68182696/how-to-change-the-color-of-one-factor-in-every-dataset-in-a-list-using-a-loop) - 1 votes
+* [How can I combine color and shape identity with ggplot2](https://stackoverflow.com/questions/68178046/how-can-i-combine-color-and-shape-identity-with-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
