@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-01<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-02<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas dataframe manipulating with long string column to 2 columns dynamically](https://stackoverflow.com/questions/68209758/pandas-dataframe-manipulating-with-long-string-column-to-2-columns-dynamically) - 3 votes
-* [Calculate cumulative sum based on threshold and condition in another column numpy](https://stackoverflow.com/questions/68209418/calculate-cumulative-sum-based-on-threshold-and-condition-in-another-column-nump) - 3 votes
-* [Fastest method of filling missing values from lookup table](https://stackoverflow.com/questions/68202975/fastest-method-of-filling-missing-values-from-lookup-table) - 3 votes
-* [Convert consecutive columns to respective rows in Pandas DataFrame](https://stackoverflow.com/questions/68214806/convert-consecutive-columns-to-respective-rows-in-pandas-dataframe) - 2 votes
-* [Why npmean applied to a pandas string column does not yield an error](https://stackoverflow.com/questions/68213084/why-np-mean-applied-to-a-pandas-string-column-does-not-yield-an-error) - 2 votes
+* [How to group sum up and calculate a mean of every other element in a column](https://stackoverflow.com/questions/68222213/how-to-group-sum-up-and-calculate-a-mean-of-every-other-element-in-a-column) - 2 votes
+* [How can we color the column and row headers of pandas dataframe](https://stackoverflow.com/questions/68226414/how-can-we-color-the-column-and-row-headers-of-pandas-dataframe) - 2 votes
+* [pandasoutput differences between two columns of lists of strings](https://stackoverflow.com/questions/68224138/pandasoutput-differences-between-two-columns-of-lists-of-strings) - 2 votes
+* [dffillna not working when updating multiple columns from a slice](https://stackoverflow.com/questions/68219878/df-fillna-not-working-when-updating-multiple-columns-from-a-slice) - 2 votes
+* [Python Dataframe Filter data using linear relation](https://stackoverflow.com/questions/68229245/python-dataframe-filter-data-using-linear-relation) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Finding points in Ellipses](https://stackoverflow.com/questions/68209977/finding-points-in-ellipses) - 2 votes
-* [Adding name and history attribute to 2D particle simulation](https://stackoverflow.com/questions/68216006/adding-name-and-history-attribute-to-2d-particle-simulation) - 1 votes
-* [How to use mulpile conditioning in pandas series select few and take moving average](https://stackoverflow.com/questions/68205917/how-to-use-mulpile-conditioning-in-pandas-series-select-few-and-take-moving-ave) - 1 votes
-* [How can I scatter outliers in boxplot created with matplotlib](https://stackoverflow.com/questions/68216664/how-can-i-scatter-outliers-in-boxplot-created-with-matplotlib) - 1 votes
-* [Set marks of values on the histogram](https://stackoverflow.com/questions/68209672/set-marks-of-values-on-the-histogram) - 1 votes
+* [Make a gap between columns in matplotlib](https://stackoverflow.com/questions/68224375/make-a-gap-between-columns-in-matplotlib) - 1 votes
+* [How do I plot an axis object](https://stackoverflow.com/questions/68223904/how-do-i-plot-an-axis-object) - 1 votes
+* [How do I change the units shown on the xaxis labels on a Matplotlib bar chart](https://stackoverflow.com/questions/68229366/how-do-i-change-the-units-shown-on-the-x-axis-labels-on-a-matplotlib-bar-chart) - 1 votes
+* [Matplotlib errorbar bug with capsize  ecolor](https://stackoverflow.com/questions/68224576/matplotlib-errorbar-bug-with-capsize-ecolor) - 1 votes
+* [plotting timeseries wiggle section using matplotlib](https://stackoverflow.com/questions/68220743/plotting-timeseries-wiggle-section-using-matplotlib) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to make error bars outside of xaxis limit wrap around to the other side of the plot in ggplot](https://stackoverflow.com/questions/68212245/how-to-make-error-bars-outside-of-x-axis-limit-wrap-around-to-the-other-side-of) - 4 votes
-* [How to plot PCA using hellinger transformation in ggplot](https://stackoverflow.com/questions/68210411/how-to-plot-pca-using-hellinger-transformation-in-ggplot) - 2 votes
-* [Pass a column value through to the title of a ggplot function](https://stackoverflow.com/questions/68210760/pass-a-column-value-through-to-the-title-of-a-ggplot-function) - 1 votes
-* [Plot drc using ggplot](https://stackoverflow.com/questions/68209998/plot-drc-using-ggplot) - 1 votes
-* [How to set ggplot global color themes using RColorBrewer palettes](https://stackoverflow.com/questions/68203834/how-to-set-ggplot-global-color-themes-using-rcolorbrewer-palettes) - 1 votes
+* [Dashed Line for facet_grid in ggplot2](https://stackoverflow.com/questions/68223747/dashed-line-for-facet-grid-in-ggplot2) - 3 votes
+* [Prevent spDataworld countries from wrapping around the map  cropping map area](https://stackoverflow.com/questions/68224036/prevent-spdataworld-countries-from-wrapping-around-the-map-cropping-map-area) - 2 votes
+* [How to make the Great Lakes the same color as the ocean in R](https://stackoverflow.com/questions/68219487/how-to-make-the-great-lakes-the-same-color-as-the-ocean-in-r) - 1 votes
+* [ggplot geom_bar plot percentages by group and facet_wrap](https://stackoverflow.com/questions/68227541/ggplot-geom-bar-plot-percentages-by-group-and-facet-wrap) - 1 votes
+* [Plotting an image ggplot2 with decreasing order from the central zone for 2 variables](https://stackoverflow.com/questions/68223517/plotting-an-image-ggplot2-with-decreasing-order-from-the-central-zone-for-2-va) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
