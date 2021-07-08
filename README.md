@@ -1,39 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-07<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-08<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas  how to drop nan rows within a group but only if there39s more than one row](https://stackoverflow.com/questions/68286076/pandas-how-to-drop-nan-rows-within-a-group-but-only-if-theres-more-than-one) - 4 votes
-* [How to use multiple values in a single npwhere condition](https://stackoverflow.com/questions/68285104/how-to-use-multiple-values-in-a-single-np-where-condition) - 3 votes
-* [Trying to create a word counter but my statement gives a typeerror in python](https://stackoverflow.com/questions/68292989/trying-to-create-a-word-counter-but-my-statement-gives-a-typeerror-in-python) - 3 votes
-* [Find max of two columns and populate with value in third column](https://stackoverflow.com/questions/68289601/find-max-of-two-columns-and-populate-with-value-in-third-column) - 2 votes
-* [rolling on groupby dataframe](https://stackoverflow.com/questions/68291739/rolling-on-groupby-dataframe) - 2 votes
+* [How do I send an email alert through python if a particular string is missing in my file](https://stackoverflow.com/questions/68294432/how-do-i-send-an-email-alert-through-python-if-a-particular-string-is-missing-in) - 5 votes
+* [Get maximum for each group based on time condition](https://stackoverflow.com/questions/68300527/get-maximum-for-each-group-based-on-time-condition) - 3 votes
+* [What extention am i supposed to use in pandas to detect a Rout file](https://stackoverflow.com/questions/68294162/what-extention-am-i-supposed-to-use-in-pandas-to-detect-a-rout-file) - 3 votes
+* [Better Pandas way to count frequency of values in different columns together](https://stackoverflow.com/questions/68301817/better-pandas-way-to-count-frequency-of-values-in-different-columns-together) - 2 votes
+* [Python How do I 39demote39 a column header to be a row and rename column headers without replacing the original column headers](https://stackoverflow.com/questions/68303770/python-how-do-i-demote-a-column-header-to-be-a-row-and-rename-column-headers) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to display X axis from Pandas Dataframe Object to Matplotlib barchart](https://stackoverflow.com/questions/68285141/how-to-display-x-axis-from-pandas-dataframe-object-to-matplotlib-barchart) - 2 votes
-* [plotting the bar graph using the data](https://stackoverflow.com/questions/68289208/plotting-the-bar-graph-using-the-data) - 1 votes
-* [How to get the list of matplotliblinesLine2D objects from plot](https://stackoverflow.com/questions/68278650/how-to-get-the-list-of-matplotlib-lines-line2d-objects-from-plot) - 1 votes
-* [Difficult to plot linear regression line on scatter plot with log scale](https://stackoverflow.com/questions/68291504/difficult-to-plot-linear-regression-line-on-scatter-plot-with-log-scale) - 1 votes
-* [Jupyter Notebook in VScode Not Exporting Pyplot Titles](https://stackoverflow.com/questions/68288808/jupyter-notebook-in-vscode-not-exporting-pyplot-titles) - 1 votes
+* [Plot a circle and shade the area inside it using Python](https://stackoverflow.com/questions/68304195/plot-a-circle-and-shade-the-area-inside-it-using-python) - 3 votes
+* [Adding scientific notation to yaxis changes height of bars in matplotlib bar plot](https://stackoverflow.com/questions/68299100/adding-scientific-notation-to-y-axis-changes-height-of-bars-in-matplotlib-bar-pl) - 3 votes
+* [How can I take a mean of the various columns in a dataframe on the basis of timestamps to make a plot](https://stackoverflow.com/questions/68306278/how-can-i-take-a-mean-of-the-various-columns-in-a-dataframe-on-the-basis-of-time) - 1 votes
+* [Seaborn regression plot with datetime object](https://stackoverflow.com/questions/68307573/seaborn-regression-plot-with-datetime-object) - 1 votes
+* [Cant plot what i want](https://stackoverflow.com/questions/68307473/cant-plot-what-i-want) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [ggplot labeling x axis in lineplot](https://stackoverflow.com/questions/68283218/ggplot-labeling-x-axis-in-lineplot) - 3 votes
-* [dodgedisplacerepel axis tick labels in ggplot](https://stackoverflow.com/questions/68278953/dodge-displace-repel-axis-tick-labels-in-ggplot) - 3 votes
-* [Heatmap via geom_tile ggplot R  Organize y axis levels of monthly factor correctly](https://stackoverflow.com/questions/68279652/heatmap-via-geom-tile-ggplot-r-organize-y-axis-levels-of-monthly-factor-correc) - 1 votes
-* [quotWarning Error in  stat_count requires an x or y aestheticquot when attempting to use plotlyampggplot with shinydashboard scatter plot](https://stackoverflow.com/questions/68291943/warning-error-in-stat-count-requires-an-x-or-y-aesthetic-when-attempting) - 1 votes
-* [How do you only label factors in a barplot that have values above a certain value](https://stackoverflow.com/questions/68290551/how-do-you-only-label-factors-in-a-barplot-that-have-values-above-a-certain-valu) - 1 votes
+* [How to add new part to the barplot in ggplot2](https://stackoverflow.com/questions/68302678/how-to-add-new-part-to-the-barplot-in-ggplot2) - 2 votes
+* [Change color of individual facet labels based on groups](https://stackoverflow.com/questions/68307871/change-color-of-individual-facet-labels-based-on-groups) - 1 votes
+* [How to fix legend order using ggplot in R](https://stackoverflow.com/questions/68304814/how-to-fix-legend-order-using-ggplot-in-r) - 1 votes
+* [ggplot facet_wrap bar chart and column width](https://stackoverflow.com/questions/68299627/ggplot-facet-wrap-bar-chart-and-column-width) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
