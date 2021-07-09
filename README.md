@@ -1,38 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-08<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-09<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How do I send an email alert through python if a particular string is missing in my file](https://stackoverflow.com/questions/68294432/how-do-i-send-an-email-alert-through-python-if-a-particular-string-is-missing-in) - 5 votes
-* [Get maximum for each group based on time condition](https://stackoverflow.com/questions/68300527/get-maximum-for-each-group-based-on-time-condition) - 3 votes
-* [What extention am i supposed to use in pandas to detect a Rout file](https://stackoverflow.com/questions/68294162/what-extention-am-i-supposed-to-use-in-pandas-to-detect-a-rout-file) - 3 votes
-* [Better Pandas way to count frequency of values in different columns together](https://stackoverflow.com/questions/68301817/better-pandas-way-to-count-frequency-of-values-in-different-columns-together) - 2 votes
-* [Python How do I 39demote39 a column header to be a row and rename column headers without replacing the original column headers](https://stackoverflow.com/questions/68303770/python-how-do-i-demote-a-column-header-to-be-a-row-and-rename-column-headers) - 2 votes
+* [Pandas Select row pairs based on specific combination of strings in one column](https://stackoverflow.com/questions/68319727/pandas-select-row-pairs-based-on-specific-combination-of-strings-in-one-column) - 2 votes
+* [Converting minutes data to hourly data](https://stackoverflow.com/questions/68315348/converting-minutes-data-to-hourly-data) - 2 votes
+* [Check if a value of dataframe doesnt exists in the dictionary using pandaspython](https://stackoverflow.com/questions/68315014/check-if-a-value-of-dataframe-doesnt-exists-in-the-dictionary-using-pandas-pytho) - 2 votes
+* [Loosing column names converting back to dataframe from list](https://stackoverflow.com/questions/68314774/loosing-column-names-converting-back-to-dataframe-from-list) - 2 votes
+* [How do I check if pandas df column value exists based on value in another column](https://stackoverflow.com/questions/68312784/how-do-i-check-if-pandas-df-column-value-exists-based-on-value-in-another-column) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Plot a circle and shade the area inside it using Python](https://stackoverflow.com/questions/68304195/plot-a-circle-and-shade-the-area-inside-it-using-python) - 3 votes
-* [Adding scientific notation to yaxis changes height of bars in matplotlib bar plot](https://stackoverflow.com/questions/68299100/adding-scientific-notation-to-y-axis-changes-height-of-bars-in-matplotlib-bar-pl) - 3 votes
-* [How can I take a mean of the various columns in a dataframe on the basis of timestamps to make a plot](https://stackoverflow.com/questions/68306278/how-can-i-take-a-mean-of-the-various-columns-in-a-dataframe-on-the-basis-of-time) - 1 votes
-* [Seaborn regression plot with datetime object](https://stackoverflow.com/questions/68307573/seaborn-regression-plot-with-datetime-object) - 1 votes
-* [Cant plot what i want](https://stackoverflow.com/questions/68307473/cant-plot-what-i-want) - 1 votes
+* [Rearrange the step chart by adding 0 to the beginning and a variable value to the last](https://stackoverflow.com/questions/68310084/rearrange-the-step-chart-by-adding-0-to-the-beginning-and-a-variable-value-to-th) - 2 votes
+* [Matplotlib How to save an image at full resolution](https://stackoverflow.com/questions/68313787/matplotlib-how-to-save-an-image-at-full-resolution) - 1 votes
+* [Pandas Grouped Bar Chart](https://stackoverflow.com/questions/68310959/pandas-grouped-bar-chart) - 1 votes
+* [dictionary to plotbar with two values one in yaxis another in xaxis with dictkey](https://stackoverflow.com/questions/68313351/dictionary-to-plot-bar-with-two-values-one-in-y-axis-another-in-x-axis-with-dic) - 1 votes
+* [Python Matplotlib real time data plot problem](https://stackoverflow.com/questions/68314516/python-matplotlib-real-time-data-plot-problem) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to add new part to the barplot in ggplot2](https://stackoverflow.com/questions/68302678/how-to-add-new-part-to-the-barplot-in-ggplot2) - 2 votes
-* [Change color of individual facet labels based on groups](https://stackoverflow.com/questions/68307871/change-color-of-individual-facet-labels-based-on-groups) - 1 votes
-* [How to fix legend order using ggplot in R](https://stackoverflow.com/questions/68304814/how-to-fix-legend-order-using-ggplot-in-r) - 1 votes
-* [ggplot facet_wrap bar chart and column width](https://stackoverflow.com/questions/68299627/ggplot-facet-wrap-bar-chart-and-column-width) - 1 votes
+* [Is there a way to draw a vertical line using geom_abline](https://stackoverflow.com/questions/68314166/is-there-a-way-to-draw-a-vertical-line-using-geom-abline) - 3 votes
+* [How to set the color range of scatter plot so it is consistent with histogram](https://stackoverflow.com/questions/68311933/how-to-set-the-color-range-of-scatter-plot-so-it-is-consistent-with-histogram) - 1 votes
+* [How to plot plots using different datasets using ggplot2](https://stackoverflow.com/questions/68317066/how-to-plot-plots-using-different-datasets-using-ggplot2) - 1 votes
+* [How to have the geom_text leftaligned with ggplot2](https://stackoverflow.com/questions/68316509/how-to-have-the-geom-text-left-aligned-with-ggplot2) - 1 votes
+* [R Plotting hour data](https://stackoverflow.com/questions/68313730/r-plotting-hour-data) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
