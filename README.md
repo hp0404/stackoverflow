@@ -1,31 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-10<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-11<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Create a column with the domain name of each line from a URL in Python](https://stackoverflow.com/questions/68326728/create-a-column-with-the-domain-name-of-each-line-from-a-url-in-python) - 2 votes
-* [Clearing a row based on the state of the first element](https://stackoverflow.com/questions/68324974/clearing-a-row-based-on-the-state-of-the-first-element) - 2 votes
-* [Read an excel file with Python and modify it without changing the style](https://stackoverflow.com/questions/68324914/read-an-excel-file-with-python-and-modify-it-without-changing-the-style) - 2 votes
-* [How to sum up multiple pandas dataframes with a rolling average window](https://stackoverflow.com/questions/68331081/how-to-sum-up-multiple-pandas-dataframes-with-a-rolling-average-window) - 2 votes
-* [Why my code raises an error when trying to create and populate an excel file with some data](https://stackoverflow.com/questions/68326001/why-my-code-raises-an-error-when-trying-to-create-and-populate-an-excel-file-wit) - 2 votes
+* [Finding previous trading day in pandas is very slow](https://stackoverflow.com/questions/68337351/finding-previous-trading-day-in-pandas-is-very-slow) - 4 votes
+* [Convert csv file in DB with repeat second header several times](https://stackoverflow.com/questions/68334534/convert-csv-file-in-db-with-repeat-second-header-several-times) - 3 votes
+* [How to remove space quotbeforequot column name when importing csv data in Pandas](https://stackoverflow.com/questions/68339861/how-to-remove-space-before-column-name-when-importing-csv-data-in-pandas) - 2 votes
+* [jsonload is showing error whereas read_json is not splitting data in columns accordingly](https://stackoverflow.com/questions/68336247/json-load-is-showing-error-whereas-read-json-is-not-splitting-data-in-columns-ac) - 2 votes
+* [Pandas Groupby concatenate one column and identify the row with maximums](https://stackoverflow.com/questions/68333073/pandas-groupby-concatenate-one-column-and-identify-the-row-with-maximums) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Plot a line graph with categorical columns for each line](https://stackoverflow.com/questions/68328524/plot-a-line-graph-with-categorical-columns-for-each-line) - 1 votes
+* [Detect and change a matplotlib object upon click](https://stackoverflow.com/questions/68337800/detect-and-change-a-matplotlib-object-upon-click) - 1 votes
+* [Savefig doesn39t respect the figure size](https://stackoverflow.com/questions/68337025/savefig-doesnt-respect-the-figure-size) - 1 votes
+* [How to change ytick labels in python](https://stackoverflow.com/questions/68335836/how-to-change-ytick-labels-in-python) - 1 votes
+* [How can I add enhance the PyTorch transfer learning tutorial to plot the training and validation losses over time](https://stackoverflow.com/questions/68333459/how-can-i-add-enhance-the-pytorch-transfer-learning-tutorial-to-plot-the-trainin) - 1 votes
+* [Plotting Confidence Intervals in Pandas](https://stackoverflow.com/questions/68332715/plotting-confidence-intervals-in-pandas) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to truly calculate a spherical voronoi diagram using sf](https://stackoverflow.com/questions/68324079/how-to-truly-calculate-a-spherical-voronoi-diagram-using-sf) - 1 votes
+* [How to remove quotalmost flatquot trend lines](https://stackoverflow.com/questions/68337835/how-to-remove-almost-flat-trend-lines) - 1 votes
+* [Rotate strip text with ggtext](https://stackoverflow.com/questions/68336237/rotate-strip-text-with-ggtext) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
