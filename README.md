@@ -1,36 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-11<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-12<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Finding previous trading day in pandas is very slow](https://stackoverflow.com/questions/68337351/finding-previous-trading-day-in-pandas-is-very-slow) - 4 votes
-* [Convert csv file in DB with repeat second header several times](https://stackoverflow.com/questions/68334534/convert-csv-file-in-db-with-repeat-second-header-several-times) - 3 votes
-* [How to remove space quotbeforequot column name when importing csv data in Pandas](https://stackoverflow.com/questions/68339861/how-to-remove-space-before-column-name-when-importing-csv-data-in-pandas) - 2 votes
-* [jsonload is showing error whereas read_json is not splitting data in columns accordingly](https://stackoverflow.com/questions/68336247/json-load-is-showing-error-whereas-read-json-is-not-splitting-data-in-columns-ac) - 2 votes
-* [Pandas Groupby concatenate one column and identify the row with maximums](https://stackoverflow.com/questions/68333073/pandas-groupby-concatenate-one-column-and-identify-the-row-with-maximums) - 1 votes
+* [How to calculate the active dates in every month or in a range of month](https://stackoverflow.com/questions/68346008/how-to-calculate-the-active-dates-in-every-month-or-in-a-range-of-month) - 6 votes
+* [Pandas how to filter for multiple substrings in series](https://stackoverflow.com/questions/68352246/pandas-how-to-filter-for-multiple-substrings-in-series) - 3 votes
+* [Get max N rows of a DataFrame at a time](https://stackoverflow.com/questions/68346772/get-max-n-rows-of-a-dataframe-at-a-time) - 3 votes
+* [Pandas read_csv on file without space](https://stackoverflow.com/questions/68353026/pandas-read-csv-on-file-without-space) - 2 votes
+* [Copy values from one column to another column with different rows based on two conditions](https://stackoverflow.com/questions/68352573/copy-values-from-one-column-to-another-column-with-different-rows-based-on-two-c) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Detect and change a matplotlib object upon click](https://stackoverflow.com/questions/68337800/detect-and-change-a-matplotlib-object-upon-click) - 1 votes
-* [Savefig doesn39t respect the figure size](https://stackoverflow.com/questions/68337025/savefig-doesnt-respect-the-figure-size) - 1 votes
-* [How to change ytick labels in python](https://stackoverflow.com/questions/68335836/how-to-change-ytick-labels-in-python) - 1 votes
-* [How can I add enhance the PyTorch transfer learning tutorial to plot the training and validation losses over time](https://stackoverflow.com/questions/68333459/how-can-i-add-enhance-the-pytorch-transfer-learning-tutorial-to-plot-the-trainin) - 1 votes
-* [Plotting Confidence Intervals in Pandas](https://stackoverflow.com/questions/68332715/plotting-confidence-intervals-in-pandas) - 1 votes
+* [Is there an easy way to learn which kwargs are valid for a method or a function in Python](https://stackoverflow.com/questions/68344641/is-there-an-easy-way-to-learn-which-kwargs-are-valid-for-a-method-or-a-function) - 2 votes
+* [Using missingno but got incorrect result](https://stackoverflow.com/questions/68349646/using-missingno-but-got-incorrect-result) - 1 votes
+* [How to plot scatterplot using matplotlib from arrays using strings Python](https://stackoverflow.com/questions/68345561/how-to-plot-scatterplot-using-matplotlib-from-arrays-using-strings-python) - 1 votes
+* [Why does my matplotlib graph embedded in a tkinter frame not display its xaxis values and gridlines until after I pan it](https://stackoverflow.com/questions/68343777/why-does-my-matplotlib-graph-embedded-in-a-tkinter-frame-not-display-its-x-axis) - 1 votes
+* [Difficult with numpy array using oop python](https://stackoverflow.com/questions/68341406/difficult-with-numpy-array-using-oop-python) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to remove quotalmost flatquot trend lines](https://stackoverflow.com/questions/68337835/how-to-remove-almost-flat-trend-lines) - 1 votes
-* [Rotate strip text with ggtext](https://stackoverflow.com/questions/68336237/rotate-strip-text-with-ggtext) - 1 votes
+* [How to overlay a barplot on top of other plot with a different geom by mapping the barplot positions to the original plot39s scale](https://stackoverflow.com/questions/68349330/how-to-overlay-a-barplot-on-top-of-other-plot-with-a-different-geom-by-mapping) - 1 votes
+* [How to cluster points around a center in ggplot](https://stackoverflow.com/questions/68350240/how-to-cluster-points-around-a-center-in-ggplot) - 1 votes
+* [Function giving no output two arranged PNG of two ggplots](https://stackoverflow.com/questions/68349835/function-giving-no-output-two-arranged-png-of-two-ggplots) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
