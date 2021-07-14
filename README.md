@@ -1,34 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-13<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-14<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How can I write a function in python to write the file names of directory with the output of my function to a dataframe](https://stackoverflow.com/questions/68368837/how-can-i-write-a-function-in-python-to-write-the-file-names-of-directory-with-t) - 5 votes
-* [Pandas  merging startend time ranges with short gaps](https://stackoverflow.com/questions/68358218/pandas-merging-start-end-time-ranges-with-short-gaps) - 4 votes
-* [Overlap in date range grouped dataframe](https://stackoverflow.com/questions/68362079/overlap-in-date-range-grouped-dataframe) - 3 votes
-* [Match the first 3 characters of a string to specific column](https://stackoverflow.com/questions/68355371/match-the-first-3-characters-of-a-string-to-specific-column) - 2 votes
-* [Calling an element of a dataframe](https://stackoverflow.com/questions/68361546/calling-an-element-of-a-dataframe) - 2 votes
+* [Cumulative sum but conditionally excluding earlier rows](https://stackoverflow.com/questions/68381803/cumulative-sum-but-conditionally-excluding-earlier-rows) - 5 votes
+* [How to select values from a dataframe by a series of column names](https://stackoverflow.com/questions/68375152/how-to-select-values-from-a-dataframe-by-a-series-of-column-names) - 3 votes
+* [Natural way of applying numpy operations and vector indexing on dataframe containing arrays elements](https://stackoverflow.com/questions/68382438/natural-way-of-applying-numpy-operations-and-vector-indexing-on-dataframe-contai) - 2 votes
+* [How to iterate over every Nth row in column and pass values as list without brackets too URL](https://stackoverflow.com/questions/68383568/how-to-iterate-over-every-n-th-row-in-column-and-pass-values-as-list-without-br) - 2 votes
+* [Create new column in DataFrame based on comparison against row values](https://stackoverflow.com/questions/68379428/create-new-column-in-dataframe-based-on-comparison-against-row-values) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Plot Pandas DataFrame and plot side by side](https://stackoverflow.com/questions/68369326/plot-pandas-dataframe-and-plot-side-by-side) - 2 votes
-* [How to overlay pyplot visual elements on multiple relplot charts](https://stackoverflow.com/questions/68363348/how-to-overlay-pyplot-visual-elements-on-multiple-relplot-charts) - 1 votes
-* [Delete a point in scatter plot after elapsed time  matplotlib](https://stackoverflow.com/questions/68360939/delete-a-point-in-scatter-plot-after-elapsed-time-matplotlib) - 1 votes
-* [Remove a graphs label with for loop in Python](https://stackoverflow.com/questions/68358464/remove-a-graphs-label-with-for-loop-in-python) - 1 votes
+* [Python Matplotlib  how to graph top 20 of the df](https://stackoverflow.com/questions/68375362/python-matplotlib-how-to-graph-top-20-of-the-df) - 1 votes
+* [How to plot multiple time series data based on a specific 39category39 type ei Disaster type  Flood](https://stackoverflow.com/questions/68383292/how-to-plot-multiple-time-series-data-based-on-a-specific-category-type-ei-di) - 1 votes
+* [Why matplotlib can39t plot a histogram from a list of tensors](https://stackoverflow.com/questions/68378507/why-matplotlib-cant-plot-a-histogram-from-a-list-of-tensors) - 1 votes
+* [How to add vertical lines to a histogram in plotly dash](https://stackoverflow.com/questions/68370730/how-to-add-vertical-lines-to-a-histogram-in-plotly-dash) - 1 votes
+* [Geopandas plot is streched](https://stackoverflow.com/questions/68383793/geopandas-plot-is-streched) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Remove specific markers from legend](https://stackoverflow.com/questions/68364903/remove-specific-markers-from-legend) - 2 votes
+* [Combining plots with patchwork when plot aspect ratio is 1](https://stackoverflow.com/questions/68376626/combining-plots-with-patchwork-when-plot-aspect-ratio-is-1) - 2 votes
+* [Consistent plot size for pdfexport in ggplot2](https://stackoverflow.com/questions/68375302/consistent-plot-size-for-pdf-export-in-ggplot2) - 2 votes
+* [speechgaze activity plot in ggplot2](https://stackoverflow.com/questions/68374987/speech-gaze-activity-plot-in-ggplot2) - 1 votes
+* [Create a complex geom_ using other geoms](https://stackoverflow.com/questions/68371387/create-a-complex-geom-using-other-geoms) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
