@@ -1,38 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-14<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-15<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Cumulative sum but conditionally excluding earlier rows](https://stackoverflow.com/questions/68381803/cumulative-sum-but-conditionally-excluding-earlier-rows) - 5 votes
-* [How to select values from a dataframe by a series of column names](https://stackoverflow.com/questions/68375152/how-to-select-values-from-a-dataframe-by-a-series-of-column-names) - 3 votes
-* [Natural way of applying numpy operations and vector indexing on dataframe containing arrays elements](https://stackoverflow.com/questions/68382438/natural-way-of-applying-numpy-operations-and-vector-indexing-on-dataframe-contai) - 2 votes
-* [How to iterate over every Nth row in column and pass values as list without brackets too URL](https://stackoverflow.com/questions/68383568/how-to-iterate-over-every-n-th-row-in-column-and-pass-values-as-list-without-br) - 2 votes
-* [Create new column in DataFrame based on comparison against row values](https://stackoverflow.com/questions/68379428/create-new-column-in-dataframe-based-on-comparison-against-row-values) - 2 votes
+* [remove rows from a table but make the index of the rows according to the number of items](https://stackoverflow.com/questions/68400406/remove-rows-from-a-table-but-make-the-index-of-the-rows-according-to-the-number) - 4 votes
+* [Merge intervals in pandas dataframe based on another column](https://stackoverflow.com/questions/68390034/merge-intervals-in-pandas-dataframe-based-on-another-column) - 2 votes
+* [Filter a pandas data frame based on the count of a column value from the end](https://stackoverflow.com/questions/68396158/filter-a-pandas-data-frame-based-on-the-count-of-a-column-value-from-the-end) - 2 votes
+* [How to drop columns from multiple dataframes at the same time](https://stackoverflow.com/questions/68394563/how-to-drop-columns-from-multiple-dataframes-at-the-same-time) - 2 votes
+* [Pandas Equivalent of SQL39s quotWhere Inquot with liststuplesiterables](https://stackoverflow.com/questions/68398741/pandas-equivalent-of-sqls-where-in-with-lists-tuples-iterables) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Python Matplotlib  how to graph top 20 of the df](https://stackoverflow.com/questions/68375362/python-matplotlib-how-to-graph-top-20-of-the-df) - 1 votes
-* [How to plot multiple time series data based on a specific 39category39 type ei Disaster type  Flood](https://stackoverflow.com/questions/68383292/how-to-plot-multiple-time-series-data-based-on-a-specific-category-type-ei-di) - 1 votes
-* [Why matplotlib can39t plot a histogram from a list of tensors](https://stackoverflow.com/questions/68378507/why-matplotlib-cant-plot-a-histogram-from-a-list-of-tensors) - 1 votes
-* [How to add vertical lines to a histogram in plotly dash](https://stackoverflow.com/questions/68370730/how-to-add-vertical-lines-to-a-histogram-in-plotly-dash) - 1 votes
-* [Geopandas plot is streched](https://stackoverflow.com/questions/68383793/geopandas-plot-is-streched) - 1 votes
+* [Assign specific colors to values of an array when plotting it using imshow without creating a secondary array](https://stackoverflow.com/questions/68390704/assign-specific-colors-to-values-of-an-array-when-plotting-it-using-imshow-witho) - 4 votes
+* [Converting string input to a variable for matplotlibpyplot in Python](https://stackoverflow.com/questions/68391020/converting-string-input-to-a-variable-for-matplotlib-pyplot-in-python) - 1 votes
+* [Clustering with UMAP and HDBScan](https://stackoverflow.com/questions/68398233/clustering-with-umap-and-hdbscan) - 1 votes
+* [How do i make xticks in a bar graph not be cramped when working with yearly data](https://stackoverflow.com/questions/68397380/how-do-i-make-xticks-in-a-bar-graph-not-be-cramped-when-working-with-yearly-data) - 1 votes
+* [Draw the memory image view with python](https://stackoverflow.com/questions/68395962/draw-the-memory-image-view-with-python) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Combining plots with patchwork when plot aspect ratio is 1](https://stackoverflow.com/questions/68376626/combining-plots-with-patchwork-when-plot-aspect-ratio-is-1) - 2 votes
-* [Consistent plot size for pdfexport in ggplot2](https://stackoverflow.com/questions/68375302/consistent-plot-size-for-pdf-export-in-ggplot2) - 2 votes
-* [speechgaze activity plot in ggplot2](https://stackoverflow.com/questions/68374987/speech-gaze-activity-plot-in-ggplot2) - 1 votes
-* [Create a complex geom_ using other geoms](https://stackoverflow.com/questions/68371387/create-a-complex-geom-using-other-geoms) - 1 votes
+* [Excluding outliers from the regression line fitted through a scatterplot without removing the outlier from the plot](https://stackoverflow.com/questions/68396603/excluding-outliers-from-the-regression-line-fitted-through-a-scatterplot-witho) - 3 votes
+* [Recover original variable name from lm](https://stackoverflow.com/questions/68389318/recover-original-variable-name-from-lm) - 3 votes
+* [ggplot Separate legend for both a geom_vline and geom_hline](https://stackoverflow.com/questions/68394571/ggplot-separate-legend-for-both-a-geom-vline-and-geom-hline) - 1 votes
+* [Scale fill gradient using absolute values](https://stackoverflow.com/questions/68400390/scale-fill-gradient-using-absolute-values) - 1 votes
+* [In r ggplot2 how can i adjust 39alpha39 value by specific value](https://stackoverflow.com/questions/68387307/in-r-ggplot2-how-can-i-adjust-alpha-value-by-specific-value) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
