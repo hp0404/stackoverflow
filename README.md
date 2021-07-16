@@ -1,39 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-15<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-16<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [remove rows from a table but make the index of the rows according to the number of items](https://stackoverflow.com/questions/68400406/remove-rows-from-a-table-but-make-the-index-of-the-rows-according-to-the-number) - 4 votes
-* [Merge intervals in pandas dataframe based on another column](https://stackoverflow.com/questions/68390034/merge-intervals-in-pandas-dataframe-based-on-another-column) - 2 votes
-* [Filter a pandas data frame based on the count of a column value from the end](https://stackoverflow.com/questions/68396158/filter-a-pandas-data-frame-based-on-the-count-of-a-column-value-from-the-end) - 2 votes
-* [How to drop columns from multiple dataframes at the same time](https://stackoverflow.com/questions/68394563/how-to-drop-columns-from-multiple-dataframes-at-the-same-time) - 2 votes
-* [Pandas Equivalent of SQL39s quotWhere Inquot with liststuplesiterables](https://stackoverflow.com/questions/68398741/pandas-equivalent-of-sqls-where-in-with-lists-tuples-iterables) - 1 votes
+* [Merging dataframes with multi indexes and column value](https://stackoverflow.com/questions/68407112/merging-dataframes-with-multi-indexes-and-column-value) - 6 votes
+* [Applying rolling median across row for pandas dataframe](https://stackoverflow.com/questions/68403571/applying-rolling-median-across-row-for-pandas-dataframe) - 2 votes
+* [Converting a data frame into tables with indexes](https://stackoverflow.com/questions/68405892/converting-a-data-frame-into-tables-with-indexes) - 1 votes
+* [How to convert data to NaN based on consecutive and non consecutive NaNs](https://stackoverflow.com/questions/68404282/how-to-convert-data-to-nan-based-on-consecutive-and-non-consecutive-nans) - 1 votes
+* [Assign value to the first row of a subdataframe](https://stackoverflow.com/questions/68407041/assign-value-to-the-first-row-of-a-sub-dataframe) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Assign specific colors to values of an array when plotting it using imshow without creating a secondary array](https://stackoverflow.com/questions/68390704/assign-specific-colors-to-values-of-an-array-when-plotting-it-using-imshow-witho) - 4 votes
-* [Converting string input to a variable for matplotlibpyplot in Python](https://stackoverflow.com/questions/68391020/converting-string-input-to-a-variable-for-matplotlib-pyplot-in-python) - 1 votes
-* [Clustering with UMAP and HDBScan](https://stackoverflow.com/questions/68398233/clustering-with-umap-and-hdbscan) - 1 votes
-* [How do i make xticks in a bar graph not be cramped when working with yearly data](https://stackoverflow.com/questions/68397380/how-do-i-make-xticks-in-a-bar-graph-not-be-cramped-when-working-with-yearly-data) - 1 votes
-* [Draw the memory image view with python](https://stackoverflow.com/questions/68395962/draw-the-memory-image-view-with-python) - 1 votes
+* [increase radius of a single sector in pie chart matplotlib](https://stackoverflow.com/questions/68404274/increase-radius-of-a-single-sector-in-pie-chart-matplotlib) - 2 votes
+* [Seaborn legend modification for multiple overlapping plots](https://stackoverflow.com/questions/68413808/seaborn-legend-modification-for-multiple-overlapping-plots) - 1 votes
+* [Seaborn heatmap getting cropped](https://stackoverflow.com/questions/68405941/seaborn-heatmap-getting-cropped) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Excluding outliers from the regression line fitted through a scatterplot without removing the outlier from the plot](https://stackoverflow.com/questions/68396603/excluding-outliers-from-the-regression-line-fitted-through-a-scatterplot-witho) - 3 votes
-* [Recover original variable name from lm](https://stackoverflow.com/questions/68389318/recover-original-variable-name-from-lm) - 3 votes
-* [ggplot Separate legend for both a geom_vline and geom_hline](https://stackoverflow.com/questions/68394571/ggplot-separate-legend-for-both-a-geom-vline-and-geom-hline) - 1 votes
-* [Scale fill gradient using absolute values](https://stackoverflow.com/questions/68400390/scale-fill-gradient-using-absolute-values) - 1 votes
-* [In r ggplot2 how can i adjust 39alpha39 value by specific value](https://stackoverflow.com/questions/68387307/in-r-ggplot2-how-can-i-adjust-alpha-value-by-specific-value) - 1 votes
+* [Combining ggplot with base plots in R Looks and Syntax](https://stackoverflow.com/questions/68406650/combining-ggplot-with-base-plots-in-r-looks-and-syntax) - 2 votes
+* [Moving the last pair of columns further away from the others in ggplot2](https://stackoverflow.com/questions/68405889/moving-the-last-pair-of-columns-further-away-from-the-others-in-ggplot2) - 1 votes
+* [ggplot2 fill legend does not display the correct quotfillquot color](https://stackoverflow.com/questions/68402735/ggplot2-fill-legend-does-not-display-the-correct-fill-color) - 1 votes
+* [Create a partial curved line in ggplot](https://stackoverflow.com/questions/68412206/create-a-partial-curved-line-in-ggplot) - 1 votes
+* [How to become the arrow segment smoother in ggplot](https://stackoverflow.com/questions/68409500/how-to-become-the-arrow-segment-smoother-in-ggplot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
