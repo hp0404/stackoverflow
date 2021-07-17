@@ -1,37 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-16<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-17<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Merging dataframes with multi indexes and column value](https://stackoverflow.com/questions/68407112/merging-dataframes-with-multi-indexes-and-column-value) - 6 votes
-* [Applying rolling median across row for pandas dataframe](https://stackoverflow.com/questions/68403571/applying-rolling-median-across-row-for-pandas-dataframe) - 2 votes
-* [Converting a data frame into tables with indexes](https://stackoverflow.com/questions/68405892/converting-a-data-frame-into-tables-with-indexes) - 1 votes
-* [How to convert data to NaN based on consecutive and non consecutive NaNs](https://stackoverflow.com/questions/68404282/how-to-convert-data-to-nan-based-on-consecutive-and-non-consecutive-nans) - 1 votes
-* [Assign value to the first row of a subdataframe](https://stackoverflow.com/questions/68407041/assign-value-to-the-first-row-of-a-sub-dataframe) - 1 votes
+* [Problem creating a time series stacked bar graph depicting number of times an event happened in a month](https://stackoverflow.com/questions/68421520/problem-creating-a-time-series-stacked-bar-graph-depicting-number-of-times-an-ev) - 3 votes
+* [unable to replace zeros in the last row of dataframe with mean of last three rows in respective columns while leaving non zero values as it is](https://stackoverflow.com/questions/68419936/unable-to-replace-zeros-in-the-last-row-of-dataframe-with-mean-of-last-three-row) - 2 votes
+* [How can I speed groupby](https://stackoverflow.com/questions/68423940/how-can-i-speed-groupby) - 2 votes
+* [How do I explode a dict column Explode did not do the job](https://stackoverflow.com/questions/68418958/how-do-i-explode-a-dict-column-explode-did-not-do-the-job) - 2 votes
+* [Printing values with Pandas](https://stackoverflow.com/questions/68416813/printing-values-with-pandas) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [increase radius of a single sector in pie chart matplotlib](https://stackoverflow.com/questions/68404274/increase-radius-of-a-single-sector-in-pie-chart-matplotlib) - 2 votes
-* [Seaborn legend modification for multiple overlapping plots](https://stackoverflow.com/questions/68413808/seaborn-legend-modification-for-multiple-overlapping-plots) - 1 votes
-* [Seaborn heatmap getting cropped](https://stackoverflow.com/questions/68405941/seaborn-heatmap-getting-cropped) - 1 votes
+* [Problem creating a time series stacked bar graph depicting number of times an event happened in a month](https://stackoverflow.com/questions/68421520/problem-creating-a-time-series-stacked-bar-graph-depicting-number-of-times-an-ev) - 3 votes
+* [Seaborn Replace Bool with yesno in the bar label for catplot of kind39count39](https://stackoverflow.com/questions/68418981/seaborn-replace-bool-with-yes-no-in-the-bar-label-for-catplot-of-kind-count) - 1 votes
+* [Referring to plot bars in MatPlotLib](https://stackoverflow.com/questions/68417463/referring-to-plot-bars-in-matplotlib) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Combining ggplot with base plots in R Looks and Syntax](https://stackoverflow.com/questions/68406650/combining-ggplot-with-base-plots-in-r-looks-and-syntax) - 2 votes
-* [Moving the last pair of columns further away from the others in ggplot2](https://stackoverflow.com/questions/68405889/moving-the-last-pair-of-columns-further-away-from-the-others-in-ggplot2) - 1 votes
-* [ggplot2 fill legend does not display the correct quotfillquot color](https://stackoverflow.com/questions/68402735/ggplot2-fill-legend-does-not-display-the-correct-fill-color) - 1 votes
-* [Create a partial curved line in ggplot](https://stackoverflow.com/questions/68412206/create-a-partial-curved-line-in-ggplot) - 1 votes
-* [How to become the arrow segment smoother in ggplot](https://stackoverflow.com/questions/68409500/how-to-become-the-arrow-segment-smoother-in-ggplot) - 1 votes
+* [multiple plots on a page](https://stackoverflow.com/questions/68419243/multiple-plots-on-a-page) - 2 votes
+* [How to connect group means in a 2 x 2 factorial design in ggplot2 R](https://stackoverflow.com/questions/68421266/how-to-connect-group-means-in-a-2-x-2-factorial-design-in-ggplot2-r) - 2 votes
+* [How to fill area bellow geom_line plot in ggplot with geom_rect](https://stackoverflow.com/questions/68423992/how-to-fill-area-bellow-geom-line-plot-in-ggplot-with-geom-rect) - 1 votes
+* [Getting quotmissing aesthetics errorquot while using ggplot239s geom_errorbar](https://stackoverflow.com/questions/68422759/getting-missing-aesthetics-error-while-using-ggplot2s-geom-errorbar) - 1 votes
+* [Creating a heatmap using R](https://stackoverflow.com/questions/68422261/creating-a-heatmap-using-r) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
