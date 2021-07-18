@@ -1,37 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-17<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-18<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Problem creating a time series stacked bar graph depicting number of times an event happened in a month](https://stackoverflow.com/questions/68421520/problem-creating-a-time-series-stacked-bar-graph-depicting-number-of-times-an-ev) - 3 votes
-* [unable to replace zeros in the last row of dataframe with mean of last three rows in respective columns while leaving non zero values as it is](https://stackoverflow.com/questions/68419936/unable-to-replace-zeros-in-the-last-row-of-dataframe-with-mean-of-last-three-row) - 2 votes
-* [How can I speed groupby](https://stackoverflow.com/questions/68423940/how-can-i-speed-groupby) - 2 votes
-* [How do I explode a dict column Explode did not do the job](https://stackoverflow.com/questions/68418958/how-do-i-explode-a-dict-column-explode-did-not-do-the-job) - 2 votes
-* [Printing values with Pandas](https://stackoverflow.com/questions/68416813/printing-values-with-pandas) - 2 votes
+* [Add column with number for each unique element in pandas](https://stackoverflow.com/questions/68427438/add-column-with-number-for-each-unique-element-in-pandas) - 3 votes
+* [calculation of hilbert transform on the column of data](https://stackoverflow.com/questions/68432796/calculation-of-hilbert-transform-on-the-column-of-data) - 3 votes
+* [Drop a row based on emptyblanks values in specific column in final excel file  Pandas Data frame](https://stackoverflow.com/questions/68431184/drop-a-row-based-on-empty-blanks-values-in-specific-column-in-final-excel-file) - 2 votes
+* [Need help in filtering top 3 counts from pandas dataframe](https://stackoverflow.com/questions/68430094/need-help-in-filtering-top-3-counts-from-pandas-dataframe) - 2 votes
+* [Improve execution time of very slow python code](https://stackoverflow.com/questions/68429102/improve-execution-time-of-very-slow-python-code) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Problem creating a time series stacked bar graph depicting number of times an event happened in a month](https://stackoverflow.com/questions/68421520/problem-creating-a-time-series-stacked-bar-graph-depicting-number-of-times-an-ev) - 3 votes
-* [Seaborn Replace Bool with yesno in the bar label for catplot of kind39count39](https://stackoverflow.com/questions/68418981/seaborn-replace-bool-with-yes-no-in-the-bar-label-for-catplot-of-kind-count) - 1 votes
-* [Referring to plot bars in MatPlotLib](https://stackoverflow.com/questions/68417463/referring-to-plot-bars-in-matplotlib) - 1 votes
+* [Matplotlib axvspan function fills wrong date](https://stackoverflow.com/questions/68432188/matplotlib-axvspan-function-fills-wrong-date) - 1 votes
+* [How does one animate a 2d grid using matplotlib](https://stackoverflow.com/questions/68432834/how-does-one-animate-a-2d-grid-using-matplotlib) - 1 votes
+* [plotting Iris Classification](https://stackoverflow.com/questions/68428477/plotting-iris-classification) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [multiple plots on a page](https://stackoverflow.com/questions/68419243/multiple-plots-on-a-page) - 2 votes
-* [How to connect group means in a 2 x 2 factorial design in ggplot2 R](https://stackoverflow.com/questions/68421266/how-to-connect-group-means-in-a-2-x-2-factorial-design-in-ggplot2-r) - 2 votes
-* [How to fill area bellow geom_line plot in ggplot with geom_rect](https://stackoverflow.com/questions/68423992/how-to-fill-area-bellow-geom-line-plot-in-ggplot-with-geom-rect) - 1 votes
-* [Getting quotmissing aesthetics errorquot while using ggplot239s geom_errorbar](https://stackoverflow.com/questions/68422759/getting-missing-aesthetics-error-while-using-ggplot2s-geom-errorbar) - 1 votes
-* [Creating a heatmap using R](https://stackoverflow.com/questions/68422261/creating-a-heatmap-using-r) - 1 votes
+* [Using least absolute deviation with geom_smooth](https://stackoverflow.com/questions/68426779/using-least-absolute-deviation-with-geom-smooth) - 2 votes
+* [Why does size not overrideaes in guides](https://stackoverflow.com/questions/68429948/why-does-size-not-override-aes-in-guides) - 2 votes
+* [geom_bar issues with y axis values incorrect placement](https://stackoverflow.com/questions/68427352/geom-bar-issues-with-y-axis-values-incorrect-placement) - 1 votes
+* [How to remove ggplot margin in R](https://stackoverflow.com/questions/68426656/how-to-remove-ggplot-margin-in-r) - 1 votes
+* [Replace point shape with subject name on ggplot](https://stackoverflow.com/questions/68430184/replace-point-shape-with-subject-name-on-ggplot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
