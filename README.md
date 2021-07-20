@@ -1,37 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-19<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-20<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Adding a total per level2 index in a multiindex pandas dataframe](https://stackoverflow.com/questions/68439172/adding-a-total-per-level-2-index-in-a-multiindex-pandas-dataframe) - 4 votes
-* [How create dataframe with columns name from dictionary](https://stackoverflow.com/questions/68441901/how-create-dataframe-with-columns-name-from-dictionary) - 3 votes
-* [How to convert dataframe from horizontal to vertical](https://stackoverflow.com/questions/68438619/how-to-convert-dataframe-from-horizontal-to-vertical) - 3 votes
-* [Subtracting values amp calculating percentages in multiindex dataframe](https://stackoverflow.com/questions/68438326/subtracting-values-calculating-percentages-in-multiindex-dataframe) - 3 votes
-* [How to convert a single timeseries in Pandas to multiple series](https://stackoverflow.com/questions/68439365/how-to-convert-a-single-timeseries-in-pandas-to-multiple-series) - 2 votes
+* [How do I locate which file has a keyerror in python](https://stackoverflow.com/questions/68458472/how-do-i-locate-which-file-has-a-keyerror-in-python) - 3 votes
+* [How to create pandas dataframe from nested json with dictionary](https://stackoverflow.com/questions/68454773/how-to-create-pandas-dataframe-from-nested-json-with-dictionary) - 3 votes
+* [sum duplicate row with condition using pandas](https://stackoverflow.com/questions/68459431/sum-duplicate-row-with-condition-using-pandas) - 2 votes
+* [Best way to backtest trading bots in pandas for large DataFrames without testing the strategy row by row](https://stackoverflow.com/questions/68455113/best-way-to-backtest-trading-bots-in-pandas-for-large-dataframes-without-testi) - 2 votes
+* [Pandas to_sql using wrong data type can it be changed](https://stackoverflow.com/questions/68455184/pandas-to-sql-using-wrong-data-type-can-it-be-changed) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Count occurrences within range](https://stackoverflow.com/questions/68436277/count-occurrences-within-range) - 2 votes
-* [Setting color of scatter according to the in matplotlib](https://stackoverflow.com/questions/68446043/setting-color-of-scatter-according-to-the-in-matplotlib) - 1 votes
-* [How to subplot two histograms with one mirror with respect to the other in Python](https://stackoverflow.com/questions/68435889/how-to-subplot-two-histograms-with-one-mirror-with-respect-to-the-other-in-pytho) - 1 votes
-* [Finding max value from list and assigning it to explode value in Pie chart MatPlotLib Python](https://stackoverflow.com/questions/68434100/finding-max-value-from-list-and-assigning-it-to-explode-value-in-pie-chart-matpl) - 1 votes
+* [Error creating heatmap ValueError The truth value of an array with more than one element is ambiguous](https://stackoverflow.com/questions/68448191/error-creating-heatmap-valueerror-the-truth-value-of-an-array-with-more-than-o) - 1 votes
+* [How to clear color matplotlib in python](https://stackoverflow.com/questions/68453013/how-to-clear-color-matplotlib-in-python) - 1 votes
+* [Line plot color depending on a list value](https://stackoverflow.com/questions/68448380/line-plot-color-depending-on-a-list-value) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to add abiotic variables temperature water etc as lines to bar graphs in ggplot2 R](https://stackoverflow.com/questions/68434071/how-to-add-abiotic-variables-temperature-water-etc-as-lines-to-bar-graphs-in) - 2 votes
-* [R ggplot variable for text using two date variables in caption](https://stackoverflow.com/questions/68444631/r-ggplot-variable-for-text-using-two-date-variables-in-caption) - 1 votes
-* [Subsetting multiple dataframes and aggregating them for plotting in an efficient manner](https://stackoverflow.com/questions/68438074/subsetting-multiple-dataframes-and-aggregating-them-for-plotting-in-an-efficient) - 1 votes
-* [GGplot  R  Second Axis on Color  Group  Long Format](https://stackoverflow.com/questions/68436389/ggplot-r-second-axis-on-color-group-long-format) - 1 votes
+* [R Automatically recognizing the quottypequot of variable](https://stackoverflow.com/questions/68450631/r-automatically-recognizing-the-type-of-variable) - 1 votes
+* [In ggplot how to create a simple xaxisnumber line with values](https://stackoverflow.com/questions/68454941/in-ggplot-how-to-create-a-simple-x-axis-number-line-with-values) - 1 votes
+* [Grouped bar plot with multiple bar in R](https://stackoverflow.com/questions/68457101/grouped-bar-plot-with-multiple-bar-in-r) - 1 votes
+* [How to change interval colors for effect_plot jtools in R](https://stackoverflow.com/questions/68454864/how-to-change-interval-colors-for-effect-plot-jtools-in-r) - 1 votes
+* [How can I animate points on a spatial map with gganimate sf and ggplot2](https://stackoverflow.com/questions/68450668/how-can-i-animate-points-on-a-spatial-map-with-gganimate-sf-and-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
