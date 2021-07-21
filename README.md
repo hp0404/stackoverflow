@@ -1,37 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-20<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-21<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How do I locate which file has a keyerror in python](https://stackoverflow.com/questions/68458472/how-do-i-locate-which-file-has-a-keyerror-in-python) - 3 votes
-* [How to create pandas dataframe from nested json with dictionary](https://stackoverflow.com/questions/68454773/how-to-create-pandas-dataframe-from-nested-json-with-dictionary) - 3 votes
-* [sum duplicate row with condition using pandas](https://stackoverflow.com/questions/68459431/sum-duplicate-row-with-condition-using-pandas) - 2 votes
-* [Best way to backtest trading bots in pandas for large DataFrames without testing the strategy row by row](https://stackoverflow.com/questions/68455113/best-way-to-backtest-trading-bots-in-pandas-for-large-dataframes-without-testi) - 2 votes
-* [Pandas to_sql using wrong data type can it be changed](https://stackoverflow.com/questions/68455184/pandas-to-sql-using-wrong-data-type-can-it-be-changed) - 2 votes
+* [unable to get the index based on conditions](https://stackoverflow.com/questions/68466196/unable-to-get-the-index-based-on-conditions) - 3 votes
+* [How to shift and stack two columns of pandas Dataframe into one column](https://stackoverflow.com/questions/68466381/how-to-shift-and-stack-two-columns-of-pandas-dataframe-into-one-column) - 2 votes
+* [Filtering pandas df with conditions](https://stackoverflow.com/questions/68469099/filtering-pandas-df-with-conditions) - 2 votes
+* [How can I combine two Pandas DataFrames with different nonoverlapping MultiIndexes](https://stackoverflow.com/questions/68469750/how-can-i-combine-two-pandas-dataframes-with-different-non-overlapping-multiind) - 2 votes
+* [How to get a date_range and insert them as a 39list39 to a new column in dataframe](https://stackoverflow.com/questions/68466535/how-to-get-a-date-range-and-insert-them-as-a-list-to-a-new-column-in-dataframe) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Error creating heatmap ValueError The truth value of an array with more than one element is ambiguous](https://stackoverflow.com/questions/68448191/error-creating-heatmap-valueerror-the-truth-value-of-an-array-with-more-than-o) - 1 votes
-* [How to clear color matplotlib in python](https://stackoverflow.com/questions/68453013/how-to-clear-color-matplotlib-in-python) - 1 votes
-* [Line plot color depending on a list value](https://stackoverflow.com/questions/68448380/line-plot-color-depending-on-a-list-value) - 1 votes
+* [How to create grouped bar plots in a single figure from a wide dataframe](https://stackoverflow.com/questions/68469741/how-to-create-grouped-bar-plots-in-a-single-figure-from-a-wide-dataframe) - 1 votes
+* [Display multiple columns side by side in bar plot using matplotlib](https://stackoverflow.com/questions/68468210/display-multiple-columns-side-by-side-in-bar-plot-using-matplotlib) - 1 votes
+* [use seaborn dark theme and remove the gap between bars in a bar plot](https://stackoverflow.com/questions/68469485/use-seaborn-dark-theme-and-remove-the-gap-between-bars-in-a-bar-plot) - 1 votes
+* [Specify single bar label color in simple pandasmatplotlib barh plot with one column](https://stackoverflow.com/questions/68468985/specify-single-bar-label-color-in-simple-pandas-matplotlib-barh-plot-with-one) - 1 votes
+* [Plot error bars for each point in multiline graph](https://stackoverflow.com/questions/68470513/plot-error-bars-for-each-point-in-multi-line-graph) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [R Automatically recognizing the quottypequot of variable](https://stackoverflow.com/questions/68450631/r-automatically-recognizing-the-type-of-variable) - 1 votes
-* [In ggplot how to create a simple xaxisnumber line with values](https://stackoverflow.com/questions/68454941/in-ggplot-how-to-create-a-simple-x-axis-number-line-with-values) - 1 votes
-* [Grouped bar plot with multiple bar in R](https://stackoverflow.com/questions/68457101/grouped-bar-plot-with-multiple-bar-in-r) - 1 votes
-* [How to change interval colors for effect_plot jtools in R](https://stackoverflow.com/questions/68454864/how-to-change-interval-colors-for-effect-plot-jtools-in-r) - 1 votes
-* [How can I animate points on a spatial map with gganimate sf and ggplot2](https://stackoverflow.com/questions/68450668/how-can-i-animate-points-on-a-spatial-map-with-gganimate-sf-and-ggplot2) - 1 votes
+* [How to change legend title position when I have multiple scales created with ggnewscale package](https://stackoverflow.com/questions/68468243/how-to-change-legend-title-position-when-i-have-multiple-scales-created-with-ggn) - 3 votes
+* [How to add the legend for hline in ggplot2](https://stackoverflow.com/questions/68468334/how-to-add-the-legend-for-hline-in-ggplot2) - 2 votes
+* [In ggplot how to create line visualization with pointy edges like quottoothpicksquot](https://stackoverflow.com/questions/68474591/in-ggplot-how-to-create-line-visualization-with-pointy-edges-like-toothpicks) - 2 votes
+* [Recomendation for a type of plot in R](https://stackoverflow.com/questions/68474770/recomendation-for-a-type-of-plot-in-r) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
