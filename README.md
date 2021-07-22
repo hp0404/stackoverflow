@@ -1,38 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-21<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-22<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [unable to get the index based on conditions](https://stackoverflow.com/questions/68466196/unable-to-get-the-index-based-on-conditions) - 3 votes
-* [How to shift and stack two columns of pandas Dataframe into one column](https://stackoverflow.com/questions/68466381/how-to-shift-and-stack-two-columns-of-pandas-dataframe-into-one-column) - 2 votes
-* [Filtering pandas df with conditions](https://stackoverflow.com/questions/68469099/filtering-pandas-df-with-conditions) - 2 votes
-* [How can I combine two Pandas DataFrames with different nonoverlapping MultiIndexes](https://stackoverflow.com/questions/68469750/how-can-i-combine-two-pandas-dataframes-with-different-non-overlapping-multiind) - 2 votes
-* [How to get a date_range and insert them as a 39list39 to a new column in dataframe](https://stackoverflow.com/questions/68466535/how-to-get-a-date-range-and-insert-them-as-a-list-to-a-new-column-in-dataframe) - 2 votes
+* [Adding level 2 index as a sum of other indexes with a condition](https://stackoverflow.com/questions/68483090/adding-level-2-index-as-a-sum-of-other-indexes-with-a-condition) - 5 votes
+* [Faster way to look for a value in pandas DataFrame](https://stackoverflow.com/questions/68490691/faster-way-to-look-for-a-value-in-pandas-dataframe) - 4 votes
+* [Groupby two columns sum count and display output values in separate column pandas](https://stackoverflow.com/questions/68487888/groupby-two-columns-sum-count-and-display-output-values-in-separate-column-pa) - 4 votes
+* [Pandas count of sequence of positive and negative numbers](https://stackoverflow.com/questions/68480697/pandas-count-of-sequence-of-positive-and-negative-numbers) - 4 votes
+* [Math operations in multiindiex dataframe with loc](https://stackoverflow.com/questions/68481367/math-operations-in-multiindiex-dataframe-with-loc) - 4 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to create grouped bar plots in a single figure from a wide dataframe](https://stackoverflow.com/questions/68469741/how-to-create-grouped-bar-plots-in-a-single-figure-from-a-wide-dataframe) - 1 votes
-* [Display multiple columns side by side in bar plot using matplotlib](https://stackoverflow.com/questions/68468210/display-multiple-columns-side-by-side-in-bar-plot-using-matplotlib) - 1 votes
-* [use seaborn dark theme and remove the gap between bars in a bar plot](https://stackoverflow.com/questions/68469485/use-seaborn-dark-theme-and-remove-the-gap-between-bars-in-a-bar-plot) - 1 votes
-* [Specify single bar label color in simple pandasmatplotlib barh plot with one column](https://stackoverflow.com/questions/68468985/specify-single-bar-label-color-in-simple-pandas-matplotlib-barh-plot-with-one) - 1 votes
-* [Plot error bars for each point in multiline graph](https://stackoverflow.com/questions/68470513/plot-error-bars-for-each-point-in-multi-line-graph) - 1 votes
+* [How to generate separate violinplots for each class and group](https://stackoverflow.com/questions/68487986/how-to-generate-separate-violinplots-for-each-class-and-group) - 1 votes
+* [shade area between 2 line plots ValueError ordinal must be gt 1](https://stackoverflow.com/questions/68485797/shade-area-between-2-line-plots-valueerror-ordinal-must-be-1) - 1 votes
+* [quotevent loop is already runningquot while using the pdb debugger in an application running with matplotlib and PySide2](https://stackoverflow.com/questions/68480511/event-loop-is-already-running-while-using-the-pdb-debugger-in-an-application-r) - 1 votes
+* [How to get jupyterlab showing matplotlib ipympl  figure on the first run of a notebook](https://stackoverflow.com/questions/68480337/how-to-get-jupyterlab-showing-matplotlib-ipympl-figure-on-the-first-run-of-a) - 1 votes
+* [Plotting of empty 2D histogram gives unexpected point](https://stackoverflow.com/questions/68478815/plotting-of-empty-2d-histogram-gives-unexpected-point) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to change legend title position when I have multiple scales created with ggnewscale package](https://stackoverflow.com/questions/68468243/how-to-change-legend-title-position-when-i-have-multiple-scales-created-with-ggn) - 3 votes
-* [How to add the legend for hline in ggplot2](https://stackoverflow.com/questions/68468334/how-to-add-the-legend-for-hline-in-ggplot2) - 2 votes
-* [In ggplot how to create line visualization with pointy edges like quottoothpicksquot](https://stackoverflow.com/questions/68474591/in-ggplot-how-to-create-line-visualization-with-pointy-edges-like-toothpicks) - 2 votes
-* [Recomendation for a type of plot in R](https://stackoverflow.com/questions/68474770/recomendation-for-a-type-of-plot-in-r) - 1 votes
+* [How to blur part of a plot in ggplot](https://stackoverflow.com/questions/68482863/how-to-blur-part-of-a-plot-in-ggplot) - 5 votes
+* [How to change the order and labels of facets at the same time](https://stackoverflow.com/questions/68484123/how-to-change-the-order-and-labels-of-facets-at-the-same-time) - 2 votes
+* [Finding the peak density by plotting in R](https://stackoverflow.com/questions/68481957/finding-the-peak-density-by-plotting-in-r) - 2 votes
+* [Determining the Scale factor for the secondary Yaxis](https://stackoverflow.com/questions/68478331/determining-the-scale-factor-for-the-secondary-y-axis) - 1 votes
+* [add text for each cell of a 2D matrix plot in R plotrix andor ggplot2](https://stackoverflow.com/questions/68489332/add-text-for-each-cell-of-a-2d-matrix-plot-in-r-plotrix-and-or-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
