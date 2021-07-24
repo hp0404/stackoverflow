@@ -1,36 +1,33 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-23<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-24<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Filtering out a chemical dataset according to information in columns](https://stackoverflow.com/questions/68498508/filtering-out-a-chemical-dataset-according-to-information-in-columns) - 3 votes
-* [Keep value if repeated within a 24 hour time period](https://stackoverflow.com/questions/68499149/keep-value-if-repeated-within-a-24-hour-time-period) - 3 votes
-* [how to get max count of consecutive 1 in column pandas](https://stackoverflow.com/questions/68497283/how-to-get-max-count-of-consecutive-1-in-column-pandas) - 2 votes
-* [Stop processing loop in Pandas group by](https://stackoverflow.com/questions/68500239/stop-processing-loop-in-pandas-group-by) - 2 votes
-* [Pass dataframe cells as variables](https://stackoverflow.com/questions/68496342/pass-dataframe-cells-as-variables) - 2 votes
+* [Pandas If Else condition on multiple columns](https://stackoverflow.com/questions/68506555/pandas-if-else-condition-on-multiple-columns) - 2 votes
+* [Loop for cleaning dataset Python](https://stackoverflow.com/questions/68512679/loop-for-cleaning-dataset-python) - 2 votes
+* [Extract daily values from row and make new row with date](https://stackoverflow.com/questions/68507569/extract-daily-values-from-row-and-make-new-row-with-date) - 2 votes
+* [TypeError when convert list of dictionaries to a DataFrame](https://stackoverflow.com/questions/68507333/typeerror-when-convert-list-of-dictionaries-to-a-dataframe) - 2 votes
+* [Pandas extract first 4 digits from column headers](https://stackoverflow.com/questions/68507794/pandas-extract-first-4-digits-from-column-headers) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to remove whitespace on top and bottom of seaborn scatterplots](https://stackoverflow.com/questions/68498735/how-to-remove-whitespace-on-top-and-bottom-of-seaborn-scatterplots) - 3 votes
-* [Normalised units why do we use them in numerical integration](https://stackoverflow.com/questions/68500704/normalised-units-why-do-we-use-them-in-numerical-integration) - 1 votes
-* [How to get a semilog curve to fit properly to the data](https://stackoverflow.com/questions/68497687/how-to-get-a-semilog-curve-to-fit-properly-to-the-data) - 1 votes
-* [Matplotlib colormap background](https://stackoverflow.com/questions/68495602/matplotlib-colormap-background) - 1 votes
-* [How to use latex font only for title and not for axis number on matplotlib](https://stackoverflow.com/questions/68500765/how-to-use-latex-font-only-for-title-and-not-for-axis-number-on-matplotlib) - 1 votes
+
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How do I efficiently use different arguments for a custom function that relies on dplyr](https://stackoverflow.com/questions/68499728/how-do-i-efficiently-use-different-arguments-for-a-custom-function-that-relies-o) - 2 votes
-* [Draw Box around Funnel Plot in R](https://stackoverflow.com/questions/68495732/draw-box-around-funnel-plot-in-r) - 1 votes
+* [How to remove extra column in facet_wrap plot with ggplot2](https://stackoverflow.com/questions/68508929/how-to-remove-extra-column-in-facet-wrap-plot-with-ggplot2) - 2 votes
+* [How to sort bars according to 1 of 2 groups in a facet wrap](https://stackoverflow.com/questions/68508511/how-to-sort-bars-according-to-1-of-2-groups-in-a-facet-wrap) - 1 votes
+* [Is there any package required for HTML widgets error](https://stackoverflow.com/questions/68507266/is-there-any-package-required-for-html-widgets-error) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
