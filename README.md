@@ -1,35 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-25<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-26<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Delete pandas dataframe NaN rows selectively grouped by id column which contains duplicates](https://stackoverflow.com/questions/68514887/delete-pandas-dataframe-nan-rows-selectively-grouped-by-id-column-which-contain) - 3 votes
-* [pandas  Select Last Row of Column Based on Different Column Value](https://stackoverflow.com/questions/68515274/pandas-select-last-row-of-column-based-on-different-column-value) - 2 votes
-* [How do I delete columns that contain a zeros value in Pandas](https://stackoverflow.com/questions/68515734/how-do-i-delete-columns-that-contain-a-zeros-value-in-pandas) - 1 votes
-* [Remove duplicated rows irrespective of item order pandas](https://stackoverflow.com/questions/68517019/remove-duplicated-rows-irrespective-of-item-order-pandas) - 1 votes
-* [printing out the duplicate values in specific columns in CSV](https://stackoverflow.com/questions/68515226/printing-out-the-duplicate-values-in-specific-columns-in-csv) - 1 votes
+* [Create hierarchy column in pandas](https://stackoverflow.com/questions/68530492/create-hierarchy-column-in-pandas) - 5 votes
+* [How to convert vertical pandas table of 2 columns to horizontal table based on common ID value in python](https://stackoverflow.com/questions/68535933/how-to-convert-vertical-pandas-table-of-2-columns-to-horizontal-table-based-on-c) - 4 votes
+* [Python Pandas How to combine or merge two difrent size dataframes based on dates](https://stackoverflow.com/questions/68531077/python-pandas-how-to-combine-or-merge-two-difrent-size-dataframes-based-on-date) - 4 votes
+* [Create a column based concatenating name and ranking in pandas](https://stackoverflow.com/questions/68524446/create-a-column-based-concatenating-name-and-ranking-in-pandas) - 3 votes
+* [Unique combination of two columns with mixed values](https://stackoverflow.com/questions/68531779/unique-combination-of-two-columns-with-mixed-values) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Animate imshow in the loop](https://stackoverflow.com/questions/68519859/animate-imshow-in-the-loop) - 1 votes
-* [Seaborn plots generating different results on different computers and can39t control annotation font thickness](https://stackoverflow.com/questions/68517139/seaborn-plots-generating-different-results-on-different-computers-and-cant-con) - 1 votes
+* [Is there a way to visualize log axis values as normal numbers](https://stackoverflow.com/questions/68531209/is-there-a-way-to-visualize-log-axis-values-as-normal-numbers) - 1 votes
+* [Blank plot using matplotlib](https://stackoverflow.com/questions/68533950/blank-plot-using-matplotlib) - 1 votes
+* [Showing matplotlib plots from function in tkinter](https://stackoverflow.com/questions/68525554/showing-matplotlib-plots-from-function-in-tkinter) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [R ggplot and gt outputs  how can I combine these on an output image](https://stackoverflow.com/questions/68517917/r-ggplot-and-gt-outputs-how-can-i-combine-these-on-an-output-image) - 3 votes
-* [Missing bracket with ggpubr after faceting](https://stackoverflow.com/questions/68517175/missing-bracket-with-ggpubr-after-faceting) - 2 votes
-* [Merge two lists in order to get charaster list in r](https://stackoverflow.com/questions/68522137/merge-two-lists-in-order-to-get-charaster-list-in-r) - 1 votes
-* [Modifying text labels on top ggplot percentage barplot](https://stackoverflow.com/questions/68520062/modifying-text-labels-on-top-ggplot-percentage-barplot) - 1 votes
+* [Bar chart from two data frames in R](https://stackoverflow.com/questions/68528637/bar-chart-from-two-data-frames-in-r) - 2 votes
+* [Retrieve Z values from bivariate normal distribution ggplot2](https://stackoverflow.com/questions/68534225/retrieve-z-values-from-bivariate-normal-distribution-ggplot2) - 2 votes
+* [Add circular reference line to polar bar chart in ggplot2](https://stackoverflow.com/questions/68535993/add-circular-reference-line-to-polar-bar-chart-in-ggplot2) - 1 votes
+* [How do I reorder ggplot bar graph by year when I have multiple entries per year](https://stackoverflow.com/questions/68535814/how-do-i-reorder-ggplot-bar-graph-by-year-when-i-have-multiple-entries-per-year) - 1 votes
+* [R Annotate heatmap along xaxis time interval](https://stackoverflow.com/questions/68524623/r-annotate-heatmap-along-x-axis-time-interval) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
