@@ -1,37 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-26<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-27<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Create hierarchy column in pandas](https://stackoverflow.com/questions/68530492/create-hierarchy-column-in-pandas) - 5 votes
-* [How to convert vertical pandas table of 2 columns to horizontal table based on common ID value in python](https://stackoverflow.com/questions/68535933/how-to-convert-vertical-pandas-table-of-2-columns-to-horizontal-table-based-on-c) - 4 votes
-* [Python Pandas How to combine or merge two difrent size dataframes based on dates](https://stackoverflow.com/questions/68531077/python-pandas-how-to-combine-or-merge-two-difrent-size-dataframes-based-on-date) - 4 votes
-* [Create a column based concatenating name and ranking in pandas](https://stackoverflow.com/questions/68524446/create-a-column-based-concatenating-name-and-ranking-in-pandas) - 3 votes
-* [Unique combination of two columns with mixed values](https://stackoverflow.com/questions/68531779/unique-combination-of-two-columns-with-mixed-values) - 2 votes
+* [Adding multiindex to pandas dataframe which is the sum of same dataframe39s values](https://stackoverflow.com/questions/68541500/adding-multiindex-to-pandas-dataframe-which-is-the-sum-of-same-dataframes-value) - 4 votes
+* [Split column of pandas dataframe based on multiple characters](https://stackoverflow.com/questions/68551327/split-column-of-pandas-dataframe-based-on-multiple-characters) - 3 votes
+* [Python Regex Extract Width x Depth x Height](https://stackoverflow.com/questions/68547735/python-regex-extract-width-x-depth-x-height) - 3 votes
+* [Split  extract a Pandas Column of nested tuples into multiple columns](https://stackoverflow.com/questions/68544548/split-extract-a-pandas-column-of-nested-tuples-into-multiple-columns) - 2 votes
+* [How do I find the indices of the row and the column for the maximum value in a Pandas dataframe](https://stackoverflow.com/questions/68550354/how-do-i-find-the-indices-of-the-row-and-the-column-for-the-maximum-value-in-a-p) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Is there a way to visualize log axis values as normal numbers](https://stackoverflow.com/questions/68531209/is-there-a-way-to-visualize-log-axis-values-as-normal-numbers) - 1 votes
-* [Blank plot using matplotlib](https://stackoverflow.com/questions/68533950/blank-plot-using-matplotlib) - 1 votes
-* [Showing matplotlib plots from function in tkinter](https://stackoverflow.com/questions/68525554/showing-matplotlib-plots-from-function-in-tkinter) - 1 votes
+* [Combine different seaborn distribution plots](https://stackoverflow.com/questions/68543194/combine-different-seaborn-distribution-plots) - 1 votes
+* [Adding legends to scatter plot panda amp matplotlib](https://stackoverflow.com/questions/68551331/adding-legends-to-scatter-plot-panda-matplotlib) - 1 votes
+* [Read datasets one by one and put them next to the previous plot](https://stackoverflow.com/questions/68546443/read-datasets-one-by-one-and-put-them-next-to-the-previous-plot) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Bar chart from two data frames in R](https://stackoverflow.com/questions/68528637/bar-chart-from-two-data-frames-in-r) - 2 votes
-* [Retrieve Z values from bivariate normal distribution ggplot2](https://stackoverflow.com/questions/68534225/retrieve-z-values-from-bivariate-normal-distribution-ggplot2) - 2 votes
-* [Add circular reference line to polar bar chart in ggplot2](https://stackoverflow.com/questions/68535993/add-circular-reference-line-to-polar-bar-chart-in-ggplot2) - 1 votes
-* [How do I reorder ggplot bar graph by year when I have multiple entries per year](https://stackoverflow.com/questions/68535814/how-do-i-reorder-ggplot-bar-graph-by-year-when-i-have-multiple-entries-per-year) - 1 votes
-* [R Annotate heatmap along xaxis time interval](https://stackoverflow.com/questions/68524623/r-annotate-heatmap-along-x-axis-time-interval) - 1 votes
+* [Connect means with a crossbar in ggplot2](https://stackoverflow.com/questions/68550403/connect-means-with-a-crossbar-in-ggplot2) - 3 votes
+* [How to modify the linetype of the legend of hline in ggplot2](https://stackoverflow.com/questions/68540054/how-to-modify-the-linetype-of-the-legend-of-hline-in-ggplot2) - 2 votes
+* [Same yaxis scale with ggarrange](https://stackoverflow.com/questions/68540905/same-y-axis-scale-with-ggarrange) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
