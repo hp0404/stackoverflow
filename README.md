@@ -1,35 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-27<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-28<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Adding multiindex to pandas dataframe which is the sum of same dataframe39s values](https://stackoverflow.com/questions/68541500/adding-multiindex-to-pandas-dataframe-which-is-the-sum-of-same-dataframes-value) - 4 votes
-* [Split column of pandas dataframe based on multiple characters](https://stackoverflow.com/questions/68551327/split-column-of-pandas-dataframe-based-on-multiple-characters) - 3 votes
-* [Python Regex Extract Width x Depth x Height](https://stackoverflow.com/questions/68547735/python-regex-extract-width-x-depth-x-height) - 3 votes
-* [Split  extract a Pandas Column of nested tuples into multiple columns](https://stackoverflow.com/questions/68544548/split-extract-a-pandas-column-of-nested-tuples-into-multiple-columns) - 2 votes
-* [How do I find the indices of the row and the column for the maximum value in a Pandas dataframe](https://stackoverflow.com/questions/68550354/how-do-i-find-the-indices-of-the-row-and-the-column-for-the-maximum-value-in-a-p) - 2 votes
+* [How Best to Unpack a Pandas Dataframe of Tuples](https://stackoverflow.com/questions/68562889/how-best-to-unpack-a-pandas-dataframe-of-tuples) - 2 votes
+* [Replace pandas dataframe values within a particular column based on values within a different column](https://stackoverflow.com/questions/68561301/replace-pandas-dataframe-values-within-a-particular-column-based-on-values-withi) - 2 votes
+* [How to replace columns names in pandas but based on dictionary](https://stackoverflow.com/questions/68567253/how-to-replace-columns-names-in-pandas-but-based-on-dictionary) - 2 votes
+* [Multiindex pandas dataframe how to get list of specific indexes](https://stackoverflow.com/questions/68555151/multi-index-pandas-dataframe-how-to-get-list-of-specific-indexes) - 2 votes
+* [How to find intersection between two pandas series based on an error value](https://stackoverflow.com/questions/68559606/how-to-find-intersection-between-two-pandas-series-based-on-an-error-value) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Combine different seaborn distribution plots](https://stackoverflow.com/questions/68543194/combine-different-seaborn-distribution-plots) - 1 votes
-* [Adding legends to scatter plot panda amp matplotlib](https://stackoverflow.com/questions/68551331/adding-legends-to-scatter-plot-panda-matplotlib) - 1 votes
-* [Read datasets one by one and put them next to the previous plot](https://stackoverflow.com/questions/68546443/read-datasets-one-by-one-and-put-them-next-to-the-previous-plot) - 1 votes
+* [Seaborn regplot Point and line merged legend](https://stackoverflow.com/questions/68561535/seaborn-regplot-point-and-line-merged-legend) - 1 votes
+* [Matching normal text font with font in math mode in Matplotlib](https://stackoverflow.com/questions/68560490/matching-normal-text-font-with-font-in-math-mode-in-matplotlib) - 1 votes
+* [update Seaborn FacetGrid with a slider widget](https://stackoverflow.com/questions/68556123/update-seaborn-facetgrid-with-a-slider-widget) - 1 votes
+* [Plotting a two variable function with two parameters in python](https://stackoverflow.com/questions/68554501/plotting-a-two-variable-function-with-two-parameters-in-python) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Connect means with a crossbar in ggplot2](https://stackoverflow.com/questions/68550403/connect-means-with-a-crossbar-in-ggplot2) - 3 votes
-* [How to modify the linetype of the legend of hline in ggplot2](https://stackoverflow.com/questions/68540054/how-to-modify-the-linetype-of-the-legend-of-hline-in-ggplot2) - 2 votes
-* [Same yaxis scale with ggarrange](https://stackoverflow.com/questions/68540905/same-y-axis-scale-with-ggarrange) - 1 votes
+* [Dendrogram with labels on the right side](https://stackoverflow.com/questions/68557415/dendrogram-with-labels-on-the-right-side) - 2 votes
+* [Manual outlier plotting in grouped boxplot with jittered points](https://stackoverflow.com/questions/68560758/manual-outlier-plotting-in-grouped-boxplot-with-jittered-points) - 2 votes
+* [Customize xaxis labels on ggplot Only display dates that are on Mondays](https://stackoverflow.com/questions/68565345/customize-x-axis-labels-on-ggplot-only-display-dates-that-are-on-mondays) - 1 votes
+* [Get the proportions in ggplot2 R bar charts](https://stackoverflow.com/questions/68567105/get-the-proportions-in-ggplot2-r-bar-charts) - 1 votes
+* [Creating a grouped geom_bar that39s colored and xlocated by the same factor](https://stackoverflow.com/questions/68567043/creating-a-grouped-geom-bar-thats-colored-and-x-located-by-the-same-factor) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
