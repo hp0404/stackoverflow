@@ -1,38 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-28<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-29<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How Best to Unpack a Pandas Dataframe of Tuples](https://stackoverflow.com/questions/68562889/how-best-to-unpack-a-pandas-dataframe-of-tuples) - 2 votes
-* [Replace pandas dataframe values within a particular column based on values within a different column](https://stackoverflow.com/questions/68561301/replace-pandas-dataframe-values-within-a-particular-column-based-on-values-withi) - 2 votes
-* [How to replace columns names in pandas but based on dictionary](https://stackoverflow.com/questions/68567253/how-to-replace-columns-names-in-pandas-but-based-on-dictionary) - 2 votes
-* [Multiindex pandas dataframe how to get list of specific indexes](https://stackoverflow.com/questions/68555151/multi-index-pandas-dataframe-how-to-get-list-of-specific-indexes) - 2 votes
-* [How to find intersection between two pandas series based on an error value](https://stackoverflow.com/questions/68559606/how-to-find-intersection-between-two-pandas-series-based-on-an-error-value) - 2 votes
+* [How to map two dataframe with output of overlapping items in new columns](https://stackoverflow.com/questions/68578226/how-to-map-two-dataframe-with-output-of-overlapping-items-in-new-columns) - 4 votes
+* [Pandas split columns on first  sign on 2nd letter](https://stackoverflow.com/questions/68570458/pandas-split-columns-on-first-sign-on-2nd-letter) - 2 votes
+* [Pandas to remove value if it exists in any other column in the same row](https://stackoverflow.com/questions/68581423/pandas-to-remove-value-if-it-exists-in-any-other-column-in-the-same-row) - 2 votes
+* [Pandas DataFrame doesn39t sort values correctly](https://stackoverflow.com/questions/68580306/pandas-dataframe-doesnt-sort-values-correctly) - 1 votes
+* [Why does my code that can be run directly fail to run after adding timeit and prompt ValueError](https://stackoverflow.com/questions/68569290/why-does-my-code-that-can-be-run-directly-fail-to-run-after-adding-timeit-and-p) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Seaborn regplot Point and line merged legend](https://stackoverflow.com/questions/68561535/seaborn-regplot-point-and-line-merged-legend) - 1 votes
-* [Matching normal text font with font in math mode in Matplotlib](https://stackoverflow.com/questions/68560490/matching-normal-text-font-with-font-in-math-mode-in-matplotlib) - 1 votes
-* [update Seaborn FacetGrid with a slider widget](https://stackoverflow.com/questions/68556123/update-seaborn-facetgrid-with-a-slider-widget) - 1 votes
-* [Plotting a two variable function with two parameters in python](https://stackoverflow.com/questions/68554501/plotting-a-two-variable-function-with-two-parameters-in-python) - 1 votes
+* [How can i set the y axis limit in matplotlib](https://stackoverflow.com/questions/68571457/how-can-i-set-the-y-axis-limit-in-matplotlib) - 2 votes
+* [How to find y coordinate on line B with respective x coordinate of line A](https://stackoverflow.com/questions/68580651/how-to-find-y-coordinate-on-line-b-with-respective-x-coordinate-of-line-a) - 1 votes
+* [How to change scatter XY plot color dependent from string Z value](https://stackoverflow.com/questions/68576758/how-to-change-scatter-xy-plot-color-dependent-from-string-z-value) - 1 votes
+* [How to use matplotlib fill_between for default ylim](https://stackoverflow.com/questions/68574827/how-to-use-matplotlib-fill-between-for-default-ylim) - 1 votes
+* [How to make multiple plots in Seaborn](https://stackoverflow.com/questions/68578950/how-to-make-multiple-plots-in-seaborn) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Dendrogram with labels on the right side](https://stackoverflow.com/questions/68557415/dendrogram-with-labels-on-the-right-side) - 2 votes
-* [Manual outlier plotting in grouped boxplot with jittered points](https://stackoverflow.com/questions/68560758/manual-outlier-plotting-in-grouped-boxplot-with-jittered-points) - 2 votes
-* [Customize xaxis labels on ggplot Only display dates that are on Mondays](https://stackoverflow.com/questions/68565345/customize-x-axis-labels-on-ggplot-only-display-dates-that-are-on-mondays) - 1 votes
-* [Get the proportions in ggplot2 R bar charts](https://stackoverflow.com/questions/68567105/get-the-proportions-in-ggplot2-r-bar-charts) - 1 votes
-* [Creating a grouped geom_bar that39s colored and xlocated by the same factor](https://stackoverflow.com/questions/68567043/creating-a-grouped-geom-bar-thats-colored-and-x-located-by-the-same-factor) - 1 votes
+* [How to adapt my own geom to the scale_x_log10](https://stackoverflow.com/questions/68576651/how-to-adapt-my-own-geom-to-the-scale-x-log10) - 2 votes
+* [ggplot keep circle looking round when aspect ratio  1](https://stackoverflow.com/questions/68572599/ggplot-keep-circle-looking-round-when-aspect-ratio-1) - 1 votes
+* [How to remove E notation from label cut intervals and replace with shorthand labels](https://stackoverflow.com/questions/68581214/how-to-remove-e-notation-from-label-cut-intervals-and-replace-with-shorthand-lab) - 1 votes
+* [plot arrival and departure times that cross midnight](https://stackoverflow.com/questions/68578242/plot-arrival-and-departure-times-that-cross-midnight) - 1 votes
+* [adding significance brackets to ridgeline plot](https://stackoverflow.com/questions/68576284/adding-significance-brackets-to-ridgeline-plot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
