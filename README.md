@@ -1,39 +1,34 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-30<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-31<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Sort list into list based on common string while keeping entire list](https://stackoverflow.com/questions/68592503/sort-list-into-list-based-on-common-string-while-keeping-entire-list) - 3 votes
-* [Applying function to pandas column based on other columns](https://stackoverflow.com/questions/68590102/applying-function-to-pandas-column-based-on-other-columns) - 3 votes
-* [How to fill all values based on column value](https://stackoverflow.com/questions/68588865/how-to-fill-all-values-based-on-column-value) - 2 votes
-* [Python Regex including Comma and Dot](https://stackoverflow.com/questions/68590366/python-regex-including-comma-and-dot) - 2 votes
-* [Automate file reading in python](https://stackoverflow.com/questions/68594858/automate-file-reading-in-python) - 2 votes
+* [How to find the frquency of items in a given dataframe considering specific subgroups](https://stackoverflow.com/questions/68599615/how-to-find-the-frquency-of-items-in-a-given-dataframe-considering-specific-subg) - 3 votes
+* [Ranking by median in python](https://stackoverflow.com/questions/68601097/ranking-by-median-in-python) - 2 votes
+* [Select a range in Pandas based on the same value in 2 columns](https://stackoverflow.com/questions/68605042/select-a-range-in-pandas-based-on-the-same-value-in-2-columns) - 1 votes
+* [Unable to create a pandas dataframe from a json list due to presence of a colon in one of the values](https://stackoverflow.com/questions/68602089/unable-to-create-a-pandas-dataframe-from-a-json-list-due-to-presence-of-a-colon) - 1 votes
+* [Pandas formats the file in an unusual way and removes some metrics](https://stackoverflow.com/questions/68600518/pandas-formats-the-file-in-an-unusual-way-and-removes-some-metrics) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Plotly scatter Change Interval length](https://stackoverflow.com/questions/68586214/plotly-scatter-change-interval-length) - 2 votes
-* [How to increase the height of matplotlib table plot](https://stackoverflow.com/questions/68596165/how-to-increase-the-height-of-matplotlib-table-plot) - 1 votes
-* [python how would i sort matplotlib to plot months in sequence and not the order they are imported from a dat file newbie alert](https://stackoverflow.com/questions/68595383/python-how-would-i-sort-matplotlib-to-plot-months-in-sequence-and-not-the-order) - 1 votes
-* [How to plot a graph in a labelframe using tkinter and matplotlib](https://stackoverflow.com/questions/68594841/how-to-plot-a-graph-in-a-labelframe-using-tkinter-and-matplotlib) - 1 votes
-* [Separate panels in mplfinance](https://stackoverflow.com/questions/68584962/separate-panels-in-mplfinance) - 1 votes
+* [how to label the minimum value on a regular line plot](https://stackoverflow.com/questions/68599685/how-to-label-the-minimum-value-on-a-regular-line-plot) - 1 votes
+* [Square subplots of same size without equal axis ratio or shared axis](https://stackoverflow.com/questions/68605705/square-subplots-of-same-size-without-equal-axis-ratio-or-shared-axis) - 1 votes
+* [How to invert the order in Matplotlib diverging plot](https://stackoverflow.com/questions/68600014/how-to-invert-the-order-in-matplotlib-diverging-plot) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Confidence interval disappears in ggplot2 using coord_cartesian](https://stackoverflow.com/questions/68592935/confidence-interval-disappears-in-ggplot2-using-coord-cartesian) - 4 votes
-* [ggplot facet piechart missing values](https://stackoverflow.com/questions/68589119/ggplot-facet-piechart-missing-values) - 2 votes
-* [Change order of plotting in Likert Scale](https://stackoverflow.com/questions/68588878/change-order-of-plotting-in-likert-scale) - 1 votes
-* [How to make bar graphs with zoom chains in R ggplot](https://stackoverflow.com/questions/68594712/how-to-make-bar-graphs-with-zoom-chains-in-r-ggplot) - 1 votes
-* [Combine scatter plot with text using ggplot2](https://stackoverflow.com/questions/68591856/combine-scatter-plot-with-text-using-ggplot2) - 1 votes
+* [Connected dotplot with ggplot Connecting with geom_line](https://stackoverflow.com/questions/68605850/connected-dotplot-with-ggplot-connecting-with-geom-line) - 2 votes
+* [In ggplot how to draw a circledisk with a line that divides its area according to a given ratio and colored points inside](https://stackoverflow.com/questions/68605609/in-ggplot-how-to-draw-a-circle-disk-with-a-line-that-divides-its-area-according) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
