@@ -1,34 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-07-31<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-01<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to find the frquency of items in a given dataframe considering specific subgroups](https://stackoverflow.com/questions/68599615/how-to-find-the-frquency-of-items-in-a-given-dataframe-considering-specific-subg) - 3 votes
-* [Ranking by median in python](https://stackoverflow.com/questions/68601097/ranking-by-median-in-python) - 2 votes
-* [Select a range in Pandas based on the same value in 2 columns](https://stackoverflow.com/questions/68605042/select-a-range-in-pandas-based-on-the-same-value-in-2-columns) - 1 votes
-* [Unable to create a pandas dataframe from a json list due to presence of a colon in one of the values](https://stackoverflow.com/questions/68602089/unable-to-create-a-pandas-dataframe-from-a-json-list-due-to-presence-of-a-colon) - 1 votes
-* [Pandas formats the file in an unusual way and removes some metrics](https://stackoverflow.com/questions/68600518/pandas-formats-the-file-in-an-unusual-way-and-removes-some-metrics) - 1 votes
+* [how to sort an array function](https://stackoverflow.com/questions/68606917/how-to-sort-an-array-function) - 3 votes
+* [How do I repeat a DatetimeIndex in pandas](https://stackoverflow.com/questions/68607120/how-do-i-repeat-a-datetimeindex-in-pandas) - 2 votes
+* [Pandas DataFrame Dividing a column by itself taking first element and divide all the rows and so on](https://stackoverflow.com/questions/68610006/pandas-dataframe-dividing-a-column-by-itself-taking-first-element-and-divide-all) - 2 votes
+* [Extracting the required information for a Script tag of scraped webpage using BeautifulSoup](https://stackoverflow.com/questions/68610702/extracting-the-required-information-for-a-script-tag-of-scraped-webpage-using-be) - 2 votes
+* [create a summary table with count values](https://stackoverflow.com/questions/68611701/create-a-summary-table-with-count-values) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [how to label the minimum value on a regular line plot](https://stackoverflow.com/questions/68599685/how-to-label-the-minimum-value-on-a-regular-line-plot) - 1 votes
-* [Square subplots of same size without equal axis ratio or shared axis](https://stackoverflow.com/questions/68605705/square-subplots-of-same-size-without-equal-axis-ratio-or-shared-axis) - 1 votes
-* [How to invert the order in Matplotlib diverging plot](https://stackoverflow.com/questions/68600014/how-to-invert-the-order-in-matplotlib-diverging-plot) - 1 votes
+* [How do you pcolormesh with a polar plot](https://stackoverflow.com/questions/68607328/how-do-you-pcolormesh-with-a-polar-plot) - 2 votes
+* [Creating and Annotating a Grouped Barplot in Python](https://stackoverflow.com/questions/68608526/creating-and-annotating-a-grouped-barplot-in-python) - 1 votes
+* [Scatter plot in Tkinter using Matplotlib No plot is showing](https://stackoverflow.com/questions/68613660/scatter-plot-in-tkinter-using-matplotlib-no-plot-is-showing) - 1 votes
+* [How do I get rid of this error ValueError x and y must have same first dimension but have shapes 1 and 8000](https://stackoverflow.com/questions/68612434/how-do-i-get-rid-of-this-error-valueerror-x-and-y-must-have-same-first-dimensi) - 1 votes
+* [How to pickle a lot of subplots](https://stackoverflow.com/questions/68612308/how-to-pickle-a-lot-of-subplots) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Connected dotplot with ggplot Connecting with geom_line](https://stackoverflow.com/questions/68605850/connected-dotplot-with-ggplot-connecting-with-geom-line) - 2 votes
-* [In ggplot how to draw a circledisk with a line that divides its area according to a given ratio and colored points inside](https://stackoverflow.com/questions/68605609/in-ggplot-how-to-draw-a-circle-disk-with-a-line-that-divides-its-area-according) - 1 votes
+* [mutliple variables in a 39ggridges39 plot](https://stackoverflow.com/questions/68611630/mutliple-variables-in-a-ggridges-plot) - 2 votes
+* [ggplot geom_dotplot center the dots over multiple lines](https://stackoverflow.com/questions/68608901/ggplot-geom-dotplot-center-the-dots-over-multiple-lines) - 1 votes
+* [changing the legends in ggplot2 to have groups of similar labels](https://stackoverflow.com/questions/68606964/changing-the-legends-in-ggplot2-to-have-groups-of-similar-labels) - 1 votes
+* [draw_image distorts png in plot and output](https://stackoverflow.com/questions/68610022/draw-image-distorts-png-in-plot-and-output) - 1 votes
+* [Trying to render ggmap plot in R Shiny dynamically but receiving only blank image](https://stackoverflow.com/questions/68609998/trying-to-render-ggmap-plot-in-r-shiny-dynamically-but-receiving-only-blank-imag) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
