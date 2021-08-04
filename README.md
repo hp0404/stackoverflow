@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-03<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-04<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How can I create a new column containing 0 and 1 values via groupbyquotcol1quot](https://stackoverflow.com/questions/68637063/how-can-i-create-a-new-column-containing-0-and-1-values-via-groupbycol1) - 2 votes
-* [Complex link between 2 dataframes](https://stackoverflow.com/questions/68637628/complex-link-between-2-dataframes) - 2 votes
-* [How to collapse row and columns in pandas](https://stackoverflow.com/questions/68636061/how-to-collapse-row-and-columns-in-pandas) - 2 votes
-* [Using Numpy to filter two dataframes](https://stackoverflow.com/questions/68641244/using-numpy-to-filter-two-dataframes) - 2 votes
-* [How to include outside functions to the class in python with modified argument](https://stackoverflow.com/questions/68636604/how-to-include-outside-functions-to-the-class-in-python-with-modified-argument) - 2 votes
+* [Cleanup phone numbers in dataframe column using a regex to fit a standard format](https://stackoverflow.com/questions/68646140/cleanup-phone-numbers-in-dataframe-column-using-a-regex-to-fit-a-standard-format) - 2 votes
+* [Divide cell with delimiter given empty cell](https://stackoverflow.com/questions/68650140/divide-cell-with-delimiter-given-empty-cell) - 2 votes
+* [Pandas replace invalid datetime values with values from other columns](https://stackoverflow.com/questions/68654783/pandas-replace-invalid-datetime-values-with-values-from-other-columns) - 2 votes
+* [creating new columns but get error in pandas](https://stackoverflow.com/questions/68657508/creating-new-columns-but-get-error-in-pandas) - 2 votes
+* [using Dask to load many CSV files with different columns](https://stackoverflow.com/questions/68647921/using-dask-to-load-many-csv-files-with-different-columns) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to annotate only one category of a stacked bar plot](https://stackoverflow.com/questions/68639002/how-to-annotate-only-one-category-of-a-stacked-bar-plot) - 2 votes
-* [How to Increase subplot text size and add custom bar plot annotations](https://stackoverflow.com/questions/68639538/how-to-increase-subplot-text-size-and-add-custom-bar-plot-annotations) - 2 votes
-* [Seabornheatmap doesn39t adjust colors based on specific value](https://stackoverflow.com/questions/68632474/seaborn-heatmap-doesnt-adjust-colors-based-on-specific-value) - 2 votes
-* [Why does starting a new thread before mainloop cause mainloop to not run](https://stackoverflow.com/questions/68629704/why-does-starting-a-new-thread-before-mainloop-cause-mainloop-to-not-run) - 1 votes
-* [Slider in python](https://stackoverflow.com/questions/68640841/slider-in-python) - 1 votes
+* [How to put text on polar chart using matplotlib](https://stackoverflow.com/questions/68650439/how-to-put-text-on-polar-chart-using-matplotlib) - 1 votes
+* [plot specific values on a plot](https://stackoverflow.com/questions/68650618/plot-specific-values-on-a-plot) - 1 votes
+* [How to show the number of each label in scatter legend](https://stackoverflow.com/questions/68650263/how-to-show-the-number-of-each-label-in-scatter-legend) - 1 votes
+* [Pandas and Matpotlib  how to create a plot for dataframe with multiindex](https://stackoverflow.com/questions/68647288/pandas-and-matpotlib-how-to-create-a-plot-for-dataframe-with-multiindex) - 1 votes
+* [Plotting Problem with DataArray Monthly Data](https://stackoverflow.com/questions/68655372/plotting-problem-with-dataarray-monthly-data) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Draw a rectangle around bars and categories in R ggplot2](https://stackoverflow.com/questions/68640187/draw-a-rectangle-around-bars-and-categories-in-r-ggplot2) - 3 votes
-* [Increase font size of inplot mean for ggbetweenstats from ggstatsplot](https://stackoverflow.com/questions/68638594/increase-font-size-of-inplot-mean-for-ggbetweenstats-from-ggstatsplot) - 2 votes
-* [Dynamically set pretty tick breaks and labels to include limits of data](https://stackoverflow.com/questions/68641229/dynamically-set-pretty-tick-breaks-and-labels-to-include-limits-of-data) - 1 votes
-* [set xaxis display range](https://stackoverflow.com/questions/68635376/set-x-axis-display-range) - 1 votes
-* [How to manage date format for graphical purpose](https://stackoverflow.com/questions/68634875/how-to-manage-date-format-for-graphical-purpose) - 1 votes
+* [Add continous  discrete alpha scale with custom color](https://stackoverflow.com/questions/68654554/add-continous-discrete-alpha-scale-with-custom-color) - 2 votes
+* [Adding group notations outside of the plots](https://stackoverflow.com/questions/68647832/adding-group-notations-outside-of-the-plots) - 1 votes
+* [Changing colour of striptext using facet_wrap of 2 variables](https://stackoverflow.com/questions/68656343/changing-colour-of-strip-text-using-facet-wrap-of-2-variables) - 1 votes
+* [Why ggplot2 duplicate fill legend](https://stackoverflow.com/questions/68653896/why-ggplot2-duplicate-fill-legend) - 1 votes
+* [Several Boxplots per Category Whiskers amp Boxplot do not align](https://stackoverflow.com/questions/68652684/several-boxplots-per-category-whiskers-boxplot-do-not-align) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
