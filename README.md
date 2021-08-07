@@ -1,39 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-06<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-07<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas vectorization with two dataframe](https://stackoverflow.com/questions/68675755/pandas-vectorization-with-two-dataframe) - 3 votes
-* [Grouping Pandas df based on a specified START_DATE amp END_DATE from a separate df](https://stackoverflow.com/questions/68682201/grouping-pandas-df-based-on-a-specified-start-date-end-date-from-a-separate-df) - 2 votes
-* [how to get rid of rows in dataframe whose string values begin with a certain word](https://stackoverflow.com/questions/68680934/how-to-get-rid-of-rows-in-dataframe-whose-string-values-begin-with-a-certain-wor) - 2 votes
-* [Pandas groupby select last row or second to last row based on value 0 or 1 in another column](https://stackoverflow.com/questions/68681735/pandas-groupby-select-last-row-or-second-to-last-row-based-on-value-0-or-1-in) - 2 votes
-* [Efficiently filter DataFrame by looking for NumPy array match in row](https://stackoverflow.com/questions/68678727/efficiently-filter-dataframe-by-looking-for-numpy-array-match-in-row) - 2 votes
+* [How to fill a nan value in a column with value of column which has same values for other columns](https://stackoverflow.com/questions/68690071/how-to-fill-a-nan-value-in-a-column-with-value-of-column-which-has-same-values-f) - 3 votes
+* [Python Regex How to select lines between two patterns](https://stackoverflow.com/questions/68694759/python-regex-how-to-select-lines-between-two-patterns) - 2 votes
+* [Why background_gradient is not working for two different colors](https://stackoverflow.com/questions/68688528/why-background-gradient-is-not-working-for-two-different-colors) - 2 votes
+* [Sort by one column and count values of another column of a dataframe based on a column containing list objects in Pandas](https://stackoverflow.com/questions/68691265/sort-by-one-column-and-count-values-of-another-column-of-a-dataframe-based-on-a) - 2 votes
+* [Create fromto pairs from a pandas dataframe](https://stackoverflow.com/questions/68694147/create-from-to-pairs-from-a-pandas-dataframe) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Matplotlib step plot rotation](https://stackoverflow.com/questions/68682606/matplotlib-step-plot-rotation) - 4 votes
-* [marker style of a scatterplot matplotlib](https://stackoverflow.com/questions/68675268/marker-style-of-a-scatterplot-matplotlib) - 3 votes
-* [Correctly Plot 3D Vector field in Python](https://stackoverflow.com/questions/68682246/correctly-plot-3d-vector-field-in-python) - 3 votes
-* [How to add  to annotations using the fmt option of bar_label](https://stackoverflow.com/questions/68683160/how-to-add-to-annotations-using-the-fmt-option-of-bar-label) - 1 votes
-* [Multiple plotting from multiindex dataframe](https://stackoverflow.com/questions/68677061/multiple-plotting-from-multi-index-dataframe) - 1 votes
+* [Annotate each observation in matplotlib plot](https://stackoverflow.com/questions/68693422/annotate-each-observation-in-matplotlib-plot) - 1 votes
+* [How to plot a windrose when the wind direction is a categorical value](https://stackoverflow.com/questions/68692408/how-to-plot-a-windrose-when-the-wind-direction-is-a-categorical-value) - 1 votes
+* [PYTHON Plotting 3D Vector Field](https://stackoverflow.com/questions/68690442/python-plotting-3d-vector-field) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [geom_bar two datasets together in R](https://stackoverflow.com/questions/68674757/geom-bar-two-datasets-together-in-r) - 1 votes
-* [How to fix missing objectvariable in ggplot](https://stackoverflow.com/questions/68681519/how-to-fix-missing-object-variable-in-ggplot) - 1 votes
-* [ggplot bar chart geom_bar to use start and end point from df](https://stackoverflow.com/questions/68680022/ggplot-bar-chart-geom-bar-to-use-start-and-end-point-from-df) - 1 votes
-* [How can I format the axis tick labels for each ggplot panel separately](https://stackoverflow.com/questions/68687083/how-can-i-format-the-axis-tick-labels-for-each-ggplot-panel-separately) - 1 votes
-* [How to add months on top of daily data on the xaxis in ggplot2](https://stackoverflow.com/questions/68684064/how-to-add-months-on-top-of-daily-data-on-the-x-axis-in-ggplot2) - 1 votes
+* [ggplot2 Map geom size to group means within data](https://stackoverflow.com/questions/68695393/ggplot2-map-geom-size-to-group-means-within-data) - 2 votes
+* [adding arrows to show the direction in a pair plot connected scatter plot  phase portrait](https://stackoverflow.com/questions/68694725/adding-arrows-to-show-the-direction-in-a-pair-plot-connected-scatter-plot-pha) - 1 votes
+* [stacked bar chart without using fill in geom_bar](https://stackoverflow.com/questions/68694723/stacked-bar-chart-without-using-fill-in-geom-bar) - 1 votes
+* [how to plot segmented barchart for diferrent groups vs binary data](https://stackoverflow.com/questions/68695779/how-to-plot-segmented-barchart-for-diferrent-groups-vs-binary-data) - 1 votes
+* [Indexing inside of lm R](https://stackoverflow.com/questions/68695136/indexing-inside-of-lm-r) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
