@@ -1,37 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-09<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-10<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to create groups in dataframes based on the values of multiple separaters in the data](https://stackoverflow.com/questions/68710502/how-to-create-groups-in-dataframes-based-on-the-values-of-multiple-separaters-in) - 2 votes
-* [Python pandas remove part from string after substring](https://stackoverflow.com/questions/68717925/python-pandas-remove-part-from-string-after-substring) - 2 votes
-* [Is it possible to turn quartely data to monthly](https://stackoverflow.com/questions/68716557/is-it-possible-to-turn-quartely-data-to-monthly) - 2 votes
-* [Column name of maximum of each row in a dataframe](https://stackoverflow.com/questions/68713249/column-name-of-maximum-of-each-row-in-a-dataframe) - 2 votes
-* [Pandas Cumulative sum within group with two conditions](https://stackoverflow.com/questions/68708910/pandas-cumulative-sum-within-group-with-two-conditions) - 2 votes
+* [pandas join dataframes based on the TOP 1 result of an ordered list of matching records](https://stackoverflow.com/questions/68731462/pandas-join-dataframes-based-on-the-top-1-result-of-an-ordered-list-of-matching) - 2 votes
+* [pandas  identify rows closest to nullsentinel value](https://stackoverflow.com/questions/68732935/pandas-identify-rows-closest-to-null-sentinel-value) - 2 votes
+* [Getting Country Name from coordinates takes too Long](https://stackoverflow.com/questions/68722869/getting-country-name-from-coordinates-takes-too-long) - 2 votes
+* [Adding new row to a column in pandas pivot table](https://stackoverflow.com/questions/68720711/adding-new-row-to-a-column-in-pandas-pivot-table) - 2 votes
+* [updating plotly figure every several seconds in jupyter](https://stackoverflow.com/questions/68731086/updating-plotly-figure-every-several-seconds-in-jupyter) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Baffled by numpyunique](https://stackoverflow.com/questions/68707043/baffled-by-numpy-unique) - 2 votes
-* [Dual xaxis in python same data different scale](https://stackoverflow.com/questions/68715304/dual-x-axis-in-python-same-data-different-scale) - 2 votes
-* [Why my code just writes the last variable](https://stackoverflow.com/questions/68714824/why-my-code-just-writes-the-last-variable) - 2 votes
-* [Matplotlib  Mplfinance  how to change colour of lines and bars](https://stackoverflow.com/questions/68714154/matplotlib-mplfinance-how-to-change-colour-of-lines-and-bars) - 1 votes
-* [Show offset in matplotlib even if it is 1e0](https://stackoverflow.com/questions/68716720/show-offset-in-matplotlib-even-if-it-is-1e0) - 1 votes
+* [How to specify legend based on different groups with Matplotlib or Seaborn](https://stackoverflow.com/questions/68732362/how-to-specify-legend-based-on-different-groups-with-matplotlib-or-seaborn) - 1 votes
+* [Creating Subplots with a Function and Loop](https://stackoverflow.com/questions/68720116/creating-subplots-with-a-function-and-loop) - 1 votes
+* [Plot a list of tuples consisting of a datetime object and a numeric value](https://stackoverflow.com/questions/68729501/plot-a-list-of-tuples-consisting-of-a-datetime-object-and-a-numeric-value) - 1 votes
+* [Grid lines not aligned with cells when defining minor ticks in Matplotlib Heatmap](https://stackoverflow.com/questions/68720019/grid-lines-not-aligned-with-cells-when-defining-minor-ticks-in-matplotlib-heatma) - 1 votes
+* [Python Matplotlib custom zoom function isn39t working](https://stackoverflow.com/questions/68733904/python-matplotlib-custom-zoom-function-isnt-working) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Lollipop plot with mirror across two axis in R](https://stackoverflow.com/questions/68713019/lollipop-plot-with-mirror-across-two-axis-in-r) - 1 votes
-* [How to manually change the fill color of barplot when stat39count39 in ggplot2](https://stackoverflow.com/questions/68706365/how-to-manually-change-the-fill-color-of-barplot-when-stat-count-in-ggplot2) - 1 votes
-* [How to obtain information about contours from ggplot2geom_density_2d_filled](https://stackoverflow.com/questions/68714269/how-to-obtain-information-about-contours-from-ggplot2geom-density-2d-filled) - 1 votes
+* [Raincloud plot for time series data across runs](https://stackoverflow.com/questions/68723331/raincloud-plot-for-time-series-data-across-runs) - 1 votes
+* [ggplot legend for second axis](https://stackoverflow.com/questions/68723148/ggplot-legend-for-second-axis) - 1 votes
+* [scatterplot with two groups side by side above same xaxis label](https://stackoverflow.com/questions/68731140/scatterplot-with-two-groups-side-by-side-above-same-x-axis-label) - 1 votes
+* [Setting minimum and maximum of scale_size for geom_tex and geom_point independently](https://stackoverflow.com/questions/68727321/setting-minimum-and-maximum-of-scale-size-for-geom-tex-and-geom-point-independen) - 1 votes
+* [ggplot2 automatic y limits with usersupplied xaxis limits](https://stackoverflow.com/questions/68726291/ggplot2-automatic-y-limits-with-user-supplied-x-axis-limits) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
