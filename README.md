@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-11<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-12<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to create a yearly bar plot grouped by months](https://stackoverflow.com/questions/68738800/how-to-create-a-yearly-bar-plot-grouped-by-months) - 2 votes
-* [Why do the bar chart ticks merge into one when plotting dataframe but work when plotting row](https://stackoverflow.com/questions/68738348/why-do-the-bar-chart-ticks-merge-into-one-when-plotting-dataframe-but-work-when) - 2 votes
-* [Is there a better approach for getting nested JSON into a Pandas datafame](https://stackoverflow.com/questions/68744032/is-there-a-better-approach-for-getting-nested-json-into-a-pandas-datafame) - 2 votes
-* [Pandas remap or replace based on dictionary but dictionary value pairs are in a list](https://stackoverflow.com/questions/68735355/pandas-remap-or-replace-based-on-dictionary-but-dictionary-value-pairs-are-in-a) - 1 votes
-* [Get data which falls between at least one of multiple date ranges](https://stackoverflow.com/questions/68745006/get-data-which-falls-between-at-least-one-of-multiple-date-ranges) - 1 votes
+* [How to replace part of string with patternregex throw rows in dataframe](https://stackoverflow.com/questions/68755838/how-to-replace-part-of-string-with-patternregex-throw-rows-in-dataframe) - 3 votes
+* [Line truncates when exporting pandas dataframe to csv](https://stackoverflow.com/questions/68756012/line-truncates-when-exporting-pandas-dataframe-to-csv) - 2 votes
+* [Seaborn PairPlot to plot matrix error of each individual entry](https://stackoverflow.com/questions/68752880/seaborn-pairplot-to-plot-matrix-error-of-each-individual-entry) - 2 votes
+* [Why do I have different encoders generating the same results](https://stackoverflow.com/questions/68763889/why-do-i-have-different-encoders-generating-the-same-results) - 2 votes
+* [Merging multiple columns with different column lengths](https://stackoverflow.com/questions/68750186/merging-multiple-columns-with-different-column-lengths) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to create a yearly bar plot grouped by months](https://stackoverflow.com/questions/68738800/how-to-create-a-yearly-bar-plot-grouped-by-months) - 2 votes
-* [Why do the bar chart ticks merge into one when plotting dataframe but work when plotting row](https://stackoverflow.com/questions/68738348/why-do-the-bar-chart-ticks-merge-into-one-when-plotting-dataframe-but-work-when) - 2 votes
-* [How to create a grouped bar plot from lists](https://stackoverflow.com/questions/68743418/how-to-create-a-grouped-bar-plot-from-lists) - 1 votes
-* [How to iteratively remove X axis labels from multiple subplots](https://stackoverflow.com/questions/68745227/how-to-iteratively-remove-x-axis-labels-from-multiple-subplots) - 1 votes
-* [Gaussian curve fitting](https://stackoverflow.com/questions/68737533/gaussian-curve-fitting) - 1 votes
+* [Matplotlib  show legend for plot and bar](https://stackoverflow.com/questions/68756451/matplotlib-show-legend-for-plot-and-bar) - 2 votes
+* [How to add a linkhyperlink to seaborn SNS graph](https://stackoverflow.com/questions/68754396/how-to-add-a-link-hyperlink-to-seaborn-sns-graph) - 2 votes
+* [Seaborn PairPlot to plot matrix error of each individual entry](https://stackoverflow.com/questions/68752880/seaborn-pairplot-to-plot-matrix-error-of-each-individual-entry) - 2 votes
+* [How to create a categorized progress bar](https://stackoverflow.com/questions/68750676/how-to-create-a-categorized-progress-bar) - 2 votes
+* [Plot density field depending on x y z coordinates with python](https://stackoverflow.com/questions/68759835/plot-density-field-depending-on-x-y-z-coordinates-with-python) - 2 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Is there a way to remove the whitespace outside of a ggplot](https://stackoverflow.com/questions/68744892/is-there-a-way-to-remove-the-whitespace-outside-of-a-ggplot) - 2 votes
-* [ggplot geom_line  setting colour of lines doesn39t work](https://stackoverflow.com/questions/68748691/ggplot-geom-line-setting-colour-of-lines-doesnt-work) - 1 votes
-* [Removing empty space from ggplot after coord_fixed is used](https://stackoverflow.com/questions/68740482/removing-empty-space-from-ggplot-after-coord-fixed-is-used) - 1 votes
-* [Error when using coord_transy  quotlog10quot in ggplot2](https://stackoverflow.com/questions/68747772/error-when-using-coord-transy-log10-in-ggplot2) - 1 votes
-* [Can you have a rolling window filter in gganimate](https://stackoverflow.com/questions/68746245/can-you-have-a-rolling-window-filter-in-gganimate) - 1 votes
+* [How to draw directed arrows based on one ordered list in R](https://stackoverflow.com/questions/68754148/how-to-draw-directed-arrows-based-on-one-ordered-list-in-r) - 4 votes
+* [Plot with multiple lines in different colors using ggplot2](https://stackoverflow.com/questions/68754862/plot-with-multiple-lines-in-different-colors-using-ggplot2) - 1 votes
+* [Plot day of year on yaxis but label as monthday in ggplot2](https://stackoverflow.com/questions/68751162/plot-day-of-year-on-y-axis-but-label-as-month-day-in-ggplot2) - 1 votes
+* [How to plot an histogram for every row of a data frame with the first column as a character value](https://stackoverflow.com/questions/68751066/how-to-plot-an-histogram-for-every-row-of-a-data-frame-with-the-first-column-as) - 1 votes
+* [Adding texts to boxplot  ggplot2](https://stackoverflow.com/questions/68758413/adding-texts-to-boxplot-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
