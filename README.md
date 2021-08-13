@@ -1,39 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-12<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-13<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to replace part of string with patternregex throw rows in dataframe](https://stackoverflow.com/questions/68755838/how-to-replace-part-of-string-with-patternregex-throw-rows-in-dataframe) - 3 votes
-* [Line truncates when exporting pandas dataframe to csv](https://stackoverflow.com/questions/68756012/line-truncates-when-exporting-pandas-dataframe-to-csv) - 2 votes
-* [Seaborn PairPlot to plot matrix error of each individual entry](https://stackoverflow.com/questions/68752880/seaborn-pairplot-to-plot-matrix-error-of-each-individual-entry) - 2 votes
-* [Why do I have different encoders generating the same results](https://stackoverflow.com/questions/68763889/why-do-i-have-different-encoders-generating-the-same-results) - 2 votes
-* [Merging multiple columns with different column lengths](https://stackoverflow.com/questions/68750186/merging-multiple-columns-with-different-column-lengths) - 2 votes
+* [subset multiindexed df based on multiple level 1 columns](https://stackoverflow.com/questions/68774700/subset-multi-indexed-df-based-on-multiple-level-1-columns) - 4 votes
+* [How can I check if the range of one dataframe is within the range of another dataframe](https://stackoverflow.com/questions/68773770/how-can-i-check-if-the-range-of-one-dataframe-is-within-the-range-of-another-dat) - 3 votes
+* [Place elements of one Pandas DataFrame to locations of elements in another DataFrame](https://stackoverflow.com/questions/68768173/place-elements-of-one-pandas-dataframe-to-locations-of-elements-in-another-dataf) - 2 votes
+* [How to show pltaxhline in both subplots from a for loop in python 3](https://stackoverflow.com/questions/68767239/how-to-show-plt-axhline-in-both-subplots-from-a-for-loop-in-python-3) - 2 votes
+* [Pandas Merge  How to also merge different index columns](https://stackoverflow.com/questions/68767320/pandas-merge-how-to-also-merge-different-index-columns) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Matplotlib  show legend for plot and bar](https://stackoverflow.com/questions/68756451/matplotlib-show-legend-for-plot-and-bar) - 2 votes
-* [How to add a linkhyperlink to seaborn SNS graph](https://stackoverflow.com/questions/68754396/how-to-add-a-link-hyperlink-to-seaborn-sns-graph) - 2 votes
-* [Seaborn PairPlot to plot matrix error of each individual entry](https://stackoverflow.com/questions/68752880/seaborn-pairplot-to-plot-matrix-error-of-each-individual-entry) - 2 votes
-* [How to create a categorized progress bar](https://stackoverflow.com/questions/68750676/how-to-create-a-categorized-progress-bar) - 2 votes
-* [Plot density field depending on x y z coordinates with python](https://stackoverflow.com/questions/68759835/plot-density-field-depending-on-x-y-z-coordinates-with-python) - 2 votes
+* [Placing a single color bar for two subplots in Matplotlib and gridscpec](https://stackoverflow.com/questions/68769075/placing-a-single-color-bar-for-two-sub-plots-in-matplotlib-and-gridscpec) - 3 votes
+* [tight_layout reserves ylabel and yticklabels space even when disabled](https://stackoverflow.com/questions/68772394/tight-layout-reserves-ylabel-and-yticklabels-space-even-when-disabled) - 1 votes
+* [How to bar plot grouped by two variables](https://stackoverflow.com/questions/68767771/how-to-bar-plot-grouped-by-two-variables) - 1 votes
+* [How to draw broken arrowtype labels in matplotlib](https://stackoverflow.com/questions/68769425/how-to-draw-broken-arrow-type-labels-in-matplotlib) - 1 votes
+* [matplotlib get bitmap from a scatter plot](https://stackoverflow.com/questions/68771333/matplotlib-get-bitmap-from-a-scatter-plot) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to draw directed arrows based on one ordered list in R](https://stackoverflow.com/questions/68754148/how-to-draw-directed-arrows-based-on-one-ordered-list-in-r) - 4 votes
-* [Plot with multiple lines in different colors using ggplot2](https://stackoverflow.com/questions/68754862/plot-with-multiple-lines-in-different-colors-using-ggplot2) - 1 votes
-* [Plot day of year on yaxis but label as monthday in ggplot2](https://stackoverflow.com/questions/68751162/plot-day-of-year-on-y-axis-but-label-as-month-day-in-ggplot2) - 1 votes
-* [How to plot an histogram for every row of a data frame with the first column as a character value](https://stackoverflow.com/questions/68751066/how-to-plot-an-histogram-for-every-row-of-a-data-frame-with-the-first-column-as) - 1 votes
-* [Adding texts to boxplot  ggplot2](https://stackoverflow.com/questions/68758413/adding-texts-to-boxplot-ggplot2) - 1 votes
+* [Creating single row pie chart for budget in R with ggplot](https://stackoverflow.com/questions/68767466/creating-single-row-pie-chart-for-budget-in-r-with-ggplot) - 1 votes
+* [Adding count to each group in the Xaxis label](https://stackoverflow.com/questions/68777181/adding-count-to-each-group-in-the-x-axis-label) - 1 votes
+* [Fill Percent stacked barchart according to value of each group R](https://stackoverflow.com/questions/68774577/fill-percent-stacked-barchart-according-to-value-of-each-group-r) - 1 votes
+* [Display summary statistics in barplot using ggplotplotnine](https://stackoverflow.com/questions/68770164/display-summary-statistics-in-barplot-using-ggplot-plotnine) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
