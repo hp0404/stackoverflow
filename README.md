@@ -1,38 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-13<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-14<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [subset multiindexed df based on multiple level 1 columns](https://stackoverflow.com/questions/68774700/subset-multi-indexed-df-based-on-multiple-level-1-columns) - 4 votes
-* [How can I check if the range of one dataframe is within the range of another dataframe](https://stackoverflow.com/questions/68773770/how-can-i-check-if-the-range-of-one-dataframe-is-within-the-range-of-another-dat) - 3 votes
-* [Place elements of one Pandas DataFrame to locations of elements in another DataFrame](https://stackoverflow.com/questions/68768173/place-elements-of-one-pandas-dataframe-to-locations-of-elements-in-another-dataf) - 2 votes
-* [How to show pltaxhline in both subplots from a for loop in python 3](https://stackoverflow.com/questions/68767239/how-to-show-plt-axhline-in-both-subplots-from-a-for-loop-in-python-3) - 2 votes
-* [Pandas Merge  How to also merge different index columns](https://stackoverflow.com/questions/68767320/pandas-merge-how-to-also-merge-different-index-columns) - 1 votes
+* [why does pddrop not function the same outside a forloop as it does inside a for loop](https://stackoverflow.com/questions/68779533/why-does-pd-drop-not-function-the-same-outside-a-for-loop-as-it-does-inside-a-fo) - 2 votes
+* [Is there any way to interpolate in 2D with pandas](https://stackoverflow.com/questions/68784778/is-there-any-way-to-interpolate-in-2d-with-pandas) - 2 votes
+* [How to speed up Pandas contains when moving rows to another dataframe](https://stackoverflow.com/questions/68781074/how-to-speed-up-pandas-contains-when-moving-rows-to-another-dataframe) - 2 votes
+* [How to generate a column of sequential numbers when finding repeated numbers in another column in Pandas Python](https://stackoverflow.com/questions/68780223/how-to-generate-a-column-of-sequential-numbers-when-finding-repeated-numbers-in) - 2 votes
+* [Convert Numpy Arrrays to a Tensor](https://stackoverflow.com/questions/68785329/convert-numpy-arrrays-to-a-tensor) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Placing a single color bar for two subplots in Matplotlib and gridscpec](https://stackoverflow.com/questions/68769075/placing-a-single-color-bar-for-two-sub-plots-in-matplotlib-and-gridscpec) - 3 votes
-* [tight_layout reserves ylabel and yticklabels space even when disabled](https://stackoverflow.com/questions/68772394/tight-layout-reserves-ylabel-and-yticklabels-space-even-when-disabled) - 1 votes
-* [How to bar plot grouped by two variables](https://stackoverflow.com/questions/68767771/how-to-bar-plot-grouped-by-two-variables) - 1 votes
-* [How to draw broken arrowtype labels in matplotlib](https://stackoverflow.com/questions/68769425/how-to-draw-broken-arrow-type-labels-in-matplotlib) - 1 votes
-* [matplotlib get bitmap from a scatter plot](https://stackoverflow.com/questions/68771333/matplotlib-get-bitmap-from-a-scatter-plot) - 1 votes
+* [How can I plot a function with errors in coefficients](https://stackoverflow.com/questions/68779965/how-can-i-plot-a-function-with-errors-in-coefficients) - 4 votes
+* [Is it possible to reduce the width of a single subplot in gridspecMatplotlib](https://stackoverflow.com/questions/68780317/is-it-possible-to-reduce-the-width-of-a-single-subplot-in-gridspec-matplotlib) - 1 votes
+* [How to create a variable fontsize for bar plot annotations](https://stackoverflow.com/questions/68781011/how-to-create-a-variable-fontsize-for-bar-plot-annotations) - 1 votes
+* [barh with plot  cannot get different scale for data on secondary x axis](https://stackoverflow.com/questions/68785016/barh-with-plot-cannot-get-different-scale-for-data-on-secondary-x-axis) - 1 votes
+* [How to move figurelevel matplotlib legend to axes of a seaborn displot](https://stackoverflow.com/questions/68786660/how-to-move-figure-level-matplotlib-legend-to-axes-of-a-seaborn-displot) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Creating single row pie chart for budget in R with ggplot](https://stackoverflow.com/questions/68767466/creating-single-row-pie-chart-for-budget-in-r-with-ggplot) - 1 votes
-* [Adding count to each group in the Xaxis label](https://stackoverflow.com/questions/68777181/adding-count-to-each-group-in-the-x-axis-label) - 1 votes
-* [Fill Percent stacked barchart according to value of each group R](https://stackoverflow.com/questions/68774577/fill-percent-stacked-barchart-according-to-value-of-each-group-r) - 1 votes
-* [Display summary statistics in barplot using ggplotplotnine](https://stackoverflow.com/questions/68770164/display-summary-statistics-in-barplot-using-ggplot-plotnine) - 1 votes
+* [ggplot2 vs baser plotting and its verbose nature](https://stackoverflow.com/questions/68786195/ggplot2-vs-base-r-plotting-and-its-verbose-nature) - 4 votes
+* [Calculate 2d spline path in R with customizable number of interpolation points](https://stackoverflow.com/questions/68786700/calculate-2d-spline-path-in-r-with-customizable-number-of-interpolation-points) - 2 votes
+* [How to create dot plot with both negative and positive axes](https://stackoverflow.com/questions/68780333/how-to-create-dot-plot-with-both-negative-and-positive-axes) - 1 votes
+* [Combine two ggplots into one plot with shared legend](https://stackoverflow.com/questions/68784064/combine-two-ggplots-into-one-plot-with-shared-legend) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
