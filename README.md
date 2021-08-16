@@ -1,33 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-15<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-16<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Assigning value to pandas dataframe values for unique values in another column](https://stackoverflow.com/questions/68792110/assigning-value-to-pandas-dataframe-values-for-unique-values-in-another-column) - 2 votes
-* [Selecting explicit cells from pdDataFrame via at with MultiIndex](https://stackoverflow.com/questions/68790081/selecting-explicit-cells-from-pd-dataframe-via-at-with-multiindex) - 2 votes
-* [Efficient way to merge large Pandas dataframes between two dates](https://stackoverflow.com/questions/68792511/efficient-way-to-merge-large-pandas-dataframes-between-two-dates) - 2 votes
-* [populate dataframe with loop](https://stackoverflow.com/questions/68791474/populate-dataframe-with-loop) - 2 votes
-* [pandas strip all strings in column that starts with symbols ](https://stackoverflow.com/questions/68788731/pandas-strip-all-strings-in-column-that-starts-with-symbols) - 1 votes
+* [How to calculate ratio of values in a pandas dataframe column](https://stackoverflow.com/questions/68796549/how-to-calculate-ratio-of-values-in-a-pandas-dataframe-column) - 5 votes
+* [Plotly How to set up grouped subplots](https://stackoverflow.com/questions/68799755/plotly-how-to-set-up-grouped-subplots) - 3 votes
+* [Python 36 Pandas Select all row from some columns](https://stackoverflow.com/questions/68800729/python-3-6-pandas-select-all-row-from-some-columns) - 2 votes
+* [Check if Multiple Strings are present in a DataFrame Column](https://stackoverflow.com/questions/68801045/check-if-multiple-strings-are-present-in-a-dataframe-column) - 2 votes
+* [Updating values for a subset of a subset of a pandas dataframe too slow for large data set](https://stackoverflow.com/questions/68808206/updating-values-for-a-subset-of-a-subset-of-a-pandas-dataframe-too-slow-for-larg) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Sorting the dataframe based on the count of one column and plot](https://stackoverflow.com/questions/68792609/sorting-the-dataframe-based-on-the-count-of-one-column-and-plot) - 1 votes
+* [Animating wave pulse using matplotlib](https://stackoverflow.com/questions/68806579/animating-wave-pulse-using-matplotlib) - 3 votes
+* [Show xtick labels on upper subplot with matplotlib](https://stackoverflow.com/questions/68802263/show-xtick-labels-on-upper-subplot-with-matplotlib) - 2 votes
+* [Matplotlib Adding Data Causes Text to Move Down](https://stackoverflow.com/questions/68797834/matplotlib-adding-data-causes-text-to-move-down) - 2 votes
+* [Plot legend faded how do I fix this](https://stackoverflow.com/questions/68804380/plot-legend-faded-how-do-i-fix-this) - 1 votes
+* [Function animation with plot_surface not drawing  just giving first picture](https://stackoverflow.com/questions/68807687/function-animation-with-plot-surface-not-drawing-just-giving-first-picture) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Align multifigure ggplots with patchwork and single legend](https://stackoverflow.com/questions/68788141/align-multi-figure-ggplots-with-patchwork-and-single-legend) - 3 votes
-* [Adding Title to ggplot from the dataset itself](https://stackoverflow.com/questions/68793966/adding-title-to-ggplot-from-the-dataset-itself) - 1 votes
-* [How to replace axis values X and Y coordinates of ploted loaded images in the R language](https://stackoverflow.com/questions/68792675/how-to-replace-axis-values-x-and-y-coordinates-of-ploted-loaded-images-in-the) - 1 votes
+* [plotlysublot not showing both titles](https://stackoverflow.com/questions/68796762/plotlysublot-not-showing-both-titles) - 1 votes
+* [How do I change labels on y scale of a scatterplot using characters](https://stackoverflow.com/questions/68805186/how-do-i-change-labels-on-y-scale-of-a-scatterplot-using-characters) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
