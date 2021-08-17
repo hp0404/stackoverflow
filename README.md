@@ -1,36 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-16<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-17<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to calculate ratio of values in a pandas dataframe column](https://stackoverflow.com/questions/68796549/how-to-calculate-ratio-of-values-in-a-pandas-dataframe-column) - 5 votes
-* [Plotly How to set up grouped subplots](https://stackoverflow.com/questions/68799755/plotly-how-to-set-up-grouped-subplots) - 3 votes
-* [Python 36 Pandas Select all row from some columns](https://stackoverflow.com/questions/68800729/python-3-6-pandas-select-all-row-from-some-columns) - 2 votes
-* [Check if Multiple Strings are present in a DataFrame Column](https://stackoverflow.com/questions/68801045/check-if-multiple-strings-are-present-in-a-dataframe-column) - 2 votes
-* [Updating values for a subset of a subset of a pandas dataframe too slow for large data set](https://stackoverflow.com/questions/68808206/updating-values-for-a-subset-of-a-subset-of-a-pandas-dataframe-too-slow-for-larg) - 2 votes
+* [How do I traverse through a dataframe and get polarity score of existing texttranscript so I have 1 row per id in python](https://stackoverflow.com/questions/68821563/how-do-i-traverse-through-a-dataframe-and-get-polarity-score-of-existing-texttr) - 4 votes
+* [Flatting out a multiindex dataframe](https://stackoverflow.com/questions/68815461/flatting-out-a-multiindex-dataframe) - 3 votes
+* [How do I get forex rates historically from a range of dates in python](https://stackoverflow.com/questions/68822470/how-do-i-get-forex-rates-historically-from-a-range-of-dates-in-python) - 3 votes
+* [split a series in pandas pipe separated with equal sign into multiple columns](https://stackoverflow.com/questions/68812519/split-a-series-in-pandas-pipe-separated-with-equal-sign-into-multiple-columns) - 2 votes
+* [Create dataframe with for each cell averages of other dataframes](https://stackoverflow.com/questions/68819935/create-dataframe-with-for-each-cell-averages-of-other-dataframes) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Animating wave pulse using matplotlib](https://stackoverflow.com/questions/68806579/animating-wave-pulse-using-matplotlib) - 3 votes
-* [Show xtick labels on upper subplot with matplotlib](https://stackoverflow.com/questions/68802263/show-xtick-labels-on-upper-subplot-with-matplotlib) - 2 votes
-* [Matplotlib Adding Data Causes Text to Move Down](https://stackoverflow.com/questions/68797834/matplotlib-adding-data-causes-text-to-move-down) - 2 votes
-* [Plot legend faded how do I fix this](https://stackoverflow.com/questions/68804380/plot-legend-faded-how-do-i-fix-this) - 1 votes
-* [Function animation with plot_surface not drawing  just giving first picture](https://stackoverflow.com/questions/68807687/function-animation-with-plot-surface-not-drawing-just-giving-first-picture) - 1 votes
+* [How to add additional xaxes but with different scale and color matplotlib](https://stackoverflow.com/questions/68816531/how-to-add-additional-x-axes-but-with-different-scale-and-color-matplotlib) - 2 votes
+* [How to interpolate points in seaborn](https://stackoverflow.com/questions/68811482/how-to-interpolate-points-in-seaborn) - 2 votes
+* [Matplot lib animation not working as expected](https://stackoverflow.com/questions/68813636/matplot-lib-animation-not-working-as-expected) - 1 votes
+* [Strange Behavior in Pyplot Quiver Function](https://stackoverflow.com/questions/68819964/strange-behavior-in-pyplot-quiver-function) - 1 votes
+* [How do I use and open the file_path from tkinter in pandasread_csv to have it then be plotted with matplotlib](https://stackoverflow.com/questions/68818972/how-do-i-use-and-open-the-file-path-from-tkinter-in-pandas-read-csv-to-have-it-t) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [plotlysublot not showing both titles](https://stackoverflow.com/questions/68796762/plotlysublot-not-showing-both-titles) - 1 votes
-* [How do I change labels on y scale of a scatterplot using characters](https://stackoverflow.com/questions/68805186/how-do-i-change-labels-on-y-scale-of-a-scatterplot-using-characters) - 1 votes
+* [Passing column names as dotdotdot for nonstandard evaluation on qplot](https://stackoverflow.com/questions/68810393/passing-column-names-as-dot-dot-dot-for-non-standard-evaluation-on-qplot) - 2 votes
+* [Sort incomplete string of numeric values on Y axis in ggplot](https://stackoverflow.com/questions/68820920/sort-incomplete-string-of-numeric-values-on-y-axis-in-ggplot) - 2 votes
+* [Using ggplot in a simple function results in AES errors](https://stackoverflow.com/questions/68819038/using-ggplot-in-a-simple-function-results-in-aes-errors) - 1 votes
+* [Flip ggplot yaxis for bar graph](https://stackoverflow.com/questions/68822428/flip-ggplot-y-axis-for-bar-graph) - 1 votes
+* [Strategies in mapping text size to data in ggplot](https://stackoverflow.com/questions/68815185/strategies-in-mapping-text-size-to-data-in-ggplot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
