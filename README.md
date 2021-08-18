@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-17<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-18<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How do I traverse through a dataframe and get polarity score of existing texttranscript so I have 1 row per id in python](https://stackoverflow.com/questions/68821563/how-do-i-traverse-through-a-dataframe-and-get-polarity-score-of-existing-texttr) - 4 votes
-* [Flatting out a multiindex dataframe](https://stackoverflow.com/questions/68815461/flatting-out-a-multiindex-dataframe) - 3 votes
-* [How do I get forex rates historically from a range of dates in python](https://stackoverflow.com/questions/68822470/how-do-i-get-forex-rates-historically-from-a-range-of-dates-in-python) - 3 votes
-* [split a series in pandas pipe separated with equal sign into multiple columns](https://stackoverflow.com/questions/68812519/split-a-series-in-pandas-pipe-separated-with-equal-sign-into-multiple-columns) - 2 votes
-* [Create dataframe with for each cell averages of other dataframes](https://stackoverflow.com/questions/68819935/create-dataframe-with-for-each-cell-averages-of-other-dataframes) - 2 votes
+* [pandas faster way than apply lambda to apply a logic in each row](https://stackoverflow.com/questions/68826323/pandas-faster-way-than-apply-lambda-to-apply-a-logic-in-each-row) - 2 votes
+* [Fast way to get rolling percentile ranks](https://stackoverflow.com/questions/68831145/fast-way-to-get-rolling-percentile-ranks) - 2 votes
+* [how to explode a list of strings while keeping the other columns](https://stackoverflow.com/questions/68834403/how-to-explode-a-list-of-strings-while-keeping-the-other-columns) - 2 votes
+* [Filtering on a pandas column which is the difference between 2 dates](https://stackoverflow.com/questions/68838858/filtering-on-a-pandas-column-which-is-the-difference-between-2-dates) - 2 votes
+* [How to use a different colormap for different rows of a heatmap](https://stackoverflow.com/questions/68837536/how-to-use-a-different-colormap-for-different-rows-of-a-heatmap) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to add additional xaxes but with different scale and color matplotlib](https://stackoverflow.com/questions/68816531/how-to-add-additional-x-axes-but-with-different-scale-and-color-matplotlib) - 2 votes
-* [How to interpolate points in seaborn](https://stackoverflow.com/questions/68811482/how-to-interpolate-points-in-seaborn) - 2 votes
-* [Matplot lib animation not working as expected](https://stackoverflow.com/questions/68813636/matplot-lib-animation-not-working-as-expected) - 1 votes
-* [Strange Behavior in Pyplot Quiver Function](https://stackoverflow.com/questions/68819964/strange-behavior-in-pyplot-quiver-function) - 1 votes
-* [How do I use and open the file_path from tkinter in pandasread_csv to have it then be plotted with matplotlib](https://stackoverflow.com/questions/68818972/how-do-i-use-and-open-the-file-path-from-tkinter-in-pandas-read-csv-to-have-it-t) - 1 votes
+* [How to use a different colormap for different rows of a heatmap](https://stackoverflow.com/questions/68837536/how-to-use-a-different-colormap-for-different-rows-of-a-heatmap) - 2 votes
+* [AttributeError 39list39 object has no attribute 39ndim39 in axplt_wireframe](https://stackoverflow.com/questions/68826455/attributeerror-list-object-has-no-attribute-ndim-in-ax-plt-wireframe) - 1 votes
+* [Creating histograms for mulitple IDs in pandas dataframe](https://stackoverflow.com/questions/68831835/creating-histograms-for-mulitple-ids-in-pandas-dataframe) - 1 votes
+* [Animation was deleted without rendering anything This is most likely unintended](https://stackoverflow.com/questions/68827011/animation-was-deleted-without-rendering-anything-this-is-most-likely-unintended) - 1 votes
+* [Why I got a static plot after increasing 39holding time39 in matplotlib FuncAnimation](https://stackoverflow.com/questions/68825290/why-i-got-a-static-plot-after-increasing-holding-time-in-matplotlib-funcanimat) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Passing column names as dotdotdot for nonstandard evaluation on qplot](https://stackoverflow.com/questions/68810393/passing-column-names-as-dot-dot-dot-for-non-standard-evaluation-on-qplot) - 2 votes
-* [Sort incomplete string of numeric values on Y axis in ggplot](https://stackoverflow.com/questions/68820920/sort-incomplete-string-of-numeric-values-on-y-axis-in-ggplot) - 2 votes
-* [Using ggplot in a simple function results in AES errors](https://stackoverflow.com/questions/68819038/using-ggplot-in-a-simple-function-results-in-aes-errors) - 1 votes
-* [Flip ggplot yaxis for bar graph](https://stackoverflow.com/questions/68822428/flip-ggplot-y-axis-for-bar-graph) - 1 votes
-* [Strategies in mapping text size to data in ggplot](https://stackoverflow.com/questions/68815185/strategies-in-mapping-text-size-to-data-in-ggplot) - 1 votes
+* [Map colors to labels in ggplot based on background color](https://stackoverflow.com/questions/68837845/map-colors-to-labels-in-ggplot-based-on-background-color) - 3 votes
+* [R overlay density plot with lines based on condition of a column](https://stackoverflow.com/questions/68838458/r-overlay-density-plot-with-lines-based-on-condition-of-a-column) - 2 votes
+* [How can I pass ggplot2 a constructed title with superscripts](https://stackoverflow.com/questions/68835498/how-can-i-pass-ggplot2-a-constructed-title-with-superscripts) - 2 votes
+* [How to create barplot for more than one column using ggplot](https://stackoverflow.com/questions/68825463/how-to-create-barplot-for-more-than-one-column-using-ggplot) - 2 votes
+* [Splitting a dataframe by every n unique values of a variable](https://stackoverflow.com/questions/68831663/splitting-a-dataframe-by-every-n-unique-values-of-a-variable) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
