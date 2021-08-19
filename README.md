@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-18<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-19<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [pandas faster way than apply lambda to apply a logic in each row](https://stackoverflow.com/questions/68826323/pandas-faster-way-than-apply-lambda-to-apply-a-logic-in-each-row) - 2 votes
-* [Fast way to get rolling percentile ranks](https://stackoverflow.com/questions/68831145/fast-way-to-get-rolling-percentile-ranks) - 2 votes
-* [how to explode a list of strings while keeping the other columns](https://stackoverflow.com/questions/68834403/how-to-explode-a-list-of-strings-while-keeping-the-other-columns) - 2 votes
-* [Filtering on a pandas column which is the difference between 2 dates](https://stackoverflow.com/questions/68838858/filtering-on-a-pandas-column-which-is-the-difference-between-2-dates) - 2 votes
-* [How to use a different colormap for different rows of a heatmap](https://stackoverflow.com/questions/68837536/how-to-use-a-different-colormap-for-different-rows-of-a-heatmap) - 2 votes
+* [Count custom values from a list in a python dataframe per column](https://stackoverflow.com/questions/68848007/count-custom-values-from-a-list-in-a-python-dataframe-per-column) - 2 votes
+* [Changing second level multiindex label when first level condition is met](https://stackoverflow.com/questions/68849527/changing-second-level-multiindex-label-when-first-level-condition-is-met) - 2 votes
+* [Subtract data frame rows if there have same main column name](https://stackoverflow.com/questions/68847037/subtract-data-frame-rows-if-there-have-same-main-column-name) - 2 votes
+* [how to replace a value based on conditions](https://stackoverflow.com/questions/68849323/how-to-replace-a-value-based-on-conditions) - 2 votes
+* [How to remove rows for which the date difference is bigger or smaller than](https://stackoverflow.com/questions/68840552/how-to-remove-rows-for-which-the-date-difference-is-bigger-or-smaller-than) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to use a different colormap for different rows of a heatmap](https://stackoverflow.com/questions/68837536/how-to-use-a-different-colormap-for-different-rows-of-a-heatmap) - 2 votes
-* [AttributeError 39list39 object has no attribute 39ndim39 in axplt_wireframe](https://stackoverflow.com/questions/68826455/attributeerror-list-object-has-no-attribute-ndim-in-ax-plt-wireframe) - 1 votes
-* [Creating histograms for mulitple IDs in pandas dataframe](https://stackoverflow.com/questions/68831835/creating-histograms-for-mulitple-ids-in-pandas-dataframe) - 1 votes
-* [Animation was deleted without rendering anything This is most likely unintended](https://stackoverflow.com/questions/68827011/animation-was-deleted-without-rendering-anything-this-is-most-likely-unintended) - 1 votes
-* [Why I got a static plot after increasing 39holding time39 in matplotlib FuncAnimation](https://stackoverflow.com/questions/68825290/why-i-got-a-static-plot-after-increasing-holding-time-in-matplotlib-funcanimat) - 1 votes
+* [Plot n graphs and save them in n different files](https://stackoverflow.com/questions/68844478/plot-n-graphs-and-save-them-in-n-different-files) - 2 votes
+* [get number base of graph axis](https://stackoverflow.com/questions/68851738/get-number-base-of-graph-axis) - 2 votes
+* [matplotlib 3D scatter animation](https://stackoverflow.com/questions/68849739/matplotlib-3d-scatter-animation) - 2 votes
+* [Customising the legend with seaborn displot](https://stackoverflow.com/questions/68844017/customising-the-legend-with-seaborn-displot) - 2 votes
+* [How to create a numpy array filled with average value of a vector](https://stackoverflow.com/questions/68846627/how-to-create-a-numpy-array-filled-with-average-value-of-a-vector) - 2 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Map colors to labels in ggplot based on background color](https://stackoverflow.com/questions/68837845/map-colors-to-labels-in-ggplot-based-on-background-color) - 3 votes
-* [R overlay density plot with lines based on condition of a column](https://stackoverflow.com/questions/68838458/r-overlay-density-plot-with-lines-based-on-condition-of-a-column) - 2 votes
-* [How can I pass ggplot2 a constructed title with superscripts](https://stackoverflow.com/questions/68835498/how-can-i-pass-ggplot2-a-constructed-title-with-superscripts) - 2 votes
-* [How to create barplot for more than one column using ggplot](https://stackoverflow.com/questions/68825463/how-to-create-barplot-for-more-than-one-column-using-ggplot) - 2 votes
-* [Splitting a dataframe by every n unique values of a variable](https://stackoverflow.com/questions/68831663/splitting-a-dataframe-by-every-n-unique-values-of-a-variable) - 1 votes
+* [Consistent legend key height in a vertical legend for fill](https://stackoverflow.com/questions/68850367/consistent-legend-key-height-in-a-vertical-legend-for-fill) - 2 votes
+* [Overlaying a Barplot onto another on ggplot](https://stackoverflow.com/questions/68845263/overlaying-a-barplot-onto-another-on-ggplot) - 1 votes
+* [ggplot2 160issue with overlay of lines and errorbars](https://stackoverflow.com/questions/68848999/ggplot2-issue-with-overlay-of-lines-and-errorbars) - 1 votes
+* [Plot timelines without date](https://stackoverflow.com/questions/68843961/plot-timelines-without-date) - 1 votes
+* [stat_function conflict with loop in R](https://stackoverflow.com/questions/68840969/stat-function-conflict-with-loop-in-r) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
