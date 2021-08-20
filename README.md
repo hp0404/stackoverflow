@@ -1,39 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-19<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-20<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Count custom values from a list in a python dataframe per column](https://stackoverflow.com/questions/68848007/count-custom-values-from-a-list-in-a-python-dataframe-per-column) - 2 votes
-* [Changing second level multiindex label when first level condition is met](https://stackoverflow.com/questions/68849527/changing-second-level-multiindex-label-when-first-level-condition-is-met) - 2 votes
-* [Subtract data frame rows if there have same main column name](https://stackoverflow.com/questions/68847037/subtract-data-frame-rows-if-there-have-same-main-column-name) - 2 votes
-* [how to replace a value based on conditions](https://stackoverflow.com/questions/68849323/how-to-replace-a-value-based-on-conditions) - 2 votes
-* [How to remove rows for which the date difference is bigger or smaller than](https://stackoverflow.com/questions/68840552/how-to-remove-rows-for-which-the-date-difference-is-bigger-or-smaller-than) - 2 votes
+* [Pandas Cell frequency count by index](https://stackoverflow.com/questions/68864520/pandas-cell-frequency-count-by-index) - 4 votes
+* [Trying to stack several groups of columns into multiple target columns by name](https://stackoverflow.com/questions/68861826/trying-to-stack-several-groups-of-columns-into-multiple-target-columns-by-name) - 3 votes
+* [Can you use pandas to iterate over a dataframe while multiplying the previous row by a value](https://stackoverflow.com/questions/68856546/can-you-use-pandas-to-iterate-over-a-dataframe-while-multiplying-the-previous-ro) - 3 votes
+* [creating tuple within tuple within list from Pandas DataFrame](https://stackoverflow.com/questions/68867861/creating-tuple-within-tuple-within-list-from-pandas-dataframe) - 2 votes
+* [Convert list of repeated column names and list of values into a dataframe](https://stackoverflow.com/questions/68865486/convert-list-of-repeated-column-names-and-list-of-values-into-a-dataframe) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Plot n graphs and save them in n different files](https://stackoverflow.com/questions/68844478/plot-n-graphs-and-save-them-in-n-different-files) - 2 votes
-* [get number base of graph axis](https://stackoverflow.com/questions/68851738/get-number-base-of-graph-axis) - 2 votes
-* [matplotlib 3D scatter animation](https://stackoverflow.com/questions/68849739/matplotlib-3d-scatter-animation) - 2 votes
-* [Customising the legend with seaborn displot](https://stackoverflow.com/questions/68844017/customising-the-legend-with-seaborn-displot) - 2 votes
-* [How to create a numpy array filled with average value of a vector](https://stackoverflow.com/questions/68846627/how-to-create-a-numpy-array-filled-with-average-value-of-a-vector) - 2 votes
+* [Right align horizontal seaborn barplot](https://stackoverflow.com/questions/68858330/right-align-horizontal-seaborn-barplot) - 2 votes
+* [seaborn histplot and displot output doesn39t match](https://stackoverflow.com/questions/68865538/seaborn-histplot-and-displot-output-doesnt-match) - 2 votes
+* [How to get different violins with different colors with matplotlib](https://stackoverflow.com/questions/68864829/how-to-get-different-violins-with-different-colors-with-matplotlib) - 1 votes
+* [How do I put legend on scatter plot from a pandas data frame based on categories in the data](https://stackoverflow.com/questions/68863182/how-do-i-put-legend-on-scatter-plot-from-a-pandas-data-frame-based-on-categories) - 1 votes
+* [Python Seaborn dynamic update of heatmap data](https://stackoverflow.com/questions/68859723/python-seaborn-dynamic-update-of-heatmap-data) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Consistent legend key height in a vertical legend for fill](https://stackoverflow.com/questions/68850367/consistent-legend-key-height-in-a-vertical-legend-for-fill) - 2 votes
-* [Overlaying a Barplot onto another on ggplot](https://stackoverflow.com/questions/68845263/overlaying-a-barplot-onto-another-on-ggplot) - 1 votes
-* [ggplot2 160issue with overlay of lines and errorbars](https://stackoverflow.com/questions/68848999/ggplot2-issue-with-overlay-of-lines-and-errorbars) - 1 votes
-* [Plot timelines without date](https://stackoverflow.com/questions/68843961/plot-timelines-without-date) - 1 votes
-* [stat_function conflict with loop in R](https://stackoverflow.com/questions/68840969/stat-function-conflict-with-loop-in-r) - 1 votes
+* [lapply39d geoms lose factorordering](https://stackoverflow.com/questions/68863522/lapplyd-geoms-lose-factor-ordering) - 4 votes
+* [Curly Curly on ggplot label](https://stackoverflow.com/questions/68862820/curly-curly-on-ggplot-label) - 2 votes
+* [How to remove white margins from pie chart in ggplot](https://stackoverflow.com/questions/68864137/how-to-remove-white-margins-from-pie-chart-in-ggplot) - 2 votes
+* [Removing grid between transparent ggplot plots arranged by ggarrange](https://stackoverflow.com/questions/68865236/removing-grid-between-transparent-ggplot-plots-arranged-by-ggarrange) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
