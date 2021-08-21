@@ -1,38 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-20<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-21<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas Cell frequency count by index](https://stackoverflow.com/questions/68864520/pandas-cell-frequency-count-by-index) - 4 votes
-* [Trying to stack several groups of columns into multiple target columns by name](https://stackoverflow.com/questions/68861826/trying-to-stack-several-groups-of-columns-into-multiple-target-columns-by-name) - 3 votes
-* [Can you use pandas to iterate over a dataframe while multiplying the previous row by a value](https://stackoverflow.com/questions/68856546/can-you-use-pandas-to-iterate-over-a-dataframe-while-multiplying-the-previous-ro) - 3 votes
-* [creating tuple within tuple within list from Pandas DataFrame](https://stackoverflow.com/questions/68867861/creating-tuple-within-tuple-within-list-from-pandas-dataframe) - 2 votes
-* [Convert list of repeated column names and list of values into a dataframe](https://stackoverflow.com/questions/68865486/convert-list-of-repeated-column-names-and-list-of-values-into-a-dataframe) - 2 votes
+* [Python list comparison numpy optimization](https://stackoverflow.com/questions/68871282/python-list-comparison-numpy-optimization) - 4 votes
+* [What is plotted when string data is passed to the matplotlib API](https://stackoverflow.com/questions/68873370/what-is-plotted-when-string-data-is-passed-to-the-matplotlib-api) - 2 votes
+* [Create binary columns based on string column](https://stackoverflow.com/questions/68874448/create-binary-columns-based-on-string-column) - 2 votes
+* [merge DataFrames with multiple keys and one key being column name](https://stackoverflow.com/questions/68875745/merge-dataframes-with-multiple-keys-and-one-key-being-column-name) - 2 votes
+* [Groupby two columns pandas dataframe and shiftrolling](https://stackoverflow.com/questions/68872687/groupby-two-columns-pandas-dataframe-and-shift-rolling) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Right align horizontal seaborn barplot](https://stackoverflow.com/questions/68858330/right-align-horizontal-seaborn-barplot) - 2 votes
-* [seaborn histplot and displot output doesn39t match](https://stackoverflow.com/questions/68865538/seaborn-histplot-and-displot-output-doesnt-match) - 2 votes
-* [How to get different violins with different colors with matplotlib](https://stackoverflow.com/questions/68864829/how-to-get-different-violins-with-different-colors-with-matplotlib) - 1 votes
-* [How do I put legend on scatter plot from a pandas data frame based on categories in the data](https://stackoverflow.com/questions/68863182/how-do-i-put-legend-on-scatter-plot-from-a-pandas-data-frame-based-on-categories) - 1 votes
-* [Python Seaborn dynamic update of heatmap data](https://stackoverflow.com/questions/68859723/python-seaborn-dynamic-update-of-heatmap-data) - 1 votes
+* [What is plotted when string data is passed to the matplotlib API](https://stackoverflow.com/questions/68873370/what-is-plotted-when-string-data-is-passed-to-the-matplotlib-api) - 2 votes
+* [Python 3D surface plot by only having X Y Z coordinates](https://stackoverflow.com/questions/68874322/python-3d-surface-plot-by-only-having-x-y-z-coordinates) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [lapply39d geoms lose factorordering](https://stackoverflow.com/questions/68863522/lapplyd-geoms-lose-factor-ordering) - 4 votes
-* [Curly Curly on ggplot label](https://stackoverflow.com/questions/68862820/curly-curly-on-ggplot-label) - 2 votes
-* [How to remove white margins from pie chart in ggplot](https://stackoverflow.com/questions/68864137/how-to-remove-white-margins-from-pie-chart-in-ggplot) - 2 votes
-* [Removing grid between transparent ggplot plots arranged by ggarrange](https://stackoverflow.com/questions/68865236/removing-grid-between-transparent-ggplot-plots-arranged-by-ggarrange) - 1 votes
+* [Reduce column height in a multiple plot in ggplot2](https://stackoverflow.com/questions/68871427/reduce-column-height-in-a-multiple-plot-in-ggplot2) - 2 votes
+* [How to add a label with directlabels when using multiple geoms](https://stackoverflow.com/questions/68873921/how-to-add-a-label-with-directlabels-when-using-multiple-geoms) - 2 votes
+* [Insert three horizontal lines in my graph in R](https://stackoverflow.com/questions/68873655/insert-three-horizontal-lines-in-my-graph-in-r) - 2 votes
+* [removing the intercept from regression line equation from ggplot using stat_reg_line function](https://stackoverflow.com/questions/68874867/removing-the-intercept-from-regression-line-equation-from-ggplot-using-stat-reg) - 1 votes
+* [Trying to Reproduce ANOVA test boxplot in plotly from ggplot](https://stackoverflow.com/questions/68872451/trying-to-reproduce-anova-test-boxplot-in-plotly-from-ggplot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
