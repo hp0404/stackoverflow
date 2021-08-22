@@ -1,36 +1,32 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-21<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-22<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Python list comparison numpy optimization](https://stackoverflow.com/questions/68871282/python-list-comparison-numpy-optimization) - 4 votes
-* [What is plotted when string data is passed to the matplotlib API](https://stackoverflow.com/questions/68873370/what-is-plotted-when-string-data-is-passed-to-the-matplotlib-api) - 2 votes
-* [Create binary columns based on string column](https://stackoverflow.com/questions/68874448/create-binary-columns-based-on-string-column) - 2 votes
-* [merge DataFrames with multiple keys and one key being column name](https://stackoverflow.com/questions/68875745/merge-dataframes-with-multiple-keys-and-one-key-being-column-name) - 2 votes
-* [Groupby two columns pandas dataframe and shiftrolling](https://stackoverflow.com/questions/68872687/groupby-two-columns-pandas-dataframe-and-shift-rolling) - 1 votes
+* [converting columns to rows in paython](https://stackoverflow.com/questions/68881498/converting-columns-to-rows-in-paython) - 2 votes
+* [How improve speedmemory of logic when obtaining the unique record of a cross joined table based on the dates of two different columns](https://stackoverflow.com/questions/68881383/how-improve-speed-memory-of-logic-when-obtaining-the-unique-record-of-a-cross-jo) - 2 votes
+* [SQLPandas Aggregation if a date chain does not have x days gap](https://stackoverflow.com/questions/68881304/sqlpandas-aggregation-if-a-date-chain-does-not-have-x-days-gap) - 1 votes
+* [Is there a way to rank a value within multiple rows and columns in Pandas Dataframe](https://stackoverflow.com/questions/68879714/is-there-a-way-to-rank-a-value-within-multiple-rows-and-columns-in-pandas-datafr) - 1 votes
+* [Correctly use multiprocessing](https://stackoverflow.com/questions/68879053/correctly-use-multiprocessing) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [What is plotted when string data is passed to the matplotlib API](https://stackoverflow.com/questions/68873370/what-is-plotted-when-string-data-is-passed-to-the-matplotlib-api) - 2 votes
-* [Python 3D surface plot by only having X Y Z coordinates](https://stackoverflow.com/questions/68874322/python-3d-surface-plot-by-only-having-x-y-z-coordinates) - 1 votes
+* [Update text in matplotlib through the Artist](https://stackoverflow.com/questions/68881200/update-text-in-matplotlib-through-the-artist) - 2 votes
+* [Python  setting arbitrary contour xyratio](https://stackoverflow.com/questions/68879044/python-setting-arbitrary-contour-xy-ratio) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Reduce column height in a multiple plot in ggplot2](https://stackoverflow.com/questions/68871427/reduce-column-height-in-a-multiple-plot-in-ggplot2) - 2 votes
-* [How to add a label with directlabels when using multiple geoms](https://stackoverflow.com/questions/68873921/how-to-add-a-label-with-directlabels-when-using-multiple-geoms) - 2 votes
-* [Insert three horizontal lines in my graph in R](https://stackoverflow.com/questions/68873655/insert-three-horizontal-lines-in-my-graph-in-r) - 2 votes
-* [removing the intercept from regression line equation from ggplot using stat_reg_line function](https://stackoverflow.com/questions/68874867/removing-the-intercept-from-regression-line-equation-from-ggplot-using-stat-reg) - 1 votes
-* [Trying to Reproduce ANOVA test boxplot in plotly from ggplot](https://stackoverflow.com/questions/68872451/trying-to-reproduce-anova-test-boxplot-in-plotly-from-ggplot) - 1 votes
+* [I want to annotate add letters eg A and B to the resulting 2 Kaplan Meier curves plots using splots and survminer in R](https://stackoverflow.com/questions/68882726/i-want-to-annotate-add-letters-eg-a-and-b-to-the-resulting-2-kaplan-meier-curv) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
