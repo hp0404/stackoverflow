@@ -1,32 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-22<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-23<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [converting columns to rows in paython](https://stackoverflow.com/questions/68881498/converting-columns-to-rows-in-paython) - 2 votes
-* [How improve speedmemory of logic when obtaining the unique record of a cross joined table based on the dates of two different columns](https://stackoverflow.com/questions/68881383/how-improve-speed-memory-of-logic-when-obtaining-the-unique-record-of-a-cross-jo) - 2 votes
-* [SQLPandas Aggregation if a date chain does not have x days gap](https://stackoverflow.com/questions/68881304/sqlpandas-aggregation-if-a-date-chain-does-not-have-x-days-gap) - 1 votes
-* [Is there a way to rank a value within multiple rows and columns in Pandas Dataframe](https://stackoverflow.com/questions/68879714/is-there-a-way-to-rank-a-value-within-multiple-rows-and-columns-in-pandas-datafr) - 1 votes
-* [Correctly use multiprocessing](https://stackoverflow.com/questions/68879053/correctly-use-multiprocessing) - 1 votes
+* [Strange 39Currency Rates source not ready39 forex_python error](https://stackoverflow.com/questions/68896900/strange-currency-rates-source-not-ready-forex-python-error) - 3 votes
+* [Pandas shift datetimeindex takes too long time running](https://stackoverflow.com/questions/68894948/pandas-shift-datetimeindex-takes-too-long-time-running) - 2 votes
+* [How to expand an iterable stored as a single value in Python Pandas aka reverse groupby](https://stackoverflow.com/questions/68896190/how-to-expand-an-iterable-stored-as-a-single-value-in-python-pandas-a-k-a-rev) - 2 votes
+* [barplot with 2 columns](https://stackoverflow.com/questions/68892938/barplot-with-2-columns) - 2 votes
+* [Finding the minimum date value for an ID in different column](https://stackoverflow.com/questions/68899020/finding-the-minimum-date-value-for-an-id-in-different-column) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Update text in matplotlib through the Artist](https://stackoverflow.com/questions/68881200/update-text-in-matplotlib-through-the-artist) - 2 votes
-* [Python  setting arbitrary contour xyratio](https://stackoverflow.com/questions/68879044/python-setting-arbitrary-contour-xy-ratio) - 1 votes
+* [matplotlib heatmap with multiple cmap](https://stackoverflow.com/questions/68890133/matplotlib-heatmap-with-multiple-cmap) - 3 votes
+* [barplot with 2 columns](https://stackoverflow.com/questions/68892938/barplot-with-2-columns) - 2 votes
+* [Have gradient colours in snspairplot for one column of dataframe so that I can see which datapoints are connected to each other](https://stackoverflow.com/questions/68895009/have-gradient-colours-in-sns-pairplot-for-one-column-of-dataframe-so-that-i-can) - 1 votes
+* [Having problems labelling axes in a barplot animation shown on a FigureCanvas](https://stackoverflow.com/questions/68897517/having-problems-labelling-axes-in-a-barplot-animation-shown-on-a-figurecanvas) - 1 votes
+* [How to repeat axes setting in a loop in matplotlib](https://stackoverflow.com/questions/68886902/how-to-repeat-axes-setting-in-a-loop-in-matplotlib) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [I want to annotate add letters eg A and B to the resulting 2 Kaplan Meier curves plots using splots and survminer in R](https://stackoverflow.com/questions/68882726/i-want-to-annotate-add-letters-eg-a-and-b-to-the-resulting-2-kaplan-meier-curv) - 1 votes
+* [r set ylim in a summary bar chart customized function](https://stackoverflow.com/questions/68887715/r-set-ylim-in-a-summary-bar-chart-customized-function) - 1 votes
+* [Overlaying data39s density histogram with dlnorm in R ggplot](https://stackoverflow.com/questions/68898697/overlaying-datas-density-histogram-with-dlnorm-in-r-ggplot) - 1 votes
+* [How to make a dumbell plot with ggplot2 Not plotting correctly R](https://stackoverflow.com/questions/68898743/how-to-make-a-dumbell-plot-with-ggplot2-not-plotting-correctly-r) - 1 votes
+* [Grouped plots and setting limits of vertical axis different for all variables in R](https://stackoverflow.com/questions/68889394/grouped-plots-and-setting-limits-of-vertical-axis-different-for-all-variables-in) - 1 votes
+* [Title of legend produced by stat_binhex](https://stackoverflow.com/questions/68891583/title-of-legend-produced-by-stat-binhex) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
