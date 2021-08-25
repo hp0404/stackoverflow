@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-24<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-25<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Python3 dataframe mutiple separators](https://stackoverflow.com/questions/68913649/python3-dataframe-mutiple-separators) - 4 votes
-* [Create a square matrix with combinatorial counts of boolean columns in a Pandas dataframe](https://stackoverflow.com/questions/68903637/create-a-square-matrix-with-combinatorial-counts-of-boolean-columns-in-a-pandas) - 3 votes
-* [Creating a Unix Timestamp out of a string with format dmyyyy Pyspark or Pandans](https://stackoverflow.com/questions/68912117/creating-a-unix-timestamp-out-of-a-string-with-format-d-m-yyyy-pyspark-or-panda) - 3 votes
-* [Updating dataframe with new dataframe overwritting](https://stackoverflow.com/questions/68912866/updating-dataframe-with-new-dataframe-overwritting) - 2 votes
-* [Counting occurrence of values after using groupby on multiple pandas columns](https://stackoverflow.com/questions/68911751/counting-occurrence-of-values-after-using-groupby-on-multiple-pandas-columns) - 2 votes
+* [Make Number of Rows Based on Column Values  PandasPython](https://stackoverflow.com/questions/68926007/make-number-of-rows-based-on-column-values-pandas-python) - 3 votes
+* [How to delete columns in a dataframe based on conditions of another dataframe Python3](https://stackoverflow.com/questions/68924914/how-to-delete-columns-in-a-dataframe-based-on-conditions-of-another-dataframe-p) - 3 votes
+* [How to condition the loop for one column to fill another column values in pandas dataframe](https://stackoverflow.com/questions/68918253/how-to-condition-the-loop-for-one-column-to-fill-another-column-values-in-pandas) - 2 votes
+* [Why nan values are shown after reindexing](https://stackoverflow.com/questions/68917439/why-nan-values-are-shown-after-reindexing) - 2 votes
+* [How to plot each pandas row as a line plot](https://stackoverflow.com/questions/68925966/how-to-plot-each-pandas-row-as-a-line-plot) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to create a grouped bar plot of categorical counts](https://stackoverflow.com/questions/68910707/how-to-create-a-grouped-bar-plot-of-categorical-counts) - 1 votes
-* [Matplotlib colorbar not showing labels for 2 discrete values](https://stackoverflow.com/questions/68910790/matplotlib-colorbar-not-showing-labels-for-2-discrete-values) - 1 votes
-* [How to annotate seaborn PairGrid diagonal with summary statistics](https://stackoverflow.com/questions/68909446/how-to-annotate-seaborn-pairgrid-diagonal-with-summary-statistics) - 1 votes
-* [How to customize pandas pie plot with labels and legend](https://stackoverflow.com/questions/68909283/how-to-customize-pandas-pie-plot-with-labels-and-legend) - 1 votes
-* [How to set seabornpairplot legend fontsize](https://stackoverflow.com/questions/68904889/how-to-set-seaborn-pairplot-legend-fontsize) - 1 votes
+* [How to plot each pandas row as a line plot](https://stackoverflow.com/questions/68925966/how-to-plot-each-pandas-row-as-a-line-plot) - 2 votes
+* [Matplotlib convert an array to a 1 chart line](https://stackoverflow.com/questions/68921566/matplotlib-convert-an-array-to-a-1-chart-line) - 2 votes
+* [Adding line markers in colorbar to highlight specific values in maps when having several subplots in matplotlib](https://stackoverflow.com/questions/68918750/adding-line-markers-in-colorbar-to-highlight-specific-values-in-maps-when-having) - 2 votes
+* [How to use different linestyles in a quiver plot](https://stackoverflow.com/questions/68928905/how-to-use-different-linestyles-in-a-quiver-plot) - 1 votes
+* [How to force matplotlib heatmap cells to be rectangular](https://stackoverflow.com/questions/68920172/how-to-force-matplotlib-heatmap-cells-to-be-rectangular) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Marking Specific Position on NumberLine Chart Graph](https://stackoverflow.com/questions/68907480/marking-specific-position-on-numberline-chart-graph) - 2 votes
-* [How to remove empty spaces between tiles in geom_tile and change tile size](https://stackoverflow.com/questions/68908371/how-to-remove-empty-spaces-between-tiles-in-geom-tile-and-change-tile-size) - 1 votes
-* [How to create custom labels at the ends of the xaxis in a faceted ggplot](https://stackoverflow.com/questions/68901209/how-to-create-custom-labels-at-the-ends-of-the-x-axis-in-a-faceted-ggplot) - 1 votes
-* [How to customize text in ggplot2 facet_grid label when using purrr](https://stackoverflow.com/questions/68910569/how-to-customize-text-in-ggplot2-facet-grid-label-when-using-purrr) - 1 votes
-* [geom_polygon for map with scale_fill_manual is not maintaining order](https://stackoverflow.com/questions/68900800/geom-polygon-for-map-with-scale-fill-manual-is-not-maintaining-order) - 1 votes
+* [How can I move a boxplot slightly left or right of its original position](https://stackoverflow.com/questions/68929296/how-can-i-move-a-boxplot-slightly-left-or-right-of-its-original-position) - 5 votes
+* [generating a manhattan plot with ggplot](https://stackoverflow.com/questions/68926957/generating-a-manhattan-plot-with-ggplot) - 2 votes
+* [How to select specific two groups from a list of data for ttest and bar plot](https://stackoverflow.com/questions/68927574/how-to-select-specific-two-groups-from-a-list-of-data-for-t-test-and-bar-plot) - 1 votes
+* [How to plot geom_line features in ggplot2 map](https://stackoverflow.com/questions/68929290/how-to-plot-geom-line-features-in-ggplot2-map) - 1 votes
+* [Overlapping labels in legend in ggplot](https://stackoverflow.com/questions/68925483/overlapping-labels-in-legend-in-ggplot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
