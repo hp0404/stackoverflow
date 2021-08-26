@@ -1,39 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-25<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-26<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Make Number of Rows Based on Column Values  PandasPython](https://stackoverflow.com/questions/68926007/make-number-of-rows-based-on-column-values-pandas-python) - 3 votes
-* [How to delete columns in a dataframe based on conditions of another dataframe Python3](https://stackoverflow.com/questions/68924914/how-to-delete-columns-in-a-dataframe-based-on-conditions-of-another-dataframe-p) - 3 votes
-* [How to condition the loop for one column to fill another column values in pandas dataframe](https://stackoverflow.com/questions/68918253/how-to-condition-the-loop-for-one-column-to-fill-another-column-values-in-pandas) - 2 votes
-* [Why nan values are shown after reindexing](https://stackoverflow.com/questions/68917439/why-nan-values-are-shown-after-reindexing) - 2 votes
-* [How to plot each pandas row as a line plot](https://stackoverflow.com/questions/68925966/how-to-plot-each-pandas-row-as-a-line-plot) - 2 votes
+* [pd dataframe addings rows by id](https://stackoverflow.com/questions/68934288/pd-dataframe-addings-rows-by-id) - 3 votes
+* [Pandas group by with multiple groups for same value](https://stackoverflow.com/questions/68935378/pandas-group-by-with-multiple-groups-for-same-value) - 2 votes
+* [Pandas How to include all columns and all indexes for multiple pivot table](https://stackoverflow.com/questions/68944084/pandas-how-to-include-all-columns-and-all-indexes-for-multiple-pivot-table) - 2 votes
+* [Pandas dataframe to multikey dictionary](https://stackoverflow.com/questions/68936425/pandas-dataframe-to-multikey-dictionary) - 2 votes
+* [I would like to know how to map dictionary with list of value to dataframe](https://stackoverflow.com/questions/68933790/i-would-like-to-know-how-to-map-dictionary-with-list-of-value-to-dataframe) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to plot each pandas row as a line plot](https://stackoverflow.com/questions/68925966/how-to-plot-each-pandas-row-as-a-line-plot) - 2 votes
-* [Matplotlib convert an array to a 1 chart line](https://stackoverflow.com/questions/68921566/matplotlib-convert-an-array-to-a-1-chart-line) - 2 votes
-* [Adding line markers in colorbar to highlight specific values in maps when having several subplots in matplotlib](https://stackoverflow.com/questions/68918750/adding-line-markers-in-colorbar-to-highlight-specific-values-in-maps-when-having) - 2 votes
-* [How to use different linestyles in a quiver plot](https://stackoverflow.com/questions/68928905/how-to-use-different-linestyles-in-a-quiver-plot) - 1 votes
-* [How to force matplotlib heatmap cells to be rectangular](https://stackoverflow.com/questions/68920172/how-to-force-matplotlib-heatmap-cells-to-be-rectangular) - 1 votes
+* [How switch between two graphs and maintain radio button and slider updates working](https://stackoverflow.com/questions/68931326/how-switch-between-two-graphs-and-maintain-radio-button-and-slider-updates-worki) - 3 votes
+* [Ticks in colorbar of matplotlib Python are not positioned correctly when I add an arbitrary value](https://stackoverflow.com/questions/68933943/ticks-in-colorbar-of-matplotlib-python-are-not-positioned-correctly-when-i-add) - 2 votes
+* [How do I use booleans to create dataframe and plot the filtered data on pie chart](https://stackoverflow.com/questions/68937480/how-do-i-use-booleans-to-create-dataframe-and-plot-the-filtered-data-on-pie-char) - 1 votes
+* [python matplotlib finding the points of intersection of two line charts](https://stackoverflow.com/questions/68937315/python-matplotlib-finding-the-points-of-intersection-of-two-line-charts) - 1 votes
+* [Plot a triangle contoursurface matplotlib python tricontourfmeshgrid](https://stackoverflow.com/questions/68932612/plot-a-triangle-contour-surface-matplotlib-python-tricontourf-meshgrid) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How can I move a boxplot slightly left or right of its original position](https://stackoverflow.com/questions/68929296/how-can-i-move-a-boxplot-slightly-left-or-right-of-its-original-position) - 5 votes
-* [generating a manhattan plot with ggplot](https://stackoverflow.com/questions/68926957/generating-a-manhattan-plot-with-ggplot) - 2 votes
-* [How to select specific two groups from a list of data for ttest and bar plot](https://stackoverflow.com/questions/68927574/how-to-select-specific-two-groups-from-a-list-of-data-for-t-test-and-bar-plot) - 1 votes
-* [How to plot geom_line features in ggplot2 map](https://stackoverflow.com/questions/68929290/how-to-plot-geom-line-features-in-ggplot2-map) - 1 votes
-* [Overlapping labels in legend in ggplot](https://stackoverflow.com/questions/68925483/overlapping-labels-in-legend-in-ggplot) - 1 votes
+* [Method Needed to Create Annotation Function for ggplot](https://stackoverflow.com/questions/68943281/method-needed-to-create-annotation-function-for-ggplot) - 2 votes
+* [Add percentage  for a PieChart](https://stackoverflow.com/questions/68931296/add-percentage-for-a-piechart) - 1 votes
+* [Using segment labels in ggplot with ggrepel with smooth segments](https://stackoverflow.com/questions/68940351/using-segment-labels-in-ggplot-with-ggrepel-with-smooth-segments) - 1 votes
+* [How to arrange data visualization in geom_segment in a decreasing order](https://stackoverflow.com/questions/68939580/how-to-arrange-data-visualization-in-geom-segment-in-a-decreasing-order) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
