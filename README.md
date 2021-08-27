@@ -1,38 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-26<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-08-27<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [pd dataframe addings rows by id](https://stackoverflow.com/questions/68934288/pd-dataframe-addings-rows-by-id) - 3 votes
-* [Pandas group by with multiple groups for same value](https://stackoverflow.com/questions/68935378/pandas-group-by-with-multiple-groups-for-same-value) - 2 votes
-* [Pandas How to include all columns and all indexes for multiple pivot table](https://stackoverflow.com/questions/68944084/pandas-how-to-include-all-columns-and-all-indexes-for-multiple-pivot-table) - 2 votes
-* [Pandas dataframe to multikey dictionary](https://stackoverflow.com/questions/68936425/pandas-dataframe-to-multikey-dictionary) - 2 votes
-* [I would like to know how to map dictionary with list of value to dataframe](https://stackoverflow.com/questions/68933790/i-would-like-to-know-how-to-map-dictionary-with-list-of-value-to-dataframe) - 2 votes
+* [Delete last element from lists in column of data frame based on other column value](https://stackoverflow.com/questions/68949078/delete-last-element-from-lists-in-column-of-data-frame-based-on-other-column-val) - 3 votes
+* [Drop duplicated rows by multiple columns if they originally or after exchange position are same in Pandas](https://stackoverflow.com/questions/68948870/drop-duplicated-rows-by-multiple-columns-if-they-originally-or-after-exchange-po) - 2 votes
+* [Shifting DatetimeIndex by one year gives unexpected result](https://stackoverflow.com/questions/68949814/shifting-datetimeindex-by-one-year-gives-unexpected-result) - 2 votes
+* [Sum the occurance of string in column in csv file via pandas](https://stackoverflow.com/questions/68948567/sum-the-occurance-of-string-in-column-in-csv-file-via-pandas) - 2 votes
+* [how low in dataframe to find all elements of list](https://stackoverflow.com/questions/68947061/how-low-in-dataframe-to-find-all-elements-of-list) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How switch between two graphs and maintain radio button and slider updates working](https://stackoverflow.com/questions/68931326/how-switch-between-two-graphs-and-maintain-radio-button-and-slider-updates-worki) - 3 votes
-* [Ticks in colorbar of matplotlib Python are not positioned correctly when I add an arbitrary value](https://stackoverflow.com/questions/68933943/ticks-in-colorbar-of-matplotlib-python-are-not-positioned-correctly-when-i-add) - 2 votes
-* [How do I use booleans to create dataframe and plot the filtered data on pie chart](https://stackoverflow.com/questions/68937480/how-do-i-use-booleans-to-create-dataframe-and-plot-the-filtered-data-on-pie-char) - 1 votes
-* [python matplotlib finding the points of intersection of two line charts](https://stackoverflow.com/questions/68937315/python-matplotlib-finding-the-points-of-intersection-of-two-line-charts) - 1 votes
-* [Plot a triangle contoursurface matplotlib python tricontourfmeshgrid](https://stackoverflow.com/questions/68932612/plot-a-triangle-contour-surface-matplotlib-python-tricontourf-meshgrid) - 1 votes
+* [Broken axis for seaborn scatterplot  Cannot minimize distance between plots](https://stackoverflow.com/questions/68949017/broken-axis-for-seaborn-scatterplot-cannot-minimize-distance-between-plots) - 2 votes
+* [How to include pywaffle chart as part of a matplotlib subplot](https://stackoverflow.com/questions/68948967/how-to-include-pywaffle-chart-as-part-of-a-matplotlib-subplot) - 2 votes
+* [How can I plot derivatives with matplotlib](https://stackoverflow.com/questions/68951190/how-can-i-plot-derivatives-with-matplotlib) - 1 votes
+* [Matplotlib FuncAnimation StepbyStep Animation Function](https://stackoverflow.com/questions/68956448/matplotlib-funcanimation-step-by-step-animation-function) - 1 votes
+* [Unable to correctly label tickmarks in seaborn heatplot animation](https://stackoverflow.com/questions/68954928/unable-to-correctly-label-tickmarks-in-seaborn-heatplot-animation) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Method Needed to Create Annotation Function for ggplot](https://stackoverflow.com/questions/68943281/method-needed-to-create-annotation-function-for-ggplot) - 2 votes
-* [Add percentage  for a PieChart](https://stackoverflow.com/questions/68931296/add-percentage-for-a-piechart) - 1 votes
-* [Using segment labels in ggplot with ggrepel with smooth segments](https://stackoverflow.com/questions/68940351/using-segment-labels-in-ggplot-with-ggrepel-with-smooth-segments) - 1 votes
-* [How to arrange data visualization in geom_segment in a decreasing order](https://stackoverflow.com/questions/68939580/how-to-arrange-data-visualization-in-geom-segment-in-a-decreasing-order) - 1 votes
+* [Using geom_function in ggplot](https://stackoverflow.com/questions/68953016/using-geom-function-in-ggplot) - 2 votes
+* [Why my code for using png logos in axis labels in ggtext is not working](https://stackoverflow.com/questions/68948902/why-my-code-for-using-png-logos-in-axis-labels-in-ggtext-is-not-working) - 1 votes
+* [How to add a different alpha to every bar depending on Y axis quotheightquot](https://stackoverflow.com/questions/68954713/how-to-add-a-different-alpha-to-every-bar-depending-on-y-axis-height) - 1 votes
+* [How do I customise the colours of the groups and overlay a contour with values over an NMDS ordination spider graph plot using ggplot2](https://stackoverflow.com/questions/68952544/how-do-i-customise-the-colours-of-the-groups-and-overlay-a-contour-with-values-o) - 1 votes
+* [How can I make geom_line to work with the y as counts](https://stackoverflow.com/questions/68947551/how-can-i-make-geom-line-to-work-with-the-y-as-counts) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
