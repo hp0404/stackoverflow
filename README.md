@@ -1,38 +1,34 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-03<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-04<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Convert pandas df to dictionary](https://stackoverflow.com/questions/69043356/convert-pandas-df-to-dictionary) - 4 votes
-* [Convert YYYYMXX to date in pandas dataframe](https://stackoverflow.com/questions/69044346/convert-yyyymxx-to-date-in-pandas-dataframe) - 3 votes
-* [Why does pandas treat these two strings differently in apply](https://stackoverflow.com/questions/69041513/why-does-pandas-treat-these-two-strings-differently-in-apply) - 3 votes
-* [Seaborn heatmap from group of columns](https://stackoverflow.com/questions/69046992/seaborn-heatmap-from-group-of-columns) - 3 votes
-* [How to apply a function for each row in the column python](https://stackoverflow.com/questions/69043931/how-to-apply-a-function-for-each-row-in-the-column-python) - 3 votes
+* [How to capture last snapshot on each day in a dataframe python](https://stackoverflow.com/questions/69057092/how-to-capture-last-snapshot-on-each-day-in-a-dataframe-python) - 2 votes
+* [How do I add a column based on selected row filter in pandas](https://stackoverflow.com/questions/69055069/how-do-i-add-a-column-based-on-selected-row-filter-in-pandas) - 2 votes
+* [Compare two dataframes based on two columns and printing the matching values and grouping the matching values](https://stackoverflow.com/questions/69054343/compare-two-dataframes-based-on-two-columns-and-printing-the-matching-values-and) - 2 votes
+* [Setting category and type for multiple columns possible](https://stackoverflow.com/questions/69055468/setting-category-and-type-for-multiple-columns-possible) - 2 votes
+* [Remove string from multiple columns in Pandas](https://stackoverflow.com/questions/69053552/remove-string-from-multiple-columns-in-pandas) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to get rid of scientific notation on bar labels in matplotlib](https://stackoverflow.com/questions/69045499/how-to-get-rid-of-scientific-notation-on-bar-labels-in-matplotlib) - 2 votes
-* [Create a colorcoded key for a matplotlib scatter plot with specific colors](https://stackoverflow.com/questions/69046713/create-a-color-coded-key-for-a-matplotlib-scatter-plot-with-specific-colors) - 1 votes
-* [How to choose bar color if value is positive or negative](https://stackoverflow.com/questions/69043592/how-to-choose-bar-color-if-value-is-positive-or-negative) - 1 votes
-* [Issue with legend39s markerscale in matplotlib](https://stackoverflow.com/questions/69044227/issue-with-legends-markerscale-in-matplotlib) - 1 votes
-* [Why Python starts a new plot after every command](https://stackoverflow.com/questions/69042591/why-python-starts-a-new-plot-after-every-command) - 1 votes
+* [Plotting multiple groups of shaded subplots for unique ids in Python](https://stackoverflow.com/questions/69055010/plotting-multiple-groups-of-shaded-subplots-for-unique-ids-in-python) - 1 votes
+* [Seaborn Rotate plot and match axis subplot](https://stackoverflow.com/questions/69052343/seaborn-rotate-plot-and-match-axis-subplot) - 1 votes
+* [Python Matplotlib Funcanimation issue struggle to animate a contour plot contourf within functions](https://stackoverflow.com/questions/69055718/python-matplotlib-funcanimation-issue-struggle-to-animate-a-contour-plot-conto) - 1 votes
+* [ValueError Invalid RGBA argument Why it can be How can I fix it](https://stackoverflow.com/questions/69052375/valueerror-invalid-rgba-argument-why-it-can-be-how-can-i-fix-it) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to get a subscript into an axis title in ggplot](https://stackoverflow.com/questions/69041857/how-to-get-a-subscript-into-an-axis-title-in-ggplot) - 2 votes
-* [ggplot with unequal subgroups](https://stackoverflow.com/questions/69041481/ggplot-with-unequal-subgroups) - 1 votes
-* [Add line pointing to important point with geom_label](https://stackoverflow.com/questions/69048731/add-line-pointing-to-important-point-with-geom-label) - 1 votes
-* [How to add median line to jitter plot in ggplot](https://stackoverflow.com/questions/69044948/how-to-add-median-line-to-jitter-plot-in-ggplot) - 1 votes
+* [About R ggplot2 could not plot correct graph in for loop](https://stackoverflow.com/questions/69058563/about-r-ggplot2-could-not-plot-correct-graph-in-for-loop) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
