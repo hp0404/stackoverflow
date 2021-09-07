@@ -1,38 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-06<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-07<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How do i get only the new unique values per group](https://stackoverflow.com/questions/69075288/how-do-i-get-only-the-new-unique-values-per-group) - 4 votes
-* [Counting occurrences by column](https://stackoverflow.com/questions/69078630/counting-occurrences-by-column) - 3 votes
-* [Pandas Grouping and Transform Ignoring NaN](https://stackoverflow.com/questions/69073516/pandas-grouping-and-transform-ignoring-nan) - 3 votes
-* [Take first part of a string for each row of a dataframe](https://stackoverflow.com/questions/69076579/take-first-part-of-a-string-for-each-row-of-a-dataframe) - 3 votes
-* [Rearranging or Shuffling Rows Based on Alternative Groups in Pandas](https://stackoverflow.com/questions/69079363/rearranging-or-shuffling-rows-based-on-alternative-groups-in-pandas) - 2 votes
+* [Datetime formatting in pandas to_markdown](https://stackoverflow.com/questions/69087045/datetime-formatting-in-pandas-to-markdown) - 4 votes
+* [Cumulative sum in pandas starting with a zero and ending with the sum of all but the last entry respecting groups](https://stackoverflow.com/questions/69092524/cumulative-sum-in-pandas-starting-with-a-zero-and-ending-with-the-sum-of-all-but) - 3 votes
+* [pandas reshapingtransform the dataframe](https://stackoverflow.com/questions/69081591/pandas-reshaping-transform-the-dataframe) - 3 votes
+* [Read CSV file with Python function](https://stackoverflow.com/questions/69093667/read-csv-file-with-python-function) - 3 votes
+* [How to convert a list of dictionaries to a Pandas Dataframe with one of the values as column name](https://stackoverflow.com/questions/69093536/how-to-convert-a-list-of-dictionaries-to-a-pandas-dataframe-with-one-of-the-valu) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Is it possible to plot contours on top of data in matplotlib python](https://stackoverflow.com/questions/69078212/is-it-possible-to-plot-contours-on-top-of-data-in-matplotlib-python) - 3 votes
-* [Plotting the results of the differential equation plotted suing RK4 method](https://stackoverflow.com/questions/69072840/plotting-the-results-of-the-differential-equation-plotted-suing-rk4-method) - 2 votes
-* [Plot legend obscures plot lines in figure](https://stackoverflow.com/questions/69079019/plot-legend-obscures-plot-lines-in-figure) - 1 votes
-* [Plot straight line along y axes using 3D plot](https://stackoverflow.com/questions/69079992/plot-straight-line-along-y-axes-using-3d-plot) - 1 votes
-* [Matplotlib  duplicated axes  prevent gridlines from covering data  set right ylabel](https://stackoverflow.com/questions/69068135/matplotlib-duplicated-axes-prevent-gridlines-from-covering-data-set-right) - 1 votes
+* [how do i create a graph of RK4 using this function](https://stackoverflow.com/questions/69089751/how-do-i-create-a-graph-of-rk4-using-this-function) - 1 votes
+* [Iterate through columns to generate barplots while using groupby](https://stackoverflow.com/questions/69088994/iterate-through-columns-to-generate-barplots-while-using-groupby) - 1 votes
+* [yticks of variable font size](https://stackoverflow.com/questions/69083919/yticks-of-variable-font-size) - 1 votes
+* [Try to get a multiple plot with different Xaxes](https://stackoverflow.com/questions/69085935/try-to-get-a-multiple-plot-with-different-x-axes) - 1 votes
+* [Matplot lib generates Date in Xaxis from Jan 1970](https://stackoverflow.com/questions/69083927/matplot-lib-generates-date-in-x-axis-from-jan-1970) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to modify the width of a facet_wrap strip](https://stackoverflow.com/questions/69077592/how-to-modify-the-width-of-a-facet-wrap-strip) - 3 votes
-* [geom_col over year and groups any way to avoid demarcations in the bars](https://stackoverflow.com/questions/69078345/geom-col-over-year-and-groups-any-way-to-avoid-demarcations-in-the-bars) - 1 votes
-* [Add loess regression line median IQR or mean SD to spaghetti plot in ggplot2](https://stackoverflow.com/questions/69070190/add-loess-regression-line-median-iqr-or-mean-sd-to-spaghetti-plot-in-ggplot) - 1 votes
-* [Plot shrank or expanded when activating or deactivating legend keys after converting from ggplot2 to plotly](https://stackoverflow.com/questions/69077298/plot-shrank-or-expanded-when-activating-or-deactivating-legend-keys-after-conver) - 1 votes
+* [How to write a function for Median to use for Ggplot graph adaptable to different items from a dataset in R](https://stackoverflow.com/questions/69087068/how-to-write-a-function-for-median-to-use-for-ggplot-graph-adaptable-to-differen) - 2 votes
+* [Plotting bar charts to a map in R ggplot2](https://stackoverflow.com/questions/69082257/plotting-bar-charts-to-a-map-in-r-ggplot2) - 2 votes
+* [Reordering bars in ggplot barchart](https://stackoverflow.com/questions/69094538/reordering-bars-in-ggplot-barchart) - 1 votes
+* [How to Create A Stacked Column Plot of Multiple Variables in R ggplot2](https://stackoverflow.com/questions/69093508/how-to-create-a-stacked-column-plot-of-multiple-variables-in-r-ggplot2) - 1 votes
+* [Padding around geom_points in ggplot](https://stackoverflow.com/questions/69087773/padding-around-geom-points-in-ggplot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
