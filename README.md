@@ -1,38 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-09<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-10<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas transpose rows to columns based on first column](https://stackoverflow.com/questions/69118694/pandas-transpose-rows-to-columns-based-on-first-column) - 4 votes
-* [Merge rows based on date range](https://stackoverflow.com/questions/69115428/merge-rows-based-on-date-range) - 3 votes
-* [How can I add values from the first column to a new array](https://stackoverflow.com/questions/69117732/how-can-i-add-values-from-the-first-column-to-a-new-array) - 3 votes
-* [Python Pandas Boolean Variable Type Crashing Compare](https://stackoverflow.com/questions/69119930/python-pandas-boolean-variable-type-crashing-compare) - 3 votes
-* [In pandas how to replace subdataframe by another subdataframe](https://stackoverflow.com/questions/69117123/in-pandas-how-to-replace-subdataframe-by-another-subdataframe) - 2 votes
+* [How to merge matching indices with two pandas dataframes](https://stackoverflow.com/questions/69127427/how-to-merge-matching-indices-with-two-pandas-dataframes) - 3 votes
+* [Partial fillna with condition python](https://stackoverflow.com/questions/69127326/partial-fillna-with-condition-python) - 3 votes
+* [How to count total uppercase letters in all list elements without converting to string](https://stackoverflow.com/questions/69129127/how-to-count-total-uppercase-letters-in-all-list-elements-without-converting-to) - 2 votes
+* [Grouping a DataFrame counting occurrences in one column putting other column values in sets](https://stackoverflow.com/questions/69129338/grouping-a-dataframe-counting-occurrences-in-one-column-putting-other-column-v) - 2 votes
+* [How to plot a scatter plot on a single ytick](https://stackoverflow.com/questions/69129142/how-to-plot-a-scatter-plot-on-a-single-y-tick) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [FacetGrid with contour plots](https://stackoverflow.com/questions/69114299/facetgrid-with-contour-plots) - 2 votes
-* [Unable to do fitting of data using curve_fit](https://stackoverflow.com/questions/69114657/unable-to-do-fitting-of-data-using-curve-fit) - 2 votes
-* [Alpha Shapes in 3D  Follow Up](https://stackoverflow.com/questions/69110871/alpha-shapes-in-3d-follow-up) - 2 votes
-* [How do I plot each column as a separate entry on the XAxis in Python Example Given](https://stackoverflow.com/questions/69120635/how-do-i-plot-each-column-as-a-separate-entry-on-the-x-axis-in-python-example-g) - 1 votes
-* [How to add borders to a line with butt capstyle in matplotlib](https://stackoverflow.com/questions/69113111/how-to-add-borders-to-a-line-with-butt-capstyle-in-matplotlib) - 1 votes
+* [How to plot a scatter plot on a single ytick](https://stackoverflow.com/questions/69129142/how-to-plot-a-scatter-plot-on-a-single-y-tick) - 2 votes
+* [Need Help in Fixing Error in Python index out of bounds for axis 0](https://stackoverflow.com/questions/69134094/need-help-in-fixing-error-in-python-index-out-of-bounds-for-axis-0) - 1 votes
+* [Why doesn39t the second xaxis tick label rotate matplotlib](https://stackoverflow.com/questions/69125957/why-doesnt-the-second-x-axis-tick-label-rotate-matplotlib) - 1 votes
+* [Matplotlib how to plot a random colour to all countries from the list](https://stackoverflow.com/questions/69133780/matplotlib-how-to-plot-a-random-colour-to-all-countries-from-the-list) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [ggplot  logarithmic axis labels with defined decimal places](https://stackoverflow.com/questions/69118562/ggplot-logarithmic-axis-labels-with-defined-decimal-places) - 1 votes
-* [Loop through multiple columns and make a plot with error bars for each plot in R](https://stackoverflow.com/questions/69124115/loop-through-multiple-columns-and-make-a-plot-with-error-bars-for-each-plot-in) - 1 votes
-* [Boxplot label an outlier](https://stackoverflow.com/questions/69123640/boxplot-label-an-outlier) - 1 votes
-* [How can i shade my density plot in r using ggplot2](https://stackoverflow.com/questions/69119738/how-can-i-shade-my-density-plot-in-r-using-ggplot2) - 1 votes
+* [Drop colors from legend which are not in data](https://stackoverflow.com/questions/69137519/drop-colors-from-legend-which-are-not-in-data) - 1 votes
+* [Replicate Excel plot with ggplot2 in R](https://stackoverflow.com/questions/69133366/replicate-excel-plot-with-ggplot2-in-r) - 1 votes
+* [In R ggplot2 how to draw vertical lines automatically](https://stackoverflow.com/questions/69126232/in-r-ggplot2-how-to-draw-vertical-lines-automatically) - 1 votes
+* [ggplot2 Aligning multiline legend titles with math expressions](https://stackoverflow.com/questions/69127037/ggplot2-aligning-multi-line-legend-titles-with-math-expressions) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
