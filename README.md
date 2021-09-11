@@ -1,37 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-10<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-11<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to merge matching indices with two pandas dataframes](https://stackoverflow.com/questions/69127427/how-to-merge-matching-indices-with-two-pandas-dataframes) - 3 votes
-* [Partial fillna with condition python](https://stackoverflow.com/questions/69127326/partial-fillna-with-condition-python) - 3 votes
-* [How to count total uppercase letters in all list elements without converting to string](https://stackoverflow.com/questions/69129127/how-to-count-total-uppercase-letters-in-all-list-elements-without-converting-to) - 2 votes
-* [Grouping a DataFrame counting occurrences in one column putting other column values in sets](https://stackoverflow.com/questions/69129338/grouping-a-dataframe-counting-occurrences-in-one-column-putting-other-column-v) - 2 votes
-* [How to plot a scatter plot on a single ytick](https://stackoverflow.com/questions/69129142/how-to-plot-a-scatter-plot-on-a-single-y-tick) - 2 votes
+* [Revisit quotHow to find the positionindex of a particular file in a directoryquot](https://stackoverflow.com/questions/69143408/revisit-how-to-find-the-position-index-of-a-particular-file-in-a-directory) - 2 votes
+* [why and when should use a stack and unstack methods](https://stackoverflow.com/questions/69139030/why-and-when-should-use-a-stack-and-unstack-methods) - 2 votes
+* [Store values from rows of a DataFrame and use them in another operation](https://stackoverflow.com/questions/69143210/store-values-from-rows-of-a-dataframe-and-use-them-in-another-operation) - 2 votes
+* [Transposing specific pandas columns](https://stackoverflow.com/questions/69142461/transposing-specific-pandas-columns) - 2 votes
+* [pandas change table structue](https://stackoverflow.com/questions/69140841/pandas-change-table-structue) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to plot a scatter plot on a single ytick](https://stackoverflow.com/questions/69129142/how-to-plot-a-scatter-plot-on-a-single-y-tick) - 2 votes
-* [Need Help in Fixing Error in Python index out of bounds for axis 0](https://stackoverflow.com/questions/69134094/need-help-in-fixing-error-in-python-index-out-of-bounds-for-axis-0) - 1 votes
-* [Why doesn39t the second xaxis tick label rotate matplotlib](https://stackoverflow.com/questions/69125957/why-doesnt-the-second-x-axis-tick-label-rotate-matplotlib) - 1 votes
-* [Matplotlib how to plot a random colour to all countries from the list](https://stackoverflow.com/questions/69133780/matplotlib-how-to-plot-a-random-colour-to-all-countries-from-the-list) - 1 votes
+* [pandas change table structue](https://stackoverflow.com/questions/69140841/pandas-change-table-structue) - 2 votes
+* [How to adjust the height of subplots in matplotlib](https://stackoverflow.com/questions/69139924/how-to-adjust-the-height-of-subplots-in-matplotlib) - 1 votes
+* [Python quiver angles issue What is the difference between anglesquotuvquot and anglesquotxyquot](https://stackoverflow.com/questions/69146016/python-quiver-angles-issue-what-is-the-difference-between-angles-uv-and-angle) - 1 votes
+* [y axis ticks fixed to second y axis ticks at certain data point by matplotlib](https://stackoverflow.com/questions/69141810/y-axis-ticks-fixed-to-second-y-axis-ticks-at-certain-data-point-by-matplotlib) - 1 votes
+* [Seaborn Reg Plots with the same Y Axis scale Side by Side](https://stackoverflow.com/questions/69141790/seaborn-reg-plots-with-the-same-y-axis-scale-side-by-side) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Drop colors from legend which are not in data](https://stackoverflow.com/questions/69137519/drop-colors-from-legend-which-are-not-in-data) - 1 votes
-* [Replicate Excel plot with ggplot2 in R](https://stackoverflow.com/questions/69133366/replicate-excel-plot-with-ggplot2-in-r) - 1 votes
-* [In R ggplot2 how to draw vertical lines automatically](https://stackoverflow.com/questions/69126232/in-r-ggplot2-how-to-draw-vertical-lines-automatically) - 1 votes
-* [ggplot2 Aligning multiline legend titles with math expressions](https://stackoverflow.com/questions/69127037/ggplot2-aligning-multi-line-legend-titles-with-math-expressions) - 1 votes
+* [Create boxplots with groups spread across multiple columns](https://stackoverflow.com/questions/69139132/create-boxplots-with-groups-spread-across-multiple-columns) - 1 votes
+* [Group bar plots together using ggplot2](https://stackoverflow.com/questions/69145206/group-bar-plots-together-using-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
