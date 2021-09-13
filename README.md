@@ -1,35 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-12<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-13<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Convert longform dataframe of pairwise distances to distance matrix in python](https://stackoverflow.com/questions/69148116/convert-long-form-dataframe-of-pairwise-distances-to-distance-matrix-in-python) - 3 votes
-* [Calculate the percentage of each row which is above or below average for specific category](https://stackoverflow.com/questions/69147780/calculate-the-percentage-of-each-row-which-is-above-or-below-average-for-specif) - 3 votes
-* [Is there a way to speed up handling large CSVs and dataframes in python](https://stackoverflow.com/questions/69153017/is-there-a-way-to-speed-up-handling-large-csvs-and-dataframes-in-python) - 2 votes
-* [Pyplot scatter name not defined](https://stackoverflow.com/questions/69154609/pyplot-scatter-name-not-defined) - 2 votes
-* [Pandas groupbyaggregation not working after shift operation](https://stackoverflow.com/questions/69149550/pandas-groupby-aggregation-not-working-after-shift-operation) - 2 votes
+* [Condition on all rows of a groupby](https://stackoverflow.com/questions/69161544/condition-on-all-rows-of-a-groupby) - 4 votes
+* [Filtering if list elements are same in a pandas column](https://stackoverflow.com/questions/69162411/filtering-if-list-elements-are-same-in-a-pandas-column) - 4 votes
+* [Pandas comparing a DataFrame against a ground truth DataFrame](https://stackoverflow.com/questions/69165490/pandas-comparing-a-dataframe-against-a-ground-truth-dataframe) - 3 votes
+* [Unable to produce a list to show any matches in a list](https://stackoverflow.com/questions/69161967/unable-to-produce-a-list-to-show-any-matches-in-a-list) - 3 votes
+* [convert multicategorical column into two category in pandas](https://stackoverflow.com/questions/69166951/convert-multi-categorical-column-into-two-category-in-pandas) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Pyplot scatter name not defined](https://stackoverflow.com/questions/69154609/pyplot-scatter-name-not-defined) - 2 votes
-* [Isometric orientation for heatmap with matplotlib](https://stackoverflow.com/questions/69153035/isometric-orientation-for-heatmap-with-matplotlib) - 1 votes
+* [Custom multicolored horizontal bar chart matplotlib](https://stackoverflow.com/questions/69165744/custom-multi-colored-horizontal-bar-chart-matplotlib) - 1 votes
+* [Giving a YScale to matplotlib](https://stackoverflow.com/questions/69164797/giving-a-y-scale-to-matplotlib) - 1 votes
+* [How to connect the points in such a way that a parallelogram is created](https://stackoverflow.com/questions/69163515/how-to-connect-the-points-in-such-a-way-that-a-parallelogram-is-created) - 1 votes
+* [Python contourffunction with customized colorbar](https://stackoverflow.com/questions/69167262/python-contourf-function-with-customized-colorbar) - 1 votes
+* [Collect points from a figure and plot them](https://stackoverflow.com/questions/69162544/collect-points-from-a-figure-and-plot-them) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Barplot with outline per unit](https://stackoverflow.com/questions/69154053/barplot-with-outline-per-unit) - 3 votes
-* [Loop over objects in ggplot](https://stackoverflow.com/questions/69154274/loop-over-objects-in-ggplot) - 2 votes
-* [R  ggplot2  set values of my barchart on the other side of the yaxis](https://stackoverflow.com/questions/69154455/r-ggplot2-set-values-of-my-barchart-on-the-other-side-of-the-y-axis) - 1 votes
-* [I ran a loop containing a ggplot function but it nothing appears](https://stackoverflow.com/questions/69153113/i-ran-a-loop-containing-a-ggplot-function-but-it-nothing-appears) - 1 votes
+* [Arrange multiple plots and keep the xaxis label flush with with axis](https://stackoverflow.com/questions/69157853/arrange-multiple-plots-and-keep-the-x-axis-label-flush-with-with-axis) - 2 votes
+* [R  geom_text goes wrong with gganimate](https://stackoverflow.com/questions/69156304/r-geom-text-goes-wrong-with-gganimate) - 2 votes
+* [Error can39t find the yposition variable 39yposition39 in the data](https://stackoverflow.com/questions/69161379/error-cant-find-the-y-position-variable-y-position-in-the-data) - 1 votes
+* [Add second axes top and right with minor ticks](https://stackoverflow.com/questions/69167607/add-second-axes-top-and-right-with-minor-ticks) - 1 votes
+* [label and change colors to bar charts using ggplot2](https://stackoverflow.com/questions/69164211/label-and-change-colors-to-bar-charts-using-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
