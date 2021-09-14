@@ -1,39 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-13<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-14<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Condition on all rows of a groupby](https://stackoverflow.com/questions/69161544/condition-on-all-rows-of-a-groupby) - 4 votes
-* [Filtering if list elements are same in a pandas column](https://stackoverflow.com/questions/69162411/filtering-if-list-elements-are-same-in-a-pandas-column) - 4 votes
-* [Pandas comparing a DataFrame against a ground truth DataFrame](https://stackoverflow.com/questions/69165490/pandas-comparing-a-dataframe-against-a-ground-truth-dataframe) - 3 votes
-* [Unable to produce a list to show any matches in a list](https://stackoverflow.com/questions/69161967/unable-to-produce-a-list-to-show-any-matches-in-a-list) - 3 votes
-* [convert multicategorical column into two category in pandas](https://stackoverflow.com/questions/69166951/convert-multi-categorical-column-into-two-category-in-pandas) - 2 votes
+* [Split a string in pandas row and insert new rows by enlarging the dataframe](https://stackoverflow.com/questions/69170706/split-a-string-in-pandas-row-and-insert-new-rows-by-enlarging-the-dataframe) - 5 votes
+* [How to rename the first column of a pandas dataframe](https://stackoverflow.com/questions/69173643/how-to-rename-the-first-column-of-a-pandas-dataframe) - 4 votes
+* [Filter list of list column then split explode rowwisely in Python](https://stackoverflow.com/questions/69171596/filter-list-of-list-column-then-split-explode-row-wisely-in-python) - 4 votes
+* [Sum dataframe column by conditional row criteria](https://stackoverflow.com/questions/69184475/sum-dataframe-column-by-conditional-row-criteria) - 3 votes
+* [Replace string column endwiths specific substrings under condition of another column with Pandas](https://stackoverflow.com/questions/69175817/replace-string-column-endwiths-specific-substrings-under-condition-of-another-co) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Custom multicolored horizontal bar chart matplotlib](https://stackoverflow.com/questions/69165744/custom-multi-colored-horizontal-bar-chart-matplotlib) - 1 votes
-* [Giving a YScale to matplotlib](https://stackoverflow.com/questions/69164797/giving-a-y-scale-to-matplotlib) - 1 votes
-* [How to connect the points in such a way that a parallelogram is created](https://stackoverflow.com/questions/69163515/how-to-connect-the-points-in-such-a-way-that-a-parallelogram-is-created) - 1 votes
-* [Python contourffunction with customized colorbar](https://stackoverflow.com/questions/69167262/python-contourf-function-with-customized-colorbar) - 1 votes
-* [Collect points from a figure and plot them](https://stackoverflow.com/questions/69162544/collect-points-from-a-figure-and-plot-them) - 1 votes
+* [How to filter a dataframe based on the slope of a line between two columns](https://stackoverflow.com/questions/69177391/how-to-filter-a-dataframe-based-on-the-slope-of-a-line-between-two-columns) - 3 votes
+* [How to create multiple subplots from a wide dataframe with a function](https://stackoverflow.com/questions/69180570/how-to-create-multiple-subplots-from-a-wide-dataframe-with-a-function) - 1 votes
+* [How to remove decile marks in partial dependence plots of sklearn](https://stackoverflow.com/questions/69180234/how-to-remove-decile-marks-in-partial-dependence-plots-of-sklearn) - 1 votes
+* [How to create a bar plot with a logarithmic xaxis and gaps between the bars](https://stackoverflow.com/questions/69183241/how-to-create-a-bar-plot-with-a-logarithmic-x-axis-and-gaps-between-the-bars) - 1 votes
+* [How to plot a linear model on an existing time series line plot](https://stackoverflow.com/questions/69170874/how-to-plot-a-linear-model-on-an-existing-time-series-line-plot) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Arrange multiple plots and keep the xaxis label flush with with axis](https://stackoverflow.com/questions/69157853/arrange-multiple-plots-and-keep-the-x-axis-label-flush-with-with-axis) - 2 votes
-* [R  geom_text goes wrong with gganimate](https://stackoverflow.com/questions/69156304/r-geom-text-goes-wrong-with-gganimate) - 2 votes
-* [Error can39t find the yposition variable 39yposition39 in the data](https://stackoverflow.com/questions/69161379/error-cant-find-the-y-position-variable-y-position-in-the-data) - 1 votes
-* [Add second axes top and right with minor ticks](https://stackoverflow.com/questions/69167607/add-second-axes-top-and-right-with-minor-ticks) - 1 votes
-* [label and change colors to bar charts using ggplot2](https://stackoverflow.com/questions/69164211/label-and-change-colors-to-bar-charts-using-ggplot2) - 1 votes
+* [Area chart displays bigger values lower than smaller values](https://stackoverflow.com/questions/69178320/area-chart-displays-bigger-values-lower-than-smaller-values) - 2 votes
+* [Using ggplot with the AirPassengers Dataset](https://stackoverflow.com/questions/69171669/using-ggplot-with-the-airpassengers-dataset) - 1 votes
+* [R How to make multiple plots in a graph using unique IDs](https://stackoverflow.com/questions/69170690/r-how-to-make-multiple-plots-in-a-graph-using-unique-ids) - 1 votes
+* [ggplot draws incorrect plot margins when saving to pdf](https://stackoverflow.com/questions/69181051/ggplot-draws-incorrect-plot-margins-when-saving-to-pdf) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
