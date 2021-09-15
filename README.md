@@ -1,38 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-14<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-15<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Split a string in pandas row and insert new rows by enlarging the dataframe](https://stackoverflow.com/questions/69170706/split-a-string-in-pandas-row-and-insert-new-rows-by-enlarging-the-dataframe) - 5 votes
-* [How to rename the first column of a pandas dataframe](https://stackoverflow.com/questions/69173643/how-to-rename-the-first-column-of-a-pandas-dataframe) - 4 votes
-* [Filter list of list column then split explode rowwisely in Python](https://stackoverflow.com/questions/69171596/filter-list-of-list-column-then-split-explode-row-wisely-in-python) - 4 votes
-* [Sum dataframe column by conditional row criteria](https://stackoverflow.com/questions/69184475/sum-dataframe-column-by-conditional-row-criteria) - 3 votes
-* [Replace string column endwiths specific substrings under condition of another column with Pandas](https://stackoverflow.com/questions/69175817/replace-string-column-endwiths-specific-substrings-under-condition-of-another-co) - 3 votes
+* [How to add a row in a special form](https://stackoverflow.com/questions/69188655/how-to-add-a-row-in-a-special-form) - 4 votes
+* [Find Last Available Date in Pandas Data Frame](https://stackoverflow.com/questions/69187899/find-last-available-date-in-pandas-data-frame) - 3 votes
+* [How to handle missing data in pandas dataframe](https://stackoverflow.com/questions/69188573/how-to-handle-missing-data-in-pandas-dataframe) - 3 votes
+* [Pandas category shows different behaviour when equating dtype  39float6439 and dtype  39category39](https://stackoverflow.com/questions/69188407/pandas-category-shows-different-behaviour-when-equating-dtype-float64-and-dt) - 3 votes
+* [Weighted average by another column in pandas](https://stackoverflow.com/questions/69190358/weighted-average-by-another-column-in-pandas) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to filter a dataframe based on the slope of a line between two columns](https://stackoverflow.com/questions/69177391/how-to-filter-a-dataframe-based-on-the-slope-of-a-line-between-two-columns) - 3 votes
-* [How to create multiple subplots from a wide dataframe with a function](https://stackoverflow.com/questions/69180570/how-to-create-multiple-subplots-from-a-wide-dataframe-with-a-function) - 1 votes
-* [How to remove decile marks in partial dependence plots of sklearn](https://stackoverflow.com/questions/69180234/how-to-remove-decile-marks-in-partial-dependence-plots-of-sklearn) - 1 votes
-* [How to create a bar plot with a logarithmic xaxis and gaps between the bars](https://stackoverflow.com/questions/69183241/how-to-create-a-bar-plot-with-a-logarithmic-x-axis-and-gaps-between-the-bars) - 1 votes
-* [How to plot a linear model on an existing time series line plot](https://stackoverflow.com/questions/69170874/how-to-plot-a-linear-model-on-an-existing-time-series-line-plot) - 1 votes
+* [How can I name each bar label in a stacked bar graph](https://stackoverflow.com/questions/69187181/how-can-i-name-each-bar-label-in-a-stacked-bar-graph) - 1 votes
+* [Matplotlib figure does not update in every loop](https://stackoverflow.com/questions/69192468/matplotlib-figure-does-not-update-in-every-loop) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Area chart displays bigger values lower than smaller values](https://stackoverflow.com/questions/69178320/area-chart-displays-bigger-values-lower-than-smaller-values) - 2 votes
-* [Using ggplot with the AirPassengers Dataset](https://stackoverflow.com/questions/69171669/using-ggplot-with-the-airpassengers-dataset) - 1 votes
-* [R How to make multiple plots in a graph using unique IDs](https://stackoverflow.com/questions/69170690/r-how-to-make-multiple-plots-in-a-graph-using-unique-ids) - 1 votes
-* [ggplot draws incorrect plot margins when saving to pdf](https://stackoverflow.com/questions/69181051/ggplot-draws-incorrect-plot-margins-when-saving-to-pdf) - 1 votes
+* [After placing text independently in each panel using facet_wrap  how to change text color in R](https://stackoverflow.com/questions/69191617/after-placing-text-independently-in-each-panel-using-facet-wrap-how-to-chang) - 2 votes
+* [Ordering number of counts in ggplot histogram](https://stackoverflow.com/questions/69187610/ordering-number-of-counts-in-ggplot-histogram) - 1 votes
+* [Limit the number of keys shown in legend ggplot2](https://stackoverflow.com/questions/69195855/limit-the-number-of-keys-shown-in-legend-ggplot2) - 1 votes
+* [Add text outside of bar in geom_col](https://stackoverflow.com/questions/69187430/add-text-outside-of-bar-in-geom-col) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
