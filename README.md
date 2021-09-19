@@ -1,34 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-18<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-19<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Checking if elements in an array exist in a pandas DataFrame](https://stackoverflow.com/questions/69232157/checking-if-elements-in-an-array-exist-in-a-pandas-dataframe) - 7 votes
-* [Column of lists to column of tuples in pandas](https://stackoverflow.com/questions/69233945/column-of-lists-to-column-of-tuples-in-pandas) - 2 votes
-* [The memory of the 39read_csv39 data is different from that of the original data](https://stackoverflow.com/questions/69232374/the-memory-of-the-read-csv-data-is-different-from-that-of-the-original-data) - 2 votes
-* [How to fill a numpy arrays nan values with the means of their columns](https://stackoverflow.com/questions/69231756/how-to-fill-a-numpy-arrays-nan-values-with-the-means-of-their-columns) - 2 votes
-* [javalangNoSuchMethodError comgoogleflatbuffersFlatBufferBuildercreateStringLjavalangCharSequenceI](https://stackoverflow.com/questions/69236212/java-lang-nosuchmethoderror-com-google-flatbuffers-flatbufferbuilder-createstri) - 2 votes
+* [Node39s attributes from a different dataset](https://stackoverflow.com/questions/69239556/nodes-attributes-from-a-different-dataset) - 3 votes
+* [How to get categories of words containing unique 3letter set from the columns of pandas dataframe in Python](https://stackoverflow.com/questions/69245203/how-to-get-categories-of-words-containing-unique-3-letter-set-from-the-columns-o) - 3 votes
+* [How to map values to a DataFrame with multiple columns as keys](https://stackoverflow.com/questions/69241622/how-to-map-values-to-a-dataframe-with-multiple-columns-as-keys) - 2 votes
+* [How to do conditional groupby in pandas dataframe](https://stackoverflow.com/questions/69242976/how-to-do-conditional-groupby-in-pandas-dataframe) - 2 votes
+* [Issues reading many excel files](https://stackoverflow.com/questions/69245683/issues-reading-many-excel-files) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Creating a boxplot in MatPlotLib using Titanic Dataset](https://stackoverflow.com/questions/69237090/creating-a-boxplot-in-matplotlib-using-titanic-dataset) - 1 votes
-* [How to detect if there is intersection using matplotlib](https://stackoverflow.com/questions/69233953/how-to-detect-if-there-is-intersection-using-matplotlib) - 1 votes
-* [How to display only certain bins according to bin height with a pyplot histogram](https://stackoverflow.com/questions/69237105/how-to-display-only-certain-bins-according-to-bin-height-with-a-pyplot-histogram) - 1 votes
+* [How to smooth line between polygon points](https://stackoverflow.com/questions/69247073/how-to-smooth-line-between-polygon-points) - 1 votes
+* [Trying to plot a branched sinx function in python and pylab](https://stackoverflow.com/questions/69246667/trying-to-plot-a-branched-sinx-function-in-python-and-pylab) - 1 votes
+* [How to determine the x value on the edge of the violinplot for a mean line](https://stackoverflow.com/questions/69246332/how-to-determine-the-x-value-on-the-edge-of-the-violinplot-for-a-mean-line) - 1 votes
+* [Transpose from cartopy to axes coords](https://stackoverflow.com/questions/69244177/transpose-from-cartopy-to-axes-coords) - 1 votes
+* [How to create grouped and stacked bars](https://stackoverflow.com/questions/69242928/how-to-create-grouped-and-stacked-bars) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Combining two subsets of data and GLM results on one ggplot](https://stackoverflow.com/questions/69230687/combining-two-subsets-of-data-and-glm-results-on-one-ggplot) - 2 votes
-* [How to vary quotposition_dodgequot for one point and not others in a series in ggplot2](https://stackoverflow.com/questions/69237204/how-to-vary-position-dodge-for-one-point-and-not-others-in-a-series-in-ggplot2) - 1 votes
+* [How to assign colors to multicolor scatter plot with multicolor fitted lines in ggplot2](https://stackoverflow.com/questions/69244271/how-to-assign-colors-to-multicolor-scatter-plot-with-multicolor-fitted-lines-in) - 1 votes
+* [R ggplot with variable inside loop](https://stackoverflow.com/questions/69243977/r-ggplot-with-variable-inside-loop) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
