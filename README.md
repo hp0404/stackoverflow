@@ -1,36 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-19<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-20<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Node39s attributes from a different dataset](https://stackoverflow.com/questions/69239556/nodes-attributes-from-a-different-dataset) - 3 votes
-* [How to get categories of words containing unique 3letter set from the columns of pandas dataframe in Python](https://stackoverflow.com/questions/69245203/how-to-get-categories-of-words-containing-unique-3-letter-set-from-the-columns-o) - 3 votes
-* [How to map values to a DataFrame with multiple columns as keys](https://stackoverflow.com/questions/69241622/how-to-map-values-to-a-dataframe-with-multiple-columns-as-keys) - 2 votes
-* [How to do conditional groupby in pandas dataframe](https://stackoverflow.com/questions/69242976/how-to-do-conditional-groupby-in-pandas-dataframe) - 2 votes
-* [Issues reading many excel files](https://stackoverflow.com/questions/69245683/issues-reading-many-excel-files) - 1 votes
+* [Column wise concatenation for each set of values](https://stackoverflow.com/questions/69254086/column-wise-concatenation-for-each-set-of-values) - 3 votes
+* [Pandas GroupBy   of boolean flags which are True](https://stackoverflow.com/questions/69253238/pandas-groupby-of-boolean-flags-which-are-true) - 3 votes
+* [Apply multiple criteria to select current and prior row  Pandas](https://stackoverflow.com/questions/69253057/apply-multiple-criteria-to-select-current-and-prior-row-pandas) - 3 votes
+* [Trying to add looped string to empty dataframe pandas](https://stackoverflow.com/questions/69252668/trying-to-add-looped-string-to-empty-dataframe-pandas) - 3 votes
+* [YFINANCE or YAHOOQUERY Retrieve holdings data](https://stackoverflow.com/questions/69248656/yfinance-or-yahooquery-retrieve-holdings-data) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to smooth line between polygon points](https://stackoverflow.com/questions/69247073/how-to-smooth-line-between-polygon-points) - 1 votes
-* [Trying to plot a branched sinx function in python and pylab](https://stackoverflow.com/questions/69246667/trying-to-plot-a-branched-sinx-function-in-python-and-pylab) - 1 votes
-* [How to determine the x value on the edge of the violinplot for a mean line](https://stackoverflow.com/questions/69246332/how-to-determine-the-x-value-on-the-edge-of-the-violinplot-for-a-mean-line) - 1 votes
-* [Transpose from cartopy to axes coords](https://stackoverflow.com/questions/69244177/transpose-from-cartopy-to-axes-coords) - 1 votes
-* [How to create grouped and stacked bars](https://stackoverflow.com/questions/69242928/how-to-create-grouped-and-stacked-bars) - 1 votes
+* [How to label numbers and draw circles on image with OpenCV](https://stackoverflow.com/questions/69249813/how-to-label-numbers-and-draw-circles-on-image-with-opencv) - 2 votes
+* [How to change the colors and rename labels of a 3D plot](https://stackoverflow.com/questions/69254483/how-to-change-the-colors-and-rename-labels-of-a-3d-plot) - 2 votes
+* [How to distribute values to have a specified probability density function](https://stackoverflow.com/questions/69254680/how-to-distribute-values-to-have-a-specified-probability-density-function) - 1 votes
+* [Making a trail animation for the N body problem](https://stackoverflow.com/questions/69258544/making-a-trail-animation-for-the-n-body-problem) - 1 votes
+* [Is it possible to artificially expand the chart axis in a color chart](https://stackoverflow.com/questions/69257166/is-it-possible-to-artificially-expand-the-chart-axis-in-a-color-chart) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to assign colors to multicolor scatter plot with multicolor fitted lines in ggplot2](https://stackoverflow.com/questions/69244271/how-to-assign-colors-to-multicolor-scatter-plot-with-multicolor-fitted-lines-in) - 1 votes
-* [R ggplot with variable inside loop](https://stackoverflow.com/questions/69243977/r-ggplot-with-variable-inside-loop) - 1 votes
+* [Labels in a grouped bar chart with multiple groups](https://stackoverflow.com/questions/69257619/labels-in-a-grouped-bar-chart-with-multiple-groups) - 2 votes
+* [ggplot2 use colour  shape   inside and outside of aes in a flexible plotting function](https://stackoverflow.com/questions/69259183/ggplot2-use-colour-shape-inside-and-outside-of-aes-in-a-flexible-plot) - 1 votes
+* [Save graphs facet on multiple pages](https://stackoverflow.com/questions/69257289/save-graphs-facet-on-multiple-pages) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
