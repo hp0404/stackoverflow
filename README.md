@@ -1,37 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-23<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-24<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Reordering common columns but not others in pandas dataframe](https://stackoverflow.com/questions/69303422/reordering-common-columns-but-not-others-in-pandas-dataframe) - 3 votes
-* [Alternative for multiple if statements using dataframe Pandas](https://stackoverflow.com/questions/69299660/alternative-for-multiple-if-statements-using-dataframe-pandas) - 3 votes
-* [how to take index list from groupby dataframe pandas](https://stackoverflow.com/questions/69294124/how-to-take-index-list-from-groupby-dataframe-pandas) - 3 votes
-* [Python Pandas How to only strlower Rows or Cells that contain a certain string](https://stackoverflow.com/questions/69296949/python-pandas-how-to-only-str-lower-rows-or-cells-that-contain-a-certain-stri) - 3 votes
-* [Sliding Window and comparing elements of DataFrame to a threshold](https://stackoverflow.com/questions/69295608/sliding-window-and-comparing-elements-of-dataframe-to-a-threshold) - 3 votes
+* [Most pythonic way to concatenate pandas cells with conditions](https://stackoverflow.com/questions/69313521/most-pythonic-way-to-concatenate-pandas-cells-with-conditions) - 3 votes
+* [pandas replace npnan based on multiple conditions](https://stackoverflow.com/questions/69315967/pandas-replace-np-nan-based-on-multiple-conditions) - 3 votes
+* [Assign same values in column A for absolute numbers in column B in a pandas dataframe](https://stackoverflow.com/questions/69315539/assign-same-values-in-column-a-for-absolute-numbers-in-column-b-in-a-pandas-data) - 3 votes
+* [How do I pivot a pandas DataFrame while concatenating string values](https://stackoverflow.com/questions/69311559/how-do-i-pivot-a-pandas-dataframe-while-concatenating-string-values) - 2 votes
+* [Merging two dataframes with a hint of common values](https://stackoverflow.com/questions/69310613/merging-two-dataframes-with-a-hint-of-common-values) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Matplotlib scatter plot xaxis value is messed up](https://stackoverflow.com/questions/69296381/matplotlib-scatter-plot-x-axis-value-is-messed-up) - 2 votes
-* [How to add a legend entry for a curve in 39pltcontour39](https://stackoverflow.com/questions/69294316/how-to-add-a-legend-entry-for-a-curve-in-plt-contour) - 2 votes
-* [Seaborn heatmap how to specifiy xy axes from data frame](https://stackoverflow.com/questions/69296826/seaborn-heatmap-how-to-specifiy-x-y-axes-from-data-frame) - 1 votes
-* [Matplotlib Python DateFormatter returning 0000](https://stackoverflow.com/questions/69297506/matplotlib-python-dateformatter-returning-0000) - 1 votes
-* [How to export a 3d plot in matplotlib as a video](https://stackoverflow.com/questions/69303040/how-to-export-a-3d-plot-in-matplotlib-as-a-video) - 1 votes
+* [Same ticks in logplot](https://stackoverflow.com/questions/69319745/same-ticks-in-log-plot) - 1 votes
+* [Plotting multiple curves and intersection points using for loop](https://stackoverflow.com/questions/69314112/plotting-multiple-curves-and-intersection-points-using-for-loop) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [R ggplot How do I keep related points together when using jitter](https://stackoverflow.com/questions/69302131/r-ggplot-how-do-i-keep-related-points-together-when-using-jitter) - 3 votes
-* [Implement google fonts in ggplot2 graphs](https://stackoverflow.com/questions/69302413/implement-google-fonts-in-ggplot2-graphs) - 1 votes
-* [Different coordinates scales on each boxplot graphs of a facet and keeping outliers ggplot](https://stackoverflow.com/questions/69301751/different-coordinates-scales-on-each-boxplot-graphs-of-a-facet-and-keeping-outli) - 1 votes
+* [Reduce range ggplot yaxis without reducing range of shown data](https://stackoverflow.com/questions/69312147/reduce-range-ggplot-y-axis-without-reducing-range-of-shown-data) - 3 votes
+* [How can I check whether a given font has been loaded already using extrafont package in R](https://stackoverflow.com/questions/69308449/how-can-i-check-whether-a-given-font-has-been-loaded-already-using-extrafont-pac) - 2 votes
+* [Display more than three variables using different aesthetics in a ggplot2 bar chart](https://stackoverflow.com/questions/69312513/display-more-than-three-variables-using-different-aesthetics-in-a-ggplot2-bar-ch) - 1 votes
+* [Creating an overlap histogram using two different vectors with ggplot](https://stackoverflow.com/questions/69317044/creating-an-overlap-histogram-using-two-different-vectors-with-ggplot) - 1 votes
+* [Getting counts from geom_density](https://stackoverflow.com/questions/69314313/getting-counts-from-geom-density) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
