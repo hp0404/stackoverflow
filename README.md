@@ -1,36 +1,33 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-24<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-25<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Most pythonic way to concatenate pandas cells with conditions](https://stackoverflow.com/questions/69313521/most-pythonic-way-to-concatenate-pandas-cells-with-conditions) - 3 votes
-* [pandas replace npnan based on multiple conditions](https://stackoverflow.com/questions/69315967/pandas-replace-np-nan-based-on-multiple-conditions) - 3 votes
-* [Assign same values in column A for absolute numbers in column B in a pandas dataframe](https://stackoverflow.com/questions/69315539/assign-same-values-in-column-a-for-absolute-numbers-in-column-b-in-a-pandas-data) - 3 votes
-* [How do I pivot a pandas DataFrame while concatenating string values](https://stackoverflow.com/questions/69311559/how-do-i-pivot-a-pandas-dataframe-while-concatenating-string-values) - 2 votes
-* [Merging two dataframes with a hint of common values](https://stackoverflow.com/questions/69310613/merging-two-dataframes-with-a-hint-of-common-values) - 2 votes
+* [How to drop duplicate data with different column names in pandas](https://stackoverflow.com/questions/69323304/how-to-drop-duplicate-data-with-different-column-names-in-pandas) - 3 votes
+* [Pandas read sharepoint excel file XLRDError](https://stackoverflow.com/questions/69327559/pandas-read-sharepoint-excel-file-xlrderror) - 2 votes
+* [pandas remove entire row if it contains negative values](https://stackoverflow.com/questions/69326901/pandas-remove-entire-row-if-it-contains-negative-values) - 1 votes
+* [Modify dataframes using apply with loop in pandas](https://stackoverflow.com/questions/69327059/modify-dataframes-using-apply-with-loop-in-pandas) - 1 votes
+* [Function drops invalid values in dataframes but then it returns original dataframes with invalid values](https://stackoverflow.com/questions/69329945/function-drops-invalid-values-in-dataframes-but-then-it-returns-original-datafra) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Same ticks in logplot](https://stackoverflow.com/questions/69319745/same-ticks-in-log-plot) - 1 votes
-* [Plotting multiple curves and intersection points using for loop](https://stackoverflow.com/questions/69314112/plotting-multiple-curves-and-intersection-points-using-for-loop) - 1 votes
+* [Python matplotlib intersection between 2 plots to get the colour of only one of them](https://stackoverflow.com/questions/69324977/python-matplotlib-intersection-between-2-plots-to-get-the-colour-of-only-one-of) - 1 votes
+* [Python and Matplotlib how to add multiple window](https://stackoverflow.com/questions/69324965/python-and-matplotlib-how-to-add-multiple-window) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Reduce range ggplot yaxis without reducing range of shown data](https://stackoverflow.com/questions/69312147/reduce-range-ggplot-y-axis-without-reducing-range-of-shown-data) - 3 votes
-* [How can I check whether a given font has been loaded already using extrafont package in R](https://stackoverflow.com/questions/69308449/how-can-i-check-whether-a-given-font-has-been-loaded-already-using-extrafont-pac) - 2 votes
-* [Display more than three variables using different aesthetics in a ggplot2 bar chart](https://stackoverflow.com/questions/69312513/display-more-than-three-variables-using-different-aesthetics-in-a-ggplot2-bar-ch) - 1 votes
-* [Creating an overlap histogram using two different vectors with ggplot](https://stackoverflow.com/questions/69317044/creating-an-overlap-histogram-using-two-different-vectors-with-ggplot) - 1 votes
-* [Getting counts from geom_density](https://stackoverflow.com/questions/69314313/getting-counts-from-geom-density) - 1 votes
+* [Color X axis in ggplot2 bar plot](https://stackoverflow.com/questions/69324682/color-x-axis-in-ggplot2-bar-plot) - 1 votes
+* [Trying to represent hashtags in a bar chart](https://stackoverflow.com/questions/69322183/trying-to-represent-hashtags-in-a-bar-chart) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
