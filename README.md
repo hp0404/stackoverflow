@@ -1,33 +1,34 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-25<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-26<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to drop duplicate data with different column names in pandas](https://stackoverflow.com/questions/69323304/how-to-drop-duplicate-data-with-different-column-names-in-pandas) - 3 votes
-* [Pandas read sharepoint excel file XLRDError](https://stackoverflow.com/questions/69327559/pandas-read-sharepoint-excel-file-xlrderror) - 2 votes
-* [pandas remove entire row if it contains negative values](https://stackoverflow.com/questions/69326901/pandas-remove-entire-row-if-it-contains-negative-values) - 1 votes
-* [Modify dataframes using apply with loop in pandas](https://stackoverflow.com/questions/69327059/modify-dataframes-using-apply-with-loop-in-pandas) - 1 votes
-* [Function drops invalid values in dataframes but then it returns original dataframes with invalid values](https://stackoverflow.com/questions/69329945/function-drops-invalid-values-in-dataframes-but-then-it-returns-original-datafra) - 1 votes
+* [PandasPython How to create new column based on values from other columns and apply extra condition to this new column](https://stackoverflow.com/questions/69330911/pandas-python-how-to-create-new-column-based-on-values-from-other-columns-and-a) - 3 votes
+* [Remove repeating words in column based on another column](https://stackoverflow.com/questions/69331808/remove-repeating-words-in-column-based-on-another-column) - 3 votes
+* [More efficient way to write this for loop](https://stackoverflow.com/questions/69331494/more-efficient-way-to-write-this-for-loop) - 2 votes
+* [Python Group and count unique variables based on multiple grouping without recount](https://stackoverflow.com/questions/69335344/python-group-and-count-unique-variables-based-on-multiple-grouping-without-reco) - 2 votes
+* [Pandas Merge contents of a dataframe into a single column as a list of dict  json](https://stackoverflow.com/questions/69333574/pandas-merge-contents-of-a-dataframe-into-a-single-column-as-a-list-of-dict) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Python matplotlib intersection between 2 plots to get the colour of only one of them](https://stackoverflow.com/questions/69324977/python-matplotlib-intersection-between-2-plots-to-get-the-colour-of-only-one-of) - 1 votes
-* [Python and Matplotlib how to add multiple window](https://stackoverflow.com/questions/69324965/python-and-matplotlib-how-to-add-multiple-window) - 1 votes
+* [How to draw intersecting polygons in 3d](https://stackoverflow.com/questions/69335025/how-to-draw-intersecting-polygons-in-3d) - 2 votes
+* [How can I show labels in hours and minutes format in xaxis for all x values in a plot using matplotlib in Python](https://stackoverflow.com/questions/69333669/how-can-i-show-labels-in-hours-and-minutes-format-in-xaxis-for-all-x-values-in-a) - 1 votes
+* [How can I add my seaborn plots created inside a function to a matplotlib subplot object that I create outside](https://stackoverflow.com/questions/69333569/how-can-i-add-my-seaborn-plots-created-inside-a-function-to-a-matplotlib-subplot) - 1 votes
+* [Seaborn xaxis with large timeine](https://stackoverflow.com/questions/69331189/seaborn-xaxis-with-large-timeine) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Color X axis in ggplot2 bar plot](https://stackoverflow.com/questions/69324682/color-x-axis-in-ggplot2-bar-plot) - 1 votes
-* [Trying to represent hashtags in a bar chart](https://stackoverflow.com/questions/69322183/trying-to-represent-hashtags-in-a-bar-chart) - 1 votes
+* [R  Automatize Multiplot Input ggPlot2](https://stackoverflow.com/questions/69338906/r-automatize-multiplot-input-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
