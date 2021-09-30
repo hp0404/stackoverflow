@@ -1,37 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-29<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-30<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to find the count of spaces in a dataframe using python](https://stackoverflow.com/questions/69370793/how-to-find-the-count-of-spaces-in-a-dataframe-using-python) - 3 votes
-* [How do I extract a specific column from a dataset using pandas that39s imported from a HTML file](https://stackoverflow.com/questions/69373046/how-do-i-extract-a-specific-column-from-a-dataset-using-pandas-thats-imported-f) - 2 votes
-* [Read rows from middle pandas df](https://stackoverflow.com/questions/69370097/read-rows-from-middle-pandas-df) - 2 votes
-* [How to plot multiple sets of X and Y in matplotlib](https://stackoverflow.com/questions/69380056/how-to-plot-multiple-sets-of-x-and-y-in-matplotlib) - 2 votes
-* [Pandas  Best way to derive a new column by checking condition on other rows of the same dataframe](https://stackoverflow.com/questions/69378344/pandas-best-way-to-derive-a-new-column-by-checking-condition-on-other-rows-of) - 2 votes
+* [Replace a string if it starts with a certain character](https://stackoverflow.com/questions/69390223/replace-a-string-if-it-starts-with-a-certain-character) - 3 votes
+* [Data frame segmentation and dropping](https://stackoverflow.com/questions/69385499/data-frame-segmentation-and-dropping) - 3 votes
+* [Make column rows the same value with matching value of another column when condition is met](https://stackoverflow.com/questions/69386176/make-column-rows-the-same-value-with-matching-value-of-another-column-when-condi) - 2 votes
+* [Iterating through a Dataframe Column](https://stackoverflow.com/questions/69396013/iterating-through-a-dataframe-column) - 2 votes
+* [python pandas drop rows by condition](https://stackoverflow.com/questions/69388274/python-pandas-drop-rows-by-condition) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to plot multiple sets of X and Y in matplotlib](https://stackoverflow.com/questions/69380056/how-to-plot-multiple-sets-of-x-and-y-in-matplotlib) - 2 votes
-* [Wrong result trying to plot a spiderweb graph in matplotlib](https://stackoverflow.com/questions/69376490/wrong-result-trying-to-plot-a-spider-web-graph-in-matplotlib) - 2 votes
-* [Matplotlib time series historical vs prediction plot shifting one month in the xaxis](https://stackoverflow.com/questions/69379876/matplotlib-time-series-historical-vs-prediction-plot-shifting-one-month-in-the-x) - 1 votes
-* [Adjust individual subplot spacing](https://stackoverflow.com/questions/69373528/adjust-individual-subplot-spacing) - 1 votes
-* [how to combine two or more pandas dataframes with different length timeseries for matplotlib plots](https://stackoverflow.com/questions/69369993/how-to-combine-two-or-more-pandas-dataframes-with-different-length-time-series-f) - 1 votes
+* [ValueError due to a missing element in color map](https://stackoverflow.com/questions/69397742/valueerror-due-to-a-missing-element-in-color-map) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Can ggfittext automatically choose rotation for text](https://stackoverflow.com/questions/69380304/can-ggfittext-automatically-choose-rotation-for-text) - 2 votes
-* [R calculate area under a density curve until a cutoff value](https://stackoverflow.com/questions/69375009/r-calculate-area-under-a-density-curve-until-a-cutoff-value) - 1 votes
-* [0 and 1 on diagram ggplot](https://stackoverflow.com/questions/69370634/0-and-1-on-diagram-ggplot) - 1 votes
+* [How to customize the shape of an contour made inside a geom_tile in ggplot2](https://stackoverflow.com/questions/69393400/how-to-customize-the-shape-of-an-contour-made-inside-a-geom-tile-in-ggplot2) - 2 votes
+* [How to plot data that is separated into multiple categories using ggplot2](https://stackoverflow.com/questions/69392779/how-to-plot-data-that-is-separated-into-multiple-categories-using-ggplot2) - 1 votes
+* [How to modify the hovertemplate of histogram when using ggplotly](https://stackoverflow.com/questions/69389367/how-to-modify-the-hovertemplate-of-histogram-when-using-ggplotly) - 1 votes
+* [SemiCircle Marker or SemiCircle Drawing in ggplot2  R](https://stackoverflow.com/questions/69384911/semi-circle-marker-or-semi-circle-drawing-in-ggplot2-r) - 1 votes
+* [How to change colour of points in ggplot](https://stackoverflow.com/questions/69394634/how-to-change-colour-of-points-in-ggplot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
