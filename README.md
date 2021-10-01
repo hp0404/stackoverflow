@@ -1,35 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-09-30<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-01<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Replace a string if it starts with a certain character](https://stackoverflow.com/questions/69390223/replace-a-string-if-it-starts-with-a-certain-character) - 3 votes
-* [Data frame segmentation and dropping](https://stackoverflow.com/questions/69385499/data-frame-segmentation-and-dropping) - 3 votes
-* [Make column rows the same value with matching value of another column when condition is met](https://stackoverflow.com/questions/69386176/make-column-rows-the-same-value-with-matching-value-of-another-column-when-condi) - 2 votes
-* [Iterating through a Dataframe Column](https://stackoverflow.com/questions/69396013/iterating-through-a-dataframe-column) - 2 votes
-* [python pandas drop rows by condition](https://stackoverflow.com/questions/69388274/python-pandas-drop-rows-by-condition) - 2 votes
+* [How do you join multiple rows into one row in pandas](https://stackoverflow.com/questions/69400871/how-do-you-join-multiple-rows-into-one-row-in-pandas) - 7 votes
+* [converting only the floats of a column to integer](https://stackoverflow.com/questions/69400771/converting-only-the-floats-of-a-column-to-integer) - 3 votes
+* [Create scatter plot where the color is based on year without adding extra column](https://stackoverflow.com/questions/69407627/create-scatter-plot-where-the-color-is-based-on-year-without-adding-extra-column) - 2 votes
+* [Matching a Reference Dict to a List of Dicts](https://stackoverflow.com/questions/69400535/matching-a-reference-dict-to-a-list-of-dicts) - 2 votes
+* [Plot a side by side bar charts with sharing only Yaxis](https://stackoverflow.com/questions/69401488/plot-a-side-by-side-bar-charts-with-sharing-only-y-axis) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [ValueError due to a missing element in color map](https://stackoverflow.com/questions/69397742/valueerror-due-to-a-missing-element-in-color-map) - 1 votes
+* [Create scatter plot where the color is based on year without adding extra column](https://stackoverflow.com/questions/69407627/create-scatter-plot-where-the-color-is-based-on-year-without-adding-extra-column) - 2 votes
+* [Plot a side by side bar charts with sharing only Yaxis](https://stackoverflow.com/questions/69401488/plot-a-side-by-side-bar-charts-with-sharing-only-y-axis) - 2 votes
+* [How to plot multiple dataframe columns with options for markers colors etc](https://stackoverflow.com/questions/69404824/how-to-plot-multiple-dataframe-columns-with-options-for-markers-colors-etc) - 2 votes
+* [How to put a text label next to a matplotlibpyplotarrow](https://stackoverflow.com/questions/69408290/how-to-put-a-text-label-next-to-a-matplotlib-pyplot-arrow) - 1 votes
+* [AngleAnnotation in Matplotlib is it implemented](https://stackoverflow.com/questions/69406659/angleannotation-in-matplotlib-is-it-implemented) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to customize the shape of an contour made inside a geom_tile in ggplot2](https://stackoverflow.com/questions/69393400/how-to-customize-the-shape-of-an-contour-made-inside-a-geom-tile-in-ggplot2) - 2 votes
-* [How to plot data that is separated into multiple categories using ggplot2](https://stackoverflow.com/questions/69392779/how-to-plot-data-that-is-separated-into-multiple-categories-using-ggplot2) - 1 votes
-* [How to modify the hovertemplate of histogram when using ggplotly](https://stackoverflow.com/questions/69389367/how-to-modify-the-hovertemplate-of-histogram-when-using-ggplotly) - 1 votes
-* [SemiCircle Marker or SemiCircle Drawing in ggplot2  R](https://stackoverflow.com/questions/69384911/semi-circle-marker-or-semi-circle-drawing-in-ggplot2-r) - 1 votes
-* [How to change colour of points in ggplot](https://stackoverflow.com/questions/69394634/how-to-change-colour-of-points-in-ggplot) - 1 votes
+* [Controlling position of Legend in GGplot](https://stackoverflow.com/questions/69403095/controlling-position-of-legend-in-ggplot) - 2 votes
+* [Saving ggplot with expression and unicode in axis title with cairo](https://stackoverflow.com/questions/69407793/saving-ggplot-with-expression-and-unicode-in-axis-title-with-cairo) - 2 votes
+* [ggplot2 adding label to geom_area](https://stackoverflow.com/questions/69410332/ggplot2-adding-label-to-geom-area) - 1 votes
+* [Using ellipsis parameters alongside other parameters](https://stackoverflow.com/questions/69401400/using-ellipsis-parameters-alongside-other-parameters) - 1 votes
+* [Making a heapmap with p values after pairwise comparisons](https://stackoverflow.com/questions/69400918/making-a-heapmap-with-p-values-after-pairwise-comparisons) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
