@@ -1,39 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-04<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-05<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [pandas groupby agg get max from one column and bring along value from another column](https://stackoverflow.com/questions/69432694/pandas-groupby-agg-get-max-from-one-column-and-bring-along-value-from-another-co) - 3 votes
-* [How to optimize dataframe iteration in pandas](https://stackoverflow.com/questions/69430194/how-to-optimize-dataframe-iteration-in-pandas) - 2 votes
-* [How can I split a text between commas and make each new part a new column](https://stackoverflow.com/questions/69440675/how-can-i-split-a-text-between-commas-and-make-each-new-part-a-new-column) - 2 votes
-* [How do I create a weighted feature in a dataframe](https://stackoverflow.com/questions/69439409/how-do-i-create-a-weighted-feature-in-a-dataframe) - 2 votes
-* [quotSettingWithCopyWarningquot with pandas read_csv](https://stackoverflow.com/questions/69437852/settingwithcopywarning-with-pandas-read-csv) - 2 votes
+* [Pandas join with categorical indices](https://stackoverflow.com/questions/69443542/pandas-join-with-categorical-indices) - 3 votes
+* [Iteratively merge panda columns with new column names](https://stackoverflow.com/questions/69445027/iteratively-merge-panda-columns-with-new-column-names) - 3 votes
+* [How to get median values across diagonal lines in a matrix](https://stackoverflow.com/questions/69452978/how-to-get-median-values-across-diagonal-lines-in-a-matrix) - 2 votes
+* [How to perform groupby and remove duplicate based on first occurrence of a column condition](https://stackoverflow.com/questions/69444364/how-to-perform-groupby-and-remove-duplicate-based-on-first-occurrence-of-a-colum) - 2 votes
+* [remove advance duplicate records distinct in more than one columns in dataFrame](https://stackoverflow.com/questions/69453879/remove-advance-duplicate-records-distinct-in-more-than-one-columns-in-dataframe) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Change Colorbar limit for changing scale with matplotlib 33](https://stackoverflow.com/questions/69435068/change-colorbar-limit-for-changing-scale-with-matplotlib-3-3) - 1 votes
-* [How to display data from csv file](https://stackoverflow.com/questions/69438730/how-to-display-data-from-csv-file) - 1 votes
-* [How to plot a grouped bar chart from a dataframe with several columns in x](https://stackoverflow.com/questions/69438430/how-to-plot-a-grouped-bar-chart-from-a-dataframe-with-several-columns-in-x) - 1 votes
-* [Multiple bar graphs in matplot library Python](https://stackoverflow.com/questions/69442220/multiple-bar-graphs-in-matplot-library-python) - 1 votes
-* [Subplots repeating the same graph 6 times and producing 6 figures instead of one](https://stackoverflow.com/questions/69434391/subplots-repeating-the-same-graph-6-times-and-producing-6-figures-instead-of-one) - 1 votes
+* [Plotting time series data with with 30sec break point and color](https://stackoverflow.com/questions/69444442/plotting-time-series-data-with-with-30sec-break-point-and-color) - 1 votes
+* [How does matplotlib classify the training examples and plot them in the code given below and how does the code work](https://stackoverflow.com/questions/69447131/how-does-matplotlib-classify-the-training-examples-and-plot-them-in-the-code-giv) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Error when trying to add a custom position adjustment to a package in ggplot2](https://stackoverflow.com/questions/69439983/error-when-trying-to-add-a-custom-position-adjustment-to-a-package-in-ggplot2) - 2 votes
-* [Using paste during lapply with ggplot and two different data sources](https://stackoverflow.com/questions/69439217/using-paste-during-lapply-with-ggplot-and-two-different-data-sources) - 1 votes
-* [Why does the default shape of the points in ggplot change when including the legend label inside aes](https://stackoverflow.com/questions/69439317/why-does-the-default-shape-of-the-points-in-ggplot-change-when-including-the-leg) - 1 votes
-* [Stacked histogram in R fill not stacking](https://stackoverflow.com/questions/69431415/stacked-histogram-in-r-fill-not-stacking) - 1 votes
-* [How to color many columns the same color in geom_bar ggplot2](https://stackoverflow.com/questions/69438524/how-to-color-many-columns-the-same-color-in-geom-bar-ggplot2) - 1 votes
+* [how to define line color and show two legend block in one plot](https://stackoverflow.com/questions/69456029/how-to-define-line-color-and-show-two-legend-block-in-one-plot) - 2 votes
+* [Changing labels and breaks with ggplot2 and tsibble](https://stackoverflow.com/questions/69452007/changing-labels-and-breaks-with-ggplot2-and-tsibble) - 1 votes
+* [geom_text  make text black for plot grouped by color](https://stackoverflow.com/questions/69447346/geom-text-make-text-black-for-plot-grouped-by-color) - 1 votes
+* [Plot 2 y axis with different scales](https://stackoverflow.com/questions/69445732/plot-2-y-axis-with-different-scales) - 1 votes
+* [Create rainbow histogram with bin labels ggplot](https://stackoverflow.com/questions/69444452/create-rainbow-histogram-with-bin-labels-ggplot) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
