@@ -1,36 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-05<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-06<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas join with categorical indices](https://stackoverflow.com/questions/69443542/pandas-join-with-categorical-indices) - 3 votes
-* [Iteratively merge panda columns with new column names](https://stackoverflow.com/questions/69445027/iteratively-merge-panda-columns-with-new-column-names) - 3 votes
-* [How to get median values across diagonal lines in a matrix](https://stackoverflow.com/questions/69452978/how-to-get-median-values-across-diagonal-lines-in-a-matrix) - 2 votes
-* [How to perform groupby and remove duplicate based on first occurrence of a column condition](https://stackoverflow.com/questions/69444364/how-to-perform-groupby-and-remove-duplicate-based-on-first-occurrence-of-a-colum) - 2 votes
-* [remove advance duplicate records distinct in more than one columns in dataFrame](https://stackoverflow.com/questions/69453879/remove-advance-duplicate-records-distinct-in-more-than-one-columns-in-dataframe) - 2 votes
+* [determine the range of a value using a look up table](https://stackoverflow.com/questions/69462119/determine-the-range-of-a-value-using-a-look-up-table) - 6 votes
+* [Normalizing returns to 100](https://stackoverflow.com/questions/69468775/normalizing-returns-to-100) - 4 votes
+* [Reshape two string columns to make count inbetween in Pandas](https://stackoverflow.com/questions/69462940/reshape-two-string-columns-to-make-count-inbetween-in-pandas) - 3 votes
+* [How to reform this dataframe to be longer](https://stackoverflow.com/questions/69458578/how-to-reform-this-dataframe-to-be-longer) - 2 votes
+* [groupby max value of each year in initial pandas dataframe](https://stackoverflow.com/questions/69468001/groupby-max-value-of-each-year-in-initial-pandas-dataframe) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Plotting time series data with with 30sec break point and color](https://stackoverflow.com/questions/69444442/plotting-time-series-data-with-with-30sec-break-point-and-color) - 1 votes
-* [How does matplotlib classify the training examples and plot them in the code given below and how does the code work](https://stackoverflow.com/questions/69447131/how-does-matplotlib-classify-the-training-examples-and-plot-them-in-the-code-giv) - 1 votes
+* [Python  Find all possible combination between two arrays](https://stackoverflow.com/questions/69467299/python-find-all-possible-combination-between-two-arrays) - 1 votes
+* [Plotting a line between a pair of y coordinates](https://stackoverflow.com/questions/69469034/plotting-a-line-between-a-pair-of-y-coordinates) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [how to define line color and show two legend block in one plot](https://stackoverflow.com/questions/69456029/how-to-define-line-color-and-show-two-legend-block-in-one-plot) - 2 votes
-* [Changing labels and breaks with ggplot2 and tsibble](https://stackoverflow.com/questions/69452007/changing-labels-and-breaks-with-ggplot2-and-tsibble) - 1 votes
-* [geom_text  make text black for plot grouped by color](https://stackoverflow.com/questions/69447346/geom-text-make-text-black-for-plot-grouped-by-color) - 1 votes
-* [Plot 2 y axis with different scales](https://stackoverflow.com/questions/69445732/plot-2-y-axis-with-different-scales) - 1 votes
-* [Create rainbow histogram with bin labels ggplot](https://stackoverflow.com/questions/69444452/create-rainbow-histogram-with-bin-labels-ggplot) - 1 votes
+* [How to use results from different regression models in a scatterplot built using group_by in R](https://stackoverflow.com/questions/69469252/how-to-use-results-from-different-regression-models-in-a-scatterplot-built-using) - 2 votes
+* [How to group plot colors in R](https://stackoverflow.com/questions/69459334/how-to-group-plot-colors-in-r) - 1 votes
+* [How to merge two dataset and plot them in R](https://stackoverflow.com/questions/69459938/how-to-merge-two-dataset-and-plot-them-in-r) - 1 votes
+* [How to unify a legend with different types of scales in ggplot](https://stackoverflow.com/questions/69461854/how-to-unify-a-legend-with-different-types-of-scales-in-ggplot) - 1 votes
+* [custom geom_ with two different styles for plotting](https://stackoverflow.com/questions/69468138/custom-geom-with-two-different-styles-for-plotting) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
