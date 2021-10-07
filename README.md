@@ -1,36 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-06<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-07<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [determine the range of a value using a look up table](https://stackoverflow.com/questions/69462119/determine-the-range-of-a-value-using-a-look-up-table) - 6 votes
-* [Normalizing returns to 100](https://stackoverflow.com/questions/69468775/normalizing-returns-to-100) - 4 votes
-* [Reshape two string columns to make count inbetween in Pandas](https://stackoverflow.com/questions/69462940/reshape-two-string-columns-to-make-count-inbetween-in-pandas) - 3 votes
-* [How to reform this dataframe to be longer](https://stackoverflow.com/questions/69458578/how-to-reform-this-dataframe-to-be-longer) - 2 votes
-* [groupby max value of each year in initial pandas dataframe](https://stackoverflow.com/questions/69468001/groupby-max-value-of-each-year-in-initial-pandas-dataframe) - 2 votes
+* [Pivotcrosstab without agg function duplicates issue](https://stackoverflow.com/questions/69481508/pivot-crosstab-without-agg-function-duplicates-issue) - 3 votes
+* [Pandas how to filter dataframe with certain range of numbers in a column of dataframe](https://stackoverflow.com/questions/69487794/pandas-how-to-filter-dataframe-with-certain-range-of-numbers-in-a-column-of-data) - 2 votes
+* [for a MultiIndexed DataFrame which has better performance dfloc vs dfxs](https://stackoverflow.com/questions/69481340/for-a-multi-indexed-dataframe-which-has-better-performance-df-loc-vs-df-xs) - 2 votes
+* [creating an altair chart based on a dictionary  issue passing pandas dataframe](https://stackoverflow.com/questions/69479239/creating-an-altair-chart-based-on-a-dictionary-issue-passing-pandas-dataframe) - 2 votes
+* [Pandas  Merge each row values into a string ignoring the empty values](https://stackoverflow.com/questions/69476073/pandas-merge-each-row-values-into-a-string-ignoring-the-empty-values) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Python  Find all possible combination between two arrays](https://stackoverflow.com/questions/69467299/python-find-all-possible-combination-between-two-arrays) - 1 votes
-* [Plotting a line between a pair of y coordinates](https://stackoverflow.com/questions/69469034/plotting-a-line-between-a-pair-of-y-coordinates) - 1 votes
+* [Seaborn stripplot better way to visually separate variables](https://stackoverflow.com/questions/69475125/seaborn-stripplot-better-way-to-visually-separate-variables) - 2 votes
+* [How to rotate a rectangle in an image](https://stackoverflow.com/questions/69480860/how-to-rotate-a-rectangle-in-an-image) - 2 votes
+* [Slicing for making vectors with a set of points in a pandas dataframe](https://stackoverflow.com/questions/69474564/slicing-for-making-vectors-with-a-set-of-points-in-a-pandas-dataframe) - 2 votes
+* [How to make a stacked barplot for percentage of three classes per year](https://stackoverflow.com/questions/69485286/how-to-make-a-stacked-barplot-for-percentage-of-three-classes-per-year) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to use results from different regression models in a scatterplot built using group_by in R](https://stackoverflow.com/questions/69469252/how-to-use-results-from-different-regression-models-in-a-scatterplot-built-using) - 2 votes
-* [How to group plot colors in R](https://stackoverflow.com/questions/69459334/how-to-group-plot-colors-in-r) - 1 votes
-* [How to merge two dataset and plot them in R](https://stackoverflow.com/questions/69459938/how-to-merge-two-dataset-and-plot-them-in-r) - 1 votes
-* [How to unify a legend with different types of scales in ggplot](https://stackoverflow.com/questions/69461854/how-to-unify-a-legend-with-different-types-of-scales-in-ggplot) - 1 votes
-* [custom geom_ with two different styles for plotting](https://stackoverflow.com/questions/69468138/custom-geom-with-two-different-styles-for-plotting) - 1 votes
+* [Is there an R function to adjust scale in the axis for a barchart](https://stackoverflow.com/questions/69475063/is-there-an-r-function-to-adjust-scale-in-the-axis-for-a-barchart) - 2 votes
+* [How to adjust legend for a colourshape combiation in ggplot2](https://stackoverflow.com/questions/69477458/how-to-adjust-legend-for-a-colour-shape-combiation-in-ggplot2) - 1 votes
+* [setting limits with scale_x_datetime silently drops bar in ggplot](https://stackoverflow.com/questions/69475186/setting-limits-with-scale-x-datetime-silently-drops-bar-in-ggplot) - 1 votes
+* [Alluvial plot editing scales and colors](https://stackoverflow.com/questions/69477562/alluvial-plot-editing-scales-and-colors) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
