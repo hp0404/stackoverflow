@@ -1,37 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-07<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-08<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Pivotcrosstab without agg function duplicates issue](https://stackoverflow.com/questions/69481508/pivot-crosstab-without-agg-function-duplicates-issue) - 3 votes
-* [Pandas how to filter dataframe with certain range of numbers in a column of dataframe](https://stackoverflow.com/questions/69487794/pandas-how-to-filter-dataframe-with-certain-range-of-numbers-in-a-column-of-data) - 2 votes
-* [for a MultiIndexed DataFrame which has better performance dfloc vs dfxs](https://stackoverflow.com/questions/69481340/for-a-multi-indexed-dataframe-which-has-better-performance-df-loc-vs-df-xs) - 2 votes
-* [creating an altair chart based on a dictionary  issue passing pandas dataframe](https://stackoverflow.com/questions/69479239/creating-an-altair-chart-based-on-a-dictionary-issue-passing-pandas-dataframe) - 2 votes
-* [Pandas  Merge each row values into a string ignoring the empty values](https://stackoverflow.com/questions/69476073/pandas-merge-each-row-values-into-a-string-ignoring-the-empty-values) - 2 votes
+* [How to fillna in pandas dataframe based on pattern like in excel dragging](https://stackoverflow.com/questions/69495398/how-to-fillna-in-pandas-dataframe-based-on-pattern-like-in-excel-dragging) - 5 votes
+* [how to use elementwise dataframe manipulation](https://stackoverflow.com/questions/69490579/how-to-use-elementwise-dataframe-manipulation) - 3 votes
+* [Python Pandas Dataframe and reading from excel file](https://stackoverflow.com/questions/69499178/python-pandas-dataframe-and-reading-from-excel-file) - 3 votes
+* [dtype Int64 doesn39t return view of underlying data](https://stackoverflow.com/questions/69490505/dtype-int64-doesnt-return-view-of-underlying-data) - 3 votes
+* [Where to add multiindex level in pandas](https://stackoverflow.com/questions/69499282/where-to-add-multiindex-level-in-pandas) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Seaborn stripplot better way to visually separate variables](https://stackoverflow.com/questions/69475125/seaborn-stripplot-better-way-to-visually-separate-variables) - 2 votes
-* [How to rotate a rectangle in an image](https://stackoverflow.com/questions/69480860/how-to-rotate-a-rectangle-in-an-image) - 2 votes
-* [Slicing for making vectors with a set of points in a pandas dataframe](https://stackoverflow.com/questions/69474564/slicing-for-making-vectors-with-a-set-of-points-in-a-pandas-dataframe) - 2 votes
-* [How to make a stacked barplot for percentage of three classes per year](https://stackoverflow.com/questions/69485286/how-to-make-a-stacked-barplot-for-percentage-of-three-classes-per-year) - 1 votes
+* [Python group items in list1 based on items in list2](https://stackoverflow.com/questions/69500245/python-group-items-in-list1-based-on-items-in-list2) - 1 votes
+* [Plot chart with CSV files containing labels](https://stackoverflow.com/questions/69497030/plot-chart-with-csv-files-containing-labels) - 1 votes
+* [Python and matplotlib when I try to import it send a not valid cycler construction error](https://stackoverflow.com/questions/69501132/python-and-matplotlib-when-i-try-to-import-it-send-a-not-valid-cycler-construc) - 1 votes
+* [Polarplot errorbar maplotlib](https://stackoverflow.com/questions/69497772/polarplot-errorbar-maplotlib) - 1 votes
+* [Shifting spectrogram on xaxis](https://stackoverflow.com/questions/69493561/shifting-spectrogram-on-x-axis) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Is there an R function to adjust scale in the axis for a barchart](https://stackoverflow.com/questions/69475063/is-there-an-r-function-to-adjust-scale-in-the-axis-for-a-barchart) - 2 votes
-* [How to adjust legend for a colourshape combiation in ggplot2](https://stackoverflow.com/questions/69477458/how-to-adjust-legend-for-a-colour-shape-combiation-in-ggplot2) - 1 votes
-* [setting limits with scale_x_datetime silently drops bar in ggplot](https://stackoverflow.com/questions/69475186/setting-limits-with-scale-x-datetime-silently-drops-bar-in-ggplot) - 1 votes
-* [Alluvial plot editing scales and colors](https://stackoverflow.com/questions/69477562/alluvial-plot-editing-scales-and-colors) - 1 votes
+* [How to properly align labels on top of bars when using positive and negative values](https://stackoverflow.com/questions/69500490/how-to-properly-align-labels-on-top-of-bars-when-using-positive-and-negative-val) - 4 votes
+* [Put violin plot on sides and have a line with group average in R ggplot](https://stackoverflow.com/questions/69489382/put-violin-plot-on-sides-and-have-a-line-with-group-average-in-r-ggplot) - 2 votes
+* [How to make geom_jitter display points in the respective bars in grouped ggplot2 bar plot in R](https://stackoverflow.com/questions/69491120/how-to-make-geom-jitter-display-points-in-the-respective-bars-in-grouped-ggplo) - 2 votes
+* [All ggplot graphs grey even after adding color](https://stackoverflow.com/questions/69491102/all-ggplot-graphs-grey-even-after-adding-color) - 2 votes
+* [How to align position of geom_sina point with geom_text_repel](https://stackoverflow.com/questions/69498840/how-to-align-position-of-geom-sina-point-with-geom-text-repel) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
