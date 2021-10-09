@@ -1,39 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-08<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-09<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to fillna in pandas dataframe based on pattern like in excel dragging](https://stackoverflow.com/questions/69495398/how-to-fillna-in-pandas-dataframe-based-on-pattern-like-in-excel-dragging) - 5 votes
-* [how to use elementwise dataframe manipulation](https://stackoverflow.com/questions/69490579/how-to-use-elementwise-dataframe-manipulation) - 3 votes
-* [Python Pandas Dataframe and reading from excel file](https://stackoverflow.com/questions/69499178/python-pandas-dataframe-and-reading-from-excel-file) - 3 votes
-* [dtype Int64 doesn39t return view of underlying data](https://stackoverflow.com/questions/69490505/dtype-int64-doesnt-return-view-of-underlying-data) - 3 votes
-* [Where to add multiindex level in pandas](https://stackoverflow.com/questions/69499282/where-to-add-multiindex-level-in-pandas) - 3 votes
+* [How can I get the positions of a group](https://stackoverflow.com/questions/69504437/how-can-i-get-the-positions-of-a-group) - 3 votes
+* [How to efficiently browse and compare the values of a very large dictionary with the elements of a list](https://stackoverflow.com/questions/69508218/how-to-efficiently-browse-and-compare-the-values-of-a-very-large-dictionary-with) - 3 votes
+* [How to annotate a stackplot or area plot](https://stackoverflow.com/questions/69507163/how-to-annotate-a-stackplot-or-area-plot) - 2 votes
+* [How would I add particular values in one column to a list based on the corresponding value in an alternate column](https://stackoverflow.com/questions/69506834/how-would-i-add-particular-values-in-one-column-to-a-list-based-on-the-correspon) - 2 votes
+* [How to do the classification and count of DataFrame columns](https://stackoverflow.com/questions/69503737/how-to-do-the-classification-and-count-of-dataframe-columns) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Python group items in list1 based on items in list2](https://stackoverflow.com/questions/69500245/python-group-items-in-list1-based-on-items-in-list2) - 1 votes
-* [Plot chart with CSV files containing labels](https://stackoverflow.com/questions/69497030/plot-chart-with-csv-files-containing-labels) - 1 votes
-* [Python and matplotlib when I try to import it send a not valid cycler construction error](https://stackoverflow.com/questions/69501132/python-and-matplotlib-when-i-try-to-import-it-send-a-not-valid-cycler-construc) - 1 votes
-* [Polarplot errorbar maplotlib](https://stackoverflow.com/questions/69497772/polarplot-errorbar-maplotlib) - 1 votes
-* [Shifting spectrogram on xaxis](https://stackoverflow.com/questions/69493561/shifting-spectrogram-on-x-axis) - 1 votes
+* [How to annotate a stackplot or area plot](https://stackoverflow.com/questions/69507163/how-to-annotate-a-stackplot-or-area-plot) - 2 votes
+* [Create multiple barplots based off groupby conditions](https://stackoverflow.com/questions/69504501/create-multiple-barplots-based-off-groupby-conditions) - 1 votes
+* [How to create a time based graph like Sankey graph in python](https://stackoverflow.com/questions/69509759/how-to-create-a-time-based-graph-like-sankey-graph-in-python) - 1 votes
+* [Julia LatexStrings plotting text subscripts](https://stackoverflow.com/questions/69503807/julia-latexstrings-plotting-text-subscripts) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to properly align labels on top of bars when using positive and negative values](https://stackoverflow.com/questions/69500490/how-to-properly-align-labels-on-top-of-bars-when-using-positive-and-negative-val) - 4 votes
-* [Put violin plot on sides and have a line with group average in R ggplot](https://stackoverflow.com/questions/69489382/put-violin-plot-on-sides-and-have-a-line-with-group-average-in-r-ggplot) - 2 votes
-* [How to make geom_jitter display points in the respective bars in grouped ggplot2 bar plot in R](https://stackoverflow.com/questions/69491120/how-to-make-geom-jitter-display-points-in-the-respective-bars-in-grouped-ggplo) - 2 votes
-* [All ggplot graphs grey even after adding color](https://stackoverflow.com/questions/69491102/all-ggplot-graphs-grey-even-after-adding-color) - 2 votes
-* [How to align position of geom_sina point with geom_text_repel](https://stackoverflow.com/questions/69498840/how-to-align-position-of-geom-sina-point-with-geom-text-repel) - 1 votes
+* [R ggplot2 scale alpha discrete to display in legend](https://stackoverflow.com/questions/69508363/r-ggplot2-scale-alpha-discrete-to-display-in-legend) - 2 votes
+* [How to develop a shiny app that produces a scatterplot based on the 1st and 2nd column names of a specific dataset](https://stackoverflow.com/questions/69508379/how-to-develop-a-shiny-app-that-produces-a-scatterplot-based-on-the-1st-and-2nd) - 2 votes
+* [Attaching Multiple Graphs Together in R](https://stackoverflow.com/questions/69509234/attaching-multiple-graphs-together-in-r) - 1 votes
+* [Patchwork doesn39t recognize plots with ggMargnial distribution elements](https://stackoverflow.com/questions/69507674/patchwork-doesnt-recognize-plots-with-ggmargnial-distribution-elements) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
