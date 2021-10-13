@@ -1,39 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-12<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-13<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas group cumsum with condition](https://stackoverflow.com/questions/69546268/pandas-group-cumsum-with-condition) - 5 votes
-* [Efficiently replacing Pandas dataframe with values from other dataframes](https://stackoverflow.com/questions/69540571/efficiently-replacing-pandas-dataframe-with-values-from-other-dataframes) - 3 votes
-* [How to slice n entries in pandas dataframe](https://stackoverflow.com/questions/69533697/how-to-slice-n-entries-in-pandas-dataframe) - 2 votes
-* [pdread_csv ignore comma if it is inside parenthesis](https://stackoverflow.com/questions/69541296/pd-read-csv-ignore-comma-if-it-is-inside-parenthesis) - 2 votes
-* [How do I add repeated month rows for every unique value in a pandas dataframe column](https://stackoverflow.com/questions/69539063/how-do-i-add-repeated-month-rows-for-every-unique-value-in-a-pandas-dataframe-co) - 2 votes
+* [Groupby pandas dataframe based on custom list of possible values](https://stackoverflow.com/questions/69555273/groupby-pandas-dataframe-based-on-custom-list-of-possible-values) - 4 votes
+* [map dictionary values to lists in a pandas dataframe](https://stackoverflow.com/questions/69548440/map-dictionary-values-to-lists-in-a-pandas-dataframe) - 3 votes
+* [Extract Date Ranges where data is missing](https://stackoverflow.com/questions/69552555/extract-date-ranges-where-data-is-missing) - 3 votes
+* [CSV to json convert](https://stackoverflow.com/questions/69551008/csv-to-json-convert) - 3 votes
+* [MongoDB collection to pandas Dataframe](https://stackoverflow.com/questions/69549147/mongodb-collection-to-pandas-dataframe) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How can I get matplotlib to use equal width 3939 and 3939 in number formatter](https://stackoverflow.com/questions/69537817/how-can-i-get-matplotlib-to-use-equal-width-and-in-number-formatter) - 2 votes
-* [Highlight sequence of points in matplotlib](https://stackoverflow.com/questions/69537672/highlight-sequence-of-points-in-matplotlib) - 2 votes
-* [python matplotlib issue making it to go from left to right](https://stackoverflow.com/questions/69539276/python-matplotlib-issue-making-it-to-go-from-left-to-right) - 1 votes
-* [Python Animation Matplotlib error 39missing 1 required positional argument 39curr39](https://stackoverflow.com/questions/69545273/python-animation-matplotlib-error-missing-1-required-positional-argument-cur) - 1 votes
-* [How to add a vertical line to a snspointplot with datetime xticks](https://stackoverflow.com/questions/69537579/how-to-add-a-vertical-line-to-a-sns-pointplot-with-datetime-xticks) - 1 votes
+* [Make gauge charts through matplotlib side by side](https://stackoverflow.com/questions/69556971/make-gauge-charts-through-matplotlib-side-by-side) - 1 votes
+* [Stacked bar plot color by a diferent category](https://stackoverflow.com/questions/69558189/stacked-bar-plot-color-by-a-diferent-category) - 1 votes
+* [Having labels instead of number on axes](https://stackoverflow.com/questions/69553353/having-labels-instead-of-number-on-axes) - 1 votes
+* [Overlay contour plot over the map](https://stackoverflow.com/questions/69551830/overlay-contour-plot-over-the-map) - 1 votes
+* [Python Plotly Radar Chart with Style](https://stackoverflow.com/questions/69549954/python-plotly-radar-chart-with-style) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to minimize the white space created by the guide_area function of the patchwork package in plots made with ggplot2](https://stackoverflow.com/questions/69535279/how-to-minimize-the-white-space-created-by-the-guide-area-function-of-the-patc) - 8 votes
-* [Multiple xaxis label rows in ggplot](https://stackoverflow.com/questions/69536350/multiple-x-axis-label-rows-in-ggplot) - 3 votes
-* [How can I make a discontinuous axis in R with ggplot2](https://stackoverflow.com/questions/69534248/how-can-i-make-a-discontinuous-axis-in-r-with-ggplot2) - 2 votes
-* [Grouped Stacked Bar Charts in R](https://stackoverflow.com/questions/69544179/grouped-stacked-bar-charts-in-r) - 1 votes
-* [Nested categorical variables as aesthetics](https://stackoverflow.com/questions/69542730/nested-categorical-variables-as-aesthetics) - 1 votes
+* [Simultaneously move all geom bars according to vote percentage](https://stackoverflow.com/questions/69550459/simultaneously-move-all-geom-bars-according-to-vote-percentage) - 3 votes
+* [Combine Facet_zoom and geom_area in ggplot2 for geom_density](https://stackoverflow.com/questions/69553516/combine-facet-zoom-and-geom-area-in-ggplot2-for-geom-density) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
