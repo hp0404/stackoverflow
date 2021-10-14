@@ -1,36 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-13<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-14<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Groupby pandas dataframe based on custom list of possible values](https://stackoverflow.com/questions/69555273/groupby-pandas-dataframe-based-on-custom-list-of-possible-values) - 4 votes
-* [map dictionary values to lists in a pandas dataframe](https://stackoverflow.com/questions/69548440/map-dictionary-values-to-lists-in-a-pandas-dataframe) - 3 votes
-* [Extract Date Ranges where data is missing](https://stackoverflow.com/questions/69552555/extract-date-ranges-where-data-is-missing) - 3 votes
-* [CSV to json convert](https://stackoverflow.com/questions/69551008/csv-to-json-convert) - 3 votes
-* [MongoDB collection to pandas Dataframe](https://stackoverflow.com/questions/69549147/mongodb-collection-to-pandas-dataframe) - 2 votes
+* [Pandas how to assign a label to each group of values](https://stackoverflow.com/questions/69568290/pandas-how-to-assign-a-label-to-each-group-of-values) - 3 votes
+* [How do I shift the contents in the first column into column names in Pandas](https://stackoverflow.com/questions/69570817/how-do-i-shift-the-contents-in-the-first-column-into-column-names-in-pandas) - 2 votes
+* [How can I remap values in a pandas column using a random draw from a list](https://stackoverflow.com/questions/69571266/how-can-i-remap-values-in-a-pandas-column-using-a-random-draw-from-a-list) - 2 votes
+* [How to subtract rows between two different dataframes and replace original value](https://stackoverflow.com/questions/69564710/how-to-subtract-rows-between-two-different-dataframes-and-replace-original-value) - 2 votes
+* [How to slice Python Pandas groupby objects with various lengths](https://stackoverflow.com/questions/69570476/how-to-slice-python-pandas-groupby-objects-with-various-lengths) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Make gauge charts through matplotlib side by side](https://stackoverflow.com/questions/69556971/make-gauge-charts-through-matplotlib-side-by-side) - 1 votes
-* [Stacked bar plot color by a diferent category](https://stackoverflow.com/questions/69558189/stacked-bar-plot-color-by-a-diferent-category) - 1 votes
-* [Having labels instead of number on axes](https://stackoverflow.com/questions/69553353/having-labels-instead-of-number-on-axes) - 1 votes
-* [Overlay contour plot over the map](https://stackoverflow.com/questions/69551830/overlay-contour-plot-over-the-map) - 1 votes
-* [Python Plotly Radar Chart with Style](https://stackoverflow.com/questions/69549954/python-plotly-radar-chart-with-style) - 1 votes
+* [ConciseDateFormatter in subplots](https://stackoverflow.com/questions/69576380/concisedateformatter-in-subplots) - 2 votes
+* [Butterfly Curve with all the folds of the wings of different levels have different colors](https://stackoverflow.com/questions/69568621/butterfly-curve-with-all-the-folds-of-the-wings-of-different-levels-have-differe) - 1 votes
+* [Plot on primary and secondary x and y axis with a reversed y axis](https://stackoverflow.com/questions/69563804/plot-on-primary-and-secondary-x-and-y-axis-with-a-reversed-y-axis) - 1 votes
+* [python float division by zero when plotting treemap chart](https://stackoverflow.com/questions/69566317/python-float-division-by-zero-when-plotting-treemap-chart) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Simultaneously move all geom bars according to vote percentage](https://stackoverflow.com/questions/69550459/simultaneously-move-all-geom-bars-according-to-vote-percentage) - 3 votes
-* [Combine Facet_zoom and geom_area in ggplot2 for geom_density](https://stackoverflow.com/questions/69553516/combine-facet-zoom-and-geom-area-in-ggplot2-for-geom-density) - 1 votes
+* [columns are not aligned with the data in ggplot geom_col](https://stackoverflow.com/questions/69566186/columns-are-not-aligned-with-the-data-in-ggplot-geom-col) - 2 votes
+* [How to loopgenerate many plots using ggplot on the same data frame](https://stackoverflow.com/questions/69569049/how-to-loop-generate-many-plots-using-ggplot-on-the-same-data-frame) - 1 votes
+* [How to get both positive and negative number for xaxis in ggplot2 and rescale the yaxis in R](https://stackoverflow.com/questions/69564184/how-to-get-both-positive-and-negative-number-for-x-axis-in-ggplot2-and-rescale-t) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
