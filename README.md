@@ -1,34 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-17<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-18<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Why do we use applymap if it is so slow](https://stackoverflow.com/questions/69604900/why-do-we-use-applymap-if-it-is-so-slow) - 5 votes
-* [Pandas df how to parse column value to extract string to int with regex](https://stackoverflow.com/questions/69602951/pandas-df-how-to-parse-column-value-to-extract-string-to-int-with-regex) - 2 votes
-* [SUM in dataframe of rows that has the same date and ADD new column](https://stackoverflow.com/questions/69604317/sum-in-dataframe-of-rows-that-has-the-same-date-and-add-new-column) - 2 votes
-* [Join string columns and remove duplicates and others in Pandas](https://stackoverflow.com/questions/69604830/join-string-columns-and-remove-duplicates-and-others-in-pandas) - 1 votes
-* [Creating a mean column in a dataframe dependent on other variables of the dataframe in pandas](https://stackoverflow.com/questions/69605668/creating-a-mean-column-in-a-dataframe-dependent-on-other-variables-of-the-datafr) - 1 votes
+* [Concatenating and sorting table does not work as expected](https://stackoverflow.com/questions/69614898/concatenating-and-sorting-table-does-not-work-as-expected) - 3 votes
+* [How to populate categories in one column and paste the exact value in other column](https://stackoverflow.com/questions/69612715/how-to-populate-categories-in-one-column-and-paste-the-exact-value-in-other-colu) - 2 votes
+* [How to make a new column by lists of a column in pandas](https://stackoverflow.com/questions/69612424/how-to-make-a-new-column-by-lists-of-a-column-in-pandas) - 2 votes
+* [Appending multiple columns to dataframe](https://stackoverflow.com/questions/69617149/appending-multiple-columns-to-dataframe) - 2 votes
+* [Pandas  unstack with duplicates](https://stackoverflow.com/questions/69615332/pandas-unstack-with-duplicates) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Pandas data frame how to make a scatter plot for clustering a list of values into a set of groups](https://stackoverflow.com/questions/69604490/pandas-data-frame-how-to-make-a-scatter-plot-for-clustering-a-list-of-values-int) - 1 votes
-* [How to plot neat ImageGrid plots](https://stackoverflow.com/questions/69608256/how-to-plot-neat-imagegrid-plots) - 1 votes
-* [Matplotlib Annotations disappear during animation when updating xlim](https://stackoverflow.com/questions/69607624/matplotlib-annotations-disappear-during-animation-when-updating-xlim) - 1 votes
+* [Seaborn cannot override Matplotlibamp39s rcParamsamp39gridlinewidthamp39](https://stackoverflow.com/questions/69618816/seaborn-cannot-override-matplotlib39s-rcparams39grid-linewidth39) - 2 votes
+* [matplotlib clickable plot in Panel row](https://stackoverflow.com/questions/69619157/matplotlib-clickable-plot-in-panel-row) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Plotting each variable in a time series on the same plot](https://stackoverflow.com/questions/69606489/plotting-each-variable-in-a-time-series-on-the-same-plot) - 1 votes
-* [Dotandwhiskers error when plotting multiple regressions in R](https://stackoverflow.com/questions/69600933/dot-and-whiskers-error-when-plotting-multiple-regressions-in-r) - 1 votes
+* [How to merge the legends in ggpplot](https://stackoverflow.com/questions/69610567/how-to-merge-the-legends-in-ggpplot) - 2 votes
+* [Unicode 216 symbol with superscript in ggplot](https://stackoverflow.com/questions/69614940/unicode-%c3%98-symbol-with-superscript-in-ggplot) - 1 votes
+* [Why is the time axis in my ggplot2 gantt diagram German](https://stackoverflow.com/questions/69613983/why-is-the-time-axis-in-my-ggplot2-gantt-diagram-german) - 1 votes
+* [How to tell a geom_rect the locations of a bar placed by geom_col](https://stackoverflow.com/questions/69610763/how-to-tell-a-geom-rect-the-locations-of-a-bar-placed-by-geom-col) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
