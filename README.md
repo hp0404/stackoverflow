@@ -1,35 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-19<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-20<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Group by aggregate elements so far in the same group  Pandas](https://stackoverflow.com/questions/69625231/group-by-aggregate-elements-so-far-in-the-same-group-pandas) - 4 votes
-* [Extract first string of each word in pandas column](https://stackoverflow.com/questions/69633855/extract-first-string-of-each-word-in-pandas-column) - 3 votes
-* [How to form a DataFrame from a list of dictionaries with list of values](https://stackoverflow.com/questions/69625279/how-to-form-a-dataframe-from-a-list-of-dictionaries-with-list-of-values) - 3 votes
-* [Elementwise operation with lambda pdDataFrame](https://stackoverflow.com/questions/69626528/element-wise-operation-with-lambda-pd-dataframe) - 2 votes
-* [quantile groupby pandas dataframe](https://stackoverflow.com/questions/69631885/quantile-groupby-pandas-dataframe) - 2 votes
+* [Pandas Updating Column B value if A contains string](https://stackoverflow.com/questions/69639237/pandas-updating-column-b-value-if-a-contains-string) - 3 votes
+* [How do I pull the indexes and columns of a specific value from a dataframe](https://stackoverflow.com/questions/69640474/how-do-i-pull-the-indexes-and-columns-of-a-specific-value-from-a-dataframe) - 3 votes
+* [Can one drop rows in a dataframe based on nunique values](https://stackoverflow.com/questions/69640775/can-one-drop-rows-in-a-dataframe-based-on-nunique-values) - 2 votes
+* [Pandas How to check if the column contains value 0 then sort the selected rows data according to some rule](https://stackoverflow.com/questions/69652119/pandas-how-to-check-if-the-column-contains-value-0-then-sort-the-selected-rows) - 2 votes
+* [Joining pandas dataframes with special condition](https://stackoverflow.com/questions/69646255/joining-pandas-dataframes-with-special-condition) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Matplotlib twinx](https://stackoverflow.com/questions/69633115/matplotlib-twinx) - 1 votes
+* [Why does the siunitx LaTeX package add a vertical offset to some text elements in matplotlib figures](https://stackoverflow.com/questions/69645097/why-does-the-siunitx-latex-package-add-a-vertical-offset-to-some-text-elements-i) - 3 votes
+* [Can39t install matplotlib in a Python 310 venv](https://stackoverflow.com/questions/69652580/cant-install-matplotlib-in-a-python-3-10-venv) - 1 votes
+* [Save matplotlib chart from DashFlask](https://stackoverflow.com/questions/69650149/save-matplotlib-chart-from-dash-flask) - 1 votes
+* [Is there a way to create a bar graph visualization with plotly or python where the yaxis is 24hour range and xaxis is all the weekdays](https://stackoverflow.com/questions/69638977/is-there-a-way-to-create-a-bar-graph-visualization-with-plotly-or-python-where-t) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to plot a world map using R](https://stackoverflow.com/questions/69625716/how-to-plot-a-world-map-using-r) - 3 votes
-* [How to superimpose two ggplots](https://stackoverflow.com/questions/69635391/how-to-superimpose-two-ggplots) - 2 votes
-* [Fill area bellow geom_curve in ggplot](https://stackoverflow.com/questions/69633108/fill-area-bellow-geom-curve-in-ggplot) - 2 votes
-* [Adapt draw_key according to own draw_panel for new ggproto](https://stackoverflow.com/questions/69634268/adapt-draw-key-according-to-own-draw-panel-for-new-ggproto) - 2 votes
-* [How to get a list of eigenvectors in R](https://stackoverflow.com/questions/69624205/how-to-get-a-list-of-eigenvectors-in-r) - 1 votes
+* [How does geom_abline not affect the x and y scales](https://stackoverflow.com/questions/69648174/how-does-geom-abline-not-affect-the-x-and-y-scales) - 2 votes
+* [Center tags of nested plot using ggplot and patchwork](https://stackoverflow.com/questions/69644490/center-tags-of-nested-plot-using-ggplot-and-patchwork) - 2 votes
+* [How to make a transition a line from solid to dotted in ggplot2](https://stackoverflow.com/questions/69652680/how-to-make-a-transition-a-line-from-solid-to-dotted-in-ggplot2) - 1 votes
+* [Removing space in legend ggplot](https://stackoverflow.com/questions/69648152/removing-space-in-legend-ggplot) - 1 votes
+* [plot with two columns side by side in R](https://stackoverflow.com/questions/69644777/plot-with-two-columns-side-by-side-in-r) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
