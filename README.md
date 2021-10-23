@@ -1,36 +1,31 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-22<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-23<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Rename duplicate column name by order in Pandas](https://stackoverflow.com/questions/69682403/rename-duplicate-column-name-by-order-in-pandas) - 3 votes
-* [Is there any reason why this results in NaN instead of the str generated](https://stackoverflow.com/questions/69680361/is-there-any-reason-why-this-results-in-nan-instead-of-the-str-generated) - 2 votes
-* [How to convert multiindex columns to single indexcolumn for pandas dataframe](https://stackoverflow.com/questions/69673170/how-to-convert-multi-index-columns-to-single-index-column-for-pandas-dataframe) - 2 votes
-* [Groupby and Value Counting categories](https://stackoverflow.com/questions/69679201/groupby-and-value-counting-categories) - 2 votes
-* [A faster way to replace multiple string value in a column in Pandas](https://stackoverflow.com/questions/69676337/a-faster-way-to-replace-multiple-string-value-in-a-column-in-pandas) - 1 votes
+* [How can I create a sequence of repeating numbers based on another column in python](https://stackoverflow.com/questions/69687434/how-can-i-create-a-sequence-of-repeating-numbers-based-on-another-column-in-pyth) - 4 votes
+* [How to GroupBy a Dataframe in Pandas and keep Columns when there are many columns](https://stackoverflow.com/questions/69688175/how-to-groupby-a-dataframe-in-pandas-and-keep-columns-when-there-are-many-column) - 3 votes
+* [Convert Pandas Dataframe to nested JSON for table records](https://stackoverflow.com/questions/69686329/convert-pandas-dataframe-to-nested-json-for-table-records) - 2 votes
+* [Cell reference of pandas data frame filtering based on specific value](https://stackoverflow.com/questions/69686285/cell-reference-of-pandas-data-frame-filtering-based-on-specific-value) - 1 votes
+* [Pandas groupby  Numpy median The truth value of an array with more than one element is ambiguous](https://stackoverflow.com/questions/69691425/pandas-groupby-numpy-median-the-truth-value-of-an-array-with-more-than-one-el) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Unable to plot multiple lines in a single graph](https://stackoverflow.com/questions/69678687/unable-to-plot-multiple-lines-in-a-single-graph) - 1 votes
-* [Hyperlink points in a scatter plot  matplotlib](https://stackoverflow.com/questions/69681318/hyperlink-points-in-a-scatter-plot-matplotlib) - 1 votes
-* [matplotlib imshow on sliced dataframe axis alignment](https://stackoverflow.com/questions/69681086/matplotlib-imshow-on-sliced-dataframe-axis-alignment) - 1 votes
-* [how to adjust number of minor ticks](https://stackoverflow.com/questions/69680141/how-to-adjust-number-of-minor-ticks) - 1 votes
+
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [ggplot2 Variable Name with Spaces and tidyeval Syntax](https://stackoverflow.com/questions/69672585/ggplot2-variable-name-with-spaces-and-tidyeval-syntax) - 2 votes
-* [How to increase the gap interval for dumbbell plot using ggplot in R](https://stackoverflow.com/questions/69671790/how-to-increase-the-gap-interval-for-dumbbell-plot-using-ggplot-in-r) - 1 votes
-* [Adjusting distance from labels to table in gridarrange in R](https://stackoverflow.com/questions/69676984/adjusting-distance-from-labels-to-table-in-grid-arrange-in-r) - 1 votes
+* [multiple histograms in Shinyapp](https://stackoverflow.com/questions/69686624/multiple-histograms-in-shinyapp) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
