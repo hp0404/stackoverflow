@@ -1,36 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-24<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-25<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [pdread_csv with error Expected 2 fields in line 52 saw 3](https://stackoverflow.com/questions/69697707/pd-read-csv-with-error-expected-2-fields-in-line-52-saw-3) - 2 votes
-* [Pandas dataframe count consecutive True  False values](https://stackoverflow.com/questions/69700208/pandas-dataframe-count-consecutive-true-false-values) - 1 votes
-* [Create a seaborn histogram with two columns of a dataframe](https://stackoverflow.com/questions/69696335/create-a-seaborn-histogram-with-two-columns-of-a-dataframe) - 1 votes
-* [Insert and Update Two Pandas Dataframe](https://stackoverflow.com/questions/69694732/insert-and-update-two-pandas-dataframe) - 1 votes
-* [Unable to print text from website using python](https://stackoverflow.com/questions/69694242/unable-to-print-text-from-website-using-python) - 1 votes
+* [How to get column names of all nonnull row values](https://stackoverflow.com/questions/69704891/how-to-get-column-names-of-all-nonnull-row-values) - 3 votes
+* [Correct use of numpy searchsorted routine](https://stackoverflow.com/questions/69712846/correct-use-of-numpy-searchsorted-routine) - 2 votes
+* [Pandas Append copy of rows changing only values in multiple columns larger than max allowed to split bin values](https://stackoverflow.com/questions/69707986/pandas-append-copy-of-rows-changing-only-values-in-multiple-columns-larger-than) - 2 votes
+* [How do I download a Pandas DataFrame to a CSV File in Streamlit](https://stackoverflow.com/questions/69705832/how-do-i-download-a-pandas-dataframe-to-a-csv-file-in-streamlit) - 2 votes
+* [pandas loc to check if value contains any of several words or a string](https://stackoverflow.com/questions/69711075/pandas-loc-to-check-if-value-contains-any-of-several-words-or-a-string) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Create a seaborn histogram with two columns of a dataframe](https://stackoverflow.com/questions/69696335/create-a-seaborn-histogram-with-two-columns-of-a-dataframe) - 1 votes
-* [How to visualize categorical frequency difference](https://stackoverflow.com/questions/69693096/how-to-visualize-categorical-frequency-difference) - 1 votes
-* [How to plot multiple lines from a dataframe](https://stackoverflow.com/questions/69696693/how-to-plot-multiple-lines-from-a-dataframe) - 1 votes
+* [Seaborn plot with colorbar centered around 0](https://stackoverflow.com/questions/69707509/seaborn-plot-with-colorbar-centered-around-0) - 1 votes
+* [subplotting with seaborn and catplot](https://stackoverflow.com/questions/69704134/subplotting-with-seaborn-and-catplot) - 1 votes
+* [Sliding window plot using Python](https://stackoverflow.com/questions/69708562/sliding-window-plot-using-python) - 1 votes
+* [How to draw a bracket for grouping subplots](https://stackoverflow.com/questions/69708355/how-to-draw-a-bracket-for-grouping-subplots) - 1 votes
+* [Animating histograms with Matplotlib query](https://stackoverflow.com/questions/69707823/animating-histograms-with-matplotlib-query) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Adding Logo to R plot dynamically](https://stackoverflow.com/questions/69698481/adding-logo-to-r-plot-dynamically) - 2 votes
-* [How to add iconsimages to the legend](https://stackoverflow.com/questions/69697102/how-to-add-icons-images-to-the-legend) - 1 votes
-* [Create Sankey Alluvial diagram in which the links combine at the node](https://stackoverflow.com/questions/69695811/create-sankey-alluvial-diagram-in-which-the-links-combine-at-the-node) - 1 votes
-* [How to extract the density value from ggplot in r](https://stackoverflow.com/questions/69699009/how-to-extract-the-density-value-from-ggplot-in-r) - 1 votes
+* [How to have the panel name fit on one line when using facet_wrap in ggplotly](https://stackoverflow.com/questions/69709640/how-to-have-the-panel-name-fit-on-one-line-when-using-facet-wrap-in-ggplotly) - 2 votes
+* [adding different columns to ggplot with for loop](https://stackoverflow.com/questions/69711491/adding-different-columns-to-ggplot-with-for-loop) - 1 votes
+* [How to create a linetype legend in ggplot with different dataframes](https://stackoverflow.com/questions/69712966/how-to-create-a-linetype-legend-in-ggplot-with-different-dataframes) - 1 votes
+* [ggplot2 center the highlighted sample](https://stackoverflow.com/questions/69705950/ggplot2-center-the-highlighted-sample) - 1 votes
+* [Bar chart  geom_jitter with the points of the jitter inside the fills of the bar chart](https://stackoverflow.com/questions/69704796/bar-chart-geom-jitter-with-the-points-of-the-jitter-inside-the-fills-of-the-ba) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
