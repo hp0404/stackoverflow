@@ -1,39 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-25<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-26<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to get column names of all nonnull row values](https://stackoverflow.com/questions/69704891/how-to-get-column-names-of-all-nonnull-row-values) - 3 votes
-* [Correct use of numpy searchsorted routine](https://stackoverflow.com/questions/69712846/correct-use-of-numpy-searchsorted-routine) - 2 votes
-* [Pandas Append copy of rows changing only values in multiple columns larger than max allowed to split bin values](https://stackoverflow.com/questions/69707986/pandas-append-copy-of-rows-changing-only-values-in-multiple-columns-larger-than) - 2 votes
-* [How do I download a Pandas DataFrame to a CSV File in Streamlit](https://stackoverflow.com/questions/69705832/how-do-i-download-a-pandas-dataframe-to-a-csv-file-in-streamlit) - 2 votes
-* [pandas loc to check if value contains any of several words or a string](https://stackoverflow.com/questions/69711075/pandas-loc-to-check-if-value-contains-any-of-several-words-or-a-string) - 2 votes
+* [Convert subset of columns to rows by combining columns](https://stackoverflow.com/questions/69716911/convert-subset-of-columns-to-rows-by-combining-columns) - 11 votes
+* [How to find which column contains a certain value](https://stackoverflow.com/questions/69724409/how-to-find-which-column-contains-a-certain-value) - 4 votes
+* [Combine lists from several columns into one nested list pandas](https://stackoverflow.com/questions/69716379/combine-lists-from-several-columns-into-one-nested-list-pandas) - 3 votes
+* [Pandas collapse dataframe horizontally](https://stackoverflow.com/questions/69727016/pandas-collapse-dataframe-horizontally) - 3 votes
+* [How Can I Turn A MonthYear String Into A Datetime Pandas](https://stackoverflow.com/questions/69726996/how-can-i-turn-a-monthyear-string-into-a-datetime-pandas) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Seaborn plot with colorbar centered around 0](https://stackoverflow.com/questions/69707509/seaborn-plot-with-colorbar-centered-around-0) - 1 votes
-* [subplotting with seaborn and catplot](https://stackoverflow.com/questions/69704134/subplotting-with-seaborn-and-catplot) - 1 votes
-* [Sliding window plot using Python](https://stackoverflow.com/questions/69708562/sliding-window-plot-using-python) - 1 votes
-* [How to draw a bracket for grouping subplots](https://stackoverflow.com/questions/69708355/how-to-draw-a-bracket-for-grouping-subplots) - 1 votes
-* [Animating histograms with Matplotlib query](https://stackoverflow.com/questions/69707823/animating-histograms-with-matplotlib-query) - 1 votes
+* [Matplotlib colorbar __init__ got an unexpected keyword argument 39location39](https://stackoverflow.com/questions/69727902/matplotlib-colorbar-init-got-an-unexpected-keyword-argument-location) - 2 votes
+* [Matplotlib Scatter Plot Returns Different Plots in Different Versions](https://stackoverflow.com/questions/69718875/matplotlib-scatter-plot-returns-different-plots-in-different-versions) - 2 votes
+* [I am getting error when trying to plot two seperate lines in seaborn](https://stackoverflow.com/questions/69722612/i-am-getting-error-when-trying-to-plot-two-seperate-lines-in-seaborn) - 1 votes
+* [python pandas how to switch xaxis with yaxis for a line graph](https://stackoverflow.com/questions/69728835/python-pandas-how-to-switch-x-axis-with-y-axis-for-a-line-graph) - 1 votes
+* [Plotting 2d slices of 3d data in python preferably using matplotlib](https://stackoverflow.com/questions/69726247/plotting-2d-slices-of-3d-data-in-python-preferably-using-matplotlib) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to have the panel name fit on one line when using facet_wrap in ggplotly](https://stackoverflow.com/questions/69709640/how-to-have-the-panel-name-fit-on-one-line-when-using-facet-wrap-in-ggplotly) - 2 votes
-* [adding different columns to ggplot with for loop](https://stackoverflow.com/questions/69711491/adding-different-columns-to-ggplot-with-for-loop) - 1 votes
-* [How to create a linetype legend in ggplot with different dataframes](https://stackoverflow.com/questions/69712966/how-to-create-a-linetype-legend-in-ggplot-with-different-dataframes) - 1 votes
-* [ggplot2 center the highlighted sample](https://stackoverflow.com/questions/69705950/ggplot2-center-the-highlighted-sample) - 1 votes
-* [Bar chart  geom_jitter with the points of the jitter inside the fills of the bar chart](https://stackoverflow.com/questions/69704796/bar-chart-geom-jitter-with-the-points-of-the-jitter-inside-the-fills-of-the-ba) - 1 votes
+* [R How to add a label on the right axis in a ggplot barchart](https://stackoverflow.com/questions/69726870/r-how-to-add-a-label-on-the-right-axis-in-a-ggplot-barchart) - 1 votes
+* [fit a scatter plot with Weibull curve with ggplot2](https://stackoverflow.com/questions/69716900/fit-a-scatter-plot-with-weibull-curve-with-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
