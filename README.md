@@ -1,33 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-30<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-31<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Extract string between two substrings in a pandas df column](https://stackoverflow.com/questions/69780576/extract-string-between-two-substrings-in-a-pandas-df-column) - 3 votes
-* [Divide elements from columns with similar prefix](https://stackoverflow.com/questions/69780782/divide-elements-from-columns-with-similar-prefix) - 2 votes
-* [Sorting and Combining datetime data frames Pandas Python](https://stackoverflow.com/questions/69777143/sorting-and-combining-datetime-data-frames-pandas-python) - 2 votes
-* [NoneType39 object has no attribute 39find_all39 error coming](https://stackoverflow.com/questions/69779741/nonetype-object-has-no-attribute-find-all-error-coming) - 2 votes
-* [pandas dataframe check if a value in a specific location is a NaN value](https://stackoverflow.com/questions/69782182/pandas-dataframe-check-if-a-value-in-a-specific-location-is-a-nan-value) - 1 votes
+* [How to convert dataframe](https://stackoverflow.com/questions/69787101/how-to-convert-dataframe) - 4 votes
+* [Pandas groupby value and get value of max date and min date](https://stackoverflow.com/questions/69789474/pandas-groupby-value-and-get-value-of-max-date-and-min-date) - 3 votes
+* [fillna in Pandas  how to choose the best method automatically](https://stackoverflow.com/questions/69785905/fillna-in-pandas-how-to-choose-the-best-method-automatically) - 3 votes
+* [Getting rowcolumn name and integerbased index in a dataframe where a condition holds](https://stackoverflow.com/questions/69785931/getting-row-column-name-and-integer-based-index-in-a-dataframe-where-a-condition) - 2 votes
+* [Pandas Weighted Stats](https://stackoverflow.com/questions/69783742/pandas-weighted-stats) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [matplotlib scatter Valueerror 39c39 argument has n elements which is not acceptable for use with 39x39 and 39y39 with size m](https://stackoverflow.com/questions/69776480/matplotlib-scatter-valueerror-c-argument-has-n-elements-which-is-not-accepta) - 1 votes
-* [Embeding matplotlib graph in pyqt5 widget](https://stackoverflow.com/questions/69778970/embeding-matplotlib-graph-in-pyqt5-widget) - 1 votes
+* [tkinter main window matplotlib figure embeded on a canvas affecting a toplevel window figure embede on a different canvas](https://stackoverflow.com/questions/69789254/tkinter-main-window-matplotlib-figure-embeded-on-a-canvas-affecting-a-toplevel-w) - 1 votes
+* [How to represent a signal on negative X Axis](https://stackoverflow.com/questions/69788695/how-to-represent-a-signal-on-negative-x-axis) - 1 votes
+* [python kernel crashes when plotting with matplotlib after conda update](https://stackoverflow.com/questions/69786885/python-kernel-crashes-when-plotting-with-matplotlib-after-conda-update) - 1 votes
+* [Naming Data Points with labels using scatter plot pyspark](https://stackoverflow.com/questions/69784038/naming-data-points-with-labels-using-scatter-plot-pyspark) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [ggplot Multipanelfacet scatter plots separated by multiple variables AND NOT by multiple categories within a variable using one common yaxis](https://stackoverflow.com/questions/69779702/ggplot-multi-panel-facet-scatter-plots-separated-by-multiple-variables-and-not) - 1 votes
-* [Is there a way to plot the instances that two variables appear in R](https://stackoverflow.com/questions/69779971/is-there-a-way-to-plot-the-instances-that-two-variables-appear-in-r) - 1 votes
+* [Adding texture to plot based on a condition in R](https://stackoverflow.com/questions/69789320/adding-texture-to-plot-based-on-a-condition-in-r) - 2 votes
+* [Error applying facet_wrap in geom_sf incomplete polygon in ggplot R](https://stackoverflow.com/questions/69783859/error-applying-facet-wrap-in-geom-sf-incomplete-polygon-in-ggplot-r) - 2 votes
+* [GGplot Two stacked bar plots side by side not facets](https://stackoverflow.com/questions/69783291/ggplot-two-stacked-bar-plots-side-by-side-not-facets) - 1 votes
+* [Changing color of states in plot_usmap](https://stackoverflow.com/questions/69783282/changing-color-of-states-in-plot-usmap) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
