@@ -1,37 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-10-31<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-01<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to convert dataframe](https://stackoverflow.com/questions/69787101/how-to-convert-dataframe) - 4 votes
-* [Pandas groupby value and get value of max date and min date](https://stackoverflow.com/questions/69789474/pandas-groupby-value-and-get-value-of-max-date-and-min-date) - 3 votes
-* [fillna in Pandas  how to choose the best method automatically](https://stackoverflow.com/questions/69785905/fillna-in-pandas-how-to-choose-the-best-method-automatically) - 3 votes
-* [Getting rowcolumn name and integerbased index in a dataframe where a condition holds](https://stackoverflow.com/questions/69785931/getting-row-column-name-and-integer-based-index-in-a-dataframe-where-a-condition) - 2 votes
-* [Pandas Weighted Stats](https://stackoverflow.com/questions/69783742/pandas-weighted-stats) - 2 votes
+* [Is there a pythonic way to add an enumerating column while exploding a list column in pandas](https://stackoverflow.com/questions/69795108/is-there-a-pythonic-way-to-add-an-enumerating-column-while-exploding-a-list-colu) - 4 votes
+* [How to convert to timestamp into df to excel python](https://stackoverflow.com/questions/69792261/how-to-convert-to-timestamp-into-df-to-excel-python) - 3 votes
+* [Consolidating data in Pandas](https://stackoverflow.com/questions/69792317/consolidating-data-in-pandas) - 2 votes
+* [How to collect elements of each position in brackets and write them in the csv file in python](https://stackoverflow.com/questions/69799108/how-to-collect-elements-of-each-position-in-brackets-and-write-them-in-the-csv-f) - 2 votes
+* [Insert value 1 in pandas Dataframe till one condition is met Python](https://stackoverflow.com/questions/69799105/insert-value-1-in-pandas-dataframe-till-one-condition-is-met-python) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [tkinter main window matplotlib figure embeded on a canvas affecting a toplevel window figure embede on a different canvas](https://stackoverflow.com/questions/69789254/tkinter-main-window-matplotlib-figure-embeded-on-a-canvas-affecting-a-toplevel-w) - 1 votes
-* [How to represent a signal on negative X Axis](https://stackoverflow.com/questions/69788695/how-to-represent-a-signal-on-negative-x-axis) - 1 votes
-* [python kernel crashes when plotting with matplotlib after conda update](https://stackoverflow.com/questions/69786885/python-kernel-crashes-when-plotting-with-matplotlib-after-conda-update) - 1 votes
-* [Naming Data Points with labels using scatter plot pyspark](https://stackoverflow.com/questions/69784038/naming-data-points-with-labels-using-scatter-plot-pyspark) - 1 votes
+* [How to draw a single contour line in Matplotlib](https://stackoverflow.com/questions/69792774/how-to-draw-a-single-contour-line-in-matplotlib) - 1 votes
+* [How to improve performance of plot redraw in a loop](https://stackoverflow.com/questions/69792564/how-to-improve-performance-of-plot-redraw-in-a-loop) - 1 votes
+* [Matplotlib Plotting crashes Python](https://stackoverflow.com/questions/69796663/matplotlib-plotting-crashes-python) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Adding texture to plot based on a condition in R](https://stackoverflow.com/questions/69789320/adding-texture-to-plot-based-on-a-condition-in-r) - 2 votes
-* [Error applying facet_wrap in geom_sf incomplete polygon in ggplot R](https://stackoverflow.com/questions/69783859/error-applying-facet-wrap-in-geom-sf-incomplete-polygon-in-ggplot-r) - 2 votes
-* [GGplot Two stacked bar plots side by side not facets](https://stackoverflow.com/questions/69783291/ggplot-two-stacked-bar-plots-side-by-side-not-facets) - 1 votes
-* [Changing color of states in plot_usmap](https://stackoverflow.com/questions/69783282/changing-color-of-states-in-plot-usmap) - 1 votes
+* [How can I place a text on a plot ggplot2 without knowing the exact coordinates of the plot](https://stackoverflow.com/questions/69796046/how-can-i-place-a-text-on-a-plot-ggplot2-without-knowing-the-exact-coordinates) - 2 votes
+* [Aren39t these both plots of the residuals If so then what is the difference](https://stackoverflow.com/questions/69802155/arent-these-both-plots-of-the-residuals-if-so-then-what-is-the-difference) - 2 votes
+* [Labeling small strata in alluvial plot  different variables on columnsaxis](https://stackoverflow.com/questions/69797625/labeling-small-strata-in-alluvial-plot-different-variables-on-columns-axis) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
