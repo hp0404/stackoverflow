@@ -1,35 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-01<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-02<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Is there a pythonic way to add an enumerating column while exploding a list column in pandas](https://stackoverflow.com/questions/69795108/is-there-a-pythonic-way-to-add-an-enumerating-column-while-exploding-a-list-colu) - 4 votes
-* [How to convert to timestamp into df to excel python](https://stackoverflow.com/questions/69792261/how-to-convert-to-timestamp-into-df-to-excel-python) - 3 votes
-* [Consolidating data in Pandas](https://stackoverflow.com/questions/69792317/consolidating-data-in-pandas) - 2 votes
-* [How to collect elements of each position in brackets and write them in the csv file in python](https://stackoverflow.com/questions/69799108/how-to-collect-elements-of-each-position-in-brackets-and-write-them-in-the-csv-f) - 2 votes
-* [Insert value 1 in pandas Dataframe till one condition is met Python](https://stackoverflow.com/questions/69799105/insert-value-1-in-pandas-dataframe-till-one-condition-is-met-python) - 2 votes
+* [Count the values after an underscore in a Pandas Series](https://stackoverflow.com/questions/69816556/count-the-values-after-an-underscore-in-a-pandas-series) - 3 votes
+* [Python Pandas Calculate statistic difference group by](https://stackoverflow.com/questions/69814808/python-pandas-calculate-statistic-difference-group-by) - 3 votes
+* [Combining all csv files from Github Repository Link and make it a one csv file](https://stackoverflow.com/questions/69806371/combining-all-csv-files-from-github-repository-link-and-make-it-a-one-csv-file) - 2 votes
+* [Plot a chart depending on price and date](https://stackoverflow.com/questions/69814145/plot-a-chart-depending-on-price-and-date) - 2 votes
+* [Bins Groupby and porcentage of subtotals in each group Pandas](https://stackoverflow.com/questions/69811979/bins-groupby-and-porcentage-of-subtotals-in-each-group-pandas) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to draw a single contour line in Matplotlib](https://stackoverflow.com/questions/69792774/how-to-draw-a-single-contour-line-in-matplotlib) - 1 votes
-* [How to improve performance of plot redraw in a loop](https://stackoverflow.com/questions/69792564/how-to-improve-performance-of-plot-redraw-in-a-loop) - 1 votes
-* [Matplotlib Plotting crashes Python](https://stackoverflow.com/questions/69796663/matplotlib-plotting-crashes-python) - 1 votes
+* [Plot a chart depending on price and date](https://stackoverflow.com/questions/69814145/plot-a-chart-depending-on-price-and-date) - 2 votes
+* [sorting in linechart along with bar chart in seaborn](https://stackoverflow.com/questions/69808633/sorting-in-linechart-along-with-bar-chart-in-seaborn) - 1 votes
+* [How do I remove saturated pixels from an image](https://stackoverflow.com/questions/69816207/how-do-i-remove-saturated-pixels-from-an-image) - 1 votes
+* [Kernel restart when using simple matplotlib](https://stackoverflow.com/questions/69807098/kernel-restart-when-using-simple-matplotlib) - 1 votes
+* [How to add hourly ticks in an axis from datetime formatted data](https://stackoverflow.com/questions/69806724/how-to-add-hourly-ticks-in-an-axis-from-datetime-formatted-data) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How can I place a text on a plot ggplot2 without knowing the exact coordinates of the plot](https://stackoverflow.com/questions/69796046/how-can-i-place-a-text-on-a-plot-ggplot2-without-knowing-the-exact-coordinates) - 2 votes
-* [Aren39t these both plots of the residuals If so then what is the difference](https://stackoverflow.com/questions/69802155/arent-these-both-plots-of-the-residuals-if-so-then-what-is-the-difference) - 2 votes
-* [Labeling small strata in alluvial plot  different variables on columnsaxis](https://stackoverflow.com/questions/69797625/labeling-small-strata-in-alluvial-plot-different-variables-on-columns-axis) - 1 votes
+* [multiple different sized plots in same window in R](https://stackoverflow.com/questions/69804751/multiple-different-sized-plots-in-same-window-in-r) - 2 votes
+* [wrong dates at x axis when plotting POSIXct with scale_x_datetime](https://stackoverflow.com/questions/69808720/wrong-dates-at-x-axis-when-plotting-posixct-with-scale-x-datetime) - 1 votes
+* [Ordering a stacked bar graph by second variable changing over time](https://stackoverflow.com/questions/69814998/ordering-a-stacked-bar-graph-by-second-variable-changing-over-time) - 1 votes
+* [ggplot is not separating the plots](https://stackoverflow.com/questions/69813008/ggplot-is-not-separating-the-plots) - 1 votes
+* [Adding legend for velocity plot  key glyph length to represent value](https://stackoverflow.com/questions/69810305/adding-legend-for-velocity-plot-key-glyph-length-to-represent-value) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
