@@ -1,39 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-02<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-03<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Count the values after an underscore in a Pandas Series](https://stackoverflow.com/questions/69816556/count-the-values-after-an-underscore-in-a-pandas-series) - 3 votes
-* [Python Pandas Calculate statistic difference group by](https://stackoverflow.com/questions/69814808/python-pandas-calculate-statistic-difference-group-by) - 3 votes
-* [Combining all csv files from Github Repository Link and make it a one csv file](https://stackoverflow.com/questions/69806371/combining-all-csv-files-from-github-repository-link-and-make-it-a-one-csv-file) - 2 votes
-* [Plot a chart depending on price and date](https://stackoverflow.com/questions/69814145/plot-a-chart-depending-on-price-and-date) - 2 votes
-* [Bins Groupby and porcentage of subtotals in each group Pandas](https://stackoverflow.com/questions/69811979/bins-groupby-and-porcentage-of-subtotals-in-each-group-pandas) - 2 votes
+* [How keep a value in a DataFrame using the values of another DataFrame as indexes and columns reference and replace the others](https://stackoverflow.com/questions/69819337/how-keep-a-value-in-a-dataframe-using-the-values-of-another-dataframe-as-indexes) - 3 votes
+* [How select data within brackets in pandas data frame](https://stackoverflow.com/questions/69827479/how-select-data-within-brackets-in-pandas-data-frame) - 3 votes
+* [Different na_rep per column](https://stackoverflow.com/questions/69823046/different-na-rep-per-column) - 3 votes
+* [Merge two dataframes with id](https://stackoverflow.com/questions/69827965/merge-two-dataframes-with-id) - 2 votes
+* [Python Create column based on existing column with conditions](https://stackoverflow.com/questions/69826324/python-create-column-based-on-existing-column-with-conditions) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Plot a chart depending on price and date](https://stackoverflow.com/questions/69814145/plot-a-chart-depending-on-price-and-date) - 2 votes
-* [sorting in linechart along with bar chart in seaborn](https://stackoverflow.com/questions/69808633/sorting-in-linechart-along-with-bar-chart-in-seaborn) - 1 votes
-* [How do I remove saturated pixels from an image](https://stackoverflow.com/questions/69816207/how-do-i-remove-saturated-pixels-from-an-image) - 1 votes
-* [Kernel restart when using simple matplotlib](https://stackoverflow.com/questions/69807098/kernel-restart-when-using-simple-matplotlib) - 1 votes
-* [How to add hourly ticks in an axis from datetime formatted data](https://stackoverflow.com/questions/69806724/how-to-add-hourly-ticks-in-an-axis-from-datetime-formatted-data) - 1 votes
+* [Plot many timeseries columns in one graph](https://stackoverflow.com/questions/69826409/plot-many-time-series-columns-in-one-graph) - 1 votes
+* [Generate several subplots with a loop](https://stackoverflow.com/questions/69829930/generate-several-subplots-with-a-loop) - 1 votes
+* [how to plot densely located points as a smooth image](https://stackoverflow.com/questions/69830532/how-to-plot-densely-located-points-as-a-smooth-image) - 1 votes
+* [snsheatmap y axis not being overwritten](https://stackoverflow.com/questions/69830412/sns-heatmap-y-axis-not-being-overwritten) - 1 votes
+* [mplFinance edit xaxis to show seconds](https://stackoverflow.com/questions/69826315/mplfinance-edit-x-axis-to-show-seconds) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [multiple different sized plots in same window in R](https://stackoverflow.com/questions/69804751/multiple-different-sized-plots-in-same-window-in-r) - 2 votes
-* [wrong dates at x axis when plotting POSIXct with scale_x_datetime](https://stackoverflow.com/questions/69808720/wrong-dates-at-x-axis-when-plotting-posixct-with-scale-x-datetime) - 1 votes
-* [Ordering a stacked bar graph by second variable changing over time](https://stackoverflow.com/questions/69814998/ordering-a-stacked-bar-graph-by-second-variable-changing-over-time) - 1 votes
-* [ggplot is not separating the plots](https://stackoverflow.com/questions/69813008/ggplot-is-not-separating-the-plots) - 1 votes
-* [Adding legend for velocity plot  key glyph length to represent value](https://stackoverflow.com/questions/69810305/adding-legend-for-velocity-plot-key-glyph-length-to-represent-value) - 1 votes
+* [Setting offset and dodging in a circular hierarchical dendrogram](https://stackoverflow.com/questions/69822695/setting-offset-and-dodging-in-a-circular-hierarchical-dendrogram) - 2 votes
+* [Unevenly spaced and overlapping lines for proportional stacked area graph on ggplot2 R](https://stackoverflow.com/questions/69826531/unevenly-spaced-and-overlapping-lines-for-proportional-stacked-area-graph-on-ggp) - 1 votes
+* [How to visualize average hourly data for each day in a week as a facet_wrap of seven days in R](https://stackoverflow.com/questions/69820148/how-to-visualize-average-hourly-data-for-each-day-in-a-week-as-a-facet-wrap-of-s) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
