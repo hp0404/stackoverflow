@@ -1,37 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-03<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-04<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How keep a value in a DataFrame using the values of another DataFrame as indexes and columns reference and replace the others](https://stackoverflow.com/questions/69819337/how-keep-a-value-in-a-dataframe-using-the-values-of-another-dataframe-as-indexes) - 3 votes
-* [How select data within brackets in pandas data frame](https://stackoverflow.com/questions/69827479/how-select-data-within-brackets-in-pandas-data-frame) - 3 votes
-* [Different na_rep per column](https://stackoverflow.com/questions/69823046/different-na-rep-per-column) - 3 votes
-* [Merge two dataframes with id](https://stackoverflow.com/questions/69827965/merge-two-dataframes-with-id) - 2 votes
-* [Python Create column based on existing column with conditions](https://stackoverflow.com/questions/69826324/python-create-column-based-on-existing-column-with-conditions) - 2 votes
+* [If condition with a dataframe](https://stackoverflow.com/questions/69842280/if-condition-with-a-dataframe) - 3 votes
+* [pandas add row in dataframe if value is NaT](https://stackoverflow.com/questions/69837063/pandas-add-row-in-dataframe-if-value-is-nat) - 3 votes
+* [How would you tell which rows were dropped from the original dataframe and the current one](https://stackoverflow.com/questions/69843573/how-would-you-tell-which-rows-were-dropped-from-the-original-dataframe-and-the-c) - 2 votes
+* [How to group dataframe by column and receive new column for every group](https://stackoverflow.com/questions/69845498/how-to-group-dataframe-by-column-and-receive-new-column-for-every-group) - 2 votes
+* [How to convert a csv file to a Dictionary in Python](https://stackoverflow.com/questions/69842469/how-to-convert-a-csv-file-to-a-dictionary-in-python) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Plot many timeseries columns in one graph](https://stackoverflow.com/questions/69826409/plot-many-time-series-columns-in-one-graph) - 1 votes
-* [Generate several subplots with a loop](https://stackoverflow.com/questions/69829930/generate-several-subplots-with-a-loop) - 1 votes
-* [how to plot densely located points as a smooth image](https://stackoverflow.com/questions/69830532/how-to-plot-densely-located-points-as-a-smooth-image) - 1 votes
-* [snsheatmap y axis not being overwritten](https://stackoverflow.com/questions/69830412/sns-heatmap-y-axis-not-being-overwritten) - 1 votes
-* [mplFinance edit xaxis to show seconds](https://stackoverflow.com/questions/69826315/mplfinance-edit-x-axis-to-show-seconds) - 1 votes
+* [Set data path option in matplotlib](https://stackoverflow.com/questions/69842999/set-data-path-option-in-matplotlib) - 2 votes
+* [How to create groups of different plots based on column dtype](https://stackoverflow.com/questions/69843749/how-to-create-groups-of-different-plots-based-on-column-dtype) - 1 votes
+* [Automating the sending of a matplotlib chart in outlook python](https://stackoverflow.com/questions/69838611/automating-the-sending-of-a-matplotlib-chart-in-outlook-python) - 1 votes
+* [Seaborn greyout colors in default palette but one](https://stackoverflow.com/questions/69840973/seaborn-greyout-colors-in-default-palette-but-one) - 1 votes
+* [Changing globally the error bar width without changing the linewidth in matplotlib](https://stackoverflow.com/questions/69836621/changing-globally-the-error-bar-width-without-changing-the-linewidth-in-matplotl) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Setting offset and dodging in a circular hierarchical dendrogram](https://stackoverflow.com/questions/69822695/setting-offset-and-dodging-in-a-circular-hierarchical-dendrogram) - 2 votes
-* [Unevenly spaced and overlapping lines for proportional stacked area graph on ggplot2 R](https://stackoverflow.com/questions/69826531/unevenly-spaced-and-overlapping-lines-for-proportional-stacked-area-graph-on-ggp) - 1 votes
-* [How to visualize average hourly data for each day in a week as a facet_wrap of seven days in R](https://stackoverflow.com/questions/69820148/how-to-visualize-average-hourly-data-for-each-day-in-a-week-as-a-facet-wrap-of-s) - 1 votes
+* [Remove select labels from plot ggplot2](https://stackoverflow.com/questions/69845346/remove-select-labels-from-plot-ggplot2) - 1 votes
+* [How to plot a subset of a dataframe using ggplot2 in shiny](https://stackoverflow.com/questions/69837737/how-to-plot-a-subset-of-a-dataframe-using-ggplot2-in-shiny) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
