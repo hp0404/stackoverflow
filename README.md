@@ -1,36 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-04<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-05<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [If condition with a dataframe](https://stackoverflow.com/questions/69842280/if-condition-with-a-dataframe) - 3 votes
-* [pandas add row in dataframe if value is NaT](https://stackoverflow.com/questions/69837063/pandas-add-row-in-dataframe-if-value-is-nat) - 3 votes
-* [How would you tell which rows were dropped from the original dataframe and the current one](https://stackoverflow.com/questions/69843573/how-would-you-tell-which-rows-were-dropped-from-the-original-dataframe-and-the-c) - 2 votes
-* [How to group dataframe by column and receive new column for every group](https://stackoverflow.com/questions/69845498/how-to-group-dataframe-by-column-and-receive-new-column-for-every-group) - 2 votes
-* [How to convert a csv file to a Dictionary in Python](https://stackoverflow.com/questions/69842469/how-to-convert-a-csv-file-to-a-dictionary-in-python) - 2 votes
+* [How do I find the row  of a string index](https://stackoverflow.com/questions/69848807/how-do-i-find-the-row-of-a-string-index) - 5 votes
+* [How to factorize multiple dataframe columns with same values](https://stackoverflow.com/questions/69856888/how-to-factorize-multiple-dataframe-columns-with-same-values) - 2 votes
+* [Splitting a column into 2 in a csv file using python](https://stackoverflow.com/questions/69850956/splitting-a-column-into-2-in-a-csv-file-using-python) - 2 votes
+* [Pandas dataframe drop by column](https://stackoverflow.com/questions/69847272/pandas-dataframe-drop-by-column) - 2 votes
+* [Calculate multiple columns39 current values based on yoy change and value of previous year in Pandas](https://stackoverflow.com/questions/69849533/calculate-multiple-columns-current-values-based-on-yoy-change-and-value-of-prev) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Set data path option in matplotlib](https://stackoverflow.com/questions/69842999/set-data-path-option-in-matplotlib) - 2 votes
-* [How to create groups of different plots based on column dtype](https://stackoverflow.com/questions/69843749/how-to-create-groups-of-different-plots-based-on-column-dtype) - 1 votes
-* [Automating the sending of a matplotlib chart in outlook python](https://stackoverflow.com/questions/69838611/automating-the-sending-of-a-matplotlib-chart-in-outlook-python) - 1 votes
-* [Seaborn greyout colors in default palette but one](https://stackoverflow.com/questions/69840973/seaborn-greyout-colors-in-default-palette-but-one) - 1 votes
-* [Changing globally the error bar width without changing the linewidth in matplotlib](https://stackoverflow.com/questions/69836621/changing-globally-the-error-bar-width-without-changing-the-linewidth-in-matplotl) - 1 votes
+* [Splitting data into bins in histplot](https://stackoverflow.com/questions/69853030/splitting-data-into-bins-in-histplot) - 1 votes
+* [Grouped bar plot on the xaxis](https://stackoverflow.com/questions/69855529/grouped-bar-plot-on-the-x-axis) - 1 votes
+* [How to limit line thickness only to the width and exclude the tip of line matplotlib](https://stackoverflow.com/questions/69852984/how-to-limit-line-thickness-only-to-the-width-and-exclude-the-tip-of-line-matpl) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Remove select labels from plot ggplot2](https://stackoverflow.com/questions/69845346/remove-select-labels-from-plot-ggplot2) - 1 votes
-* [How to plot a subset of a dataframe using ggplot2 in shiny](https://stackoverflow.com/questions/69837737/how-to-plot-a-subset-of-a-dataframe-using-ggplot2-in-shiny) - 1 votes
+* [Prevent PDF storing invisible map data](https://stackoverflow.com/questions/69850920/prevent-pdf-storing-invisible-map-data) - 3 votes
+* [R Standard Method for MCMC Monte Carlo Markov Chain Sampling](https://stackoverflow.com/questions/69849254/r-standard-method-for-mcmc-monte-carlo-markov-chain-sampling) - 3 votes
+* [R ggplot facet label position between y axis title and y axis tick mark labels](https://stackoverflow.com/questions/69856263/r-ggplot-facet-label-position-between-y-axis-title-and-y-axis-tick-mark-labels) - 2 votes
+* [Use ggplot2 to shade the area between two straight lines](https://stackoverflow.com/questions/69848073/use-ggplot2-to-shade-the-area-between-two-straight-lines) - 1 votes
+* [How to color geom_point circle in R](https://stackoverflow.com/questions/69857550/how-to-color-geom-point-circle-in-r) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
