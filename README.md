@@ -1,37 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-05<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-06<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How do I find the row  of a string index](https://stackoverflow.com/questions/69848807/how-do-i-find-the-row-of-a-string-index) - 5 votes
-* [How to factorize multiple dataframe columns with same values](https://stackoverflow.com/questions/69856888/how-to-factorize-multiple-dataframe-columns-with-same-values) - 2 votes
-* [Splitting a column into 2 in a csv file using python](https://stackoverflow.com/questions/69850956/splitting-a-column-into-2-in-a-csv-file-using-python) - 2 votes
-* [Pandas dataframe drop by column](https://stackoverflow.com/questions/69847272/pandas-dataframe-drop-by-column) - 2 votes
-* [Calculate multiple columns39 current values based on yoy change and value of previous year in Pandas](https://stackoverflow.com/questions/69849533/calculate-multiple-columns-current-values-based-on-yoy-change-and-value-of-prev) - 2 votes
+* [seaborn heatmap displays axis labels but no values when dfcorr is NaN](https://stackoverflow.com/questions/69866128/seaborn-heatmap-displays-axis-labels-but-no-values-when-df-corr-is-nan) - 2 votes
+* [How to change the structure of a pd DataFrame adding row values to columns](https://stackoverflow.com/questions/69867311/how-to-change-the-structure-of-a-pd-dataframe-adding-row-values-to-columns) - 2 votes
+* [Alternatives to update rows](https://stackoverflow.com/questions/69864977/alternatives-to-update-rows) - 2 votes
+* [Multiprocessing different rows of matrix](https://stackoverflow.com/questions/69865911/multiprocessing-different-rows-of-matrix) - 1 votes
+* [How to convert column index to column name in pandas](https://stackoverflow.com/questions/69867291/how-to-convert-column-index-to-column-name-in-pandas) - 1 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Splitting data into bins in histplot](https://stackoverflow.com/questions/69853030/splitting-data-into-bins-in-histplot) - 1 votes
-* [Grouped bar plot on the xaxis](https://stackoverflow.com/questions/69855529/grouped-bar-plot-on-the-x-axis) - 1 votes
-* [How to limit line thickness only to the width and exclude the tip of line matplotlib](https://stackoverflow.com/questions/69852984/how-to-limit-line-thickness-only-to-the-width-and-exclude-the-tip-of-line-matpl) - 1 votes
+* [How to remove outliers from XY scatter plot](https://stackoverflow.com/questions/69862594/how-to-remove-outliers-from-xy-scatter-plot) - 2 votes
+* [How to build a population pyramid with pandas dataframe](https://stackoverflow.com/questions/69864891/how-to-build-a-population-pyramid-with-pandas-dataframe) - 1 votes
+* [How to do a 3D plot in matplotlib where two functions are evaluated with only one variable](https://stackoverflow.com/questions/69863625/how-to-do-a-3d-plot-in-matplotlib-where-two-functions-are-evaluated-with-only-on) - 1 votes
+* [Struggling to insert a pie chart in Python](https://stackoverflow.com/questions/69861456/struggling-to-insert-a-pie-chart-in-python) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Prevent PDF storing invisible map data](https://stackoverflow.com/questions/69850920/prevent-pdf-storing-invisible-map-data) - 3 votes
-* [R Standard Method for MCMC Monte Carlo Markov Chain Sampling](https://stackoverflow.com/questions/69849254/r-standard-method-for-mcmc-monte-carlo-markov-chain-sampling) - 3 votes
-* [R ggplot facet label position between y axis title and y axis tick mark labels](https://stackoverflow.com/questions/69856263/r-ggplot-facet-label-position-between-y-axis-title-and-y-axis-tick-mark-labels) - 2 votes
-* [Use ggplot2 to shade the area between two straight lines](https://stackoverflow.com/questions/69848073/use-ggplot2-to-shade-the-area-between-two-straight-lines) - 1 votes
-* [How to color geom_point circle in R](https://stackoverflow.com/questions/69857550/how-to-color-geom-point-circle-in-r) - 1 votes
+* [Is there way in ggplot2 to place text on a curved path](https://stackoverflow.com/questions/69867669/is-there-way-in-ggplot2-to-place-text-on-a-curved-path) - 2 votes
+* [Pass a column name as a function parameter with aes_str](https://stackoverflow.com/questions/69860486/pass-a-column-name-as-a-function-parameter-with-aes-str) - 2 votes
+* [How to Use Facet Grid For My Type of Data](https://stackoverflow.com/questions/69863292/how-to-use-facet-grid-for-my-type-of-data) - 1 votes
+* [Multirow xaxis labels with facet_grid where each facet has unique labels](https://stackoverflow.com/questions/69860879/multi-row-x-axis-labels-with-facet-grid-where-each-facet-has-unique-labels) - 1 votes
+* [ggplot generates jaggedbroken lines in specific cases](https://stackoverflow.com/questions/69864276/ggplot-generates-jagged-broken-lines-in-specific-cases) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
