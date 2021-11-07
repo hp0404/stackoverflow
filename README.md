@@ -1,38 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-06<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-07<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [seaborn heatmap displays axis labels but no values when dfcorr is NaN](https://stackoverflow.com/questions/69866128/seaborn-heatmap-displays-axis-labels-but-no-values-when-df-corr-is-nan) - 2 votes
-* [How to change the structure of a pd DataFrame adding row values to columns](https://stackoverflow.com/questions/69867311/how-to-change-the-structure-of-a-pd-dataframe-adding-row-values-to-columns) - 2 votes
-* [Alternatives to update rows](https://stackoverflow.com/questions/69864977/alternatives-to-update-rows) - 2 votes
-* [Multiprocessing different rows of matrix](https://stackoverflow.com/questions/69865911/multiprocessing-different-rows-of-matrix) - 1 votes
-* [How to convert column index to column name in pandas](https://stackoverflow.com/questions/69867291/how-to-convert-column-index-to-column-name-in-pandas) - 1 votes
+* [Combined aggregate based on valid values](https://stackoverflow.com/questions/69874192/combined-aggregate-based-on-valid-values) - 4 votes
+* [Object to pandas dataframe](https://stackoverflow.com/questions/69876024/object-to-pandas-dataframe) - 3 votes
+* [Pandas extract previous row on value change](https://stackoverflow.com/questions/69870036/pandas-extract-previous-row-on-value-change) - 2 votes
+* [Find next QuarterMonthYearBiannual Date from Pandas Timestamp](https://stackoverflow.com/questions/69872955/find-next-quarter-month-year-bi-annual-date-from-pandas-timestamp) - 2 votes
+* [Python forloop to change row value based on a condition works correctly but does not change the values on pandas dataframe](https://stackoverflow.com/questions/69872914/python-for-loop-to-change-row-value-based-on-a-condition-works-correctly-but-doe) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to remove outliers from XY scatter plot](https://stackoverflow.com/questions/69862594/how-to-remove-outliers-from-xy-scatter-plot) - 2 votes
-* [How to build a population pyramid with pandas dataframe](https://stackoverflow.com/questions/69864891/how-to-build-a-population-pyramid-with-pandas-dataframe) - 1 votes
-* [How to do a 3D plot in matplotlib where two functions are evaluated with only one variable](https://stackoverflow.com/questions/69863625/how-to-do-a-3d-plot-in-matplotlib-where-two-functions-are-evaluated-with-only-on) - 1 votes
-* [Struggling to insert a pie chart in Python](https://stackoverflow.com/questions/69861456/struggling-to-insert-a-pie-chart-in-python) - 1 votes
+* [How to aggregate data and plot all groups](https://stackoverflow.com/questions/69874709/how-to-aggregate-data-and-plot-all-groups) - 1 votes
+* [How to plot a stacked bar with annotations for multiple groups](https://stackoverflow.com/questions/69872543/how-to-plot-a-stacked-bar-with-annotations-for-multiple-groups) - 1 votes
+* [How can I label a Matplotlib plot using a mix of a variable and string](https://stackoverflow.com/questions/69869457/how-can-i-label-a-matplotlib-plot-using-a-mix-of-a-variable-and-string) - 1 votes
+* [All scatter points aren39t displayed when plotting two sets of data](https://stackoverflow.com/questions/69874751/all-scatter-points-arent-displayed-when-plotting-two-sets-of-data) - 1 votes
+* [Boxplot and violin plot with multiple categories](https://stackoverflow.com/questions/69869223/boxplot-and-violin-plot-with-multiple-categories) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Is there way in ggplot2 to place text on a curved path](https://stackoverflow.com/questions/69867669/is-there-way-in-ggplot2-to-place-text-on-a-curved-path) - 2 votes
-* [Pass a column name as a function parameter with aes_str](https://stackoverflow.com/questions/69860486/pass-a-column-name-as-a-function-parameter-with-aes-str) - 2 votes
-* [How to Use Facet Grid For My Type of Data](https://stackoverflow.com/questions/69863292/how-to-use-facet-grid-for-my-type-of-data) - 1 votes
-* [Multirow xaxis labels with facet_grid where each facet has unique labels](https://stackoverflow.com/questions/69860879/multi-row-x-axis-labels-with-facet-grid-where-each-facet-has-unique-labels) - 1 votes
-* [ggplot generates jaggedbroken lines in specific cases](https://stackoverflow.com/questions/69864276/ggplot-generates-jagged-broken-lines-in-specific-cases) - 1 votes
+* [How do I Use quotSymbol  Numericquot and quotCharacter  Numericquot in Ggplot2 Label](https://stackoverflow.com/questions/69873582/how-do-i-use-symbol-numeric-and-character-numeric-in-ggplot2-label) - 1 votes
+* [Replace barplot xaxis labels with plots in R](https://stackoverflow.com/questions/69874919/replace-barplot-x-axis-labels-with-plots-in-r) - 1 votes
+* [Plotting violin plot in R](https://stackoverflow.com/questions/69873589/plotting-violin-plot-in-r) - 1 votes
+* [How can a graph of a polynomial regression with a categorical variable be plotted](https://stackoverflow.com/questions/69868935/how-can-a-graph-of-a-polynomial-regression-with-a-categorical-variable-be-plotte) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
