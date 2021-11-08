@@ -1,38 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-07<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-08<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Combined aggregate based on valid values](https://stackoverflow.com/questions/69874192/combined-aggregate-based-on-valid-values) - 4 votes
-* [Object to pandas dataframe](https://stackoverflow.com/questions/69876024/object-to-pandas-dataframe) - 3 votes
-* [Pandas extract previous row on value change](https://stackoverflow.com/questions/69870036/pandas-extract-previous-row-on-value-change) - 2 votes
-* [Find next QuarterMonthYearBiannual Date from Pandas Timestamp](https://stackoverflow.com/questions/69872955/find-next-quarter-month-year-bi-annual-date-from-pandas-timestamp) - 2 votes
-* [Python forloop to change row value based on a condition works correctly but does not change the values on pandas dataframe](https://stackoverflow.com/questions/69872914/python-for-loop-to-change-row-value-based-on-a-condition-works-correctly-but-doe) - 2 votes
+* [Check if string is in another column pandas](https://stackoverflow.com/questions/69882397/check-if-string-is-in-another-column-pandas) - 3 votes
+* [pandas subtract rows in dataframe according to a few columns](https://stackoverflow.com/questions/69881567/pandas-subtract-rows-in-dataframe-according-to-a-few-columns) - 3 votes
+* [How to expand and create the following dataset in Pandas](https://stackoverflow.com/questions/69885515/how-to-expand-and-create-the-following-dataset-in-pandas) - 3 votes
+* [Replace 0 with NaN for selected columns only if all values are 0 in Pandas](https://stackoverflow.com/questions/69877974/replace-0-with-nan-for-selected-columns-only-if-all-values-are-0-in-pandas) - 2 votes
+* [Pandas select match multiple columns](https://stackoverflow.com/questions/69889411/pandas-select-match-multiple-columns) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to aggregate data and plot all groups](https://stackoverflow.com/questions/69874709/how-to-aggregate-data-and-plot-all-groups) - 1 votes
-* [How to plot a stacked bar with annotations for multiple groups](https://stackoverflow.com/questions/69872543/how-to-plot-a-stacked-bar-with-annotations-for-multiple-groups) - 1 votes
-* [How can I label a Matplotlib plot using a mix of a variable and string](https://stackoverflow.com/questions/69869457/how-can-i-label-a-matplotlib-plot-using-a-mix-of-a-variable-and-string) - 1 votes
-* [All scatter points aren39t displayed when plotting two sets of data](https://stackoverflow.com/questions/69874751/all-scatter-points-arent-displayed-when-plotting-two-sets-of-data) - 1 votes
-* [Boxplot and violin plot with multiple categories](https://stackoverflow.com/questions/69869223/boxplot-and-violin-plot-with-multiple-categories) - 1 votes
+* [How to plot my pandas dataframe in matplotlib](https://stackoverflow.com/questions/69879845/how-to-plot-my-pandas-dataframe-in-matplotlib) - 2 votes
+* [How to aggregate group metrics and plot data with pandas](https://stackoverflow.com/questions/69887104/how-to-aggregate-group-metrics-and-plot-data-with-pandas) - 1 votes
+* [How to surpress some autopct values plotted on a pie plot](https://stackoverflow.com/questions/69882957/how-to-surpress-some-autopct-values-plotted-on-a-pie-plot) - 1 votes
+* [Erasing the floor of a matplotlib 3D barplot](https://stackoverflow.com/questions/69887890/erasing-the-floor-of-a-matplotlib-3d-barplot) - 1 votes
+* [Why does Seaborn lineplot quotsizequot argument end up as legend artist](https://stackoverflow.com/questions/69886507/why-does-seaborn-lineplot-size-argument-end-up-as-legend-artist) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How do I Use quotSymbol  Numericquot and quotCharacter  Numericquot in Ggplot2 Label](https://stackoverflow.com/questions/69873582/how-do-i-use-symbol-numeric-and-character-numeric-in-ggplot2-label) - 1 votes
-* [Replace barplot xaxis labels with plots in R](https://stackoverflow.com/questions/69874919/replace-barplot-x-axis-labels-with-plots-in-r) - 1 votes
-* [Plotting violin plot in R](https://stackoverflow.com/questions/69873589/plotting-violin-plot-in-r) - 1 votes
-* [How can a graph of a polynomial regression with a categorical variable be plotted](https://stackoverflow.com/questions/69868935/how-can-a-graph-of-a-polynomial-regression-with-a-categorical-variable-be-plotte) - 1 votes
+* [How to use loop with geom_vline and facet_wrap](https://stackoverflow.com/questions/69884753/how-to-use-loop-with-geom-vline-and-facet-wrap) - 2 votes
+* [Duplicate labels using manual scales and Tex command](https://stackoverflow.com/questions/69882692/duplicate-labels-using-manual-scales-and-tex-command) - 2 votes
+* [Changing the fill order in a clustered geom_col](https://stackoverflow.com/questions/69879884/changing-the-fill-order-in-a-clustered-geom-col) - 1 votes
+* [Change order yaxis of dotplot in ggplot2](https://stackoverflow.com/questions/69883865/change-order-y-axis-of-dotplot-in-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
