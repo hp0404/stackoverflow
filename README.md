@@ -1,38 +1,32 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-08<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-09<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Check if string is in another column pandas](https://stackoverflow.com/questions/69882397/check-if-string-is-in-another-column-pandas) - 3 votes
-* [pandas subtract rows in dataframe according to a few columns](https://stackoverflow.com/questions/69881567/pandas-subtract-rows-in-dataframe-according-to-a-few-columns) - 3 votes
-* [How to expand and create the following dataset in Pandas](https://stackoverflow.com/questions/69885515/how-to-expand-and-create-the-following-dataset-in-pandas) - 3 votes
-* [Replace 0 with NaN for selected columns only if all values are 0 in Pandas](https://stackoverflow.com/questions/69877974/replace-0-with-nan-for-selected-columns-only-if-all-values-are-0-in-pandas) - 2 votes
-* [Pandas select match multiple columns](https://stackoverflow.com/questions/69889411/pandas-select-match-multiple-columns) - 2 votes
+* [pandas remove row where value is equal to zero](https://stackoverflow.com/questions/69900843/pandas-remove-row-where-value-is-equal-to-zero) - 3 votes
+* [How to convert wide dataframe to long dataframe](https://stackoverflow.com/questions/69892048/how-to-convert-wide-dataframe-to-long-dataframe) - 3 votes
+* [Reverse lookup of a substring in a dict of lists](https://stackoverflow.com/questions/69903242/reverse-lookup-of-a-sub-string-in-a-dict-of-lists) - 2 votes
+* [Pandas dataframe Fill in interpolated date values per category](https://stackoverflow.com/questions/69896763/pandas-dataframe-fill-in-interpolated-date-values-per-category) - 2 votes
+* [How in python can I count unique values in a column for gradually increasing numbers of rows within groups](https://stackoverflow.com/questions/69900183/how-in-python-can-i-count-unique-values-in-a-column-for-gradually-increasing-n) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to plot my pandas dataframe in matplotlib](https://stackoverflow.com/questions/69879845/how-to-plot-my-pandas-dataframe-in-matplotlib) - 2 votes
-* [How to aggregate group metrics and plot data with pandas](https://stackoverflow.com/questions/69887104/how-to-aggregate-group-metrics-and-plot-data-with-pandas) - 1 votes
-* [How to surpress some autopct values plotted on a pie plot](https://stackoverflow.com/questions/69882957/how-to-surpress-some-autopct-values-plotted-on-a-pie-plot) - 1 votes
-* [Erasing the floor of a matplotlib 3D barplot](https://stackoverflow.com/questions/69887890/erasing-the-floor-of-a-matplotlib-3d-barplot) - 1 votes
-* [Why does Seaborn lineplot quotsizequot argument end up as legend artist](https://stackoverflow.com/questions/69886507/why-does-seaborn-lineplot-size-argument-end-up-as-legend-artist) - 1 votes
+* [When creating a seaborn heatmap 39could not convert string to float39 ValueError](https://stackoverflow.com/questions/69900954/when-creating-a-seaborn-heatmap-could-not-convert-string-to-float-valueerror) - 2 votes
+* [How to make matplotlib markers colorblindfriendly in a simple way](https://stackoverflow.com/questions/69897460/how-to-make-matplotlib-markers-colorblind-friendly-in-a-simple-way) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to use loop with geom_vline and facet_wrap](https://stackoverflow.com/questions/69884753/how-to-use-loop-with-geom-vline-and-facet-wrap) - 2 votes
-* [Duplicate labels using manual scales and Tex command](https://stackoverflow.com/questions/69882692/duplicate-labels-using-manual-scales-and-tex-command) - 2 votes
-* [Changing the fill order in a clustered geom_col](https://stackoverflow.com/questions/69879884/changing-the-fill-order-in-a-clustered-geom-col) - 1 votes
-* [Change order yaxis of dotplot in ggplot2](https://stackoverflow.com/questions/69883865/change-order-y-axis-of-dotplot-in-ggplot2) - 1 votes
+* [ggarrange  change background of shared legend and remove borders between plots](https://stackoverflow.com/questions/69891816/ggarrange-change-background-of-shared-legend-and-remove-borders-between-plots) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
