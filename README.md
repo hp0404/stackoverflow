@@ -1,35 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-10<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-11<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [A Lexicographical Bug in Pandas](https://stackoverflow.com/questions/69909707/a-lexicographical-bug-in-pandas) - 5 votes
-* [Is there a dummy comparison variable in python and pandas](https://stackoverflow.com/questions/69907230/is-there-a-dummy-comparison-variable-in-python-and-pandas) - 4 votes
-* [Pandas Select columns based on row values](https://stackoverflow.com/questions/69909234/pandas-select-columns-based-on-row-values) - 4 votes
-* [How to find each row and column data type in pandas dataframe using apply map or applymap](https://stackoverflow.com/questions/69914296/how-to-find-each-row-and-column-data-type-in-pandas-dataframe-using-apply-map-o) - 3 votes
-* [Grouping by a set in pandas](https://stackoverflow.com/questions/69916840/grouping-by-a-set-in-pandas) - 3 votes
+* [How to add rows in one column based on repeated values in another column  and finally keep the first row in python](https://stackoverflow.com/questions/69921871/how-to-add-rows-in-one-column-based-on-repeated-values-in-another-column-and-f) - 4 votes
+* [Extract words based on regex](https://stackoverflow.com/questions/69934123/extract-words-based-on-regex) - 2 votes
+* [Is there an easy way to select across rows in a panda frame to create a new column](https://stackoverflow.com/questions/69931258/is-there-an-easy-way-to-select-across-rows-in-a-panda-frame-to-create-a-new-colu) - 2 votes
+* [How to customize bar annotations to not show selected values](https://stackoverflow.com/questions/69933583/how-to-customize-bar-annotations-to-not-show-selected-values) - 2 votes
+* [dfto_csv as tabdelim but commas conflict](https://stackoverflow.com/questions/69929545/df-to-csv-as-tab-delim-but-commas-conflict) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Matplotlib issue when saving imshow as pdf with interpolation and alpha](https://stackoverflow.com/questions/69914117/matplotlib-issue-when-saving-imshow-as-pdf-with-interpolation-and-alpha) - 2 votes
-* [How to create a stacked bar plot from a wide dataframe](https://stackoverflow.com/questions/69915944/how-to-create-a-stacked-bar-plot-from-a-wide-dataframe) - 2 votes
-* [Plot lines to x and y values of maximum in graph with spline interpolation](https://stackoverflow.com/questions/69915030/plot-lines-to-x-and-y-values-of-maximum-in-graph-with-spline-interpolation) - 1 votes
-* [Seaborn Heatmap correlation won39t fit annotation digits](https://stackoverflow.com/questions/69913739/seaborn-heatmap-correlation-wont-fit-annotation-digits) - 1 votes
+* [Phase portrait of Verhulst equation](https://stackoverflow.com/questions/69932132/phase-portrait-of-verhulst-equation) - 3 votes
+* [Using plt to display pytorch image](https://stackoverflow.com/questions/69932913/using-plt-to-display-pytorch-image) - 3 votes
+* [How to customize bar annotations to not show selected values](https://stackoverflow.com/questions/69933583/how-to-customize-bar-annotations-to-not-show-selected-values) - 2 votes
+* [Count total number of pixels for each color](https://stackoverflow.com/questions/69932895/count-total-number-of-pixels-for-each-color) - 1 votes
+* [last bar is hiding behind in pandas grouped bar plot](https://stackoverflow.com/questions/69932935/last-bar-is-hiding-behind-in-pandas-grouped-bar-plot) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [ggstatsplot remove line connecting mean in ggwithinstats](https://stackoverflow.com/questions/69917402/ggstatsplot-remove-line-connecting-mean-in-ggwithinstats) - 1 votes
-* [Paste an object in addition to superscripts in ggplot labels](https://stackoverflow.com/questions/69916884/paste-an-object-in-addition-to-superscripts-in-ggplot-labels) - 1 votes
+* [ggplot2 png file without background](https://stackoverflow.com/questions/69928739/ggplot2-png-file-without-background) - 1 votes
+* [R Shiny  Dynamically filter ggplot2 chart using DateSlider](https://stackoverflow.com/questions/69928140/r-shiny-dynamically-filter-ggplot2-chart-using-dateslider) - 1 votes
+* [Bolden the title and axisticks](https://stackoverflow.com/questions/69922243/bolden-the-title-and-axis-ticks) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
