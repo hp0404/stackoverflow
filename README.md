@@ -1,34 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-13<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-14<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Get min and max values of categorical variable in a dataframe](https://stackoverflow.com/questions/69950418/get-min-and-max-values-of-categorical-variable-in-a-dataframe) - 8 votes
-* [Weird behaviour of assignment in pandasDataFrame](https://stackoverflow.com/questions/69954697/weird-behaviour-of-assignment-in-pandas-dataframe) - 7 votes
-* [A groupby cumsum that is set to zero and restarts the cumsum when the value is below zero](https://stackoverflow.com/questions/69955921/a-groupby-cumsum-that-is-set-to-zero-and-restarts-the-cumsum-when-the-value-is-b) - 3 votes
-* [Round values in column from floats to ints using Python](https://stackoverflow.com/questions/69950914/round-values-in-column-from-floats-to-ints-using-python) - 3 votes
-* [npargsort and pdnsmallest give different results](https://stackoverflow.com/questions/69950691/np-argsort-and-pd-nsmallest-give-different-results) - 3 votes
+* [Convert a series of paired values to 01 matrix using pandas dataframe](https://stackoverflow.com/questions/69960228/convert-a-series-of-paired-values-to-0-1-matrix-using-pandas-dataframe) - 3 votes
+* [Looking for a way to speed up this apply function in pandas](https://stackoverflow.com/questions/69959719/looking-for-a-way-to-speed-up-this-apply-function-in-pandas) - 3 votes
+* [Shorten length of key in dictionary](https://stackoverflow.com/questions/69961743/shorten-length-of-key-in-dictionary) - 2 votes
+* [How can I fill a column with values that are computed between two dates in pandas](https://stackoverflow.com/questions/69963949/how-can-i-fill-a-column-with-values-that-are-computed-between-two-dates-in-panda) - 2 votes
+* [How to delete sequence of rows with same value with a condition](https://stackoverflow.com/questions/69964728/how-to-delete-sequence-of-rows-with-same-value-with-a-condition) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Graph not showing up on Jupyter lab](https://stackoverflow.com/questions/69956150/graph-not-showing-up-on-jupyter-lab) - 1 votes
-* [How to change color of matplotlib toolbar in tkinter](https://stackoverflow.com/questions/69955087/how-to-change-color-of-matplotlib-toolbar-in-tkinter) - 1 votes
+* [Specifying steps in yaxis of Pandas plot](https://stackoverflow.com/questions/69962957/specifying-steps-in-y-axis-of-pandas-plot) - 1 votes
+* [How to repeat eficiently part of plot for succesive plots in PyPlot or Matplotlib](https://stackoverflow.com/questions/69966607/how-to-repeat-eficiently-part-of-plot-for-succesive-plots-in-pyplot-or-matplotli) - 1 votes
+* [Create a logarithmic scale with different increment in Python](https://stackoverflow.com/questions/69962379/create-a-logarithmic-scale-with-different-increment-in-python) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [plot summarized daily timeseries grouped by unique IDs in R](https://stackoverflow.com/questions/69953249/plot-summarized-daily-timeseries-grouped-by-unique-ids-in-r) - 1 votes
-* [ggplot2 reorder my boxplot by 80th percentile](https://stackoverflow.com/questions/69951705/ggplot2-reorder-my-boxplot-by-80th-percentile) - 1 votes
-* [How can I add labels to bar chart with ggplot2 if using a melted datatable](https://stackoverflow.com/questions/69950687/how-can-i-add-labels-to-bar-chart-with-ggplot2-if-using-a-melted-data-table) - 1 votes
+* [R gglot2 want to reflect different colors in a line](https://stackoverflow.com/questions/69961127/r-gglot2-want-to-reflect-different-colors-in-a-line) - 1 votes
+* [Add  2 SE in regression line R](https://stackoverflow.com/questions/69966033/add-2-se-in-regression-line-r) - 1 votes
+* [Produce smooth error bar around multiple line graph using standard error in data frame](https://stackoverflow.com/questions/69959551/produce-smooth-error-bar-around-multiple-line-graph-using-standard-error-in-data) - 1 votes
+* [Table and Heatmap](https://stackoverflow.com/questions/69964866/table-and-heatmap) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
