@@ -1,36 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-15<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-16<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Why aren39t Pandas operations inplace](https://stackoverflow.com/questions/69969482/why-arent-pandas-operations-in-place) - 5 votes
-* [How can I drop data from multiindexed Dataframe without using all levels in drop command](https://stackoverflow.com/questions/69973478/how-can-i-drop-data-from-multiindexed-dataframe-without-using-all-levels-in-dro) - 3 votes
-* [Add delete rows based on value counts of certain column](https://stackoverflow.com/questions/69973067/add-delete-rows-based-on-value-counts-of-certain-column) - 2 votes
-* [How to group a list into a dataframe with four columns](https://stackoverflow.com/questions/69974031/how-to-group-a-list-into-a-dataframe-with-four-columns) - 2 votes
-* [pandas dataframe count duplicates by group and date](https://stackoverflow.com/questions/69973461/pandas-dataframe-count-duplicates-by-group-and-date) - 2 votes
+* [How to build triangular matrix as df with data from dataframe](https://stackoverflow.com/questions/69993379/how-to-build-triangular-matrix-as-df-with-data-from-dataframe) - 5 votes
+* [Create a feature table in Python from a df](https://stackoverflow.com/questions/69994210/create-a-feature-table-in-python-from-a-df) - 4 votes
+* [How to adjust this dataframe](https://stackoverflow.com/questions/69990580/how-to-adjust-this-dataframe) - 4 votes
+* [How to update a row based on other rows in pandas in an efficient way](https://stackoverflow.com/questions/69989894/how-to-update-a-row-based-on-other-rows-in-pandas-in-an-efficient-way) - 3 votes
+* [How to join a dataframe with packed column and row names to an unpacked dataframe](https://stackoverflow.com/questions/69992280/how-to-join-a-dataframe-with-packed-column-and-row-names-to-an-unpacked-datafram) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to groupby 2 columns based on one columns in pandas](https://stackoverflow.com/questions/69980551/how-to-groupby-2-columns-based-on-one-columns-in-pandas) - 1 votes
-* [Show different classification classes as different colors on a timeseries plot](https://stackoverflow.com/questions/69972819/show-different-classification-classes-as-different-colors-on-a-timeseries-plot) - 1 votes
+* [Plot minimum of two arrays](https://stackoverflow.com/questions/69988422/plot-minimum-of-two-arrays) - 2 votes
+* [Finding the coordinates of the minima of a plot in Python](https://stackoverflow.com/questions/69992587/finding-the-co-ordinates-of-the-minima-of-a-plot-in-python) - 1 votes
+* [Setting x axys with matplotlib](https://stackoverflow.com/questions/69991571/setting-x-axys-with-matplotlib) - 1 votes
+* [Avoid show in pyplot](https://stackoverflow.com/questions/69991450/avoid-show-in-pyplot) - 1 votes
+* [making groupby plot using matplotlib and pandas](https://stackoverflow.com/questions/69988755/making-groupby-plot-using-matplotlib-and-pandas) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [What is Julia39s equivalent ggplot code of R39s](https://stackoverflow.com/questions/69972630/what-is-julias-equivalent-ggplot-code-of-rs) - 3 votes
-* [plot_annotations disappear via patchwork in R](https://stackoverflow.com/questions/69970971/plot-annotations-disappear-via-patchwork-in-r) - 2 votes
-* [How to display all significant figures on labels when constructing bar charts using ggplot](https://stackoverflow.com/questions/69980755/how-to-display-all-significant-figures-on-labels-when-constructing-bar-charts-us) - 2 votes
-* [Show legend marker and label even if not in plot](https://stackoverflow.com/questions/69979003/show-legend-marker-and-label-even-if-not-in-plot) - 1 votes
-* [How to fill a ggplot heatmap with a second colour in R](https://stackoverflow.com/questions/69979511/how-to-fill-a-ggplot-heatmap-with-a-second-colour-in-r) - 1 votes
+* [How can I create rectangles in ggplot with known centers dimensions and orientations](https://stackoverflow.com/questions/69992712/how-can-i-create-rectangles-in-ggplot-with-known-centers-dimensions-and-orienta) - 2 votes
+* [Add blank gap between specific geom_area using ggplot2](https://stackoverflow.com/questions/69985847/add-blank-gap-between-specific-geom-area-using-ggplot2) - 2 votes
+* [Only show maximum and minimum datesvalues for x and y axis label in ggplot2 plot](https://stackoverflow.com/questions/69985191/only-show-maximum-and-minimum-dates-values-for-x-and-y-axis-label-in-ggplot2-plo) - 1 votes
+* [multiple columns of information ggplot y axis](https://stackoverflow.com/questions/69989743/multiple-columns-of-information-ggplot-y-axis) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
