@@ -1,38 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-16<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-17<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How to build triangular matrix as df with data from dataframe](https://stackoverflow.com/questions/69993379/how-to-build-triangular-matrix-as-df-with-data-from-dataframe) - 5 votes
-* [Create a feature table in Python from a df](https://stackoverflow.com/questions/69994210/create-a-feature-table-in-python-from-a-df) - 4 votes
-* [How to adjust this dataframe](https://stackoverflow.com/questions/69990580/how-to-adjust-this-dataframe) - 4 votes
-* [How to update a row based on other rows in pandas in an efficient way](https://stackoverflow.com/questions/69989894/how-to-update-a-row-based-on-other-rows-in-pandas-in-an-efficient-way) - 3 votes
-* [How to join a dataframe with packed column and row names to an unpacked dataframe](https://stackoverflow.com/questions/69992280/how-to-join-a-dataframe-with-packed-column-and-row-names-to-an-unpacked-datafram) - 3 votes
+* [Fillna if all the values of a column are null in pandas](https://stackoverflow.com/questions/70002365/fillna-if-all-the-values-of-a-column-are-null-in-pandas) - 4 votes
+* [Convert multiple lists with missing value into one dictionary](https://stackoverflow.com/questions/70005089/convert-multiple-lists-with-missing-value-into-one-dictionary) - 4 votes
+* [How to get rows having DatetimeIndex within time interval in pandas table](https://stackoverflow.com/questions/70000637/how-to-get-rows-having-datetimeindex-within-time-interval-in-pandas-table) - 3 votes
+* [How can I delete a sequence of rows based on a condition](https://stackoverflow.com/questions/69997820/how-can-i-delete-a-sequence-of-rows-based-on-a-condition) - 3 votes
+* [Efficient python data transformation with pandasnumpy](https://stackoverflow.com/questions/70005428/efficient-python-data-transformation-with-pandas-numpy) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Plot minimum of two arrays](https://stackoverflow.com/questions/69988422/plot-minimum-of-two-arrays) - 2 votes
-* [Finding the coordinates of the minima of a plot in Python](https://stackoverflow.com/questions/69992587/finding-the-co-ordinates-of-the-minima-of-a-plot-in-python) - 1 votes
-* [Setting x axys with matplotlib](https://stackoverflow.com/questions/69991571/setting-x-axys-with-matplotlib) - 1 votes
-* [Avoid show in pyplot](https://stackoverflow.com/questions/69991450/avoid-show-in-pyplot) - 1 votes
-* [making groupby plot using matplotlib and pandas](https://stackoverflow.com/questions/69988755/making-groupby-plot-using-matplotlib-and-pandas) - 1 votes
+* [Labeling xarray plot with month names](https://stackoverflow.com/questions/70010874/labeling-xarray-plot-with-month-names) - 1 votes
+* [How to change the legend location for pandas subplots](https://stackoverflow.com/questions/70007652/how-to-change-the-legend-location-for-pandas-subplots) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How can I create rectangles in ggplot with known centers dimensions and orientations](https://stackoverflow.com/questions/69992712/how-can-i-create-rectangles-in-ggplot-with-known-centers-dimensions-and-orienta) - 2 votes
-* [Add blank gap between specific geom_area using ggplot2](https://stackoverflow.com/questions/69985847/add-blank-gap-between-specific-geom-area-using-ggplot2) - 2 votes
-* [Only show maximum and minimum datesvalues for x and y axis label in ggplot2 plot](https://stackoverflow.com/questions/69985191/only-show-maximum-and-minimum-dates-values-for-x-and-y-axis-label-in-ggplot2-plo) - 1 votes
-* [multiple columns of information ggplot y axis](https://stackoverflow.com/questions/69989743/multiple-columns-of-information-ggplot-y-axis) - 1 votes
+* [Consistent way to overlay data on histogram extracting the binned data from geom_histogram](https://stackoverflow.com/questions/70000517/consistent-way-to-overlay-data-on-histogram-extracting-the-binned-data-from-geo) - 6 votes
+* [statistical summary of scatter plots in R ggplot2 based on quadrants](https://stackoverflow.com/questions/70006687/statistical-summary-of-scatter-plots-in-r-ggplot2-based-on-quadrants) - 2 votes
+* [Create a bar chart with proportions](https://stackoverflow.com/questions/69997501/create-a-bar-chart-with-proportions) - 1 votes
+* [convert number hours to time HHMM in xaxis in ggplot](https://stackoverflow.com/questions/70010399/convert-number-hours-to-time-hhmm-in-x-axis-in-ggplot) - 1 votes
+* [How to rescale color mapping in scale_color_distiller ggplot2](https://stackoverflow.com/questions/70003893/how-to-rescale-color-mapping-in-scale-color-distiller-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
