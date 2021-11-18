@@ -1,36 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-17<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-18<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Fillna if all the values of a column are null in pandas](https://stackoverflow.com/questions/70002365/fillna-if-all-the-values-of-a-column-are-null-in-pandas) - 4 votes
-* [Convert multiple lists with missing value into one dictionary](https://stackoverflow.com/questions/70005089/convert-multiple-lists-with-missing-value-into-one-dictionary) - 4 votes
-* [How to get rows having DatetimeIndex within time interval in pandas table](https://stackoverflow.com/questions/70000637/how-to-get-rows-having-datetimeindex-within-time-interval-in-pandas-table) - 3 votes
-* [How can I delete a sequence of rows based on a condition](https://stackoverflow.com/questions/69997820/how-can-i-delete-a-sequence-of-rows-based-on-a-condition) - 3 votes
-* [Efficient python data transformation with pandasnumpy](https://stackoverflow.com/questions/70005428/efficient-python-data-transformation-with-pandas-numpy) - 3 votes
+* [Multiple column groupby with pandas to find maximum value for each group](https://stackoverflow.com/questions/70013345/multiple-column-groupby-with-pandas-to-find-maximum-value-for-each-group) - 3 votes
+* [How do I group a pandas column to create a new percentage column](https://stackoverflow.com/questions/70019337/how-do-i-group-a-pandas-column-to-create-a-new-percentage-column) - 3 votes
+* [Convert a nested dictionary with tuples as keys to a dataframe](https://stackoverflow.com/questions/70023170/convert-a-nested-dictionary-with-tuples-as-keys-to-a-dataframe) - 2 votes
+* [Create column with boolean values based on condition](https://stackoverflow.com/questions/70017317/create-column-with-boolean-values-based-on-condition) - 2 votes
+* [Pandas expand value counts after groupby as columns](https://stackoverflow.com/questions/70025900/pandas-expand-value-counts-after-groupby-as-columns) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Labeling xarray plot with month names](https://stackoverflow.com/questions/70010874/labeling-xarray-plot-with-month-names) - 1 votes
-* [How to change the legend location for pandas subplots](https://stackoverflow.com/questions/70007652/how-to-change-the-legend-location-for-pandas-subplots) - 1 votes
+* [How to convert data from wide to long so values are plotted against time](https://stackoverflow.com/questions/70025086/how-to-convert-data-from-wide-to-long-so-values-are-plotted-against-time) - 2 votes
+* [swarmplot doesn39t recognize hue when either the x or y parameter is omitted](https://stackoverflow.com/questions/70025168/swarmplot-doesnt-recognize-hue-when-either-the-x-or-y-parameter-is-omitted) - 1 votes
+* [Converting tuples of xy coordinates to a tuple of x and a tuple of y coordinates](https://stackoverflow.com/questions/70026662/converting-tuples-of-x-y-coordinates-to-a-tuple-of-x-and-a-tuple-of-y-coordina) - 1 votes
+* [Simple animation for Conway39s Game of Life with FuncAnimation](https://stackoverflow.com/questions/70019538/simple-animation-for-conways-game-of-life-with-funcanimation) - 1 votes
+* [Plot lines in matplotlib based on discrete discriminator](https://stackoverflow.com/questions/70018138/plot-lines-in-matplotlib-based-on-discrete-discriminator) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Consistent way to overlay data on histogram extracting the binned data from geom_histogram](https://stackoverflow.com/questions/70000517/consistent-way-to-overlay-data-on-histogram-extracting-the-binned-data-from-geo) - 6 votes
-* [statistical summary of scatter plots in R ggplot2 based on quadrants](https://stackoverflow.com/questions/70006687/statistical-summary-of-scatter-plots-in-r-ggplot2-based-on-quadrants) - 2 votes
-* [Create a bar chart with proportions](https://stackoverflow.com/questions/69997501/create-a-bar-chart-with-proportions) - 1 votes
-* [convert number hours to time HHMM in xaxis in ggplot](https://stackoverflow.com/questions/70010399/convert-number-hours-to-time-hhmm-in-x-axis-in-ggplot) - 1 votes
-* [How to rescale color mapping in scale_color_distiller ggplot2](https://stackoverflow.com/questions/70003893/how-to-rescale-color-mapping-in-scale-color-distiller-ggplot2) - 1 votes
+* [Patchwork won39t assign common legend for combined plots](https://stackoverflow.com/questions/70020340/patchwork-wont-assign-common-legend-for-combined-plots) - 3 votes
+* [plotly overrules ggplot239s scale_fill_manual39s labels](https://stackoverflow.com/questions/70017937/plotly-overrules-ggplot2s-scale-fill-manuals-labels) - 3 votes
+* [Add hline for groups outside of aestetic in ggplot](https://stackoverflow.com/questions/70018442/add-hline-for-groups-outside-of-aestetic-in-ggplot) - 2 votes
+* [How do I keep all the legends in ggplot](https://stackoverflow.com/questions/70022773/how-do-i-keep-all-the-legends-in-ggplot) - 2 votes
+* [How to add a frequency or number on scalebar of stacked barplot using geom_text](https://stackoverflow.com/questions/70014610/how-to-add-a-frequency-or-number-on-scalebar-of-stacked-barplot-using-geom-text) - 2 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
