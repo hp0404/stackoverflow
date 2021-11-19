@@ -1,39 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-18<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-19<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Multiple column groupby with pandas to find maximum value for each group](https://stackoverflow.com/questions/70013345/multiple-column-groupby-with-pandas-to-find-maximum-value-for-each-group) - 3 votes
-* [How do I group a pandas column to create a new percentage column](https://stackoverflow.com/questions/70019337/how-do-i-group-a-pandas-column-to-create-a-new-percentage-column) - 3 votes
-* [Convert a nested dictionary with tuples as keys to a dataframe](https://stackoverflow.com/questions/70023170/convert-a-nested-dictionary-with-tuples-as-keys-to-a-dataframe) - 2 votes
-* [Create column with boolean values based on condition](https://stackoverflow.com/questions/70017317/create-column-with-boolean-values-based-on-condition) - 2 votes
-* [Pandas expand value counts after groupby as columns](https://stackoverflow.com/questions/70025900/pandas-expand-value-counts-after-groupby-as-columns) - 2 votes
+* [Turning a Dataframe into a nested dictionary](https://stackoverflow.com/questions/70039745/turning-a-dataframe-into-a-nested-dictionary) - 4 votes
+* [How to do rolling subtraction repeatedly with Pandas Dataframe](https://stackoverflow.com/questions/70028650/how-to-do-rolling-subtraction-repeatedly-with-pandas-dataframe) - 3 votes
+* [How to fill NaNs by making groups](https://stackoverflow.com/questions/70032123/how-to-fill-nans-by-making-groups) - 2 votes
+* [Why am I getting just one item instead of multiple items in a pandas column](https://stackoverflow.com/questions/70028861/why-am-i-getting-just-one-item-instead-of-multiple-items-in-a-pandas-column) - 2 votes
+* [Pandas Dataframe  Select from Unique Products](https://stackoverflow.com/questions/70028492/pandas-dataframe-select-from-unique-products) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to convert data from wide to long so values are plotted against time](https://stackoverflow.com/questions/70025086/how-to-convert-data-from-wide-to-long-so-values-are-plotted-against-time) - 2 votes
-* [swarmplot doesn39t recognize hue when either the x or y parameter is omitted](https://stackoverflow.com/questions/70025168/swarmplot-doesnt-recognize-hue-when-either-the-x-or-y-parameter-is-omitted) - 1 votes
-* [Converting tuples of xy coordinates to a tuple of x and a tuple of y coordinates](https://stackoverflow.com/questions/70026662/converting-tuples-of-x-y-coordinates-to-a-tuple-of-x-and-a-tuple-of-y-coordina) - 1 votes
-* [Simple animation for Conway39s Game of Life with FuncAnimation](https://stackoverflow.com/questions/70019538/simple-animation-for-conways-game-of-life-with-funcanimation) - 1 votes
-* [Plot lines in matplotlib based on discrete discriminator](https://stackoverflow.com/questions/70018138/plot-lines-in-matplotlib-based-on-discrete-discriminator) - 1 votes
+* [Plotting top 5 values in Seaborn](https://stackoverflow.com/questions/70040421/plotting-top-5-values-in-seaborn) - 1 votes
+* [Matplotlib weird behavior with 2D arrays plot](https://stackoverflow.com/questions/70037692/matplotlib-weird-behavior-with-2d-arrays-plot) - 1 votes
+* [matplotlib boxplot changes size of figure](https://stackoverflow.com/questions/70033806/matplotlib-boxplot-changes-size-of-figure) - 1 votes
+* [Why does the matplotlibpyplotquiver documentation states incorrect order of U V parameters](https://stackoverflow.com/questions/70028431/why-does-the-matplotlib-pyplot-quiver-documentation-states-incorrect-order-of-u) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Patchwork won39t assign common legend for combined plots](https://stackoverflow.com/questions/70020340/patchwork-wont-assign-common-legend-for-combined-plots) - 3 votes
-* [plotly overrules ggplot239s scale_fill_manual39s labels](https://stackoverflow.com/questions/70017937/plotly-overrules-ggplot2s-scale-fill-manuals-labels) - 3 votes
-* [Add hline for groups outside of aestetic in ggplot](https://stackoverflow.com/questions/70018442/add-hline-for-groups-outside-of-aestetic-in-ggplot) - 2 votes
-* [How do I keep all the legends in ggplot](https://stackoverflow.com/questions/70022773/how-do-i-keep-all-the-legends-in-ggplot) - 2 votes
-* [How to add a frequency or number on scalebar of stacked barplot using geom_text](https://stackoverflow.com/questions/70014610/how-to-add-a-frequency-or-number-on-scalebar-of-stacked-barplot-using-geom-text) - 2 votes
+* [Adding a smoothed line to a plotly chart](https://stackoverflow.com/questions/70037837/adding-a-smoothed-line-to-a-plotly-chart) - 1 votes
+* [How to use geom_bar and use two categorical variables on the x axis](https://stackoverflow.com/questions/70038189/how-to-use-geom-bar-and-use-two-categorical-variables-on-the-x-axis) - 1 votes
+* [How do I use ggplot2 to draw a US Map that uses two colors to fill in specific states based on a yes or no variable](https://stackoverflow.com/questions/70028644/how-do-i-use-ggplot2-to-draw-a-us-map-that-uses-two-colors-to-fill-in-specific-s) - 1 votes
+* [Line Plot in R with two yaxes using twoordplot Values of first yaxis missing](https://stackoverflow.com/questions/70040459/line-plot-in-r-with-two-y-axes-using-twoord-plot-values-of-first-y-axis-missing) - 1 votes
+* [Controlling the colors of rows in ggplot table annotation](https://stackoverflow.com/questions/70035033/controlling-the-colors-of-rows-in-ggplot-table-annotation) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
