@@ -1,32 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-20<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-21<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas unique values per row variable number of columns with data](https://stackoverflow.com/questions/70044476/pandas-unique-values-per-row-variable-number-of-columns-with-data) - 4 votes
-* [Vectorized operation on three columns](https://stackoverflow.com/questions/70044043/vectorized-operation-on-three-columns) - 3 votes
-* [Dynamic column assignment in Python Pandas](https://stackoverflow.com/questions/70048080/dynamic-column-assignment-in-python-pandas) - 2 votes
-* [Conditional cumsum and reset to 0](https://stackoverflow.com/questions/70047542/conditional-cumsum-and-reset-to-0) - 2 votes
-* [Merging rows based on condition of two rows](https://stackoverflow.com/questions/70048414/merging-rows-based-on-condition-of-two-rows) - 2 votes
+* [Pandas  39returningaviewversusacopy39 error when renaming categorical values at each level by mapping](https://stackoverflow.com/questions/70054182/pandas-returning-a-view-versus-a-copy-error-when-renaming-categorical-values) - 3 votes
+* [How do I assign values from a dataframe to deciles created in another dataframe](https://stackoverflow.com/questions/70058013/how-do-i-assign-values-from-a-dataframe-to-deciles-created-in-another-dataframe) - 3 votes
+* [AttributeError 39Index39 object has no attribute 39replace39](https://stackoverflow.com/questions/70054419/attributeerror-index-object-has-no-attribute-replace) - 2 votes
+* [Column to flag the most max row of a group](https://stackoverflow.com/questions/70051051/column-to-flag-the-most-max-row-of-a-group) - 2 votes
+* [Is it possible to reference or refer back to a previous value in a dataframe column during a vectorised operation](https://stackoverflow.com/questions/70055208/is-it-possible-to-reference-or-refer-back-to-a-previous-value-in-a-dataframe-co) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-
+* [Can39t plot contour plot getting an error saying A Qhull internal error has occurred](https://stackoverflow.com/questions/70057476/cant-plot-contour-plot-getting-an-error-saying-a-qhull-internal-error-has-occur) - 1 votes
+* [Can39t draw circle with right proportions Matplotlib Python](https://stackoverflow.com/questions/70056112/cant-draw-circle-with-right-proportions-matplotlib-python) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [R ggplot2  dot plots with categorial yaxis Summarizing and showing number of observations within given ranges of linear xaxis for each category](https://stackoverflow.com/questions/70046257/r-ggplot2-dot-plots-with-categorial-y-axis-summarizing-and-showing-number-of) - 2 votes
-* [Visualizing stacked bar chart in the format of Jonathan A Schwabish JEP 2014](https://stackoverflow.com/questions/70045626/visualizing-stacked-bar-chart-in-the-format-of-jonathan-a-schwabish-jep-2014) - 1 votes
+* [How do I adjust my tibble to get a grouped bar chart in ggplot2](https://stackoverflow.com/questions/70051541/how-do-i-adjust-my-tibble-to-get-a-grouped-bar-chart-in-ggplot2) - 1 votes
+* [ggplot fit with image in the background for R Markdown](https://stackoverflow.com/questions/70055909/ggplot-fit-with-image-in-the-background-for-r-markdown) - 1 votes
+* [ggplot define color for point overlaps](https://stackoverflow.com/questions/70057932/ggplot-define-color-for-point-overlaps) - 1 votes
+* [Adding horizontal lines in the plot of a step function](https://stackoverflow.com/questions/70054381/adding-horizontal-lines-in-the-plot-of-a-step-function) - 1 votes
+* [Error in ggplot2 when using both fill and group parameters in geom_bar](https://stackoverflow.com/questions/70051263/error-in-ggplot2-when-using-both-fill-and-group-parameters-in-geom-bar) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
