@@ -1,35 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-22<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-23<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [How can I use value_counts only for certain values](https://stackoverflow.com/questions/70069983/how-can-i-use-value-counts-only-for-certain-values) - 4 votes
-* [Merge two different dataframes](https://stackoverflow.com/questions/70070144/merge-two-different-dataframes) - 3 votes
-* [How does one check if all rows in a dataframe match another dataframe](https://stackoverflow.com/questions/70071231/how-does-one-check-if-all-rows-in-a-dataframe-match-another-dataframe) - 3 votes
-* [How to get the list of values of different classes for a feature](https://stackoverflow.com/questions/70069801/how-to-get-the-list-of-values-of-different-classes-for-a-feature) - 3 votes
-* [python pandas How to specify multiple columns and merge only specific columns of duplicate rows](https://stackoverflow.com/questions/70071276/python-pandas-how-to-specify-multiple-columns-and-merge-only-specific-columns) - 2 votes
+* [avoid writing df39column39 twice when doing df39column39  df39column39](https://stackoverflow.com/questions/70084936/avoid-writing-dfcolumn-twice-when-doing-dfcolumn-dfcolumn) - 4 votes
+* [Efficient way to insert similar rows with only one column changing right after each row in Numpy or Pandas](https://stackoverflow.com/questions/70074151/efficient-way-to-insert-similar-rows-with-only-one-column-changing-right-after) - 3 votes
+* [How to create new column based on substrings in other column in a pandas dataframe](https://stackoverflow.com/questions/70086559/how-to-create-new-column-based-on-substrings-in-other-column-in-a-pandas-datafra) - 2 votes
+* [How to iterate 2 rows at a time in python and append a column with values in second row in python](https://stackoverflow.com/questions/70080447/how-to-iterate-2-rows-at-a-time-in-python-and-append-a-column-with-values-in-sec) - 2 votes
+* [Grouping by ID choosing highest values in columns from same ID](https://stackoverflow.com/questions/70086045/grouping-by-id-choosing-highest-values-in-columns-from-same-id) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Python Matplotlib Plot Set aspect ratio of output file eg jpg](https://stackoverflow.com/questions/70068682/python-matplotlib-plot-set-aspect-ratio-of-output-file-e-g-jpg) - 3 votes
+* [Override Matplotlib pie chart percentage labels to a specific value that doesn39t sum to 100](https://stackoverflow.com/questions/70081942/override-matplotlib-pie-chart-percentage-labels-to-a-specific-value-that-doesnt) - 2 votes
+* [How to create 2 plots side by side when there are two categories in your dataframe](https://stackoverflow.com/questions/70078780/how-to-create-2-plots-side-by-side-when-there-are-two-categories-in-your-datafra) - 1 votes
+* [Adjust xrange depending on where signal is](https://stackoverflow.com/questions/70085793/adjust-xrange-depending-on-where-signal-is) - 1 votes
+* [Actual values and predicted values in time series model do not overlap in LSTM](https://stackoverflow.com/questions/70084700/actual-values-and-predicted-values-in-time-series-model-do-not-overlap-in-lstm) - 1 votes
+* [how to change the scale of the xaxis so that the orange and blue graphs are displayed correctly](https://stackoverflow.com/questions/70077683/how-to-change-the-scale-of-the-x-axis-so-that-the-orange-and-blue-graphs-are-dis) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [how to change  specify fill color which exceeds the limits of a gradient bar](https://stackoverflow.com/questions/70060267/how-to-change-specify-fill-color-which-exceeds-the-limits-of-a-gradient-bar) - 3 votes
-* [problem in geom_line when colored based on a categorical variable](https://stackoverflow.com/questions/70069719/problem-in-geom-line-when-colored-based-on-a-categorical-variable) - 2 votes
-* [How to reorder the stacked segments of a bar chart using ggplot](https://stackoverflow.com/questions/70060966/how-to-reorder-the-stacked-segments-of-a-bar-chart-using-ggplot) - 1 votes
-* [Different axis label format depending on value using plotly](https://stackoverflow.com/questions/70070745/different-axis-label-format-depending-on-value-using-plotly) - 1 votes
-* [How to control ordering of stacked bar chart based on stack segment height](https://stackoverflow.com/questions/70072030/how-to-control-ordering-of-stacked-bar-chart-based-on-stack-segment-height) - 1 votes
+* [Plot secondary x_axis in ggplot](https://stackoverflow.com/questions/70075366/plot-secondary-x-axis-in-ggplot) - 1 votes
+* [Can39t add legend to ggplot2 figure  scale_color_manual does nothing](https://stackoverflow.com/questions/70080534/cant-add-legend-to-ggplot2-figure-scale-color-manual-does-nothing) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
