@@ -1,36 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-23<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-24<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [avoid writing df39column39 twice when doing df39column39  df39column39](https://stackoverflow.com/questions/70084936/avoid-writing-dfcolumn-twice-when-doing-dfcolumn-dfcolumn) - 4 votes
-* [Efficient way to insert similar rows with only one column changing right after each row in Numpy or Pandas](https://stackoverflow.com/questions/70074151/efficient-way-to-insert-similar-rows-with-only-one-column-changing-right-after) - 3 votes
-* [How to create new column based on substrings in other column in a pandas dataframe](https://stackoverflow.com/questions/70086559/how-to-create-new-column-based-on-substrings-in-other-column-in-a-pandas-datafra) - 2 votes
-* [How to iterate 2 rows at a time in python and append a column with values in second row in python](https://stackoverflow.com/questions/70080447/how-to-iterate-2-rows-at-a-time-in-python-and-append-a-column-with-values-in-sec) - 2 votes
-* [Grouping by ID choosing highest values in columns from same ID](https://stackoverflow.com/questions/70086045/grouping-by-id-choosing-highest-values-in-columns-from-same-id) - 2 votes
+* [Using pandas nullable integer dtype in npwhere condition](https://stackoverflow.com/questions/70101815/using-pandas-nullable-integer-dtype-in-np-where-condition) - 5 votes
+* [How to count column values in ranges rather than bins](https://stackoverflow.com/questions/70100132/how-to-count-column-values-in-ranges-rather-than-bins) - 4 votes
+* [More elegant way to cumcount based on a condition in python pandas](https://stackoverflow.com/questions/70089660/more-elegant-way-to-cumcount-based-on-a-condition-in-python-pandas) - 2 votes
+* [Applying pdget_dummies to dataframe but alter output](https://stackoverflow.com/questions/70098506/applying-pd-get-dummies-to-dataframe-but-alter-output) - 2 votes
+* [Different npstd behaviours in pdDataFrametransform](https://stackoverflow.com/questions/70095673/different-np-std-behaviours-in-pd-dataframe-transform) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Override Matplotlib pie chart percentage labels to a specific value that doesn39t sum to 100](https://stackoverflow.com/questions/70081942/override-matplotlib-pie-chart-percentage-labels-to-a-specific-value-that-doesnt) - 2 votes
-* [How to create 2 plots side by side when there are two categories in your dataframe](https://stackoverflow.com/questions/70078780/how-to-create-2-plots-side-by-side-when-there-are-two-categories-in-your-datafra) - 1 votes
-* [Adjust xrange depending on where signal is](https://stackoverflow.com/questions/70085793/adjust-xrange-depending-on-where-signal-is) - 1 votes
-* [Actual values and predicted values in time series model do not overlap in LSTM](https://stackoverflow.com/questions/70084700/actual-values-and-predicted-values-in-time-series-model-do-not-overlap-in-lstm) - 1 votes
-* [how to change the scale of the xaxis so that the orange and blue graphs are displayed correctly](https://stackoverflow.com/questions/70077683/how-to-change-the-scale-of-the-x-axis-so-that-the-orange-and-blue-graphs-are-dis) - 1 votes
+* [Confusion Matrix with different colors](https://stackoverflow.com/questions/70097754/confusion-matrix-with-different-colors) - 1 votes
+* [Change colorbar ticks from powers of 10 to plain numbers](https://stackoverflow.com/questions/70095814/change-colorbar-ticks-from-powers-of-10-to-plain-numbers) - 1 votes
+* [Adding image to legend in matplotlib returns error AttributeError 39BarContainer39 object has no attribute 39_transform39](https://stackoverflow.com/questions/70097223/adding-image-to-legend-in-matplotlib-returns-error-attributeerror-barcontaine) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Plot secondary x_axis in ggplot](https://stackoverflow.com/questions/70075366/plot-secondary-x-axis-in-ggplot) - 1 votes
-* [Can39t add legend to ggplot2 figure  scale_color_manual does nothing](https://stackoverflow.com/questions/70080534/cant-add-legend-to-ggplot2-figure-scale-color-manual-does-nothing) - 1 votes
+* [Iteratively plot columns and reset ylab dynamically using ggplot2](https://stackoverflow.com/questions/70093487/iteratively-plot-columns-and-reset-ylab-dynamically-using-ggplot2) - 1 votes
+* [Ordering axes and making data more presentable](https://stackoverflow.com/questions/70101088/ordering-axes-and-making-data-more-presentable) - 1 votes
+* [make color of one category grey in ggplot](https://stackoverflow.com/questions/70099073/make-color-of-one-category-grey-in-ggplot) - 1 votes
+* [Can someone help me recreate this plot in R](https://stackoverflow.com/questions/70094869/can-someone-help-me-recreate-this-plot-in-r) - 1 votes
+* [Visualising the effect of a continuous predictor on a dichotomous outcome using ggplot2](https://stackoverflow.com/questions/70094262/visualising-the-effect-of-a-continuous-predictor-on-a-dichotomous-outcome-using) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
