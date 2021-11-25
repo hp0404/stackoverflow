@@ -1,37 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-24<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-25<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Using pandas nullable integer dtype in npwhere condition](https://stackoverflow.com/questions/70101815/using-pandas-nullable-integer-dtype-in-np-where-condition) - 5 votes
-* [How to count column values in ranges rather than bins](https://stackoverflow.com/questions/70100132/how-to-count-column-values-in-ranges-rather-than-bins) - 4 votes
-* [More elegant way to cumcount based on a condition in python pandas](https://stackoverflow.com/questions/70089660/more-elegant-way-to-cumcount-based-on-a-condition-in-python-pandas) - 2 votes
-* [Applying pdget_dummies to dataframe but alter output](https://stackoverflow.com/questions/70098506/applying-pd-get-dummies-to-dataframe-but-alter-output) - 2 votes
-* [Different npstd behaviours in pdDataFrametransform](https://stackoverflow.com/questions/70095673/different-np-std-behaviours-in-pd-dataframe-transform) - 2 votes
+* [aggregating on a shifted 24H window](https://stackoverflow.com/questions/70105095/aggregating-on-a-shifted-24h-window) - 4 votes
+* [Fast removal of only zero columns in pandas dataframe](https://stackoverflow.com/questions/70110804/fast-removal-of-only-zero-columns-in-pandas-dataframe) - 4 votes
+* [Merge consecutive rows in pandas and leave some rows untouched](https://stackoverflow.com/questions/70113828/merge-consecutive-rows-in-pandas-and-leave-some-rows-untouched) - 3 votes
+* [How to update hierarchical index after drop in Pandas](https://stackoverflow.com/questions/70105035/how-to-update-hierarchical-index-after-drop-in-pandas) - 3 votes
+* [How to represent a tree](https://stackoverflow.com/questions/70105300/how-to-represent-a-tree) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Confusion Matrix with different colors](https://stackoverflow.com/questions/70097754/confusion-matrix-with-different-colors) - 1 votes
-* [Change colorbar ticks from powers of 10 to plain numbers](https://stackoverflow.com/questions/70095814/change-colorbar-ticks-from-powers-of-10-to-plain-numbers) - 1 votes
-* [Adding image to legend in matplotlib returns error AttributeError 39BarContainer39 object has no attribute 39_transform39](https://stackoverflow.com/questions/70097223/adding-image-to-legend-in-matplotlib-returns-error-attributeerror-barcontaine) - 1 votes
+* [Jupyter shows an image  plot but saves a blank file](https://stackoverflow.com/questions/70105635/jupyter-shows-an-image-plot-but-saves-a-blank-file) - 2 votes
+* [Matplotlib How to get Binomial Likelihood Function](https://stackoverflow.com/questions/70109149/matplotlib-how-to-get-binomial-likelihood-function) - 2 votes
+* [Plotting multiple plots and text with networkx and matplotlib](https://stackoverflow.com/questions/70110954/plotting-multiple-plots-and-text-with-networkx-and-matplotlib) - 1 votes
+* [Double the amount of subplots when using twinx in matplotlib](https://stackoverflow.com/questions/70115465/double-the-amount-of-subplots-when-using-twinx-in-matplotlib) - 1 votes
+* [Visualization of an array in matplotlib](https://stackoverflow.com/questions/70112890/visualization-of-an-array-in-matplotlib) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Iteratively plot columns and reset ylab dynamically using ggplot2](https://stackoverflow.com/questions/70093487/iteratively-plot-columns-and-reset-ylab-dynamically-using-ggplot2) - 1 votes
-* [Ordering axes and making data more presentable](https://stackoverflow.com/questions/70101088/ordering-axes-and-making-data-more-presentable) - 1 votes
-* [make color of one category grey in ggplot](https://stackoverflow.com/questions/70099073/make-color-of-one-category-grey-in-ggplot) - 1 votes
-* [Can someone help me recreate this plot in R](https://stackoverflow.com/questions/70094869/can-someone-help-me-recreate-this-plot-in-r) - 1 votes
-* [Visualising the effect of a continuous predictor on a dichotomous outcome using ggplot2](https://stackoverflow.com/questions/70094262/visualising-the-effect-of-a-continuous-predictor-on-a-dichotomous-outcome-using) - 1 votes
+* [How to add multiple line caption where first line is centered and subsequent lines leftaligned](https://stackoverflow.com/questions/70113441/how-to-add-multiple-line-caption-where-first-line-is-centered-and-subsequent-lin) - 2 votes
+* [How to plot a single trend line and multiple lines by group together](https://stackoverflow.com/questions/70110971/how-to-plot-a-single-trend-line-and-multiple-lines-by-group-together) - 2 votes
+* [aligning multiline glue expression](https://stackoverflow.com/questions/70114570/aligning-multi-line-glue-expression) - 1 votes
+* [How can I plot time series line plot of two variables in ggplot](https://stackoverflow.com/questions/70114423/how-can-i-plot-time-series-line-plot-of-two-variables-in-ggplot) - 1 votes
+* [Why no bars showing](https://stackoverflow.com/questions/70112874/why-no-bars-showing) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
