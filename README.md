@@ -1,39 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-25<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-26<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [aggregating on a shifted 24H window](https://stackoverflow.com/questions/70105095/aggregating-on-a-shifted-24h-window) - 4 votes
-* [Fast removal of only zero columns in pandas dataframe](https://stackoverflow.com/questions/70110804/fast-removal-of-only-zero-columns-in-pandas-dataframe) - 4 votes
-* [Merge consecutive rows in pandas and leave some rows untouched](https://stackoverflow.com/questions/70113828/merge-consecutive-rows-in-pandas-and-leave-some-rows-untouched) - 3 votes
-* [How to update hierarchical index after drop in Pandas](https://stackoverflow.com/questions/70105035/how-to-update-hierarchical-index-after-drop-in-pandas) - 3 votes
-* [How to represent a tree](https://stackoverflow.com/questions/70105300/how-to-represent-a-tree) - 3 votes
+* [Give unique keys in a pandas df with rows that satisfy condition having common key](https://stackoverflow.com/questions/70121032/give-unique-keys-in-a-pandas-df-with-rows-that-satisfy-condition-having-common-k) - 3 votes
+* [Apply function to all rows in pandas dataframe lambda](https://stackoverflow.com/questions/70128123/apply-function-to-all-rows-in-pandas-dataframe-lambda) - 2 votes
+* [Pandas Summing values of n rows with groupby](https://stackoverflow.com/questions/70125782/pandas-summing-values-of-n-rows-with-groupby) - 2 votes
+* [Table formatting with pandas Dataframeto_latex](https://stackoverflow.com/questions/70127250/table-formatting-with-pandas-dataframe-to-latex) - 2 votes
+* [python list generated from dataframe in pandas is much longer than the dataframe column](https://stackoverflow.com/questions/70126660/python-list-generated-from-dataframe-in-pandas-is-much-longer-than-the-datafram) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Jupyter shows an image  plot but saves a blank file](https://stackoverflow.com/questions/70105635/jupyter-shows-an-image-plot-but-saves-a-blank-file) - 2 votes
-* [Matplotlib How to get Binomial Likelihood Function](https://stackoverflow.com/questions/70109149/matplotlib-how-to-get-binomial-likelihood-function) - 2 votes
-* [Plotting multiple plots and text with networkx and matplotlib](https://stackoverflow.com/questions/70110954/plotting-multiple-plots-and-text-with-networkx-and-matplotlib) - 1 votes
-* [Double the amount of subplots when using twinx in matplotlib](https://stackoverflow.com/questions/70115465/double-the-amount-of-subplots-when-using-twinx-in-matplotlib) - 1 votes
-* [Visualization of an array in matplotlib](https://stackoverflow.com/questions/70112890/visualization-of-an-array-in-matplotlib) - 1 votes
+* [Line with dashes of multiple colours](https://stackoverflow.com/questions/70125163/line-with-dashes-of-multiple-colours) - 2 votes
+* [How to start Seaborn Logarithmic Barplot at y1](https://stackoverflow.com/questions/70126353/how-to-start-seaborn-logarithmic-barplot-at-y-1) - 1 votes
+* [How to set tick frequency of ylim in matplotlib](https://stackoverflow.com/questions/70122746/how-to-set-tick-frequency-of-ylim-in-matplotlib) - 1 votes
+* [How to plot scatter graph with markers based on column value](https://stackoverflow.com/questions/70121429/how-to-plot-scatter-graph-with-markers-based-on-column-value) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to add multiple line caption where first line is centered and subsequent lines leftaligned](https://stackoverflow.com/questions/70113441/how-to-add-multiple-line-caption-where-first-line-is-centered-and-subsequent-lin) - 2 votes
-* [How to plot a single trend line and multiple lines by group together](https://stackoverflow.com/questions/70110971/how-to-plot-a-single-trend-line-and-multiple-lines-by-group-together) - 2 votes
-* [aligning multiline glue expression](https://stackoverflow.com/questions/70114570/aligning-multi-line-glue-expression) - 1 votes
-* [How can I plot time series line plot of two variables in ggplot](https://stackoverflow.com/questions/70114423/how-can-i-plot-time-series-line-plot-of-two-variables-in-ggplot) - 1 votes
-* [Why no bars showing](https://stackoverflow.com/questions/70112874/why-no-bars-showing) - 1 votes
+* [Unexpected color changes after upgrading to ggplot2 334](https://stackoverflow.com/questions/70123164/unexpected-color-changes-after-upgrading-to-ggplot2-3-3-4) - 3 votes
+* [How to rotate label in the top of each bar in geom_histogram](https://stackoverflow.com/questions/70124807/how-to-rotate-label-in-the-top-of-each-bar-in-geom-histogram) - 2 votes
+* [Correcting country names to make them match a different naming convention](https://stackoverflow.com/questions/70127083/correcting-country-names-to-make-them-match-a-different-naming-convention) - 2 votes
+* [Ternary Plot using a vector as density](https://stackoverflow.com/questions/70123200/ternary-plot-using-a-vector-as-density) - 2 votes
+* [r Order on discrete xaxis is not following specified relevel](https://stackoverflow.com/questions/70122855/r-order-on-discrete-x-axis-is-not-following-specified-relevel) - 2 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
