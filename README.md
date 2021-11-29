@@ -1,35 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-28<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-11-29<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Find a date in pd dataframe that matches a date in a given list](https://stackoverflow.com/questions/70145937/find-a-date-in-pd-dataframe-that-matches-a-date-in-a-given-list) - 3 votes
-* [Python Group by column by selecting first value from another column but not if value was already chosen](https://stackoverflow.com/questions/70140644/python-group-by-column-by-selecting-first-value-from-another-column-but-not-if) - 3 votes
-* [python sum a column39s value with condition](https://stackoverflow.com/questions/70143154/python-sum-a-columns-value-with-condition) - 3 votes
-* [Split DataFrame into groups that contain only a given constant value](https://stackoverflow.com/questions/70143306/split-dataframe-into-groups-that-contain-only-a-given-constant-value) - 2 votes
-* [How to transform dataframe column containing list of values in to its own individual column with count of occurrence](https://stackoverflow.com/questions/70139966/how-to-transform-dataframe-column-containing-list-of-values-in-to-its-own-indivi) - 2 votes
+* [finding common words across rows using pysparkpandas](https://stackoverflow.com/questions/70160353/finding-common-words-across-rows-using-pyspark-pandas) - 4 votes
+* [How do I convert date from alphabetical to numeric format](https://stackoverflow.com/questions/70158629/how-do-i-convert-date-from-alphabetical-to-numeric-format) - 3 votes
+* [Seaborn heatmap change date frequency of yticks](https://stackoverflow.com/questions/70148757/seaborn-heatmap-change-date-frequency-of-yticks) - 3 votes
+* [How to set all values of second level multiindex series](https://stackoverflow.com/questions/70157383/how-to-set-all-values-of-second-level-multi-index-series) - 3 votes
+* [copying colour in excel table and displaying in outlook](https://stackoverflow.com/questions/70149934/copying-colour-in-excel-table-and-displaying-in-outlook) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to animate this optimization model correctly](https://stackoverflow.com/questions/70145946/how-to-animate-this-optimization-model-correctly) - 3 votes
-* [Matplotlib with variable upper limit](https://stackoverflow.com/questions/70141962/matplotlib-with-variable-upper-limit) - 1 votes
-* [Plotting a particular set of contour line at desired point or location](https://stackoverflow.com/questions/70141064/plotting-a-particular-set-of-contour-line-at-desired-point-or-location) - 1 votes
-* [Seaborn kdeplot AttributeError 39Line2D39 object has no property 39kde39](https://stackoverflow.com/questions/70143256/seaborn-kdeplot-attributeerror-line2d-object-has-no-property-kde) - 1 votes
-* [Matplotlib Colormaps  Choosing a different color for each graphlinesubject](https://stackoverflow.com/questions/70142953/matplotlib-colormaps-choosing-a-different-color-for-each-graph-line-subject) - 1 votes
+* [Seaborn heatmap change date frequency of yticks](https://stackoverflow.com/questions/70148757/seaborn-heatmap-change-date-frequency-of-yticks) - 3 votes
+* [How to plot multiple columns into a single seaborn boxenplot](https://stackoverflow.com/questions/70159162/how-to-plot-multiple-columns-into-a-single-seaborn-boxenplot) - 2 votes
+* [how to add values over each bar in stacked bar plot](https://stackoverflow.com/questions/70154714/how-to-add-values-over-each-bar-in-stacked-bar-plot) - 1 votes
+* [Pandas Multiple Time Series Plots Single Data Frame](https://stackoverflow.com/questions/70160340/pandas-multiple-time-series-plots-single-data-frame) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Adding three reference lines to a ggplot2 box plot works but why can39t I add two reference lines](https://stackoverflow.com/questions/70139901/adding-three-reference-lines-to-a-ggplot2-box-plot-works-but-why-cant-i-add-tw) - 1 votes
+* [RMarkdown bibliography references in a ggplot](https://stackoverflow.com/questions/70157374/rmarkdown-bibliography-references-in-a-ggplot) - 3 votes
+* [Relabelling predictors with jtools effect_plot in R](https://stackoverflow.com/questions/70160886/relabelling-predictors-with-jtools-effect-plot-in-r) - 3 votes
+* [In Rplotly how to change the tooltip number format](https://stackoverflow.com/questions/70149888/in-r-plotly-how-to-change-the-tooltip-number-format) - 2 votes
+* [The title of my discrete y axis won39t move in ggplot2](https://stackoverflow.com/questions/70151928/the-title-of-my-discrete-y-axis-wont-move-in-ggplot2) - 2 votes
+* [ggplot How to set different alignments on the geom_text position based on type of variable](https://stackoverflow.com/questions/70158821/ggplot-how-to-set-different-alignments-on-the-geom-text-position-based-on-type) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
