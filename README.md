@@ -1,36 +1,34 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-12-10<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-12-11<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Extract values in dataframe where index name equals to column name](https://stackoverflow.com/questions/70303222/extract-values-in-dataframe-where-index-name-equals-to-column-name) - 4 votes
-* [How to collapsepivot multiple pandas columns](https://stackoverflow.com/questions/70301341/how-to-collapse-pivot-multiple-pandas-columns) - 3 votes
-* [Pandas  collapse multiple columns into one](https://stackoverflow.com/questions/70307369/pandas-collapse-multiple-columns-into-one) - 2 votes
-* [How to conditionally rearrange row order](https://stackoverflow.com/questions/70309755/how-to-conditionally-rearrange-row-order) - 2 votes
-* [How do I order my xaxis on pandas bar plot](https://stackoverflow.com/questions/70306401/how-do-i-order-my-x-axis-on-pandas-bar-plot) - 2 votes
+* [Multiply only positive values within a column by 100](https://stackoverflow.com/questions/70316927/multiply-only-positive-values-within-a-column-by-100) - 3 votes
+* [Multiple if conditions on pandas dataframe with different thresholds](https://stackoverflow.com/questions/70313860/multiple-if-conditions-on-pandas-dataframe-with-different-thresholds) - 3 votes
+* [How to add prefix to column names except some columns](https://stackoverflow.com/questions/70311932/how-to-add-prefix-to-column-names-except-some-columns) - 2 votes
+* [How to take a PickleType data and convert to csv files in a folder using Python](https://stackoverflow.com/questions/70316955/how-to-take-a-pickletype-data-and-convert-to-csv-files-in-a-folder-using-python) - 2 votes
+* [Display multiple values in col on barplot](https://stackoverflow.com/questions/70316063/display-multiple-values-in-col-on-barplot) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [plotting dates seems to give the wrong labels](https://stackoverflow.com/questions/70307163/plotting-dates-seems-to-give-the-wrong-labels) - 1 votes
-* [Drawing Poincare Section using Python](https://stackoverflow.com/questions/70301658/drawing-poincare-section-using-python) - 1 votes
-* [Using matplotlib to plot a multiple boxplots](https://stackoverflow.com/questions/70309402/using-matplotlib-to-plot-a-multiple-boxplots) - 1 votes
-* [Can39t change xticks and allign them with with xlabels](https://stackoverflow.com/questions/70306690/cant-change-xticks-and-allign-them-with-with-x-labels) - 1 votes
+* [How to remove underscores from column names within plots](https://stackoverflow.com/questions/70312813/how-to-remove-underscores-from-column-names-within-plots) - 1 votes
+* [Do an excellike Merge amp Center on Matplotlib Table Header](https://stackoverflow.com/questions/70311902/do-an-excel-like-merge-center-on-matplotlib-table-header) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Create Stacked quotProgressquot Bar Chart in R with ggplot](https://stackoverflow.com/questions/70309540/create-stacked-progress-bar-chart-in-r-with-ggplot) - 2 votes
-* [ggplot2 vertical colorbar title right centered](https://stackoverflow.com/questions/70308649/ggplot2-vertical-colorbar-title-right-centered) - 2 votes
-* [Dealing with geom_text size](https://stackoverflow.com/questions/70305422/dealing-with-geom-text-size) - 2 votes
+* [R scientific notation in stat_poly_eq](https://stackoverflow.com/questions/70315747/r-scientific-notation-in-stat-poly-eq) - 2 votes
+* [Barplot ascending by group with partially rescaled y axis in R](https://stackoverflow.com/questions/70313840/barplot-ascending-by-group-with-partially-rescaled-y-axis-in-r) - 1 votes
+* [How to plot 2 r plots from different libraries say ggplot and pie3D in the same page](https://stackoverflow.com/questions/70313493/how-to-plot-2-r-plots-from-different-libraries-say-ggplot-and-pie3d-in-the-same) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
