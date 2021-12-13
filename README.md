@@ -1,34 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-12-12<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-12-13<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Why merging two bar chart subplots into one changes the axis and how to fix this](https://stackoverflow.com/questions/70326640/why-merging-two-bar-chart-subplots-into-one-changes-the-axis-and-how-to-fix-this) - 4 votes
-* [pandas get the percent of a baseline value while baseline and drug are in the same column](https://stackoverflow.com/questions/70325966/pandas-get-the-percent-of-a-baseline-value-while-baseline-and-drug-are-in-the-s) - 3 votes
-* [Replace NA in DataFrame for multiple columns with mean per country](https://stackoverflow.com/questions/70324164/replace-na-in-dataframe-for-multiple-columns-with-mean-per-country) - 3 votes
-* [Calculate difference between current row and latest row satisfying a condition](https://stackoverflow.com/questions/70326399/calculate-difference-between-current-row-and-latest-row-satisfying-a-condition) - 2 votes
-* [Calculation of floating weights based on weight and return DataFrame](https://stackoverflow.com/questions/70322010/calculation-of-floating-weights-based-on-weight-and-return-dataframe) - 2 votes
+* [Best way to concatmerge list of pandas dataframes into one while preserving all values in a given column](https://stackoverflow.com/questions/70339028/best-way-to-concat-merge-list-of-pandas-dataframes-into-one-while-preserving-all) - 3 votes
+* [Pandas How to set values from another column based on conditions columnwise](https://stackoverflow.com/questions/70339773/pandas-how-to-set-values-from-another-column-based-on-conditions-column-wise) - 3 votes
+* [Add value to column data of dataFrame in Pandas](https://stackoverflow.com/questions/70329440/add-value-to-column-data-of-dataframe-in-pandas) - 3 votes
+* [Rolling Percentile  Pandas](https://stackoverflow.com/questions/70328739/rolling-percentile-pandas) - 3 votes
+* [How do I convert an IOC country code to country name](https://stackoverflow.com/questions/70335028/how-do-i-convert-an-ioc-country-code-to-country-name) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Why merging two bar chart subplots into one changes the axis and how to fix this](https://stackoverflow.com/questions/70326640/why-merging-two-bar-chart-subplots-into-one-changes-the-axis-and-how-to-fix-this) - 4 votes
-* [pip install matplotlib on termux failed](https://stackoverflow.com/questions/70320796/pip-install-matplotlib-on-termux-failed) - 1 votes
+* [How to fill or shade area between two corresponding points in stacked bar plots in Python using matplotlib](https://stackoverflow.com/questions/70337170/how-to-fill-or-shade-area-between-two-corresponding-points-in-stacked-bar-plots) - 2 votes
+* [How to annotate bar plots when adding error bars](https://stackoverflow.com/questions/70333645/how-to-annotate-bar-plots-when-adding-error-bars) - 1 votes
+* [hist2d using imported data from pandas quottoo many values to unpackquot](https://stackoverflow.com/questions/70330575/hist2d-using-imported-data-from-pandas-too-many-values-to-unpack) - 1 votes
+* [SVG Commands to an array of points in python for plotting](https://stackoverflow.com/questions/70329370/svg-commands-to-an-array-of-points-in-python-for-plotting) - 1 votes
+* [Python function to compute the integral of a piecewise linear signal](https://stackoverflow.com/questions/70328810/python-function-to-compute-the-integral-of-a-piecewise-linear-signal) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [making paired points in ggplot for multiple categories](https://stackoverflow.com/questions/70322686/making-paired-points-in-ggplot-for-multiple-categories) - 2 votes
-* [Is there a way to add the percentage change label to the end of a graph](https://stackoverflow.com/questions/70325814/is-there-a-way-to-add-the-percentage-change-label-to-the-end-of-a-graph) - 2 votes
-* [Creating a combined single barplot or histogram from two different charts with bars side by side for years 1 amp 2](https://stackoverflow.com/questions/70327492/creating-a-combined-single-barplot-or-histogram-from-two-different-charts-with-b) - 1 votes
+* [Filling up histograms with ggplot  Changing colours](https://stackoverflow.com/questions/70339544/filling-up-histograms-with-ggplot-changing-colours) - 2 votes
+* [ggplot2 multiline spline smoothing](https://stackoverflow.com/questions/70338107/ggplot2-multiline-spline-smoothing) - 2 votes
+* [ggpubr stat_compare_means displaying inconsistent labels](https://stackoverflow.com/questions/70331156/ggpubr-stat-compare-means-displaying-inconsistent-labels) - 2 votes
+* [median values on top of grouped density plot](https://stackoverflow.com/questions/70330003/median-values-on-top-of-grouped-density-plot) - 1 votes
+* [How do I plot percentages for multiple response questions](https://stackoverflow.com/questions/70340413/how-do-i-plot-percentages-for-multiple-response-questions) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
