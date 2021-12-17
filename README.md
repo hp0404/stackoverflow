@@ -1,37 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-12-16<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-12-17<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [other than max value replace all value to 0 in each column pandas python](https://stackoverflow.com/questions/70376424/other-than-max-value-replace-all-value-to-0-in-each-column-pandas-python) - 5 votes
-* [How to remove special characters from rows in pandas dataframe](https://stackoverflow.com/questions/70374346/how-to-remove-special-characters-from-rows-in-pandas-dataframe) - 5 votes
-* [Why is this float conversion made](https://stackoverflow.com/questions/70385155/why-is-this-float-conversion-made) - 4 votes
-* [Adding a different value to a list based on number of iteration in a for loop](https://stackoverflow.com/questions/70384219/adding-a-different-value-to-a-list-based-on-number-of-iteration-in-a-for-loop) - 4 votes
-* [Pandas get the row which has column value and update comments column with another value](https://stackoverflow.com/questions/70373757/pandas-get-the-row-which-has-column-value-and-update-comments-column-with-anoth) - 3 votes
+* [Create a new column based on a condition](https://stackoverflow.com/questions/70390824/create-a-new-column-based-on-a-condition) - 3 votes
+* [Create new indicator columns based on values in another column](https://stackoverflow.com/questions/70395948/create-new-indicator-columns-based-on-values-in-another-column) - 3 votes
+* [Drop indeces appearing in another dataframe](https://stackoverflow.com/questions/70392114/drop-indeces-appearing-in-another-dataframe) - 2 votes
+* [Replacing a value with actual if condition with DataFrame in Python](https://stackoverflow.com/questions/70398151/replacing-a-value-with-actual-if-condition-with-dataframe-in-python) - 2 votes
+* [How to delete rows based on change in variable in pandas dataframe](https://stackoverflow.com/questions/70393939/how-to-delete-rows-based-on-change-in-variable-in-pandas-dataframe) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Overlaying line plots with bar plots with matplotlib](https://stackoverflow.com/questions/70381568/overlaying-line-plots-with-bar-plots-with-matplotlib) - 3 votes
-* [Why does a frame around an image leave a corner incomplete](https://stackoverflow.com/questions/70381305/why-does-a-frame-around-an-image-leave-a-corner-incomplete) - 2 votes
-* [How to modify xtick label of plt in Matplotlib](https://stackoverflow.com/questions/70381872/how-to-modify-xtick-label-of-plt-in-matplotlib) - 2 votes
-* [Does not search for the same values in table](https://stackoverflow.com/questions/70383176/does-not-search-for-the-same-values-in-table) - 1 votes
-* [Fill radial bars of barplot with gradient](https://stackoverflow.com/questions/70378388/fill-radial-bars-of-barplot-with-gradient) - 1 votes
+* [Pyplot stacked bars with dates](https://stackoverflow.com/questions/70391988/pyplot-stacked-bars-with-dates) - 1 votes
+* [How to automatically size a matplotlib plot to fit the x axis labels](https://stackoverflow.com/questions/70394911/how-to-automatically-size-a-matplotlib-plot-to-fit-the-x-axis-labels) - 1 votes
+* [Matplotlib background matches vscode theme on dark mode and can39t see axis](https://stackoverflow.com/questions/70398579/matplotlib-background-matches-vscode-theme-on-dark-mode-and-cant-see-axis) - 1 votes
+* [Python plot save as png with exact 128x250 pixel](https://stackoverflow.com/questions/70398397/python-plot-save-as-png-with-exact-128x250-pixel) - 1 votes
+* [Representation of a training and validation metric in a pipeline](https://stackoverflow.com/questions/70394038/representation-of-a-training-and-validation-metric-in-a-pipeline) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Change axes label and scale using ggplot and patchwork in R](https://stackoverflow.com/questions/70377149/change-axes-label-and-scale-using-ggplot-and-patchwork-in-r) - 2 votes
-* [How to save Pie chart into ppt slides using R](https://stackoverflow.com/questions/70377426/how-to-save-pie-chart-into-ppt-slides-using-r) - 1 votes
-* [How to control the bar width of a grouped bar chart in ggplot2](https://stackoverflow.com/questions/70375983/how-to-control-the-bar-width-of-a-grouped-bar-chart-in-ggplot2) - 1 votes
+* [Multiple equally sized plots in an RMarkdown document](https://stackoverflow.com/questions/70395202/multiple-equally-sized-plots-in-an-rmarkdown-document) - 2 votes
+* [Reproducing the following graph with R and ggplot2](https://stackoverflow.com/questions/70393322/reproducing-the-following-graph-with-r-and-ggplot2) - 1 votes
+* [How to change a density curve without changing the legend in ggplot2](https://stackoverflow.com/questions/70394446/how-to-change-a-density-curve-without-changing-the-legend-in-ggplot2) - 1 votes
+* [Create a split violin plot with paired points and proper orientation](https://stackoverflow.com/questions/70397418/create-a-split-violin-plot-with-paired-points-and-proper-orientation) - 1 votes
+* [Reproducing Stadium Image as a Graph in R](https://stackoverflow.com/questions/70392187/reproducing-stadium-image-as-a-graph-in-r) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
