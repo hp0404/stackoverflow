@@ -1,34 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-12-18<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-12-19<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas check multiple columns for condition and subtract 1](https://stackoverflow.com/questions/70405488/pandas-check-multiple-columns-for-condition-and-subtract-1) - 4 votes
-* [Create a pivot table in pandas while adding up the number of occurrences in a column](https://stackoverflow.com/questions/70406352/create-a-pivot-table-in-pandas-while-adding-up-the-number-of-occurrences-in-a-co) - 3 votes
-* [Grouping rows into a new Pandas DataFrame with one row per group](https://stackoverflow.com/questions/70405691/grouping-rows-into-a-new-pandas-dataframe-with-one-row-per-group) - 2 votes
-* [Pandas Splitting datetime into weekday month hour columns](https://stackoverflow.com/questions/70402071/pandas-splitting-datetime-into-weekday-month-hour-columns) - 2 votes
-* [A loop that makes multiconditional summations](https://stackoverflow.com/questions/70402535/a-loop-that-makes-multi-conditional-summations) - 2 votes
+* [Combine 2 string columns in pandas with different conditions in both columns](https://stackoverflow.com/questions/70413959/combine-2-string-columns-in-pandas-with-different-conditions-in-both-columns) - 5 votes
+* [Split one column into three different ones](https://stackoverflow.com/questions/70413375/split-one-column-into-three-different-ones) - 3 votes
+* [Fill missing dates in group and convert data to weekly](https://stackoverflow.com/questions/70413351/fill-missing-dates-in-group-and-convert-data-to-weekly) - 3 votes
+* [Encoding issue during reading excel file in Python](https://stackoverflow.com/questions/70408252/encoding-issue-during-reading-excel-file-in-python) - 3 votes
+* [Filling up quotNonequot values in pandas dataframe with values from previous column](https://stackoverflow.com/questions/70412692/filling-up-none-values-in-pandas-dataframe-with-values-from-previous-column) - 2 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [PCA with Python Eigenvectors are not orthogonal](https://stackoverflow.com/questions/70403502/pca-with-python-eigenvectors-are-not-orthogonal) - 1 votes
-* [Horizontal stacked bar in matplotlib](https://stackoverflow.com/questions/70404082/horizontal-stacked-bar-in-matplotlib) - 1 votes
-* [Plot y axis shows strange values](https://stackoverflow.com/questions/70401020/plot-y-axis-shows-strange-values) - 1 votes
+* [How to plot the cluster centers](https://stackoverflow.com/questions/70410267/how-to-plot-the-cluster-centers) - 1 votes
+* [How to show in python a histogram for each RGB value of image separetely](https://stackoverflow.com/questions/70412917/how-to-show-in-python-a-histogram-for-each-rgb-value-of-image-separetely) - 1 votes
+* [Matplotlib Logscale colorbar with for loop for loading data and plotting](https://stackoverflow.com/questions/70411482/matplotlib-logscale-colorbar-with-for-loop-for-loading-data-and-plotting) - 1 votes
+* [How could I plot circular histogram like this in matplotlib](https://stackoverflow.com/questions/70409237/how-could-i-plot-circular-histogram-like-this-in-matplotlib) - 1 votes
+* [How to avoid colors mixing up between two plot types in matplotlib](https://stackoverflow.com/questions/70408112/how-to-avoid-colors-mixing-up-between-two-plot-types-in-matplotlib) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Edit emmeans39 arrow plot39s facet text](https://stackoverflow.com/questions/70406886/edit-emmeans-arrow-plots-facet-text) - 1 votes
-* [Shade geom_rect for time series based on column value](https://stackoverflow.com/questions/70404660/shade-geom-rect-for-time-series-based-on-column-value) - 1 votes
+* [Avoiding evalparse or docall](https://stackoverflow.com/questions/70414757/avoiding-eval-parse-or-do-call) - 2 votes
+* [How do I neatly align my stacked barchart labels](https://stackoverflow.com/questions/70414552/how-do-i-neatly-align-my-stacked-barchart-labels) - 1 votes
+* [How to enhance faceted pie charts labels in R](https://stackoverflow.com/questions/70412595/how-to-enhance-faceted-pie-charts-labels-in-r) - 1 votes
+* [Barplot with paneldata](https://stackoverflow.com/questions/70412886/barplot-with-paneldata) - 1 votes
+* [How to prevent ggplot2 GADM from plotting districts outside the selected State](https://stackoverflow.com/questions/70410879/how-to-prevent-ggplot2-gadm-from-plotting-districts-outside-the-selected-state) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
