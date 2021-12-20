@@ -1,39 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-12-19<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-12-20<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [Combine 2 string columns in pandas with different conditions in both columns](https://stackoverflow.com/questions/70413959/combine-2-string-columns-in-pandas-with-different-conditions-in-both-columns) - 5 votes
-* [Split one column into three different ones](https://stackoverflow.com/questions/70413375/split-one-column-into-three-different-ones) - 3 votes
-* [Fill missing dates in group and convert data to weekly](https://stackoverflow.com/questions/70413351/fill-missing-dates-in-group-and-convert-data-to-weekly) - 3 votes
-* [Encoding issue during reading excel file in Python](https://stackoverflow.com/questions/70408252/encoding-issue-during-reading-excel-file-in-python) - 3 votes
-* [Filling up quotNonequot values in pandas dataframe with values from previous column](https://stackoverflow.com/questions/70412692/filling-up-none-values-in-pandas-dataframe-with-values-from-previous-column) - 2 votes
+* [python How to transpose the count of values in one pandas data frame to multiple columns in a second data frame](https://stackoverflow.com/questions/70418120/python-how-to-transpose-the-count-of-values-in-one-pandas-data-frame-to-multiple) - 5 votes
+* [Rolling sum of all previous dates NOT previous rows sorted by date](https://stackoverflow.com/questions/70416616/rolling-sum-of-all-previous-dates-not-previous-rows-sorted-by-date) - 5 votes
+* [DataFrame pairs of columns division](https://stackoverflow.com/questions/70420566/dataframe-pairs-of-columns-division) - 4 votes
+* [Filtering function for pandas  VIewing NaN values within a column](https://stackoverflow.com/questions/70424842/filtering-function-for-pandas-viewing-nan-values-within-a-column) - 4 votes
+* [Creating columns in one dataframe only from non matching columns from another dataframe and set all values to 0](https://stackoverflow.com/questions/70426722/creating-columns-in-one-dataframe-only-from-non-matching-columns-from-another-da) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [How to plot the cluster centers](https://stackoverflow.com/questions/70410267/how-to-plot-the-cluster-centers) - 1 votes
-* [How to show in python a histogram for each RGB value of image separetely](https://stackoverflow.com/questions/70412917/how-to-show-in-python-a-histogram-for-each-rgb-value-of-image-separetely) - 1 votes
-* [Matplotlib Logscale colorbar with for loop for loading data and plotting](https://stackoverflow.com/questions/70411482/matplotlib-logscale-colorbar-with-for-loop-for-loading-data-and-plotting) - 1 votes
-* [How could I plot circular histogram like this in matplotlib](https://stackoverflow.com/questions/70409237/how-could-i-plot-circular-histogram-like-this-in-matplotlib) - 1 votes
-* [How to avoid colors mixing up between two plot types in matplotlib](https://stackoverflow.com/questions/70408112/how-to-avoid-colors-mixing-up-between-two-plot-types-in-matplotlib) - 1 votes
+* [Using errorbars in python](https://stackoverflow.com/questions/70425844/using-errorbars-in-python) - 2 votes
+* [pyplot plot average curve for multiple graphs](https://stackoverflow.com/questions/70421998/pyplot-plot-average-curve-for-multiple-graphs) - 2 votes
+* [matplot finance not plotting window properly](https://stackoverflow.com/questions/70418851/matplot-finance-not-plotting-window-properly) - 1 votes
+* [Get one too many subplots in matplotlib](https://stackoverflow.com/questions/70419018/get-one-too-many-subplots-in-matplotlib) - 1 votes
+* [Matplotlib bar chart yaxis shows transformed and not given values](https://stackoverflow.com/questions/70422897/matplotlib-bar-chart-y-axis-shows-transformed-and-not-given-values) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [Avoiding evalparse or docall](https://stackoverflow.com/questions/70414757/avoiding-eval-parse-or-do-call) - 2 votes
-* [How do I neatly align my stacked barchart labels](https://stackoverflow.com/questions/70414552/how-do-i-neatly-align-my-stacked-barchart-labels) - 1 votes
-* [How to enhance faceted pie charts labels in R](https://stackoverflow.com/questions/70412595/how-to-enhance-faceted-pie-charts-labels-in-r) - 1 votes
-* [Barplot with paneldata](https://stackoverflow.com/questions/70412886/barplot-with-paneldata) - 1 votes
-* [How to prevent ggplot2 GADM from plotting districts outside the selected State](https://stackoverflow.com/questions/70410879/how-to-prevent-ggplot2-gadm-from-plotting-districts-outside-the-selected-state) - 1 votes
+* [How to draw a horizontal line and a vertical line that cross at the intersection with the line of a plot with ggplot2](https://stackoverflow.com/questions/70420256/how-to-draw-a-horizontal-line-and-a-vertical-line-that-cross-at-the-intersection) - 3 votes
+* [How to calculate density and frequency before using ggplot2](https://stackoverflow.com/questions/70423679/how-to-calculate-density-and-frequency-before-using-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
