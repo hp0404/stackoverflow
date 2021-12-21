@@ -1,36 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-12-20<!-- date ends -->**
+Automatically updates via GitHub Action, last update: **<!-- date starts -->2021-12-21<!-- date ends -->**
 
 
 <table><tr><td valign="top" width="33%">
 
 ### pandas
 <!-- pandas starts -->
-* [python How to transpose the count of values in one pandas data frame to multiple columns in a second data frame](https://stackoverflow.com/questions/70418120/python-how-to-transpose-the-count-of-values-in-one-pandas-data-frame-to-multiple) - 5 votes
-* [Rolling sum of all previous dates NOT previous rows sorted by date](https://stackoverflow.com/questions/70416616/rolling-sum-of-all-previous-dates-not-previous-rows-sorted-by-date) - 5 votes
-* [DataFrame pairs of columns division](https://stackoverflow.com/questions/70420566/dataframe-pairs-of-columns-division) - 4 votes
-* [Filtering function for pandas  VIewing NaN values within a column](https://stackoverflow.com/questions/70424842/filtering-function-for-pandas-viewing-nan-values-within-a-column) - 4 votes
-* [Creating columns in one dataframe only from non matching columns from another dataframe and set all values to 0](https://stackoverflow.com/questions/70426722/creating-columns-in-one-dataframe-only-from-non-matching-columns-from-another-da) - 3 votes
+* [Remove group if contains record with status 300](https://stackoverflow.com/questions/70435297/remove-group-if-contains-record-with-status-300) - 4 votes
+* [How to join two dataframes when only some dates in one dataframe is present between two other dates in other dataframe](https://stackoverflow.com/questions/70436247/how-to-join-two-dataframes-when-only-some-dates-in-one-dataframe-is-present-betw) - 3 votes
+* [pandas dataframe extract data with specific crtieriaconditions minimum in a column fixing other columns](https://stackoverflow.com/questions/70435422/pandas-dataframe-extract-data-with-specific-crtieria-conditions-minimum-in-a-co) - 3 votes
+* [keep only ids that have all three values of the column Mode](https://stackoverflow.com/questions/70437946/keep-only-ids-that-have-all-three-values-of-the-column-mode) - 3 votes
+* [sql select list of columns](https://stackoverflow.com/questions/70432925/sql-select-list-of-columns) - 3 votes
 <!-- pandas ends -->
 </td><td valign="top" width="34%">
 
 
 ### matplotlib
 <!-- matplotlib starts -->
-* [Using errorbars in python](https://stackoverflow.com/questions/70425844/using-errorbars-in-python) - 2 votes
-* [pyplot plot average curve for multiple graphs](https://stackoverflow.com/questions/70421998/pyplot-plot-average-curve-for-multiple-graphs) - 2 votes
-* [matplot finance not plotting window properly](https://stackoverflow.com/questions/70418851/matplot-finance-not-plotting-window-properly) - 1 votes
-* [Get one too many subplots in matplotlib](https://stackoverflow.com/questions/70419018/get-one-too-many-subplots-in-matplotlib) - 1 votes
-* [Matplotlib bar chart yaxis shows transformed and not given values](https://stackoverflow.com/questions/70422897/matplotlib-bar-chart-y-axis-shows-transformed-and-not-given-values) - 1 votes
+* [Linearly scale axes from kilometers to meters for all plots in matplotlib](https://stackoverflow.com/questions/70434054/linearly-scale-axes-from-kilometers-to-meters-for-all-plots-in-matplotlib) - 2 votes
+* [How to change colors for decision tree plot using sklearn plot_tree](https://stackoverflow.com/questions/70437840/how-to-change-colors-for-decision-tree-plot-using-sklearn-plot-tree) - 2 votes
+* [Vertical lines added in a boxplot do not match the xaxis](https://stackoverflow.com/questions/70438824/vertical-lines-added-in-a-boxplot-do-not-match-the-x-axis) - 1 votes
+* [KMeans centroids not visible in 3D clustering plot](https://stackoverflow.com/questions/70438687/k-means-centroids-not-visible-in-3d-clustering-plot) - 1 votes
 <!-- matplotlib ends -->
 </td><td valign="top" width="34%">
 
 
 ### ggplot
 <!-- ggplot2 starts -->
-* [How to draw a horizontal line and a vertical line that cross at the intersection with the line of a plot with ggplot2](https://stackoverflow.com/questions/70420256/how-to-draw-a-horizontal-line-and-a-vertical-line-that-cross-at-the-intersection) - 3 votes
-* [How to calculate density and frequency before using ggplot2](https://stackoverflow.com/questions/70423679/how-to-calculate-density-and-frequency-before-using-ggplot2) - 1 votes
+* [Using cowplot in R to make a ggplot chart occupy two consecutive rows](https://stackoverflow.com/questions/70429294/using-cowplot-in-r-to-make-a-ggplot-chart-occupy-two-consecutive-rows) - 11 votes
+* [Error adding the Kruskal Wallis pvalue into boxplots with facet_grid in R](https://stackoverflow.com/questions/70432871/error-adding-the-kruskal-wallis-pvalue-into-boxplots-with-facet-grid-in-r) - 2 votes
+* [how can I compare between two ggplots in R studio in layers  in other words having two plots over each other and compare them through my inputs ](https://stackoverflow.com/questions/70429548/how-can-i-compare-between-two-ggplots-in-r-studio-in-layers-in-other-words-hav) - 2 votes
+* [Control Discrete Tick Labels in ggplot2 scale_x_discrete](https://stackoverflow.com/questions/70441422/control-discrete-tick-labels-in-ggplot2-scale-x-discrete) - 1 votes
+* [Add exact same amount of horizontal spread quotjitterquot  dodge in ggplot2](https://stackoverflow.com/questions/70434268/add-exact-same-amount-of-horizontal-spread-jitter-dodge-in-ggplot2) - 1 votes
 <!-- ggplot2 ends -->
 </td></tr></table>
 
