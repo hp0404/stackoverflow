@@ -1,2 +1,1 @@
-requests
-sqlite_utils
+requests==2.26.0
