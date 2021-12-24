@@ -1,4 +1,4 @@
-name: Build README & update .db
+name: Build README
 
 on:
   schedule:
@@ -35,7 +35,4 @@ jobs:
         git config --global user.name "README-bot"
         git add README.md
         git commit -m "Updated README" || exit 0
-        git add stackoverflow.db
-        git push
-        git commit -m "Updated .db" || exit 0 
         git push
