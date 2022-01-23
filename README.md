@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-01-22<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-01-23<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
