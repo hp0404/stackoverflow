@@ -1,18 +1,21 @@
 # -*- coding: utf-8 -*-
+"""Python script that calls stackoverflow's API."""
 import datetime
 import re
 from pathlib import Path
-from typing import Any, Dict, Optional, Tuple
+from typing import Any, Dict, Tuple, Union
 
-import requests  # type: ignore
+import requests
 
 URL = "https://api.stackexchange.com/2.2/questions"
 DATE = datetime.datetime.utcnow().date()
 ROOT = Path(__file__).resolve().parent
 JSON = Dict[str, Any]
+Params = Dict[str, Union[str, int]]
+Timestamps = Tuple[int, int]
 
 
-def get_epochs(date: datetime.date, offset_days: Optional[int] = 1) -> Tuple[int, int]:
+def get_epochs(date: datetime.date, offset_days: int = 1) -> Timestamps:
     """Get epoch dates for the start and end of the date."""
     offset_date = date - datetime.timedelta(days=offset_days)
     start = datetime.datetime(
@@ -33,8 +36,8 @@ def fetch_questions(
     start: int,
     end: int,
     tags: str,
-    site: Optional[str] = "stackoverflow",
-    votes_threshold: Optional[int] = 1,
+    site: str = "stackoverflow",
+    votes_threshold: int = 1,
 ) -> JSON:
     """Fetch questions from stack exchange API.
 
@@ -50,7 +53,7 @@ def fetch_questions(
     votes_threshold : int
         min number of votes a question should have, defaults to 1
     """
-    params = {
+    params: Params = {
         "fromdate": start,
         "todate": end,
         "order": "desc",
@@ -71,7 +74,7 @@ def format_item(item: JSON) -> str:
     return f"* [{title}]({item['link']}) - {item['score']} votes"
 
 
-def build_column(data: JSON, limit: Optional[int] = 5) -> str:
+def build_column(data: JSON, limit: int = 5) -> str:
     """Build an unordered markdown list from a list of entries."""
     return "\n".join(map(format_item, data["items"][:limit]))
 
@@ -80,7 +83,7 @@ def replace_chunk(
     content: str,
     chunk: str,
     tags: str,
-    inline: Optional[bool] = True,
+    inline: bool = True,
 ) -> str:
     """Replace chunks of README.md"""
     pattern = re.compile(
