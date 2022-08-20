@@ -98,13 +98,13 @@ def replace_chunk(
 
 if __name__ == "__main__":
     readme = ROOT / "README.md"
-    readme_contents = readme.open(encoding="utf-8").read()
+    readme_contents = readme.read_text(encoding="utf-8")
     rewritten_readme = replace_chunk(readme_contents, DATE.strftime("%Y-%m-%d"), "date")
 
-    for tag in ["python", "fastapi", "pandas"]:
+    for tag in ["fastapi", "pandas", "rust"]:
         start_ts, end_ts = get_epochs(DATE)
         questions = fetch_questions(start_ts, end_ts, tag)
         formatted_column = build_column(questions)
-        rewritten = replace_chunk(rewritten_readme, formatted_column, tag, inline=False)
-        with open(readme, "w", encoding="utf-8") as output:
+        rewritten_readme = replace_chunk(rewritten_readme, formatted_column, tag, inline=False)
+        with readme.open("w", encoding="utf-8") as output:
             output.write(rewritten_readme)

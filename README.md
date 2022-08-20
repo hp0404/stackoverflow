@@ -1,36 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-08-19<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-08-20<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
-### python
-<!-- python starts -->
-* [Unable to perform any actions on elements which were located under flexbox](https://stackoverflow.com/questions/70459859/unable-to-perform-any-actions-on-elements-which-were-located-under-flexbox) - 8 votes
-* [pandas  show N highest counts in a groupby dataframe](https://stackoverflow.com/questions/70462533/pandas-show-n-highest-counts-in-a-group-by-dataframe) - 3 votes
-* [Override typehint of a parameter in __init__](https://stackoverflow.com/questions/70463616/override-type-hint-of-a-parameter-in-init) - 3 votes
-* [How to extract all numeric like values from string](https://stackoverflow.com/questions/70462846/how-to-extract-all-numeric-like-values-from-string) - 3 votes
-* [How to find repeated rows in pandas DataFrame for specific columns and modify values by adding counter](https://stackoverflow.com/questions/70460347/how-to-find-repeated-rows-in-pandas-dataframe-for-specific-columns-and-modify-v) - 3 votes
-<!-- python ends -->
+### rust
+<!-- rust starts -->
+* [How to ensure trait bounds within a trait](https://stackoverflow.com/questions/73416999/how-to-ensure-trait-bounds-within-a-trait) - 4 votes
+* [In Rust why do I not dereference on a match when it is required for if](https://stackoverflow.com/questions/73410150/in-rust-why-do-i-not-dereference-on-a-match-when-it-is-required-for-if) - 3 votes
+* [Rust returning trait object in default method implementation](https://stackoverflow.com/questions/73411895/rust-returning-trait-object-in-default-method-implementation) - 2 votes
+* [Can you turn an IteratorltTgt into an IteratorltampTgt efficiently](https://stackoverflow.com/questions/73425009/can-you-turn-an-iteratort-into-an-iteratort-efficiently) - 2 votes
+* [Can39t understand assembly generated for Rust code](https://stackoverflow.com/questions/73419172/cant-understand-assembly-generated-for-rust-code) - 2 votes
+<!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastApi sqlalchemy Connection was closed in the middle of operation](https://stackoverflow.com/questions/70468354/fastapi-sqlalchemy-connection-was-closed-in-the-middle-of-operation) - 2 votes
-* [Error  Type Error DeclartativeMeta object got multiple values for keyword argument 39owner_id39](https://stackoverflow.com/questions/70455807/error-type-error-declartativemeta-object-got-multiple-values-for-keyword-argum) - 1 votes
+* [How to download a file using ReactJS with Axios in the frontend and FastAPI in the backend](https://stackoverflow.com/questions/73410132/how-to-download-a-file-using-reactjs-with-axios-in-the-frontend-and-fastapi-in-t) - 2 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [pandas  show N highest counts in a groupby dataframe](https://stackoverflow.com/questions/70462533/pandas-show-n-highest-counts-in-a-group-by-dataframe) - 3 votes
-* [creating multi index from data grouped by month in Pandas](https://stackoverflow.com/questions/70464087/creating-multi-index-from-data-grouped-by-month-in-pandas) - 3 votes
-* [How to find repeated rows in pandas DataFrame for specific columns and modify values by adding counter](https://stackoverflow.com/questions/70460347/how-to-find-repeated-rows-in-pandas-dataframe-for-specific-columns-and-modify-v) - 3 votes
-* [Pandas find matching rows in two dataframes without using merge](https://stackoverflow.com/questions/70461095/pandas-find-matching-rows-in-two-dataframes-without-using-merge) - 2 votes
-* [How do you output boolean if column containing lists have elements from another larger list](https://stackoverflow.com/questions/70467838/how-do-you-output-boolean-if-column-containing-lists-have-elements-from-another) - 2 votes
+* [Drop columns in seriesdataframe MultiIndex](https://stackoverflow.com/questions/73418208/drop-columns-in-series-dataframe-multiindex) - 3 votes
+* [Is there any way to map values using the column index](https://stackoverflow.com/questions/73416493/is-there-any-way-to-map-values-using-the-column-index) - 3 votes
+* [How to find index of the first unique elements in Pandas DataFrame](https://stackoverflow.com/questions/73411073/how-to-find-index-of-the-first-unique-elements-in-pandas-dataframe) - 2 votes
+* [How to subset a dataframe that with a condition on two columns](https://stackoverflow.com/questions/73414273/how-to-subset-a-dataframe-that-with-a-condition-on-two-columns) - 2 votes
+* [understanding the logic of Pandassort_values in python](https://stackoverflow.com/questions/73426426/understanding-the-logic-of-pandas-sort-values-in-python) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
