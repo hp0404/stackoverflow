@@ -1,16 +1,16 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-08-27<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-08-28<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to use function scoped structs](https://stackoverflow.com/questions/73497141/how-to-use-function-scoped-structs) - 6 votes
-* [Trait problem Borrowed data escapes outside of associated function](https://stackoverflow.com/questions/73495603/trait-problem-borrowed-data-escapes-outside-of-associated-function) - 2 votes
-* [How to sort an array of optional values](https://stackoverflow.com/questions/73494879/how-to-sort-an-array-of-optional-values) - 1 votes
-* [Axum router rejecting CORS OPTIONS preflight with 405 even with CorsLayer](https://stackoverflow.com/questions/73498537/axum-router-rejecting-cors-options-preflight-with-405-even-with-corslayer) - 1 votes
+* [Immutable struct with mutable reference members](https://stackoverflow.com/questions/73515207/immutable-struct-with-mutable-reference-members) - 4 votes
+* [Why are mutable references inconsistent between impl and normal functions](https://stackoverflow.com/questions/73513543/why-are-mutable-references-inconsistent-between-impl-and-normal-functions) - 3 votes
+* [Are all Rust attributes Macros](https://stackoverflow.com/questions/73517374/are-all-rust-attributes-macros) - 2 votes
+* [Is there any way to get a trace of where an error occurs within a proc macro](https://stackoverflow.com/questions/73520534/is-there-any-way-to-get-a-trace-of-where-an-error-occurs-within-a-proc-macro) - 2 votes
 * [Why am I required to borrow while using a match](https://stackoverflow.com/questions/73512885/why-am-i-required-to-borrow-while-using-a-match) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -19,21 +19,18 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-0
 ### fastapi
 <!-- fastapi starts -->
 * [Initialise fastapi web service fully before listening on port](https://stackoverflow.com/questions/73509582/initialise-fastapi-web-service-fully-before-listening-on-port) - 1 votes
-* [How should I go about displaying a table from Object returned by functional component that calls fastAPI endpoint](https://stackoverflow.com/questions/73507960/how-should-i-go-about-displaying-a-table-from-object-returned-by-functional-comp) - 1 votes
-* [Autogenerate API docs for list query parameters in FastAPI](https://stackoverflow.com/questions/73501695/autogenerate-api-docs-for-list-query-parameters-in-fastapi) - 1 votes
-* [Returning a file in FastAPI without saving it locally](https://stackoverflow.com/questions/73498007/returning-a-file-in-fastapi-without-saving-it-locally) - 1 votes
-* [How to communicate with main process in FastAPIUvicorn multiprocess execution environment](https://stackoverflow.com/questions/73496707/how-to-communicate-with-main-process-in-fastapiuvicorn-multi-process-execution) - 1 votes
+* [How to display a table from an object returned by functional component that calls fastAPI endpoint](https://stackoverflow.com/questions/73507960/how-to-display-a-table-from-an-object-returned-by-functional-component-that-call) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [Remove rows from Dataframe with duplicate custom indexes and keep the row having max value for a column](https://stackoverflow.com/questions/73519800/remove-rows-from-dataframe-with-duplicate-custom-indexes-and-keep-the-row-having) - 4 votes
 * [Dataframe columns having individual indices](https://stackoverflow.com/questions/73510729/dataframe-columns-having-individual-indices) - 4 votes
-* [How to slice a PandasGroupByObject and use multiple functions in agg](https://stackoverflow.com/questions/73499364/how-to-slice-a-pandasgroupbyobject-and-use-multiple-functions-in-agg) - 3 votes
+* [melt function duplicating dataset](https://stackoverflow.com/questions/73521602/melt-function-duplicating-dataset) - 2 votes
 * [Check if multiple rows are filled and if not blank all values](https://stackoverflow.com/questions/73510828/check-if-multiple-rows-are-filled-and-if-not-blank-all-values) - 2 votes
-* [How to drop duplicates in pandas but keep more than the first](https://stackoverflow.com/questions/73508455/how-to-drop-duplicates-in-pandas-but-keep-more-than-the-first) - 2 votes
-* [New DataFrame column that contains IDs where value is outside bounds](https://stackoverflow.com/questions/73502613/new-dataframe-column-that-contains-ids-where-value-is-outside-bounds) - 2 votes
+* [Add an additional column to a panda dataframe comparing two columns](https://stackoverflow.com/questions/73511472/add-an-additional-column-to-a-panda-dataframe-comparing-two-columns) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
