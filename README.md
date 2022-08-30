@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-08-29<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-08-30<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Immutable struct with mutable reference members](https://stackoverflow.com/questions/73515207/immutable-struct-with-mutable-reference-members) - 4 votes
+* [How to allow and expect a compiler warning in Rust](https://stackoverflow.com/questions/73538183/how-to-allow-and-expect-a-compiler-warning-in-rust) - 5 votes
 * [Why is 39static the default for impl as return types](https://stackoverflow.com/questions/73523893/why-is-static-the-default-for-impl-as-return-types) - 3 votes
-* [a strange question future cannot be sent between threads safely](https://stackoverflow.com/questions/73519148/a-strange-question-future-cannot-be-sent-between-threads-safely) - 2 votes
-* [Are all Rust attributes Macros](https://stackoverflow.com/questions/73517374/are-all-rust-attributes-macros) - 2 votes
-* [Is there any way to get a trace of where an error occurs within a proc macro](https://stackoverflow.com/questions/73520534/is-there-any-way-to-get-a-trace-of-where-an-error-occurs-within-a-proc-macro) - 2 votes
+* [Why does println print different outputs for f32 and f64](https://stackoverflow.com/questions/73535132/why-does-println-print-different-outputs-for-f32-and-f64) - 2 votes
+* [rust warp won39t compile after switching filter orders](https://stackoverflow.com/questions/73537127/rust-warp-wont-compile-after-switching-filter-orders) - 2 votes
+* [Why does step_by expect a usize](https://stackoverflow.com/questions/73535962/why-does-step-by-expect-a-usize) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -25,11 +25,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-0
 
 ### pandas
 <!-- pandas starts -->
-* [Remove rows from Dataframe with duplicate custom indexes and keep the row having max value for a column](https://stackoverflow.com/questions/73519800/remove-rows-from-dataframe-with-duplicate-custom-indexes-and-keep-the-row-having) - 4 votes
-* [melt function duplicating dataset](https://stackoverflow.com/questions/73521602/melt-function-duplicating-dataset) - 3 votes
+* [How to groupby and resample data in pandas](https://stackoverflow.com/questions/73534908/how-to-groupby-and-resample-data-in-pandas) - 3 votes
 * [get a count of vaues that are on or before a certain date from a pandas dataframe](https://stackoverflow.com/questions/73532990/get-a-count-of-vaues-that-are-on-or-before-a-certain-date-from-a-pandas-datafram) - 3 votes
-* [Convert nested dictionary to multilevel column dataframe](https://stackoverflow.com/questions/73530081/convert-nested-dictionary-to-multilevel-column-dataframe) - 3 votes
-* [Pandas groupby with complex aggregations for multiple columns](https://stackoverflow.com/questions/73530780/pandas-groupby-with-complex-aggregations-for-multiple-columns) - 3 votes
+* [If df records is in English move it to another column using python](https://stackoverflow.com/questions/73538275/if-df-records-is-in-english-move-it-to-another-column-using-python) - 3 votes
+* [Restructing and Renaming the few columns in pandas dataframe](https://stackoverflow.com/questions/73537573/restructing-and-renaming-the-few-columns-in-pandas-dataframe) - 3 votes
+* [Replace the first value of each group](https://stackoverflow.com/questions/73535977/replace-the-first-value-of-each-group) - 3 votes
 <!-- pandas ends -->
 </td></tr></table>
 
