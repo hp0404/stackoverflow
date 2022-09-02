@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-09-01<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-09-02<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,32 +8,30 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-0
 ### rust
 <!-- rust starts -->
 * [How does Rust call a ampdyn Fn](https://stackoverflow.com/questions/73563278/how-does-rust-call-a-dyn-fn) - 5 votes
-* [Idiomatic rust rewrite of Rob Pikes regex](https://stackoverflow.com/questions/73561254/idiomatic-rust-rewrite-of-rob-pikes-regex) - 2 votes
-* [How can I find the size of an enum while ignoring the discriminant](https://stackoverflow.com/questions/73560252/how-can-i-find-the-size-of-an-enum-while-ignoring-the-discriminant) - 2 votes
 * [How to return a reference to an object created conditionally in Rust](https://stackoverflow.com/questions/73564110/how-to-return-a-reference-to-an-object-created-conditionally-in-rust) - 2 votes
+* [How to write Rust Tower middleware for authentication in a REST API](https://stackoverflow.com/questions/73581349/how-to-write-rust-tower-middleware-for-authentication-in-a-rest-api) - 2 votes
 * [Is there a feature matrix showing which Rust compiler version contains which stable features](https://stackoverflow.com/questions/73566407/is-there-a-feature-matrix-showing-which-rust-compiler-version-contains-which-sta) - 2 votes
+* [CLI app test fails if cargo build is not run first](https://stackoverflow.com/questions/73574457/cli-app-test-fails-if-cargo-build-is-not-run-first) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI response iterator is blocking the async functions or background tasks](https://stackoverflow.com/questions/73551005/fastapi-response-iterator-is-blocking-the-async-functions-or-background-tasks) - 2 votes
-* [How to download a large file from server via FastAPI](https://stackoverflow.com/questions/73550398/how-to-download-a-large-file-from-server-via-fastapi) - 2 votes
-* [How do I track users in my database without affecting response times](https://stackoverflow.com/questions/73560304/how-do-i-track-users-in-my-database-without-affecting-response-times) - 1 votes
-* [Fast API is very slow to return a large amount of json data through a get request](https://stackoverflow.com/questions/73564771/fast-api-is-very-slow-to-return-a-large-amount-of-json-data-through-a-get-reques) - 1 votes
-* [How to specify one or more items from base model are present in the request body](https://stackoverflow.com/questions/73560602/how-to-specify-one-or-more-items-from-base-model-are-present-in-the-request-body) - 1 votes
+* [How to return a PDF file from inmemory buffer using FastAPI](https://stackoverflow.com/questions/73585779/how-to-return-a-pdf-file-from-in-memory-buffer-using-fastapi) - 3 votes
+* [FastApi response and request model](https://stackoverflow.com/questions/73574181/fastapi-response-and-request-model) - 1 votes
+* [FastAPI is very slow in returning a large amount of JSON data](https://stackoverflow.com/questions/73564771/fastapi-is-very-slow-in-returning-a-large-amount-of-json-data) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Changing values in dataframe if the unique count of column is greater than a value](https://stackoverflow.com/questions/73561098/changing-values-in-dataframe-if-the-unique-count-of-column-is-greater-than-a-val) - 5 votes
-* [Add labelmultiindex on top of columns](https://stackoverflow.com/questions/73558036/add-label-multi-index-on-top-of-columns) - 4 votes
-* [How do you perform conditional operations on different elements in a Pandas DataFrame](https://stackoverflow.com/questions/73553299/how-do-you-perform-conditional-operations-on-different-elements-in-a-pandas-data) - 4 votes
-* [Replace the dataframe of values with npnan if it falls outside of the lower and upper limit outlier treatment](https://stackoverflow.com/questions/73554419/replace-the-dataframe-of-values-with-np-nan-if-it-falls-outside-of-the-lower-and) - 3 votes
+* [Pandas Function to Split multiline text column into multiple columns](https://stackoverflow.com/questions/73573206/pandas-function-to-split-multi-line-text-column-into-multiple-columns) - 3 votes
+* [Conditional cumsum of pandas column](https://stackoverflow.com/questions/73571101/conditional-cumsum-of-pandas-column) - 3 votes
 * [Process columns based on column names in another column](https://stackoverflow.com/questions/73564255/process-columns-based-on-column-names-in-another-column) - 3 votes
+* [How can we find new IDs added or dropped each month](https://stackoverflow.com/questions/73574127/how-can-we-find-new-ids-added-or-dropped-each-month) - 3 votes
+* [Convert data in quotgroupedquot columns from long to wide  square format pdDataFrame](https://stackoverflow.com/questions/73572046/convert-data-in-grouped-columns-from-long-to-wide-square-format-pd-dataframe) - 3 votes
 <!-- pandas ends -->
 </td></tr></table>
 
