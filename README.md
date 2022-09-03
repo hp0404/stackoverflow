@@ -1,37 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-09-02<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-09-03<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How does Rust call a ampdyn Fn](https://stackoverflow.com/questions/73563278/how-does-rust-call-a-dyn-fn) - 5 votes
-* [How to return a reference to an object created conditionally in Rust](https://stackoverflow.com/questions/73564110/how-to-return-a-reference-to-an-object-created-conditionally-in-rust) - 2 votes
 * [How to write Rust Tower middleware for authentication in a REST API](https://stackoverflow.com/questions/73581349/how-to-write-rust-tower-middleware-for-authentication-in-a-rest-api) - 2 votes
-* [Is there a feature matrix showing which Rust compiler version contains which stable features](https://stackoverflow.com/questions/73566407/is-there-a-feature-matrix-showing-which-rust-compiler-version-contains-which-sta) - 2 votes
-* [CLI app test fails if cargo build is not run first](https://stackoverflow.com/questions/73574457/cli-app-test-fails-if-cargo-build-is-not-run-first) - 1 votes
+* [Are lifetimes part of the type](https://stackoverflow.com/questions/73587242/are-lifetimes-part-of-the-type) - 1 votes
+* [How do I read an image from RAM into a consistent format](https://stackoverflow.com/questions/73580621/how-do-i-read-an-image-from-ram-into-a-consistent-format) - 1 votes
+* [Capture prompt from stdout](https://stackoverflow.com/questions/73578611/capture-prompt-from-stdout) - 1 votes
+* [What data structure should I use that preserves insertion order and allows multiple values per key](https://stackoverflow.com/questions/73594497/what-data-structure-should-i-use-that-preserves-insertion-order-and-allows-multi) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to return a PDF file from inmemory buffer using FastAPI](https://stackoverflow.com/questions/73585779/how-to-return-a-pdf-file-from-in-memory-buffer-using-fastapi) - 3 votes
-* [FastApi response and request model](https://stackoverflow.com/questions/73574181/fastapi-response-and-request-model) - 1 votes
-* [FastAPI is very slow in returning a large amount of JSON data](https://stackoverflow.com/questions/73564771/fastapi-is-very-slow-in-returning-a-large-amount-of-json-data) - 1 votes
+* [How to return a PDF file from inmemory buffer using FastAPI](https://stackoverflow.com/questions/73585779/how-to-return-a-pdf-file-from-in-memory-buffer-using-fastapi) - 4 votes
+* [How to send multiple images from FastAPI backend to JavaScript frontend using StreamingResponse](https://stackoverflow.com/questions/73589407/how-to-send-multiple-images-from-fastapi-backend-to-javascript-frontend-using-st) - 2 votes
+* [Why fastapi trace http method not working](https://stackoverflow.com/questions/73593465/why-fastapi-trace-http-method-not-working) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas Function to Split multiline text column into multiple columns](https://stackoverflow.com/questions/73573206/pandas-function-to-split-multi-line-text-column-into-multiple-columns) - 3 votes
-* [Conditional cumsum of pandas column](https://stackoverflow.com/questions/73571101/conditional-cumsum-of-pandas-column) - 3 votes
-* [Process columns based on column names in another column](https://stackoverflow.com/questions/73564255/process-columns-based-on-column-names-in-another-column) - 3 votes
-* [How can we find new IDs added or dropped each month](https://stackoverflow.com/questions/73574127/how-can-we-find-new-ids-added-or-dropped-each-month) - 3 votes
-* [Convert data in quotgroupedquot columns from long to wide  square format pdDataFrame](https://stackoverflow.com/questions/73572046/convert-data-in-grouped-columns-from-long-to-wide-square-format-pd-dataframe) - 3 votes
+* [Split elements of a dataframe into subcolumns](https://stackoverflow.com/questions/73577326/split-elements-of-a-dataframe-into-sub-columns) - 2 votes
+* [How to read csv file in pandas if the pathname contains single inverted comma and i get error](https://stackoverflow.com/questions/73581491/how-to-read-csv-file-in-pandas-if-the-pathname-contains-single-inverted-comma-an) - 2 votes
+* [applying pivot table on pandas dataframe instead of grouping](https://stackoverflow.com/questions/73592043/applying-pivot-table-on-pandas-dataframe-instead-of-grouping) - 2 votes
+* [stop duplicating specific column values in explode](https://stackoverflow.com/questions/73582583/stop-duplicating-specific-column-values-in-explode) - 2 votes
+* [Reorder columns in pandas datafram](https://stackoverflow.com/questions/73585945/reorder-columns-in-pandas-datafram) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
