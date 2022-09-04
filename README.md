@@ -1,37 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-09-03<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-09-04<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to write Rust Tower middleware for authentication in a REST API](https://stackoverflow.com/questions/73581349/how-to-write-rust-tower-middleware-for-authentication-in-a-rest-api) - 2 votes
-* [Are lifetimes part of the type](https://stackoverflow.com/questions/73587242/are-lifetimes-part-of-the-type) - 1 votes
-* [How do I read an image from RAM into a consistent format](https://stackoverflow.com/questions/73580621/how-do-i-read-an-image-from-ram-into-a-consistent-format) - 1 votes
-* [Capture prompt from stdout](https://stackoverflow.com/questions/73578611/capture-prompt-from-stdout) - 1 votes
-* [What data structure should I use that preserves insertion order and allows multiple values per key](https://stackoverflow.com/questions/73594497/what-data-structure-should-i-use-that-preserves-insertion-order-and-allows-multi) - 1 votes
+* [Why use iter in a for loop  Rust](https://stackoverflow.com/questions/73601250/why-use-iter-in-a-for-loop-rust) - 1 votes
+* [How to iterate over a two dimensional vector in rust](https://stackoverflow.com/questions/73590751/how-to-iterate-over-a-two-dimensional-vector-in-rust) - 1 votes
+* [Returning stream of futures from function](https://stackoverflow.com/questions/73601139/returning-stream-of-futures-from-function) - 1 votes
+* [How to create a factory method in rust to return generic container  getting an error quotdoesn39t have a size known at compiletimequot returning generic](https://stackoverflow.com/questions/73599370/how-to-create-a-factory-method-in-rust-to-return-generic-container-getting-an) - 1 votes
+* [How can I imply Stream for struct which need mutable borrow itself](https://stackoverflow.com/questions/73596619/how-can-i-imply-stream-for-struct-which-need-mutable-borrow-itself) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to return a PDF file from inmemory buffer using FastAPI](https://stackoverflow.com/questions/73585779/how-to-return-a-pdf-file-from-in-memory-buffer-using-fastapi) - 4 votes
 * [How to send multiple images from FastAPI backend to JavaScript frontend using StreamingResponse](https://stackoverflow.com/questions/73589407/how-to-send-multiple-images-from-fastapi-backend-to-javascript-frontend-using-st) - 2 votes
 * [Why fastapi trace http method not working](https://stackoverflow.com/questions/73593465/why-fastapi-trace-http-method-not-working) - 1 votes
+* [Pydantic ValueError TypeErrorquot39builtin_function_or_method39 object is not iterablequot TypeError39vars argument must have __dict__ attribute39](https://stackoverflow.com/questions/73598367/pydantic-valueerror-typeerrorbuiltin-function-or-method-object-is-not-iter) - 1 votes
+* [Fastapi refuses connection on a parameterized endpoint if called sequentially with another in svelte](https://stackoverflow.com/questions/73599889/fastapi-refuses-connection-on-a-parameterized-endpoint-if-called-sequentially-wi) - 1 votes
+* [how get proper http trace response in fastapi](https://stackoverflow.com/questions/73593694/how-get-proper-http-trace-response-in-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Split elements of a dataframe into subcolumns](https://stackoverflow.com/questions/73577326/split-elements-of-a-dataframe-into-sub-columns) - 2 votes
-* [How to read csv file in pandas if the pathname contains single inverted comma and i get error](https://stackoverflow.com/questions/73581491/how-to-read-csv-file-in-pandas-if-the-pathname-contains-single-inverted-comma-an) - 2 votes
+* [How to make a customized grouped dataframe with multiple aggregations](https://stackoverflow.com/questions/73598430/how-to-make-a-customized-grouped-dataframe-with-multiple-aggregations) - 2 votes
+* [Python Pandas  Replacing cell value matching regular expression](https://stackoverflow.com/questions/73597292/python-pandas-replacing-cell-value-matching-regular-expression) - 2 votes
 * [applying pivot table on pandas dataframe instead of grouping](https://stackoverflow.com/questions/73592043/applying-pivot-table-on-pandas-dataframe-instead-of-grouping) - 2 votes
-* [stop duplicating specific column values in explode](https://stackoverflow.com/questions/73582583/stop-duplicating-specific-column-values-in-explode) - 2 votes
-* [Reorder columns in pandas datafram](https://stackoverflow.com/questions/73585945/reorder-columns-in-pandas-datafram) - 1 votes
+* [Python Pandas How to print all columns in the data frame where all the values are 0](https://stackoverflow.com/questions/73594740/python-pandas-how-to-print-all-columns-in-the-data-frame-where-all-the-values-a) - 1 votes
+* [Reshape Dataframe based on conditions of other rowscolumns](https://stackoverflow.com/questions/73598802/reshape-dataframe-based-on-conditions-of-other-rows-columns) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
