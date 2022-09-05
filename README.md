@@ -1,39 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-09-04<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-09-05<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why use iter in a for loop  Rust](https://stackoverflow.com/questions/73601250/why-use-iter-in-a-for-loop-rust) - 1 votes
-* [How to iterate over a two dimensional vector in rust](https://stackoverflow.com/questions/73590751/how-to-iterate-over-a-two-dimensional-vector-in-rust) - 1 votes
-* [Returning stream of futures from function](https://stackoverflow.com/questions/73601139/returning-stream-of-futures-from-function) - 1 votes
-* [How to create a factory method in rust to return generic container  getting an error quotdoesn39t have a size known at compiletimequot returning generic](https://stackoverflow.com/questions/73599370/how-to-create-a-factory-method-in-rust-to-return-generic-container-getting-an) - 1 votes
-* [How can I imply Stream for struct which need mutable borrow itself](https://stackoverflow.com/questions/73596619/how-can-i-imply-stream-for-struct-which-need-mutable-borrow-itself) - 1 votes
+* [Compiling Rust that calls C to WASM](https://stackoverflow.com/questions/73604042/compiling-rust-that-calls-c-to-wasm) - 2 votes
+* [How to return offset char_indices from a function](https://stackoverflow.com/questions/73608263/how-to-return-offset-char-indices-from-a-function) - 1 votes
+* [Rust macro accept call to member function](https://stackoverflow.com/questions/73611087/rust-macro-accept-call-to-member-function) - 1 votes
+* [Rust equivalent of C union with anonymous structs](https://stackoverflow.com/questions/73608233/rust-equivalent-of-c-union-with-anonymous-structs) - 1 votes
+* [Macro with attributes in rust](https://stackoverflow.com/questions/73603494/macro-with-attributes-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to send multiple images from FastAPI backend to JavaScript frontend using StreamingResponse](https://stackoverflow.com/questions/73589407/how-to-send-multiple-images-from-fastapi-backend-to-javascript-frontend-using-st) - 2 votes
-* [Why fastapi trace http method not working](https://stackoverflow.com/questions/73593465/why-fastapi-trace-http-method-not-working) - 1 votes
+* [RedirectResponse to Azure Blob Storage doesn39t work as expected using FastAPI and Swagger UI](https://stackoverflow.com/questions/73607320/redirectresponse-to-azure-blob-storage-doesnt-work-as-expected-using-fastapi-an) - 1 votes
 * [Pydantic ValueError TypeErrorquot39builtin_function_or_method39 object is not iterablequot TypeError39vars argument must have __dict__ attribute39](https://stackoverflow.com/questions/73598367/pydantic-valueerror-typeerrorbuiltin-function-or-method-object-is-not-iter) - 1 votes
 * [Fastapi refuses connection on a parameterized endpoint if called sequentially with another in svelte](https://stackoverflow.com/questions/73599889/fastapi-refuses-connection-on-a-parameterized-endpoint-if-called-sequentially-wi) - 1 votes
-* [how get proper http trace response in fastapi](https://stackoverflow.com/questions/73593694/how-get-proper-http-trace-response-in-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [Convert list of dictionaries with one element to single dictionary in pandas DataFrame](https://stackoverflow.com/questions/73609622/convert-list-of-dictionaries-with-one-element-to-single-dictionary-in-pandas-dat) - 3 votes
+* [How to pivot df to get counts of column values into new columns](https://stackoverflow.com/questions/73611774/how-to-pivot-df-to-get-counts-of-column-values-into-new-columns) - 3 votes
 * [How to make a customized grouped dataframe with multiple aggregations](https://stackoverflow.com/questions/73598430/how-to-make-a-customized-grouped-dataframe-with-multiple-aggregations) - 2 votes
-* [Python Pandas  Replacing cell value matching regular expression](https://stackoverflow.com/questions/73597292/python-pandas-replacing-cell-value-matching-regular-expression) - 2 votes
-* [applying pivot table on pandas dataframe instead of grouping](https://stackoverflow.com/questions/73592043/applying-pivot-table-on-pandas-dataframe-instead-of-grouping) - 2 votes
-* [Python Pandas How to print all columns in the data frame where all the values are 0](https://stackoverflow.com/questions/73594740/python-pandas-how-to-print-all-columns-in-the-data-frame-where-all-the-values-a) - 1 votes
-* [Reshape Dataframe based on conditions of other rowscolumns](https://stackoverflow.com/questions/73598802/reshape-dataframe-based-on-conditions-of-other-rows-columns) - 1 votes
+* [How to get average between first row and current row per each group in data frame](https://stackoverflow.com/questions/73599146/how-to-get-average-between-first-row-and-current-row-per-each-group-in-data-fram) - 2 votes
+* [Finding values from different rows in pandas](https://stackoverflow.com/questions/73609169/finding-values-from-different-rows-in-pandas) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
