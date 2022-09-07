@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-09-06<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-09-07<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,17 +8,17 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-0
 ### rust
 <!-- rust starts -->
 * [Rust Macros Repeat n times based on number of arguments without using the actual argument](https://stackoverflow.com/questions/73616730/rust-macros-repeat-n-times-based-on-number-of-arguments-without-using-the-actua) - 3 votes
-* [Error multiplying matrix by vector with generic sizing using nalgebra](https://stackoverflow.com/questions/73614993/error-multiplying-matrix-by-vector-with-generic-sizing-using-nalgebra) - 2 votes
-* [Compiling Rust that calls C to WASM](https://stackoverflow.com/questions/73604042/compiling-rust-that-calls-c-to-wasm) - 2 votes
-* [How can I dynamically determine the variant of an enum](https://stackoverflow.com/questions/73624002/how-can-i-dynamically-determine-the-variant-of-an-enum) - 1 votes
-* [What is the difference between write_all and flush in ioWrite trait](https://stackoverflow.com/questions/73620289/what-is-the-difference-between-write-all-and-flush-in-iowrite-trait) - 1 votes
+* [Do structs inside Boxnew need curly braces](https://stackoverflow.com/questions/73629319/do-structs-inside-boxnew-need-curly-braces) - 2 votes
+* [Why can39t type coercions occur in fn of trait with generic type automatically](https://stackoverflow.com/questions/73634862/why-cant-type-coercions-occur-in-fn-of-trait-with-generic-type-automatically) - 2 votes
+* [How do I generate an array with macro by applying a function to each element](https://stackoverflow.com/questions/73633907/how-do-i-generate-an-array-with-macro-by-applying-a-function-to-each-element) - 2 votes
+* [Rust sorting uses surprisingly few comparaisons](https://stackoverflow.com/questions/73632668/rust-sorting-uses-surprisingly-few-comparaisons) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [RedirectResponse to Azure Blob Storage doesn39t work as expected using FastAPI and Swagger UI](https://stackoverflow.com/questions/73607320/redirectresponse-to-azure-blob-storage-doesnt-work-as-expected-using-fastapi-an) - 1 votes
+* [Upload small file to FastAPI enpoint but UploadFile content is empty](https://stackoverflow.com/questions/73632237/upload-small-file-to-fastapi-enpoint-but-uploadfile-content-is-empty) - 1 votes
 * [Token is not recognized after authentication in FastAPI](https://stackoverflow.com/questions/73621640/token-is-not-recognized-after-authentication-in-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
@@ -26,11 +26,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-0
 
 ### pandas
 <!-- pandas starts -->
-* [How to pivot df to get counts of column values into new columns](https://stackoverflow.com/questions/73611774/how-to-pivot-df-to-get-counts-of-column-values-into-new-columns) - 3 votes
-* [Convert list of dictionaries with one element to single dictionary in pandas DataFrame](https://stackoverflow.com/questions/73609622/convert-list-of-dictionaries-with-one-element-to-single-dictionary-in-pandas-dat) - 3 votes
+* [Combine multiple columns into one category column using the column names as value label](https://stackoverflow.com/questions/73635605/combine-multiple-columns-into-one-category-column-using-the-column-names-as-valu) - 7 votes
+* [Passing skipna argument to agg](https://stackoverflow.com/questions/73629814/passing-skipna-argument-to-agg) - 3 votes
+* [PythonPandasDataframe  Remove only first few numbers from string](https://stackoverflow.com/questions/73625356/python-pandas-dataframe-remove-only-first-few-numbers-from-string) - 3 votes
 * [Comparing pandas dataframe column with String resulting in False](https://stackoverflow.com/questions/73625341/comparing-pandas-dataframe-column-with-string-resulting-in-false) - 3 votes
-* [How to update values of a column according to the values of a column of the other datafreme with pandas](https://stackoverflow.com/questions/73623428/how-to-update-values-of-a-column-according-to-the-values-of-a-column-of-the-othe) - 2 votes
-* [Convert string duration column to time in hours amp minutes](https://stackoverflow.com/questions/73610122/convert-string-duration-column-to-time-in-hours-minutes) - 2 votes
+* [Extract substring numbers from string pandas](https://stackoverflow.com/questions/73631130/extract-substring-numbers-from-string-pandas) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
