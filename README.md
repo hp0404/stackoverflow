@@ -1,25 +1,24 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-09-20<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-09-21<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Is there a difference between PinltBoxltTgtgt and BoxltPinltTgtgt](https://stackoverflow.com/questions/73768331/is-there-a-difference-between-pinboxt-and-boxpint) - 5 votes
 * [Transpose large numpy matrix on disk](https://stackoverflow.com/questions/73786879/transpose-large-numpy-matrix-on-disk) - 5 votes
-* [Borrowing self twice in a single expression sometimes leads to an error](https://stackoverflow.com/questions/73769846/borrowing-self-twice-in-a-single-expression-sometimes-leads-to-an-error) - 3 votes
-* [When can double ampersand ampamp be shortend to a single amp](https://stackoverflow.com/questions/73772399/when-can-double-ampersand-be-shortend-to-a-single) - 2 votes
-* [Serde JSON deserializing enums](https://stackoverflow.com/questions/73768095/serde-json-deserializing-enums) - 2 votes
+* [rust library returned Box object is automatically freed in C](https://stackoverflow.com/questions/73797568/rust-library-returned-box-object-is-automatically-freed-in-c) - 2 votes
+* [How to assign to a new variable the current time using timePrimitiveDateTime type](https://stackoverflow.com/questions/73790383/how-to-assign-to-a-new-variable-the-current-time-using-timeprimitivedatetime-t) - 2 votes
+* [HashMap get or insert and return a reference from a function](https://stackoverflow.com/questions/73801225/hashmap-get-or-insert-and-return-a-reference-from-a-function) - 1 votes
+* [Call same method of different type](https://stackoverflow.com/questions/73805082/call-same-method-of-different-type) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [PyTest Stuck When Upgrading From Python 383 to 3107](https://stackoverflow.com/questions/73778219/pytest-stuck-when-upgrading-from-python-3-8-3-to-3-10-7) - 1 votes
-* [Parsing a list from FastAPI JSON List](https://stackoverflow.com/questions/73777920/parsing-a-list-from-fastapi-json-list) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -27,10 +26,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-0
 ### pandas
 <!-- pandas starts -->
 * [Pandas Join Two Dataframes According to Range and Date](https://stackoverflow.com/questions/73785952/pandas-join-two-dataframes-according-to-range-and-date) - 4 votes
-* [Pandas dataframe  reshaping columns using start and end pairs](https://stackoverflow.com/questions/73779649/pandas-dataframe-reshaping-columns-using-start-and-end-pairs) - 4 votes
-* [Pandas how to extract specific strings from dataframe](https://stackoverflow.com/questions/73773105/pandas-how-to-extract-specific-strings-from-dataframe) - 4 votes
-* [filter and get rows between the conditions in a dataframe](https://stackoverflow.com/questions/73768289/filter-and-get-rows-between-the-conditions-in-a-dataframe) - 3 votes
 * [Convert from string column in pandas dataframe to time hmmss](https://stackoverflow.com/questions/73781820/convert-from-string-column-in-pandas-dataframe-to-time-hmmss) - 3 votes
+* [Split columns base on conditions in Python](https://stackoverflow.com/questions/73785055/split-columns-base-on-conditions-in-python) - 3 votes
+* [Compare same column rows for an ID and reduce the rows into desired output](https://stackoverflow.com/questions/73782914/compare-same-column-rows-for-an-id-and-reduce-the-rows-into-desired-output) - 2 votes
+* [Pandas Converting a Column of Column names into a Column of values](https://stackoverflow.com/questions/73802400/pandas-converting-a-column-of-column-names-into-a-column-of-values) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
