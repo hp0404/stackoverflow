@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-09-25<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-09-26<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why can a variable be formatted but not an element of an array when using the println macro](https://stackoverflow.com/questions/73840916/why-can-a-variable-be-formatted-but-not-an-element-of-an-array-when-using-the-p) - 4 votes
-* [Peculiar performance variance with small arrays](https://stackoverflow.com/questions/73839861/peculiar-performance-variance-with-small-arrays) - 3 votes
+* [Why does calling a trait method not call the inherent method of the same name when used generically](https://stackoverflow.com/questions/73853094/why-does-calling-a-trait-method-not-call-the-inherent-method-of-the-same-name-wh) - 2 votes
 * [How to for_each and then count them in Rust](https://stackoverflow.com/questions/73842276/how-to-for-each-and-then-count-them-in-rust) - 2 votes
-* [How to write a function that accepts a Vec of borrowed or owned elements](https://stackoverflow.com/questions/73839107/how-to-write-a-function-that-accepts-a-vec-of-borrowed-or-owned-elements) - 2 votes
-* [How can I create an RcltRefCelllt_gtgt to something that already exists](https://stackoverflow.com/questions/73835811/how-can-i-create-an-rcrefcell-to-something-that-already-exists) - 2 votes
+* [Rust create noncontiguous vector for testing](https://stackoverflow.com/questions/73857347/rust-create-non-contiguous-vector-for-testing) - 2 votes
+* [How to figure out what methods are available](https://stackoverflow.com/questions/73841506/how-to-figure-out-what-methods-are-available) - 2 votes
+* [Shared optionlike serializable type with CC](https://stackoverflow.com/questions/73850181/shared-option-like-serializable-type-with-c-c) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -26,10 +26,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-0
 ### pandas
 <!-- pandas starts -->
 * [Extract subsequences from main dataframe based on the locations in another dataframe](https://stackoverflow.com/questions/73846256/extract-subsequences-from-main-dataframe-based-on-the-locations-in-another-dataf) - 4 votes
-* [Python drop columns in string range](https://stackoverflow.com/questions/73836651/python-drop-columns-in-string-range) - 3 votes
+* [Difference in time between successive dataframe rows](https://stackoverflow.com/questions/73848347/difference-in-time-between-successive-dataframe-rows) - 3 votes
+* [Convert string column to array of fixed length strings in pandas dataframe](https://stackoverflow.com/questions/73852568/convert-string-column-to-array-of-fixed-length-strings-in-pandas-dataframe) - 2 votes
 * [Custom grouping of Pandas MultiIndex levels](https://stackoverflow.com/questions/73844995/custom-grouping-of-pandas-multiindex-levels) - 2 votes
 * [Count the group occurrences](https://stackoverflow.com/questions/73842710/count-the-group-occurrences) - 2 votes
-* [How to update multiple entries of a certain column of a Pandas dataframe in certain order](https://stackoverflow.com/questions/73838199/how-to-update-multiple-entries-of-a-certain-column-of-a-pandas-dataframe-in-cert) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
