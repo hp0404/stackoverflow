@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-09-27<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-09-28<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [In Rust is it ever safe to use a reference in place of a pointer with a function called across an FFI boundary](https://stackoverflow.com/questions/73884557/in-rust-is-it-ever-safe-to-use-a-reference-in-place-of-a-pointer-with-a-functio) - 3 votes
+* [Force use of a constructor](https://stackoverflow.com/questions/73882769/force-use-of-a-constructor) - 2 votes
 * [Pattern matching for get the desired type on a impl statement](https://stackoverflow.com/questions/73871671/pattern-matching-for-get-the-desired-type-on-a-impl-statement) - 2 votes
-* [Why does calling a trait method not call the inherent method of the same name when used generically](https://stackoverflow.com/questions/73853094/why-does-calling-a-trait-method-not-call-the-inherent-method-of-the-same-name-wh) - 2 votes
-* [Why does calling into within its own From implementation not give a recursion warning](https://stackoverflow.com/questions/73858297/why-does-calling-into-within-its-own-from-implementation-not-give-a-recursion) - 2 votes
 * [Polars Rust Read json file like Data Fusion or Spark](https://stackoverflow.com/questions/73866436/polars-rust-read-json-file-like-data-fusion-or-spark) - 2 votes
-* [Rust create noncontiguous vector for testing](https://stackoverflow.com/questions/73857347/rust-create-non-contiguous-vector-for-testing) - 2 votes
+* [Why do iterator39s find and position have different function signatures](https://stackoverflow.com/questions/73875665/why-do-iterators-find-and-position-have-different-function-signatures) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -26,10 +26,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-0
 ### pandas
 <!-- pandas starts -->
 * [Pandas normalize values by group](https://stackoverflow.com/questions/73868794/pandas-normalize-values-by-group) - 4 votes
-* [Selecting data in rows based on criteria in column](https://stackoverflow.com/questions/73853354/selecting-data-in-rows-based-on-criteria-in-column) - 3 votes
-* [Calculate concurrent sessions by user in python](https://stackoverflow.com/questions/73859886/calculate-concurrent-sessions-by-user-in-python) - 3 votes
-* [Convert string column to array of fixed length strings in pandas dataframe](https://stackoverflow.com/questions/73852568/convert-string-column-to-array-of-fixed-length-strings-in-pandas-dataframe) - 2 votes
-* [Is there a way to produce a sum for rows below in a pandas dataframe](https://stackoverflow.com/questions/73852212/is-there-a-way-to-produce-a-sum-for-rows-below-in-a-pandas-dataframe) - 2 votes
+* [Pandas  Make some headers row values](https://stackoverflow.com/questions/73882524/pandas-make-some-headers-row-values) - 3 votes
+* [Find all rows whose column name contains a specific string](https://stackoverflow.com/questions/73876635/find-all-rows-whose-column-name-contains-a-specific-string) - 2 votes
+* [Pandas remove consecutive duplicates of value ONLY](https://stackoverflow.com/questions/73885578/pandas-remove-consecutive-duplicates-of-value-only) - 2 votes
+* [Fill in zeros for variable in pandas dataframe without group by values](https://stackoverflow.com/questions/73873772/fill-in-zeros-for-variable-in-pandas-dataframe-without-group-by-values) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
