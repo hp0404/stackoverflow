@@ -1,28 +1,26 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-09-30<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-10-01<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why can39t I concatenate two Strings together but I can concatenate a String and a ampstr](https://stackoverflow.com/questions/73889220/why-cant-i-concatenate-two-strings-together-but-i-can-concatenate-a-string-and) - 3 votes
-* [How to implement a generic serde_jsonfrom_str](https://stackoverflow.com/questions/73889074/how-to-implement-a-generic-serde-jsonfrom-str) - 2 votes
-* [How to cheaply send a delay message](https://stackoverflow.com/questions/73895393/how-to-cheaply-send-a-delay-message) - 2 votes
-* [How does producing a dangling reference not dereferencing it in Rust cause undefined behaviour and can it be observed](https://stackoverflow.com/questions/73900821/how-does-producing-a-dangling-reference-not-dereferencing-it-in-rust-cause-und) - 1 votes
-* [Why are ceilf32 and sqrtf32 unsafe](https://stackoverflow.com/questions/73913908/why-are-ceilf32-and-sqrtf32-unsafe) - 1 votes
+* [Why are ceilf32 and sqrtf32 unsafe](https://stackoverflow.com/questions/73913908/why-are-ceilf32-and-sqrtf32-unsafe) - 3 votes
+* [Is there a way to define type alias in generic struct impl block in Rust](https://stackoverflow.com/questions/73918280/is-there-a-way-to-define-type-alias-in-generic-struct-impl-block-in-rust) - 2 votes
+* [What does quot_quot mean in Rust](https://stackoverflow.com/questions/73915261/what-does-mean-in-rust) - 1 votes
+* [Is there a difference between a borrowed integer and a copy](https://stackoverflow.com/questions/73910527/is-there-a-difference-between-a-borrowed-integer-and-a-copy) - 1 votes
+* [returning different iterators from a function](https://stackoverflow.com/questions/73913644/returning-different-iterators-from-a-function) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Value is not a valid dict when posting JSON data through Postman to FastAPI backend](https://stackoverflow.com/questions/73901012/value-is-not-a-valid-dict-when-posting-json-data-through-postman-to-fastapi-back) - 1 votes
 * [How to render CSSJSImages along with HTML file in FastAPI](https://stackoverflow.com/questions/73911250/how-to-render-css-js-images-along-with-html-file-in-fastapi) - 1 votes
 * [How to run Uvicorn FastAPI server as a module from another Python file](https://stackoverflow.com/questions/73908734/how-to-run-uvicorn-fastapi-server-as-a-module-from-another-python-file) - 1 votes
 * [How to use fastapi_another_jwt_auth in the middleware instead of via dependency injection in FastAPI](https://stackoverflow.com/questions/73903098/how-to-use-fastapi-another-jwt-auth-in-the-middleware-instead-of-via-dependenc) - 1 votes
-* [Can39t get variable from session using SessionMiddleware in FastAPI](https://stackoverflow.com/questions/73895821/cant-get-variable-from-session-using-sessionmiddleware-in-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -30,10 +28,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-0
 ### pandas
 <!-- pandas starts -->
 * [How to drop all the rows between two delimiters](https://stackoverflow.com/questions/73912913/how-to-drop-all-the-rows-between-two-delimiters) - 4 votes
-* [pandas regex look ahead and behind from a 1st occurrence of character](https://stackoverflow.com/questions/73896757/pandas-regex-look-ahead-and-behind-from-a-1st-occurrence-of-character) - 3 votes
-* [Pandas Create multiple rows of 39dummy data39 from one row](https://stackoverflow.com/questions/73899974/pandas-create-multiple-rows-of-dummy-data-from-one-row) - 3 votes
-* [Difference with nearest conditional rows per group using Pandas](https://stackoverflow.com/questions/73899633/difference-with-nearest-conditional-rows-per-group-using-pandas) - 3 votes
-* [Select Best Value Based on Highest Score](https://stackoverflow.com/questions/73901694/select-best-value-based-on-highest-score) - 3 votes
+* [Filter and move text in another column in substring](https://stackoverflow.com/questions/73914589/filter-and-move-text-in-another-column-in-substring) - 3 votes
+* [Creating Permutations from DataFrame without Repetition](https://stackoverflow.com/questions/73912280/creating-permutations-from-dataframe-without-repetition) - 2 votes
+* [Efficient way to generate new columns of the minimum value of certain subset of another column in Pandas Dataframe](https://stackoverflow.com/questions/73920794/efficient-way-to-generate-new-columns-of-the-minimum-value-of-certain-subset-of) - 2 votes
+* [How does datetime understand 53rd week](https://stackoverflow.com/questions/73911825/how-does-datetime-understand-53rd-week) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
