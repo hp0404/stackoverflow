@@ -1,37 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-10-01<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-10-02<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why are ceilf32 and sqrtf32 unsafe](https://stackoverflow.com/questions/73913908/why-are-ceilf32-and-sqrtf32-unsafe) - 3 votes
+* [Is it possible to exclude a type from generic trait implementation](https://stackoverflow.com/questions/73922479/is-it-possible-to-exclude-a-type-from-generic-trait-implementation) - 3 votes
+* [println inline variable looks inconsistent why](https://stackoverflow.com/questions/73929134/println-inline-variable-looks-inconsistent-why) - 2 votes
 * [Is there a way to define type alias in generic struct impl block in Rust](https://stackoverflow.com/questions/73918280/is-there-a-way-to-define-type-alias-in-generic-struct-impl-block-in-rust) - 2 votes
-* [What does quot_quot mean in Rust](https://stackoverflow.com/questions/73915261/what-does-mean-in-rust) - 1 votes
-* [Is there a difference between a borrowed integer and a copy](https://stackoverflow.com/questions/73910527/is-there-a-difference-between-a-borrowed-integer-and-a-copy) - 1 votes
-* [returning different iterators from a function](https://stackoverflow.com/questions/73913644/returning-different-iterators-from-a-function) - 1 votes
+* [Temporarily cache owned value between iterator adapters](https://stackoverflow.com/questions/73926045/temporarily-cache-owned-value-between-iterator-adapters) - 2 votes
+* [How to serialize an option with serde](https://stackoverflow.com/questions/73923674/how-to-serialize-an-option-with-serde) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to render CSSJSImages along with HTML file in FastAPI](https://stackoverflow.com/questions/73911250/how-to-render-css-js-images-along-with-html-file-in-fastapi) - 1 votes
-* [How to run Uvicorn FastAPI server as a module from another Python file](https://stackoverflow.com/questions/73908734/how-to-run-uvicorn-fastapi-server-as-a-module-from-another-python-file) - 1 votes
-* [How to use fastapi_another_jwt_auth in the middleware instead of via dependency injection in FastAPI](https://stackoverflow.com/questions/73903098/how-to-use-fastapi-another-jwt-auth-in-the-middleware-instead-of-via-dependenc) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How to drop all the rows between two delimiters](https://stackoverflow.com/questions/73912913/how-to-drop-all-the-rows-between-two-delimiters) - 4 votes
-* [Filter and move text in another column in substring](https://stackoverflow.com/questions/73914589/filter-and-move-text-in-another-column-in-substring) - 3 votes
-* [Creating Permutations from DataFrame without Repetition](https://stackoverflow.com/questions/73912280/creating-permutations-from-dataframe-without-repetition) - 2 votes
+* [Pandas  calculate within group the maximum value for a minimum within column](https://stackoverflow.com/questions/73927905/pandas-calculate-within-group-the-maximum-value-for-a-minimum-within-column) - 3 votes
+* [Check last change that occur per row in a Dataframe using Pandas](https://stackoverflow.com/questions/73928022/check-last-change-that-occur-per-row-in-a-dataframe-using-pandas) - 2 votes
 * [Efficient way to generate new columns of the minimum value of certain subset of another column in Pandas Dataframe](https://stackoverflow.com/questions/73920794/efficient-way-to-generate-new-columns-of-the-minimum-value-of-certain-subset-of) - 2 votes
-* [How does datetime understand 53rd week](https://stackoverflow.com/questions/73911825/how-does-datetime-understand-53rd-week) - 2 votes
+* [pandas pivot on two columns](https://stackoverflow.com/questions/73920596/pandas-pivot-on-two-columns) - 1 votes
+* [How to generate a column from the unique groupby combinations in a cumulative way](https://stackoverflow.com/questions/73927882/how-to-generate-a-column-from-the-unique-groupby-combinations-in-a-cumulative-wa) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
