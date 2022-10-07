@@ -1,27 +1,26 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-10-06<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-10-07<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Why can39t Rust coerce an async function with a lifetime parameter to a function pointer](https://stackoverflow.com/questions/73981969/why-cant-rust-coerce-an-async-function-with-a-lifetime-parameter-to-a-function) - 3 votes
 * [How is it possible for a Mutex to be constructed at compile time](https://stackoverflow.com/questions/73972673/how-is-it-possible-for-a-mutex-to-be-constructed-at-compile-time) - 3 votes
-* [Is it ok to use asserts in production code not in test suite to ensure expected behaviour](https://stackoverflow.com/questions/73964023/is-it-ok-to-use-asserts-in-production-code-not-in-test-suite-to-ensure-expecte) - 2 votes
-* [do rust type annotations affect speed or are used just for readability39s sake](https://stackoverflow.com/questions/73959955/do-rust-type-annotations-affect-speed-or-are-used-just-for-readabilitys-sake) - 1 votes
-* [Collecting from IteratorltItemampTgt to VecltTgt](https://stackoverflow.com/questions/73967100/collecting-from-iteratoritem-t-to-vect) - 1 votes
-* [Rust lifetime issue with closures within same global scope](https://stackoverflow.com/questions/73960514/rust-lifetime-issue-with-closures-within-same-global-scope) - 1 votes
+* [How to read stdin keys in rust with termion using dynamic char values](https://stackoverflow.com/questions/73983048/how-to-read-stdin-keys-in-rust-with-termion-using-dynamic-char-values) - 2 votes
+* [Implement trait that has function which return traits](https://stackoverflow.com/questions/73980141/implement-trait-that-has-function-which-return-traits) - 1 votes
+* [All possible permutations of 2 vectors on rust](https://stackoverflow.com/questions/73974397/all-possible-permutations-of-2-vectors-on-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Why does Switching from JQuery AJAX to Fetch cause a 422 Error](https://stackoverflow.com/questions/73960597/why-does-switching-from-jquery-ajax-to-fetch-cause-a-422-error) - 1 votes
-* [How does FastApi with uvicorn utilize cpu cores](https://stackoverflow.com/questions/73979756/how-does-fastapi-with-uvicorn-utilize-cpu-cores) - 1 votes
-* [Uvicorn reload using WatchFiles is not working for FastAPI in Docker container](https://stackoverflow.com/questions/73966627/uvicorn-reload-using-watchfiles-is-not-working-for-fastapi-in-docker-container) - 1 votes
-* [FastAPI is not returning cookies to my frontend](https://stackoverflow.com/questions/73962743/fastapi-is-not-returning-cookies-to-my-frontend) - 1 votes
+* [How does FastApi with uvicorn utilize cpu cores](https://stackoverflow.com/questions/73979756/how-does-fastapi-with-uvicorn-utilize-cpu-cores) - 2 votes
+* [How to pass string and multiple files using FastAPI and Python requests](https://stackoverflow.com/questions/73981953/how-to-pass-string-and-multiple-files-using-fastapi-and-python-requests) - 1 votes
+* [How to setup HTTPS on a GKE FastAPI api](https://stackoverflow.com/questions/73973944/how-to-setup-https-on-a-gke-fastapi-api) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -30,9 +29,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-1
 <!-- pandas starts -->
 * [How to use column value as parameter in aggregation function in pandas](https://stackoverflow.com/questions/73973736/how-to-use-column-value-as-parameter-in-aggregation-function-in-pandas) - 3 votes
 * [Reset pandas cumsum when the condition is not satisified](https://stackoverflow.com/questions/73970233/reset-pandas-cumsum-when-the-condition-is-not-satisified) - 3 votes
-* [How to filter a pandas dataframe using a variable filter](https://stackoverflow.com/questions/73963815/how-to-filter-a-pandas-dataframe-using-a-variable-filter) - 3 votes
+* [Convert complex list to dataframe in a vectorized way](https://stackoverflow.com/questions/73982721/convert-complex-list-to-dataframe-in-a-vectorized-way) - 2 votes
 * [Convert comma separated string type series into a list of integers pandas](https://stackoverflow.com/questions/73968642/convert-comma-separated-string-type-series-into-a-list-of-integers-pandas) - 2 votes
-* [How to normalize a JSON file using Pandas](https://stackoverflow.com/questions/73957491/how-to-normalize-a-json-file-using-pandas) - 2 votes
+* [Check circular reference within DataFrame Python](https://stackoverflow.com/questions/73988542/check-circular-reference-within-dataframe-python) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
