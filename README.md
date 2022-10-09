@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-10-08<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-10-09<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,9 +8,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-1
 ### rust
 <!-- rust starts -->
 * [s does not live long enough borrowed value does not live long enough](https://stackoverflow.com/questions/73993900/s-does-not-live-long-enough-borrowed-value-does-not-live-long-enough) - 3 votes
-* [Why can39t Rust coerce an async function with a lifetime parameter to a function pointer](https://stackoverflow.com/questions/73981969/why-cant-rust-coerce-an-async-function-with-a-lifetime-parameter-to-a-function) - 3 votes
-* [How to read stdin keys in rust with termion using dynamic char values](https://stackoverflow.com/questions/73983048/how-to-read-stdin-keys-in-rust-with-termion-using-dynamic-char-values) - 2 votes
-* [why the compiler tell me it39s irrefutable](https://stackoverflow.com/questions/73987367/why-the-compiler-tell-me-its-irrefutable) - 1 votes
+* [Ranges on Rust wrapper types](https://stackoverflow.com/questions/73997814/ranges-on-rust-wrapper-types) - 2 votes
+* [Supertrait as return traitobject doesn39t have a known size at compile time](https://stackoverflow.com/questions/74000522/supertrait-as-return-traitobject-doesnt-have-a-known-size-at-compile-time) - 2 votes
+* [Why would you convert from a string in Rust to a String](https://stackoverflow.com/questions/74002915/why-would-you-convert-from-a-string-in-rust-to-a-string) - 1 votes
 * [Macro won39t parse the expression the same recursively](https://stackoverflow.com/questions/73993805/macro-wont-parse-the-expression-the-same-recursively) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -18,20 +18,19 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-1
 
 ### fastapi
 <!-- fastapi starts -->
-* [Update object with one to many relation SQLAlchemy](https://stackoverflow.com/questions/73990670/update-object-with-one-to-many-relation-sqlalchemy) - 1 votes
-* [pydanticerror_wrappersValidationError  value is not a valid list typetype_errorlist](https://stackoverflow.com/questions/73983298/pydantic-error-wrappers-validationerror-value-is-not-a-valid-list-type-type-e) - 1 votes
-* [How to pass string and multiple files using FastAPI and Python requests](https://stackoverflow.com/questions/73981953/how-to-pass-string-and-multiple-files-using-fastapi-and-python-requests) - 1 votes
+* [docker compose up raises ModuleNotFound](https://stackoverflow.com/questions/74005885/docker-compose-up-raises-modulenotfound) - 1 votes
+* [How can I post data to FastAPI using Javascript and AJAX](https://stackoverflow.com/questions/73997064/how-can-i-post-data-to-fastapi-using-javascript-and-ajax) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Convert complex list to dataframe in a vectorized way](https://stackoverflow.com/questions/73982721/convert-complex-list-to-dataframe-in-a-vectorized-way) - 2 votes
+* [How can I rewrite R code with tilde operator to Python Pandas](https://stackoverflow.com/questions/73996349/how-can-i-rewrite-r-code-with-tilde-operator-to-python-pandas) - 3 votes
+* [Python  Start loop at row 39n39 in a dataframe](https://stackoverflow.com/questions/74003276/python-start-loop-at-row-n-in-a-dataframe) - 3 votes
+* [Create heatmap by grouping two columns](https://stackoverflow.com/questions/73998931/create-heatmap-by-grouping-two-columns) - 3 votes
 * [Iterating over a dataframe appending values to a dictionary until a value is NaN and then start a new dictionary entry](https://stackoverflow.com/questions/73999098/iterating-over-a-dataframe-appending-values-to-a-dictionary-until-a-value-is-na) - 2 votes
-* [pandas groupbyheadn where n is a function of group label](https://stackoverflow.com/questions/73991085/pandas-groupby-headn-where-n-is-a-function-of-group-label) - 2 votes
-* [How can I rewrite R code with tilde operator to Python Pandas](https://stackoverflow.com/questions/73996349/how-can-i-rewrite-r-code-with-tilde-operator-to-python-pandas) - 2 votes
-* [Create heatmap by grouping two columns](https://stackoverflow.com/questions/73998931/create-heatmap-by-grouping-two-columns) - 2 votes
+* [Search columns with list of string for a specific set of text and if the text is found enter new a new string of text in a new column](https://stackoverflow.com/questions/73998808/search-columns-with-list-of-string-for-a-specific-set-of-text-and-if-the-text-is) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
