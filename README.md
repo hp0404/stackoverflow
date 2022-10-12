@@ -1,37 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-10-11<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-10-12<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [FnMut seems to capture it39s call parameters](https://stackoverflow.com/questions/74046276/fnmut-seems-to-capture-its-call-parameters) - 3 votes
 * [What is the significance of the name 39a in all of Rust39s reference lifetime annotation examples](https://stackoverflow.com/questions/74031711/what-is-the-significance-of-the-name-a-in-all-of-rusts-reference-lifetime-an) - 2 votes
-* [Why storing return value avoids borrowing twice](https://stackoverflow.com/questions/74020788/why-storing-return-value-avoids-borrowing-twice) - 2 votes
-* [Is it sound to use raw pointers to an allocated vector to allow multiple threads to write to nonoverlapping parts](https://stackoverflow.com/questions/74020426/is-it-sound-to-use-raw-pointers-to-an-allocated-vector-to-allow-multiple-threads) - 2 votes
-* [Is this an error in the Rust lifetime system or do I just not understand lifetimes](https://stackoverflow.com/questions/74014060/is-this-an-error-in-the-rust-lifetime-system-or-do-i-just-not-understand-lifeti) - 2 votes
-* [Why I cannot use simple types as mutable reference](https://stackoverflow.com/questions/74025900/why-i-cannot-use-simple-types-as-mutable-reference) - 1 votes
+* [Enforce the length of the arrays are the same in Rust function arguments](https://stackoverflow.com/questions/74046151/enforce-the-length-of-the-arrays-are-the-same-in-rust-function-arguments) - 2 votes
+* [Rust  why is there a warning quotvalue captured by online is never readquot here](https://stackoverflow.com/questions/74036684/rust-why-is-there-a-warning-value-captured-by-online-is-never-read-here) - 2 votes
+* [Idiomatic way in Rust to dump slice contents onto an array](https://stackoverflow.com/questions/74042239/idiomatic-way-in-rust-to-dump-slice-contents-onto-an-array) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI  How can I modify request from inside dependency](https://stackoverflow.com/questions/74010813/fastapi-how-can-i-modify-request-from-inside-dependency) - 2 votes
-* [How to create a FastAPI endpoint that can accept either Form or JSON body](https://stackoverflow.com/questions/74009210/how-to-create-a-fastapi-endpoint-that-can-accept-either-form-or-json-body) - 2 votes
-* [How to specify dependencies for the entire router](https://stackoverflow.com/questions/74019260/how-to-specify-dependencies-for-the-entire-router) - 1 votes
+* [starletteroutingNoMatchFound No route exists for name quotstaticquot and params quotfilenamequot in FastAPI Error](https://stackoverflow.com/questions/74039165/starlette-routing-nomatchfound-no-route-exists-for-name-static-and-params-fi) - 1 votes
+* [Using requestsSession post method for localhost URL in FastAPI is not speeding up the process](https://stackoverflow.com/questions/74036046/using-requests-session-post-method-for-localhost-url-in-fastapi-is-not-speeding) - 1 votes
+* [Problem during transactional tests with SQLAlchemy Pytest and FastAPI](https://stackoverflow.com/questions/74034544/problem-during-transactional-tests-with-sqlalchemy-pytest-and-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Filter rows where dates are available across all groups using Pandas](https://stackoverflow.com/questions/74014203/filter-rows-where-dates-are-available-across-all-groups-using-pandas) - 4 votes
-* [Don39t drop unique value with dropna pandas](https://stackoverflow.com/questions/74009559/dont-drop-unique-value-with-dropna-pandas) - 4 votes
-* [Extract all phrases from a pandas dataframe based on multiple words in list](https://stackoverflow.com/questions/74020472/extract-all-phrases-from-a-pandas-dataframe-based-on-multiple-words-in-list) - 3 votes
-* [How to drop last not NaN value in Dataframe](https://stackoverflow.com/questions/74031386/how-to-drop-last-not-nan-value-in-dataframe) - 3 votes
+* [Calculate the slope for every n days per group](https://stackoverflow.com/questions/74031620/calculate-the-slope-for-every-n-days-per-group) - 3 votes
+* [pandas how to duplicate a value for every substring in a column](https://stackoverflow.com/questions/74042649/pandas-how-to-duplicate-a-value-for-every-substring-in-a-column) - 3 votes
 * [Get Week of month column from date](https://stackoverflow.com/questions/74026920/get-week-of-month-column-from-date) - 3 votes
+* [How to drop last not NaN value in Dataframe](https://stackoverflow.com/questions/74031386/how-to-drop-last-not-nan-value-in-dataframe) - 3 votes
+* [Pandas  Changing header in a Dataframe using data in another Dataframe](https://stackoverflow.com/questions/74041848/pandas-changing-header-in-a-dataframe-using-data-in-another-dataframe) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
