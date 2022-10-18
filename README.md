@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-10-17<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-10-18<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,9 +8,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-1
 ### rust
 <!-- rust starts -->
 * [impl Trait return type causes wrong lifetime elision](https://stackoverflow.com/questions/74095481/impl-trait-return-type-causes-wrong-lifetime-elision) - 4 votes
+* [Does the Drop trait in Rust modify scoping rules](https://stackoverflow.com/questions/74106698/does-the-drop-trait-in-rust-modify-scoping-rules) - 3 votes
 * [How to restructure struct such that 39Cannot borrow x as mutable more than once at a time39 does not occur](https://stackoverflow.com/questions/74094456/how-to-restructure-struct-such-that-cannot-borrow-x-as-mutable-more-than-once) - 3 votes
-* [How to construct a sequence of continuous matrix transformations along a closed 3D path](https://stackoverflow.com/questions/74085125/how-to-construct-a-sequence-of-continuous-matrix-transformations-along-a-closed) - 3 votes
-* [Rust insists that a generic argument of a cloneable struct must implement Clone too](https://stackoverflow.com/questions/74085761/rust-insists-that-a-generic-argument-of-a-cloneable-struct-must-implement-clone) - 2 votes
+* [Rust unix process](https://stackoverflow.com/questions/74114182/rust-unix-process) - 2 votes
 * [Match for two parameters and ranges](https://stackoverflow.com/questions/74091593/match-for-two-parameters-and-ranges) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -18,19 +18,18 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-1
 
 ### fastapi
 <!-- fastapi starts -->
-* [Sending a POST request to a local server hosted on FastAPI](https://stackoverflow.com/questions/74088761/sending-a-post-request-to-a-local-server-hosted-on-fastapi) - 1 votes
-* [How to send Authorization Header through Swagger UI using FastAPI](https://stackoverflow.com/questions/74085996/how-to-send-authorization-header-through-swagger-ui-using-fastapi) - 1 votes
+* [Inject parameter to every route of an APIRouter](https://stackoverflow.com/questions/74104478/inject-parameter-to-every-route-of-an-apirouter) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [Group only by rows that belong to list](https://stackoverflow.com/questions/74097729/group-only-by-rows-that-belong-to-list) - 3 votes
 * [merge two dataframes with common keys and adding unique columns](https://stackoverflow.com/questions/74092203/merge-two-dataframes-with-common-keys-and-adding-unique-columns) - 3 votes
+* [String literal matching between words in two different dataframe dfs and generate a new dataframe](https://stackoverflow.com/questions/74091764/string-literal-matching-between-words-in-two-different-dataframe-dfs-and-gener) - 3 votes
 * [Pivot tablepivot based on condition in python](https://stackoverflow.com/questions/74097865/pivot-table-pivot-based-on-condition-in-python) - 3 votes
-* [Group only by rows that belong to list](https://stackoverflow.com/questions/74097729/group-only-by-rows-that-belong-to-list) - 2 votes
-* [Pandas loss of precision when loading data with nan values](https://stackoverflow.com/questions/74094447/pandas-loss-of-precision-when-loading-data-with-nan-values) - 2 votes
-* [Groupby two columns and take average categorical count in Python](https://stackoverflow.com/questions/74091606/groupby-two-columns-and-take-average-categorical-count-in-python) - 2 votes
+* [How do I retrieve the datemodtime of each file based on filename in python](https://stackoverflow.com/questions/74114175/how-do-i-retrieve-the-datemodtime-of-each-file-based-on-filename-in-python) - 3 votes
 <!-- pandas ends -->
 </td></tr></table>
 
