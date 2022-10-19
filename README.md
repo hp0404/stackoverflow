@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-10-18<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-10-19<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [impl Trait return type causes wrong lifetime elision](https://stackoverflow.com/questions/74095481/impl-trait-return-type-causes-wrong-lifetime-elision) - 4 votes
+* [Rust difference between fn vs fn u8](https://stackoverflow.com/questions/74125513/rust-difference-between-fn-vs-fn-u8) - 12 votes
+* [Why does set method defined on CellltTgt explicitly drops the old value Rust](https://stackoverflow.com/questions/74123700/why-does-set-method-defined-on-cellt-explicitly-drops-the-old-value-rust) - 9 votes
+* [Do Rust comments increase binary size](https://stackoverflow.com/questions/74119190/do-rust-comments-increase-binary-size) - 4 votes
 * [Does the Drop trait in Rust modify scoping rules](https://stackoverflow.com/questions/74106698/does-the-drop-trait-in-rust-modify-scoping-rules) - 3 votes
-* [How to restructure struct such that 39Cannot borrow x as mutable more than once at a time39 does not occur](https://stackoverflow.com/questions/74094456/how-to-restructure-struct-such-that-cannot-borrow-x-as-mutable-more-than-once) - 3 votes
-* [Rust unix process](https://stackoverflow.com/questions/74114182/rust-unix-process) - 2 votes
-* [Match for two parameters and ranges](https://stackoverflow.com/questions/74091593/match-for-two-parameters-and-ranges) - 2 votes
+* [Why is a reference leaked from inside a lambda despite using clone](https://stackoverflow.com/questions/74125818/why-is-a-reference-leaked-from-inside-a-lambda-despite-using-clone) - 3 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -25,11 +25,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-1
 
 ### pandas
 <!-- pandas starts -->
-* [Group only by rows that belong to list](https://stackoverflow.com/questions/74097729/group-only-by-rows-that-belong-to-list) - 3 votes
-* [merge two dataframes with common keys and adding unique columns](https://stackoverflow.com/questions/74092203/merge-two-dataframes-with-common-keys-and-adding-unique-columns) - 3 votes
-* [String literal matching between words in two different dataframe dfs and generate a new dataframe](https://stackoverflow.com/questions/74091764/string-literal-matching-between-words-in-two-different-dataframe-dfs-and-gener) - 3 votes
-* [Pivot tablepivot based on condition in python](https://stackoverflow.com/questions/74097865/pivot-table-pivot-based-on-condition-in-python) - 3 votes
+* [How to get the whole row with column names while looking for a minimum value](https://stackoverflow.com/questions/74118450/how-to-get-the-whole-row-with-column-names-while-looking-for-a-minimum-value) - 5 votes
+* [How to insert a list in a dataframe pandas](https://stackoverflow.com/questions/74114884/how-to-insert-a-list-in-a-dataframe-pandas) - 4 votes
+* [Get value counts and date between for groupby](https://stackoverflow.com/questions/74116723/get-value-counts-and-date-between-for-groupby) - 3 votes
 * [How do I retrieve the datemodtime of each file based on filename in python](https://stackoverflow.com/questions/74114175/how-do-i-retrieve-the-datemodtime-of-each-file-based-on-filename-in-python) - 3 votes
+* [Filter date range in pandas raised UserWarning Boolean Series key will be reindexed to match DataFrame index](https://stackoverflow.com/questions/74114566/filter-date-range-in-pandas-raised-userwarning-boolean-series-key-will-be-rein) - 3 votes
 <!-- pandas ends -->
 </td></tr></table>
 
