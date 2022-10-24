@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-10-23<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-10-24<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,30 +8,30 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-1
 ### rust
 <!-- rust starts -->
 * [Use for loop on rust array and vec](https://stackoverflow.com/questions/74168758/use-for-loop-on-rust-array-and-vec) - 3 votes
-* [Why are references to primitives not dereferenced implicitly](https://stackoverflow.com/questions/74162917/why-are-references-to-primitives-not-dereferenced-implicitly) - 2 votes
+* [How to to close a window inititated with winit without exiting programprocess](https://stackoverflow.com/questions/74175743/how-to-to-close-a-window-inititated-with-winit-without-exiting-program-process) - 3 votes
 * [How to get a quotPCWSTRquot object from a Path or String](https://stackoverflow.com/questions/74173128/how-to-get-a-pcwstr-object-from-a-path-or-string) - 2 votes
-* [rust drop call sequence after implmenting drop trait](https://stackoverflow.com/questions/74174650/rust-drop-call-sequence-after-implmenting-drop-trait) - 2 votes
-* [Fast algorithm for counting intersection of sorted arrays with cyclic shift](https://stackoverflow.com/questions/74168192/fast-algorithm-for-counting-intersection-of-sorted-arrays-with-cyclic-shift) - 2 votes
+* [why is this trait not object safe](https://stackoverflow.com/questions/74178811/why-is-this-trait-not-object-safe) - 2 votes
+* [Lifetime relationship between function arguments and return value](https://stackoverflow.com/questions/74175752/lifetime-relationship-between-function-arguments-and-return-value) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
+* [How to set the default model to a variable if None was passed](https://stackoverflow.com/questions/74185763/how-to-set-the-default-model-to-a-variable-if-none-was-passed) - 1 votes
+* [fastAPI  How to print all the excecuted actual queries in terminal in every request and response](https://stackoverflow.com/questions/74182487/fastapi-how-to-print-all-the-excecuted-actual-queries-in-terminal-in-every-req) - 1 votes
 * [How to read the request body using orjson library in FastAPI](https://stackoverflow.com/questions/74168582/how-to-read-the-request-body-using-orjson-library-in-fastapi) - 1 votes
-* [Uploading file to Anonfiles using anonfile module and FastAPI](https://stackoverflow.com/questions/74164831/uploading-file-to-anonfiles-using-anonfile-module-and-fastapi) - 1 votes
-* [How to properly use Regex in CORS Middleware for FastAPI](https://stackoverflow.com/questions/74163301/how-to-properly-use-regex-in-cors-middleware-for-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Add the missing numbers in the table in order](https://stackoverflow.com/questions/74167295/add-the-missing-numbers-in-the-table-in-order) - 5 votes
 * [Pandas How to sort rows based on particular suffix values](https://stackoverflow.com/questions/74170810/pandas-how-to-sort-rows-based-on-particular-suffix-values) - 3 votes
 * [pandas dataframe in a long format missing months](https://stackoverflow.com/questions/74172508/pandas-dataframe-in-a-long-format-missing-months) - 3 votes
-* [Determine who had more than 80 of a given consignor](https://stackoverflow.com/questions/74170120/determine-who-had-more-than-80-of-a-given-consignor) - 2 votes
-* [Find rows in Pandas dataframe based on conditional group from another dataframe](https://stackoverflow.com/questions/74170081/find-rows-in-pandas-dataframe-based-on-conditional-group-from-another-dataframe) - 2 votes
+* [add last value from list in column A into list in column b](https://stackoverflow.com/questions/74174413/add-last-value-from-list-in-column-a-into-list-in-column-b) - 3 votes
+* [Resource Not Found Error When Reading CSV from Azure Blob using Pandas with its SAS URL](https://stackoverflow.com/questions/74179120/resource-not-found-error-when-reading-csv-from-azure-blob-using-pandas-with-its) - 3 votes
+* [Transpose horizontally stored data to multiple rows](https://stackoverflow.com/questions/74179594/transpose-horizontally-stored-data-to-multiple-rows) - 3 votes
 <!-- pandas ends -->
 </td></tr></table>
 
