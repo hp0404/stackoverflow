@@ -1,35 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-10-27<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-10-28<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why are these traits deemed not objectsafe by the language designer](https://stackoverflow.com/questions/74201645/why-are-these-traits-deemed-not-object-safe-by-the-language-designer) - 5 votes
-* [Rust String AsRefltTgt does not auto borrow for u8](https://stackoverflow.com/questions/74201661/rust-string-asreft-does-not-auto-borrow-for-u8) - 3 votes
-* [Move position of underline for Rust in Visual Studio Code](https://stackoverflow.com/questions/74204011/move-position-of-underline-for-rust-in-visual-studio-code) - 3 votes
-* [Alternative ways of specifying closure as return type](https://stackoverflow.com/questions/74205672/alternative-ways-of-specifying-closure-as-return-type) - 2 votes
-* [How to force documentprivateitems from Cargotoml](https://stackoverflow.com/questions/74207555/how-to-force-document-private-items-from-cargo-toml) - 2 votes
+* [If the same string literal appears in code twice does it appear in the executable once](https://stackoverflow.com/questions/74228163/if-the-same-string-literal-appears-in-code-twice-does-it-appear-in-the-executab) - 3 votes
+* [Understanding dependent lifetimes](https://stackoverflow.com/questions/74239949/understanding-dependent-lifetimes) - 2 votes
+* [Error on Post Method query_builderQueryFragment  query_builderQueryFragment](https://stackoverflow.com/questions/74230061/error-on-post-method-query-builderqueryfragment-query-builderqueryfragment) - 2 votes
+* [deno_runtime running multiple invokes on single worker concurrently](https://stackoverflow.com/questions/74221645/deno-runtime-running-multiple-invokes-on-single-worker-concurrently) - 2 votes
+* [Asynchronous Projections in Rust](https://stackoverflow.com/questions/74219579/asynchronous-projections-in-rust) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How Uvicorn workers works and how many do I need for a slim machine](https://stackoverflow.com/questions/74206034/how-uvicorn-workers-works-and-how-many-do-i-need-for-a-slim-machine) - 1 votes
+* [How to navigate through routes by clicking on HTML button using FastAPI and Jinja2 Templates](https://stackoverflow.com/questions/74237542/how-to-navigate-through-routes-by-clicking-on-html-button-using-fastapi-and-jinj) - 2 votes
+* [Webhook listener with FastAPI produces 422 Unprocessable Entity](https://stackoverflow.com/questions/74235378/webhook-listener-with-fastapi-produces-422-unprocessable-entity) - 1 votes
+* [FastAPI with uvicorn won39t allow thread usage to exceed 65](https://stackoverflow.com/questions/74229072/fastapi-with-uvicorn-wont-allow-thread-usage-to-exceed-65) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas Merging two df39s with different amount of rows](https://stackoverflow.com/questions/74221419/pandas-merging-two-dfs-with-different-amount-of-rows) - 3 votes
-* [Pandas split column if condition else null](https://stackoverflow.com/questions/74209153/pandas-split-column-if-condition-else-null) - 3 votes
-* [How to set a pandas PeriodIndex with yearly frequency](https://stackoverflow.com/questions/74215857/how-to-set-a-pandas-periodindex-with-yearly-frequency) - 3 votes
-* [groupby with condition  count  mean](https://stackoverflow.com/questions/74227476/groupby-with-condition-count-mean) - 3 votes
-* [Splitting Dates in a Dataframe into 2 separate Dataframes](https://stackoverflow.com/questions/74221572/splitting-dates-in-a-dataframe-into-2-separate-dataframes) - 2 votes
+* [groupby with condition  count  mean](https://stackoverflow.com/questions/74227476/groupby-with-condition-count-mean) - 5 votes
+* [Pandas Merging two df39s with different amount of rows](https://stackoverflow.com/questions/74221419/pandas-merging-two-dfs-with-different-amount-of-rows) - 4 votes
+* [Turning loop of string inputs from Excel into Python lists](https://stackoverflow.com/questions/74227813/turning-loop-of-string-inputs-from-excel-into-python-lists) - 3 votes
+* [How to pass a JSON or DICT into a dataframe with pandas](https://stackoverflow.com/questions/74228995/how-to-pass-a-json-or-dict-into-a-dataframe-with-pandas) - 3 votes
+* [How to merge 2 pandas Series](https://stackoverflow.com/questions/74230257/how-to-merge-2-pandas-series) - 3 votes
 <!-- pandas ends -->
 </td></tr></table>
 
