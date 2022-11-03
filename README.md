@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-11-02<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-11-03<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Debug print is causing stack overflow for a struct with field type stdrcRc](https://stackoverflow.com/questions/74271963/debug-print-is-causing-stack-overflow-for-a-struct-with-field-type-stdrcrc) - 5 votes
-* [How to add custom llvm pass into rustc](https://stackoverflow.com/questions/74271397/how-to-add-custom-llvm-pass-into-rustc) - 5 votes
 * [Copy reqwest bytes_stream in to tokio file](https://stackoverflow.com/questions/74283128/copy-reqwest-bytes-stream-in-to-tokio-file) - 3 votes
 * [return of generic when trait is not implemented](https://stackoverflow.com/questions/74283795/return-of-generic-when-trait-is-not-implemented) - 2 votes
-* [bind quotCannot assign request addressquot](https://stackoverflow.com/questions/74280276/bind-cannot-assign-request-address) - 2 votes
+* [Two mutable borrows from vector](https://stackoverflow.com/questions/74296700/two-mutable-borrows-from-vector) - 2 votes
+* [Why do I get a quotclosure implements FnMut so references to captured variables can39t escape the closurequot here](https://stackoverflow.com/questions/74296392/why-do-i-get-a-closure-implements-fnmut-so-references-to-captured-variables) - 2 votes
+* [How to put impl trait return value in struct without using a box](https://stackoverflow.com/questions/74292552/how-to-put-impl-trait-return-value-in-struct-without-using-a-box) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -26,11 +26,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-1
 
 ### pandas
 <!-- pandas starts -->
-* [How to extract city from dataframe column not same format](https://stackoverflow.com/questions/74275857/how-to-extract-city-from-dataframe-column-not-same-format) - 3 votes
+* [Can39t create a column in dataframe based on other columns Tried several options  none worked Python pandas](https://stackoverflow.com/questions/74299677/cant-create-a-column-in-dataframe-based-on-other-columns-tried-several-options) - 2 votes
+* [Update a column values based on two other column39s complex conditions](https://stackoverflow.com/questions/74297709/update-a-column-values-based-on-two-other-columns-complex-conditions) - 2 votes
+* [Mean value of 2 group by39s if value is not unique pandas](https://stackoverflow.com/questions/74290510/mean-value-of-2-group-bys-if-value-is-not-unique-pandas) - 2 votes
 * [rounding up time to last 30 mins interval](https://stackoverflow.com/questions/74288159/rounding-up-time-to-last-30-mins-interval) - 2 votes
 * [Extract a time and space variable from a moving ship from the ERA5 reanalysis](https://stackoverflow.com/questions/74283822/extract-a-time-and-space-variable-from-a-moving-ship-from-the-era5-reanalysis) - 2 votes
-* [Pandas iterate over a DataFrame to get the values from columns according to conditions and put them in a new DataFrame](https://stackoverflow.com/questions/74282411/pandas-iterate-over-a-dataframe-to-get-the-values-from-columns-according-to-cond) - 2 votes
-* [How to convert the dataframe column with delimiters into three columns](https://stackoverflow.com/questions/74293861/how-to-convert-the-dataframe-column-with-delimiters-into-three-columns) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
