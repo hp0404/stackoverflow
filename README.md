@@ -1,36 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-11-03<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-11-04<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Copy reqwest bytes_stream in to tokio file](https://stackoverflow.com/questions/74283128/copy-reqwest-bytes-stream-in-to-tokio-file) - 3 votes
-* [return of generic when trait is not implemented](https://stackoverflow.com/questions/74283795/return-of-generic-when-trait-is-not-implemented) - 2 votes
-* [Two mutable borrows from vector](https://stackoverflow.com/questions/74296700/two-mutable-borrows-from-vector) - 2 votes
-* [Why do I get a quotclosure implements FnMut so references to captured variables can39t escape the closurequot here](https://stackoverflow.com/questions/74296392/why-do-i-get-a-closure-implements-fnmut-so-references-to-captured-variables) - 2 votes
-* [How to put impl trait return value in struct without using a box](https://stackoverflow.com/questions/74292552/how-to-put-impl-trait-return-value-in-struct-without-using-a-box) - 2 votes
+* [When to use zerovariant enum over unitlike struct](https://stackoverflow.com/questions/74319276/when-to-use-zero-variant-enum-over-unit-like-struct) - 2 votes
+* [PhantomData seems not work for dropck in rust](https://stackoverflow.com/questions/74298794/phantomdata-seems-not-work-for-dropck-in-rust) - 2 votes
+* [Make returned Future Send if parameters are Send](https://stackoverflow.com/questions/74298792/make-returned-future-send-if-parameters-are-send) - 2 votes
+* [How to construct large const arrays in Rust without manually writing values to construct it](https://stackoverflow.com/questions/74320587/how-to-construct-large-const-arrays-in-rust-without-manually-writing-values-to-c) - 1 votes
+* [Create owned value on demand](https://stackoverflow.com/questions/74319909/create-owned-value-on-demand) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to add body content in RedirectResponse using FastAPIStarlette](https://stackoverflow.com/questions/74290776/how-to-add-body-content-in-redirectresponse-using-fastapi-starlette) - 1 votes
-* [How to unit test a pure ASGI middleware in python](https://stackoverflow.com/questions/74289869/how-to-unit-test-a-pure-asgi-middleware-in-python) - 1 votes
+* [How to change Pydantic default __root__ example](https://stackoverflow.com/questions/74319416/how-to-change-pydantic-default-root-example) - 1 votes
+* [How to send optional parameters using HTML checkboxes when uploading file to FastAPI](https://stackoverflow.com/questions/74307876/how-to-send-optional-parameters-using-html-checkboxes-when-uploading-file-to-fas) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [Get keys of dictionary based on rules](https://stackoverflow.com/questions/74310338/get-keys-of-dictionary-based-on-rules) - 3 votes
 * [Can39t create a column in dataframe based on other columns Tried several options  none worked Python pandas](https://stackoverflow.com/questions/74299677/cant-create-a-column-in-dataframe-based-on-other-columns-tried-several-options) - 2 votes
+* [Pandas add values from dictionary iteratively](https://stackoverflow.com/questions/74299708/pandas-add-values-from-dictionary-iteratively) - 2 votes
 * [Update a column values based on two other column39s complex conditions](https://stackoverflow.com/questions/74297709/update-a-column-values-based-on-two-other-columns-complex-conditions) - 2 votes
-* [Mean value of 2 group by39s if value is not unique pandas](https://stackoverflow.com/questions/74290510/mean-value-of-2-group-bys-if-value-is-not-unique-pandas) - 2 votes
-* [rounding up time to last 30 mins interval](https://stackoverflow.com/questions/74288159/rounding-up-time-to-last-30-mins-interval) - 2 votes
-* [Extract a time and space variable from a moving ship from the ERA5 reanalysis](https://stackoverflow.com/questions/74283822/extract-a-time-and-space-variable-from-a-moving-ship-from-the-era5-reanalysis) - 2 votes
+* [Print side by side describe in pandas](https://stackoverflow.com/questions/74303646/print-side-by-side-describe-in-pandas) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
