@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-11-06<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-11-07<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -9,17 +9,20 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-1
 <!-- rust starts -->
 * [How to return arrays from Rust functions without them being copied](https://stackoverflow.com/questions/74337581/how-to-return-arrays-from-rust-functions-without-them-being-copied) - 4 votes
 * [Deserialze quotCatch Allquot variant in tagged enum](https://stackoverflow.com/questions/74335385/deserialze-catch-all-variant-in-tagged-enum) - 3 votes
-* [Caching selfreferential function results in Rust](https://stackoverflow.com/questions/74325897/caching-self-referential-function-results-in-rust) - 2 votes
-* [Lifetime bounds between function arguments](https://stackoverflow.com/questions/74329035/lifetime-bounds-between-function-arguments) - 1 votes
-* [How to collect mongodbCursor into a Vec in rust](https://stackoverflow.com/questions/74330590/how-to-collect-mongodbcursor-into-a-vec-in-rust) - 1 votes
+* [Convert vector of type A to type B where A is convertible to B](https://stackoverflow.com/questions/74342563/convert-vector-of-type-a-to-type-b-where-a-is-convertible-to-b) - 1 votes
+* [Create quotaxisquot vectors as compiletime constants](https://stackoverflow.com/questions/74336474/create-axis-vectors-as-compile-time-constants) - 1 votes
+* [How do I treat a String as a File in Rust](https://stackoverflow.com/questions/74334341/how-do-i-treat-a-string-as-a-file-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
+* [Upload File operation using FastAPI does not work on Deta Cloud Platform](https://stackoverflow.com/questions/74344217/upload-file-operation-using-fastapi-does-not-work-on-deta-cloud-platform) - 1 votes
 * [How to return Pydantic model using Field aliases instead of names in FastAPI response](https://stackoverflow.com/questions/74332593/how-to-return-pydantic-model-using-field-aliases-instead-of-names-in-fastapi-res) - 1 votes
-* [How to inject data in handlebarjs with fastAPI](https://stackoverflow.com/questions/74326854/how-to-inject-data-in-handlebarjs-with-fastapi) - 1 votes
+* [How to handle suspicious access to EC2 servers](https://stackoverflow.com/questions/74346696/how-to-handle-suspicious-access-to-ec2-servers) - 1 votes
+* [FastAPI  quotTypeError issubclass arg 1 must be a classquot with modular imports](https://stackoverflow.com/questions/74346565/fastapi-typeerror-issubclass-arg-1-must-be-a-class-with-modular-imports) - 1 votes
+* [How to Deploy FastAPI on Azure App Service](https://stackoverflow.com/questions/74343574/how-to-deploy-fastapi-on-azure-app-service) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -27,10 +30,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-1
 ### pandas
 <!-- pandas starts -->
 * [Fastest way of filter index values based on list values from multiple columns in Pandas Dataframe](https://stackoverflow.com/questions/74336822/fastest-way-of-filter-index-values-based-on-list-values-from-multiple-columns-in) - 2 votes
-* [pandas group by and calculate result using values from the same column R equivalent included](https://stackoverflow.com/questions/74331861/pandas-group-by-and-calculate-result-using-values-from-the-same-column-r-equiva) - 2 votes
-* [Print summary of frequency of one column that requires two other columns in order to figure out](https://stackoverflow.com/questions/74325110/print-summary-of-frequency-of-one-column-that-requires-two-other-columns-in-orde) - 2 votes
+* [Legend for MultiIndex Dataframe Plot Does Not Match Plot](https://stackoverflow.com/questions/74351108/legend-for-multi-index-dataframe-plot-does-not-match-plot) - 2 votes
+* [Add categorical variable based on conditional selections  dataframe masks](https://stackoverflow.com/questions/74346292/add-categorical-variable-based-on-conditional-selections-dataframe-masks) - 2 votes
 * [How to convert json from url into pandas dataframe](https://stackoverflow.com/questions/74332985/how-to-convert-json-from-url-into-pandas-dataframe) - 1 votes
-* [Match update and replace values from one dataset to another in Pandas](https://stackoverflow.com/questions/74324785/match-update-and-replace-values-from-one-dataset-to-another-in-pandas) - 1 votes
+* [How to chain a list of items with an operator](https://stackoverflow.com/questions/74346985/how-to-chain-a-list-of-items-with-an-operator) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
