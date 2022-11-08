@@ -1,27 +1,27 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-11-07<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-11-08<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to return arrays from Rust functions without them being copied](https://stackoverflow.com/questions/74337581/how-to-return-arrays-from-rust-functions-without-them-being-copied) - 4 votes
-* [Deserialze quotCatch Allquot variant in tagged enum](https://stackoverflow.com/questions/74335385/deserialze-catch-all-variant-in-tagged-enum) - 3 votes
-* [Convert vector of type A to type B where A is convertible to B](https://stackoverflow.com/questions/74342563/convert-vector-of-type-a-to-type-b-where-a-is-convertible-to-b) - 1 votes
-* [Create quotaxisquot vectors as compiletime constants](https://stackoverflow.com/questions/74336474/create-axis-vectors-as-compile-time-constants) - 1 votes
-* [How do I treat a String as a File in Rust](https://stackoverflow.com/questions/74334341/how-do-i-treat-a-string-as-a-file-in-rust) - 1 votes
+* [Safely converting a 1D slice into a 2D slice](https://stackoverflow.com/questions/74359561/safely-converting-a-1d-slice-into-a-2d-slice) - 4 votes
+* [Rust feature flag for functon parameters](https://stackoverflow.com/questions/74359522/rust-feature-flag-for-functon-parameters) - 2 votes
+* [Is there someway to access the windows recent folder with rust](https://stackoverflow.com/questions/74358161/is-there-someway-to-access-the-windows-recent-folder-with-rust) - 2 votes
+* [How to get macros usage not included in Rust code overage](https://stackoverflow.com/questions/74366311/how-to-get-macros-usage-not-included-in-rust-code-overage) - 2 votes
+* [What should the default value of this match statement be also is there a way to unwrap a Some case chess in rust](https://stackoverflow.com/questions/74354481/what-should-the-default-value-of-this-match-statement-be-also-is-there-a-way-to) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Upload File operation using FastAPI does not work on Deta Cloud Platform](https://stackoverflow.com/questions/74344217/upload-file-operation-using-fastapi-does-not-work-on-deta-cloud-platform) - 1 votes
-* [How to return Pydantic model using Field aliases instead of names in FastAPI response](https://stackoverflow.com/questions/74332593/how-to-return-pydantic-model-using-field-aliases-instead-of-names-in-fastapi-res) - 1 votes
-* [How to handle suspicious access to EC2 servers](https://stackoverflow.com/questions/74346696/how-to-handle-suspicious-access-to-ec2-servers) - 1 votes
 * [FastAPI  quotTypeError issubclass arg 1 must be a classquot with modular imports](https://stackoverflow.com/questions/74346565/fastapi-typeerror-issubclass-arg-1-must-be-a-class-with-modular-imports) - 1 votes
+* [Upload File operation using FastAPI does not work on Deta Cloud Platform](https://stackoverflow.com/questions/74344217/upload-file-operation-using-fastapi-does-not-work-on-deta-cloud-platform) - 1 votes
+* [FastAPI JSON List in Body raises 39There was an error parsing the body39](https://stackoverflow.com/questions/74365853/fastapi-json-list-in-body-raises-there-was-an-error-parsing-the-body) - 1 votes
+* [How to handle suspicious access to EC2 servers](https://stackoverflow.com/questions/74346696/how-to-handle-suspicious-access-to-ec2-servers) - 1 votes
 * [How to Deploy FastAPI on Azure App Service](https://stackoverflow.com/questions/74343574/how-to-deploy-fastapi-on-azure-app-service) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
@@ -29,11 +29,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-1
 
 ### pandas
 <!-- pandas starts -->
-* [Fastest way of filter index values based on list values from multiple columns in Pandas Dataframe](https://stackoverflow.com/questions/74336822/fastest-way-of-filter-index-values-based-on-list-values-from-multiple-columns-in) - 2 votes
-* [Legend for MultiIndex Dataframe Plot Does Not Match Plot](https://stackoverflow.com/questions/74351108/legend-for-multi-index-dataframe-plot-does-not-match-plot) - 2 votes
-* [Add categorical variable based on conditional selections  dataframe masks](https://stackoverflow.com/questions/74346292/add-categorical-variable-based-on-conditional-selections-dataframe-masks) - 2 votes
-* [How to convert json from url into pandas dataframe](https://stackoverflow.com/questions/74332985/how-to-convert-json-from-url-into-pandas-dataframe) - 1 votes
-* [How to chain a list of items with an operator](https://stackoverflow.com/questions/74346985/how-to-chain-a-list-of-items-with-an-operator) - 1 votes
+* [Get percentage of occurrence of each value for certain columns](https://stackoverflow.com/questions/74360397/get-percentage-of-occurrence-of-each-value-for-certain-columns) - 2 votes
+* [pandas get time delta between two conditions per group](https://stackoverflow.com/questions/74357420/pandas-get-time-delta-between-two-conditions-per-group) - 2 votes
+* [Pandas Dataframe to Tuple Dictionary](https://stackoverflow.com/questions/74365375/pandas-dataframe-to-tuple-dictionary) - 2 votes
+* [How to add function to multi columns](https://stackoverflow.com/questions/74355715/how-to-add-function-to-multi-columns) - 2 votes
+* [Pandas  head to head score counting](https://stackoverflow.com/questions/74352633/pandas-head-to-head-score-counting) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
