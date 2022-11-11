@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-11-10<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-11-11<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,30 +8,30 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-1
 ### rust
 <!-- rust starts -->
 * [How to use feature flag in Rust to capture multiple lines of code](https://stackoverflow.com/questions/74389576/how-to-use-feature-flag-in-rust-to-capture-multiple-lines-of-code) - 2 votes
+* [Two lists in a list of struct in Polars](https://stackoverflow.com/questions/74394222/two-lists-in-a-list-of-struct-in-polars) - 2 votes
+* [Empty rust file creates massive WASM build](https://stackoverflow.com/questions/74393242/empty-rust-file-creates-massive-wasm-build) - 2 votes
+* [How to have seedable RNG in parallel in rust](https://stackoverflow.com/questions/74398788/how-to-have-seedable-rng-in-parallel-in-rust) - 2 votes
 * [Concatenate a slice of ampstrs into an owned String](https://stackoverflow.com/questions/74383394/concatenate-a-slice-of-strs-into-an-owned-string) - 1 votes
-* [How to wrap Result error in Some when using  operator](https://stackoverflow.com/questions/74393069/how-to-wrap-result-error-in-some-when-using-operator) - 1 votes
-* [Implement the recursive insert method of binary search tree in RUST](https://stackoverflow.com/questions/74371597/implement-the-recursive-insert-method-of-binary-search-tree-in-rust) - 1 votes
-* [f64 operation gives different results depending on environments](https://stackoverflow.com/questions/74371210/f64-operation-gives-different-results-depending-on-environments) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to LISTENGET for updated data to send to subscribed websocket clients using FastAPI](https://stackoverflow.com/questions/74369127/how-to-listen-get-for-updated-data-to-send-to-subscribed-websocket-clients-using) - 2 votes
-* [How to ensure that the timezone is entered in the ISO UTC format within the request body](https://stackoverflow.com/questions/74379605/how-to-ensure-that-the-timezone-is-entered-in-the-iso-utc-format-within-the-requ) - 1 votes
-* [How to display drop down item based on other drop down field in Swagger UI using FastAPI](https://stackoverflow.com/questions/74375726/how-to-display-drop-down-item-based-on-other-drop-down-field-in-swagger-ui-using) - 1 votes
+* [Display HTMLResponse content nicely not raw HTML in Swagger UI with FastAPI](https://stackoverflow.com/questions/74399181/display-htmlresponse-content-nicely-not-raw-html-in-swagger-ui-with-fastapi) - 1 votes
+* [Fastapi Simple api call sometime gives back Failed to fetch](https://stackoverflow.com/questions/74402259/fastapi-simple-api-call-sometime-gives-back-failed-to-fetch) - 1 votes
+* [Is it alright to use multiple backend frameworks with one database in a virtual machine](https://stackoverflow.com/questions/74392028/is-it-alright-to-use-multiple-backend-frameworks-with-one-database-in-a-virtual) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [Pandas groupby two columns and expand the third](https://stackoverflow.com/questions/74401537/pandas-groupby-two-columns-and-expand-the-third) - 7 votes
 * [Group by dataframe using python and pandas](https://stackoverflow.com/questions/74385812/group-by-dataframe-using-python-and-pandas) - 3 votes
 * [Pandas transform list values and their column names](https://stackoverflow.com/questions/74389607/pandas-transform-list-values-and-their-column-names) - 2 votes
 * [How to merge two datasets on incomplete columns](https://stackoverflow.com/questions/74388723/how-to-merge-two-datasets-on-incomplete-columns) - 2 votes
-* [How to efficiently iterate to create a new dataframe from old dataframe with iterrows or itertuples](https://stackoverflow.com/questions/74386524/how-to-efficiently-iterate-to-create-a-new-dataframe-from-old-dataframe-with-ite) - 2 votes
-* [Pandas groupby sales item and count sales per month in column](https://stackoverflow.com/questions/74375323/pandas-groupby-sales-item-and-count-sales-per-month-in-column) - 2 votes
+* [How to indicate count of values in categorical column in Pandas Python](https://stackoverflow.com/questions/74403721/how-to-indicate-count-of-values-in-categorical-column-in-pandas-python) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
