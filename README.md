@@ -1,36 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-11-12<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-11-13<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why is it possible to move from a field of an immutable struct](https://stackoverflow.com/questions/74408321/why-is-it-possible-to-move-from-a-field-of-an-immutable-struct) - 2 votes
-* [How to have seedable RNG in parallel in rust](https://stackoverflow.com/questions/74398788/how-to-have-seedable-rng-in-parallel-in-rust) - 2 votes
-* [Moving something that is in scope of a reference when those references will go out of scope immediately after the move](https://stackoverflow.com/questions/74413063/moving-something-that-is-in-scope-of-a-reference-when-those-references-will-go-o) - 1 votes
-* [Rust does VecltTgt auto convert to T](https://stackoverflow.com/questions/74410738/rust-does-vect-auto-convert-to-t) - 1 votes
-* [Keeping track of a child struct who called a method in Rust](https://stackoverflow.com/questions/74408718/keeping-track-of-a-child-struct-who-called-a-method-in-rust) - 1 votes
+* [Is there a better way to chain strings together than multiple push_str calls](https://stackoverflow.com/questions/74417019/is-there-a-better-way-to-chain-strings-together-than-multiple-push-str-calls) - 4 votes
+* [Optimizing reading a Vec of custom types](https://stackoverflow.com/questions/74416936/optimizing-reading-a-vec-of-custom-types) - 3 votes
+* [Mutable reference inside future from outer function](https://stackoverflow.com/questions/74423128/mutable-reference-inside-future-from-outer-function) - 2 votes
+* [Rocket rust unprocessable entity returning json errors](https://stackoverflow.com/questions/74423528/rocket-rust-unprocessable-entity-returning-json-errors) - 2 votes
+* [How do you run groups of test by directory or regular expression in Rust](https://stackoverflow.com/questions/74421681/how-do-you-run-groups-of-test-by-directory-or-regular-expression-in-rust) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Display HTMLResponse content nicely not raw HTML in Swagger UI with FastAPI](https://stackoverflow.com/questions/74399181/display-htmlresponse-content-nicely-not-raw-html-in-swagger-ui-with-fastapi) - 1 votes
-* [Fastapi Simple api call sometime gives back Failed to fetch](https://stackoverflow.com/questions/74402259/fastapi-simple-api-call-sometime-gives-back-failed-to-fetch) - 1 votes
+* [How to Use Pyshark to Read a pcapng file39s content directly from memory instead of from disk](https://stackoverflow.com/questions/74417838/how-to-use-pyshark-to-read-a-pcapng-files-content-directly-from-memory-instead) - 1 votes
+* [SSE and sqlalchemy events](https://stackoverflow.com/questions/74420196/sse-and-sqlalchemy-events) - 1 votes
+* [Receive data from HTML forms in fastapi](https://stackoverflow.com/questions/74418611/receive-data-from-html-forms-in-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas groupby two columns and expand the third](https://stackoverflow.com/questions/74401537/pandas-groupby-two-columns-and-expand-the-third) - 7 votes
+* [How to check timestamps and day period then drop mismatch](https://stackoverflow.com/questions/74418107/how-to-check-timestamps-and-day-period-then-drop-mismatch) - 3 votes
 * [Hi I am trying to replicate sumif function in excel for python dataframe with specific column value](https://stackoverflow.com/questions/74410292/hi-i-am-trying-to-replicate-sumif-function-in-excel-for-python-dataframe-with-s) - 3 votes
-* [TypeError unhashable type 39list39 when I try to do a pivot from a column in pandas](https://stackoverflow.com/questions/74412116/typeerror-unhashable-type-list-when-i-try-to-do-a-pivot-from-a-column-in-pan) - 2 votes
-* [select randomly rows from a dataframe based on a column value](https://stackoverflow.com/questions/74406034/select-randomly-rows-from-a-dataframe-based-on-a-column-value) - 2 votes
-* [How to indicate count of values in categorical column in Pandas Python](https://stackoverflow.com/questions/74403721/how-to-indicate-count-of-values-in-categorical-column-in-pandas-python) - 2 votes
+* [How to convert binary columns with multiple occurrences into categorical data in Pandas](https://stackoverflow.com/questions/74417556/how-to-convert-binary-columns-with-multiple-occurrences-into-categorical-data-in) - 2 votes
+* [Import CSV with every row containing the column headers](https://stackoverflow.com/questions/74413770/import-csv-with-every-row-containing-the-column-headers) - 2 votes
+* [Reading sav with python](https://stackoverflow.com/questions/74410261/reading-sav-with-python) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
