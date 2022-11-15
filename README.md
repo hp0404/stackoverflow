@@ -1,39 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-11-14<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-11-15<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Mutable reference inside future from outer function](https://stackoverflow.com/questions/74423128/mutable-reference-inside-future-from-outer-function) - 3 votes
+* [rust  all  return false on empty iter](https://stackoverflow.com/questions/74427396/rust-all-return-false-on-empty-iter) - 2 votes
+* [Implement stricter requirements than in trait](https://stackoverflow.com/questions/74449099/implement-stricter-requirements-than-in-trait) - 2 votes
 * [Body of http request is received as quotraw dataquot](https://stackoverflow.com/questions/74436552/body-of-http-request-is-received-as-raw-data) - 2 votes
-* [Rocket rust unprocessable entity returning json errors](https://stackoverflow.com/questions/74423528/rocket-rust-unprocessable-entity-returning-json-errors) - 2 votes
-* [How do you run groups of test by directory or regular expression in Rust](https://stackoverflow.com/questions/74421681/how-do-you-run-groups-of-test-by-directory-or-regular-expression-in-rust) - 2 votes
-* [Problem with trait object storing its reference elsewhere](https://stackoverflow.com/questions/74419659/problem-with-trait-object-storing-its-reference-elsewhere) - 2 votes
+* [What is take doing here and why do I need it](https://stackoverflow.com/questions/74447816/what-is-take-doing-here-and-why-do-i-need-it) - 1 votes
+* [Wild card and destructuring of enums in Rust](https://stackoverflow.com/questions/74447526/wild-card-and-destructuring-of-enums-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to Use Pyshark to Read a pcapng file39s content directly from memory instead of from disk](https://stackoverflow.com/questions/74417838/how-to-use-pyshark-to-read-a-pcapng-files-content-directly-from-memory-instead) - 1 votes
 * [Python importing from beyond top level](https://stackoverflow.com/questions/74430146/python-importing-from-beyond-top-level) - 1 votes
 * [FastAPI  quotmsgquot quotvalue is not a valid dictquot in schema request](https://stackoverflow.com/questions/74426590/fastapi-msg-value-is-not-a-valid-dict-in-schema-request) - 1 votes
-* [SSE and sqlalchemy events](https://stackoverflow.com/questions/74420196/sse-and-sqlalchemy-events) - 1 votes
-* [Receive data from HTML forms in fastapi](https://stackoverflow.com/questions/74418611/receive-data-from-html-forms-in-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How to check timestamps and day period then drop mismatch](https://stackoverflow.com/questions/74418107/how-to-check-timestamps-and-day-period-then-drop-mismatch) - 3 votes
-* [How to merge two time series dataframes with different end dates and keep the longer end date](https://stackoverflow.com/questions/74425097/how-to-merge-two-time-series-dataframes-with-different-end-dates-and-keep-the-lo) - 2 votes
-* [Pandas iloc not working with index range](https://stackoverflow.com/questions/74421793/pandas-iloc-not-working-with-index-range) - 2 votes
-* [How to convert binary columns with multiple occurrences into categorical data in Pandas](https://stackoverflow.com/questions/74417556/how-to-convert-binary-columns-with-multiple-occurrences-into-categorical-data-in) - 2 votes
-* [only integer scalar arrays can be converted to a scalar index numpy](https://stackoverflow.com/questions/74435359/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index-numpy) - 2 votes
+* [Pandas copying values of a certain row based on a different column](https://stackoverflow.com/questions/74439252/pandas-copying-values-of-a-certain-row-based-on-a-different-column) - 5 votes
+* [How to keep a cumulative count of changes across row elements ignoring NaNs and creating a separate column with the results](https://stackoverflow.com/questions/74450526/how-to-keep-a-cumulative-count-of-changes-across-row-elements-ignoring-nans-an) - 2 votes
+* [How to transfer values from multiple columns to other columns using Pandas](https://stackoverflow.com/questions/74441383/how-to-transfer-values-from-multiple-columns-to-other-columns-using-pandas) - 2 votes
+* [get the named index in nlargest operation in pandas](https://stackoverflow.com/questions/74440466/get-the-named-index-in-nlargest-operation-in-pandas) - 2 votes
+* [Drop rows WHERE date is a certain condition Pandas](https://stackoverflow.com/questions/74438906/drop-rows-where-date-is-a-certain-condition-pandas) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
