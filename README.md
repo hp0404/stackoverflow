@@ -1,15 +1,15 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-11-20<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-11-21<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Rust implementation of split_at_mut](https://stackoverflow.com/questions/74500078/rust-implementation-of-split-at-mut) - 4 votes
+* [Why associated types in rust need explicit lifetime annotation](https://stackoverflow.com/questions/74519011/why-associated-types-in-rust-need-explicit-lifetime-annotation) - 4 votes
+* [How do guards affect match statements](https://stackoverflow.com/questions/74515581/how-do-guards-affect-match-statements) - 3 votes
 * [Dealing with Options and defaults when parsing in TOML structs with RustSerde](https://stackoverflow.com/questions/74508969/dealing-with-options-and-defaults-when-parsing-in-toml-structs-with-rustserde) - 3 votes
-* [Why can an integer variable still be used after assigning it to another variable](https://stackoverflow.com/questions/74503570/why-can-an-integer-variable-still-be-used-after-assigning-it-to-another-variable) - 2 votes
 * [You cant borrow a mutable reference to a readonly value](https://stackoverflow.com/questions/74507763/you-can-t-borrow-a-mutable-reference-to-a-read-only-value) - 2 votes
 * [How to read HttpRequest body](https://stackoverflow.com/questions/74505207/how-to-read-httprequest-body) - 2 votes
 <!-- rust ends -->
@@ -21,19 +21,19 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-1
 * [FastAPI returns quotError 422 Unprocessable entityquot when I send multipart form data with JavaScript Fetch API](https://stackoverflow.com/questions/74507306/fastapi-returns-error-422-unprocessable-entity-when-i-send-multipart-form-dat) - 2 votes
 * [RuntimeError error checking inheritance of module 39datetime39](https://stackoverflow.com/questions/74510774/runtimeerror-error-checking-inheritance-of-module-datetime) - 1 votes
 * [What39s the difference between FastAPI background tasks and Celery tasks](https://stackoverflow.com/questions/74508774/whats-the-difference-between-fastapi-background-tasks-and-celery-tasks) - 1 votes
+* [How to stop FastAPI app after raising an Exception](https://stackoverflow.com/questions/74517267/how-to-stop-fastapi-app-after-raising-an-exception) - 1 votes
 * [how to request formdata as well as image together in fastapi](https://stackoverflow.com/questions/74511658/how-to-request-formdata-as-well-as-image-together-in-fastapi) - 1 votes
-* [How to define multiple API endpoints in FastAPI with different paths but the same path parameter](https://stackoverflow.com/questions/74498191/how-to-define-multiple-api-endpoints-in-fastapi-with-different-paths-but-the-sam) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Using Pandas to dynamically replace values found in other columns](https://stackoverflow.com/questions/74502929/using-pandas-to-dynamically-replace-values-found-in-other-columns) - 3 votes
 * [Python Pandas calculate standard deviation excluding current group with vectorization solution](https://stackoverflow.com/questions/74508088/python-pandas-calculate-standard-deviation-excluding-current-group-with-vectori) - 3 votes
-* [fetch the first nonzero entry for each column and record the corresponding index value](https://stackoverflow.com/questions/74499023/fetch-the-first-nonzero-entry-for-each-column-and-record-the-corresponding-index) - 2 votes
-* [Create DataFrame column with pairwise Last In First Out method as condition](https://stackoverflow.com/questions/74501233/create-dataframe-column-with-pairwise-last-in-first-out-method-as-condition) - 2 votes
-* [Unable to process large amount of data using for loop](https://stackoverflow.com/questions/74498448/unable-to-process-large-amount-of-data-using-for-loop) - 2 votes
+* [What is the most Pythonic way to dynamically create a DataFrame containing person age in month](https://stackoverflow.com/questions/74523929/what-is-the-most-pythonic-way-to-dynamically-create-a-dataframe-containing-perso) - 2 votes
+* [How can I overwrite a mapping of a column based on its current value and value of two other columns](https://stackoverflow.com/questions/74521148/how-can-i-overwrite-a-mapping-of-a-column-based-on-its-current-value-and-value-o) - 2 votes
+* [How to add emptydummy row with continuous datetime index in pandas](https://stackoverflow.com/questions/74516628/how-to-add-empty-dummy-row-with-continuous-datetime-index-in-pandas) - 2 votes
+* [How to reate a dataframe based on excel sheet name and cell position](https://stackoverflow.com/questions/74514966/how-to-reate-a-dataframe-based-on-excel-sheet-name-and-cell-position) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
