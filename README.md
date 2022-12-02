@@ -1,38 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-12-01<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-12-02<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Data inheritance in rust](https://stackoverflow.com/questions/74643043/data-inheritance-in-rust) - 2 votes
+* [Borrow held longer than expected when returning ampstr but not for String](https://stackoverflow.com/questions/74646866/borrow-held-longer-than-expected-when-returning-str-but-not-for-string) - 2 votes
 * [Conditional compilation based on if name exists](https://stackoverflow.com/questions/74642159/conditional-compilation-based-on-if-name-exists) - 2 votes
-* [Is it valid to store a reference whose lifetime has expired if the referenced object is still alive](https://stackoverflow.com/questions/74629172/is-it-valid-to-store-a-reference-whose-lifetime-has-expired-if-the-referenced-o) - 2 votes
-* [Borrowing in Rust closure](https://stackoverflow.com/questions/74633423/borrowing-in-rust-closure) - 1 votes
-* [PineMap quotstill borrowedquot even after end of main](https://stackoverflow.com/questions/74636442/pinemap-still-borrowed-even-after-end-of-main) - 1 votes
+* [Data inheritance in rust](https://stackoverflow.com/questions/74643043/data-inheritance-in-rust) - 2 votes
+* [Boxed trait object is still an unknown size](https://stackoverflow.com/questions/74656761/boxed-trait-object-is-still-an-unknown-size) - 1 votes
+* [Why does inner variable borrow outer variable for longer than the inner variable is in scope](https://stackoverflow.com/questions/74644342/why-does-inner-variable-borrow-outer-variable-for-longer-than-the-inner-variable) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How do I validate a JWT that39s sent as an HttpOnly cookie in FastAPI](https://stackoverflow.com/questions/74634957/how-do-i-validate-a-jwt-thats-sent-as-an-httponly-cookie-in-fastapi) - 1 votes
-* [Pydantic create_model method not contain ForeignKeyField of a model](https://stackoverflow.com/questions/74642847/pydantic-create-model-method-not-contain-foreignkeyfield-of-a-model) - 1 votes
+* [FastAPI decorators on endpoint](https://stackoverflow.com/questions/74647143/fastapi-decorators-on-endpoint) - 1 votes
+* [Running Python FastAPI using IIS encounter quotNo Python at 39CUsersAdministratorAppDataLocalProgramsPythonPython39pythonexe39quot](https://stackoverflow.com/questions/74653860/running-python-fastapi-using-iis-encounter-no-python-at-c-users-administrator) - 1 votes
+* [Decorator WITH arguments for FastAPI endpoint](https://stackoverflow.com/questions/74652763/decorator-with-arguments-for-fastapi-endpoint) - 1 votes
+* [Tortoise pydantic_model_creator method not contain ForeignKeyField of a model](https://stackoverflow.com/questions/74642847/tortoise-pydantic-model-creator-method-not-contain-foreignkeyfield-of-a-model) - 1 votes
 * [Open Api Spec dynamic default value](https://stackoverflow.com/questions/74642667/open-api-spec-dynamic-default-value) - 1 votes
-* [Pytest mock fastapiDepends upon direct function call](https://stackoverflow.com/questions/74630659/pytest-mock-fastapi-depends-upon-direct-function-call) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How do I replace column values of a dataframe with values of another dataframe based on a common column](https://stackoverflow.com/questions/74622022/how-do-i-replace-column-values-of-a-dataframe-with-values-of-another-dataframe-b) - 2 votes
+* [Group columns if coordinates are not more distant than a threshold](https://stackoverflow.com/questions/74653913/group-columns-if-coordinates-are-not-more-distant-than-a-threshold) - 3 votes
+* [Substract 2 Columns and show the current Value on a new one](https://stackoverflow.com/questions/74647640/substract-2-columns-and-show-the-current-value-on-a-new-one) - 2 votes
+* [Write quotnullquot if column doesn39t exist with KeyError quot39Column39 not in indexquot in dfto_csv](https://stackoverflow.com/questions/74657789/write-null-if-column-doesnt-exist-with-keyerror-column-not-in-index-in) - 2 votes
 * [Calculate by how much a row has shifted horizontally in pandas dataframe](https://stackoverflow.com/questions/74641344/calculate-by-how-much-a-row-has-shifted-horizontally-in-pandas-dataframe) - 2 votes
-* [How can I add a new column to a dataframe with a lookup to the same column 1 rows above](https://stackoverflow.com/questions/74632426/how-can-i-add-a-new-column-to-a-dataframe-with-a-lookup-to-the-same-column-1-r) - 2 votes
-* [Evenly spaced series of values from a list of timestamp value tuples](https://stackoverflow.com/questions/74627527/evenly-spaced-series-of-values-from-a-list-of-timestamp-value-tuples) - 1 votes
-* [Fill in values in other columns based on missing dates in another columns  Pandas](https://stackoverflow.com/questions/74645693/fill-in-values-in-other-columns-based-on-missing-dates-in-another-columns-pand) - 1 votes
+* [Pandas window aggregation two sorted tables](https://stackoverflow.com/questions/74654693/pandas-window-aggregation-two-sorted-tables) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
