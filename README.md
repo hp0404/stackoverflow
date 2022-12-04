@@ -1,37 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-12-03<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-12-04<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Rust doesn39t get it when a reference is no longer borrowed](https://stackoverflow.com/questions/74679510/rust-doesnt-get-it-when-a-reference-is-no-longer-borrowed) - 3 votes
+* [Odd HashMap lifetime requirement on key when value is a new type wrapper](https://stackoverflow.com/questions/74669097/odd-hashmap-lifetime-requirement-on-key-when-value-is-a-new-type-wrapper) - 2 votes
+* [How do I use collectltHashSetlt_gtgtintersection without the values becoming borrowed](https://stackoverflow.com/questions/74679122/how-do-i-use-collecthashset-intersection-without-the-values-becoming-bo) - 2 votes
+* [Can39t assign stdstrChars to a variable of type I Iterator](https://stackoverflow.com/questions/74673827/cant-assign-stdstrchars-to-a-variable-of-type-i-iterator) - 1 votes
 * [Make Boxltdyn IteratorltItem  u8gtgt peekable](https://stackoverflow.com/questions/74669017/make-boxdyn-iteratoritem-u8-peekable) - 1 votes
-* [Boxed trait object is still an unknown size](https://stackoverflow.com/questions/74656761/boxed-trait-object-is-still-an-unknown-size) - 1 votes
-* [How to serialize optional vector of DateTime object in Rust](https://stackoverflow.com/questions/74667250/how-to-serialize-optional-vector-of-datetime-object-in-rust) - 1 votes
-* [Visual Studio Code distorts ANSI characters](https://stackoverflow.com/questions/74665076/visual-studio-code-distorts-ansi-characters) - 1 votes
-* [How to atomically access multiple things that might be held by the same locks](https://stackoverflow.com/questions/74663192/how-to-atomically-access-multiple-things-that-might-be-held-by-the-same-locks) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Add a custom javascript to the FastAPI Swagger UI docs webpage in Python](https://stackoverflow.com/questions/74661044/add-a-custom-javascript-to-the-fastapi-swagger-ui-docs-webpage-in-python) - 2 votes
-* [Running Python FastAPI using IIS encounter quotNo Python at 39CUsersAdministratorAppDataLocalProgramsPythonPython39pythonexe39quot](https://stackoverflow.com/questions/74653860/running-python-fastapi-using-iis-encounter-no-python-at-c-users-administrator) - 1 votes
-* [Decorator WITH arguments for FastAPI endpoint](https://stackoverflow.com/questions/74652763/decorator-with-arguments-for-fastapi-endpoint) - 1 votes
+* [python FastAPI websocket Popen  print device stdout works but stdout to websocket client doesn39t](https://stackoverflow.com/questions/74671794/python-fastapi-websocket-popen-print-device-stdout-works-but-stdout-to-webso) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Group columns if coordinates are not more distant than a threshold](https://stackoverflow.com/questions/74653913/group-columns-if-coordinates-are-not-more-distant-than-a-threshold) - 3 votes
-* [Replace values from second row onwards in a pandas pipe method](https://stackoverflow.com/questions/74659122/replace-values-from-second-row-onwards-in-a-pandas-pipe-method) - 2 votes
+* [How to count cells that are within 2 values in a range of cells in a pandas dataframe](https://stackoverflow.com/questions/74673689/how-to-count-cells-that-are-within-2-values-in-a-range-of-cells-in-a-pandas-dat) - 3 votes
 * [Unable to load tables with quotLoad morequot options in a website using Python](https://stackoverflow.com/questions/74668149/unable-to-load-tables-with-load-more-options-in-a-website-using-python) - 2 votes
-* [Write quotnullquot if column doesn39t exist with KeyError quot39Column39 not in indexquot in dfto_csv](https://stackoverflow.com/questions/74657789/write-null-if-column-doesnt-exist-with-keyerror-column-not-in-index-in) - 2 votes
-* [Pandas window aggregation two sorted tables](https://stackoverflow.com/questions/74654693/pandas-window-aggregation-two-sorted-tables) - 2 votes
+* [Transform and fill a dataframe depending on occurence of values within the dataframe](https://stackoverflow.com/questions/74674654/transform-and-fill-a-dataframe-depending-on-occurence-of-values-within-the-dataf) - 1 votes
+* [Select column containing several value with range of number in pandas](https://stackoverflow.com/questions/74667993/select-column-containing-several-value-with-range-of-number-in-pandas) - 1 votes
+* [Python webscraping problem  arrays length](https://stackoverflow.com/questions/74680506/python-webscraping-problem-arrays-length) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
