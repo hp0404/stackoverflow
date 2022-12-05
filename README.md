@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-12-04<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-12-05<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,17 +8,19 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-1
 ### rust
 <!-- rust starts -->
 * [Rust doesn39t get it when a reference is no longer borrowed](https://stackoverflow.com/questions/74679510/rust-doesnt-get-it-when-a-reference-is-no-longer-borrowed) - 3 votes
-* [Odd HashMap lifetime requirement on key when value is a new type wrapper](https://stackoverflow.com/questions/74669097/odd-hashmap-lifetime-requirement-on-key-when-value-is-a-new-type-wrapper) - 2 votes
 * [How do I use collectltHashSetlt_gtgtintersection without the values becoming borrowed](https://stackoverflow.com/questions/74679122/how-do-i-use-collecthashset-intersection-without-the-values-becoming-bo) - 2 votes
+* [How to make rust macro optional token produce code when not present](https://stackoverflow.com/questions/74681630/how-to-make-rust-macro-optional-token-produce-code-when-not-present) - 1 votes
 * [Can39t assign stdstrChars to a variable of type I Iterator](https://stackoverflow.com/questions/74673827/cant-assign-stdstrchars-to-a-variable-of-type-i-iterator) - 1 votes
-* [Make Boxltdyn IteratorltItem  u8gtgt peekable](https://stackoverflow.com/questions/74669017/make-boxdyn-iteratoritem-u8-peekable) - 1 votes
+* [Traits Borrows and References in Rust](https://stackoverflow.com/questions/74684114/traits-borrows-and-references-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [python FastAPI websocket Popen  print device stdout works but stdout to websocket client doesn39t](https://stackoverflow.com/questions/74671794/python-fastapi-websocket-popen-print-device-stdout-works-but-stdout-to-webso) - 1 votes
+* [Is using FastAPI with sync threads a good practice for a high scale application](https://stackoverflow.com/questions/74685375/is-using-fastapi-with-sync-threads-a-good-practice-for-a-high-scale-application) - 6 votes
+* [Overriding FastAPI dependencies that have parameters](https://stackoverflow.com/questions/74689457/overriding-fastapi-dependencies-that-have-parameters) - 2 votes
+* [422 Unprocessable Entity](https://stackoverflow.com/questions/74681910/422-unprocessable-entity) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -26,10 +28,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-1
 ### pandas
 <!-- pandas starts -->
 * [How to count cells that are within 2 values in a range of cells in a pandas dataframe](https://stackoverflow.com/questions/74673689/how-to-count-cells-that-are-within-2-values-in-a-range-of-cells-in-a-pandas-dat) - 3 votes
-* [Unable to load tables with quotLoad morequot options in a website using Python](https://stackoverflow.com/questions/74668149/unable-to-load-tables-with-load-more-options-in-a-website-using-python) - 2 votes
-* [Transform and fill a dataframe depending on occurence of values within the dataframe](https://stackoverflow.com/questions/74674654/transform-and-fill-a-dataframe-depending-on-occurence-of-values-within-the-dataf) - 1 votes
-* [Select column containing several value with range of number in pandas](https://stackoverflow.com/questions/74667993/select-column-containing-several-value-with-range-of-number-in-pandas) - 1 votes
-* [Python webscraping problem  arrays length](https://stackoverflow.com/questions/74680506/python-webscraping-problem-arrays-length) - 1 votes
+* [Pandas Resample a dataframe given a list of indexes that are not evenly spaces](https://stackoverflow.com/questions/74689284/pandas-resample-a-dataframe-given-a-list-of-indexes-that-are-not-evenly-spaces) - 2 votes
+* [How to use loc over a column with lists](https://stackoverflow.com/questions/74685980/how-to-use-loc-over-a-column-with-lists) - 2 votes
+* [How does pandas to_dict deal with key npnan and None](https://stackoverflow.com/questions/74693931/how-does-pandas-to-dict-deal-with-key-np-nan-and-none) - 2 votes
+* [Pandas Merge multiple rows into one row](https://stackoverflow.com/questions/74693265/pandas-merge-multiple-rows-into-one-row) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
