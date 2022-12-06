@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-12-05<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-12-06<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Rust doesn39t get it when a reference is no longer borrowed](https://stackoverflow.com/questions/74679510/rust-doesnt-get-it-when-a-reference-is-no-longer-borrowed) - 3 votes
-* [How do I use collectltHashSetlt_gtgtintersection without the values becoming borrowed](https://stackoverflow.com/questions/74679122/how-do-i-use-collecthashset-intersection-without-the-values-becoming-bo) - 2 votes
-* [How to make rust macro optional token produce code when not present](https://stackoverflow.com/questions/74681630/how-to-make-rust-macro-optional-token-produce-code-when-not-present) - 1 votes
-* [Can39t assign stdstrChars to a variable of type I Iterator](https://stackoverflow.com/questions/74673827/cant-assign-stdstrchars-to-a-variable-of-type-i-iterator) - 1 votes
-* [Traits Borrows and References in Rust](https://stackoverflow.com/questions/74684114/traits-borrows-and-references-in-rust) - 1 votes
+* [Why does the Rust standard library implement traits for both Thing and ampThing](https://stackoverflow.com/questions/74706945/why-does-the-rust-standard-library-implement-traits-for-both-thing-and-thing) - 3 votes
+* [Implement inplace enum modification while transferring uncopyable value](https://stackoverflow.com/questions/74695831/implement-in-place-enum-modification-while-transferring-un-copyable-value) - 2 votes
+* [How can I iterate calling a function that can fail using  operator](https://stackoverflow.com/questions/74704140/how-can-i-iterate-calling-a-function-that-can-fail-using-operator) - 2 votes
+* [Borrow checker issue when copying slice in vector or vectors](https://stackoverflow.com/questions/74704500/borrow-checker-issue-when-copying-slice-in-vector-or-vectors) - 2 votes
+* [Mutable reference and pointer aliasing](https://stackoverflow.com/questions/74687521/mutable-reference-and-pointer-aliasing) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -20,18 +20,18 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-1
 <!-- fastapi starts -->
 * [Is using FastAPI with sync threads a good practice for a high scale application](https://stackoverflow.com/questions/74685375/is-using-fastapi-with-sync-threads-a-good-practice-for-a-high-scale-application) - 6 votes
 * [Overriding FastAPI dependencies that have parameters](https://stackoverflow.com/questions/74689457/overriding-fastapi-dependencies-that-have-parameters) - 2 votes
-* [422 Unprocessable Entity](https://stackoverflow.com/questions/74681910/422-unprocessable-entity) - 1 votes
+* [How to properly terminate server instance in python gstreamer api and restart with new settings](https://stackoverflow.com/questions/74703029/how-to-properly-terminate-server-instance-in-python-gstreamer-api-and-restart-wi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How to count cells that are within 2 values in a range of cells in a pandas dataframe](https://stackoverflow.com/questions/74673689/how-to-count-cells-that-are-within-2-values-in-a-range-of-cells-in-a-pandas-dat) - 3 votes
+* [Change the name of columns based on a period in df](https://stackoverflow.com/questions/74707691/change-the-name-of-columns-based-on-a-period-in-df) - 2 votes
+* [How to create a loop to takes an existing df and creates a randomized new df](https://stackoverflow.com/questions/74708868/how-to-create-a-loop-to-takes-an-existing-df-and-creates-a-randomized-new-df) - 2 votes
+* [how to transform a dict of lists to a dataframe in python](https://stackoverflow.com/questions/74694545/how-to-transform-a-dict-of-lists-to-a-dataframe-in-python) - 2 votes
 * [Pandas Resample a dataframe given a list of indexes that are not evenly spaces](https://stackoverflow.com/questions/74689284/pandas-resample-a-dataframe-given-a-list-of-indexes-that-are-not-evenly-spaces) - 2 votes
 * [How to use loc over a column with lists](https://stackoverflow.com/questions/74685980/how-to-use-loc-over-a-column-with-lists) - 2 votes
-* [How does pandas to_dict deal with key npnan and None](https://stackoverflow.com/questions/74693931/how-does-pandas-to-dict-deal-with-key-np-nan-and-none) - 2 votes
-* [Pandas Merge multiple rows into one row](https://stackoverflow.com/questions/74693265/pandas-merge-multiple-rows-into-one-row) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
