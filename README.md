@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-12-08<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-12-09<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why adding a type annotation eliminates the borrow error](https://stackoverflow.com/questions/74711699/why-adding-a-type-annotation-eliminates-the-borrow-error) - 6 votes
-* [How to use both nonowning iterator and consuming iterator in a generic function in Rust](https://stackoverflow.com/questions/74728809/how-to-use-both-non-owning-iterator-and-consuming-iterator-in-a-generic-function) - 2 votes
-* [How to keep a trailing zero when printing a float without setting precision](https://stackoverflow.com/questions/74721493/how-to-keep-a-trailing-zero-when-printing-a-float-without-setting-precision) - 2 votes
+* [Recursive async functions calling each other cycle detected](https://stackoverflow.com/questions/74737595/recursive-async-functions-calling-each-other-cycle-detected) - 3 votes
+* [feature may not be used on the stable release channel](https://stackoverflow.com/questions/74744751/feature-may-not-be-used-on-the-stable-release-channel) - 3 votes
 * [How to I implement a trait on a builtin in Rust](https://stackoverflow.com/questions/74734843/how-to-i-implement-a-trait-on-a-builtin-in-rust) - 2 votes
-* [Getting element from a VecltVecltu8gtgt very slow](https://stackoverflow.com/questions/74722729/getting-element-from-a-vecvecu8-very-slow) - 2 votes
+* [How to use both nonowning iterator and consuming iterator in a generic function in Rust](https://stackoverflow.com/questions/74728809/how-to-use-both-non-owning-iterator-and-consuming-iterator-in-a-generic-function) - 2 votes
+* [Extract substring between quot with nom](https://stackoverflow.com/questions/74735965/extract-substring-between-with-nom) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -19,17 +19,18 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-1
 ### fastapi
 <!-- fastapi starts -->
 * [Deep nesting response model in fastapi using sqlmodel](https://stackoverflow.com/questions/74725931/deep-nesting-response-model-in-fastapi-using-sqlmodel) - 2 votes
-* [getting joined tables from sqlmodel as a nested responde model in fastapi](https://stackoverflow.com/questions/74719687/getting-joined-tables-from-sqlmodel-as-a-nested-responde-model-in-fastapi) - 1 votes
+* [fastapi openapi doc for arbitrary request form](https://stackoverflow.com/questions/74747350/fastapi-openapi-doc-for-arbitrary-request-form) - 1 votes
+* [FastAPI ASGI middleware sync routes amp threadlocal data](https://stackoverflow.com/questions/74740215/fastapi-asgi-middleware-sync-routes-thread-local-data) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas  Pivot row into column](https://stackoverflow.com/questions/74721264/pandas-pivot-row-into-column) - 2 votes
+* [Using Python Pandas can I replace values of one column in a df based on another column only when a quotnanquot value does not exist](https://stackoverflow.com/questions/74737791/using-python-pandas-can-i-replace-values-of-one-column-in-a-df-based-on-another) - 2 votes
 * [Convert dataframe to 55 grid of choice](https://stackoverflow.com/questions/74728557/convert-dataframe-to-55-grid-of-choice) - 2 votes
-* [Pandas dataframe Creating a new column based on data from other columns](https://stackoverflow.com/questions/74722969/pandas-dataframe-creating-a-new-column-based-on-data-from-other-columns) - 2 votes
-* [Perform a cumulative count of matching values within a column based on multiple conditions and a groupby in Pandas](https://stackoverflow.com/questions/74721482/perform-a-cumulative-count-of-matching-values-within-a-column-based-on-multiple) - 2 votes
+* [Replace part of string in columns names](https://stackoverflow.com/questions/74741272/replace-part-of-string-in-columns-names) - 2 votes
+* [How to divide column values by values from different row](https://stackoverflow.com/questions/74735699/how-to-divide-column-values-by-values-from-different-row) - 2 votes
 * [How to get a value within a list inside a dataframe](https://stackoverflow.com/questions/74725203/how-to-get-a-value-within-a-list-inside-a-dataframe) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
