@@ -1,25 +1,24 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-12-10<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-12-11<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [feature may not be used on the stable release channel](https://stackoverflow.com/questions/74744751/feature-may-not-be-used-on-the-stable-release-channel) - 4 votes
+* [Why can39t I have mutable values in Rust in array elements](https://stackoverflow.com/questions/74757968/why-cant-i-have-mutable-values-in-rust-in-array-elements) - 3 votes
+* [Rust lifetimes can39t reborrow mutable field inside a method](https://stackoverflow.com/questions/74761426/rust-lifetimes-cant-re-borrow-mutable-field-inside-a-method) - 2 votes
+* [Why Err is greater than Ok whilst Some is greater than None in Rust](https://stackoverflow.com/questions/74758005/why-err-is-greater-than-ok-whilst-some-is-greater-than-none-in-rust) - 2 votes
 * [How would you iterate over an array of 3 strings](https://stackoverflow.com/questions/74750585/how-would-you-iterate-over-an-array-of-3-strings) - 2 votes
-* [How do I remove some chars at the end of a string](https://stackoverflow.com/questions/74753793/how-do-i-remove-some-chars-at-the-end-of-a-string) - 1 votes
-* [Filter by hour of datetime in rust polars](https://stackoverflow.com/questions/74743214/filter-by-hour-of-datetime-in-rust-polars) - 1 votes
-* [How can I preserve comments when editing an hjson file](https://stackoverflow.com/questions/74749034/how-can-i-preserve-comments-when-editing-an-hjson-file) - 1 votes
+* [Algorithm complexity of create array with size N with unique elements from N arrays](https://stackoverflow.com/questions/74756135/algorithm-complexity-of-create-array-with-size-n-with-unique-elements-from-n-arr) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [fastapi openapi doc for arbitrary request form](https://stackoverflow.com/questions/74747350/fastapi-openapi-doc-for-arbitrary-request-form) - 1 votes
-* [FastAPI ASGI middleware sync routes amp threadlocal data](https://stackoverflow.com/questions/74740215/fastapi-asgi-middleware-sync-routes-thread-local-data) - 1 votes
+* [How to call a second endpoint in FastAPI with the same path but with query parameters](https://stackoverflow.com/questions/74759003/how-to-call-a-second-endpoint-in-fastapi-with-the-same-path-but-with-query-para) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -28,9 +27,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-1
 <!-- pandas starts -->
 * [Creating Pandas Series List but don39t know how to access Index values](https://stackoverflow.com/questions/74750439/creating-pandas-series-list-but-dont-know-how-to-access-index-values) - 3 votes
 * [Pandas Need to merge tables with value mapping](https://stackoverflow.com/questions/74749908/pandas-need-to-merge-tables-with-value-mapping) - 3 votes
-* [How to do math operations on a dataframe with an undefined number of columns](https://stackoverflow.com/questions/74748874/how-to-do-math-operations-on-a-dataframe-with-an-undefined-number-of-columns) - 3 votes
-* [Using Python Pandas can I replace values of one column in a df based on another column only when a quotnanquot value does not exist](https://stackoverflow.com/questions/74737791/using-python-pandas-can-i-replace-values-of-one-column-in-a-df-based-on-another) - 2 votes
 * [Pandas lambda function works only on single column not multiple](https://stackoverflow.com/questions/74749546/pandas-lambda-function-works-only-on-single-column-not-multiple) - 2 votes
+* [Convert a string representing a list of timestamps to list of timestamps](https://stackoverflow.com/questions/74760492/convert-a-string-representing-a-list-of-timestamps-to-list-of-timestamps) - 2 votes
+* [Pandas make columns to rows](https://stackoverflow.com/questions/74754075/pandas-make-columns-to-rows) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
