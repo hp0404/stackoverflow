@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-12-11<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-12-12<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Arrays and newtype pattern](https://stackoverflow.com/questions/74773079/arrays-and-newtype-pattern) - 4 votes
 * [Why can39t I have mutable values in Rust in array elements](https://stackoverflow.com/questions/74757968/why-cant-i-have-mutable-values-in-rust-in-array-elements) - 3 votes
-* [Rust lifetimes can39t reborrow mutable field inside a method](https://stackoverflow.com/questions/74761426/rust-lifetimes-cant-re-borrow-mutable-field-inside-a-method) - 2 votes
-* [Why Err is greater than Ok whilst Some is greater than None in Rust](https://stackoverflow.com/questions/74758005/why-err-is-greater-than-ok-whilst-some-is-greater-than-none-in-rust) - 2 votes
-* [How would you iterate over an array of 3 strings](https://stackoverflow.com/questions/74750585/how-would-you-iterate-over-an-array-of-3-strings) - 2 votes
-* [Algorithm complexity of create array with size N with unique elements from N arrays](https://stackoverflow.com/questions/74756135/algorithm-complexity-of-create-array-with-size-n-with-unique-elements-from-n-arr) - 1 votes
+* [Runtime plugins in Rust](https://stackoverflow.com/questions/74768538/runtime-plugins-in-rust) - 2 votes
+* [How to rewrite this generic arg](https://stackoverflow.com/questions/74772545/how-to-rewrite-this-generic-arg) - 2 votes
+* [Why this Trait is invalid And what signature to use instead](https://stackoverflow.com/questions/74765384/why-this-trait-is-invalid-and-what-signature-to-use-instead) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -19,17 +19,18 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2022-1
 ### fastapi
 <!-- fastapi starts -->
 * [How to call a second endpoint in FastAPI with the same path but with query parameters](https://stackoverflow.com/questions/74759003/how-to-call-a-second-endpoint-in-fastapi-with-the-same-path-but-with-query-para) - 1 votes
+* [Mongo Motor Client AllowDiskUse](https://stackoverflow.com/questions/74764884/mongo-motor-client-allowdiskuse) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Creating Pandas Series List but don39t know how to access Index values](https://stackoverflow.com/questions/74750439/creating-pandas-series-list-but-dont-know-how-to-access-index-values) - 3 votes
-* [Pandas Need to merge tables with value mapping](https://stackoverflow.com/questions/74749908/pandas-need-to-merge-tables-with-value-mapping) - 3 votes
-* [Pandas lambda function works only on single column not multiple](https://stackoverflow.com/questions/74749546/pandas-lambda-function-works-only-on-single-column-not-multiple) - 2 votes
+* [How to get a new df constituted by partialy transposed fragments of another dataframe](https://stackoverflow.com/questions/74769052/how-to-get-a-new-df-constituted-by-partialy-transposed-fragments-of-another-data) - 2 votes
 * [Convert a string representing a list of timestamps to list of timestamps](https://stackoverflow.com/questions/74760492/convert-a-string-representing-a-list-of-timestamps-to-list-of-timestamps) - 2 votes
-* [Pandas make columns to rows](https://stackoverflow.com/questions/74754075/pandas-make-columns-to-rows) - 2 votes
+* [How to drop duplicates in one column based on values in 2 other columns in DataFrame in Python Pandas](https://stackoverflow.com/questions/74773052/how-to-drop-duplicates-in-one-column-based-on-values-in-2-other-columns-in-dataf) - 2 votes
+* [How to vectorize and speedup double forloop for pandas dataframe when doing text similarity scoring](https://stackoverflow.com/questions/74759543/how-to-vectorize-and-speed-up-double-for-loop-for-pandas-dataframe-when-doing-te) - 2 votes
+* [numpy argmin not returning ints on pandas objects](https://stackoverflow.com/questions/74775659/numpy-argmin-not-returning-ints-on-pandas-objects) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
