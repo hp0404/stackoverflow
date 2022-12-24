@@ -1,35 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-12-23<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-12-24<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Rust How to match an enum with struct and getting the enum value on match](https://stackoverflow.com/questions/74892672/rust-how-to-match-an-enum-with-struct-and-getting-the-enum-value-on-match) - 1 votes
-* [How to match a String against str in nested object](https://stackoverflow.com/questions/74895698/how-to-match-a-string-against-str-in-nested-object) - 1 votes
-* [Aggregating fold hash sets to a struct requires clone](https://stackoverflow.com/questions/74894897/aggregating-fold-hash-sets-to-a-struct-requires-clone) - 1 votes
-* [Converting a generic function argument to an Arc with a generic trait](https://stackoverflow.com/questions/74889832/converting-a-generic-function-argument-to-an-arc-with-a-generic-trait) - 1 votes
-* [Rust Async find use await within predicate](https://stackoverflow.com/questions/74901029/rust-async-find-use-await-within-predicate) - 1 votes
+* [How to permute a rust simd vector by another variable vector](https://stackoverflow.com/questions/74903715/how-to-permute-a-rust-simd-vector-by-another-variable-vector) - 3 votes
+* [Why is this branch always true using clap 4](https://stackoverflow.com/questions/74905313/why-is-this-branch-always-true-using-clap-4) - 2 votes
+* [How do I return an iterator of arbitrary type from a trait function](https://stackoverflow.com/questions/74905095/how-do-i-return-an-iterator-of-arbitrary-type-from-a-trait-function) - 2 votes
+* [How can I allow Rust to preform operations on numbers past 128bits](https://stackoverflow.com/questions/74908959/how-can-i-allow-rust-to-preform-operations-on-numbers-past-128bits) - 1 votes
+* [Why does the object instance I retrieve via libloading make the program to segfault despite lifetime contraints](https://stackoverflow.com/questions/74907868/why-does-the-object-instance-i-retrieve-via-libloading-make-the-program-to-segfa) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [Validation errors on output model when input model is populated by alias](https://stackoverflow.com/questions/74907336/validation-errors-on-output-model-when-input-model-is-populated-by-alias) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Transpose pandas DF based on value data type](https://stackoverflow.com/questions/74893662/transpose-pandas-df-based-on-value-data-type) - 5 votes
-* [Combine and fill a Pandas Dataframe with the single row of another](https://stackoverflow.com/questions/74889280/combine-and-fill-a-pandas-dataframe-with-the-single-row-of-another) - 4 votes
-* [Extract specific words from a dataframe  Python](https://stackoverflow.com/questions/74891138/extract-specific-words-from-a-dataframe-python) - 4 votes
+* [how to fill nan value based on another column](https://stackoverflow.com/questions/74906016/how-to-fill-nan-value-based-on-another-column) - 2 votes
 * [How to flatten a column containing a list of dates as strings into just date](https://stackoverflow.com/questions/74894984/how-to-flatten-a-column-containing-a-list-of-dates-as-strings-into-just-date) - 2 votes
-* [Sorting crosstab data in pandas for more clustered heatmap](https://stackoverflow.com/questions/74892407/sorting-crosstab-data-in-pandas-for-more-clustered-heatmap) - 2 votes
+* [Merge two dataframes in pandas with common info as columns or as cells](https://stackoverflow.com/questions/74898183/merge-two-dataframes-in-pandas-with-common-info-as-columns-or-as-cells) - 2 votes
+* [Sort a pandas dataset by date](https://stackoverflow.com/questions/74910159/sort-a-pandas-dataset-by-date) - 2 votes
+* [How to find column where is punctation mark as a single value in Python Pandas](https://stackoverflow.com/questions/74904197/how-to-find-column-where-is-punctation-mark-as-a-single-value-in-python-pandas) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
