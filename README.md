@@ -1,36 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-12-25<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-12-26<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why is this branch always true using clap 4](https://stackoverflow.com/questions/74905313/why-is-this-branch-always-true-using-clap-4) - 2 votes
-* [How do I return an iterator of arbitrary type from a trait function](https://stackoverflow.com/questions/74905095/how-do-i-return-an-iterator-of-arbitrary-type-from-a-trait-function) - 2 votes
-* [Ranges doubledot quotquot operator with multiplication operator](https://stackoverflow.com/questions/74907727/ranges-double-dot-operator-with-multiplication-operator) - 1 votes
-* [Why does the object instance I retrieve via libloading make the program to segfault despite lifetime contraints](https://stackoverflow.com/questions/74907868/why-does-the-object-instance-i-retrieve-via-libloading-make-the-program-to-segfa) - 1 votes
-* [Rust signed modulo unsigned gt unsigned](https://stackoverflow.com/questions/74910455/rust-signed-modulo-unsigned-unsigned) - 1 votes
+* [What is the easiest and most efficient way to generate a random stochastic matrix or ndarray in Rust](https://stackoverflow.com/questions/74922967/what-is-the-easiest-and-most-efficient-way-to-generate-a-random-stochastic-m) - 2 votes
+* [Passing a closure to a generic function](https://stackoverflow.com/questions/74923351/passing-a-closure-to-a-generic-function) - 1 votes
+* [Writing linked list in Rust fails due to immutability and mismatched types](https://stackoverflow.com/questions/74923241/writing-linked-list-in-rust-fails-due-to-immutability-and-mismatched-types) - 1 votes
+* [How to make a field lifetime same as the struct](https://stackoverflow.com/questions/74916518/how-to-make-a-field-lifetime-same-as-the-struct) - 1 votes
+* [How do I wrap a closure which returns a Future without it being Sync](https://stackoverflow.com/questions/74920440/how-do-i-wrap-a-closure-which-returns-a-future-without-it-being-sync) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Validation errors on output model when input model is populated by alias](https://stackoverflow.com/questions/74907336/validation-errors-on-output-model-when-input-model-is-populated-by-alias) - 2 votes
-* [Browser console shows CORS error regardless of the type of error that happens on the server side of a fastapi app](https://stackoverflow.com/questions/74915592/browser-console-shows-cors-error-regardless-of-the-type-of-error-that-happens-on) - 1 votes
+* [FastAPI  Unable to get auth token from middleware39s Request object](https://stackoverflow.com/questions/74917863/fastapi-unable-to-get-auth-token-from-middlewares-request-object) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Sort a pandas dataset by date](https://stackoverflow.com/questions/74910159/sort-a-pandas-dataset-by-date) - 3 votes
-* [How do I apply melt  wide_to_long onto a data frame with multiple columns](https://stackoverflow.com/questions/74909632/how-do-i-apply-melt-wide-to-long-onto-a-data-frame-with-multiple-columns) - 2 votes
-* [how to fill nan value based on another column](https://stackoverflow.com/questions/74906016/how-to-fill-nan-value-based-on-another-column) - 2 votes
+* [MinMaxScaler for a number of columns in a pandas DataFrame](https://stackoverflow.com/questions/74920178/minmaxscaler-for-a-number-of-columns-in-a-pandas-dataframe) - 3 votes
+* [Don39t truncate columns output](https://stackoverflow.com/questions/74917035/dont-truncate-columns-output) - 3 votes
+* [Pandas dataframe in a row to find the max in selected column and find value of another column based on that](https://stackoverflow.com/questions/74918325/pandas-dataframe-in-a-row-to-find-the-max-in-selected-column-and-find-value-o) - 3 votes
+* [Pandas get postion of last value based on condition for each column efficiently](https://stackoverflow.com/questions/74913020/pandas-get-postion-of-last-value-based-on-condition-for-each-column-efficiently) - 3 votes
 * [pandas pivot  group by multiple columns](https://stackoverflow.com/questions/74915168/pandas-pivot-group-by-multiple-columns) - 2 votes
-* [Vectorization with python](https://stackoverflow.com/questions/74909815/vectorization-with-python) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
