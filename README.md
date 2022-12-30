@@ -1,38 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2022-12-29<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2022-12-30<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to build a docker image including local dependencies](https://stackoverflow.com/questions/74937801/how-to-build-a-docker-image-including-local-dependencies) - 3 votes
+* [why pinproject implement Unpin for any struct when no structural fields](https://stackoverflow.com/questions/74958455/why-pin-project-implement-unpin-for-any-struct-when-no-structural-fields) - 3 votes
 * [BigUint binary complement](https://stackoverflow.com/questions/74947348/biguint-binary-complement) - 2 votes
-* [rust receive message from multiple channels at once](https://stackoverflow.com/questions/74939013/rust-receive-message-from-multiple-channels-at-once) - 1 votes
-* [quotCannot return value referencing temporary valuequot in function returning tuple](https://stackoverflow.com/questions/74946734/cannot-return-value-referencing-temporary-value-in-function-returning-tuple) - 1 votes
-* [Cannot move out a captured variable in an Fn closure](https://stackoverflow.com/questions/74939732/cannot-move-out-a-captured-variable-in-an-fn-closure) - 1 votes
+* [How to build safe dynamic query with sqlx in rust](https://stackoverflow.com/questions/74956100/how-to-build-safe-dynamic-query-with-sqlx-in-rust) - 1 votes
+* [Rust What is _ in quotas const _quot doing](https://stackoverflow.com/questions/74952923/rust-what-is-in-as-const-doing) - 1 votes
+* [How to conditionally use tracing writer non_blocking instead of stdout](https://stackoverflow.com/questions/74957107/how-to-conditionally-use-tracing-writer-non-blocking-instead-of-stdout) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI  Understanding difference between asyncio event runtime and request response time](https://stackoverflow.com/questions/74946162/fastapi-understanding-difference-between-asyncio-event-runtime-and-request-res) - 4 votes
-* [How unique items in array filed of documents in mongoDB](https://stackoverflow.com/questions/74942106/how-unique-items-in-array-filed-of-documents-in-mongodb) - 2 votes
-* [FastAPI avoid multiple connections to Database pymongo](https://stackoverflow.com/questions/74944842/fastapi-avoid-multiple-connections-to-database-pymongo) - 2 votes
-* [How should I organize my path operations in FastAPI](https://stackoverflow.com/questions/74936196/how-should-i-organize-my-path-operations-in-fastapi) - 2 votes
+* [SQLAlchemy module not found despite definitely being installed with Pipenv](https://stackoverflow.com/questions/74962787/sqlalchemy-module-not-found-despite-definitely-being-installed-with-pipenv) - 3 votes
+* [How to create multilingual web pages with fastapibabel](https://stackoverflow.com/questions/74958699/how-to-create-multilingual-web-pages-with-fastapi-babel) - 2 votes
+* [How to pass unencoded URL in FastAPISwagger UI via GET method](https://stackoverflow.com/questions/74953510/how-to-pass-unencoded-url-in-fastapi-swagger-ui-via-get-method) - 1 votes
+* [I39m creating a custom middleware in fast api but not working](https://stackoverflow.com/questions/74960911/im-creating-a-custom-middleware-in-fast-api-but-not-working) - 1 votes
+* [FastAPI Test Case not running](https://stackoverflow.com/questions/74958335/fastapi-test-case-not-running) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Transform n columns into rows](https://stackoverflow.com/questions/74938890/transform-n-columns-into-rows) - 3 votes
+* [How to speed up the loop in a dataframe](https://stackoverflow.com/questions/74954081/how-to-speed-up-the-loop-in-a-dataframe) - 4 votes
+* [Substring Merge on a column with special characters](https://stackoverflow.com/questions/74961873/substring-merge-on-a-column-with-special-characters) - 4 votes
 * [Covert a column of integers and interger  strings into all integers using multiplication based on what is in the string](https://stackoverflow.com/questions/74951025/covert-a-column-of-integers-and-interger-strings-into-all-integers-using-multi) - 3 votes
-* [apply custom function on all columns increase efficiency](https://stackoverflow.com/questions/74940265/apply-custom-function-on-all-columns-increase-efficiency) - 3 votes
-* [pandas create new column based on boolean value](https://stackoverflow.com/questions/74946449/pandas-create-new-column-based-on-boolean-value) - 3 votes
-* [Why isn39t transpose working to allow me to concat dataframe with dflocquotYquot row](https://stackoverflow.com/questions/74941486/why-isnt-transpose-working-to-allow-me-to-concat-dataframe-with-df-locy-row) - 3 votes
+* [float39 object has no attribute 39split39 python](https://stackoverflow.com/questions/74960118/float-object-has-no-attribute-split-python) - 3 votes
+* [How can I order dates and show only monthyear on the x axis in matplotlib](https://stackoverflow.com/questions/74957732/how-can-i-order-dates-and-show-only-monthyear-on-the-x-axis-in-matplotlib) - 3 votes
 <!-- pandas ends -->
 </td></tr></table>
 
