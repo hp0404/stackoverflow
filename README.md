@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-01-01<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-01-02<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Pass self as mutable reference while iterating over collection](https://stackoverflow.com/questions/74969937/pass-self-as-mutable-reference-while-iterating-over-collection) - 3 votes
-* [Converting a method that borrows an item into one that takes ownership over it](https://stackoverflow.com/questions/74970575/converting-a-method-that-borrows-an-item-into-one-that-takes-ownership-over-it) - 2 votes
-* [Zip iterators of different lengths](https://stackoverflow.com/questions/74972544/zip-iterators-of-different-lengths) - 1 votes
-* [How to prevent cargo clippy from analyizing generated prost files](https://stackoverflow.com/questions/74977003/how-to-prevent-cargo-clippy-from-analyizing-generated-prost-files) - 1 votes
-* [Possible to implement dynamicallytyped linked list in safe Rust](https://stackoverflow.com/questions/74973472/possible-to-implement-dynamically-typed-linked-list-in-safe-rust) - 1 votes
+* [Is there a way to use NASM syntax for inline assembly](https://stackoverflow.com/questions/74978159/is-there-a-way-to-use-nasm-syntax-for-inline-assembly) - 5 votes
+* [quotunnecessary parensquot warning in macro call that needs the parens  is this a bad way to write macros](https://stackoverflow.com/questions/74983561/unnecessary-parens-warning-in-macro-call-that-needs-the-parens-is-this-a-bad) - 5 votes
+* [Is if let just another way of writing other if statements](https://stackoverflow.com/questions/74978935/is-if-let-just-another-way-of-writing-other-if-statements) - 2 votes
+* [Write TOML file to deserialize into enum in a struct](https://stackoverflow.com/questions/74979033/write-toml-file-to-deserialize-into-enum-in-a-struct) - 2 votes
+* [Write React Native quotTurbo Modulequot in Rust](https://stackoverflow.com/questions/74977723/write-react-native-turbo-module-in-rust) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -25,11 +25,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 
 ### pandas
 <!-- pandas starts -->
-* [Merging daily data with 5 min data using pandas dataframe](https://stackoverflow.com/questions/74968491/merging-daily-data-with-5-min-data-using-pandas-dataframe) - 3 votes
-* [Python numpy dataframe conditional operation eg sum across two dataframes](https://stackoverflow.com/questions/74971337/python-numpy-dataframe-conditional-operation-e-g-sum-across-two-dataframes) - 2 votes
-* [return a match more than 2 numbers that match side by side](https://stackoverflow.com/questions/74970359/return-a-match-more-than-2-numbers-that-match-side-by-side) - 2 votes
-* [Pandas merge not working as expected in streamlit](https://stackoverflow.com/questions/74973249/pandas-merge-not-working-as-expected-in-streamlit) - 2 votes
-* [Filtering empty elements in a nested list in pandas dataframe](https://stackoverflow.com/questions/74975192/filtering-empty-elements-in-a-nested-list-in-pandas-dataframe) - 2 votes
+* [Recalculate the score for all other groups in python](https://stackoverflow.com/questions/74982005/re-calculate-the-score-for-all-other-groups-in-python) - 3 votes
+* [pandas groupby and do categorical ordering to drop duplicates](https://stackoverflow.com/questions/74980748/pandas-groupby-and-do-categorical-ordering-to-drop-duplicates) - 2 votes
+* [How to identify one column with continuous number and same value of another column](https://stackoverflow.com/questions/74979106/how-to-identify-one-column-with-continuous-number-and-same-value-of-another-colu) - 2 votes
+* [Nullduplicate check in a column based on another column filter](https://stackoverflow.com/questions/74979653/null-duplicate-check-in-a-column-based-on-another-column-filter) - 2 votes
+* [calculate the score with respect to the group it was assigned or other](https://stackoverflow.com/questions/74977242/calculate-the-score-with-respect-to-the-group-it-was-assigned-or-other) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
