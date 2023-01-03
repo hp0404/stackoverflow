@@ -1,35 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-01-02<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-01-03<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [quotunnecessary parensquot warning in macro call that needs the parens  is this a bad way to write macros](https://stackoverflow.com/questions/74983561/unnecessary-parens-warning-in-macro-call-that-needs-the-parens-is-this-a-bad) - 6 votes
 * [Is there a way to use NASM syntax for inline assembly](https://stackoverflow.com/questions/74978159/is-there-a-way-to-use-nasm-syntax-for-inline-assembly) - 5 votes
-* [quotunnecessary parensquot warning in macro call that needs the parens  is this a bad way to write macros](https://stackoverflow.com/questions/74983561/unnecessary-parens-warning-in-macro-call-that-needs-the-parens-is-this-a-bad) - 5 votes
-* [Is if let just another way of writing other if statements](https://stackoverflow.com/questions/74978935/is-if-let-just-another-way-of-writing-other-if-statements) - 2 votes
-* [Write TOML file to deserialize into enum in a struct](https://stackoverflow.com/questions/74979033/write-toml-file-to-deserialize-into-enum-in-a-struct) - 2 votes
-* [Write React Native quotTurbo Modulequot in Rust](https://stackoverflow.com/questions/74977723/write-react-native-turbo-module-in-rust) - 2 votes
+* [How to assert that code won39t compile in a test](https://stackoverflow.com/questions/74989492/how-to-assert-that-code-wont-compile-in-a-test) - 4 votes
+* [How to propagate Nom fail context out of many0](https://stackoverflow.com/questions/74993188/how-to-propagate-nom-fail-context-out-of-many0) - 3 votes
+* [What is the RUST equivalent of following C code](https://stackoverflow.com/questions/74997645/what-is-the-rust-equivalent-of-following-c-code) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [Multiple DynamoDBPynamoDB Queries with FastAPI endpoint raising BrokenResourceError](https://stackoverflow.com/questions/74994801/multiple-dynamodbpynamodb-queries-with-fastapi-endpoint-raising-brokenresource) - 2 votes
+* [How to use HXRedirect in HTMX frontend using FastAPI](https://stackoverflow.com/questions/74992769/how-to-use-hx-redirect-in-htmx-frontend-using-fastapi) - 1 votes
+* [celery is running but it is not executing any task](https://stackoverflow.com/questions/74992546/celery-is-running-but-it-is-not-executing-any-task) - 1 votes
+* [Uvicorn gives quotaccess is deniedquot in Anaconda Prompt](https://stackoverflow.com/questions/74992183/uvicorn-gives-access-is-denied-in-anaconda-prompt) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Recalculate the score for all other groups in python](https://stackoverflow.com/questions/74982005/re-calculate-the-score-for-all-other-groups-in-python) - 3 votes
-* [pandas groupby and do categorical ordering to drop duplicates](https://stackoverflow.com/questions/74980748/pandas-groupby-and-do-categorical-ordering-to-drop-duplicates) - 2 votes
-* [How to identify one column with continuous number and same value of another column](https://stackoverflow.com/questions/74979106/how-to-identify-one-column-with-continuous-number-and-same-value-of-another-colu) - 2 votes
-* [Nullduplicate check in a column based on another column filter](https://stackoverflow.com/questions/74979653/null-duplicate-check-in-a-column-based-on-another-column-filter) - 2 votes
-* [calculate the score with respect to the group it was assigned or other](https://stackoverflow.com/questions/74977242/calculate-the-score-with-respect-to-the-group-it-was-assigned-or-other) - 2 votes
+* [Different behavior of applystr and astypestr for datetime64ns pandas columns](https://stackoverflow.com/questions/74993877/different-behavior-of-applystr-and-astypestr-for-datetime64ns-pandas-colum) - 8 votes
+* [Python Dataframe Update Row value once a condition is met and keep updating until another condition is not false](https://stackoverflow.com/questions/74990626/python-dataframe-update-row-value-once-a-condition-is-met-and-keep-updating-unt) - 4 votes
+* [How to convert days to hours in pandas](https://stackoverflow.com/questions/74995611/how-to-convert-days-to-hours-in-pandas) - 3 votes
+* [Checking the values in a list against Pandas DataFrame](https://stackoverflow.com/questions/74995119/checking-the-values-in-a-list-against-pandas-dataframe) - 3 votes
+* [Memoryefficient DataFramestack](https://stackoverflow.com/questions/74996834/memory-efficient-dataframe-stack) - 3 votes
 <!-- pandas ends -->
 </td></tr></table>
 
