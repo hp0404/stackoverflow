@@ -1,39 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-01-04<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-01-05<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to assert that code won39t compile in a test](https://stackoverflow.com/questions/74989492/how-to-assert-that-code-wont-compile-in-a-test) - 5 votes
-* [Why can39t I use an operator with a mutable reference on the left hand side](https://stackoverflow.com/questions/75006825/why-cant-i-use-an-operator-with-a-mutable-reference-on-the-left-hand-side) - 4 votes
-* [How to propagate Nom fail context out of many0](https://stackoverflow.com/questions/74993188/how-to-propagate-nom-fail-context-out-of-many0) - 3 votes
-* [What does a bounded struct where MyStructltTgt Debug achieve](https://stackoverflow.com/questions/75008626/what-does-a-bounded-struct-where-mystructt-debug-achieve) - 2 votes
-* [What is the RUST equivalent of following C code](https://stackoverflow.com/questions/74997645/what-is-the-rust-equivalent-of-following-c-code) - 1 votes
+* [Why can39t I use an operator with a mutable reference on the left hand side](https://stackoverflow.com/questions/75006825/why-cant-i-use-an-operator-with-a-mutable-reference-on-the-left-hand-side) - 5 votes
+* [Is there a way to do a right bitshift on a BigInt in Rust](https://stackoverflow.com/questions/75014722/is-there-a-way-to-do-a-right-bit-shift-on-a-bigint-in-rust) - 3 votes
+* [Why is quotxquot trying to parse as a literal and failing in declarative macros](https://stackoverflow.com/questions/75019747/why-is-x-trying-to-parse-as-a-literal-and-failing-in-declarative-macros) - 3 votes
+* [Why do window contents disappear at redraw](https://stackoverflow.com/questions/75018623/why-do-window-contents-disappear-at-redraw) - 2 votes
+* [Rust Implementing a trait generically for another trait](https://stackoverflow.com/questions/75009750/rust-implementing-a-trait-generically-for-another-trait) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Multiple DynamoDBPynamoDB Queries with FastAPI endpoint raising BrokenResourceError](https://stackoverflow.com/questions/74994801/multiple-dynamodbpynamodb-queries-with-fastapi-endpoint-raising-brokenresource) - 2 votes
+* [Enable quotTry it outquot in OpenAPI so that no need to click](https://stackoverflow.com/questions/75019496/enable-try-it-out-in-openapi-so-that-no-need-to-click) - 1 votes
+* [Axios Post is not waiting in react so never goes into then](https://stackoverflow.com/questions/75014825/axios-post-is-not-waiting-in-react-so-never-goes-into-then) - 1 votes
 * [Not able to send a post request using a Python Script](https://stackoverflow.com/questions/75005445/not-able-to-send-a-post-request-using-a-python-script) - 1 votes
-* [How to use HXRedirect in HTMX frontend using FastAPI](https://stackoverflow.com/questions/74992769/how-to-use-hx-redirect-in-htmx-frontend-using-fastapi) - 1 votes
 * [The browser cannot receive cookies using FastAPI39s set_cookie method](https://stackoverflow.com/questions/75007071/the-browser-cannot-receive-cookies-using-fastapis-set-cookie-method) - 1 votes
-* [celery is running but it is not executing any task](https://stackoverflow.com/questions/74992546/celery-is-running-but-it-is-not-executing-any-task) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Different behavior of applystr and astypestr for datetime64ns pandas columns](https://stackoverflow.com/questions/74993877/different-behavior-of-applystr-and-astypestr-for-datetime64ns-pandas-colum) - 9 votes
-* [Python Dataframe Update Row value once a condition is met and keep updating until another condition is not false](https://stackoverflow.com/questions/74990626/python-dataframe-update-row-value-once-a-condition-is-met-and-keep-updating-unt) - 4 votes
-* [How to convert days to hours in pandas](https://stackoverflow.com/questions/74995611/how-to-convert-days-to-hours-in-pandas) - 3 votes
-* [Pandas  Confused when extending DataFrame vs Series ColumnIndex Why the difference](https://stackoverflow.com/questions/74992814/pandas-confused-when-extending-dataframe-vs-series-column-index-why-the-dif) - 3 votes
-* [Checking the values in a list against Pandas DataFrame](https://stackoverflow.com/questions/74995119/checking-the-values-in-a-list-against-pandas-dataframe) - 3 votes
+* [Convert pandas series of strings to a series of lists](https://stackoverflow.com/questions/75021051/convert-pandas-series-of-strings-to-a-series-of-lists) - 2 votes
+* [Best way to clean column in pandas](https://stackoverflow.com/questions/75008242/best-way-to-clean-column-in-pandas) - 2 votes
+* [how do I add list values at a specific column in pandas](https://stackoverflow.com/questions/75009991/how-do-i-add-list-values-at-a-specific-column-in-pandas) - 2 votes
+* [How to make dummy coding pdget_dummies only for categories which share in nominal variables is at least 40 in Python Pandas](https://stackoverflow.com/questions/75012514/how-to-make-dummy-coding-pd-get-dummies-only-for-categories-which-share-in-n) - 2 votes
+* [Splitting nested lists into DataFrame](https://stackoverflow.com/questions/75018977/splitting-nested-lists-into-dataframe) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
