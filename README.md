@@ -1,35 +1,34 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-01-06<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-01-07<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Is there a way to do a right bitshift on a BigInt in Rust](https://stackoverflow.com/questions/75014722/is-there-a-way-to-do-a-right-bit-shift-on-a-bigint-in-rust) - 3 votes
-* [Why is quotxquot trying to parse as a literal and failing in declarative macros](https://stackoverflow.com/questions/75019747/why-is-x-trying-to-parse-as-a-literal-and-failing-in-declarative-macros) - 3 votes
-* [Why do window contents disappear at redraw](https://stackoverflow.com/questions/75018623/why-do-window-contents-disappear-at-redraw) - 2 votes
-* [serde how to error out when deserializing empty arrays](https://stackoverflow.com/questions/75016452/serde-how-to-error-out-when-deserializing-empty-arrays) - 1 votes
-* [Singleton managing a hashMap](https://stackoverflow.com/questions/75025917/singleton-managing-a-hashmap) - 1 votes
+* [Why can I call iter and collect inline without lifetime issues](https://stackoverflow.com/questions/75041582/why-can-i-call-iter-and-collect-inline-without-lifetime-issues) - 2 votes
+* [Mismatched types parameter error on rust generics](https://stackoverflow.com/questions/75038278/mismatched-types-parameter-error-on-rust-generics) - 2 votes
+* [How to assert type in a Rust macro](https://stackoverflow.com/questions/75032017/how-to-assert-type-in-a-rust-macro) - 2 votes
+* [How to cancel a longrunning query when using rustsqlxtokio](https://stackoverflow.com/questions/75039196/how-to-cancel-a-long-running-query-when-using-rust-sqlx-tokio) - 2 votes
+* [Which Rust RNG should be used for multithreaded sampling](https://stackoverflow.com/questions/75042307/which-rust-rng-should-be-used-for-multithreaded-sampling) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Enable quotTry it outquot in OpenAPI so that no need to click](https://stackoverflow.com/questions/75019496/enable-try-it-out-in-openapi-so-that-no-need-to-click) - 3 votes
-* [Axios Post is not waiting in react so never goes into then](https://stackoverflow.com/questions/75014825/axios-post-is-not-waiting-in-react-so-never-goes-into-then) - 1 votes
+* [Storing and serving course completion certificates for a small number of participants using Python FastAPI](https://stackoverflow.com/questions/75038185/storing-and-serving-course-completion-certificates-for-a-small-number-of-partici) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [How to concat column Y to column X and replicate values Z in pandas dataframe](https://stackoverflow.com/questions/75039860/how-to-concat-column-y-to-column-x-and-replicate-values-z-in-pandas-dataframe) - 3 votes
+* [How do I split a column to many colum by row quantity](https://stackoverflow.com/questions/75040669/how-do-i-split-a-column-to-many-colum-by-row-quantity) - 3 votes
 * [resampling aggapply behavior](https://stackoverflow.com/questions/75031868/resampling-agg-apply-behavior) - 3 votes
 * [How to create consistent time series dataset using an inconsistent time series dataset](https://stackoverflow.com/questions/75026832/how-to-create-consistent-time-series-dataset-using-an-inconsistent-time-series-d) - 3 votes
-* [Convert pandas series of strings to a series of lists](https://stackoverflow.com/questions/75021051/convert-pandas-series-of-strings-to-a-series-of-lists) - 2 votes
-* [Splitting nested lists into DataFrame](https://stackoverflow.com/questions/75018977/splitting-nested-lists-into-dataframe) - 2 votes
 * [Count occurrence within a group using different columns for each group](https://stackoverflow.com/questions/75030573/count-occurrence-within-a-group-using-different-columns-for-each-group) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
