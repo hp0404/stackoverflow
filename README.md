@@ -1,37 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-01-14<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-01-15<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How do I tackle this issue quotexpected a closure that implements the Fn trait but this closure only implements FnOncequot](https://stackoverflow.com/questions/75111517/how-do-i-tackle-this-issue-expected-a-closure-that-implements-the-fn-trait-b) - 3 votes
 * [Is transmuting T  to T safe](https://stackoverflow.com/questions/75120160/is-transmuting-t-to-t-safe) - 2 votes
-* [Serialize data into struct model where two of those fields39 data are calculated based upon other fields in the struct](https://stackoverflow.com/questions/75105030/serialize-data-into-struct-model-where-two-of-those-fields-data-are-calculated) - 2 votes
-* [Is there idiomatic opposite of ResultltT Infalliblegt](https://stackoverflow.com/questions/75107587/is-there-idiomatic-opposite-of-resultt-infallible) - 1 votes
-* [why the value in Box can be moved out](https://stackoverflow.com/questions/75106779/why-the-value-in-box-can-be-moved-out) - 1 votes
+* [Correct way to get accurate time in Rust](https://stackoverflow.com/questions/75126138/correct-way-to-get-accurate-time-in-rust) - 2 votes
+* [Is there a way to automatically register trait implementors](https://stackoverflow.com/questions/75122868/is-there-a-way-to-automatically-register-trait-implementors) - 2 votes
+* [Vector registers in rust inline asm Cannot use value of type Simdlti64 8gt for inline assembly](https://stackoverflow.com/questions/75127827/vector-registers-in-rust-inline-asm-cannot-use-value-of-type-simdi64-8-for) - 2 votes
+* [Error failed to run custom build command for libc v02139 but the problem seems deeper](https://stackoverflow.com/questions/75127041/error-failed-to-run-custom-build-command-for-libc-v0-2-139-but-the-problem-s) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [iterativeai MLEM  ModuleNotFoundError No module named 39mlemapi39 39mlem39 is not a package](https://stackoverflow.com/questions/75108143/iterative-ai-mlem-modulenotfounderror-no-module-named-mlem-api-mlem-is-n) - 1 votes
-* [How to perform a synchronous task in an asynchronous FastAPI REST endpoint without blocking the event loop](https://stackoverflow.com/questions/75110264/how-to-perform-a-synchronous-task-in-an-asynchronous-fastapi-rest-endpoint-witho) - 1 votes
-* [OpenAPI spec generated from FastAPI not showing missing values allowed as dict values](https://stackoverflow.com/questions/75104648/openapi-spec-generated-from-fastapi-not-showing-missing-values-allowed-as-dict-v) - 1 votes
+* [Validation Error in get request fastAPI sqlalchemy](https://stackoverflow.com/questions/75124910/validation-error-in-get-request-fastapi-sqlalchemy) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [How do I combine lists in column of dataframe to a single list](https://stackoverflow.com/questions/75127920/how-do-i-combine-lists-in-column-of-dataframe-to-a-single-list) - 3 votes
 * [Interpolation using asfreq39D39 in Multiindex](https://stackoverflow.com/questions/75116574/interpolation-using-asfreqd-in-multiindex) - 3 votes
-* [Analyze if the value of a column is less than another and this another is less than another and so on](https://stackoverflow.com/questions/75111518/analyze-if-the-value-of-a-column-is-less-than-another-and-this-another-is-less-t) - 3 votes
-* [groupby and sum on specific colums based on mapping](https://stackoverflow.com/questions/75111148/groupby-and-sum-on-specific-colums-based-on-mapping) - 3 votes
-* [Improve code for iterating over dates for various pairs of two categories](https://stackoverflow.com/questions/75113742/improve-code-for-iterating-over-dates-for-various-pairs-of-two-categories) - 3 votes
-* [pandas drop_duplicates on blocks of duplicates](https://stackoverflow.com/questions/75113417/pandas-drop-duplicates-on-blocks-of-duplicates) - 2 votes
+* [How to manipulate Pandas Series without changing the given Original](https://stackoverflow.com/questions/75125180/how-to-manipulate-pandas-series-without-changing-the-given-original) - 2 votes
+* [How to remove rows so that the values in a column match a sequence](https://stackoverflow.com/questions/75124225/how-to-remove-rows-so-that-the-values-in-a-column-match-a-sequence) - 2 votes
+* [how to merge csv files columns start with 01 02 03 till 100](https://stackoverflow.com/questions/75118186/how-to-merge-csv-files-columns-start-with-01-02-03-till-100) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
