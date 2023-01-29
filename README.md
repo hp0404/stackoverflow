@@ -1,15 +1,15 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-01-28<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-01-29<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Rust  unsafely share between threads a mutable data without mutex](https://stackoverflow.com/questions/75252861/rust-unsafely-share-between-threads-a-mutable-data-without-mutex) - 5 votes
-* [Cleaner Match Arms for Deeply Nested Enums](https://stackoverflow.com/questions/75261899/cleaner-match-arms-for-deeply-nested-enums) - 2 votes
-* [Object safe generic without type erasure](https://stackoverflow.com/questions/75260247/object-safe-generic-without-type-erasure) - 2 votes
+* [Why the deref operation of String type returns reference of str but Asterisk operator returns str](https://stackoverflow.com/questions/75270902/why-the-deref-operation-of-string-type-returns-reference-of-str-but-asterisk) - 2 votes
+* [Cargo feature flags still compile all default targets](https://stackoverflow.com/questions/75273695/cargo-feature-flags-still-compile-all-default-targets) - 2 votes
+* [Can we use feature flags for builddependencies amp devdependencies in Cargotoml](https://stackoverflow.com/questions/75275402/can-we-use-feature-flags-for-build-dependencies-dev-dependencies-in-cargo-toml) - 2 votes
 * [How to judge whether two Rc point to the same object in Rust](https://stackoverflow.com/questions/75269270/how-to-judge-whether-two-rc-point-to-the-same-object-in-rust) - 1 votes
 * [Concise logging when matching Result](https://stackoverflow.com/questions/75268304/concise-logging-when-matching-result) - 1 votes
 <!-- rust ends -->
@@ -18,19 +18,18 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPIPydantic alias existing ORM field](https://stackoverflow.com/questions/75263373/fastapi-pydantic-alias-existing-orm-field) - 1 votes
-* [FASTAPI Testing Database not creating db](https://stackoverflow.com/questions/75260414/fastapi-testing-database-not-creating-db) - 1 votes
+* [Fastapi how to convert string to list when calling get methos](https://stackoverflow.com/questions/75271285/fastapi-how-to-convert-string-to-list-when-calling-get-methos) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Python pandas  wide data  identify earliest and maximum columns in time series](https://stackoverflow.com/questions/75262933/python-pandas-wide-data-identify-earliest-and-maximum-columns-in-time-series) - 3 votes
-* [How can I aggregate rows together according to a selected column using a pandas DataFrame](https://stackoverflow.com/questions/75264100/how-can-i-aggregate-rows-together-according-to-a-selected-column-using-a-pandas) - 3 votes
-* [Adding new data to a Dataframe from another Dataframe based on condition](https://stackoverflow.com/questions/75263740/adding-new-data-to-a-dataframe-from-another-dataframe-based-on-condition) - 2 votes
-* [dfloc print wrong expected value](https://stackoverflow.com/questions/75255303/df-loc-print-wrong-expected-value) - 2 votes
-* [Can a list comprehension be divided in two lists](https://stackoverflow.com/questions/75259474/can-a-list-comprehension-be-divided-in-two-lists) - 2 votes
+* [Truncate and renumber a column that corresponds to a specific idgroup by using Python](https://stackoverflow.com/questions/75265820/truncate-and-re-number-a-column-that-corresponds-to-a-specific-id-group-by-using) - 2 votes
+* [Percentages a single column39s values in separate columns](https://stackoverflow.com/questions/75272541/percentages-a-single-columns-values-in-separate-columns) - 2 votes
+* [How to compare two dataframes in pandas without for loop](https://stackoverflow.com/questions/75266730/how-to-compare-two-dataframes-in-pandas-without-for-loop) - 2 votes
+* [How to filter with conditions to add to new column](https://stackoverflow.com/questions/75278005/how-to-filter-with-conditions-to-add-to-new-column) - 1 votes
+* [Change variable on the basis of last character](https://stackoverflow.com/questions/75274484/change-variable-on-the-basis-of-last-character) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
