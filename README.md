@@ -1,35 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-01-30<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-01-31<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Inplace memory update like takeswapreplace but with a closure](https://stackoverflow.com/questions/75278531/in-place-memory-update-like-take-swap-replace-but-with-a-closure) - 3 votes
-* [Cargo feature flags still compile all default targets](https://stackoverflow.com/questions/75273695/cargo-feature-flags-still-compile-all-default-targets) - 2 votes
-* [Can we use feature flags for builddependencies amp devdependencies in Cargotoml](https://stackoverflow.com/questions/75275402/can-we-use-feature-flags-for-build-dependencies-dev-dependencies-in-cargo-toml) - 2 votes
-* [Why can I only have a single Texture binding in my wgpu bind group](https://stackoverflow.com/questions/75275192/why-can-i-only-have-a-single-texture-binding-in-my-wgpu-bind-group) - 1 votes
-* [Can I reuse a struct field during type conversion without calling clone](https://stackoverflow.com/questions/75289253/can-i-reuse-a-struct-field-during-type-conversion-without-calling-clone) - 1 votes
+* [Can I reuse a struct field during type conversion without calling clone](https://stackoverflow.com/questions/75289253/can-i-reuse-a-struct-field-during-type-conversion-without-calling-clone) - 2 votes
+* [Idiomatic way of wrapping a returned error inside a function](https://stackoverflow.com/questions/75302166/idiomatic-way-of-wrapping-a-returned-error-inside-a-function) - 2 votes
+* [Establish a release atomic ordering on an atomic object without writing into it](https://stackoverflow.com/questions/75301783/establish-a-release-atomic-ordering-on-an-atomic-object-without-writing-into-it) - 1 votes
+* [Rust how to select if table row exists in diesel](https://stackoverflow.com/questions/75298189/rust-how-to-select-if-table-row-exists-in-diesel) - 1 votes
+* [Run quotshould_panicquot tests with different inputs](https://stackoverflow.com/questions/75301333/run-should-panic-tests-with-different-inputs) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [How to place specific constraints on the parameters of a Pydantic model](https://stackoverflow.com/questions/75295132/how-to-place-specific-constraints-on-the-parameters-of-a-pydantic-model) - 1 votes
+* [Is there anyway to use kubernetes pods with a shared resource NFS to save chunks of files as they come](https://stackoverflow.com/questions/75297555/is-there-anyway-to-use-kubernetes-pods-with-a-shared-resource-nfs-to-save-chunks) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [Pandas replace certain values within groups using group maximus](https://stackoverflow.com/questions/75300394/pandas-replace-certain-values-within-groups-using-group-maximus) - 3 votes
+* [Sum the values of a column with Python](https://stackoverflow.com/questions/75296495/sum-the-values-of-a-column-with-python) - 3 votes
 * [Python Pandas  Remove a word from a cell](https://stackoverflow.com/questions/75289175/python-pandas-remove-a-word-from-a-cell) - 2 votes
 * [Optimization of map in grouped by object](https://stackoverflow.com/questions/75285604/optimization-of-map-in-grouped-by-object) - 2 votes
-* [Percentages a single column39s values in separate columns](https://stackoverflow.com/questions/75272541/percentages-a-single-columns-values-in-separate-columns) - 2 votes
-* [Replace all strings in a dataframe using for loop](https://stackoverflow.com/questions/75279858/replace-all-strings-in-a-dataframe-using-for-loop) - 2 votes
-* [How to filter with conditions to add to new column](https://stackoverflow.com/questions/75278005/how-to-filter-with-conditions-to-add-to-new-column) - 1 votes
+* [Sort column names using wildcard using pandas](https://stackoverflow.com/questions/75294735/sort-column-names-using-wildcard-using-pandas) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
