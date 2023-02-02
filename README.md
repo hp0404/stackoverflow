@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-02-01<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-02-02<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,30 +8,31 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### rust
 <!-- rust starts -->
 * [Why does assigning a reference to a variable make me not able to return it](https://stackoverflow.com/questions/75314034/why-does-assigning-a-reference-to-a-variable-make-me-not-able-to-return-it) - 6 votes
-* [Idiomatic way of wrapping a returned error inside a function](https://stackoverflow.com/questions/75302166/idiomatic-way-of-wrapping-a-returned-error-inside-a-function) - 3 votes
+* [Wrong lifetime inference for closure with implicit types](https://stackoverflow.com/questions/75320703/wrong-lifetime-inference-for-closure-with-implicit-types) - 4 votes
 * [How do I implement a getmethod for an enum that returns the right type](https://stackoverflow.com/questions/75309663/how-do-i-implement-a-get-method-for-an-enum-that-returns-the-right-type) - 2 votes
-* [Implementing decorators in terms of closures with pyo3](https://stackoverflow.com/questions/75308553/implementing-decorators-in-terms-of-closures-with-pyo3) - 2 votes
-* [Establish a release atomic ordering on an atomic object without writing into it](https://stackoverflow.com/questions/75301783/establish-a-release-atomic-ordering-on-an-atomic-object-without-writing-into-it) - 1 votes
+* [Is there a way to stop rustanalyzer from dimming quotinactivequot code](https://stackoverflow.com/questions/75326383/is-there-a-way-to-stop-rust-analyzer-from-dimming-inactive-code) - 2 votes
+* [Convert T to ampmut T with ](https://stackoverflow.com/questions/75317865/convert-t-to-mut-t-with) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to place specific constraints on the parameters of a Pydantic model](https://stackoverflow.com/questions/75295132/how-to-place-specific-constraints-on-the-parameters-of-a-pydantic-model) - 1 votes
+* [Fastapi many to many relation with extra relationships](https://stackoverflow.com/questions/75321439/fastapi-many-to-many-relation-with-extra-relationships) - 1 votes
+* [Response model as list of strings instead of objects](https://stackoverflow.com/questions/75315788/response-model-as-list-of-strings-instead-of-objects) - 1 votes
+* [Form List to DB array FastAPI](https://stackoverflow.com/questions/75321726/form-list-to-db-array-fastapi) - 1 votes
 * [How can I combine SQLAlchemy queries in Repository Pattern](https://stackoverflow.com/questions/75311481/how-can-i-combine-sqlalchemy-queries-in-repository-pattern) - 1 votes
-* [Is there anyway to use kubernetes pods with a shared resource NFS to save chunks of files as they come](https://stackoverflow.com/questions/75297555/is-there-anyway-to-use-kubernetes-pods-with-a-shared-resource-nfs-to-save-chunks) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas replace certain values within groups using group maximus](https://stackoverflow.com/questions/75300394/pandas-replace-certain-values-within-groups-using-group-maximus) - 3 votes
-* [Sum the values of a column with Python](https://stackoverflow.com/questions/75296495/sum-the-values-of-a-column-with-python) - 3 votes
 * [Convert a series of number become one single line of numbers](https://stackoverflow.com/questions/75308719/convert-a-series-of-number-become-one-single-line-of-numbers) - 3 votes
-* [Version control with DataFrames](https://stackoverflow.com/questions/75300635/version-control-with-dataframes) - 3 votes
+* [Putting NaN when a day in a DataFrame doesn39t return a value](https://stackoverflow.com/questions/75317421/putting-nan-when-a-day-in-a-dataframe-doesnt-return-a-value) - 2 votes
 * [Create a MultiIndex with set_index transforms 0 and 1 into booleans](https://stackoverflow.com/questions/75308928/create-a-multiindex-with-set-index-transforms-0-and-1-into-booleans) - 2 votes
+* [How do I quickly drop rows based on the max value in a groupby](https://stackoverflow.com/questions/75320065/how-do-i-quickly-drop-rows-based-on-the-max-value-in-a-groupby) - 2 votes
+* [read_sql_query throws quot39OptionEngine39 object has no attribute 39execute39quot with SQLAlchemy 200](https://stackoverflow.com/questions/75309237/read-sql-query-throws-optionengine-object-has-no-attribute-execute-with) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
