@@ -1,36 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-02-07<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-02-08<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why is the efficient example of BufRead in the Rust book efficient](https://stackoverflow.com/questions/75359557/why-is-the-efficient-example-of-bufread-in-the-rust-book-efficient) - 4 votes
-* [Why are match statements more picky about reference types than function parameters](https://stackoverflow.com/questions/75365910/why-are-match-statements-more-picky-about-reference-types-than-function-paramete) - 3 votes
-* [Can I load a C shared library built with address sanitizer from Rust](https://stackoverflow.com/questions/75376231/can-i-load-a-c-shared-library-built-with-address-sanitizer-from-rust) - 3 votes
-* [Avoid lifetime constraints on trait associated types](https://stackoverflow.com/questions/75359755/avoid-lifetime-constraints-on-trait-associated-types) - 3 votes
-* [How to build a negative lookahead parser in nom](https://stackoverflow.com/questions/75365067/how-to-build-a-negative-lookahead-parser-in-nom) - 2 votes
+* [Can I load a C shared library built with address sanitizer from Rust](https://stackoverflow.com/questions/75376231/can-i-load-a-c-shared-library-built-with-address-sanitizer-from-rust) - 5 votes
+* [What can be an owner](https://stackoverflow.com/questions/75383395/what-can-be-an-owner) - 4 votes
+* [How do the different definitions of Sequentially Consistent relate to each other](https://stackoverflow.com/questions/75379124/how-do-the-different-definitions-of-sequentially-consistent-relate-to-each-other) - 3 votes
+* [Finetuning performance vs executable size optimizations](https://stackoverflow.com/questions/75384752/fine-tuning-performance-vs-executable-size-optimizations) - 3 votes
+* [Running an actix web server on a separate thread](https://stackoverflow.com/questions/75386470/running-an-actix-web-server-on-a-separate-thread) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastApi illegal character U001F](https://stackoverflow.com/questions/75366358/fastapi-illegal-character-u001f) - 1 votes
-* [FastAPI  Pydantic Query Parameter with Enum](https://stackoverflow.com/questions/75365121/fastapi-pydantic-query-parameter-with-enum) - 1 votes
+* [getting error 422 on my json string on chrome dev tool but working fine on fast api docs](https://stackoverflow.com/questions/75382962/getting-error-422-on-my-json-string-on-chrome-dev-tool-but-working-fine-on-fast) - 2 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Inserting Rows with Consecutive Dates for Different Projects with Different Start and End Dates in pandas](https://stackoverflow.com/questions/75365789/inserting-rows-with-consecutive-dates-for-different-projects-with-different-star) - 3 votes
 * [list of dictionaries to pd dataframe with a single row](https://stackoverflow.com/questions/75372344/list-of-dictionaries-to-pd-dataframe-with-a-single-row) - 2 votes
+* [combine multiple column into one in pandas](https://stackoverflow.com/questions/75382960/combine-multiple-column-into-one-in-pandas) - 2 votes
+* [Is there a way to reshape a single index pandas DataFrame into a multi index to adapt to time series](https://stackoverflow.com/questions/75381328/is-there-a-way-to-reshape-a-single-index-pandas-dataframe-into-a-multi-index-to) - 2 votes
+* [How to plot timeseries data in VSCode using pandas](https://stackoverflow.com/questions/75385586/how-to-plot-timeseries-data-in-vscode-using-pandas) - 2 votes
 * [Python Loop through tuple and insert into Data Frame for each value](https://stackoverflow.com/questions/75376677/python-loop-through-tuple-and-insert-into-data-frame-for-each-value) - 2 votes
-* [Pandas groupby sorting](https://stackoverflow.com/questions/75364753/pandas-groupby-sorting) - 2 votes
-* [Finding Last n Groups of Rows in Dataframe](https://stackoverflow.com/questions/75363758/finding-last-n-groups-of-rows-in-dataframe) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
