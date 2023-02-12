@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-02-11<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-02-12<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,31 +8,29 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### rust
 <!-- rust starts -->
 * [Is returning a refrence to an enum variant in Rust a good idea](https://stackoverflow.com/questions/75418066/is-returning-a-refrence-to-an-enum-variant-in-rust-a-good-idea) - 4 votes
-* [Rust serde deserialize dynamic trait](https://stackoverflow.com/questions/75413768/rust-serde-deserialize-dynamic-trait) - 3 votes
 * [Implement iterator that does not consume](https://stackoverflow.com/questions/75421682/implement-iterator-that-does-not-consume) - 2 votes
-* [Mutable methods with lifetimes and later references](https://stackoverflow.com/questions/75412434/mutable-methods-with-lifetimes-and-later-references) - 2 votes
-* [How do I replace version quotquot in Cargotoml with version numbers from Cargolock](https://stackoverflow.com/questions/75408998/how-do-i-replace-version-in-cargo-toml-with-version-numbers-from-cargo-lock) - 2 votes
+* [What does DlsymWeakinitialize do in rust](https://stackoverflow.com/questions/75424466/what-does-dlsymweakinitialize-do-in-rust) - 2 votes
+* [How to use an unnamed type implementing a trait in a closure39s return type](https://stackoverflow.com/questions/75420823/how-to-use-an-unnamed-type-implementing-a-trait-in-a-closures-return-type) - 1 votes
+* [Can tokioselect allow defining arbitrary numbre of branches](https://stackoverflow.com/questions/75424004/can-tokioselect-allow-defining-arbitrary-numbre-of-branches) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
+* [Google SignIn Implementation](https://stackoverflow.com/questions/75425760/google-sign-in-implementation) - 1 votes
 * [39__post_init__39 or dynamically create new fields of SQLModel after initiation](https://stackoverflow.com/questions/75418799/post-init-or-dynamically-create-new-fields-of-sqlmodel-after-initiation) - 1 votes
-* [In FastApi websocket I can send messages to the backend but I can180t receive](https://stackoverflow.com/questions/75413683/in-fastapi-websocket-i-can-send-messages-to-the-backend-but-i-can%c2%b4t-receive) - 1 votes
-* [Pydantic with FastAPI How to customise the message for quot422 Unprocessable Entityquot error](https://stackoverflow.com/questions/75411647/pydantic-with-fastapi-how-to-customise-the-message-for-422-unprocessable-entit) - 1 votes
-* [FastAPI server is not accessible from local network](https://stackoverflow.com/questions/75407634/fastapi-server-is-not-accessible-from-local-network) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How to reshape pivot_wider and pivot_longer a pandas DataFame](https://stackoverflow.com/questions/75408246/how-to-reshape-pivot-wider-and-pivot-longer-a-pandas-datafame) - 2 votes
-* [Comparing Pandas DataFrame rows against two threshold values](https://stackoverflow.com/questions/75413206/comparing-pandas-dataframe-rows-against-two-threshold-values) - 2 votes
+* [Using npwhere to return the mean of df row39s based on criteria](https://stackoverflow.com/questions/75420647/using-np-where-to-return-the-mean-of-df-rows-based-on-criteria) - 2 votes
 * [Python filter dataframe by iterating through list of words in one column and returning rows where any word from list can be found in another column](https://stackoverflow.com/questions/75421086/python-filter-dataframe-by-iterating-through-list-of-words-in-one-column-and-ret) - 2 votes
-* [how to match data from a linked pages together by web scraping](https://stackoverflow.com/questions/75411474/how-to-match-data-from-a-linked-pages-together-by-web-scraping) - 2 votes
-* [Check if the column value of a row is equal to values in current or other columns for other rows of the same dataframe](https://stackoverflow.com/questions/75410443/check-if-the-column-value-of-a-row-is-equal-to-values-in-current-or-other-column) - 2 votes
+* [Creating a Calculated Row Based on Multiple Conditions in a Dataframe with Python](https://stackoverflow.com/questions/75429614/creating-a-calculated-row-based-on-multiple-conditions-in-a-dataframe-with-pytho) - 2 votes
+* [Find names of n largest values in each row of dataframe](https://stackoverflow.com/questions/75419119/find-names-of-n-largest-values-in-each-row-of-dataframe) - 1 votes
+* [How to attach a groupby aggregate to the original dataframe where the aggregate is placed in a new column at the bottom of each group](https://stackoverflow.com/questions/75426081/how-to-attach-a-groupby-aggregate-to-the-original-dataframe-where-the-aggregate) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
