@@ -1,36 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-02-13<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-02-14<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Rust how do i correctly free heap allocated memory](https://stackoverflow.com/questions/75441199/rust-how-do-i-correctly-free-heap-allocated-memory) - 3 votes
 * [How to configure VSCode with Rust for binary execution](https://stackoverflow.com/questions/75436664/how-to-configure-vscode-with-rust-for-binary-execution) - 2 votes
-* [Rust how do i correctly free heap allocated memory](https://stackoverflow.com/questions/75441199/rust-how-do-i-correctly-free-heap-allocated-memory) - 2 votes
+* [Is there a proper way to transform a 2D array in a reference 1D](https://stackoverflow.com/questions/75451936/is-there-a-proper-way-to-transform-a-2d-array-in-a-reference-1d) - 2 votes
+* [Rustlings slice primitives](https://stackoverflow.com/questions/75448934/rustlings-slice-primitives) - 2 votes
 * [What does it mean when Rust throws the error quotcannot move out of variable which is behind a shared referencequot](https://stackoverflow.com/questions/75434385/what-does-it-mean-when-rust-throws-the-error-cannot-move-out-of-variable-whi) - 2 votes
-* [What does DlsymWeakinitialize do in rust](https://stackoverflow.com/questions/75424466/what-does-dlsymweakinitialize-do-in-rust) - 2 votes
-* [Rust  how to split flatten an iterator](https://stackoverflow.com/questions/75435570/rust-how-to-split-flatten-an-iterator) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to POST image using Python requests to FastAPI backend](https://stackoverflow.com/questions/75435464/how-to-post-image-using-python-requests-to-fastapi-backend) - 1 votes
-* [Google SignIn Implementation](https://stackoverflow.com/questions/75425760/google-sign-in-implementation) - 1 votes
+* [Check if request is coming from Swagger UI](https://stackoverflow.com/questions/75449889/check-if-request-is-coming-from-swagger-ui) - 2 votes
+* [Is it possible to have a required query parameter with a default value on FastAPI](https://stackoverflow.com/questions/75448722/is-it-possible-to-have-a-required-query-parameter-with-a-default-value-on-fastap) - 1 votes
+* [Why is my FastApi program returning valueerror missing for this request even though it39s working well for other requests which are almost same](https://stackoverflow.com/questions/75449807/why-is-my-fastapi-program-returning-value-error-missing-for-this-request-even-th) - 1 votes
+* [Can39t access the fastapi page using the public ipv4 address of the deployed aws ec2 instance with uvicorn running service](https://stackoverflow.com/questions/75446042/cant-access-the-fastapi-page-using-the-public-ipv4-address-of-the-deployed-aws) - 1 votes
+* [Save wav locally or post it to Fastapi endpoint](https://stackoverflow.com/questions/75438849/save-wav-locally-or-post-it-to-fastapi-endpoint) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [Why does pandas read_excel fail on an openpyxl error saying 39ReadOnlyWorksheet39 object has no attribute 39defined_names39](https://stackoverflow.com/questions/75440354/why-does-pandas-read-excel-fail-on-an-openpyxl-error-saying-readonlyworksheet) - 3 votes
+* [Run short python code directly on snakemake](https://stackoverflow.com/questions/75446361/run-short-python-code-directly-on-snakemake) - 3 votes
+* [Pandas left join with duplicates](https://stackoverflow.com/questions/75441542/pandas-left-join-with-duplicates) - 2 votes
 * [Python  Pandas quotBadGzipFilequot Error When Reading in quotjsongzquot File](https://stackoverflow.com/questions/75438003/python-pandas-badgzipfile-error-when-reading-in-json-gz-file) - 2 votes
-* [Creating a Calculated Row Based on Multiple Conditions in a Dataframe with Python](https://stackoverflow.com/questions/75429614/creating-a-calculated-row-based-on-multiple-conditions-in-a-dataframe-with-pytho) - 2 votes
-* [Setting cell values based on computation of all the rows but one](https://stackoverflow.com/questions/75438380/setting-cell-values-based-on-computation-of-all-the-rows-but-one) - 2 votes
-* [Calculate average price of stock from a dataframe](https://stackoverflow.com/questions/75434811/calculate-average-price-of-stock-from-a-dataframe) - 2 votes
-* [Calculate Tanimoto coefficient for dataframe](https://stackoverflow.com/questions/75431857/calculate-tanimoto-coefficient-for-dataframe) - 2 votes
+* [How to write to a CSV file with pandas while appending to the next empty row without writing the columns again](https://stackoverflow.com/questions/75444637/how-to-write-to-a-csv-file-with-pandas-while-appending-to-the-next-empty-row-wit) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
