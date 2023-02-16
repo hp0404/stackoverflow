@@ -1,39 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-02-15<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-02-16<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [A nicer way to create an ad hoc iterator than quotvecabcinto_iterquot](https://stackoverflow.com/questions/75466969/a-nicer-way-to-create-an-ad-hoc-iterator-than-veca-b-c-into-iter) - 4 votes
+* [How to asynchronously memoize a field of struct in an Option](https://stackoverflow.com/questions/75475540/how-to-asynchronously-memoize-a-field-of-struct-in-an-option) - 3 votes
+* [What does quotuninitializedquot mean in the context of FFI](https://stackoverflow.com/questions/75467404/what-does-uninitialized-mean-in-the-context-of-ffi) - 3 votes
 * [How to establish external timeout for notifyrust](https://stackoverflow.com/questions/75461765/how-to-establish-external-timeout-for-notify-rust) - 2 votes
-* [Is there a proper way to transform a 2D array in a reference 1D](https://stackoverflow.com/questions/75451936/is-there-a-proper-way-to-transform-a-2d-array-in-a-reference-1d) - 2 votes
-* [Rustlings slice primitives](https://stackoverflow.com/questions/75448934/rustlings-slice-primitives) - 2 votes
-* [Writing a trait bound only once for generic struct in Rust](https://stackoverflow.com/questions/75444377/writing-a-trait-bound-only-once-for-generic-struct-in-rust) - 1 votes
-* [How to create an overload API or function in Actixweb](https://stackoverflow.com/questions/75455049/how-to-create-an-overload-api-or-function-in-actix-web) - 1 votes
+* [RSA_private_decrypt padding](https://stackoverflow.com/questions/75464959/rsa-private-decrypt-padding) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Check if request is coming from Swagger UI](https://stackoverflow.com/questions/75449889/check-if-request-is-coming-from-swagger-ui) - 2 votes
 * [Can I have the same FastAPI GET endpoints accepting two different types of input](https://stackoverflow.com/questions/75456070/can-i-have-the-same-fastapi-get-endpoints-accepting-two-different-types-of-input) - 2 votes
-* [Is it possible to have a required query parameter with a default value on FastAPI](https://stackoverflow.com/questions/75448722/is-it-possible-to-have-a-required-query-parameter-with-a-default-value-on-fastap) - 1 votes
-* [What does async actually do in FASTapi](https://stackoverflow.com/questions/75463993/what-does-async-actually-do-in-fastapi) - 1 votes
+* [FastAPI in dockerswarm fails to deliver responses over a few kilobytes](https://stackoverflow.com/questions/75464987/fastapi-in-dockerswarm-fails-to-deliver-responses-over-a-few-kilobytes) - 1 votes
 * [asynciorun cannot be called from a running event loop in FastAPI](https://stackoverflow.com/questions/75457223/asyncio-run-cannot-be-called-from-a-running-event-loop-in-fastapi) - 1 votes
+* [Mocking environment variables with starlette config](https://stackoverflow.com/questions/75460835/mocking-environment-variables-with-starlette-config) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Run short python code directly on snakemake](https://stackoverflow.com/questions/75446361/run-short-python-code-directly-on-snakemake) - 3 votes
+* [Pandas rolling window on an offset between 4 and 2 weeks in the past](https://stackoverflow.com/questions/75474045/pandas-rolling-window-on-an-offset-between-4-and-2-weeks-in-the-past) - 4 votes
 * [Sorting a csv in Python  splitting first column with string delimiter then ordering via the second element then first element](https://stackoverflow.com/questions/75455272/sorting-a-csv-in-python-splitting-first-column-with-string-delimiter-then-orde) - 2 votes
-* [How to write to a CSV file with pandas while appending to the next empty row without writing the columns again](https://stackoverflow.com/questions/75444637/how-to-write-to-a-csv-file-with-pandas-while-appending-to-the-next-empty-row-wit) - 2 votes
-* [Get first occurrence after specific row in DataFrame](https://stackoverflow.com/questions/75443670/get-first-occurrence-after-specific-row-in-dataframe) - 2 votes
-* [Pandas Delete rows of each group by condition](https://stackoverflow.com/questions/75463394/pandas-delete-rows-of-each-group-by-condition) - 2 votes
+* [PandasDatetime rounding error Rounding to 10 seconds](https://stackoverflow.com/questions/75473516/pandas-datetime-rounding-error-rounding-to-10-seconds) - 2 votes
+* [Pandas How to remove rows with duplicate compound keys while keeping missing values distributed among the duplicates](https://stackoverflow.com/questions/75477558/pandas-how-to-remove-rows-with-duplicate-compound-keys-while-keeping-missing-v) - 2 votes
+* [How do I reshape my data so that IDs with multiple observations are grouped as all possible pairs of observations by ID](https://stackoverflow.com/questions/75465503/how-do-i-reshape-my-data-so-that-ids-with-multiple-observations-are-grouped-as-a) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
