@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-02-22<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-02-23<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -9,29 +9,28 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 <!-- rust starts -->
 * [How to write a retry function in Rust that involves async](https://stackoverflow.com/questions/75533630/how-to-write-a-retry-function-in-rust-that-involves-async) - 3 votes
 * [When I store a async function in a struct why it need a lifetime](https://stackoverflow.com/questions/75530163/when-i-store-a-async-function-in-a-struct-why-it-need-a-lifetime) - 3 votes
-* [Construct a struct that holds a generic iterator of i32 from 39from_iter39](https://stackoverflow.com/questions/75522966/construct-a-struct-that-holds-a-generic-iterator-of-i32-from-from-iter) - 2 votes
-* [Find unique intersection of a Series of lists of string](https://stackoverflow.com/questions/75526110/find-unique-intersection-of-a-series-of-lists-of-string) - 2 votes
-* [How to write df as parquet to s3 in polars rust](https://stackoverflow.com/questions/75521913/how-to-write-df-as-parquet-to-s3-in-polars-rust) - 2 votes
+* [Cannot borrow as mutable more than once at a time](https://stackoverflow.com/questions/75547567/cannot-borrow-as-mutable-more-than-once-at-a-time) - 3 votes
+* [How to compose functions that modify a struct in Rust](https://stackoverflow.com/questions/75544917/how-to-compose-functions-that-modify-a-struct-in-rust) - 2 votes
+* [How to create a struct in Rust where the last element is an array of variable length](https://stackoverflow.com/questions/75544466/how-to-create-a-struct-in-rust-where-the-last-element-is-an-array-of-variable-le) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Polars with FastAPI and docker](https://stackoverflow.com/questions/75519686/polars-with-fastapi-and-docker) - 1 votes
-* [How I can deploy my Nodejs application ReactJs Frontent with Python Backend on same domain on cpanel](https://stackoverflow.com/questions/75522159/how-i-can-deploy-my-nodejs-application-reactjs-frontent-with-python-backend-on-s) - 1 votes
-* [Optimised way to format an 2D float array to a list of list of dictionaries](https://stackoverflow.com/questions/75520939/optimised-way-to-format-an-2d-float-array-to-a-list-of-list-of-dictionaries) - 1 votes
+* [Custom validation for FastAPI39s query parameter using pydatinc causes Internal Server Error](https://stackoverflow.com/questions/75539007/custom-validation-for-fastapis-query-parameter-using-pydatinc-causes-internal-s) - 2 votes
+* [How do I pass parameters to python FastAPI routers](https://stackoverflow.com/questions/75548597/how-do-i-pass-parameters-to-python-fastapi-routers) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Python Pandas GroupBy to calculate differences in months](https://stackoverflow.com/questions/75516448/python-pandas-groupby-to-calculate-differences-in-months) - 3 votes
+* [Transform a dataframe for network analysis using pandas](https://stackoverflow.com/questions/75537816/transform-a-dataframe-for-network-analysis-using-pandas) - 3 votes
 * [Calculating time difference with different base years in pandas](https://stackoverflow.com/questions/75531538/calculating-time-difference-with-different-base-years-in-pandas) - 3 votes
 * [How to break a row into multiple rows in python](https://stackoverflow.com/questions/75529376/how-to-break-a-row-into-multiple-rows-in-python) - 2 votes
-* [Converting dictionary of lists of dictionaries to a dataframe](https://stackoverflow.com/questions/75526358/converting-dictionary-of-lists-of-dictionaries-to-a-dataframe) - 2 votes
-* [Split remove whitespace and explode string in dataframe](https://stackoverflow.com/questions/75526717/split-remove-whitespace-and-explode-string-in-dataframe) - 2 votes
+* [How to swap multiple values within a row based on a conditional in pandas](https://stackoverflow.com/questions/75538846/how-to-swap-multiple-values-within-a-row-based-on-a-conditional-in-pandas) - 2 votes
+* [Merge Select Columns Dataframe Columns Into a MultiIndex](https://stackoverflow.com/questions/75536658/merge-select-columns-dataframe-columns-into-a-multi-index) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
