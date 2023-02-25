@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-02-24<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-02-25<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [use stderrorError declaration breaks compilation](https://stackoverflow.com/questions/75562372/use-stderrorerror-declaration-breaks-compilation) - 3 votes
 * [What happens when I don39t satisfy trait bounds](https://stackoverflow.com/questions/75559552/what-happens-when-i-dont-satisfy-trait-bounds) - 3 votes
-* [Cannot borrow as mutable more than once at a time](https://stackoverflow.com/questions/75547567/cannot-borrow-as-mutable-more-than-once-at-a-time) - 3 votes
-* [How to compose functions that modify a struct in Rust](https://stackoverflow.com/questions/75544917/how-to-compose-functions-that-modify-a-struct-in-rust) - 2 votes
-* [How to create a struct in Rust where the last element is an array of variable length](https://stackoverflow.com/questions/75544466/how-to-create-a-struct-in-rust-where-the-last-element-is-an-array-of-variable-le) - 2 votes
-* [quotborrowed value does not live long enoughquot when borrowing a tree node but it works when placed in a variable](https://stackoverflow.com/questions/75540948/borrowed-value-does-not-live-long-enough-when-borrowing-a-tree-node-but-it-wor) - 2 votes
+* [How to work with std_vector produced by rust bindgen](https://stackoverflow.com/questions/75556243/how-to-work-with-std-vector-produced-by-rust-bindgen) - 2 votes
+* [How to parse yaml conditional fields in rust](https://stackoverflow.com/questions/75555204/how-to-parse-yaml-conditional-fields-in-rust) - 2 votes
+* [What39s the optimization rule of rust vectorization](https://stackoverflow.com/questions/75566027/whats-the-optimization-rule-of-rust-vectorization) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -20,19 +20,17 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 <!-- fastapi starts -->
 * [FastAPI  return contents of csv file as plain text](https://stackoverflow.com/questions/75559357/fastapi-return-contents-of-csv-file-as-plain-text) - 1 votes
 * [how to receive a callback in python fastapi unittest](https://stackoverflow.com/questions/75553408/how-to-receive-a-callback-in-python-fastapi-unittest) - 1 votes
-* [How do I pass parameters to python FastAPI routers](https://stackoverflow.com/questions/75548597/how-do-i-pass-parameters-to-python-fastapi-routers) - 1 votes
-* [multi field validation in fastapi](https://stackoverflow.com/questions/75543546/multi-field-validation-in-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [Drop duplicates in a subset of columns per row rowwise only keeping the first copy rowwise only if every column has the same duplicate](https://stackoverflow.com/questions/75560915/drop-duplicates-in-a-subset-of-columns-per-row-rowwise-only-keeping-the-first) - 2 votes
+* [Delimiter for Splitting each character of a string](https://stackoverflow.com/questions/75562434/delimiter-for-splitting-each-character-of-a-string) - 2 votes
+* [How to get values at start and end of each day in a time series](https://stackoverflow.com/questions/75560746/how-to-get-values-at-start-and-end-of-each-day-in-a-time-series) - 2 votes
 * [Dataframe  replace value and values around based on condition](https://stackoverflow.com/questions/75554696/dataframe-replace-value-and-values-around-based-on-condition) - 2 votes
-* [How to separate the groupedby data in diferent columns of a dataframe](https://stackoverflow.com/questions/75548102/how-to-separate-the-groupedby-data-in-diferent-columns-of-a-dataframe) - 2 votes
-* [Pandas asof_locs Example](https://stackoverflow.com/questions/75540110/pandas-asof-locs-example) - 2 votes
-* [Fastest operation to combine 2 dataframes with 1D array in each cell to 1 dataframe with 2D array in each cell](https://stackoverflow.com/questions/75558553/fastest-operation-to-combine-2-dataframes-with-1d-array-in-each-cell-to-1-datafr) - 2 votes
-* [DataFrame most efficient way update row value less than 40 to NaN](https://stackoverflow.com/questions/75553170/dataframe-most-efficient-way-update-row-value-less-than-40-to-nan) - 2 votes
+* [Shift dataframe values for all columns to make monotonically increasing](https://stackoverflow.com/questions/75567051/shift-dataframe-values-for-all-columns-to-make-monotonically-increasing) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
