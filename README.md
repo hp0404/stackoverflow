@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-02-26<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-02-27<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,28 +8,28 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### rust
 <!-- rust starts -->
 * [Rust locking a mutex when droping a Variable causes Deadlock](https://stackoverflow.com/questions/75569472/rust-locking-a-mutex-when-droping-a-variable-causes-deadlock) - 3 votes
-* [Retrieve value from Hashmap using partial key](https://stackoverflow.com/questions/75566425/retrieve-value-from-hashmap-using-partial-key) - 2 votes
+* [Further process a field using serde_json](https://stackoverflow.com/questions/75582491/further-process-a-field-using-serde-json) - 2 votes
+* [Why does specifying a lifetime let me return a reference](https://stackoverflow.com/questions/75574319/why-does-specifying-a-lifetime-let-me-return-a-reference) - 2 votes
 * [Why is branchless Heapsort 15x faster than with branching](https://stackoverflow.com/questions/75572511/why-is-branchless-heapsort-1-5x-faster-than-with-branching) - 2 votes
-* [What39s the optimization rule of rust vectorization](https://stackoverflow.com/questions/75566027/whats-the-optimization-rule-of-rust-vectorization) - 2 votes
-* [Rust solution for RAII pattern to modify another object on new and drop](https://stackoverflow.com/questions/75568035/rust-solution-for-raii-pattern-to-modify-another-object-on-new-and-drop) - 1 votes
+* [Copying a slice of bytes into an array of nonmatching size](https://stackoverflow.com/questions/75570888/copying-a-slice-of-bytes-into-an-array-of-non-matching-size) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [How to connect to websocket FastAPI Socketio](https://stackoverflow.com/questions/75575003/how-to-connect-to-websocket-fastapi-socketio) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Fill down between rows in new dataframe column](https://stackoverflow.com/questions/75567303/fill-down-between-rows-in-new-dataframe-column) - 2 votes
-* [Shift dataframe values for all columns to make monotonically increasing](https://stackoverflow.com/questions/75567051/shift-dataframe-values-for-all-columns-to-make-monotonically-increasing) - 2 votes
-* [Delimiter for Splitting each character of a string](https://stackoverflow.com/questions/75562434/delimiter-for-splitting-each-character-of-a-string) - 2 votes
-* [Looking up a column name in another data frame](https://stackoverflow.com/questions/75565957/looking-up-a-column-name-in-another-data-frame) - 2 votes
-* [Why does elementwise division on dataframes yields NaNs even when the indices are the same](https://stackoverflow.com/questions/75569723/why-does-element-wise-division-on-dataframes-yields-nans-even-when-the-indices-a) - 2 votes
+* [Duplicating rows and and creating ID column and repeating column in Python](https://stackoverflow.com/questions/75576409/duplicating-rows-and-and-creating-id-column-and-repeating-column-in-python) - 4 votes
+* [Python pandas groupby how to use variables in different columns to create a new one](https://stackoverflow.com/questions/75570533/python-pandas-groupby-how-to-use-variables-in-different-columns-to-create-a-new) - 2 votes
+* [filter None value from python list returns TypeError boolean value of NA is ambiguous](https://stackoverflow.com/questions/75580189/filter-none-value-from-python-list-returns-typeerror-boolean-value-of-na-is-am) - 2 votes
+* [How to sort alphanumeric columns in pandas dataframe](https://stackoverflow.com/questions/75583918/how-to-sort-alphanumeric-columns-in-pandas-dataframe) - 2 votes
+* [Masking data frame with multidimensional key](https://stackoverflow.com/questions/75582319/masking-data-frame-with-multidimensional-key) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
