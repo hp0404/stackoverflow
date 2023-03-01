@@ -1,35 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-02-28<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-03-01<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Further process a field using serde_json](https://stackoverflow.com/questions/75582491/further-process-a-field-using-serde-json) - 2 votes
-* [How to add a route to actix web only if external condition is met](https://stackoverflow.com/questions/75582355/how-to-add-a-route-to-actix-web-only-if-external-condition-is-met) - 2 votes
+* [How to combine ArgActionCount and value_parser](https://stackoverflow.com/questions/75596990/how-to-combine-argactioncount-and-value-parser) - 2 votes
 * [only one char being read in as input in lexer](https://stackoverflow.com/questions/75587325/only-one-char-being-read-in-as-input-in-lexer) - 2 votes
-* [Convert const __CFData to String in Rust](https://stackoverflow.com/questions/75586685/convert-const-cfdata-to-string-in-rust) - 2 votes
-* [How to avoid shortlived clone of String key when using HashMap Entries](https://stackoverflow.com/questions/75581811/how-to-avoid-short-lived-clone-of-string-key-when-using-hashmap-entries) - 2 votes
+* [What trait bound can be used to match all unsigned integer types in Rust](https://stackoverflow.com/questions/75608024/what-trait-bound-can-be-used-to-match-all-unsigned-integer-types-in-rust) - 1 votes
+* [How can I create a vector of structs in a loop](https://stackoverflow.com/questions/75592745/how-can-i-create-a-vector-of-structs-in-a-loop) - 1 votes
+* [Borrow errors for mutable refrence of struct](https://stackoverflow.com/questions/75592003/borrow-errors-for-mutable-refrence-of-struct) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [ImportError attempted relative import beyond toplevel package FastAPI](https://stackoverflow.com/questions/75608606/importerror-attempted-relative-import-beyond-top-level-package-fastapi) - 1 votes
+* [input excel file from UI in fastapi](https://stackoverflow.com/questions/75599864/input-excel-file-from-ui-in-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Duplicating rows and and creating ID column and repeating column in Python](https://stackoverflow.com/questions/75576409/duplicating-rows-and-and-creating-id-column-and-repeating-column-in-python) - 4 votes
 * [Pandas replace value in col1 with value in col2 based on filter  boolean test](https://stackoverflow.com/questions/75586717/pandas-replace-value-in-col1-with-value-in-col2-based-on-filter-boolean-test) - 3 votes
-* [How to convert txt file to jsoinl lines file for Hungarian char](https://stackoverflow.com/questions/75594111/how-to-convert-txt-file-to-jsoinl-lines-file-for-hungarian-char) - 2 votes
-* [filter None value from python list returns TypeError boolean value of NA is ambiguous](https://stackoverflow.com/questions/75580189/filter-none-value-from-python-list-returns-typeerror-boolean-value-of-na-is-am) - 2 votes
-* [How to sort alphanumeric columns in pandas dataframe](https://stackoverflow.com/questions/75583918/how-to-sort-alphanumeric-columns-in-pandas-dataframe) - 2 votes
+* [Nested loop over all rowpairs in a Pandas dataframe](https://stackoverflow.com/questions/75601631/nested-loop-over-all-row-pairs-in-a-pandas-dataframe) - 2 votes
+* [Convert different length list in pandas dataframe to row in one column](https://stackoverflow.com/questions/75598798/convert-different-length-list-in-pandas-dataframe-to-row-in-one-column) - 2 votes
+* [Make sure that kilogram are converted to grams pandas](https://stackoverflow.com/questions/75604236/make-sure-that-kilogram-are-converted-to-grams-pandas) - 2 votes
+* [appending new rows to a Pandas groupby result object](https://stackoverflow.com/questions/75597668/appending-new-rows-to-a-pandas-groupby-result-object) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
