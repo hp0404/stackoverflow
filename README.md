@@ -1,36 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-03-04<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-03-05<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to reliably concatenate LazyFrames in Rust Polars](https://stackoverflow.com/questions/75631210/how-to-reliably-concatenate-lazyframes-in-rust-polars) - 3 votes
-* [Does ampmut T implements BorrowltTgt break a mutable reference rule](https://stackoverflow.com/questions/75629427/does-mut-t-implements-borrowt-break-a-mutable-reference-rule) - 2 votes
 * [Cannot grasp quotborrowed value does not live long enoughquot please explain](https://stackoverflow.com/questions/75634600/cannot-grasp-borrowed-value-does-not-live-long-enough-please-explain) - 2 votes
-* [How to fix quotcannot borrow as mutablequot error in trie implementation](https://stackoverflow.com/questions/75623190/how-to-fix-cannot-borrow-as-mutable-error-in-trie-implementation) - 1 votes
-* [Rust closure and value lifetimes](https://stackoverflow.com/questions/75638486/rust-closure-and-value-lifetimes) - 1 votes
+* [Closure and value lifetimes](https://stackoverflow.com/questions/75638486/closure-and-value-lifetimes) - 1 votes
+* [Is there a way to get something like the Command type in no_std](https://stackoverflow.com/questions/75640506/is-there-a-way-to-get-something-like-the-command-type-in-no-std) - 1 votes
+* [What is the optimal way to make external network requests using Axum Tokio and Hyper in Rust](https://stackoverflow.com/questions/75641001/what-is-the-optimal-way-to-make-external-network-requests-using-axum-tokio-and) - 1 votes
+* [How to diagnose and fix 39E475 Invalid argument Channel doesn39t exist39 Rust Neovim](https://stackoverflow.com/questions/75640716/how-to-diagnose-and-fix-e475-invalid-argument-channel-doesnt-exist-rust-n) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
+* [The rest of the python code doesn39t work with FastAPI](https://stackoverflow.com/questions/75637585/the-rest-of-the-python-code-doesnt-work-with-fastapi) - 1 votes
+* [Attempting to run a FastAPI application on CentOS 7 but getting a module 39asyncio39 error](https://stackoverflow.com/questions/75639063/attempting-to-run-a-fastapi-application-on-centos-7-but-getting-a-module-asynci) - 1 votes
 * [FastAPI and Python requests 422 error problem](https://stackoverflow.com/questions/75638060/fastapi-and-python-requests-422-error-problem) - 1 votes
-* [quot ModuleNotFoundError No module named 39jose39 quot  but it39s already installed](https://stackoverflow.com/questions/75628483/modulenotfounderror-no-module-named-jose-but-its-already-installed) - 1 votes
+* [UnicodeEncodeError 39ascii39 codec can39t encode character 39xf139 in position 376 ordinal not in range128](https://stackoverflow.com/questions/75644285/unicodeencodeerror-ascii-codec-cant-encode-character-xf1-in-position-376) - 1 votes
+* [Serialize mongodb _id to id on PydanticFastAPI](https://stackoverflow.com/questions/75641140/serialize-mongodb-id-to-id-on-pydantic-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How to organise DataFrame columns](https://stackoverflow.com/questions/75627029/how-to-organise-dataframe-columns) - 4 votes
-* [Python creating plot based on observation dates not as a time series](https://stackoverflow.com/questions/75628106/python-creating-plot-based-on-observation-dates-not-as-a-time-series) - 3 votes
-* [How to read audio data wav from azure blob storage using pyspark](https://stackoverflow.com/questions/75632764/how-to-read-audio-data-wav-from-azure-blob-storage-using-pyspark) - 3 votes
-* [How to drop a row in Pandas if a third letter in a column is W](https://stackoverflow.com/questions/75632057/how-to-drop-a-row-in-pandas-if-a-third-letter-in-a-column-is-w) - 2 votes
 * [Python Create new column that numbers how many occurrences has taken place from another column](https://stackoverflow.com/questions/75633166/python-create-new-column-that-numbers-how-many-occurrences-has-taken-place-from) - 2 votes
+* [Get Dataframe two columns and convert to dic list](https://stackoverflow.com/questions/75644570/get-dataframe-two-columns-and-convert-to-dic-list) - 2 votes
+* [How to count the sum of NaN39s before the first occurrence of a string in a given column](https://stackoverflow.com/questions/75635562/how-to-count-the-sum-of-nans-before-the-first-occurrence-of-a-string-in-a-given) - 2 votes
+* [Python pandas I want to filter by product name and supplier in my product table and then change the price according to that filter](https://stackoverflow.com/questions/75635494/python-pandas-i-want-to-filter-by-product-name-and-supplier-in-my-product-table) - 2 votes
+* [Group rows partially Python Pandas](https://stackoverflow.com/questions/75633924/group-rows-partially-python-pandas) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
