@@ -1,37 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-03-11<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-03-12<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How do you push values to a vec inside an enum stuct in Rust](https://stackoverflow.com/questions/75701102/how-do-you-push-values-to-a-vec-inside-an-enum-stuct-in-rust) - 5 votes
-* [Experiencing a quotCompatibleTypeltAttachment Sqlitegt not implementedquot error when filtering by ID on a passedin connection](https://stackoverflow.com/questions/75700125/experiencing-a-compatibletypeattachment-sqlite-not-implemented-error-when-f) - 3 votes
-* [Can you conditionally compile something in Rust based on whether the target pointer width is at least some value](https://stackoverflow.com/questions/75698007/can-you-conditionally-compile-something-in-rust-based-on-whether-the-target-poin) - 3 votes
-* [Why is there no memory overhead for an enum with a Veclti64gt variant](https://stackoverflow.com/questions/75698241/why-is-there-no-memory-overhead-for-an-enum-with-a-veci64-variant) - 2 votes
+* [Why does a request Response hang when switching WiFi networks on macOS  iOS](https://stackoverflow.com/questions/75711940/why-does-a-request-response-hang-when-switching-wifi-networks-on-macos-ios) - 3 votes
+* [Why am I able to pass mutable and immutable reference at the same time](https://stackoverflow.com/questions/75709485/why-am-i-able-to-pass-mutable-and-immutable-reference-at-the-same-time) - 2 votes
+* [Returning a future that takes reference to a string](https://stackoverflow.com/questions/75703061/returning-a-future-that-takes-reference-to-a-string) - 2 votes
 * [How to cast rust bitflags entries into int](https://stackoverflow.com/questions/75702076/how-to-cast-rust-bitflags-entries-into-int) - 2 votes
+* [Rustlang Macro operator seen as syntax error](https://stackoverflow.com/questions/75706229/rustlang-macro-operator-seen-as-syntax-error) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
+* [FastAPI GET endpoint returns quot405 method not allowedquot response](https://stackoverflow.com/questions/75711757/fastapi-get-endpoint-returns-405-method-not-allowed-response) - 1 votes
 * [Async Warnings generation and catching inside Starlette Middleware using FastAPI](https://stackoverflow.com/questions/75706159/async-warnings-generation-and-catching-inside-starlette-middleware-using-fastapi) - 1 votes
-* [Hosting static files with Python Fastapi inside an Appimage](https://stackoverflow.com/questions/75693198/hosting-static-files-with-python-fastapi-inside-an-appimage) - 1 votes
-* [FastAPI How to customise 422 exception for specific route](https://stackoverflow.com/questions/75692370/fastapi-how-to-customise-422-exception-for-specific-route) - 1 votes
+* [Configure FastAPI app hosted on hreoku to use HTTPS](https://stackoverflow.com/questions/75704155/configure-fastapi-app-hosted-on-hreoku-to-use-https) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How to merge many data frames to only one](https://stackoverflow.com/questions/75701948/how-to-merge-many-data-frames-to-only-one) - 3 votes
-* [Pickingfiltering element from pandas table where data is between column header values](https://stackoverflow.com/questions/75700807/picking-filtering-element-from-pandas-table-where-data-is-between-column-header) - 2 votes
-* [Calculate the sum of credits per month and different clients](https://stackoverflow.com/questions/75698142/calculate-the-sum-of-credits-per-month-and-different-clients) - 2 votes
-* [join 2 dataframes to get output](https://stackoverflow.com/questions/75691777/join-2-dataframes-to-get-output) - 2 votes
+* [How to convert student ID list to email address from CSV using Python](https://stackoverflow.com/questions/75710354/how-to-convert-student-id-list-to-email-address-from-csv-using-python) - 2 votes
 * [How to create an animated plot over the top of an image  Python](https://stackoverflow.com/questions/75709009/how-to-create-an-animated-plot-over-the-top-of-an-image-python) - 2 votes
+* [Python Pandas Cumsum with reset everytime on multiple condition](https://stackoverflow.com/questions/75715917/python-pandas-cumsum-with-reset-everytime-on-multiple-condition) - 2 votes
+* [Data manipulation with pandas averaging first and last second and second last and so on](https://stackoverflow.com/questions/75714459/data-manipulation-with-pandas-averaging-first-and-last-second-and-second-last) - 2 votes
+* [pandas how only fillna for last row with preceding line closest nonnan value](https://stackoverflow.com/questions/75711280/pandas-how-only-fillna-for-last-row-with-preceding-line-closest-non-nan-value) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
