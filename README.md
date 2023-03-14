@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-03-13<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-03-14<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,18 +8,20 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### rust
 <!-- rust starts -->
 * [What is the overhead of using Arcltstrgt vs ArcltBoxltstrgtgt](https://stackoverflow.com/questions/75722741/what-is-the-overhead-of-using-arcstr-vs-arcboxstr) - 3 votes
-* [Why does a reqwest Response hang when switching WiFi networks on macOS  iOS](https://stackoverflow.com/questions/75711940/why-does-a-reqwest-response-hang-when-switching-wifi-networks-on-macos-ios) - 3 votes
 * [Nicer way to pattern match window of assembly instructions for peephole w Rust](https://stackoverflow.com/questions/75724091/nicer-way-to-pattern-match-window-of-assembly-instructions-for-peephole-w-rust) - 2 votes
-* [Why elements should be dropped before dropping vec in rust](https://stackoverflow.com/questions/75716197/why-elements-should-be-dropped-before-dropping-vec-in-rust) - 2 votes
-* [How to deserialize complex JSON to Rust type](https://stackoverflow.com/questions/75713437/how-to-deserialize-complex-json-to-rust-type) - 2 votes
+* [Is it possible to predict stack overflow](https://stackoverflow.com/questions/75719083/is-it-possible-to-predict-stack-overflow) - 2 votes
+* [Why does this quotcannot move out of selfx which is behind a mutable referencequot error happen](https://stackoverflow.com/questions/75719545/why-does-this-cannot-move-out-of-self-x-which-is-behind-a-mutable-reference) - 2 votes
+* [SDL2 not triggering on keys in terminal](https://stackoverflow.com/questions/75734830/sdl2-not-triggering-on-keys-in-terminal) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI GET endpoint returns quot405 method not allowedquot response](https://stackoverflow.com/questions/75711757/fastapi-get-endpoint-returns-405-method-not-allowed-response) - 2 votes
-* [Set the media type of a custom Error Response via a pydantic model in FastAPI](https://stackoverflow.com/questions/75724033/set-the-media-type-of-a-custom-error-response-via-a-pydantic-model-in-fastapi) - 2 votes
+* [Set the media type of a custom Error Response via a pydantic model in FastAPI](https://stackoverflow.com/questions/75724033/set-the-media-type-of-a-custom-error-response-via-a-pydantic-model-in-fastapi) - 3 votes
+* [How to reroute requests to a different URLendpoint in FastAPI](https://stackoverflow.com/questions/75726959/how-to-re-route-requests-to-a-different-url-endpoint-in-fastapi) - 1 votes
+* [Async FastAPI production Dockerfile](https://stackoverflow.com/questions/75734151/async-fastapi-production-dockerfile) - 1 votes
+* [Method to send Excel File to FastAPI from React and send back graphs  relevant data](https://stackoverflow.com/questions/75728092/method-to-send-excel-file-to-fastapi-from-react-and-send-back-graphs-relevant) - 1 votes
 * [ImportError attempted relative import beyond toplevel package in FastAPI](https://stackoverflow.com/questions/75718344/importerror-attempted-relative-import-beyond-top-level-package-in-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
@@ -27,11 +29,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 
 ### pandas
 <!-- pandas starts -->
-* [Data manipulation with pandas averaging first and last second and second last and so on](https://stackoverflow.com/questions/75714459/data-manipulation-with-pandas-averaging-first-and-last-second-and-second-last) - 3 votes
-* [Splitting text based on a delimiter in Python](https://stackoverflow.com/questions/75714478/splitting-text-based-on-a-delimiter-in-python) - 3 votes
+* [Pandas select rows where any column passes condition](https://stackoverflow.com/questions/75723227/pandas-select-rows-where-any-column-passes-condition) - 3 votes
+* [Ordering multiindexed pandas dataframe on two levels with different criteria for each level](https://stackoverflow.com/questions/75734763/ordering-multi-indexed-pandas-dataframe-on-two-levels-with-different-criteria-f) - 3 votes
 * [Python Dataframe isocalendar Boolean condition not producing desired result when ISO year is different from Gregorian year](https://stackoverflow.com/questions/75717408/python-dataframe-isocalendar-boolean-condition-not-producing-desired-result-wh) - 3 votes
-* [Pandas select rows where any column passes condition](https://stackoverflow.com/questions/75723227/pandas-select-rows-where-any-column-passes-condition) - 2 votes
-* [pandas how only fillna for last row with preceding line closest nonnan value](https://stackoverflow.com/questions/75711280/pandas-how-only-fillna-for-last-row-with-preceding-line-closest-non-nan-value) - 2 votes
+* [How do I extract the rows of a DataFrame based on the value of a row that acts as a key to a dictionary](https://stackoverflow.com/questions/75718296/how-do-i-extract-the-rows-of-a-dataframe-based-on-the-value-of-a-row-that-acts-a) - 2 votes
+* [Pandas Find the leftmost value in a pandas dataframe followed by all 1s](https://stackoverflow.com/questions/75729285/pandas-find-the-left-most-value-in-a-pandas-dataframe-followed-by-all-1s) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
