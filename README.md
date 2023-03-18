@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-03-17<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-03-18<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Convert ampT into newtype ampN](https://stackoverflow.com/questions/75761547/convert-t-into-newtype-n) - 5 votes
-* [How to split a byte array by new line characters quotnquot or quotrnquot](https://stackoverflow.com/questions/75751310/how-to-split-a-byte-array-by-new-line-characters-n-or-r-n) - 3 votes
 * [What is the best way to manage models when interoperating Rust with other languages](https://stackoverflow.com/questions/75771462/what-is-the-best-way-to-manage-models-when-interoperating-rust-with-other-langua) - 3 votes
-* [How can I create a struct that recursively borrows its parentcreator](https://stackoverflow.com/questions/75751455/how-can-i-create-a-struct-that-recursively-borrows-its-parent-creator) - 2 votes
 * [Rust orphan rule and From trait](https://stackoverflow.com/questions/75765502/rust-orphan-rule-and-from-trait) - 1 votes
+* [How to render a custom color under title bar with WGPU on Winit for MacOs](https://stackoverflow.com/questions/75773725/how-to-render-a-custom-color-under-title-bar-with-wgpu-on-winit-for-macos) - 1 votes
+* [Is there a built in enum that represents an Arc or Weak similar to Cow](https://stackoverflow.com/questions/75771741/is-there-a-built-in-enum-that-represents-an-arc-or-weak-similar-to-cow) - 1 votes
+* [How to prevent a child process from inheriting the standard handles in Rust on windows](https://stackoverflow.com/questions/75767291/how-to-prevent-a-child-process-from-inheriting-the-standard-handles-in-rust-on-w) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -19,19 +19,20 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### fastapi
 <!-- fastapi starts -->
 * [Problem with either FastAPI app or ReactJS](https://stackoverflow.com/questions/75769276/problem-with-either-fastapi-app-or-reactjs) - 1 votes
+* [How to map flower port 5556 to an enpoint in FastAPI](https://stackoverflow.com/questions/75774245/how-to-map-flower-port-5556-to-an-enpoint-in-fastapi) - 1 votes
 * [FastApi Uvicorn concurrency and request cancellation](https://stackoverflow.com/questions/75764815/fastapi-uvicorn-concurrency-and-request-cancellation) - 1 votes
-* [Monitor a folder for change and save path in db](https://stackoverflow.com/questions/75751750/monitor-a-folder-for-change-and-save-path-in-db) - 1 votes
+* [Using Python FastAPI Web server running apache how to serve static folder over HTTPS](https://stackoverflow.com/questions/75773198/using-python-fastapi-web-server-running-apache-how-to-serve-static-folder-over) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How to put the max of 3 separate columns in a new column in pythonpandas](https://stackoverflow.com/questions/75754219/how-to-put-the-max-of-3-separate-columns-in-a-new-column-in-python-pandas) - 3 votes
-* [How to count the number of consecutive occurrences of a value](https://stackoverflow.com/questions/75751977/how-to-count-the-number-of-consecutive-occurrences-of-a-value) - 3 votes
-* [Basic Python Questions](https://stackoverflow.com/questions/75753527/basic-python-questions) - 3 votes
-* [Python  Convert a dataframe of events into a square wave time serie](https://stackoverflow.com/questions/75759568/python-convert-a-dataframe-of-events-into-a-square-wave-time-serie) - 3 votes
-* [Pandas and Dictionary  Match df column name to a dictionary key then retrieve the value to do calculation to values of that column](https://stackoverflow.com/questions/75759415/pandas-and-dictionary-match-df-column-name-to-a-dictionary-key-then-retrieve) - 2 votes
+* [sort column based on alphabets A00 B00 AA0 AB0 BA0 etc](https://stackoverflow.com/questions/75766382/sort-column-based-on-alphabets-a00-b00-aa0-ab0-ba0-etc) - 2 votes
+* [Include notes in seaborn barplot](https://stackoverflow.com/questions/75775559/include-notes-in-seaborn-barplot) - 2 votes
+* [Is there a way to calculate a cumulative sum in Pandas that is reset after a condition  threshold is met](https://stackoverflow.com/questions/75775275/is-there-a-way-to-calculate-a-cumulative-sum-in-pandas-that-is-reset-after-a-con) - 2 votes
+* [Agg len counts null values in dataframe as one](https://stackoverflow.com/questions/75771714/agg-len-counts-null-values-in-dataframe-as-one) - 2 votes
+* [How to put values of some series as index into a multi index dataframe](https://stackoverflow.com/questions/75768999/how-to-put-values-of-some-series-as-index-into-a-multi-index-dataframe) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
