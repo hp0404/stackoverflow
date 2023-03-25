@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-03-24<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-03-25<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,29 +8,32 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### rust
 <!-- rust starts -->
 * [Why is it allowed to reassign String but not ampString](https://stackoverflow.com/questions/75829199/why-is-it-allowed-to-reassign-string-but-not-string) - 3 votes
-* [Bind two UDP sockets to the same address and connect them to different addresses](https://stackoverflow.com/questions/75825934/bind-two-udp-sockets-to-the-same-address-and-connect-them-to-different-addresses) - 3 votes
+* [How do you create a constant of a type with private fields from an external crate](https://stackoverflow.com/questions/75842663/how-do-you-create-a-constant-of-a-type-with-private-fields-from-an-external-crat) - 3 votes
 * [Given ampstr ampstr what is an efficient way to look up its entry from a HashMap whose key is String String](https://stackoverflow.com/questions/75830317/given-str-str-what-is-an-efficient-way-to-look-up-its-entry-from-a-hashmap) - 2 votes
+* [Why const variable can be used with static lifetime](https://stackoverflow.com/questions/75839662/why-const-variable-can-be-used-with-static-lifetime) - 2 votes
 * [Cartesian product of n ranges](https://stackoverflow.com/questions/75834334/cartesian-product-of-n-ranges) - 2 votes
-* [Polars conversion error going from Python to Rust with pyo3](https://stackoverflow.com/questions/75828279/polars-conversion-error-going-from-python-to-rust-with-pyo3) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
+* [Kafka  FastAPI  Docker template](https://stackoverflow.com/questions/75839415/kafka-fastapi-docker-template) - 3 votes
+* [FastApi runs with DockerFile doesn39t run with dockercompose](https://stackoverflow.com/questions/75844128/fastapi-runs-with-dockerfile-doesnt-run-with-docker-compose) - 1 votes
+* [Fastapi showing error on inserting data on mysql table](https://stackoverflow.com/questions/75843490/fastapi-showing-error-on-inserting-data-on-mysql-table) - 1 votes
+* [How to reference localhost url in FastAPI when in production](https://stackoverflow.com/questions/75843089/how-to-reference-localhost-url-in-fastapi-when-in-production) - 1 votes
 * [FastAPI Websocket with database service freezes](https://stackoverflow.com/questions/75834565/fastapi-websocket-with-database-service-freezes) - 1 votes
-* [quotAttributeError encodequot when returning StreamingResponse in FastAPI](https://stackoverflow.com/questions/75825362/attributeerror-encode-when-returning-streamingresponse-in-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Python How do I get a new value every instance in a npwhere](https://stackoverflow.com/questions/75826424/python-how-do-i-get-a-new-value-every-instance-in-a-np-where) - 3 votes
-* [Create column in DataFrame for each row in other DataFrame and compute values](https://stackoverflow.com/questions/75823194/create-column-in-dataframe-for-each-row-in-other-dataframe-and-compute-values) - 3 votes
-* [Reformatpivot pandas dataframe](https://stackoverflow.com/questions/75827088/reformat-pivot-pandas-dataframe) - 2 votes
-* [Conditionally Fill a column with a single value in Python](https://stackoverflow.com/questions/75828370/conditionally-fill-a-column-with-a-single-value-in-python) - 2 votes
-* [How to manage this nested dictionary to make it more human readable in a dataframe](https://stackoverflow.com/questions/75823692/how-to-manage-this-nested-dictionary-to-make-it-more-human-readable-in-a-datafra) - 2 votes
+* [How to format labels in scientific notation for bar_label](https://stackoverflow.com/questions/75837715/how-to-format-labels-in-scientific-notation-for-bar-label) - 3 votes
+* [How to combine two different outputs in a single output](https://stackoverflow.com/questions/75833821/how-to-combine-two-different-outputs-in-a-single-output) - 2 votes
+* [Pandas group events close together by date then test if other values are equal](https://stackoverflow.com/questions/75831723/pandas-group-events-close-together-by-date-then-test-if-other-values-are-equal) - 2 votes
+* [How to reset a Sum after it reaches a milestone and then continue it in Pandas DataFrame in Python](https://stackoverflow.com/questions/75841771/how-to-reset-a-sum-after-it-reaches-a-milestone-and-then-continue-it-in-pandas-d) - 2 votes
+* [Pandas read_csv Data is not being read from text file open reads hex chars](https://stackoverflow.com/questions/75838499/pandas-read-csv-data-is-not-being-read-from-text-file-open-reads-hex-chars) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
