@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-03-25<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-03-26<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why is it allowed to reassign String but not ampString](https://stackoverflow.com/questions/75829199/why-is-it-allowed-to-reassign-string-but-not-string) - 3 votes
 * [How do you create a constant of a type with private fields from an external crate](https://stackoverflow.com/questions/75842663/how-do-you-create-a-constant-of-a-type-with-private-fields-from-an-external-crat) - 3 votes
-* [Given ampstr ampstr what is an efficient way to look up its entry from a HashMap whose key is String String](https://stackoverflow.com/questions/75830317/given-str-str-what-is-an-efficient-way-to-look-up-its-entry-from-a-hashmap) - 2 votes
+* [why does dereferencing a BoxltTgt not complain about quotmoving out of shared referencequot when T is not a Copy](https://stackoverflow.com/questions/75846106/why-does-dereferencing-a-boxt-not-complain-about-moving-out-of-shared-referen) - 2 votes
 * [Why const variable can be used with static lifetime](https://stackoverflow.com/questions/75839662/why-const-variable-can-be-used-with-static-lifetime) - 2 votes
-* [Cartesian product of n ranges](https://stackoverflow.com/questions/75834334/cartesian-product-of-n-ranges) - 2 votes
+* [Enforcing trait implemented only on given type size in Rust](https://stackoverflow.com/questions/75846364/enforcing-trait-implemented-only-on-given-type-size-in-rust) - 2 votes
+* [What39s causing this lifetime error and why can boxing fix it](https://stackoverflow.com/questions/75838940/whats-causing-this-lifetime-error-and-why-can-boxing-fix-it) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -19,21 +19,21 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### fastapi
 <!-- fastapi starts -->
 * [Kafka  FastAPI  Docker template](https://stackoverflow.com/questions/75839415/kafka-fastapi-docker-template) - 3 votes
+* [Video Tag in Chrome Browser requesting incorrect range when seeking progress bar to random location Firefox is working flawlessly](https://stackoverflow.com/questions/75844726/video-tag-in-chrome-browser-requesting-incorrect-range-when-seeking-progress-bar) - 2 votes
 * [FastApi runs with DockerFile doesn39t run with dockercompose](https://stackoverflow.com/questions/75844128/fastapi-runs-with-dockerfile-doesnt-run-with-docker-compose) - 1 votes
-* [Fastapi showing error on inserting data on mysql table](https://stackoverflow.com/questions/75843490/fastapi-showing-error-on-inserting-data-on-mysql-table) - 1 votes
-* [How to reference localhost url in FastAPI when in production](https://stackoverflow.com/questions/75843089/how-to-reference-localhost-url-in-fastapi-when-in-production) - 1 votes
-* [FastAPI Websocket with database service freezes](https://stackoverflow.com/questions/75834565/fastapi-websocket-with-database-service-freezes) - 1 votes
+* [FastAPI with uvicorn and pycord  The future belongs to a different loop than the one specified as the loop argument](https://stackoverflow.com/questions/75848232/fastapi-with-uvicorn-and-pycord-the-future-belongs-to-a-different-loop-than-th) - 1 votes
+* [Choosing framework for streaming video for better performance](https://stackoverflow.com/questions/75845483/choosing-framework-for-streaming-video-for-better-performance) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How to format labels in scientific notation for bar_label](https://stackoverflow.com/questions/75837715/how-to-format-labels-in-scientific-notation-for-bar-label) - 3 votes
-* [How to combine two different outputs in a single output](https://stackoverflow.com/questions/75833821/how-to-combine-two-different-outputs-in-a-single-output) - 2 votes
-* [Pandas group events close together by date then test if other values are equal](https://stackoverflow.com/questions/75831723/pandas-group-events-close-together-by-date-then-test-if-other-values-are-equal) - 2 votes
+* [How To Map Two Columns from One Dataset with One Column from Another Dataset](https://stackoverflow.com/questions/75847820/how-to-map-two-columns-from-one-dataset-with-one-column-from-another-dataset) - 2 votes
 * [How to reset a Sum after it reaches a milestone and then continue it in Pandas DataFrame in Python](https://stackoverflow.com/questions/75841771/how-to-reset-a-sum-after-it-reaches-a-milestone-and-then-continue-it-in-pandas-d) - 2 votes
-* [Pandas read_csv Data is not being read from text file open reads hex chars](https://stackoverflow.com/questions/75838499/pandas-read-csv-data-is-not-being-read-from-text-file-open-reads-hex-chars) - 2 votes
+* [Join pandas dataframe by strgpattern](https://stackoverflow.com/questions/75845713/join-pandas-dataframe-by-strg-pattern) - 2 votes
+* [Pandas  group rows on date condition](https://stackoverflow.com/questions/75843385/pandas-group-rows-on-date-condition) - 2 votes
+* [I have excel sheet that I update with quarterly financial data I want to automate the process of updating it each quarter](https://stackoverflow.com/questions/75842941/i-have-excel-sheet-that-i-update-with-quarterly-financial-data-i-want-to-automa) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
