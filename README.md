@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-03-27<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-03-28<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,10 +8,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### rust
 <!-- rust starts -->
 * [Tell if object isinstance of PyDatetime or Pydate](https://stackoverflow.com/questions/75857300/tell-if-object-isinstance-of-pydatetime-or-pydate) - 5 votes
+* [Why does passing optionas_ref behave differently than using a match block and mapping the inner to ref myself](https://stackoverflow.com/questions/75860751/why-does-passing-option-as-ref-behave-differently-than-using-a-match-block-and-m) - 3 votes
 * [Rust passing features to dependency](https://stackoverflow.com/questions/75853031/rust-passing-features-to-dependency) - 3 votes
-* [why does dereferencing a BoxltTgt not complain about quotmoving out of shared referencequot when T is not a Copy](https://stackoverflow.com/questions/75846106/why-does-dereferencing-a-boxt-not-complain-about-moving-out-of-shared-referen) - 2 votes
+* [Why i32 Box type can be downcasted in Rust](https://stackoverflow.com/questions/75861972/why-i32-box-type-can-be-downcasted-in-rust) - 2 votes
 * [Only generate debugging output while running tests](https://stackoverflow.com/questions/75851954/only-generate-debugging-output-while-running-tests) - 2 votes
-* [Enforcing trait implemented only on given type size in Rust](https://stackoverflow.com/questions/75846364/enforcing-trait-implemented-only-on-given-type-size-in-rust) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -19,20 +19,21 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### fastapi
 <!-- fastapi starts -->
 * [error when requesting an api made in fastapi](https://stackoverflow.com/questions/75851803/error-when-requesting-an-api-made-in-fastapi) - 2 votes
-* [FastAPI with uvicorn and pycord  The future belongs to a different loop than the one specified as the loop argument](https://stackoverflow.com/questions/75848232/fastapi-with-uvicorn-and-pycord-the-future-belongs-to-a-different-loop-than-th) - 2 votes
+* [FastAPI List as Query](https://stackoverflow.com/questions/75868490/fastapi-list-as-query) - 1 votes
 * [Finding a specific element in nested Array MongoDB](https://stackoverflow.com/questions/75853976/finding-a-specific-element-in-nested-array-mongodb) - 1 votes
-* [Choosing framework for streaming video for better performance](https://stackoverflow.com/questions/75845483/choosing-framework-for-streaming-video-for-better-performance) - 1 votes
+* [How to return Pydantic object with a specific http response code in FastAPI](https://stackoverflow.com/questions/75867644/how-to-return-pydantic-object-with-a-specific-http-response-code-in-fastapi) - 1 votes
+* [Fast API accepting empty value for mandatory field](https://stackoverflow.com/questions/75864151/fast-api-accepting-empty-value-for-mandatory-field) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How can I sum several variables in numpy array](https://stackoverflow.com/questions/75849276/how-can-i-sum-several-variables-in-numpy-array) - 2 votes
-* [How To Map Two Columns from One Dataset with One Column from Another Dataset](https://stackoverflow.com/questions/75847820/how-to-map-two-columns-from-one-dataset-with-one-column-from-another-dataset) - 2 votes
-* [Join pandas dataframe by strgpattern](https://stackoverflow.com/questions/75845713/join-pandas-dataframe-by-strg-pattern) - 2 votes
-* [How to find first common data in two columns of lists in pandas](https://stackoverflow.com/questions/75859587/how-to-find-first-common-data-in-two-columns-of-lists-in-pandas) - 2 votes
-* [Grouping dataframe by similar non matching values](https://stackoverflow.com/questions/75856310/grouping-dataframe-by-similar-non-matching-values) - 1 votes
+* [Find columns where at least one row value is greater than 07 and all others are less than 03](https://stackoverflow.com/questions/75861122/find-columns-where-at-least-one-row-value-is-greater-than-0-7-and-all-others-are) - 5 votes
+* [Convert Pandas DataFrame to nested dictionary where key value pairs are columns](https://stackoverflow.com/questions/75870150/convert-pandas-dataframe-to-nested-dictionary-where-key-value-pairs-are-columns) - 3 votes
+* [How to put serials in a data frame by group](https://stackoverflow.com/questions/75862628/how-to-put-serials-in-a-data-frame-by-group) - 3 votes
+* [Grouping dataframe by similar non matching values](https://stackoverflow.com/questions/75856310/grouping-dataframe-by-similar-non-matching-values) - 3 votes
+* [Pandas raise an error if indexes don39t match when concat39ing or merging](https://stackoverflow.com/questions/75870152/pandas-raise-an-error-if-indexes-dont-match-when-concating-or-merging) - 3 votes
 <!-- pandas ends -->
 </td></tr></table>
 
