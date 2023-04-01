@@ -1,37 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-03-31<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-04-01<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Rust function pointer seems to be treated as stateful by borrow checker](https://stackoverflow.com/questions/75908427/rust-function-pointer-seems-to-be-treated-as-stateful-by-borrow-checker) - 4 votes
 * [Conflicting implementation for matrixMatrixlt1 1 _gt](https://stackoverflow.com/questions/75893853/conflicting-implementation-for-matrixmatrix1-1) - 2 votes
-* [How to create a positional argument with quotlocalquot option with clap](https://stackoverflow.com/questions/75884700/how-to-create-a-positional-argument-with-local-option-with-clap) - 2 votes
-* [Userfaultfd fails register with ENOMEM after execv](https://stackoverflow.com/questions/75884640/userfaultfd-fails-register-with-enomem-after-execv) - 2 votes
-* [Idiomatic way to get correct result messages from stdio](https://stackoverflow.com/questions/75883169/idiomatic-way-to-get-correct-result-messages-from-stdio) - 1 votes
-* [How to collect an iterator into a Result](https://stackoverflow.com/questions/75892206/how-to-collect-an-iterator-into-a-result) - 1 votes
+* [Cannot return IteratorItem from function](https://stackoverflow.com/questions/75899154/cannot-return-iteratoritem-from-function) - 1 votes
+* [In Rust tests how to assert_eq some json that keeps reordering its keys](https://stackoverflow.com/questions/75904211/in-rust-tests-how-to-assert-eq-some-json-that-keeps-reordering-its-keys) - 1 votes
+* [Dynamic linking between crates](https://stackoverflow.com/questions/75903098/dynamic-linking-between-crates) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Send NiceGUI upload to FastAPI using requests](https://stackoverflow.com/questions/75891771/send-nicegui-upload-to-fastapi-using-requests) - 2 votes
-* [Google OAuth integration with fastapi](https://stackoverflow.com/questions/75888521/google-oauth-integration-with-fastapi) - 1 votes
-* [How to prevent users from logging in from multiple devices using FastAPI](https://stackoverflow.com/questions/75885915/how-to-prevent-users-from-logging-in-from-multiple-devices-using-fastapi) - 1 votes
+* [What is the difference between Security and Depends in FastAPI](https://stackoverflow.com/questions/75907394/what-is-the-difference-between-security-and-depends-in-fastapi) - 1 votes
+* [FastAPI request filed is considered as query parameter and is missing](https://stackoverflow.com/questions/75905638/fastapi-request-filed-is-considered-as-query-parameter-and-is-missing) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How to filtering pandas dataframe by multiple columns](https://stackoverflow.com/questions/75886126/how-to-filtering-pandas-dataframe-by-multiple-columns) - 3 votes
-* [Keep only the value in the last nonnan column set all other values to nan fast solution](https://stackoverflow.com/questions/75891371/keep-only-the-value-in-the-last-non-nan-column-set-all-other-values-to-nan-fas) - 3 votes
-* [Filter and merge a dataframe in Python using Pandas](https://stackoverflow.com/questions/75889507/filter-and-merge-a-dataframe-in-python-using-pandas) - 3 votes
 * [Python error could not convert string to float 39male39](https://stackoverflow.com/questions/75894475/python-error-could-not-convert-string-to-float-male) - 3 votes
+* [Create a singlecolumn from a pandas data frame with n columns](https://stackoverflow.com/questions/75907397/create-a-single-column-from-a-pandas-data-frame-with-n-columns) - 3 votes
 * [Iterate over specific csv rows and rerun code when new string detected after empty cell in first column](https://stackoverflow.com/questions/75896827/iterate-over-specific-csv-rows-and-rerun-code-when-new-string-detected-after-emp) - 3 votes
+* [How to drop duplicate from a pandas dataframe with some complex conditions](https://stackoverflow.com/questions/75896790/how-to-drop-duplicate-from-a-pandas-dataframe-with-some-complex-conditions) - 3 votes
+* [HoW count sequences in Python](https://stackoverflow.com/questions/75903371/how-count-sequences-in-python) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
