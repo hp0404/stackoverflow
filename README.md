@@ -1,38 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-04-03<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-04-04<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Rust how to make a separate reference to an item which is already in a container](https://stackoverflow.com/questions/75922263/rust-how-to-make-a-separate-reference-to-an-item-which-is-already-in-a-contain) - 1 votes
 * [How to reuse existing derived deserialize implementation when deserializing some variants of an enum](https://stackoverflow.com/questions/75919787/how-to-re-use-existing-derived-deserialize-implementation-when-deserializing-so) - 1 votes
-* [Take n elements and continue while condition is true](https://stackoverflow.com/questions/75912630/take-n-elements-and-continue-while-condition-is-true) - 1 votes
+* [Rust collect tuple with more than two elements](https://stackoverflow.com/questions/75918927/rust-collect-tuple-with-more-than-two-elements) - 1 votes
+* [In Rust I use tracing wirte log to file the file is createdbut it is empty](https://stackoverflow.com/questions/75920848/in-rust-i-use-tracing-wirte-log-to-file-the-file-is-created-but-it-is-empty) - 1 votes
 * [How to multithread an array update](https://stackoverflow.com/questions/75916882/how-to-multithread-an-array-update) - 1 votes
-* [Get Rust struct for parent or subclass from an attribute of a PyAny object](https://stackoverflow.com/questions/75913334/get-rust-struct-for-parent-or-subclass-from-an-attribute-of-a-pyany-object) - 1 votes
-* [How to change the icon displayed in the task switcher](https://stackoverflow.com/questions/75912181/how-to-change-the-icon-displayed-in-the-task-switcher) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI  Sveltekit action form](https://stackoverflow.com/questions/75911382/fastapi-sveltekit-action-form) - 2 votes
+* [FastAPI python PUT request](https://stackoverflow.com/questions/75924398/fastapi-python-put-request) - 2 votes
+* [FastAPI  switching off a switch some time later](https://stackoverflow.com/questions/75931368/fastapi-switching-off-a-switch-some-time-later) - 1 votes
 * [SQLAlchemySQLite returns empty list for all queries](https://stackoverflow.com/questions/75918652/sqlalchemysqlite-returns-empty-list-for-all-queries) - 1 votes
-* [How to integrate Kerberos into FastApi](https://stackoverflow.com/questions/75914757/how-to-integrate-kerberos-into-fastapi) - 1 votes
-* [How to serve Angular app with inner routing and API calls from a FastAPI backend](https://stackoverflow.com/questions/75913098/how-to-serve-angular-app-with-inner-routing-and-api-calls-from-a-fastapi-backend) - 1 votes
+* [Secure Authentication and Authorization with Nextjs Nextauth and FastAPI Backend using MongoDB Adapter](https://stackoverflow.com/questions/75929720/secure-authentication-and-authorization-with-next-js-next-auth-and-fastapi-bac) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Python using Pandas  Retrieving the name of all columns that contain numbers](https://stackoverflow.com/questions/75909965/python-using-pandas-retrieving-the-name-of-all-columns-that-contain-numbers) - 2 votes
-* [How to filter values in a column with common values in another common and apply two conditions in the filtering](https://stackoverflow.com/questions/75914405/how-to-filter-values-in-a-column-with-common-values-in-another-common-and-apply) - 2 votes
-* [generate an id which fulfills a cycle sequence of another column](https://stackoverflow.com/questions/75913601/generate-an-id-which-fulfills-a-cycle-sequence-of-another-column) - 2 votes
-* [pandas apply groupby and agg and update orig columns](https://stackoverflow.com/questions/75919742/pandas-apply-groupby-and-agg-and-update-orig-columns) - 2 votes
-* [Knowing a column of indexes how to get column of their values in Dataframe](https://stackoverflow.com/questions/75919385/knowing-a-column-of-indexes-how-to-get-column-of-their-values-in-dataframe) - 2 votes
+* [Custom python decorator checking function after each line](https://stackoverflow.com/questions/75933359/custom-python-decorator-checking-function-after-each-line) - 3 votes
+* [Databricks Issue while creating spark data frame from pandas](https://stackoverflow.com/questions/75926636/databricks-issue-while-creating-spark-data-frame-from-pandas) - 3 votes
+* [Read CSV wit specific columns and rest into last column](https://stackoverflow.com/questions/75921348/read-csv-wit-specific-columns-and-rest-into-last-column) - 2 votes
+* [Distribute data from list into column in panda dataframe](https://stackoverflow.com/questions/75932600/distribute-data-from-list-into-column-in-panda-dataframe) - 2 votes
+* [Transforming automated text to a DataFrame](https://stackoverflow.com/questions/75931547/transforming-automated-text-to-a-dataframe) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
