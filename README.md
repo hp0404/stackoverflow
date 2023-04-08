@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-04-07<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-04-08<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [In async Rust how can a Future make sure it only calls the most recent Waker](https://stackoverflow.com/questions/75959786/in-async-rust-how-can-a-future-make-sure-it-only-calls-the-most-recent-waker) - 4 votes
-* [Trait binding lifetimes of Futures to fn arguments](https://stackoverflow.com/questions/75947795/trait-binding-lifetimes-of-futures-to-fn-arguments) - 4 votes
+* [In async Rust how can a Future make sure it only calls the most recent Waker](https://stackoverflow.com/questions/75959786/in-async-rust-how-can-a-future-make-sure-it-only-calls-the-most-recent-waker) - 5 votes
+* [How to extend Polars custom expression in Rust](https://stackoverflow.com/questions/75962133/how-to-extend-polars-custom-expression-in-rust) - 3 votes
 * [Why rust compiler emits so strange SIMD code](https://stackoverflow.com/questions/75958334/why-rust-compiler-emits-so-strange-simd-code) - 3 votes
-* [How to pass arguments to a thread in rust](https://stackoverflow.com/questions/75952562/how-to-pass-arguments-to-a-thread-in-rust) - 2 votes
-* [Serialize nested json objects to csv with serde and csv crates](https://stackoverflow.com/questions/75945568/serialize-nested-json-objects-to-csv-with-serde-and-csv-crates) - 2 votes
+* [Substrate node template Cannot create a runtime errorOtherquotcannot deserialize module UnknownOpcode192quot](https://stackoverflow.com/questions/75955457/substrate-node-template-cannot-create-a-runtime-error-othercannot-deserialize) - 2 votes
+* [Return combined result of tasks](https://stackoverflow.com/questions/75964256/return-combined-result-of-tasks) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -19,21 +19,21 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### fastapi
 <!-- fastapi starts -->
 * [TypeError 39SnapResponse39 object is not callable](https://stackoverflow.com/questions/75959070/typeerror-snapresponse-object-is-not-callable) - 1 votes
-* [Modify response to get a list of IDs and not a list of dict when referencing ForeignKeys](https://stackoverflow.com/questions/75947797/modify-response-to-get-a-list-of-ids-and-not-a-list-of-dict-when-referencing-for) - 1 votes
+* [How to delete rows by a condition using sqlalmchemy and fastapi](https://stackoverflow.com/questions/75963542/how-to-delete-rows-by-a-condition-using-sqlalmchemy-and-fastapi) - 1 votes
+* [Frontend HTML refreshes after a POST request updated elements will go back to being what they were previously](https://stackoverflow.com/questions/75963517/frontend-html-refreshes-after-a-post-request-updated-elements-will-go-back-to-b) - 1 votes
+* [How to set up pydantic model in FastAPI for this POST request](https://stackoverflow.com/questions/75962161/how-to-set-up-pydantic-model-in-fastapi-for-this-post-request) - 1 votes
 * [Can I return 400 error instead of 422 error](https://stackoverflow.com/questions/75958222/can-i-return-400-error-instead-of-422-error) - 1 votes
-* [How to store cookies under frontend url instead of server39s url](https://stackoverflow.com/questions/75955644/how-to-store-cookies-under-frontend-url-instead-of-servers-url) - 1 votes
-* [How to handle exceptions for all the sub apps in FastAPI](https://stackoverflow.com/questions/75950294/how-to-handle-exceptions-for-all-the-sub-apps-in-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Tricky Long Pivot by Reverse Aggregation transformation Pandas](https://stackoverflow.com/questions/75945804/tricky-long-pivot-by-reverse-aggregation-transformation-pandas) - 5 votes
-* [Python  Efficient calculation where end value of one row is the start value of another row](https://stackoverflow.com/questions/75945689/python-efficient-calculation-where-end-value-of-one-row-is-the-start-value-of) - 4 votes
-* [Tricky conversion of field names to values while performing row by row deaggregation using Pandas](https://stackoverflow.com/questions/75954148/tricky-conversion-of-field-names-to-values-while-performing-row-by-row-de-aggreg) - 4 votes
-* [faster way to search column pairs in another dataframe](https://stackoverflow.com/questions/75951304/faster-way-to-search-column-pairs-in-another-dataframe) - 3 votes
-* [Pandas Timestamp and isin functionality](https://stackoverflow.com/questions/75953679/pandas-timestamp-and-isin-functionality) - 3 votes
+* [JSON Normalize with Value as Column](https://stackoverflow.com/questions/75962385/json-normalize-with-value-as-column) - 2 votes
+* [Invalid synthax in df while fetching ESG data from Yahoo Finance](https://stackoverflow.com/questions/75957370/invalid-synthax-in-df-while-fetching-esg-data-from-yahoo-finance) - 2 votes
+* [How do I deterministically convert Pandas string columns into specific numbers](https://stackoverflow.com/questions/75966447/how-do-i-deterministically-convert-pandas-string-columns-into-specific-numbers) - 1 votes
+* [for Loop multiple conditions](https://stackoverflow.com/questions/75962802/for-loop-multiple-conditions) - 1 votes
+* [Change index column to real column in pandas](https://stackoverflow.com/questions/75961902/change-index-column-to-real-column-in-pandas) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
