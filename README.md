@@ -1,16 +1,16 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-04-08<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-04-09<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [In async Rust how can a Future make sure it only calls the most recent Waker](https://stackoverflow.com/questions/75959786/in-async-rust-how-can-a-future-make-sure-it-only-calls-the-most-recent-waker) - 5 votes
-* [How to extend Polars custom expression in Rust](https://stackoverflow.com/questions/75962133/how-to-extend-polars-custom-expression-in-rust) - 3 votes
-* [Why rust compiler emits so strange SIMD code](https://stackoverflow.com/questions/75958334/why-rust-compiler-emits-so-strange-simd-code) - 3 votes
-* [Substrate node template Cannot create a runtime errorOtherquotcannot deserialize module UnknownOpcode192quot](https://stackoverflow.com/questions/75955457/substrate-node-template-cannot-create-a-runtime-error-othercannot-deserialize) - 2 votes
+* [My Axum handler won39t compile the trait IntoResponse is not implemented](https://stackoverflow.com/questions/75968082/my-axum-handler-wont-compile-the-trait-intoresponse-is-not-implemented) - 2 votes
+* [Do Rust perform type casting in runtime or in compilation statically](https://stackoverflow.com/questions/75969788/do-rust-perform-type-casting-in-runtime-or-in-compilation-statically) - 1 votes
+* [How to flatten a treelike structure in Rust to a Vecltampmut gt](https://stackoverflow.com/questions/75971564/how-to-flatten-a-tree-like-structure-in-rust-to-a-vecmut) - 1 votes
+* [Github Workflow not building Rust project for i686pcwindowsgnu target](https://stackoverflow.com/questions/75967356/github-workflow-not-building-rust-project-for-i686-pc-windows-gnu-target) - 1 votes
 * [Return combined result of tasks](https://stackoverflow.com/questions/75964256/return-combined-result-of-tasks) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -18,22 +18,20 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 
 ### fastapi
 <!-- fastapi starts -->
-* [TypeError 39SnapResponse39 object is not callable](https://stackoverflow.com/questions/75959070/typeerror-snapresponse-object-is-not-callable) - 1 votes
+* [SvelteKit with FastAPI in DockerCompose](https://stackoverflow.com/questions/75967381/sveltekit-with-fastapi-in-dockercompose) - 1 votes
 * [How to delete rows by a condition using sqlalmchemy and fastapi](https://stackoverflow.com/questions/75963542/how-to-delete-rows-by-a-condition-using-sqlalmchemy-and-fastapi) - 1 votes
 * [Frontend HTML refreshes after a POST request updated elements will go back to being what they were previously](https://stackoverflow.com/questions/75963517/frontend-html-refreshes-after-a-post-request-updated-elements-will-go-back-to-b) - 1 votes
-* [How to set up pydantic model in FastAPI for this POST request](https://stackoverflow.com/questions/75962161/how-to-set-up-pydantic-model-in-fastapi-for-this-post-request) - 1 votes
-* [Can I return 400 error instead of 422 error](https://stackoverflow.com/questions/75958222/can-i-return-400-error-instead-of-422-error) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [JSON Normalize with Value as Column](https://stackoverflow.com/questions/75962385/json-normalize-with-value-as-column) - 2 votes
-* [Invalid synthax in df while fetching ESG data from Yahoo Finance](https://stackoverflow.com/questions/75957370/invalid-synthax-in-df-while-fetching-esg-data-from-yahoo-finance) - 2 votes
+* [Create txt file from Pandas Dataframe](https://stackoverflow.com/questions/75968905/create-txt-file-from-pandas-dataframe) - 2 votes
+* [How to extract substring from pandas column](https://stackoverflow.com/questions/75968750/how-to-extract-substring-from-pandas-column) - 2 votes
+* [Rowwise average of last n data available columns in pandas](https://stackoverflow.com/questions/75968804/row-wise-average-of-last-n-data-available-columns-in-pandas) - 2 votes
 * [How do I deterministically convert Pandas string columns into specific numbers](https://stackoverflow.com/questions/75966447/how-do-i-deterministically-convert-pandas-string-columns-into-specific-numbers) - 1 votes
-* [for Loop multiple conditions](https://stackoverflow.com/questions/75962802/for-loop-multiple-conditions) - 1 votes
-* [Change index column to real column in pandas](https://stackoverflow.com/questions/75961902/change-index-column-to-real-column-in-pandas) - 1 votes
+* [Align two columns of strings in pandas merge strings recursively until match](https://stackoverflow.com/questions/75971833/align-two-columns-of-strings-in-pandas-merge-strings-recursively-until-match) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
