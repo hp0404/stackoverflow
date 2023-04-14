@@ -1,24 +1,26 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-04-13<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-04-14<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Slice cannot be indexed by usize](https://stackoverflow.com/questions/76010336/slice-cannot-be-indexed-by-usize) - 3 votes
+* [When to use rustc rather than cargo command in Rust](https://stackoverflow.com/questions/76010696/when-to-use-rustc-rather-than-cargo-command-in-rust) - 2 votes
 * [How to quottakequot the first part of a slice borrowed in a function](https://stackoverflow.com/questions/76003226/how-to-take-the-first-part-of-a-slice-borrowed-in-a-function) - 2 votes
-* [How to return Iterator with generic Item type from function](https://stackoverflow.com/questions/75996486/how-to-return-iterator-with-generic-item-type-from-function) - 1 votes
-* [Trait with typedependent optional function forces implementation regardless of type](https://stackoverflow.com/questions/75992601/trait-with-type-dependent-optional-function-forces-implementation-regardless-of) - 1 votes
-* [Single line comments in Rust](https://stackoverflow.com/questions/75999586/single-line-comments-in-rust) - 1 votes
-* [Trouble understanding mutation in rust in a simple for loop](https://stackoverflow.com/questions/76006519/trouble-understanding-mutation-in-rust-in-a-simple-for-loop) - 1 votes
+* [How is Form automatically added to the Window](https://stackoverflow.com/questions/76010982/how-is-form-automatically-added-to-the-window) - 1 votes
+* [Unable to get user_id from Actix Web session data after successful login](https://stackoverflow.com/questions/76014078/unable-to-get-user-id-from-actix-web-session-data-after-successful-login) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to define query parameters using Pydantic model in FastAPI](https://stackoverflow.com/questions/75998227/how-to-define-query-parameters-using-pydantic-model-in-fastapi) - 1 votes
+* [FastAPI  uvicorn or hypercorn where is my rootpath](https://stackoverflow.com/questions/76012644/fastapi-uvicorn-or-hypercorn-where-is-my-root-path) - 1 votes
+* [How to customize response messages for redocs in FastAPI](https://stackoverflow.com/questions/76016646/how-to-customize-response-messages-for-redocs-in-fastapi) - 1 votes
+* [FastAPI  How do I log requests before processing and responses after processing](https://stackoverflow.com/questions/76007488/fastapi-how-do-i-log-requests-before-processing-and-responses-after-processing) - 1 votes
 * [Why is FastAPI slow when processing several hundred requests at the same time](https://stackoverflow.com/questions/76004459/why-is-fastapi-slow-when-processing-several-hundred-requests-at-the-same-time) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
@@ -26,11 +28,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 
 ### pandas
 <!-- pandas starts -->
-* [How to implement rolling mean ignoring null values](https://stackoverflow.com/questions/75998574/how-to-implement-rolling-mean-ignoring-null-values) - 5 votes
-* [pandas how to check if column not empty then apply strreplace in one line code](https://stackoverflow.com/questions/75999041/pandas-how-to-check-if-column-not-empty-then-apply-str-replace-in-one-line-code) - 4 votes
-* [How to apply a background_gradient to the first n greatest values in a pandas dataframe39s column](https://stackoverflow.com/questions/75995479/how-to-apply-a-background-gradient-to-the-first-n-greatest-values-in-a-pandas-da) - 3 votes
-* [How do I update a pandasnumpy row with a xor of a next row into that same row](https://stackoverflow.com/questions/75991817/how-do-i-update-a-pandas-numpy-row-with-a-xor-of-a-next-row-into-that-same-row) - 3 votes
+* [Get jointfrequency of two binned variables from pandas dataframe](https://stackoverflow.com/questions/76017534/get-joint-frequency-of-two-binned-variables-from-pandas-dataframe) - 3 votes
+* [Compare the values of a Dataframe column with a list and maintain the order of the strings from the dataframe column](https://stackoverflow.com/questions/76010492/compare-the-values-of-a-dataframe-column-with-a-list-and-maintain-the-order-of-t) - 3 votes
 * [How to find past values by ID in Python](https://stackoverflow.com/questions/76006978/how-to-find-past-values-by-id-in-python) - 3 votes
+* [how to make dataframe from indexed dictionary](https://stackoverflow.com/questions/76011623/how-to-make-dataframe-from-indexed-dictionary) - 2 votes
+* [how to concatenate multiple columns dynamically where column names are stored as delimited string Pandas](https://stackoverflow.com/questions/76011014/how-to-concatenate-multiple-columns-dynamically-where-column-names-are-stored-as) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
