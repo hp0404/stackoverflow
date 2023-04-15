@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-04-14<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-04-15<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Slice cannot be indexed by usize](https://stackoverflow.com/questions/76010336/slice-cannot-be-indexed-by-usize) - 3 votes
 * [When to use rustc rather than cargo command in Rust](https://stackoverflow.com/questions/76010696/when-to-use-rustc-rather-than-cargo-command-in-rust) - 2 votes
-* [How to quottakequot the first part of a slice borrowed in a function](https://stackoverflow.com/questions/76003226/how-to-take-the-first-part-of-a-slice-borrowed-in-a-function) - 2 votes
+* [How to fix lifetimes for a nested struct](https://stackoverflow.com/questions/76022010/how-to-fix-lifetimes-for-a-nested-struct) - 2 votes
+* [Unable to get user_id from Actix Web session data after successful login](https://stackoverflow.com/questions/76014078/unable-to-get-user-id-from-actix-web-session-data-after-successful-login) - 2 votes
+* [How can I concatenate adjacent slices in Rust](https://stackoverflow.com/questions/76023825/how-can-i-concatenate-adjacent-slices-in-rust) - 1 votes
 * [How is Form automatically added to the Window](https://stackoverflow.com/questions/76010982/how-is-form-automatically-added-to-the-window) - 1 votes
-* [Unable to get user_id from Actix Web session data after successful login](https://stackoverflow.com/questions/76014078/unable-to-get-user-id-from-actix-web-session-data-after-successful-login) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -19,9 +19,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### fastapi
 <!-- fastapi starts -->
 * [FastAPI  uvicorn or hypercorn where is my rootpath](https://stackoverflow.com/questions/76012644/fastapi-uvicorn-or-hypercorn-where-is-my-root-path) - 1 votes
-* [How to customize response messages for redocs in FastAPI](https://stackoverflow.com/questions/76016646/how-to-customize-response-messages-for-redocs-in-fastapi) - 1 votes
-* [FastAPI  How do I log requests before processing and responses after processing](https://stackoverflow.com/questions/76007488/fastapi-how-do-i-log-requests-before-processing-and-responses-after-processing) - 1 votes
-* [Why is FastAPI slow when processing several hundred requests at the same time](https://stackoverflow.com/questions/76004459/why-is-fastapi-slow-when-processing-several-hundred-requests-at-the-same-time) - 1 votes
+* [How to customize response messages for ReDoc OpenAPI documentation in FastAPI](https://stackoverflow.com/questions/76016646/how-to-customize-response-messages-for-redoc-openapi-documentation-in-fastapi) - 1 votes
+* [JWT Bearer token cookie and CSRF attack](https://stackoverflow.com/questions/76014108/jwt-bearer-token-cookie-and-csrf-attack) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -29,10 +28,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### pandas
 <!-- pandas starts -->
 * [Get jointfrequency of two binned variables from pandas dataframe](https://stackoverflow.com/questions/76017534/get-joint-frequency-of-two-binned-variables-from-pandas-dataframe) - 3 votes
-* [Compare the values of a Dataframe column with a list and maintain the order of the strings from the dataframe column](https://stackoverflow.com/questions/76010492/compare-the-values-of-a-dataframe-column-with-a-list-and-maintain-the-order-of-t) - 3 votes
-* [How to find past values by ID in Python](https://stackoverflow.com/questions/76006978/how-to-find-past-values-by-id-in-python) - 3 votes
+* [How to import Python methods of existing classes selectively](https://stackoverflow.com/questions/76019290/how-to-import-python-methods-of-existing-classes-selectively) - 3 votes
 * [how to make dataframe from indexed dictionary](https://stackoverflow.com/questions/76011623/how-to-make-dataframe-from-indexed-dictionary) - 2 votes
 * [how to concatenate multiple columns dynamically where column names are stored as delimited string Pandas](https://stackoverflow.com/questions/76011014/how-to-concatenate-multiple-columns-dynamically-where-column-names-are-stored-as) - 2 votes
+* [Subtract all values in a detail column from a summary column using an ID column to group them together  PANDAS](https://stackoverflow.com/questions/76019196/subtract-all-values-in-a-detail-column-from-a-summary-column-using-an-id-column) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
