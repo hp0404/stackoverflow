@@ -1,37 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-04-15<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-04-16<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [When to use rustc rather than cargo command in Rust](https://stackoverflow.com/questions/76010696/when-to-use-rustc-rather-than-cargo-command-in-rust) - 2 votes
+* [Rename 39main39 thread in Rust](https://stackoverflow.com/questions/76029308/rename-main-thread-in-rust) - 3 votes
+* [Why into_iter can be called on an iterator reference](https://stackoverflow.com/questions/76022886/why-into-iter-can-be-called-on-an-iterator-reference) - 2 votes
 * [How to fix lifetimes for a nested struct](https://stackoverflow.com/questions/76022010/how-to-fix-lifetimes-for-a-nested-struct) - 2 votes
-* [Unable to get user_id from Actix Web session data after successful login](https://stackoverflow.com/questions/76014078/unable-to-get-user-id-from-actix-web-session-data-after-successful-login) - 2 votes
 * [How can I concatenate adjacent slices in Rust](https://stackoverflow.com/questions/76023825/how-can-i-concatenate-adjacent-slices-in-rust) - 1 votes
-* [How is Form automatically added to the Window](https://stackoverflow.com/questions/76010982/how-is-form-automatically-added-to-the-window) - 1 votes
+* [Using slicewindows2 including a final iteration of the last and first items](https://stackoverflow.com/questions/76026949/using-slice-windows2-including-a-final-iteration-of-the-last-and-first-items) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI  uvicorn or hypercorn where is my rootpath](https://stackoverflow.com/questions/76012644/fastapi-uvicorn-or-hypercorn-where-is-my-root-path) - 1 votes
-* [How to customize response messages for ReDoc OpenAPI documentation in FastAPI](https://stackoverflow.com/questions/76016646/how-to-customize-response-messages-for-redoc-openapi-documentation-in-fastapi) - 1 votes
-* [JWT Bearer token cookie and CSRF attack](https://stackoverflow.com/questions/76014108/jwt-bearer-token-cookie-and-csrf-attack) - 1 votes
+* [Django could not perform queries on Postgres when request sent from fastapi](https://stackoverflow.com/questions/76025284/django-could-not-perform-queries-on-postgres-when-request-sent-from-fastapi) - 2 votes
+* [How to run blocking operations loops concurrently using python async](https://stackoverflow.com/questions/76029974/how-to-run-blocking-operations-loops-concurrently-using-python-async) - 1 votes
+* [Why do I have to iterate the SQLAlchemy object to return it in FastAPI](https://stackoverflow.com/questions/76019845/why-do-i-have-to-iterate-the-sqlalchemy-object-to-return-it-in-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Get jointfrequency of two binned variables from pandas dataframe](https://stackoverflow.com/questions/76017534/get-joint-frequency-of-two-binned-variables-from-pandas-dataframe) - 3 votes
-* [How to import Python methods of existing classes selectively](https://stackoverflow.com/questions/76019290/how-to-import-python-methods-of-existing-classes-selectively) - 3 votes
-* [how to make dataframe from indexed dictionary](https://stackoverflow.com/questions/76011623/how-to-make-dataframe-from-indexed-dictionary) - 2 votes
-* [how to concatenate multiple columns dynamically where column names are stored as delimited string Pandas](https://stackoverflow.com/questions/76011014/how-to-concatenate-multiple-columns-dynamically-where-column-names-are-stored-as) - 2 votes
-* [Subtract all values in a detail column from a summary column using an ID column to group them together  PANDAS](https://stackoverflow.com/questions/76019196/subtract-all-values-in-a-detail-column-from-a-summary-column-using-an-id-column) - 2 votes
+* [AttributeError 39DataFrame39 object has no attribute 39append39 for DataFrame](https://stackoverflow.com/questions/76020626/attributeerror-dataframe-object-has-no-attribute-append-for-dataframe) - 2 votes
+* [Can VS Code suggest all dataframe column labels](https://stackoverflow.com/questions/76019931/can-vs-code-suggest-all-dataframe-column-labels) - 2 votes
+* [Perform some operation if 2 pandas dataframe have same entries in python](https://stackoverflow.com/questions/76025977/perform-some-operation-if-2-pandas-dataframe-have-same-entries-in-python) - 1 votes
+* [How can I sort a dataframe on some column](https://stackoverflow.com/questions/76028704/how-can-i-sort-a-dataframe-on-some-column) - 1 votes
+* [Creating a new column based on values of two other columns](https://stackoverflow.com/questions/76024167/creating-a-new-column-based-on-values-of-two-other-columns) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
