@@ -1,38 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-04-18<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-04-19<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Difference between type defined in trait versus type defined in general](https://stackoverflow.com/questions/76036891/difference-between-type-defined-in-trait-versus-type-defined-in-general) - 2 votes
-* [Drop borrow in each loop iteration](https://stackoverflow.com/questions/76033693/drop-borrow-in-each-loop-iteration) - 2 votes
+* [Why can39t the Rust compiler autovectorize this FP dot product implementation](https://stackoverflow.com/questions/76055058/why-cant-the-rust-compiler-auto-vectorize-this-fp-dot-product-implementation) - 2 votes
+* [How can I reference a global member variable inside an impl](https://stackoverflow.com/questions/76050193/how-can-i-reference-a-global-member-variable-inside-an-impl) - 2 votes
 * [Why is iterating over a nonmutable Vec of nonmutable noncopyable elements legal in Rust](https://stackoverflow.com/questions/76045503/why-is-iterating-over-a-non-mutable-vec-of-non-mutable-non-copyable-elements-leg) - 1 votes
+* [Does a Rust forin forof loop cause reassignment of a container](https://stackoverflow.com/questions/76045351/does-a-rust-for-in-for-of-loop-cause-reassignment-of-a-container) - 1 votes
 * [Providing defaults to destructured match arms in Rust](https://stackoverflow.com/questions/76044245/providing-defaults-to-destructured-match-arms-in-rust) - 1 votes
-* [cast struct that not explictly impl a trait to the trait object](https://stackoverflow.com/questions/76031181/cast-struct-that-not-explictly-impl-a-trait-to-the-trait-object) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to redirect from a POST to a GET endpoint in FastAPI without changing the response status code](https://stackoverflow.com/questions/76047310/how-to-redirect-from-a-post-to-a-get-endpoint-in-fastapi-without-changing-the-re) - 1 votes
-* [FastAPI Error 422 attempting to loop through a Python list in html](https://stackoverflow.com/questions/76047650/fastapi-error-422-attempting-to-loop-through-a-python-list-in-html) - 1 votes
-* [I am using FastAPI and if I dont put anything on JSON obj the value in my database changes in quotstringquot](https://stackoverflow.com/questions/76032596/i-am-using-fastapi-and-if-i-dont-put-anything-on-json-obj-the-value-in-my-databa) - 1 votes
-* [Why am I getting CORS policy error on POST only](https://stackoverflow.com/questions/76031213/why-am-i-getting-cors-policy-error-on-post-only) - 1 votes
+* [Mounting Flask app in FastAPI raises a 404 Not Found error response](https://stackoverflow.com/questions/76057185/mounting-flask-app-in-fastapi-raises-a-404-not-found-error-response) - 2 votes
+* [quotGET  HTTP11quot 405 Method Not Allowed](https://stackoverflow.com/questions/76052942/get-http-1-1-405-method-not-allowed) - 1 votes
+* [How to provide only one of multiple optional parameters in FastAPI](https://stackoverflow.com/questions/76044254/how-to-provide-only-one-of-multiple-optional-parameters-in-fastapi) - 1 votes
+* [fastAPI background task takes up to 100 times longer to execute than calling function directly](https://stackoverflow.com/questions/76055891/fastapi-background-task-takes-up-to-100-times-longer-to-execute-than-calling-fun) - 1 votes
+* [Using Request mixed Forms and Files with Annotation and optional fields](https://stackoverflow.com/questions/76055198/using-request-mixed-forms-and-files-with-annotation-and-optional-fields) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [Is there a way to check if a dataframe is contained within another](https://stackoverflow.com/questions/76046538/is-there-a-way-to-check-if-a-dataframe-is-contained-within-another) - 4 votes
 * [Finding the average of differences between each row](https://stackoverflow.com/questions/76045518/finding-the-average-of-differences-between-each-row) - 3 votes
-* [Is there a way to check if a dataframe is contained within another](https://stackoverflow.com/questions/76046538/is-there-a-way-to-check-if-a-dataframe-is-contained-within-another) - 3 votes
-* [Filling na values with unique values for each na in a column in Python Pandas](https://stackoverflow.com/questions/76041214/filling-na-values-with-unique-values-for-each-na-in-a-column-in-python-pandas) - 2 votes
-* [Pandas new column based in sum a column from another pandas](https://stackoverflow.com/questions/76035259/pandas-new-column-based-in-sum-a-column-from-another-pandas) - 2 votes
-* [How to calculate the percent for values in a column against the column max](https://stackoverflow.com/questions/76034803/how-to-calculate-the-percent-for-values-in-a-column-against-the-column-max) - 2 votes
+* [Python how to average month from 15th to 15th of each month or nth to nth](https://stackoverflow.com/questions/76056847/python-how-to-average-month-from-15th-to-15th-of-each-month-or-nth-to-nth) - 3 votes
+* [How do I count the words in every row of a data frame column](https://stackoverflow.com/questions/76049317/how-do-i-count-the-words-in-every-row-of-a-data-frame-column) - 2 votes
+* [Python more efficient method than apply](https://stackoverflow.com/questions/76053926/python-more-efficient-method-than-apply) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
