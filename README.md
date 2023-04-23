@@ -1,39 +1,39 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-04-22<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-04-23<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Factory function of different types in rust](https://stackoverflow.com/questions/76071242/factory-function-of-different-types-in-rust) - 2 votes
-* [Why can39t I clone a Vec of cloneable constructors](https://stackoverflow.com/questions/76075892/why-cant-i-clone-a-vec-of-cloneable-constructors) - 1 votes
-* [Rust is the automatic dereference of Box types prohibative](https://stackoverflow.com/questions/76073177/rust-is-the-automatic-dereference-of-box-types-prohibative) - 1 votes
-* [How to implement abstract polymorphism  disjoint polymorphism in Rust](https://stackoverflow.com/questions/76072681/how-to-implement-abstract-polymorphism-disjoint-polymorphism-in-rust) - 1 votes
-* [Which traits pass through Deref and which don39t](https://stackoverflow.com/questions/76073303/which-traits-pass-through-deref-and-which-dont) - 1 votes
+* [Return a Python object defined in a third party Python module eg Numpy using PyO3](https://stackoverflow.com/questions/76082775/return-a-python-object-defined-in-a-third-party-python-module-e-g-numpy-using) - 1 votes
+* [How to convert rust string to i8c_char array](https://stackoverflow.com/questions/76084293/how-to-convert-rust-string-to-i8c-char-array) - 1 votes
+* [rust compiler omit simple structure when generating llvmir](https://stackoverflow.com/questions/76084360/rust-compiler-omit-simple-structure-when-generating-llvm-ir) - 1 votes
+* [How to idiomatically define a method that returns ampstr in Rust](https://stackoverflow.com/questions/76081907/how-to-idiomatically-define-a-method-that-returns-str-in-rust) - 1 votes
+* [Use a private module from srcbin](https://stackoverflow.com/questions/76080427/use-a-private-module-from-src-bin) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI difference between jsondumps and JSONResponse](https://stackoverflow.com/questions/76070545/fastapi-difference-between-json-dumps-and-jsonresponse) - 2 votes
+* [FastAPI returns 404 39detail not found39 when using multiple Optional path parameters](https://stackoverflow.com/questions/76083927/fastapi-returns-404-detail-not-found-when-using-multiple-optional-path-paramet) - 2 votes
 * [I can39t run FastAPI Docker Container](https://stackoverflow.com/questions/76078702/i-cant-run-fastapi-docker-container) - 2 votes
 * [How to customize validation error message in FastAPI](https://stackoverflow.com/questions/76078450/how-to-customize-validation-error-message-in-fastapi) - 2 votes
-* [How to push background task before start application in FastApi](https://stackoverflow.com/questions/76080465/how-to-push-background-task-before-start-application-in-fastapi) - 1 votes
-* [Alembic revision treats tables as columns](https://stackoverflow.com/questions/76077353/alembic-revision-treats-tables-as-columns) - 1 votes
+* [Vuejs is not recognizable in fastapi template Vuejs in fastapi](https://stackoverflow.com/questions/76085108/vue-js-is-not-recognizable-in-fastapi-template-vue-js-in-fastapi) - 1 votes
+* [FastApi function appon_event39startup39 how it can work with Docker compose](https://stackoverflow.com/questions/76081437/fastapi-function-app-on-eventstartup-how-it-can-work-with-docker-compose) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Vectorized alternative for itertuples using filewrite](https://stackoverflow.com/questions/76076150/vectorized-alternative-for-itertuples-using-file-write) - 2 votes
-* [How can I calculate all the quotuniquequot intervals and sum a column in a Pandas DataFrame](https://stackoverflow.com/questions/76076814/how-can-i-calculate-all-the-unique-intervals-and-sum-a-column-in-a-pandas-data) - 2 votes
+* [How to replace values between to dataframes using for loops and date range](https://stackoverflow.com/questions/76085749/how-to-replace-values-between-to-dataframes-using-for-loops-and-date-range) - 2 votes
 * [pandas dataframe generate rows](https://stackoverflow.com/questions/76081554/pandas-dataframe-generate-rows) - 2 votes
-* [create multiple columns at once based on the value of another column](https://stackoverflow.com/questions/76075818/create-multiple-columns-at-once-based-on-the-value-of-another-column) - 1 votes
-* [rows concatenate in pandas dataframe](https://stackoverflow.com/questions/76073715/rows-concatenate-in-pandas-dataframe) - 1 votes
+* [Is there a way in pandas to increment a value in a col by 1 once a condition is met](https://stackoverflow.com/questions/76082828/is-there-a-way-in-pandas-to-increment-a-value-in-a-col-by-1-once-a-condition-is) - 1 votes
+* [how to manage sum in a loop in pandas](https://stackoverflow.com/questions/76084957/how-to-manage-sum-in-a-loop-in-pandas) - 1 votes
+* [Occurence of more than one fields grouped by label](https://stackoverflow.com/questions/76086576/occurence-of-more-than-one-fields-grouped-by-label) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
