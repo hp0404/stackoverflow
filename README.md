@@ -1,26 +1,24 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-04-29<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-04-30<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [borrowed value does not live long enough when using traits](https://stackoverflow.com/questions/76130326/borrowed-value-does-not-live-long-enough-when-using-traits) - 2 votes
-* [How can I deserialize an array in a background thread using rust39s serde](https://stackoverflow.com/questions/76133340/how-can-i-deserialize-an-array-in-a-background-thread-using-rusts-serde) - 2 votes
+* [Why is an array not moved after the for block like a vector](https://stackoverflow.com/questions/76139033/why-is-an-array-not-moved-after-the-for-block-like-a-vector) - 3 votes
+* [Using ampmut self in an async move block](https://stackoverflow.com/questions/76137948/using-mut-self-in-an-async-move-block) - 3 votes
 * [move  async move  how to know which move is moving which](https://stackoverflow.com/questions/76134470/move-async-move-how-to-know-which-move-is-moving-which) - 1 votes
-* [Using ampmut self in an async move block](https://stackoverflow.com/questions/76137948/using-mut-self-in-an-async-move-block) - 1 votes
-* [Return async Closure in Rust](https://stackoverflow.com/questions/76132781/return-async-closure-in-rust) - 1 votes
+* [higherranked lifetime error for Axum post](https://stackoverflow.com/questions/76140189/higher-ranked-lifetime-error-for-axum-post) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to make case insensitive choices using Python39s enum and FastAPI](https://stackoverflow.com/questions/76129550/how-to-make-case-insensitive-choices-using-pythons-enum-and-fastapi) - 3 votes
-* [How can I add unknown arguments in a post request in FastAPI using BaseModel](https://stackoverflow.com/questions/76128269/how-can-i-add-unknown-arguments-in-a-post-request-in-fastapi-using-basemodel) - 3 votes
 * [How to allow hyphen  in query parameter name using FastAPI](https://stackoverflow.com/questions/76136469/how-to-allow-hyphen-in-query-parameter-name-using-fastapi) - 2 votes
+* [Serve relative assets correctly without altering the HTML](https://stackoverflow.com/questions/76142816/serve-relative-assets-correctly-without-altering-the-html) - 1 votes
 * [Fast API  Gunicorn vs Uvicorn](https://stackoverflow.com/questions/76137007/fast-api-gunicorn-vs-uvicorn) - 1 votes
 * [Return value object in FastAPI](https://stackoverflow.com/questions/76136083/return-value-object-in-fastapi) - 1 votes
 <!-- fastapi ends -->
@@ -29,11 +27,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 
 ### pandas
 <!-- pandas starts -->
-* [Create a new dataframe by breaking down the columns data of an old dataframe](https://stackoverflow.com/questions/76138324/create-a-new-dataframe-by-breaking-down-the-columns-data-of-an-old-dataframe) - 2 votes
-* [Pandas simple way to split column header names on separator](https://stackoverflow.com/questions/76130226/pandas-simple-way-to-split-column-header-names-on-separator) - 2 votes
+* [Create a new dataframe by breaking down the columns data of an old dataframe](https://stackoverflow.com/questions/76138324/create-a-new-dataframe-by-breaking-down-the-columns-data-of-an-old-dataframe) - 3 votes
+* [Replacing append with concat in Pandas](https://stackoverflow.com/questions/76143149/replacing-append-with-concat-in-pandas) - 2 votes
 * [Cumsum of previous values if conditions are met after groupby](https://stackoverflow.com/questions/76137930/cumsum-of-previous-values-if-conditions-are-met-after-groupby) - 2 votes
-* [Appending a single row to a DataFrame in Pandas 20](https://stackoverflow.com/questions/76126686/appending-a-single-row-to-a-dataframe-in-pandas-2-0) - 2 votes
-* [How do you create a list object from a dataframe based on a column value](https://stackoverflow.com/questions/76130751/how-do-you-create-a-list-object-from-a-dataframe-based-on-a-column-value) - 1 votes
+* [Setting a column in a dataframe to new values](https://stackoverflow.com/questions/76134989/setting-a-column-in-a-dataframe-to-new-values) - 2 votes
+* [Pivot data Frame example](https://stackoverflow.com/questions/76141998/pivot-data-frame-example) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
