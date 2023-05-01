@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-04-30<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-05-01<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,30 +8,30 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### rust
 <!-- rust starts -->
 * [Why is an array not moved after the for block like a vector](https://stackoverflow.com/questions/76139033/why-is-an-array-not-moved-after-the-for-block-like-a-vector) - 3 votes
-* [Using ampmut self in an async move block](https://stackoverflow.com/questions/76137948/using-mut-self-in-an-async-move-block) - 3 votes
-* [move  async move  how to know which move is moving which](https://stackoverflow.com/questions/76134470/move-async-move-how-to-know-which-move-is-moving-which) - 1 votes
-* [higherranked lifetime error for Axum post](https://stackoverflow.com/questions/76140189/higher-ranked-lifetime-error-for-axum-post) - 1 votes
+* [return enum of impl in rust](https://stackoverflow.com/questions/76148194/return-enum-of-impl-in-rust) - 2 votes
+* [RustSerdeHTTP Serialize OptionlthttpMethodgt](https://stackoverflow.com/questions/76143129/rust-serde-http-serialize-optionhttpmethod) - 2 votes
+* [What is the difference between methods calls in Rust](https://stackoverflow.com/questions/76146433/what-is-the-difference-between-methods-calls-in-rust) - 1 votes
+* [How to resolve a local ambiguity error when recursively handling commaseparated tokens in macro_rules](https://stackoverflow.com/questions/76143627/how-to-resolve-a-local-ambiguity-error-when-recursively-handling-comma-separated) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to allow hyphen  in query parameter name using FastAPI](https://stackoverflow.com/questions/76136469/how-to-allow-hyphen-in-query-parameter-name-using-fastapi) - 2 votes
+* [How to run another application within the same running event loop](https://stackoverflow.com/questions/76142431/how-to-run-another-application-within-the-same-running-event-loop) - 1 votes
+* [Pydantic Custom Data Types can39t be optional in FastAPI route](https://stackoverflow.com/questions/76147662/pydantic-custom-data-types-cant-be-optional-in-fastapi-route) - 1 votes
 * [Serve relative assets correctly without altering the HTML](https://stackoverflow.com/questions/76142816/serve-relative-assets-correctly-without-altering-the-html) - 1 votes
-* [Fast API  Gunicorn vs Uvicorn](https://stackoverflow.com/questions/76137007/fast-api-gunicorn-vs-uvicorn) - 1 votes
-* [Return value object in FastAPI](https://stackoverflow.com/questions/76136083/return-value-object-in-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Create a new dataframe by breaking down the columns data of an old dataframe](https://stackoverflow.com/questions/76138324/create-a-new-dataframe-by-breaking-down-the-columns-data-of-an-old-dataframe) - 3 votes
+* [Reshaping dataframe using multiindex and populate data accordingly](https://stackoverflow.com/questions/76145750/reshaping-dataframe-using-multi-index-and-populate-data-accordingly) - 2 votes
+* [how to use every even column for the corresponding odd column and create a new data frame  Python](https://stackoverflow.com/questions/76149284/how-to-use-every-even-column-for-the-corresponding-odd-column-and-create-a-new-d) - 2 votes
+* [How can I do the opposite of value_counts ie get a dataframe column with repeated values using the column of counts](https://stackoverflow.com/questions/76149063/how-can-i-do-the-opposite-of-value-counts-i-e-get-a-dataframe-column-with-repe) - 2 votes
 * [Replacing append with concat in Pandas](https://stackoverflow.com/questions/76143149/replacing-append-with-concat-in-pandas) - 2 votes
-* [Cumsum of previous values if conditions are met after groupby](https://stackoverflow.com/questions/76137930/cumsum-of-previous-values-if-conditions-are-met-after-groupby) - 2 votes
-* [Setting a column in a dataframe to new values](https://stackoverflow.com/questions/76134989/setting-a-column-in-a-dataframe-to-new-values) - 2 votes
-* [Pivot data Frame example](https://stackoverflow.com/questions/76141998/pivot-data-frame-example) - 1 votes
+* [Write a dat file from 2D complex numpy array](https://stackoverflow.com/questions/76143808/write-a-dat-file-from-2d-complex-numpy-array) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
