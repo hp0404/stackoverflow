@@ -1,39 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-05-03<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-05-04<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why doesn39t rust complain when you drop a value that lives on the stack](https://stackoverflow.com/questions/76158551/why-doesnt-rust-complain-when-you-drop-a-value-that-lives-on-the-stack) - 4 votes
-* [Optimal code pattern to process a lists  separator in Rust](https://stackoverflow.com/questions/76157860/optimal-code-pattern-to-process-a-lists-separator-in-rust) - 4 votes
-* [Function from C not receiving correct arguments called in Rust](https://stackoverflow.com/questions/76165812/function-from-c-not-receiving-correct-arguments-called-in-rust) - 4 votes
-* [quotcannot borrow self as immutable because it is also borrowed as mutablequot  does the compiler really need to be this strict](https://stackoverflow.com/questions/76151846/cannot-borrow-self-as-immutable-because-it-is-also-borrowed-as-mutable-d) - 3 votes
-* [Temporary value dropped while borrowed when printing format_args](https://stackoverflow.com/questions/76157524/temporary-value-dropped-while-borrowed-when-printing-format-args) - 3 votes
+* [Typechecking a pattern match that panics](https://stackoverflow.com/questions/76174898/type-checking-a-pattern-match-that-panics) - 5 votes
+* [Function from C not receiving correct arguments called in Rust](https://stackoverflow.com/questions/76165812/function-from-c-not-receiving-correct-arguments-called-in-rust) - 5 votes
+* [How to extract text from Whisper transcribe python API via Rust PyO3](https://stackoverflow.com/questions/76166311/how-to-extract-text-from-whisper-transcribe-python-api-via-rust-pyo3) - 2 votes
+* [Is there a way to compile and bundle another html file in tauri](https://stackoverflow.com/questions/76176712/is-there-a-way-to-compile-and-bundle-another-html-file-in-tauri) - 2 votes
+* [In rust how do I deal with page that ask for javascript](https://stackoverflow.com/questions/76166250/in-rust-how-do-i-deal-with-page-that-ask-for-javascript) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Properly typed factory for FastAPI and Pydantic](https://stackoverflow.com/questions/76155734/properly-typed-factory-for-fastapi-and-pydantic) - 3 votes
-* [Should the RabbitMQ consumer be part of a microservice web app eg FastApi or a separate Python script](https://stackoverflow.com/questions/76156611/should-the-rabbitmq-consumer-be-part-of-a-microservice-web-app-e-g-fastapi-or) - 1 votes
 * [How to disable Authentication in FastAPI based on environment](https://stackoverflow.com/questions/76159708/how-to-disable-authentication-in-fastapi-based-on-environment) - 1 votes
-* [ConnectionError on multiDocker app Streamlit  FastAPI when deployed on Heroku](https://stackoverflow.com/questions/76155032/connectionerror-on-multi-docker-app-streamlit-fastapi-when-deployed-on-herok) - 1 votes
-* [By what principle will it be correct to distribute queues in celery and rabbitmq](https://stackoverflow.com/questions/76154826/by-what-principle-will-it-be-correct-to-distribute-queues-in-celery-and-rabbitmq) - 1 votes
+* [Unable to access FastAPI application through devices on Local Network](https://stackoverflow.com/questions/76168399/unable-to-access-fastapi-application-through-devices-on-local-network) - 1 votes
+* [How do I make two parallel asynchronous calls using jQueryFastAPI so that neither waits on the other](https://stackoverflow.com/questions/76163104/how-do-i-make-two-parallel-asynchronous-calls-using-jquery-fastapi-so-that-neit) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Split column list into rows without duplicating data](https://stackoverflow.com/questions/76158045/split-column-list-into-rows-without-duplicating-data) - 3 votes
+* [Pandasonspark throwing javalangStackOverFlowError](https://stackoverflow.com/questions/76163832/pandas-on-spark-throwing-java-lang-stackoverflowerror) - 4 votes
 * [Use strsplit to set value of column in dataframe but only for some rows](https://stackoverflow.com/questions/76164198/use-str-split-to-set-value-of-column-in-dataframe-but-only-for-some-rows) - 2 votes
-* [How to extend date in a pandas dataframe](https://stackoverflow.com/questions/76154238/how-to-extend-date-in-a-pandas-dataframe) - 2 votes
-* [Group values and check if the values from another column cancel each other out in python pandas dataframe](https://stackoverflow.com/questions/76153352/group-values-and-check-if-the-values-from-another-column-cancel-each-other-out) - 2 votes
-* [AttributeError module 39pandas39 has no attribute 39Int64Index39](https://stackoverflow.com/questions/76155297/attributeerror-module-pandas-has-no-attribute-int64index) - 2 votes
+* [In Pandas how can I replace a subset of the dataframe with another subset of the dataframe](https://stackoverflow.com/questions/76177107/in-pandas-how-can-i-replace-a-subset-of-the-dataframe-with-another-subset-of-th) - 2 votes
+* [extract a table from text](https://stackoverflow.com/questions/76176461/extract-a-table-from-text) - 2 votes
+* [Why values of dataframe 39dfcolumn39 do not equal 39dfcolumnvalues39 dfx0  dfx0values](https://stackoverflow.com/questions/76168216/why-values-of-dataframe-dfcolumn-do-not-equal-dfcolumn-values-dfx0) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
