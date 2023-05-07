@@ -1,24 +1,25 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-05-06<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-05-07<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [In Rust how does WeakltTgt know when the inner value has been dropped](https://stackoverflow.com/questions/76178731/in-rust-how-does-weakt-know-when-the-inner-value-has-been-dropped) - 4 votes
 * [Copy a ampstr into an array pointer in Rust](https://stackoverflow.com/questions/76187530/copy-a-str-into-an-array-pointer-in-rust) - 4 votes
-* [Is it safe to clone an RcltRefCellltMaybeUninitltTgtgt as RcltRefCellltTgt with uninitilized data](https://stackoverflow.com/questions/76180073/is-it-safe-to-clone-an-rcrefcellmaybeuninitt-as-rcrefcellt-with-unin) - 2 votes
+* [Rust Match two enum variants in one arm binding field of one variant using Option](https://stackoverflow.com/questions/76190619/rust-match-two-enum-variants-in-one-arm-binding-field-of-one-variant-using-opt) - 2 votes
+* [Get access to the request headers from Axum IntoResponse](https://stackoverflow.com/questions/76191856/get-access-to-the-request-headers-from-axum-intoresponse) - 2 votes
 * [How to Check if Server has received data correctly](https://stackoverflow.com/questions/76187101/how-to-check-if-server-has-received-data-correctly) - 2 votes
-* [Rust Match two enum variants in one arm binding field of one variant using Option](https://stackoverflow.com/questions/76190619/rust-match-two-enum-variants-in-one-arm-binding-field-of-one-variant-using-opt) - 1 votes
+* [Why shouldn39t we use amp in HashSetinsert](https://stackoverflow.com/questions/76193049/why-shouldnt-we-use-in-hashsetinsert) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [How to return both PDF file and Jinja2 Template Response using FastAPI](https://stackoverflow.com/questions/76192041/how-to-return-both-pdf-file-and-jinja2-template-response-using-fastapi) - 1 votes
+* [asyncawait seems to be blocking requests in FastAPI](https://stackoverflow.com/questions/76191252/async-await-seems-to-be-blocking-requests-in-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -26,10 +27,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### pandas
 <!-- pandas starts -->
 * [Perform a Python Split on a Pandas Dataframe](https://stackoverflow.com/questions/76187178/perform-a-python-split-on-a-pandas-dataframe) - 4 votes
-* [Remove all dataframe columns that have a sum lower than given value](https://stackoverflow.com/questions/76181711/remove-all-dataframe-columns-that-have-a-sum-lower-than-given-value) - 2 votes
-* [group and sum a numpy array based on the position of the columns in another array](https://stackoverflow.com/questions/76186132/group-and-sum-a-numpy-array-based-on-the-position-of-the-columns-in-another-arra) - 2 votes
-* [Pandas groupby with conditional filtering based on quantity of values in groupby](https://stackoverflow.com/questions/76182156/pandas-groupby-with-conditional-filtering-based-on-quantity-of-values-in-groupby) - 2 votes
-* [Handling different length digits in datetime](https://stackoverflow.com/questions/76179602/handling-different-length-digits-in-datetime) - 2 votes
+* [Map DataFrame column to 2 different dictionaries](https://stackoverflow.com/questions/76191699/map-dataframe-column-to-2-different-dictionaries) - 2 votes
+* [How to replicate value based on distinct column values from a different df pyspark](https://stackoverflow.com/questions/76195685/how-to-replicate-value-based-on-distinct-column-values-from-a-different-df-pyspa) - 2 votes
+* [How to annotate grouped bars with percent for each index](https://stackoverflow.com/questions/76191646/how-to-annotate-grouped-bars-with-percent-for-each-index) - 2 votes
+* [Pandas groupby time gaps](https://stackoverflow.com/questions/76193096/pandas-groupby-time-gaps) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
