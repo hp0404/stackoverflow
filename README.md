@@ -1,36 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-05-17<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-05-18<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Use only one feature flag attribute with multiple use statements in Rust](https://stackoverflow.com/questions/76262644/use-only-one-feature-flag-attribute-with-multiple-use-statements-in-rust) - 3 votes
-* [Can I convert BTreeMapltampstr Cellltampstrgtgt to BTreeMapltampstr ampstrgt without rebuilding](https://stackoverflow.com/questions/76263775/can-i-convert-btreemapstr-cellstr-to-btreemapstr-str-without-rebuild) - 3 votes
-* [How to handle potentially missing configuration file with serde](https://stackoverflow.com/questions/76259115/how-to-handle-potentially-missing-configuration-file-with-serde) - 1 votes
-* [the error about async block outlive the current function](https://stackoverflow.com/questions/76260428/the-error-about-async-block-outlive-the-current-function) - 1 votes
-* [Custom claims with Rusts openidconnect crate](https://stackoverflow.com/questions/76267083/custom-claims-with-rusts-openidconnect-crate) - 1 votes
+* [What39s the difference between Somev and Someampv](https://stackoverflow.com/questions/76277559/whats-the-difference-between-somev-and-somev) - 2 votes
+* [Is there any way to get the list of installable versions of a Rust crate by command](https://stackoverflow.com/questions/76278414/is-there-any-way-to-get-the-list-of-installable-versions-of-a-rust-crate-by-comm) - 1 votes
+* [Rust struct type aliases and quotinheritingquot methods](https://stackoverflow.com/questions/76276592/rust-struct-type-aliases-and-inheriting-methods) - 1 votes
+* [How to get LSP like formatting in Emacs Elisp](https://stackoverflow.com/questions/76278195/how-to-get-lsp-like-formatting-in-emacs-elisp) - 1 votes
+* [Rust  Apache Flight how to get around a library trait method defined on ampself](https://stackoverflow.com/questions/76272107/rust-apache-flight-how-to-get-around-a-library-trait-method-defined-on-self) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
+* [Greater than gt and less than lt parameters in FastAPI Path do not work in Swagger UI](https://stackoverflow.com/questions/76276863/greater-than-gt-and-less-than-lt-parameters-in-fastapi-path-do-not-work-in) - 2 votes
+* [How to use Background Tasks inside a function that is called by a FastAPI endpoint](https://stackoverflow.com/questions/76279889/how-to-use-background-tasks-inside-a-function-that-is-called-by-a-fastapi-endpoi) - 1 votes
 * [How to updatemodify request headers and query parameters in a FastAPI middleware](https://stackoverflow.com/questions/76268348/how-to-update-modify-request-headers-and-query-parameters-in-a-fastapi-middlewar) - 1 votes
-* [How to raise custom exceptions in a FastAPI middleware](https://stackoverflow.com/questions/76266682/how-to-raise-custom-exceptions-in-a-fastapi-middleware) - 1 votes
+* [FastAPI  Documenting oneOf per Type](https://stackoverflow.com/questions/76275624/fastapi-documenting-oneof-per-type) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [How to add custom annotations with uncertainty to a heatmap](https://stackoverflow.com/questions/76275425/how-to-add-custom-annotations-with-uncertainty-to-a-heatmap) - 3 votes
+* [Pandas DataFrame groupby and aggregate counting on condition](https://stackoverflow.com/questions/76282454/pandas-dataframe-groupby-and-aggregate-counting-on-condition) - 3 votes
 * [How to extract dict values of pandas DataFrame in new columns](https://stackoverflow.com/questions/76268656/how-to-extract-dict-values-of-pandas-dataframe-in-new-columns) - 3 votes
-* [Add column to DataFrame that contains a list of column names based on a given condition](https://stackoverflow.com/questions/76264095/add-column-to-dataframe-that-contains-a-list-of-column-names-based-on-a-given-co) - 2 votes
-* [How to add custom annotations with uncertainty to a heatmap](https://stackoverflow.com/questions/76275425/how-to-add-custom-annotations-with-uncertainty-to-a-heatmap) - 2 votes
-* [Average distance within group in pandas](https://stackoverflow.com/questions/76261304/average-distance-within-group-in-pandas) - 2 votes
-* [How to select the row that is the last row of a group in pandas](https://stackoverflow.com/questions/76264955/how-to-select-the-row-that-is-the-last-row-of-a-group-in-pandas) - 2 votes
+* [How to perform VLOOKUP with wildcards in a dataframe](https://stackoverflow.com/questions/76268167/how-to-perform-vlookup-with-wildcards-in-a-dataframe) - 3 votes
+* [Group pandas dataframe and flag corresponding rows where all values from a list exist in a column](https://stackoverflow.com/questions/76277517/group-pandas-dataframe-and-flag-corresponding-rows-where-all-values-from-a-list) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
