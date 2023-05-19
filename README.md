@@ -1,38 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-05-18<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-05-19<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Is there any way to get the list of installable versions of a Rust crate by command](https://stackoverflow.com/questions/76278414/is-there-any-way-to-get-the-list-of-installable-versions-of-a-rust-crate-by-comm) - 2 votes
 * [What39s the difference between Somev and Someampv](https://stackoverflow.com/questions/76277559/whats-the-difference-between-somev-and-somev) - 2 votes
-* [Is there any way to get the list of installable versions of a Rust crate by command](https://stackoverflow.com/questions/76278414/is-there-any-way-to-get-the-list-of-installable-versions-of-a-rust-crate-by-comm) - 1 votes
-* [Rust struct type aliases and quotinheritingquot methods](https://stackoverflow.com/questions/76276592/rust-struct-type-aliases-and-inheriting-methods) - 1 votes
-* [How to get LSP like formatting in Emacs Elisp](https://stackoverflow.com/questions/76278195/how-to-get-lsp-like-formatting-in-emacs-elisp) - 1 votes
-* [Rust  Apache Flight how to get around a library trait method defined on ampself](https://stackoverflow.com/questions/76272107/rust-apache-flight-how-to-get-around-a-library-trait-method-defined-on-self) - 1 votes
+* [Forward SIGINT to Rust code when using Pyo3 without having handle this in all Rust code](https://stackoverflow.com/questions/76287384/forward-sigint-to-rust-code-when-using-pyo3-without-having-handle-this-in-all) - 2 votes
+* [Why does the borrow checker not allow this if the reference is out of scope anyway](https://stackoverflow.com/questions/76284654/why-does-the-borrow-checker-not-allow-this-if-the-reference-is-out-of-scope-anyw) - 2 votes
+* [Why an implement of immutable trait can be mutable](https://stackoverflow.com/questions/76285543/why-an-implement-of-immutable-trait-can-be-mutable) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Greater than gt and less than lt parameters in FastAPI Path do not work in Swagger UI](https://stackoverflow.com/questions/76276863/greater-than-gt-and-less-than-lt-parameters-in-fastapi-path-do-not-work-in) - 2 votes
 * [How to use Background Tasks inside a function that is called by a FastAPI endpoint](https://stackoverflow.com/questions/76279889/how-to-use-background-tasks-inside-a-function-that-is-called-by-a-fastapi-endpoi) - 1 votes
-* [How to updatemodify request headers and query parameters in a FastAPI middleware](https://stackoverflow.com/questions/76268348/how-to-update-modify-request-headers-and-query-parameters-in-a-fastapi-middlewar) - 1 votes
-* [FastAPI  Documenting oneOf per Type](https://stackoverflow.com/questions/76275624/fastapi-documenting-oneof-per-type) - 1 votes
+* [How to send a Protocol Buffer message over an SNS of AWS and decode the message appropriately to the subscriber in a FastAPI endpoint](https://stackoverflow.com/questions/76285772/how-to-send-a-protocol-buffer-message-over-an-sns-of-aws-and-decode-the-message) - 1 votes
+* [Dependency overriding in fastapi](https://stackoverflow.com/questions/76285641/dependency-overriding-in-fastapi) - 1 votes
+* [Unit tests for FastAPI  how to use breakpoints](https://stackoverflow.com/questions/76279225/unit-tests-for-fastapi-how-to-use-breakpoints) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How to add custom annotations with uncertainty to a heatmap](https://stackoverflow.com/questions/76275425/how-to-add-custom-annotations-with-uncertainty-to-a-heatmap) - 3 votes
 * [Pandas DataFrame groupby and aggregate counting on condition](https://stackoverflow.com/questions/76282454/pandas-dataframe-groupby-and-aggregate-counting-on-condition) - 3 votes
-* [How to extract dict values of pandas DataFrame in new columns](https://stackoverflow.com/questions/76268656/how-to-extract-dict-values-of-pandas-dataframe-in-new-columns) - 3 votes
-* [How to perform VLOOKUP with wildcards in a dataframe](https://stackoverflow.com/questions/76268167/how-to-perform-vlookup-with-wildcards-in-a-dataframe) - 3 votes
+* [How can I convert a dictionary into a Pandas DataFrame with specific keys as column names in Python](https://stackoverflow.com/questions/76287980/how-can-i-convert-a-dictionary-into-a-pandas-dataframe-with-specific-keys-as-col) - 2 votes
 * [Group pandas dataframe and flag corresponding rows where all values from a list exist in a column](https://stackoverflow.com/questions/76277517/group-pandas-dataframe-and-flag-corresponding-rows-where-all-values-from-a-list) - 2 votes
+* [Python  Pandas  Missing value imputation using mean or mode](https://stackoverflow.com/questions/76287011/python-pandas-missing-value-imputation-using-mean-or-mode) - 2 votes
+* [How do I turn a dictionary into a 3 column dataframe](https://stackoverflow.com/questions/76281749/how-do-i-turn-a-dictionary-into-a-3-column-dataframe) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
