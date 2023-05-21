@@ -1,26 +1,26 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-05-20<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-05-21<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Forward SIGINT to Rust code when using Pyo3 without having handle this in all Rust code](https://stackoverflow.com/questions/76287384/forward-sigint-to-rust-code-when-using-pyo3-without-having-handle-this-in-all) - 2 votes
-* [Why an implement of immutable trait can be mutable](https://stackoverflow.com/questions/76285543/why-an-implement-of-immutable-trait-can-be-mutable) - 1 votes
-* [How to cast VecltBoxltdyn SomeTrait  Send  Syncgtgt to VecltBoxltdyn SomeTrait  Syncgtgt in rust](https://stackoverflow.com/questions/76296677/how-to-cast-vecboxdyn-sometrait-send-sync-to-vecboxdyn-sometrait-syn) - 1 votes
-* [Implementing a safe wrapper for resource consumption in Rust](https://stackoverflow.com/questions/76290743/implementing-a-safe-wrapper-for-resource-consumption-in-rust) - 1 votes
-* [Parsing binary strings in one pass](https://stackoverflow.com/questions/76290163/parsing-binary-strings-in-one-pass) - 1 votes
+* [How to best hint at rustc that a recursive datastructure based on PointeeMetadata is wellformed](https://stackoverflow.com/questions/76300458/how-to-best-hint-at-rustc-that-a-recursive-data-structure-based-on-pointeemeta) - 4 votes
+* [Rust sort_by multiple criteria verbose pattern matching](https://stackoverflow.com/questions/76301280/rust-sort-by-multiple-criteria-verbose-pattern-matching) - 2 votes
+* [unsafe block not returning expected value](https://stackoverflow.com/questions/76296991/unsafe-block-not-returning-expected-value) - 1 votes
+* [Dedup logic without getting quotcannot return value referencing local variable queues returns a value referencing data owned by the current functionquot](https://stackoverflow.com/questions/76300734/dedup-logic-without-getting-cannot-return-value-referencing-local-variable-que) - 1 votes
+* [How to convert an enum variant into u8 in Rust](https://stackoverflow.com/questions/76298971/how-to-convert-an-enum-variant-into-u8-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI middleware session custom var not updating](https://stackoverflow.com/questions/76297160/fastapi-middleware-session-custom-var-not-updating) - 1 votes
-* [How to send a Protocol Buffer message over an SNS of AWS and decode the message appropriately to the subscriber in a FastAPI endpoint](https://stackoverflow.com/questions/76285772/how-to-send-a-protocol-buffer-message-over-an-sns-of-aws-and-decode-the-message) - 1 votes
-* [Dependency overriding in fastapi](https://stackoverflow.com/questions/76285641/dependency-overriding-in-fastapi) - 1 votes
+* [Sqlacodegen showing Argspec not found](https://stackoverflow.com/questions/76298747/sqlacodegen-showing-argspec-not-found) - 2 votes
+* [FastAPI middleware session custom var not updating](https://stackoverflow.com/questions/76297160/fastapi-middleware-session-custom-var-not-updating) - 2 votes
+* [How can I fix 39greenlet_spawn has not been called39 error when using async_sessionmaker with FastAPI and SQLAlchemy](https://stackoverflow.com/questions/76298462/how-can-i-fix-greenlet-spawn-has-not-been-called-error-when-using-async-sessio) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -28,10 +28,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### pandas
 <!-- pandas starts -->
 * [Why doesn39t pandassum work across both axes when using axisNone parameter](https://stackoverflow.com/questions/76295132/why-doesnt-pandas-sum-work-across-both-axes-when-using-axis-none-parameter) - 4 votes
-* [How can I convert a dictionary into a Pandas DataFrame with specific keys as column names in Python](https://stackoverflow.com/questions/76287980/how-can-i-convert-a-dictionary-into-a-pandas-dataframe-with-specific-keys-as-col) - 2 votes
-* [Python  Pandas  Missing value imputation using mean or mode](https://stackoverflow.com/questions/76287011/python-pandas-missing-value-imputation-using-mean-or-mode) - 2 votes
-* [How to return a subdataframe and append an extra row](https://stackoverflow.com/questions/76291266/how-to-return-a-sub-dataframe-and-append-an-extra-row) - 1 votes
-* [Python Dataframe subtract value from one column from each list element of another column of a row](https://stackoverflow.com/questions/76288658/python-dataframe-subtract-value-from-one-column-from-each-list-element-of-anothe) - 1 votes
+* [Convert multi column table into two column](https://stackoverflow.com/questions/76301579/convert-multi-column-table-into-two-column) - 2 votes
+* [Pandas  filtering on a transition within a chronologically ordered dataframe](https://stackoverflow.com/questions/76295653/pandas-filtering-on-a-transition-within-a-chronologically-ordered-dataframe) - 1 votes
+* [Set custom sort first and last without knowing all values](https://stackoverflow.com/questions/76296394/set-custom-sort-first-and-last-without-knowing-all-values) - 1 votes
+* [How to subsample a pandas df so that its variable distribution fits another distribution](https://stackoverflow.com/questions/76296353/how-to-subsample-a-pandas-df-so-that-its-variable-distribution-fits-another-dist) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
