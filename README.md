@@ -1,36 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-05-22<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-05-23<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to best hint at rustc that a recursive datastructure based on PointeeMetadata is wellformed](https://stackoverflow.com/questions/76300458/how-to-best-hint-at-rustc-that-a-recursive-data-structure-based-on-pointeemeta) - 4 votes
-* [Rust sort_by multiple criteria verbose pattern matching](https://stackoverflow.com/questions/76301280/rust-sort-by-multiple-criteria-verbose-pattern-matching) - 3 votes
+* [What happens when assigning to the underscore pattern](https://stackoverflow.com/questions/76311007/what-happens-when-assigning-to-the-underscore-pattern) - 16 votes
 * [How does stdvecshrink_to_fit work in Rust](https://stackoverflow.com/questions/76308441/how-does-stdvecshrink-to-fit-work-in-rust) - 2 votes
 * [Parse arbitrary Rust Debug output to a structured form](https://stackoverflow.com/questions/76303258/parse-arbitrary-rust-debug-output-to-a-structured-form) - 2 votes
-* [Create MappedRwLockWriteGuard from a reference in ifelse in Rust](https://stackoverflow.com/questions/76299389/create-mappedrwlockwriteguard-from-a-reference-in-if-else-in-rust) - 1 votes
+* [does the push method takes ownership](https://stackoverflow.com/questions/76311711/does-the-push-method-takes-ownership) - 1 votes
+* [Gracefully stopping a command and exiting the process when Ctrl  C is pressed](https://stackoverflow.com/questions/76315351/gracefully-stopping-a-command-and-exiting-the-process-when-ctrl-c-is-pressed) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Sqlacodegen showing Argspec not found](https://stackoverflow.com/questions/76298747/sqlacodegen-showing-argspec-not-found) - 2 votes
-* [How can I fix 39greenlet_spawn has not been called39 error when using async_sessionmaker with FastAPI and SQLAlchemy](https://stackoverflow.com/questions/76298462/how-can-i-fix-greenlet-spawn-has-not-been-called-error-when-using-async-sessio) - 1 votes
+* [How to scale vertically Python Asyncio with multiple CPU](https://stackoverflow.com/questions/76315452/how-to-scale-vertically-python-asyncio-with-multiple-cpu) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Convert multi column table into two column](https://stackoverflow.com/questions/76301579/convert-multi-column-table-into-two-column) - 2 votes
-* [delete columns containing  in pandas](https://stackoverflow.com/questions/76304111/delete-columns-containing-in-pandas) - 2 votes
-* [Find the exact location of an element in pandas dataframe](https://stackoverflow.com/questions/76308496/find-the-exact-location-of-an-element-in-pandas-dataframe) - 1 votes
-* [Select n rows of dataframe for each value in column A where n is the value in column C](https://stackoverflow.com/questions/76306383/select-n-rows-of-dataframe-for-each-value-in-column-a-where-n-is-the-value-in-co) - 1 votes
-* [Python pandas  check if value in one df is between ANY pair in another unequal df](https://stackoverflow.com/questions/76305949/python-pandas-check-if-value-in-one-df-is-between-any-pair-in-another-unequ) - 1 votes
+* [Checking a column in a Pandas df does not contain certain text](https://stackoverflow.com/questions/76309963/checking-a-column-in-a-pandas-df-does-not-contain-certain-text) - 2 votes
+* [Why is a SQLite Select statement so much slower than numpyselect Any way to speed it up](https://stackoverflow.com/questions/76314278/why-is-a-sqlite-select-statement-so-much-slower-than-numpy-select-any-way-to-sp) - 2 votes
+* [Best way of reading a large dataset and dividing it into seperate files by a specific column with IDs](https://stackoverflow.com/questions/76313371/best-way-of-reading-a-large-dataset-and-dividing-it-into-seperate-files-by-a-spe) - 2 votes
+* [How do I render a pandas dataframe and a matplotlib chart sidebyside in Quarto using Python](https://stackoverflow.com/questions/76317070/how-do-i-render-a-pandas-dataframe-and-a-matplotlib-chart-side-by-side-in-quarto) - 2 votes
+* [pandas multiple slicers of MultiIndex](https://stackoverflow.com/questions/76315518/pandas-multiple-slicers-of-multiindex) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
