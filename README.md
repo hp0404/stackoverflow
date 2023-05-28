@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-05-27<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-05-28<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [In multi core embedded Rust can I use a static mut for one way data sharing](https://stackoverflow.com/questions/76341183/in-multi-core-embedded-rust-can-i-use-a-static-mut-for-one-way-data-sharing) - 2 votes
-* [Parse a string quoted by quot in rust using lalrpop](https://stackoverflow.com/questions/76337209/parse-a-string-quoted-by-in-rust-using-lalrpop) - 2 votes
-* [Use type which is imported behind feature flag even if feature flag isn39t enabled](https://stackoverflow.com/questions/76346526/use-type-which-is-imported-behind-feature-flag-even-if-feature-flag-isnt-enab) - 1 votes
-* [Get a ampmut u8 reference to part of a ampmut u32](https://stackoverflow.com/questions/76337924/get-a-mut-u8-reference-to-part-of-a-mut-u32) - 1 votes
-* [39Connection reset by peerquot error for simple TCP server with mio under minor load](https://stackoverflow.com/questions/76347638/connection-reset-by-peer-error-for-simple-tcp-server-with-mio-under-minor-load) - 1 votes
+* [Why is it not possible to declare a static or constant stdpathPath object in Rust](https://stackoverflow.com/questions/76348617/why-is-it-not-possible-to-declare-a-static-or-constant-stdpathpath-object-in) - 4 votes
+* [Is there any way to track the monomorphization process of generics](https://stackoverflow.com/questions/76349634/is-there-any-way-to-track-the-monomorphization-process-of-generics) - 2 votes
+* [Making a stdioWriteconsuming function write into memory](https://stackoverflow.com/questions/76352012/making-a-stdiowrite-consuming-function-write-into-memory) - 1 votes
+* [Literals in Trait methods implementing generics](https://stackoverflow.com/questions/76350017/literals-in-trait-methods-implementing-generics) - 1 votes
+* [How does automatic dereferencing work in Rust](https://stackoverflow.com/questions/76349973/how-does-automatic-de-referencing-work-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -25,11 +25,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 
 ### pandas
 <!-- pandas starts -->
-* [Repeat rows in DataFrame with respect to column](https://stackoverflow.com/questions/76337589/repeat-rows-in-dataframe-with-respect-to-column) - 7 votes
-* [No attribute quotappendquot error while writing data using pandas DataFrame](https://stackoverflow.com/questions/76337429/no-attribute-append-error-while-writing-data-using-pandas-dataframe) - 2 votes
-* [How to replace specific cells in a Pandas dataframe based on a common primary key with another dataframe in Python](https://stackoverflow.com/questions/76339561/how-to-replace-specific-cells-in-a-pandas-dataframe-based-on-a-common-primary-ke) - 2 votes
+* [Pandas groupby all rows greater than _each_ value in column](https://stackoverflow.com/questions/76352264/pandas-groupby-all-rows-greater-than-each-value-in-column) - 2 votes
+* [Reading large csv file in chunks with pandas](https://stackoverflow.com/questions/76350327/reading-large-csv-file-in-chunks-with-pandas) - 2 votes
 * [Pandas datetime conversion failing to produce monotonically increasing UTC time any ideas why](https://stackoverflow.com/questions/76348099/pandas-datetime-conversion-failing-to-produce-monotonically-increasing-utc-time) - 2 votes
-* [Filter one pandas dataframe using values from two columns of another dataframe](https://stackoverflow.com/questions/76343848/filter-one-pandas-dataframe-using-values-from-two-columns-of-another-dataframe) - 1 votes
+* [Pandas Logistic Regression mixed type not supported](https://stackoverflow.com/questions/76350095/pandas-logistic-regression-mixed-type-not-supported) - 1 votes
+* [Pandas to csv method in append mode with dataframes with different columns](https://stackoverflow.com/questions/76345249/pandas-to-csv-method-in-append-mode-with-dataframes-with-different-columns) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
