@@ -1,35 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-05-31<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-06-01<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Is it legal to store a 39static reference to struct internal data in unsafe Rust](https://stackoverflow.com/questions/76364698/is-it-legal-to-store-a-static-reference-to-struct-internal-data-in-unsafe-rust) - 6 votes
+* [Faster algorithm for maxctzx ctzy](https://stackoverflow.com/questions/76381239/faster-algorithm-for-maxctzx-ctzy) - 10 votes
+* [decltype dyn impl traits and how to declare the return type of a function when refactoring](https://stackoverflow.com/questions/76377499/decltype-dyn-impl-traits-and-how-to-declare-the-return-type-of-a-function-whe) - 4 votes
 * [Is there any way to mitigate a 39borrow may still be in use when generator yields39 error in nested generators by using lifetimes](https://stackoverflow.com/questions/76376508/is-there-any-way-to-mitigate-a-borrow-may-still-be-in-use-when-generator-yields) - 4 votes
-* [Aliasing bounds on associated types of traits](https://stackoverflow.com/questions/76361626/aliasing-bounds-on-associated-types-of-traits) - 3 votes
-* [Why are temporary values of Rust sometimes referential and sometimes not](https://stackoverflow.com/questions/76362527/why-are-temporary-values-of-rust-sometimes-referential-and-sometimes-not) - 2 votes
 * [what39s the difference between let b  MyBox5 as const u8 ampb and let b  ampMyBox5 as const u8  in rust](https://stackoverflow.com/questions/76369643/whats-the-difference-between-let-b-mybox5-as-const-u8-b-and-let-b) - 2 votes
+* [Rust stream request cancellation](https://stackoverflow.com/questions/76372330/rust-stream-request-cancellation) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [fastapi body not working properly with Body and Depends for singular values in Body](https://stackoverflow.com/questions/76366462/fastapi-body-not-working-properly-with-body-and-depends-for-singular-values-in-b) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Filling in for missing values by name pandas](https://stackoverflow.com/questions/76368145/filling-in-for-missing-values-by-name-pandas) - 2 votes
-* [Merging Pandas dataframes without overwriting columns](https://stackoverflow.com/questions/76373238/merging-pandas-dataframes-without-overwriting-columns) - 2 votes
-* [How to preserve multiindex order on join in pandas](https://stackoverflow.com/questions/76363333/how-to-preserve-multiindex-order-on-join-in-pandas) - 1 votes
-* [Creating a new column by subtracting two other columns that one of them is shifted](https://stackoverflow.com/questions/76370054/creating-a-new-column-by-subtracting-two-other-columns-that-one-of-them-is-shift) - 1 votes
-* [Add Suffix to Dataframe with Specific Repeating Column Name](https://stackoverflow.com/questions/76368834/add-suffix-to-dataframe-with-specific-repeating-column-name) - 1 votes
+* [Merging Pandas dataframes without overwriting columns](https://stackoverflow.com/questions/76373238/merging-pandas-dataframes-without-overwriting-columns) - 3 votes
+* [Removing Prefix from column of names in python](https://stackoverflow.com/questions/76385383/removing-prefix-from-column-of-names-in-python) - 2 votes
+* [Pandas  Scale within a group using a value from the group](https://stackoverflow.com/questions/76381996/pandas-scale-within-a-group-using-a-value-from-the-group) - 2 votes
+* [Optimal way to take a network of nodes and interpolate missing values](https://stackoverflow.com/questions/76378524/optimal-way-to-take-a-network-of-nodes-and-interpolate-missing-values) - 2 votes
+* [Iteratively cat rows from one df to cells of another df with conditions](https://stackoverflow.com/questions/76385492/iteratively-cat-rows-from-one-df-to-cells-of-another-df-with-conditions) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
