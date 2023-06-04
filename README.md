@@ -1,36 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-06-03<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-06-04<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to add dependencies to workspacedependencies using cargo add](https://stackoverflow.com/questions/76393896/how-to-add-dependencies-to-workspace-dependencies-using-cargo-add) - 1 votes
-* [what is the different with Option as_ref and as_deref in Rust](https://stackoverflow.com/questions/76394966/what-is-the-different-with-option-as-ref-and-as-deref-in-rust) - 1 votes
-* [How can I link a C program to a Rust program then link that Rust program back to the C program cpp gt rust gt cpp](https://stackoverflow.com/questions/76393598/how-can-i-link-a-c-program-to-a-rust-program-then-link-that-rust-program-back) - 1 votes
-* [Trouble with undefined symbols in Rust39s ffi when using a CFortran library](https://stackoverflow.com/questions/76391083/trouble-with-undefined-symbols-in-rusts-ffi-when-using-a-c-fortran-library) - 1 votes
-* [How to prevent piping to less in Rust from overwriting the shell prompt](https://stackoverflow.com/questions/76395576/how-to-prevent-piping-to-less-in-rust-from-overwriting-the-shell-prompt) - 1 votes
+* [Why does this Rust code cause a stack overflow without recursion or looping](https://stackoverflow.com/questions/76401685/why-does-this-rust-code-cause-a-stack-overflow-without-recursion-or-looping) - 2 votes
+* [Rust lifetimes for str and String](https://stackoverflow.com/questions/76400310/rust-lifetimes-for-str-and-string) - 2 votes
+* [How can I create a RateLimiter for 10 requests per 10 seconds using Rust Governor](https://stackoverflow.com/questions/76401461/how-can-i-create-a-ratelimiter-for-10-requests-per-10-seconds-using-rust-governo) - 2 votes
+* [Downcasting in Rust Where is the data for selftype_id being pulled from in the implementation of is for the Error trait](https://stackoverflow.com/questions/76400165/downcasting-in-rust-where-is-the-data-for-self-type-id-being-pulled-from-in-t) - 2 votes
+* [Not explicitly saying return gives error match arms have incompatible types](https://stackoverflow.com/questions/76398059/not-explicitly-saying-return-gives-error-match-arms-have-incompatible-types) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [In fastapi how to return data in chunks](https://stackoverflow.com/questions/76393845/in-fastapi-how-to-return-data-in-chunks) - 2 votes
-* [FastAPI on Heroku cannot find html files in templates folder](https://stackoverflow.com/questions/76391137/fastapi-on-heroku-cannot-find-html-files-in-templates-folder) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [How can I calculate odo sum in pandas based on voltage drop from 54 to 52 and 51 to 48](https://stackoverflow.com/questions/76401248/how-can-i-calculate-odo-sum-in-pandas-based-on-voltage-drop-from-54-to-52-and-51) - 3 votes
 * [How to draw broken bars if entities are duplicated](https://stackoverflow.com/questions/76396922/how-to-draw-broken-bars-if-entities-are-duplicated) - 2 votes
-* [How to consolidate labels in legend](https://stackoverflow.com/questions/76392467/how-to-consolidate-labels-in-legend) - 2 votes
-* [Pandas Conditional Multiply](https://stackoverflow.com/questions/76393083/pandas-conditional-multiply) - 2 votes
-* [Compare values in two different rows and variables in an iteration](https://stackoverflow.com/questions/76392693/compare-values-in-two-different-rows-and-variables-in-an-iteration) - 1 votes
-* [Cast pandas series containing list elements to a 2d numpy array](https://stackoverflow.com/questions/76391843/cast-pandas-series-containing-list-elements-to-a-2d-numpy-array) - 1 votes
+* [PySpark Create a new column in dataframe based on another dataframe39s cell values](https://stackoverflow.com/questions/76396049/pyspark-create-a-new-column-in-dataframe-based-on-another-dataframes-cell-valu) - 2 votes
+* [Pandas conditional formatting columns and for loops](https://stackoverflow.com/questions/76397941/pandas-conditional-formatting-columns-and-for-loops) - 2 votes
+* [Create one row DataFrame from dict where one of value is a list](https://stackoverflow.com/questions/76401196/create-one-row-dataframe-from-dict-where-one-of-value-is-a-list) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
