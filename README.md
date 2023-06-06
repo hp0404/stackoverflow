@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-06-05<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-06-06<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why does this Rust code cause a stack overflow without recursion or looping](https://stackoverflow.com/questions/76401685/why-does-this-rust-code-cause-a-stack-overflow-without-recursion-or-looping) - 2 votes
-* [Rust lifetimes for str and String](https://stackoverflow.com/questions/76400310/rust-lifetimes-for-str-and-string) - 2 votes
-* [How can I create a RateLimiter for 10 requests per 10 seconds using Rust Governor](https://stackoverflow.com/questions/76401461/how-can-i-create-a-ratelimiter-for-10-requests-per-10-seconds-using-rust-governo) - 2 votes
-* [Downcasting in Rust Where is the data for selftype_id being pulled from in the implementation of is for the Error trait](https://stackoverflow.com/questions/76400165/downcasting-in-rust-where-is-the-data-for-self-type-id-being-pulled-from-in-t) - 2 votes
+* [In Rust how can I pass fast alwaysempty and singleentry HashMaps to a thirdparty API](https://stackoverflow.com/questions/76412271/in-rust-how-can-i-pass-fast-always-empty-and-single-entry-hashmaps-to-a-third-p) - 2 votes
+* [How are Rust references stores in Memory Specifically Stack](https://stackoverflow.com/questions/76409873/how-are-rust-references-stores-in-memory-specifically-stack) - 1 votes
+* [Conflicting trait implementation with type IdentityltAgt  A](https://stackoverflow.com/questions/76410310/conflicting-trait-implementation-with-type-identitya-a) - 1 votes
 * [Rust typestate pattern implement for multiple states](https://stackoverflow.com/questions/76408960/rust-typestate-pattern-implement-for-multiple-states) - 1 votes
+* [Can I serde a struct camel_case and deserde PascalCase in Rust](https://stackoverflow.com/questions/76418400/can-i-serde-a-struct-camel-case-and-deserde-pascalcase-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -19,18 +19,17 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### fastapi
 <!-- fastapi starts -->
 * [How to add custom HTML content to FastAPI Swagger UI docs](https://stackoverflow.com/questions/76406637/how-to-add-custom-html-content-to-fastapi-swagger-ui-docs) - 3 votes
-* [Fetching data from backend and displaying it in frontend](https://stackoverflow.com/questions/76401638/fetching-data-from-backend-and-displaying-it-in-frontend) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Panda39s pdwhere function behaviour with nullable condition](https://stackoverflow.com/questions/76405752/pandas-pd-where-function-behaviour-with-nullable-condition) - 4 votes
-* [Extracting Specific Groups from a DataFrame under Specific Conditions](https://stackoverflow.com/questions/76402712/extracting-specific-groups-from-a-dataframe-under-specific-conditions) - 3 votes
-* [How can I calculate odo sum in pandas based on voltage drop from 54 to 52 and 51 to 48](https://stackoverflow.com/questions/76401248/how-can-i-calculate-odo-sum-in-pandas-based-on-voltage-drop-from-54-to-52-and-51) - 3 votes
-* [Create one row DataFrame from dict where one of value is a list](https://stackoverflow.com/questions/76401196/create-one-row-dataframe-from-dict-where-one-of-value-is-a-list) - 1 votes
-* [Reorganise Columns in MultiIndex Matrix Pandas](https://stackoverflow.com/questions/76409395/reorganise-columns-in-multiindex-matrix-pandas) - 1 votes
+* [Panda39s pdwhere function behaviour with nullable condition](https://stackoverflow.com/questions/76405752/pandas-pd-where-function-behaviour-with-nullable-condition) - 5 votes
+* [Pandas doesn39t assign values to dataframe](https://stackoverflow.com/questions/76416898/pandas-doesnt-assign-values-to-dataframe) - 3 votes
+* [how to count failure occurrences in a column using pandas](https://stackoverflow.com/questions/76410949/how-to-count-failure-occurrences-in-a-column-using-pandas) - 2 votes
+* [Create new columns in DataFrame based on other columns](https://stackoverflow.com/questions/76417748/create-new-columns-in-dataframe-based-on-other-columns) - 2 votes
+* [Creating a table in Python using values of another table as new columns](https://stackoverflow.com/questions/76409213/creating-a-table-in-python-using-values-of-another-table-as-new-columns) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
