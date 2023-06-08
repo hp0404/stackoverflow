@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-06-07<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-06-08<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Memory Leak in a Rust Program](https://stackoverflow.com/questions/76424995/memory-leak-in-a-rust-program) - 4 votes
-* [Can I serde a struct camel_case and deserde PascalCase in Rust](https://stackoverflow.com/questions/76418400/can-i-serde-a-struct-camel-case-and-deserde-pascalcase-in-rust) - 3 votes
-* [In Rust how can I pass fast alwaysempty and singleentry HashMaps to a thirdparty API](https://stackoverflow.com/questions/76412271/in-rust-how-can-i-pass-fast-always-empty-and-single-entry-hashmaps-to-a-third-p) - 2 votes
-* [How to construct a clone of an Rc datastructure on another thread with only one copy](https://stackoverflow.com/questions/76417080/how-to-construct-a-clone-of-an-rc-datastructure-on-another-thread-with-only-on) - 1 votes
-* [Rust borrow checker complains about multiple reference even after out of scope](https://stackoverflow.com/questions/76425222/rust-borrow-checker-complains-about-multiple-reference-even-after-out-of-scope) - 1 votes
+* [Memory Leak in a Rust Program](https://stackoverflow.com/questions/76424995/memory-leak-in-a-rust-program) - 3 votes
+* [Why am I getting quotimplementation of Deref is not general enoughquot](https://stackoverflow.com/questions/76434554/why-am-i-getting-implementation-of-deref-is-not-general-enough) - 3 votes
+* [How does niche optimization for an enum work in Rust](https://stackoverflow.com/questions/76429517/how-does-niche-optimization-for-an-enum-work-in-rust) - 2 votes
+* [Comprehensive Rust Ch162  pattern matching for structs using capture and const expressions](https://stackoverflow.com/questions/76432233/comprehensive-rust-ch-16-2-pattern-matching-for-structs-using-capture-and-cons) - 1 votes
+* [How can I do an explicit declaration of stdstrMatcheslt39a Pgt in Rust](https://stackoverflow.com/questions/76433043/how-can-i-do-an-explicit-declaration-of-stdstrmatchesa-p-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -25,11 +25,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas doesn39t assign values to dataframe](https://stackoverflow.com/questions/76416898/pandas-doesnt-assign-values-to-dataframe) - 3 votes
-* [how to count failure occurrences in a column using pandas](https://stackoverflow.com/questions/76410949/how-to-count-failure-occurrences-in-a-column-using-pandas) - 2 votes
-* [Create new columns in DataFrame based on other columns](https://stackoverflow.com/questions/76417748/create-new-columns-in-dataframe-based-on-other-columns) - 2 votes
-* [Tricky count groupby in Pandas](https://stackoverflow.com/questions/76418405/tricky-count-groupby-in-pandas) - 2 votes
+* [How can vectorization be used for rowdependent functions in Pandas](https://stackoverflow.com/questions/76435071/how-can-vectorization-be-used-for-row-dependent-functions-in-pandas) - 3 votes
+* [How to add rows on a dataset based on a date condition](https://stackoverflow.com/questions/76426902/how-to-add-rows-on-a-dataset-based-on-a-date-condition) - 2 votes
+* [Pandas Lambda Function using a conditional as well as an operator Or and](https://stackoverflow.com/questions/76435275/pandas-lambda-function-using-a-conditional-as-well-as-an-operator-or-and) - 2 votes
 * [looping over pandas dataframe with 15000 records is extremely slow takes 72 seconds](https://stackoverflow.com/questions/76420799/looping-over-pandas-dataframe-with-15000-records-is-extremely-slow-takes-72-sec) - 1 votes
+* [Pivot dataframe in Pandas](https://stackoverflow.com/questions/76426388/pivot-dataframe-in-pandas) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
