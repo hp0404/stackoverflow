@@ -1,37 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-06-09<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-06-10<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why am I getting quotimplementation of Deref is not general enoughquot](https://stackoverflow.com/questions/76434554/why-am-i-getting-implementation-of-deref-is-not-general-enough) - 6 votes
 * [By which rules is the Rust compiler ensuring that the lock is released](https://stackoverflow.com/questions/76438287/by-which-rules-is-the-rust-compiler-ensuring-that-the-lock-is-released) - 2 votes
-* [How does niche optimization for an enum work in Rust](https://stackoverflow.com/questions/76429517/how-does-niche-optimization-for-an-enum-work-in-rust) - 2 votes
-* [Comprehensive Rust Ch162  pattern matching for structs using capture and const expressions](https://stackoverflow.com/questions/76432233/comprehensive-rust-ch-16-2-pattern-matching-for-structs-using-capture-and-cons) - 1 votes
-* [How can I do an explicit declaration of stdstrMatcheslt39a Pgt in Rust](https://stackoverflow.com/questions/76433043/how-can-i-do-an-explicit-declaration-of-stdstrmatchesa-p-in-rust) - 1 votes
+* [What is a marker trait in Rust](https://stackoverflow.com/questions/76445707/what-is-a-marker-trait-in-rust) - 2 votes
+* [How to set lifetime for this Iterator trait impl](https://stackoverflow.com/questions/76446940/how-to-set-lifetime-for-this-iterator-trait-impl) - 2 votes
+* [Why are there lifetimetype mismatch errors when forwarding a reference through a lambda](https://stackoverflow.com/questions/76444144/why-are-there-lifetime-type-mismatch-errors-when-forwarding-a-reference-through) - 2 votes
+* [quotDecompressing large Zstandard file in Rust results in 39Frame requires too much memory for decoding39 errorquot](https://stackoverflow.com/questions/76447251/decompressing-large-zstandard-file-in-rust-results-in-frame-requires-too-much) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
+* [Question about fastapi39s dependency injection and its reusability](https://stackoverflow.com/questions/76446783/question-about-fastapis-dependency-injection-and-its-reusability) - 1 votes
+* [Pytest fixtures not able to use each other in conftestpy](https://stackoverflow.com/questions/76444105/pytest-fixtures-not-able-to-use-each-other-in-conftest-py) - 1 votes
 * [Running FastAPI with HuggingFace Transformer Crashing API  Spawning Subprocess](https://stackoverflow.com/questions/76441883/running-fastapi-with-huggingface-transformer-crashing-api-spawning-subprocess) - 1 votes
 * [Best practice for tracing task on your server](https://stackoverflow.com/questions/76438326/best-practice-for-tracing-task-on-your-server) - 1 votes
-* [How to upload a file from FastAPI application to a Facebook Page using Graph API](https://stackoverflow.com/questions/76428002/how-to-upload-a-file-from-fastapi-application-to-a-facebook-page-using-graph-api) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How can vectorization be used for rowdependent functions in Pandas](https://stackoverflow.com/questions/76435071/how-can-vectorization-be-used-for-row-dependent-functions-in-pandas) - 3 votes
+* [Create data frame with month start and end in Python](https://stackoverflow.com/questions/76443923/create-data-frame-with-month-start-and-end-in-python) - 2 votes
 * [Matching up array data to subarray data](https://stackoverflow.com/questions/76437569/matching-up-array-data-to-sub-array-data) - 2 votes
-* [Pandas Convert group into list of jsons without using groupby or apply](https://stackoverflow.com/questions/76436289/pandas-convert-group-into-list-of-jsons-without-using-groupby-or-apply) - 2 votes
-* [Pandas Lambda Function using a conditional as well as an operator Or and](https://stackoverflow.com/questions/76435275/pandas-lambda-function-using-a-conditional-as-well-as-an-operator-or-and) - 2 votes
-* [pandas sequential merge adds new columns instead of replacing NaN values](https://stackoverflow.com/questions/76429688/pandas-sequential-merge-adds-new-columns-instead-of-replacing-nan-values) - 2 votes
+* [select all the values between two days independently from the year in pandas](https://stackoverflow.com/questions/76441470/select-all-the-values-between-two-days-independently-from-the-year-in-pandas) - 2 votes
+* [python  create new column based on last two letters of a string](https://stackoverflow.com/questions/76441116/python-create-new-column-based-on-last-two-letters-of-a-string) - 1 votes
+* [When is the pandas  operator useful and why is it necessary when  already exists](https://stackoverflow.com/questions/76442422/when-is-the-pandas-operator-useful-and-why-is-it-necessary-when-already-ex) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
