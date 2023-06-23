@@ -1,39 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-06-22<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-06-23<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Mapping functions over data in 39sumtypes39 in strongly typed programming languages](https://stackoverflow.com/questions/76524919/mapping-functions-over-data-in-sum-types-in-strongly-typed-programming-languag) - 3 votes
-* [What counts as a temporary variable in rust](https://stackoverflow.com/questions/76521892/what-counts-as-a-temporary-variable-in-rust) - 3 votes
-* [closure without type annotation cause borrow mutable more than once at a time error](https://stackoverflow.com/questions/76519667/closure-without-type-annotation-cause-borrow-mutable-more-than-once-at-a-time-er) - 2 votes
-* [What does this code printing addresses on the stack mean](https://stackoverflow.com/questions/76519693/what-does-this-code-printing-addresses-on-the-stack-mean) - 1 votes
-* [Why does Rust compiler not perform tail call for diverging functions even when unwinding is disabled](https://stackoverflow.com/questions/76534792/why-does-rust-compiler-not-perform-tail-call-for-diverging-functions-even-when-u) - 1 votes
+* [Is it possible to convert a ampT or VecltTgt to ArcltMutexltTgtgt](https://stackoverflow.com/questions/76535332/is-it-possible-to-convert-a-t-or-vect-to-arcmutext) - 3 votes
+* [Optimizing quotvectorquot comparison in Rust](https://stackoverflow.com/questions/76540759/optimizing-vector-comparison-in-rust) - 2 votes
+* [Can I create an immutable vector from another immutable vector in Rust without copying](https://stackoverflow.com/questions/76541948/can-i-create-an-immutable-vector-from-another-immutable-vector-in-rust-without-c) - 1 votes
+* [Serialize a json string as object with Serde](https://stackoverflow.com/questions/76541335/serialize-a-json-string-as-object-with-serde) - 1 votes
+* [Give names to parameters of Fn bound](https://stackoverflow.com/questions/76541523/give-names-to-parameters-of-fn-bound) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
+* [Unit Tests in FastAPI](https://stackoverflow.com/questions/76533018/unit-tests-in-fastapi) - 1 votes
 * [Tests with FastAPI and PostgreSQL](https://stackoverflow.com/questions/76530308/tests-with-fastapi-and-postgresql) - 1 votes
-* [FastAPI  catchall route put after root route mount doesn39t get hit](https://stackoverflow.com/questions/76527355/fastapi-catch-all-route-put-after-root-route-mount-doesnt-get-hit) - 1 votes
-* [How does Uvicorn  Fastapi handle concurrency with 1 worker and synchronous endpoint](https://stackoverflow.com/questions/76524933/how-does-uvicorn-fastapi-handle-concurrency-with-1-worker-and-synchronous-endp) - 1 votes
-* [How to pass parameters to an endpoint using add_route in FastAPI](https://stackoverflow.com/questions/76522582/how-to-pass-parameters-to-an-endpoint-using-add-route-in-fastapi) - 1 votes
-* [Cloud Run  Slow responses time to time](https://stackoverflow.com/questions/76520947/cloud-run-slow-responses-time-to-time) - 1 votes
+* [FastAPI behind CloudFlare real client ip problem](https://stackoverflow.com/questions/76539759/fastapi-behind-cloudflare-real-client-ip-problem) - 1 votes
+* [Zoom Webhook Validation using Python](https://stackoverflow.com/questions/76536892/zoom-webhook-validation-using-python) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Group rows where str is contained in another row](https://stackoverflow.com/questions/76523837/group-rows-where-str-is-contained-in-another-row) - 2 votes
-* [Finding nonzero indexes in a multidimensional numpy array](https://stackoverflow.com/questions/76522049/finding-non-zero-indexes-in-a-multidimensional-numpy-array) - 2 votes
+* [Fill merged cells in a dataframe using pandas](https://stackoverflow.com/questions/76533616/fill-merged-cells-in-a-dataframe-using-pandas) - 2 votes
 * [Subtract consecutive rows based on binary condition](https://stackoverflow.com/questions/76531920/subtract-consecutive-rows-based-on-binary-condition) - 2 votes
-* [How to prevent bar plots from superimposing on each other in pandas](https://stackoverflow.com/questions/76527107/how-to-prevent-bar-plots-from-superimposing-on-each-other-in-pandas) - 2 votes
-* [Convert Weeknumber to date using Python and Pandas](https://stackoverflow.com/questions/76524628/convert-weeknumber-to-date-using-python-and-pandas) - 2 votes
+* [How many windows of N length can fit on a discontinuous array](https://stackoverflow.com/questions/76534005/how-many-windows-of-n-length-can-fit-on-a-discontinuous-array) - 1 votes
+* [How to find the max value within a column which is a certain distance of the current row in a Pandas DataFrame](https://stackoverflow.com/questions/76535532/how-to-find-the-max-value-within-a-column-which-is-a-certain-distance-of-the-cur) - 1 votes
+* [New column with percentage difference of another column](https://stackoverflow.com/questions/76533864/new-column-with-percentage-difference-of-another-column) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
