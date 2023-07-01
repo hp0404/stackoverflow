@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-06-30<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-01<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,28 +8,28 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### rust
 <!-- rust starts -->
 * [Why do Rust Strings have no Short String Optimizations SSOs](https://stackoverflow.com/questions/76587698/why-do-rust-strings-have-no-short-string-optimizations-ssos) - 4 votes
-* [How to set cargo unstable options for a target](https://stackoverflow.com/questions/76580751/how-to-set-cargo-unstable-options-for-a-target) - 4 votes
-* [How to use generic params from outer function](https://stackoverflow.com/questions/76579137/how-to-use-generic-params-from-outer-function) - 3 votes
-* [Is there a way to implement serialize and deserialize on trait objects with associated generic implementations](https://stackoverflow.com/questions/76580023/is-there-a-way-to-implement-serialize-and-deserialize-on-trait-objects-with-asso) - 2 votes
-* [How do you propagate errors in a Rust serde serializer](https://stackoverflow.com/questions/76577699/how-do-you-propagate-errors-in-a-rust-serde-serializer) - 1 votes
+* [How to swap contents of two different HashMaps efficiently](https://stackoverflow.com/questions/76595373/how-to-swap-contents-of-two-different-hashmaps-efficiently) - 2 votes
+* [Why is this considered borrowed](https://stackoverflow.com/questions/76591002/why-is-this-considered-borrowed) - 1 votes
+* [Does multithreaded tokio run task on a single OS thread](https://stackoverflow.com/questions/76589659/does-multithreaded-tokio-run-task-on-a-single-os-thread) - 1 votes
+* [Method can be confused for the standard trait method](https://stackoverflow.com/questions/76588947/method-can-be-confused-for-the-standard-trait-method) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI Application in Docker Compose Unable to Connect to Redis Service](https://stackoverflow.com/questions/76580088/fastapi-application-in-docker-compose-unable-to-connect-to-redis-service) - 1 votes
+* [Running FastAPI server alongside Kivy application](https://stackoverflow.com/questions/76594025/running-fastapi-server-alongside-kivy-application) - 2 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Extracting first 3 elements from list of strings in pandas df](https://stackoverflow.com/questions/76580973/extracting-first-3-elements-from-list-of-strings-in-pandas-df) - 4 votes
-* [Reduce by multiple columns in pandas groupby](https://stackoverflow.com/questions/76579241/reduce-by-multiple-columns-in-pandas-groupby) - 2 votes
-* [Pandas from_dict Returns TypeError](https://stackoverflow.com/questions/76582964/pandas-from-dict-returns-typeerror) - 2 votes
-* [quotnpnanquot isn39t converted properly but quotNonequot is](https://stackoverflow.com/questions/76581516/np-nan-isnt-converted-properly-but-none-is) - 2 votes
-* [Retrieve values from a list resembling json with Pandas](https://stackoverflow.com/questions/76582674/retrieve-values-from-a-list-resembling-json-with-pandas) - 2 votes
+* [PandasPython How to find number of unique values in column A that is grouped by where a value in column B does not exist in column C](https://stackoverflow.com/questions/76591541/pandas-python-how-to-find-number-of-unique-values-in-column-a-that-is-grouped) - 2 votes
+* [Matplotlib  how to align a second plot on a specific date that corresponds to a first plot](https://stackoverflow.com/questions/76594950/matplotlib-how-to-align-a-second-plot-on-a-specific-date-that-corresponds-to-a) - 1 votes
+* [How to perform a series of multiplication with one of the multiplier as the product from earlier in pandas without looping](https://stackoverflow.com/questions/76592858/how-to-perform-a-series-of-multiplication-with-one-of-the-multiplier-as-the-prod) - 1 votes
+* [Transform a table of two columns attributes and description to multiple columns where each column is an attribute using PANDAS](https://stackoverflow.com/questions/76585387/transform-a-table-of-two-columns-attributes-and-description-to-multiple-column) - 1 votes
+* [Pandas how to remove duplicate column based on a condition](https://stackoverflow.com/questions/76585326/pandas-how-to-remove-duplicate-column-based-on-a-condition) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
