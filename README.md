@@ -1,35 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-02<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-03<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [What does  39a lifetime syntax do in rust](https://stackoverflow.com/questions/76596854/what-does-a-lifetime-syntax-do-in-rust) - 2 votes
-* [How to swap contents of two different HashMaps efficiently](https://stackoverflow.com/questions/76595373/how-to-swap-contents-of-two-different-hashmaps-efficiently) - 2 votes
+* [Break out of specific loop and return a value](https://stackoverflow.com/questions/76604365/break-out-of-specific-loop-and-return-a-value) - 4 votes
+* [How to get the module tree](https://stackoverflow.com/questions/76598014/how-to-get-the-module-tree) - 2 votes
 * [Why does this closure not implement Fn](https://stackoverflow.com/questions/76597502/why-does-this-closure-not-implement-fn) - 2 votes
+* [Is it worth moving let out of loop](https://stackoverflow.com/questions/76602017/is-it-worth-moving-let-out-of-loop) - 1 votes
 * [Better way to implement Trie Data Structure in Rust](https://stackoverflow.com/questions/76597768/better-way-to-implement-trie-data-structure-in-rust) - 1 votes
-* [Double loop over one collection in Rust where one loop changes it](https://stackoverflow.com/questions/76600202/double-loop-over-one-collection-in-rust-where-one-loop-changes-it) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Running FastAPI server alongside Kivy application](https://stackoverflow.com/questions/76594025/running-fastapi-server-alongside-kivy-application) - 2 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [using loc with upper](https://stackoverflow.com/questions/76600235/using-loc-with-upper) - 1 votes
-* [Matplotlib  how to align a second plot on a specific date that corresponds to a first plot](https://stackoverflow.com/questions/76594950/matplotlib-how-to-align-a-second-plot-on-a-specific-date-that-corresponds-to-a) - 1 votes
-* [How to perform a series of multiplication with one of the multiplier as the product from earlier in pandas without looping](https://stackoverflow.com/questions/76592858/how-to-perform-a-series-of-multiplication-with-one-of-the-multiplier-as-the-prod) - 1 votes
-* [Linear regression predictions are way off i would like some pointers as to what should i change](https://stackoverflow.com/questions/76600582/linear-regression-predictions-are-way-off-i-would-like-some-pointers-as-to-what) - 1 votes
-* [How to find overlapping rectangles in a Pandas dataframe](https://stackoverflow.com/questions/76593080/how-to-find-overlapping-rectangles-in-a-pandas-dataframe) - 1 votes
+* [Efficient random subsample of a Pandas DataFrame based on multiple columns target requirements](https://stackoverflow.com/questions/76602474/efficient-random-subsample-of-a-pandas-dataframe-based-on-multiple-columns-targe) - 2 votes
+* [In Pandas Multiindex how do you do an indexslice without knowing the position of the level](https://stackoverflow.com/questions/76604560/in-pandas-multiindex-how-do-you-do-an-indexslice-without-knowing-the-position-o) - 2 votes
+* [How to identify UPPER case strings and move place](https://stackoverflow.com/questions/76605253/how-to-identify-upper-case-strings-and-move-place) - 1 votes
+* [Pandas Pivot a table using the column names as variables](https://stackoverflow.com/questions/76607544/pandas-pivot-a-table-using-the-column-names-as-variables) - 1 votes
+* [If value of column in pandas above 90th percentile then 1 if in between 75th percentile and 90th percentile then 2](https://stackoverflow.com/questions/76607436/if-value-of-column-in-pandas-above-90th-percentile-then-1-if-in-between-75th-pe) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
