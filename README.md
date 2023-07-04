@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-03<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-04<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Break out of specific loop and return a value](https://stackoverflow.com/questions/76604365/break-out-of-specific-loop-and-return-a-value) - 4 votes
-* [How to get the module tree](https://stackoverflow.com/questions/76598014/how-to-get-the-module-tree) - 2 votes
-* [Why does this closure not implement Fn](https://stackoverflow.com/questions/76597502/why-does-this-closure-not-implement-fn) - 2 votes
+* [Break out of specific loop and return a value](https://stackoverflow.com/questions/76604365/break-out-of-specific-loop-and-return-a-value) - 5 votes
+* [How can I benchmark rust39s stdlib Map withwithout 2MiB huge pages](https://stackoverflow.com/questions/76615470/how-can-i-benchmark-rusts-stdlib-map-with-without-2mib-huge-pages) - 2 votes
+* [show crate dependency tree for a common crate with required version](https://stackoverflow.com/questions/76609448/show-crate-dependency-tree-for-a-common-crate-with-required-version) - 2 votes
 * [Is it worth moving let out of loop](https://stackoverflow.com/questions/76602017/is-it-worth-moving-let-out-of-loop) - 1 votes
-* [Better way to implement Trie Data Structure in Rust](https://stackoverflow.com/questions/76597768/better-way-to-implement-trie-data-structure-in-rust) - 1 votes
+* [How to implement inheritance like behavior in Rust](https://stackoverflow.com/questions/76609554/how-to-implement-inheritance-like-behavior-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -25,11 +25,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 
 ### pandas
 <!-- pandas starts -->
+* [Upload all excel sheet data to google sheets](https://stackoverflow.com/questions/76609301/upload-all-excel-sheet-data-to-google-sheets) - 3 votes
+* [rolling apply return dict](https://stackoverflow.com/questions/76613293/rolling-apply-return-dict) - 2 votes
 * [Efficient random subsample of a Pandas DataFrame based on multiple columns target requirements](https://stackoverflow.com/questions/76602474/efficient-random-subsample-of-a-pandas-dataframe-based-on-multiple-columns-targe) - 2 votes
+* [Split pandas column by separator and merge to a column of another dataframe](https://stackoverflow.com/questions/76611965/split-pandas-column-by-separator-and-merge-to-a-column-of-another-dataframe) - 2 votes
 * [In Pandas Multiindex how do you do an indexslice without knowing the position of the level](https://stackoverflow.com/questions/76604560/in-pandas-multiindex-how-do-you-do-an-indexslice-without-knowing-the-position-o) - 2 votes
-* [How to identify UPPER case strings and move place](https://stackoverflow.com/questions/76605253/how-to-identify-upper-case-strings-and-move-place) - 1 votes
-* [Pandas Pivot a table using the column names as variables](https://stackoverflow.com/questions/76607544/pandas-pivot-a-table-using-the-column-names-as-variables) - 1 votes
-* [If value of column in pandas above 90th percentile then 1 if in between 75th percentile and 90th percentile then 2](https://stackoverflow.com/questions/76607436/if-value-of-column-in-pandas-above-90th-percentile-then-1-if-in-between-75th-pe) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
