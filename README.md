@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-05<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-06<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Does wrapping lock into scope change when lock will be released](https://stackoverflow.com/questions/76627706/does-wrapping-lock-into-scope-change-when-lock-will-be-released) - 2 votes
 * [Lifetime specification for closure return type](https://stackoverflow.com/questions/76620282/lifetime-specification-for-closure-return-type) - 2 votes
+* [Best way to timeout across multiple async calls](https://stackoverflow.com/questions/76631005/best-way-to-timeout-across-multiple-async-calls) - 2 votes
 * [How do references pointing to themselves work in Rust](https://stackoverflow.com/questions/76618590/how-do-references-pointing-to-themselves-work-in-rust) - 2 votes
-* [How can I benchmark rust39s stdlib Map withwithout 2MiB huge pages](https://stackoverflow.com/questions/76615470/how-can-i-benchmark-rusts-stdlib-map-with-without-2mib-huge-pages) - 2 votes
-* [show crate dependency tree for a common crate with required version](https://stackoverflow.com/questions/76609448/show-crate-dependency-tree-for-a-common-crate-with-required-version) - 2 votes
-* [OpenGL text rendering does not show any outputted text to the screen](https://stackoverflow.com/questions/76621239/opengl-text-rendering-does-not-show-any-outputted-text-to-the-screen) - 1 votes
+* [Bundle an ELF within a Rust application](https://stackoverflow.com/questions/76627463/bundle-an-elf-within-a-rust-application) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -19,17 +19,18 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### fastapi
 <!-- fastapi starts -->
 * [Crossplatform app project structure in Python](https://stackoverflow.com/questions/76620897/cross-platform-app-project-structure-in-python) - 1 votes
+* [Google Cloud Working not working with Gunicorn](https://stackoverflow.com/questions/76632543/google-cloud-working-not-working-with-gunicorn) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Upload all excel sheet data to google sheets](https://stackoverflow.com/questions/76609301/upload-all-excel-sheet-data-to-google-sheets) - 3 votes
-* [rolling apply return dict](https://stackoverflow.com/questions/76613293/rolling-apply-return-dict) - 2 votes
 * [how to merge multiple Pickle files to one in python](https://stackoverflow.com/questions/76618091/how-to-merge-multiple-pickle-files-to-one-in-python) - 2 votes
+* [repeat array until certain length groupby pandas](https://stackoverflow.com/questions/76624716/repeat-array-until-certain-length-groupby-pandas) - 2 votes
 * [How can I reshape my dataframe into a 3dimensional numpy array](https://stackoverflow.com/questions/76621598/how-can-i-reshape-my-dataframe-into-a-3-dimensional-numpy-array) - 2 votes
-* [How to use pdjson_normalize to retrieve the data I need from 2 parts I39m almost there already only need last piece of data](https://stackoverflow.com/questions/76614479/how-to-use-pd-json-normalize-to-retrieve-the-data-i-need-from-2-parts-im-almos) - 2 votes
+* [Quickly mapping values from one pandas dataframe to another with datetime conditions](https://stackoverflow.com/questions/76624617/quickly-mapping-values-from-one-pandas-dataframe-to-another-with-datetime-condit) - 2 votes
+* [Extract relevant rows from pandas dataframe when duplicate column values are present](https://stackoverflow.com/questions/76626134/extract-relevant-rows-from-pandas-dataframe-when-duplicate-column-values-are-pre) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
