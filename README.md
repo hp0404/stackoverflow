@@ -1,24 +1,23 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-06<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-07<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [How best to use traits vs enums when describing a chess board](https://stackoverflow.com/questions/76638452/how-best-to-use-traits-vs-enums-when-describing-a-chess-board) - 2 votes
 * [Does wrapping lock into scope change when lock will be released](https://stackoverflow.com/questions/76627706/does-wrapping-lock-into-scope-change-when-lock-will-be-released) - 2 votes
-* [Lifetime specification for closure return type](https://stackoverflow.com/questions/76620282/lifetime-specification-for-closure-return-type) - 2 votes
 * [Best way to timeout across multiple async calls](https://stackoverflow.com/questions/76631005/best-way-to-timeout-across-multiple-async-calls) - 2 votes
-* [How do references pointing to themselves work in Rust](https://stackoverflow.com/questions/76618590/how-do-references-pointing-to-themselves-work-in-rust) - 2 votes
-* [Bundle an ELF within a Rust application](https://stackoverflow.com/questions/76627463/bundle-an-elf-within-a-rust-application) - 2 votes
+* [Buttonset_hexpandfalse doesn39t stop button from expanding](https://stackoverflow.com/questions/76633295/button-set-hexpandfalse-doesnt-stop-button-from-expanding) - 2 votes
+* [Why do Boxes created in a spawned thread have stack addresses](https://stackoverflow.com/questions/76635173/why-do-boxes-created-in-a-spawned-thread-have-stack-addresses) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Crossplatform app project structure in Python](https://stackoverflow.com/questions/76620897/cross-platform-app-project-structure-in-python) - 1 votes
 * [Google Cloud Working not working with Gunicorn](https://stackoverflow.com/questions/76632543/google-cloud-working-not-working-with-gunicorn) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
@@ -26,11 +25,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 
 ### pandas
 <!-- pandas starts -->
-* [how to merge multiple Pickle files to one in python](https://stackoverflow.com/questions/76618091/how-to-merge-multiple-pickle-files-to-one-in-python) - 2 votes
-* [repeat array until certain length groupby pandas](https://stackoverflow.com/questions/76624716/repeat-array-until-certain-length-groupby-pandas) - 2 votes
-* [How can I reshape my dataframe into a 3dimensional numpy array](https://stackoverflow.com/questions/76621598/how-can-i-reshape-my-dataframe-into-a-3-dimensional-numpy-array) - 2 votes
-* [Quickly mapping values from one pandas dataframe to another with datetime conditions](https://stackoverflow.com/questions/76624617/quickly-mapping-values-from-one-pandas-dataframe-to-another-with-datetime-condit) - 2 votes
+* [How to vectorize a loop in a Pandas DataFrame](https://stackoverflow.com/questions/76632765/how-to-vectorize-a-loop-in-a-pandas-dataframe) - 3 votes
 * [Extract relevant rows from pandas dataframe when duplicate column values are present](https://stackoverflow.com/questions/76626134/extract-relevant-rows-from-pandas-dataframe-when-duplicate-column-values-are-pre) - 2 votes
+* [Calculate mean of columns from multiple dataframe in pandas](https://stackoverflow.com/questions/76633791/calculate-mean-of-columns-from-multiple-dataframe-in-pandas) - 1 votes
+* [Pandas filtering one column but only if another column is less than a specified value](https://stackoverflow.com/questions/76627709/pandas-filtering-one-column-but-only-if-another-column-is-less-than-a-specified) - 1 votes
+* [Can you filter with in a groupby function in pandas](https://stackoverflow.com/questions/76639743/can-you-filter-with-in-a-groupby-function-in-pandas) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
