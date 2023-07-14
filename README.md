@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-13<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-14<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Trait implementation not found in Rust 170](https://stackoverflow.com/questions/76669682/trait-implementation-not-found-in-rust-1-70) - 4 votes
-* [How to enforce error handling in Rust when there is no actual result](https://stackoverflow.com/questions/76670248/how-to-enforce-error-handling-in-rust-when-there-is-no-actual-result) - 3 votes
-* [How to overwrite method in Python used in another method in Rust](https://stackoverflow.com/questions/76674832/how-to-overwrite-method-in-python-used-in-another-method-in-rust) - 3 votes
+* [Holding either ampstr or String in a variable](https://stackoverflow.com/questions/76687841/holding-either-str-or-string-in-a-variable) - 3 votes
 * [I39m using Polars with ConnectorX why do I get Dataframe type error](https://stackoverflow.com/questions/76677834/im-using-polars-with-connectorx-why-do-i-get-dataframe-type-error) - 2 votes
-* [Enum option not covered](https://stackoverflow.com/questions/76669272/enum-option-not-covered) - 1 votes
+* [How to push front in linked list Rust](https://stackoverflow.com/questions/76681609/how-to-push-front-in-linked-list-rust) - 1 votes
+* [Is it safe to nonatomically update a value selected by relaxed atomic operation without any synchronization](https://stackoverflow.com/questions/76680016/is-it-safe-to-non-atomically-update-a-value-selected-by-relaxed-atomic-operation) - 1 votes
+* [Returning iterator consider static lifetime type](https://stackoverflow.com/questions/76686451/returning-iterator-consider-static-lifetime-type) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -19,6 +19,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### fastapi
 <!-- fastapi starts -->
 * [How to get client detailsCurrent User Details from Server in FastAPI](https://stackoverflow.com/questions/76677029/how-to-get-client-detailscurrent-user-details-from-server-in-fastapi) - 2 votes
+* [Unable to get custom headers with Axios in reactJs](https://stackoverflow.com/questions/76675158/unable-to-get-custom-headers-with-axios-in-reactjs) - 1 votes
+* [Pydantic 20 ignores Optional in schema and requires the field to be available](https://stackoverflow.com/questions/76690463/pydantic-2-0-ignores-optional-in-schema-and-requires-the-field-to-be-available) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -26,10 +28,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### pandas
 <!-- pandas starts -->
 * [How to set multiple values in Pandas in column of dtype nparray](https://stackoverflow.com/questions/76679508/how-to-set-multiple-values-in-pandas-in-column-of-dtype-np-array) - 2 votes
-* [Pivot a dataframe in pandas while creating additional new columns for values](https://stackoverflow.com/questions/76672462/pivot-a-dataframe-in-pandas-while-creating-additional-new-columns-for-values) - 2 votes
-* [Python parse then put in a dataframe](https://stackoverflow.com/questions/76670562/python-parse-then-put-in-a-dataframe) - 2 votes
-* [How can I obtain the same result as pandasautocorr by numpy](https://stackoverflow.com/questions/76668685/how-can-i-obtain-the-same-result-as-pandas-autocorr-by-numpy) - 2 votes
-* [I am having issues using Regex to parse a chat and turn it into a dataframe  it is just skipping info](https://stackoverflow.com/questions/76673981/i-am-having-issues-using-regex-to-parse-a-chat-and-turn-it-into-a-dataframe-i) - 2 votes
+* [Pandas read_csv ignore first cell](https://stackoverflow.com/questions/76689146/pandas-read-csv-ignore-first-cell) - 2 votes
+* [How to group by rank and start a new ranking if the difference in months is more than 1 in Pandas](https://stackoverflow.com/questions/76687425/how-to-group-by-rank-and-start-a-new-ranking-if-the-difference-in-months-is-more) - 2 votes
+* [Pandas concat takes too long to add few rows](https://stackoverflow.com/questions/76690913/pandas-concat-takes-too-long-to-add-few-rows) - 2 votes
+* [How to calculate time differences without a date and only with times](https://stackoverflow.com/questions/76689953/how-to-calculate-time-differences-without-a-date-and-only-with-times) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
