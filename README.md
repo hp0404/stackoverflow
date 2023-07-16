@@ -1,16 +1,16 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-15<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-16<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Holding either ampstr or String in a variable](https://stackoverflow.com/questions/76687841/holding-either-str-or-string-in-a-variable) - 3 votes
-* [Returning iterator consider static lifetime type](https://stackoverflow.com/questions/76686451/returning-iterator-consider-static-lifetime-type) - 1 votes
-* [How to control the print order from 2 different threads in rust](https://stackoverflow.com/questions/76695567/how-to-control-the-print-order-from-2-different-threads-in-rust) - 1 votes
+* [How to control the print order from 2 different threads in rust](https://stackoverflow.com/questions/76695567/how-to-control-the-print-order-from-2-different-threads-in-rust) - 2 votes
+* [Shared array of threads](https://stackoverflow.com/questions/76699100/shared-array-of-threads) - 1 votes
 * [How to run blocking code from async code that borrows](https://stackoverflow.com/questions/76695198/how-to-run-blocking-code-from-async-code-that-borrows) - 1 votes
+* [How can I debug a Rust program in Visual Studio 2022](https://stackoverflow.com/questions/76699745/how-can-i-debug-a-rust-program-in-visual-studio-2022) - 1 votes
 * [not able to get mutable reference to the underlying OnceLock data](https://stackoverflow.com/questions/76693831/not-able-to-get-mutable-reference-to-the-underlying-oncelock-data) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -18,18 +18,18 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 
 ### fastapi
 <!-- fastapi starts -->
-* [Pydantic 20 ignores Optional in schema and requires the field to be available](https://stackoverflow.com/questions/76690463/pydantic-2-0-ignores-optional-in-schema-and-requires-the-field-to-be-available) - 2 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas read_csv ignore first cell](https://stackoverflow.com/questions/76689146/pandas-read-csv-ignore-first-cell) - 2 votes
-* [How to group by rank and start a new ranking if the difference in months is more than 1 in Pandas](https://stackoverflow.com/questions/76687425/how-to-group-by-rank-and-start-a-new-ranking-if-the-difference-in-months-is-more) - 2 votes
-* [Pandas concat takes too long to add few rows](https://stackoverflow.com/questions/76690913/pandas-concat-takes-too-long-to-add-few-rows) - 2 votes
-* [python how to pivot a dataframe](https://stackoverflow.com/questions/76686817/python-how-to-pivot-a-dataframe) - 2 votes
-* [python dataframe drop rows in all columns outside the predefined limits](https://stackoverflow.com/questions/76689909/python-dataframe-drop-rows-in-all-columns-outside-the-predefined-limits) - 1 votes
+* [Adding a column in a DataFrame based on thresholds and size of group](https://stackoverflow.com/questions/76700089/adding-a-column-in-a-dataframe-based-on-thresholds-and-size-of-group) - 3 votes
+* [Select rows out of Pandas dataframe based on index values](https://stackoverflow.com/questions/76699401/select-rows-out-of-pandas-dataframe-based-on-index-values) - 2 votes
+* [Take a month by month cumulative by grouped column using Pandas](https://stackoverflow.com/questions/76691911/take-a-month-by-month-cumulative-by-grouped-column-using-pandas) - 1 votes
+* [Multiplayer games rating method how to improve Python code and get more speed](https://stackoverflow.com/questions/76692675/multi-player-games-rating-method-how-to-improve-python-code-and-get-more-speed) - 1 votes
+* [How can I display gridlines on a secondary yaxis in a Matplotlib histogram with two yaxes](https://stackoverflow.com/questions/76693273/how-can-i-display-gridlines-on-a-secondary-y-axis-in-a-matplotlib-histogram-with) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
