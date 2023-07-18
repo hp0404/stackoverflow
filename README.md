@@ -1,35 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-17<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-18<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Shared array of threads](https://stackoverflow.com/questions/76699100/shared-array-of-threads) - 1 votes
-* [Why can I create two live ampmut to the same variable using ampmut ref](https://stackoverflow.com/questions/76707918/why-can-i-create-two-live-mut-to-the-same-variable-using-mut-ref) - 1 votes
-* [Why is ampmut Send Can a thread closure capture anything by ampmut in safe rust](https://stackoverflow.com/questions/76706994/why-is-mut-send-can-a-thread-closure-capture-anything-by-mut-in-safe-rust) - 1 votes
-* [How can I debug a Rust program in Visual Studio 2022](https://stackoverflow.com/questions/76699745/how-can-i-debug-a-rust-program-in-visual-studio-2022) - 1 votes
-* [RUSTWASM threads in a browser](https://stackoverflow.com/questions/76707845/rust-wasm-threads-in-a-browser) - 1 votes
+* [quotborrowed data escapes outside of closurequot only when using ampmut or threads](https://stackoverflow.com/questions/76709164/borrowed-data-escapes-outside-of-closure-only-when-using-mut-or-threads) - 4 votes
+* [Why is ampmut Send How can a thread capture a ampmut in safe Rust](https://stackoverflow.com/questions/76706994/why-is-mut-send-how-can-a-thread-capture-a-mut-in-safe-rust) - 4 votes
+* [How does Rust return large types before optimisation](https://stackoverflow.com/questions/76710530/how-does-rust-return-large-types-before-optimisation) - 3 votes
+* [Why does Rust stdalloc allocate with larger than expected gaps](https://stackoverflow.com/questions/76707803/why-does-rust-stdalloc-allocate-with-larger-than-expected-gaps) - 3 votes
+* [Is it better to return an Option of a Vec or just a Vec](https://stackoverflow.com/questions/76708968/is-it-better-to-return-an-option-of-a-vec-or-just-a-vec) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [Clientserver Python app on Heroku how does client communicate with the server](https://stackoverflow.com/questions/76714885/client-server-python-app-on-heroku-how-does-client-communicate-with-the-server) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [PythonPandas  Generate All Possible Combinations of a Parsed Categorical Binary Variable](https://stackoverflow.com/questions/76700107/python-pandas-generate-all-possible-combinations-of-a-parsed-categorical-bina) - 3 votes
 * [Selecting all rows which contain values greater than a percentage of Average](https://stackoverflow.com/questions/76703126/selecting-all-rows-which-contain-values-greater-than-a-percentage-of-average) - 3 votes
-* [Adding a column in a DataFrame based on thresholds and size of group](https://stackoverflow.com/questions/76700089/adding-a-column-in-a-dataframe-based-on-thresholds-and-size-of-group) - 3 votes
+* [Is it even possible to reshape this using Pandas](https://stackoverflow.com/questions/76707900/is-it-even-possible-to-reshape-this-using-pandas) - 2 votes
 * [Merging records based on consecutive dates in python](https://stackoverflow.com/questions/76704752/merging-records-based-on-consecutive-dates-in-python) - 2 votes
 * [Why does pandas fail to join on two columns of object dtype one of them is converted from int to object](https://stackoverflow.com/questions/76702772/why-does-pandas-fail-to-join-on-two-columns-of-object-dtype-one-of-them-is-conv) - 2 votes
+* [Find changed entries in 2 Data frames](https://stackoverflow.com/questions/76704213/find-changed-entries-in-2-data-frames) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
