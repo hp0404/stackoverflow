@@ -1,24 +1,24 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-19<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-20<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [quotborrowed data escapes outside of closurequot only when using ampmut or threads](https://stackoverflow.com/questions/76709164/borrowed-data-escapes-outside-of-closure-only-when-using-mut-or-threads) - 4 votes
-* [How does Rust return large types before optimisation](https://stackoverflow.com/questions/76710530/how-does-rust-return-large-types-before-optimisation) - 3 votes
-* [Is it better to return an Option of a Vec or just a Vec](https://stackoverflow.com/questions/76708968/is-it-better-to-return-an-option-of-a-vec-or-just-a-vec) - 2 votes
-* [compare 2 Arc pointer](https://stackoverflow.com/questions/76711875/compare-2-arc-pointer) - 2 votes
-* [quottype  cannot be dereferencedquot when pushing to a Vector in a HashMap](https://stackoverflow.com/questions/76715327/type-cannot-be-dereferenced-when-pushing-to-a-vector-in-a-hashmap) - 1 votes
+* [How do I quotflattenquot a subcommand with Clap](https://stackoverflow.com/questions/76730479/how-do-i-flatten-a-subcommand-with-clap) - 4 votes
+* [Rust FFI and CUDA C Performance Discrepancy](https://stackoverflow.com/questions/76727900/rust-ffi-and-cuda-c-performance-discrepancy) - 2 votes
+* [How to turn a function item into a function pointer in rust](https://stackoverflow.com/questions/76722820/how-to-turn-a-function-item-into-a-function-pointer-in-rust) - 1 votes
+* [Why is a static lifetime asked for and how can I narrow it when dealing with rust Iterators](https://stackoverflow.com/questions/76721828/why-is-a-static-lifetime-asked-for-and-how-can-i-narrow-it-when-dealing-with-rus) - 1 votes
+* [use and crate keywords not work well in rust project](https://stackoverflow.com/questions/76719072/use-and-crate-keywords-not-work-well-in-rust-project) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Clientserver Python app on Heroku how does client communicate with the server](https://stackoverflow.com/questions/76714885/client-server-python-app-on-heroku-how-does-client-communicate-with-the-server) - 2 votes
+* [serverlessofflinesqs  I get botocoreexceptionsNoCredentialsError Unable to locate credentials](https://stackoverflow.com/questions/76721321/serverless-offline-sqs-i-get-botocore-exceptions-nocredentialserror-unable-to) - 1 votes
 * [How to solve circular import  pydantic error when using strongly related classes](https://stackoverflow.com/questions/76717651/how-to-solve-circular-import-pydantic-error-when-using-strongly-related-classe) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
@@ -26,11 +26,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 
 ### pandas
 <!-- pandas starts -->
-* [How to optimize a for loop in python that references values in a data frame that are updated in the loop](https://stackoverflow.com/questions/76717109/how-to-optimize-a-for-loop-in-python-that-references-values-in-a-data-frame-that) - 3 votes
+* [Calculate the rolling mean by group with conditions for each rows in a Pandas DataFrame](https://stackoverflow.com/questions/76731084/calculate-the-rolling-mean-by-group-with-conditions-for-each-rows-in-a-pandas-da) - 3 votes
 * [Pandas Combining Rolling Features With Group By](https://stackoverflow.com/questions/76721661/pandas-combining-rolling-features-with-group-by) - 2 votes
-* [Shift Rows in Pandas Dataframe by Condition](https://stackoverflow.com/questions/76722553/shift-rows-in-pandas-dataframe-by-condition) - 2 votes
-* [Assign closest data point information from one DataFrame to each point in another DataFrame](https://stackoverflow.com/questions/76716319/assign-closest-data-point-information-from-one-dataframe-to-each-point-in-anothe) - 2 votes
-* [pandas conditional groupby on a group](https://stackoverflow.com/questions/76723639/pandas-conditional-groupby-on-a-group) - 2 votes
+* [How to add two pandas data frames and keep both indexes](https://stackoverflow.com/questions/76729370/how-to-add-two-pandas-data-frames-and-keep-both-indexes) - 2 votes
+* [Pandas Rolling Aggregations that take into account missing values](https://stackoverflow.com/questions/76722538/pandas-rolling-aggregations-that-take-into-account-missing-values) - 2 votes
+* [Resize a numpy array of lists so that so that the lists all have the same length and dtype of numpy array can be inferred correctly](https://stackoverflow.com/questions/76729250/resize-a-numpy-array-of-lists-so-that-so-that-the-lists-all-have-the-same-length) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
