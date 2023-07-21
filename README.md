@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-20<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-21<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,18 +8,16 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### rust
 <!-- rust starts -->
 * [How do I quotflattenquot a subcommand with Clap](https://stackoverflow.com/questions/76730479/how-do-i-flatten-a-subcommand-with-clap) - 4 votes
+* [Matching a union of strings and objects in typescript and preserving values](https://stackoverflow.com/questions/76732968/matching-a-union-of-strings-and-objects-in-typescript-and-preserving-values) - 3 votes
 * [Rust FFI and CUDA C Performance Discrepancy](https://stackoverflow.com/questions/76727900/rust-ffi-and-cuda-c-performance-discrepancy) - 2 votes
-* [How to turn a function item into a function pointer in rust](https://stackoverflow.com/questions/76722820/how-to-turn-a-function-item-into-a-function-pointer-in-rust) - 1 votes
-* [Why is a static lifetime asked for and how can I narrow it when dealing with rust Iterators](https://stackoverflow.com/questions/76721828/why-is-a-static-lifetime-asked-for-and-how-can-i-narrow-it-when-dealing-with-rus) - 1 votes
-* [use and crate keywords not work well in rust project](https://stackoverflow.com/questions/76719072/use-and-crate-keywords-not-work-well-in-rust-project) - 1 votes
+* [How to rename a type imported from an external crate and disallow the original name](https://stackoverflow.com/questions/76731137/how-to-rename-a-type-imported-from-an-external-crate-and-disallow-the-original-n) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [serverlessofflinesqs  I get botocoreexceptionsNoCredentialsError Unable to locate credentials](https://stackoverflow.com/questions/76721321/serverless-offline-sqs-i-get-botocore-exceptions-nocredentialserror-unable-to) - 1 votes
-* [How to solve circular import  pydantic error when using strongly related classes](https://stackoverflow.com/questions/76717651/how-to-solve-circular-import-pydantic-error-when-using-strongly-related-classe) - 1 votes
+* [How to solve 422 error while handling file uploading request on FastAPI](https://stackoverflow.com/questions/76733441/how-to-solve-422-error-while-handling-file-uploading-request-on-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -27,10 +25,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### pandas
 <!-- pandas starts -->
 * [Calculate the rolling mean by group with conditions for each rows in a Pandas DataFrame](https://stackoverflow.com/questions/76731084/calculate-the-rolling-mean-by-group-with-conditions-for-each-rows-in-a-pandas-da) - 3 votes
-* [Pandas Combining Rolling Features With Group By](https://stackoverflow.com/questions/76721661/pandas-combining-rolling-features-with-group-by) - 2 votes
-* [How to add two pandas data frames and keep both indexes](https://stackoverflow.com/questions/76729370/how-to-add-two-pandas-data-frames-and-keep-both-indexes) - 2 votes
-* [Pandas Rolling Aggregations that take into account missing values](https://stackoverflow.com/questions/76722538/pandas-rolling-aggregations-that-take-into-account-missing-values) - 2 votes
-* [Resize a numpy array of lists so that so that the lists all have the same length and dtype of numpy array can be inferred correctly](https://stackoverflow.com/questions/76729250/resize-a-numpy-array-of-lists-so-that-so-that-the-lists-all-have-the-same-length) - 2 votes
+* [Calculate mean of consecutive repititions of values in pandas dataframe  numpy array](https://stackoverflow.com/questions/76733588/calculate-mean-of-consecutive-repititions-of-values-in-pandas-dataframe-numpy) - 2 votes
+* [Pivot a data frame in pandas](https://stackoverflow.com/questions/76739610/pivot-a-data-frame-in-pandas) - 2 votes
+* [How to migrate pandas code to pandas arrow](https://stackoverflow.com/questions/76739166/how-to-migrate-pandas-code-to-pandas-arrow) - 2 votes
+* [Count how many times certain pandas row has specific column value lower than another certain pandas row across many pandas dataframes](https://stackoverflow.com/questions/76738249/count-how-many-times-certain-pandas-row-has-specific-column-value-lower-than-ano) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
