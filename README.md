@@ -1,35 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-23<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-24<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Idiomatic way to set simd lanes to 0 based on mask](https://stackoverflow.com/questions/76742707/idiomatic-way-to-set-simd-lanes-to-0-based-on-mask) - 3 votes
-* [Memory representation of multiple ampersands in Rust](https://stackoverflow.com/questions/76741878/memory-representation-of-multiple-ampersands-in-rust) - 1 votes
-* [How do I list the available benchmarks using cargo bench](https://stackoverflow.com/questions/76745888/how-do-i-list-the-available-benchmarks-using-cargo-bench) - 1 votes
-* [Rust nonexhaustive match with u32 and usize](https://stackoverflow.com/questions/76749712/rust-non-exhaustive-match-with-u32-and-usize) - 1 votes
-* [GMP powm function in Rust is giving incorrect results](https://stackoverflow.com/questions/76743836/gmp-powm-function-in-rust-is-giving-incorrect-results) - 1 votes
+* [Rust ECDH does not produce the same shared secret as NodeJSJavascript and C implementations](https://stackoverflow.com/questions/76755083/rust-ecdh-does-not-produce-the-same-shared-secret-as-nodejs-javascript-and-c-imp) - 2 votes
+* [Error when inserting boolean values with Diesel into PostgreSQL database](https://stackoverflow.com/questions/76756829/error-when-inserting-boolean-values-with-diesel-into-postgresql-database) - 2 votes
+* [How to get IP address of the endpoint caller in Rust Rocket](https://stackoverflow.com/questions/76754935/how-to-get-ip-address-of-the-endpoint-caller-in-rust-rocket) - 2 votes
+* [Is it possible to implicitly import traits when importing a type in Rust](https://stackoverflow.com/questions/76753851/is-it-possible-to-implicitly-import-traits-when-importing-a-type-in-rust) - 1 votes
+* [Why MyFloat struct works well in MsgPacker but fail in Json with serde in Rust](https://stackoverflow.com/questions/76755242/why-myfloat-struct-works-well-in-msgpacker-but-fail-in-json-with-serde-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [FastAPI api giving quotstr type expectedquot error](https://stackoverflow.com/questions/76751142/fastapi-api-giving-str-type-expected-error) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Reorder selective columns from a large dataframe](https://stackoverflow.com/questions/76744206/reorder-selective-columns-from-a-large-dataframe) - 2 votes
+* [Why reaching nested meta gives NaN when normalizing a json with pandas](https://stackoverflow.com/questions/76752107/why-reaching-nested-meta-gives-nan-when-normalizing-a-json-with-pandas) - 3 votes
+* [Converting a JSON Response into pandas dataframe](https://stackoverflow.com/questions/76757147/converting-a-json-response-into-pandas-dataframe) - 1 votes
+* [Retrieve multiple index locations using pandasIndexget_loc or something equivalent](https://stackoverflow.com/questions/76751823/retrieve-multiple-index-locations-using-pandas-index-get-loc-or-something-equi) - 1 votes
+* [Match two dfs based on conditions in pandas](https://stackoverflow.com/questions/76750316/match-two-dfs-based-on-conditions-in-pandas) - 1 votes
 * [elementwise division with panel data dfdivlevel index level](https://stackoverflow.com/questions/76749355/elementwise-division-with-panel-data-df-divlevel-index-level) - 1 votes
-* [Masking a value in a column of a pandas dataframe and setting a flag in the same row but different column](https://stackoverflow.com/questions/76744753/masking-a-value-in-a-column-of-a-pandas-dataframe-and-setting-a-flag-in-the-same) - 1 votes
-* [quotSingle positional indexer is outofboundsquot  depending on the size of the For Loop](https://stackoverflow.com/questions/76743375/single-positional-indexer-is-out-of-bounds-depending-on-the-size-of-the-for) - 1 votes
-* [How to change pandas dataframe column39s value base on another column39s 2 adjacent values](https://stackoverflow.com/questions/76743173/how-to-change-pandas-dataframe-columns-value-base-on-another-columns-2-adjacen) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
