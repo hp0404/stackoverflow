@@ -1,38 +1,38 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-25<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-26<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Rust ECDH does not produce the same shared secret as NodeJSJavascript and C implementations](https://stackoverflow.com/questions/76755083/rust-ecdh-does-not-produce-the-same-shared-secret-as-nodejs-javascript-and-c-imp) - 2 votes
-* [Error when inserting boolean values with Diesel into PostgreSQL database](https://stackoverflow.com/questions/76756829/error-when-inserting-boolean-values-with-diesel-into-postgresql-database) - 2 votes
+* [tokiospawn with and without async block](https://stackoverflow.com/questions/76763570/tokiospawn-with-and-without-async-block) - 3 votes
+* [How to implement an Iterator for a trait object](https://stackoverflow.com/questions/76771193/how-to-implement-an-iterator-for-a-trait-object) - 2 votes
 * [Distinct impls for a same struct where only one of them is accessible](https://stackoverflow.com/questions/76763470/distinct-impls-for-a-same-struct-where-only-one-of-them-is-accessible) - 2 votes
-* [How to get IP address of the endpoint caller in Rust Rocket](https://stackoverflow.com/questions/76754935/how-to-get-ip-address-of-the-endpoint-caller-in-rust-rocket) - 2 votes
-* [tokiospawn with and without async block](https://stackoverflow.com/questions/76763570/tokiospawn-with-and-without-async-block) - 1 votes
+* [quotcannot be sent between threads safelyquot when I use tokiojoin and a function with a Result](https://stackoverflow.com/questions/76772782/cannot-be-sent-between-threads-safely-when-i-use-tokiojoin-and-a-function-w) - 1 votes
+* [Why do I need to use amp to trigger deref coercion in rust](https://stackoverflow.com/questions/76763219/why-do-i-need-to-use-to-trigger-deref-coercion-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Pydantic issue for tuple length](https://stackoverflow.com/questions/76758415/pydantic-issue-for-tuple-length) - 2 votes
 * [FastAPI  implement pauseresumeabort task API](https://stackoverflow.com/questions/76760481/fastapi-implement-pause-resume-abort-task-api) - 2 votes
-* [How to use stream response to show an image in FastAPI](https://stackoverflow.com/questions/76754376/how-to-use-stream-response-to-show-an-image-in-fastapi) - 1 votes
-* [FastAPI api giving quotstr type expectedquot error](https://stackoverflow.com/questions/76751142/fastapi-api-giving-str-type-expected-error) - 1 votes
+* [How to Render Folium Map using FastAPI](https://stackoverflow.com/questions/76771311/how-to-render-folium-map-using-fastapi) - 1 votes
+* [How to upload to s3 using boto3 asynchronously](https://stackoverflow.com/questions/76770053/how-to-upload-to-s3-using-boto3-asynchronously) - 1 votes
+* [How to configure CORS to allow a Chrome Extension](https://stackoverflow.com/questions/76766436/how-to-configure-cors-to-allow-a-chrome-extension) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Why reaching nested meta gives NaN when normalizing a json with pandas](https://stackoverflow.com/questions/76752107/why-reaching-nested-meta-gives-nan-when-normalizing-a-json-with-pandas) - 3 votes
+* [How to sort and group on column using pandas loop](https://stackoverflow.com/questions/76769098/how-to-sort-and-group-on-column-using-pandas-loop) - 2 votes
 * [Filling in and adding the data with the rows in Panda39s dataframe](https://stackoverflow.com/questions/76758701/filling-in-and-adding-the-data-with-the-rows-in-pandas-dataframe) - 2 votes
 * [How to securize the values per each column in a DataFrame](https://stackoverflow.com/questions/76762891/how-to-securize-the-values-per-each-column-in-a-dataframe) - 2 votes
+* [How to create nested dataframe from nested dictionary](https://stackoverflow.com/questions/76770335/how-to-create-nested-dataframe-from-nested-dictionary) - 2 votes
 * [Pandas using groupby on a groupby object](https://stackoverflow.com/questions/76760480/pandas-using-groupby-on-a-groupby-object) - 2 votes
-* [Unesting dictionaries in pandas dataframe](https://stackoverflow.com/questions/76757280/unesting-dictionaries-in-pandas-dataframe) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
