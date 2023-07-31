@@ -1,23 +1,24 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-30<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-31<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Nom parser mysteriously breaks when double new line is added](https://stackoverflow.com/questions/76796290/nom-parser-mysteriously-breaks-when-double-new-line-is-added) - 3 votes
+* [Nom parser fails to not consume invalid input](https://stackoverflow.com/questions/76796290/nom-parser-fails-to-not-consume-invalid-input) - 3 votes
+* [Is it possible to migrate data from one cargo crate registry to another](https://stackoverflow.com/questions/76804572/is-it-possible-to-migrate-data-from-one-cargo-crate-registry-to-another) - 3 votes
 * [Function to compare two iterators](https://stackoverflow.com/questions/76797379/function-to-compare-two-iterators) - 3 votes
 * [voidvariable alternative for Rust](https://stackoverflow.com/questions/76797683/voidvariable-alternative-for-rust) - 2 votes
-* [Output not visible by writting into stdiostdout](https://stackoverflow.com/questions/76793671/output-not-visible-by-writting-into-stdiostdout) - 2 votes
-* [use blockon in rust wasm](https://stackoverflow.com/questions/76797290/use-blockon-in-rust-wasm) - 2 votes
+* [Is there a way to pass a ampT to Fortran through FFI](https://stackoverflow.com/questions/76805000/is-there-a-way-to-pass-a-t-to-fortran-through-ffi) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
+* [function running in a different event loop](https://stackoverflow.com/questions/76799255/function-running-in-a-different-event-loop) - 1 votes
 * [fastapi pytest how to override a fastapi dependency that accepts arguments](https://stackoverflow.com/questions/76796168/fastapi-pytest-how-to-override-a-fastapi-dependency-that-accepts-arguments) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
@@ -25,11 +26,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 
 ### pandas
 <!-- pandas starts -->
+* [Pandas add increment index](https://stackoverflow.com/questions/76806273/pandas-add-increment-index) - 3 votes
+* [Parsing data from bash table with empty fields](https://stackoverflow.com/questions/76801382/parsing-data-from-bash-table-with-empty-fields) - 3 votes
 * [How to check condition on multiple columns after using groupby on pandas data frame](https://stackoverflow.com/questions/76797105/how-to-check-condition-on-multiple-columns-after-using-groupby-on-pandas-data-fr) - 3 votes
 * [How to efficiently handle missing data and calculate conditional statistics in a pandas DataFrame](https://stackoverflow.com/questions/76797039/how-to-efficiently-handle-missing-data-and-calculate-conditional-statistics-in-a) - 2 votes
-* [How to create a new key in a list of dictionaries that is a sum of another key](https://stackoverflow.com/questions/76797046/how-to-create-a-new-key-in-a-list-of-dictionaries-that-is-a-sum-of-another-key) - 2 votes
-* [how to filter part of a multiindex level dataframe with different conditions](https://stackoverflow.com/questions/76797647/how-to-filter-part-of-a-multi-index-level-dataframe-with-different-conditions) - 1 votes
-* [removing duplicates using group by in pandas](https://stackoverflow.com/questions/76792900/removing-duplicates-using-group-by-in-pandas) - 1 votes
+* [Pandas replace using regextrue replaces partial word](https://stackoverflow.com/questions/76800008/pandas-replace-using-regex-true-replaces-partial-word) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
