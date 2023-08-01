@@ -1,16 +1,16 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-07-31<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-08-01<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Nom parser fails to not consume invalid input](https://stackoverflow.com/questions/76796290/nom-parser-fails-to-not-consume-invalid-input) - 3 votes
+* [what compiler optimizations would be needed to optimize out this recursive call](https://stackoverflow.com/questions/76806120/what-compiler-optimizations-would-be-needed-to-optimize-out-this-recursive-call) - 3 votes
 * [Is it possible to migrate data from one cargo crate registry to another](https://stackoverflow.com/questions/76804572/is-it-possible-to-migrate-data-from-one-cargo-crate-registry-to-another) - 3 votes
-* [Function to compare two iterators](https://stackoverflow.com/questions/76797379/function-to-compare-two-iterators) - 3 votes
-* [voidvariable alternative for Rust](https://stackoverflow.com/questions/76797683/voidvariable-alternative-for-rust) - 2 votes
+* [Rust Deno compilation issues with OpDecl](https://stackoverflow.com/questions/76813212/rust-deno-compilation-issues-with-opdecl) - 2 votes
+* [Rust  asyncstd39s quottokio1quot feature how it works](https://stackoverflow.com/questions/76809322/rust-async-stds-tokio1-feature-how-it-works) - 2 votes
 * [Is there a way to pass a ampT to Fortran through FFI](https://stackoverflow.com/questions/76805000/is-there-a-way-to-pass-a-t-to-fortran-through-ffi) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -18,19 +18,18 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 
 ### fastapi
 <!-- fastapi starts -->
-* [function running in a different event loop](https://stackoverflow.com/questions/76799255/function-running-in-a-different-event-loop) - 1 votes
-* [fastapi pytest how to override a fastapi dependency that accepts arguments](https://stackoverflow.com/questions/76796168/fastapi-pytest-how-to-override-a-fastapi-dependency-that-accepts-arguments) - 1 votes
+* [Delayed Response and Call Dequeue in Twilio FastAPI Application with OpenAI Content Generation](https://stackoverflow.com/questions/76812363/delayed-response-and-call-dequeue-in-twilio-fastapi-application-with-openai-cont) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [Parsing data from bash table with empty fields](https://stackoverflow.com/questions/76801382/parsing-data-from-bash-table-with-empty-fields) - 4 votes
 * [Pandas add increment index](https://stackoverflow.com/questions/76806273/pandas-add-increment-index) - 3 votes
-* [Parsing data from bash table with empty fields](https://stackoverflow.com/questions/76801382/parsing-data-from-bash-table-with-empty-fields) - 3 votes
-* [How to check condition on multiple columns after using groupby on pandas data frame](https://stackoverflow.com/questions/76797105/how-to-check-condition-on-multiple-columns-after-using-groupby-on-pandas-data-fr) - 3 votes
-* [How to efficiently handle missing data and calculate conditional statistics in a pandas DataFrame](https://stackoverflow.com/questions/76797039/how-to-efficiently-handle-missing-data-and-calculate-conditional-statistics-in-a) - 2 votes
-* [Pandas replace using regextrue replaces partial word](https://stackoverflow.com/questions/76800008/pandas-replace-using-regex-true-replaces-partial-word) - 2 votes
+* [pandas explode alternative for polars](https://stackoverflow.com/questions/76802752/pandas-explode-alternative-for-polars) - 3 votes
+* [How to delete last six columns that don39t have NaN values of dataframe where each row has a different number of columns with values](https://stackoverflow.com/questions/76807704/how-to-delete-last-six-columns-that-dont-have-nan-values-of-dataframe-where-eac) - 2 votes
+* [How to create a new column that gets count by groupby in pandas](https://stackoverflow.com/questions/76805527/how-to-create-a-new-column-that-gets-count-by-groupby-in-pandas) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
