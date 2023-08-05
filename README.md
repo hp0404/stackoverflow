@@ -1,38 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-08-04<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-08-05<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to transfer latest state between threads in rust without using a mutex](https://stackoverflow.com/questions/76830384/how-to-transfer-latest-state-between-threads-in-rust-without-using-a-mutex) - 3 votes
-* [Create an Iterator in Rust that yields pairs of mutable references to elements of the slice along with an iterator over the remaining elements](https://stackoverflow.com/questions/76827846/create-an-iterator-in-rust-that-yields-pairs-of-mutable-references-to-elements-o) - 3 votes
-* [How to convert OsString into utf8 encoded string in platformindependent way](https://stackoverflow.com/questions/76824839/how-to-convert-osstring-into-utf-8-encoded-string-in-platform-independent-way) - 3 votes
+* [Use Option to maybe allocate](https://stackoverflow.com/questions/76838999/use-option-to-maybe-allocate) - 3 votes
+* [Why does some code with type parameters used only in trait bounds compile without PhantomData](https://stackoverflow.com/questions/76840309/why-does-some-code-with-type-parameters-used-only-in-trait-bounds-compile-withou) - 3 votes
+* [Is it possible to reference a struct39s generic parameter with a different lifetime in a method](https://stackoverflow.com/questions/76842608/is-it-possible-to-reference-a-structs-generic-parameter-with-a-different-lifeti) - 3 votes
 * [Rust empty explicit generic argument for Optionltimpl Fni64gt](https://stackoverflow.com/questions/76836692/rust-empty-explicit-generic-argument-for-optionimpl-fni64) - 2 votes
-* [What39s the cause of this borrow checker error in Rust LinkedList](https://stackoverflow.com/questions/76827966/whats-the-cause-of-this-borrow-checker-error-in-rust-linkedlist) - 2 votes
+* [Split string once on the first whitespace in Rust](https://stackoverflow.com/questions/76841122/split-string-once-on-the-first-whitespace-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
+* [Uvicorn Attribute quotappquot not found in module quotappappquot](https://stackoverflow.com/questions/76840592/uvicorn-attribute-app-not-found-in-module-app-app) - 2 votes
 * [Cleaner way to access configconfigyaml inside APIRouter  FastAPI](https://stackoverflow.com/questions/76837252/cleaner-way-to-access-configconfig-yaml-inside-apirouter-fastapi) - 1 votes
 * [Parametrize endpoints in FastApi](https://stackoverflow.com/questions/76837018/parametrize-endpoints-in-fastapi) - 1 votes
-* [Pydantic settings mock](https://stackoverflow.com/questions/76829991/pydantic-settings-mock) - 1 votes
-* [pytest does not see the core folder](https://stackoverflow.com/questions/76828253/pytest-does-not-see-the-core-folder) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [python pandas select all NaN row and fill with previous row](https://stackoverflow.com/questions/76828644/python-pandas-select-all-nan-row-and-fill-with-previous-row) - 2 votes
-* [Python count number of occurrences based on other columns dictionary words](https://stackoverflow.com/questions/76826939/python-count-number-of-occurrences-based-on-other-columns-dictionary-words) - 2 votes
+* [Dataframe column with quoted CSV to named dataframe columns](https://stackoverflow.com/questions/76838859/dataframe-column-with-quoted-csv-to-named-dataframe-columns) - 3 votes
+* [How to fill in missing dates using python for all ids](https://stackoverflow.com/questions/76838402/how-to-fill-in-missing-dates-using-python-for-all-ids) - 3 votes
+* [How to run get_dummies function on multiple columns for the same category type](https://stackoverflow.com/questions/76840259/how-to-run-get-dummies-function-on-multiple-columns-for-the-same-category-type) - 2 votes
 * [How to implement multithreading for web scraping](https://stackoverflow.com/questions/76836213/how-to-implement-multithreading-for-web-scraping) - 2 votes
-* [How to change the bar width while keeping an even space around all bars](https://stackoverflow.com/questions/76831055/how-to-change-the-bar-width-while-keeping-an-even-space-around-all-bars) - 2 votes
-* [Jsonweird column transformation](https://stackoverflow.com/questions/76830940/json-weird-column-transformation) - 2 votes
+* [Is there a way to suppress legend entry when plotting directly from pandas](https://stackoverflow.com/questions/76840036/is-there-a-way-to-suppress-legend-entry-when-plotting-directly-from-pandas) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
