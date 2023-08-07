@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-08-06<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-08-07<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why does some code with type parameters used only in trait bounds compile without PhantomData](https://stackoverflow.com/questions/76840309/why-does-some-code-with-type-parameters-used-only-in-trait-bounds-compile-withou) - 3 votes
+* [Rust override function argument](https://stackoverflow.com/questions/76854256/rust-override-function-argument) - 2 votes
 * [How does Boxing move data from stack to heap](https://stackoverflow.com/questions/76844678/how-does-boxing-move-data-from-stack-to-heap) - 2 votes
-* [Split string once on the first whitespace in Rust](https://stackoverflow.com/questions/76841122/split-string-once-on-the-first-whitespace-in-rust) - 1 votes
-* [Tokio tasks sharing a thread](https://stackoverflow.com/questions/76846435/tokio-tasks-sharing-a-thread) - 1 votes
-* [how to tell Rust borrow checker that the thread will be joined before reference becomes dead](https://stackoverflow.com/questions/76843301/how-to-tell-rust-borrow-checker-that-the-thread-will-be-joined-before-reference) - 1 votes
+* [Stream of Results to Result of Vec how to avoid multiple into_iters and collects](https://stackoverflow.com/questions/76850889/stream-of-results-to-result-of-vec-how-to-avoid-multiple-into-iters-and-coll) - 2 votes
+* [Why does transmute reorder bytes when transmuting from a byte array to a tuple of bytes and byte arrays](https://stackoverflow.com/questions/76852309/why-does-transmute-reorder-bytes-when-transmuting-from-a-byte-array-to-a-tuple-o) - 1 votes
+* [Enum in Rust language](https://stackoverflow.com/questions/76850648/enum-in-rust-language) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -19,6 +19,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### fastapi
 <!-- fastapi starts -->
 * [FastAPI Background outside of route functions behaves differently](https://stackoverflow.com/questions/76844289/fastapi-background-outside-of-route-functions-behaves-differently) - 1 votes
+* [FastAPI Huggingface Inference every request increases CPU RAM usage](https://stackoverflow.com/questions/76849706/fastapi-huggingface-inference-every-request-increases-cpu-ram-usage) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -26,10 +27,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### pandas
 <!-- pandas starts -->
 * [how to expand columns from web scraping](https://stackoverflow.com/questions/76845690/how-to-expand-columns-from-web-scraping) - 3 votes
-* [Webscraping issue using python and Selenium](https://stackoverflow.com/questions/76842426/web-scraping-issue-using-python-and-selenium) - 2 votes
-* [How to run get_dummies function on multiple columns for the same category type](https://stackoverflow.com/questions/76840259/how-to-run-get-dummies-function-on-multiple-columns-for-the-same-category-type) - 2 votes
+* [In pandas adding a time offset to a subset of the dataframe has no effect](https://stackoverflow.com/questions/76854081/in-pandas-adding-a-time-offset-to-a-subset-of-the-dataframe-has-no-effect) - 2 votes
 * [count successive occurences in a time series without dfiterrows](https://stackoverflow.com/questions/76846336/count-successive-occurences-in-a-time-series-without-df-iterrows) - 2 votes
-* [Is there a way to suppress legend entry when plotting directly from pandas](https://stackoverflow.com/questions/76840036/is-there-a-way-to-suppress-legend-entry-when-plotting-directly-from-pandas) - 2 votes
+* [Convert date format from ddmmyyyy to yyyymmdd with date type Power BiQuery](https://stackoverflow.com/questions/76849872/convert-date-format-from-dd-mm-yyyy-to-yyyy-mm-dd-with-date-type-power-bi-query) - 1 votes
+* [Extract Text After a String](https://stackoverflow.com/questions/76854187/extract-text-after-a-string) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
