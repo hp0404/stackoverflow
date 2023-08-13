@@ -1,35 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-08-12<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-08-13<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [HashMap with multiple keys](https://stackoverflow.com/questions/76887380/hashmap-with-multiple-keys) - 1 votes
 * [Extracting raw pointer to a trait function](https://stackoverflow.com/questions/76889300/extracting-raw-pointer-to-a-trait-function) - 1 votes
-* [How mut reference on object affect reference to its members in Rust](https://stackoverflow.com/questions/76886181/how-mut-reference-on-object-affect-reference-to-its-members-in-rust) - 1 votes
-* [How can I deserialize the OpaquePython function outputted from LazyDataframeserialize](https://stackoverflow.com/questions/76890107/how-can-i-deserialize-the-opaquepython-function-outputted-from-lazydataframe-ser) - 1 votes
-* [Pass Arrow data from Nodejs to Rust without copy](https://stackoverflow.com/questions/76887531/pass-arrow-data-from-node-js-to-rust-without-copy) - 1 votes
+* [Why does rust require explicit lifetimes for mutable references but not regular reference](https://stackoverflow.com/questions/76889988/why-does-rust-require-explicit-lifetimes-for-mutable-references-but-not-regular) - 1 votes
+* [HashMap with multiple keys](https://stackoverflow.com/questions/76887380/hashmap-with-multiple-keys) - 1 votes
+* [RAII style guard with Rust gives invalid lifetime errors](https://stackoverflow.com/questions/76891504/raii-style-guard-with-rust-gives-invalid-lifetime-errors) - 1 votes
+* [stdoutflush doesn39t render prompt](https://stackoverflow.com/questions/76891478/stdout-flush-doesnt-render-prompt) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to validate access token from AzureAD in python](https://stackoverflow.com/questions/76886257/how-to-validate-access-token-from-azuread-in-python) - 1 votes
+* [python runtime mismatch when trying to deploy a fastAPI app to vercel](https://stackoverflow.com/questions/76893012/python-runtime-mismatch-when-trying-to-deploy-a-fastapi-app-to-vercel) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Elementwise multiplication of dataframes in Python](https://stackoverflow.com/questions/76887165/elementwise-multiplication-of-dataframes-in-python) - 3 votes
-* [Drop_duplicates in a dataframe and keep the one with a specific column value](https://stackoverflow.com/questions/76882047/drop-duplicates-in-a-dataframe-and-keep-the-one-with-a-specific-column-value) - 3 votes
-* [Pythonic way to update a column of a Polars data frame based on matching condition from another column](https://stackoverflow.com/questions/76883258/pythonic-way-to-update-a-column-of-a-polars-data-frame-based-on-matching-conditi) - 2 votes
-* [Is there any way to view dataframe in Excel without save](https://stackoverflow.com/questions/76880755/is-there-any-way-to-view-dataframe-in-excel-without-save) - 1 votes
-* [Splitting contents of column to other columns based on nonnumeric identifier](https://stackoverflow.com/questions/76885614/splitting-contents-of-column-to-other-columns-based-on-non-numeric-identifier) - 1 votes
+* [How do I create a new dataframe based on row values of multiple columns in python](https://stackoverflow.com/questions/76891209/how-do-i-create-a-new-dataframe-based-on-row-values-of-multiple-columns-in-pytho) - 2 votes
+* [Preventing transposition of Series from idxmax](https://stackoverflow.com/questions/76893067/preventing-transposition-of-series-from-idxmax) - 2 votes
+* [How can I download DataFrame in the Fllask app by click on the button](https://stackoverflow.com/questions/76893411/how-can-i-download-dataframe-in-the-fllask-app-by-click-on-the-button) - 1 votes
+* [Scraping Reddit with Python](https://stackoverflow.com/questions/76888972/scraping-reddit-with-python) - 1 votes
+* [Gropuby agg says ValueError Must produce aggregated value](https://stackoverflow.com/questions/76894060/gropuby-agg-says-valueerror-must-produce-aggregated-value) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
