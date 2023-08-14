@@ -1,17 +1,16 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-08-13<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-08-14<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Extracting raw pointer to a trait function](https://stackoverflow.com/questions/76889300/extracting-raw-pointer-to-a-trait-function) - 1 votes
-* [Why does rust require explicit lifetimes for mutable references but not regular reference](https://stackoverflow.com/questions/76889988/why-does-rust-require-explicit-lifetimes-for-mutable-references-but-not-regular) - 1 votes
-* [HashMap with multiple keys](https://stackoverflow.com/questions/76887380/hashmap-with-multiple-keys) - 1 votes
-* [RAII style guard with Rust gives invalid lifetime errors](https://stackoverflow.com/questions/76891504/raii-style-guard-with-rust-gives-invalid-lifetime-errors) - 1 votes
-* [stdoutflush doesn39t render prompt](https://stackoverflow.com/questions/76891478/stdout-flush-doesnt-render-prompt) - 1 votes
+* [Tell the compiler that a generic return type doesn39t borrow any references to arguments](https://stackoverflow.com/questions/76895814/tell-the-compiler-that-a-generic-return-type-doesnt-borrow-any-references-to-ar) - 4 votes
+* [In Rust is it possible to define an object safe trait that requires a constructor function of the implementing type](https://stackoverflow.com/questions/76895234/in-rust-is-it-possible-to-define-an-object-safe-trait-that-requires-a-construct) - 1 votes
+* [How can I write a generic method in Rust that can accept any value that can be converted into another](https://stackoverflow.com/questions/76897116/how-can-i-write-a-generic-method-in-rust-that-can-accept-any-value-that-can-be-c) - 1 votes
+* [Static reference in Rust](https://stackoverflow.com/questions/76893661/static-reference-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -25,11 +24,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 
 ### pandas
 <!-- pandas starts -->
-* [How do I create a new dataframe based on row values of multiple columns in python](https://stackoverflow.com/questions/76891209/how-do-i-create-a-new-dataframe-based-on-row-values-of-multiple-columns-in-pytho) - 2 votes
+* [How to create a histogram with points rather than bars](https://stackoverflow.com/questions/76894982/how-to-create-a-histogram-with-points-rather-than-bars) - 2 votes
 * [Preventing transposition of Series from idxmax](https://stackoverflow.com/questions/76893067/preventing-transposition-of-series-from-idxmax) - 2 votes
-* [How can I download DataFrame in the Fllask app by click on the button](https://stackoverflow.com/questions/76893411/how-can-i-download-dataframe-in-the-fllask-app-by-click-on-the-button) - 1 votes
-* [Scraping Reddit with Python](https://stackoverflow.com/questions/76888972/scraping-reddit-with-python) - 1 votes
-* [Gropuby agg says ValueError Must produce aggregated value](https://stackoverflow.com/questions/76894060/gropuby-agg-says-valueerror-must-produce-aggregated-value) - 1 votes
+* [Rearrange columns of a pandas dataframe in a specific way](https://stackoverflow.com/questions/76900906/rearrange-columns-of-a-pandas-dataframe-in-a-specific-way) - 1 votes
+* [Removing outliers and calculating a trimmed mean in Python for multiple columns with different number of actual values](https://stackoverflow.com/questions/76899175/removing-outliers-and-calculating-a-trimmed-mean-in-python-for-multiple-columns) - 1 votes
+* [Groupby  Summarize dataframe for every column except one column in pandas](https://stackoverflow.com/questions/76899099/groupby-summarize-dataframe-for-every-column-except-one-column-in-pandas) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
