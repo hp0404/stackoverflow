@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-08-18<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-08-19<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to force the return type of a match to ](https://stackoverflow.com/questions/76921767/how-to-force-the-return-type-of-a-match-to) - 4 votes
 * [In Rust why does size_of_val for a 10 character string return 24 bytes](https://stackoverflow.com/questions/76929841/in-rust-why-does-size-of-val-for-a-10-character-string-return-24-bytes) - 2 votes
-* [rust enums in primitive representations](https://stackoverflow.com/questions/76921504/rust-enums-in-primitive-representations) - 1 votes
+* [Is Tlt39agt 39b syntactic sugar for 39a 39b](https://stackoverflow.com/questions/76935551/is-ta-b-syntactic-sugar-for-a-b) - 2 votes
 * [UnsafeCell How does it inform rustc to opt out of alias based optimizations](https://stackoverflow.com/questions/76928931/unsafecell-how-does-it-inform-rustc-to-opt-out-of-alias-based-optimizations) - 1 votes
 * [Rust to Python custom type covertion with pyo3](https://stackoverflow.com/questions/76927930/rust-to-python-custom-type-covertion-with-pyo3) - 1 votes
+* [Unit testing a Rust fallible function extensively](https://stackoverflow.com/questions/76927897/unit-testing-a-rust-fallible-function-extensively) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -20,18 +20,17 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 <!-- fastapi starts -->
 * [How can I get Json dataset on a live ravendb server using fastapi](https://stackoverflow.com/questions/76926250/how-can-i-get-json-dataset-on-a-live-ravendb-server-using-fast-api) - 2 votes
 * [How can I pass a parameter list to FastAPI using request](https://stackoverflow.com/questions/76927626/how-can-i-pass-a-parameter-list-to-fastapi-using-request) - 1 votes
-* [Integrate Keycloak with FastAPI](https://stackoverflow.com/questions/76921747/integrate-keycloak-with-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Binning based on percentage missing data](https://stackoverflow.com/questions/76921117/binning-based-on-percentage-missing-data) - 2 votes
-* [Using Pandas to resample and combine data series with different timestamp indices](https://stackoverflow.com/questions/76923186/using-pandas-to-resample-and-combine-data-series-with-different-timestamp-indice) - 2 votes
-* [How to merge separated dictionnaries in order to make a single DataFrame](https://stackoverflow.com/questions/76929792/how-to-merge-separated-dictionnaries-in-order-to-make-a-single-dataframe) - 1 votes
-* [Squeeze rows containing missing values in multiindex dataframe](https://stackoverflow.com/questions/76928719/squeeze-rows-containing-missing-values-in-multi-index-dataframe) - 1 votes
-* [Is there any function or way to merge multiple row data into one row using Pandas](https://stackoverflow.com/questions/76928332/is-there-any-function-or-way-to-merge-multiple-row-data-into-one-row-using-panda) - 1 votes
+* [extract information from a dataframe in Python](https://stackoverflow.com/questions/76933624/extract-information-from-a-dataframe-in-python) - 5 votes
+* [Assign column value if index contains substring that matches the index of another dataframe](https://stackoverflow.com/questions/76933329/assign-column-value-if-index-contains-substring-that-matches-the-index-of-anothe) - 3 votes
+* [Why are these hashes of the same values different between different Pandas DataFrames](https://stackoverflow.com/questions/76936567/why-are-these-hashes-of-the-same-values-different-between-different-pandas-dataf) - 2 votes
+* [Comparing and Sorting Values in Two Columns of a DataFrame and sort in the same row in python](https://stackoverflow.com/questions/76935826/comparing-and-sorting-values-in-two-columns-of-a-dataframe-and-sort-in-the-same) - 2 votes
+* [How to add a new column in pandas data frame which calculates the average of top 5 values of each row for multiple rows](https://stackoverflow.com/questions/76933602/how-to-add-a-new-column-in-pandas-data-frame-which-calculates-the-average-of-top) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
