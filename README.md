@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-08-20<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-08-21<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,28 +8,28 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### rust
 <!-- rust starts -->
 * [Borrowed value does not live long enough unsure why it39s still borrowed](https://stackoverflow.com/questions/76937959/borrowed-value-does-not-live-long-enough-unsure-why-its-still-borrowed) - 3 votes
-* [Is Tlt39agt 39b syntactic sugar for 39a 39b](https://stackoverflow.com/questions/76935551/is-ta-b-syntactic-sugar-for-a-b) - 2 votes
-* [In Rust can you have an immutable vector of mutable vectors](https://stackoverflow.com/questions/76937059/in-rust-can-you-have-an-immutable-vector-of-mutable-vectors) - 1 votes
-* [Tracing how to filter logs under specified levels for Layer](https://stackoverflow.com/questions/76939805/tracing-how-to-filter-logs-under-specified-levels-for-layer) - 1 votes
-* [IntelliJ automatically adds Z unstableoptions when Rust tests are run](https://stackoverflow.com/questions/76936606/intellij-automatically-adds-z-unstable-options-when-rust-tests-are-run) - 1 votes
+* [Trying to implement a threadsafe cache](https://stackoverflow.com/questions/76941278/trying-to-implement-a-thread-safe-cache) - 3 votes
+* [Rust remove one instance of a value from a BinaryHeap](https://stackoverflow.com/questions/76946439/rust-remove-one-instance-of-a-value-from-a-binaryheap) - 2 votes
+* [Why does rust create an f32 smaller then f32MIN_POSITIVE](https://stackoverflow.com/questions/76944892/why-does-rust-create-an-f32-smaller-then-f32min-positive) - 1 votes
+* [Is it possible to keep thread context in async await in rust](https://stackoverflow.com/questions/76947326/is-it-possible-to-keep-thread-context-in-async-await-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to implement seek functionality on videos with fastapi](https://stackoverflow.com/questions/76936291/how-to-implement-seek-functionality-on-videos-with-fastapi) - 1 votes
+* [Specify timestamp column type in the creation of a table using SQLAlchemy and Mapped](https://stackoverflow.com/questions/76942961/specify-timestamp-column-type-in-the-creation-of-a-table-using-sqlalchemy-and-ma) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [extract information from a dataframe in Python](https://stackoverflow.com/questions/76933624/extract-information-from-a-dataframe-in-python) - 3 votes
-* [Adding an arbitrary number of pandas dataframe](https://stackoverflow.com/questions/76937344/adding-an-arbitrary-number-of-pandas-dataframe) - 3 votes
-* [Assign column value if index contains substring that matches the index of another dataframe](https://stackoverflow.com/questions/76933329/assign-column-value-if-index-contains-substring-that-matches-the-index-of-anothe) - 3 votes
-* [Why are these hashes of the same values different between different Pandas DataFrames](https://stackoverflow.com/questions/76936567/why-are-these-hashes-of-the-same-values-different-between-different-pandas-dataf) - 2 votes
+* [How can I quickly sum over a Pandas groupby object while handling NaNs](https://stackoverflow.com/questions/76947564/how-can-i-quickly-sum-over-a-pandas-groupby-object-while-handling-nans) - 2 votes
+* [Reading a komoot xml file gpx with pandas](https://stackoverflow.com/questions/76943502/reading-a-komoot-xml-file-gpx-with-pandas) - 2 votes
 * [Comparing and Sorting Values Between Columns in Python with quotNot Matchedquot Column](https://stackoverflow.com/questions/76939838/comparing-and-sorting-values-between-columns-in-python-with-not-matched-colum) - 2 votes
+* [Empty Plot in Python Matplotlib dont know why](https://stackoverflow.com/questions/76937741/empty-plot-in-python-matplotlib-dont-know-why) - 2 votes
+* [How to calculate percentage change within a group and across a group](https://stackoverflow.com/questions/76947787/how-to-calculate-percentage-change-within-a-group-and-across-a-group) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
