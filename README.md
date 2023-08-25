@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-08-24<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-08-25<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Rust how to copy the inner value out from RcltRefCellltTgtgt and return it](https://stackoverflow.com/questions/76969709/rust-how-to-copy-the-inner-value-out-from-rcrefcellt-and-return-it) - 5 votes
-* [Random function does not return random values](https://stackoverflow.com/questions/76959392/random-function-does-not-return-random-values) - 4 votes
-* [Can I destructure a self param](https://stackoverflow.com/questions/76957676/can-i-destructure-a-self-param) - 3 votes
-* [Dealing with tsproto and prost inconsistencies when serializing empty numeric arrays](https://stackoverflow.com/questions/76962089/dealing-with-ts-proto-and-prost-inconsistencies-when-serializing-empty-numeric-a) - 3 votes
-* [Find values in a matrix in Rust](https://stackoverflow.com/questions/76960664/find-values-in-a-matrix-in-rust) - 3 votes
+* [Rust how to copy the inner value out from RcltRefCellltTgtgt and return it](https://stackoverflow.com/questions/76969709/rust-how-to-copy-the-inner-value-out-from-rcrefcellt-and-return-it) - 7 votes
+* [Rust Why not IntoltStringgt for ampstr](https://stackoverflow.com/questions/76978666/rust-why-not-intostring-for-str) - 2 votes
+* [Creating a new object does not equal quotmoving out the valuequot  where am I wrong](https://stackoverflow.com/questions/76976947/creating-a-new-object-does-not-equal-moving-out-the-value-where-am-i-wrong) - 1 votes
+* [How to check screen locked in Rust](https://stackoverflow.com/questions/76975551/how-to-check-screen-locked-in-rust) - 1 votes
+* [how to get the state of a grouped gtkCheckButton using Action](https://stackoverflow.com/questions/76969166/how-to-get-the-state-of-a-grouped-gtk-checkbutton-using-action) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -19,6 +19,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### fastapi
 <!-- fastapi starts -->
 * [How to get Files using the Request object in FastAPI](https://stackoverflow.com/questions/76970173/how-to-get-files-using-the-request-object-in-fastapi) - 1 votes
+* [How can I write a test that involves sending files](https://stackoverflow.com/questions/76978086/how-can-i-write-a-test-that-involves-sending-files) - 1 votes
 * [How to get multiple dictionary or JSON as an input in FastAPI](https://stackoverflow.com/questions/76970871/how-to-get-multiple-dictionary-or-json-as-an-input-in-fastapi) - 1 votes
 * [pyinstaller sqlalchemyexcOperationalError sqlite3OperationalError unable to open database file](https://stackoverflow.com/questions/76968480/pyinstaller-sqlalchemy-exc-operationalerror-sqlite3-operationalerror-unable) - 1 votes
 <!-- fastapi ends -->
@@ -27,9 +28,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 
 ### pandas
 <!-- pandas starts -->
-* [Save a txt file with double tab as separator](https://stackoverflow.com/questions/76957766/save-a-txt-file-with-double-tab-as-separator) - 3 votes
-* [Creating dict groupby from Dataframe with node structure](https://stackoverflow.com/questions/76963698/creating-dict-groupby-from-dataframe-with-node-structure) - 3 votes
+* [Pandas filter dataframe by column of sets using multiple conditions regarding substrings](https://stackoverflow.com/questions/76979303/pandas-filter-dataframe-by-column-of-sets-using-multiple-conditions-regarding-s) - 3 votes
 * [chaining functions with pipe pipe using not the first argument](https://stackoverflow.com/questions/76966431/chaining-functions-with-pipe-pipe-using-not-the-first-argument) - 2 votes
+* [How to filter pandas dataframe so that the first and last rows within a group are retained](https://stackoverflow.com/questions/76980131/how-to-filter-pandas-dataframe-so-that-the-first-and-last-rows-within-a-group-ar) - 2 votes
 * [Expand a nested list in a Pandas datatable column and move to their own column](https://stackoverflow.com/questions/76972113/expand-a-nested-list-in-a-pandas-datatable-column-and-move-to-their-own-column) - 2 votes
 * [Extracting numeric values](https://stackoverflow.com/questions/76967949/extracting-numeric-values) - 2 votes
 <!-- pandas ends -->
