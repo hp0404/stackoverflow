@@ -1,35 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-08-26<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-08-27<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [How to place an array of structs at the end of another struct without memory segmentation](https://stackoverflow.com/questions/76985323/how-to-place-an-array-of-structs-at-the-end-of-another-struct-without-memory-seg) - 3 votes
+* [reprC of Rust zero sized struct](https://stackoverflow.com/questions/76985982/reprc-of-rust-zero-sized-struct) - 3 votes
+* [why does allocate use u8 while deallocate uses u8 in Allocator API](https://stackoverflow.com/questions/76988126/why-does-allocate-use-u8-while-deallocate-uses-u8-in-allocator-api) - 3 votes
+* [Why Doesn39t pubcrate Visibility Affect Rust39s Orphan Rule](https://stackoverflow.com/questions/76985024/why-doesnt-pubcrate-visibility-affect-rusts-orphan-rule) - 3 votes
 * [Unable to implement trait for associated type](https://stackoverflow.com/questions/76981978/unable-to-implement-trait-for-associated-type) - 3 votes
-* [Rust Why not IntoltStringgt for ampstr](https://stackoverflow.com/questions/76978666/rust-why-not-intostring-for-str) - 2 votes
-* [Require that type parameter have specific size](https://stackoverflow.com/questions/76980861/require-that-type-parameter-have-specific-size) - 2 votes
-* [What is the issue in this unsafe Rust code so it works on Windows but not on the Ubuntu](https://stackoverflow.com/questions/76979096/what-is-the-issue-in-this-unsafe-rust-code-so-it-works-on-windows-but-not-on-th) - 1 votes
-* [Creating a new object does not equal quotmoving out the valuequot  where am I wrong](https://stackoverflow.com/questions/76976947/creating-a-new-object-does-not-equal-moving-out-the-value-where-am-i-wrong) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How can I write a test that involves sending files](https://stackoverflow.com/questions/76978086/how-can-i-write-a-test-that-involves-sending-files) - 1 votes
+* [Why doesn39t SQLAlchemy39s fetchall method return attributes associated with table fields](https://stackoverflow.com/questions/76986747/why-doesnt-sqlalchemys-fetchall-method-return-attributes-associated-with-tab) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas filter dataframe by column of sets using multiple conditions regarding substrings](https://stackoverflow.com/questions/76979303/pandas-filter-dataframe-by-column-of-sets-using-multiple-conditions-regarding-s) - 3 votes
-* [How to filter pandas dataframe so that the first and last rows within a group are retained](https://stackoverflow.com/questions/76980131/how-to-filter-pandas-dataframe-so-that-the-first-and-last-rows-within-a-group-ar) - 2 votes
-* [Create multiple conditional columns from a source list](https://stackoverflow.com/questions/76979580/create-multiple-conditional-columns-from-a-source-list) - 2 votes
+* [Replace subset of boolean Series with another Series](https://stackoverflow.com/questions/76985989/replace-subset-of-boolean-series-with-another-series) - 2 votes
+* [Select rows between two DatetimeIndex that are part of a MultiIndex](https://stackoverflow.com/questions/76985701/select-rows-between-two-datetimeindex-that-are-part-of-a-multiindex) - 2 votes
 * [How to convert string tuple into float colums in Pandas](https://stackoverflow.com/questions/76983302/how-to-convert-string-tuple-into-float-colums-in-pandas) - 2 votes
 * [Extract column name row wise which contains a specific value pandas](https://stackoverflow.com/questions/76982568/extract-column-name-row-wise-which-contains-a-specific-value-pandas) - 1 votes
+* [how to apply ffill groupby and conditionally on pandas](https://stackoverflow.com/questions/76986042/how-to-apply-ffill-groupby-and-conditionally-on-pandas) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
