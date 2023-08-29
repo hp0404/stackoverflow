@@ -1,24 +1,23 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-08-28<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-08-29<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to place an array of structs at the end of another struct without memory segmentation](https://stackoverflow.com/questions/76985323/how-to-place-an-array-of-structs-at-the-end-of-another-struct-without-memory-seg) - 3 votes
-* [reprC of Rust zero sized struct](https://stackoverflow.com/questions/76985982/reprc-of-rust-zero-sized-struct) - 3 votes
-* [why does allocate use u8 while deallocate uses u8 in Allocator API](https://stackoverflow.com/questions/76988126/why-does-allocate-use-u8-while-deallocate-uses-u8-in-allocator-api) - 3 votes
+* [Why would an object implementing a trait expect a longer lifetime than a concrete object](https://stackoverflow.com/questions/76996381/why-would-an-object-implementing-a-trait-expect-a-longer-lifetime-than-a-concret) - 2 votes
 * [Const context Create array with const generic length from init function](https://stackoverflow.com/questions/76991121/const-context-create-array-with-const-generic-length-from-init-function) - 2 votes
 * [How to unit test two implementations of a trait](https://stackoverflow.com/questions/76991104/how-to-unit-test-two-implementations-of-a-trait) - 2 votes
+* [How to call a closure from a macro](https://stackoverflow.com/questions/76989679/how-to-call-a-closure-from-a-macro) - 1 votes
+* [Why does trait resolution fail in this case](https://stackoverflow.com/questions/76996105/why-does-trait-resolution-fail-in-this-case) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Why doesn39t SQLAlchemy39s fetchall method return attributes associated with table fields](https://stackoverflow.com/questions/76986747/why-doesnt-sqlalchemys-fetchall-method-return-attributes-associated-with-tab) - 1 votes
 * [Why is my Svelte web application using a previous version that I have deleted from App Engine](https://stackoverflow.com/questions/76995044/why-is-my-svelte-web-application-using-a-previous-version-that-i-have-deleted-fr) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
@@ -26,11 +25,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 
 ### pandas
 <!-- pandas starts -->
-* [Change column value depending on how many times value appears in other column](https://stackoverflow.com/questions/76989170/change-column-value-depending-on-how-many-times-value-appears-in-other-column) - 2 votes
-* [Replace subset of boolean Series with another Series](https://stackoverflow.com/questions/76985989/replace-subset-of-boolean-series-with-another-series) - 2 votes
-* [Select rows between two DatetimeIndex that are part of a MultiIndex](https://stackoverflow.com/questions/76985701/select-rows-between-two-datetimeindex-that-are-part-of-a-multiindex) - 2 votes
+* [Why is cherry matched and not matched](https://stackoverflow.com/questions/76998129/why-is-cherry-matched-and-not-matched) - 2 votes
+* [moving data in a pandas dataframe after a certain fixed column over to the next set of rows repeatedly](https://stackoverflow.com/questions/76996354/moving-data-in-a-pandas-dataframe-after-a-certain-fixed-column-over-to-the-next) - 2 votes
 * [Pandas describe for datetime column](https://stackoverflow.com/questions/76992453/pandas-describe-for-datetime-column) - 2 votes
-* [Filtering Dataframe inside a loop does not produce the correct result](https://stackoverflow.com/questions/76990646/filtering-dataframe-inside-a-loop-does-not-produce-the-correct-result) - 2 votes
+* [dfreplace in pandas 203 throws ValueError error in comparison to pandas 022](https://stackoverflow.com/questions/76999467/df-replace-in-pandas-2-0-3-throws-valueerror-error-in-comparison-to-pandas-0-2) - 2 votes
+* [Why does Pandas MultiIndex slice require a column placeholder when selecting all values of the first index level](https://stackoverflow.com/questions/76995416/why-does-pandas-multiindex-slice-require-a-column-placeholder-when-selecting-all) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
