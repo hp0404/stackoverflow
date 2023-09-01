@@ -1,36 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-08-31<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-09-01<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Does amp39a T imply T 39a](https://stackoverflow.com/questions/77025320/does-a-t-imply-t-a) - 3 votes
 * [unconstrained type parameter when implementing trait for a function](https://stackoverflow.com/questions/77017148/unconstrained-type-parameter-when-implementing-trait-for-a-function) - 3 votes
-* [Why is my condition never met in Rust code](https://stackoverflow.com/questions/77010557/why-is-my-condition-never-met-in-rust-code) - 1 votes
-* [Use traits to invert dependencies](https://stackoverflow.com/questions/77008461/use-traits-to-invert-dependencies) - 1 votes
+* [Why tokiomain can be used directly without any import](https://stackoverflow.com/questions/77020210/why-tokiomain-can-be-used-directly-without-any-import) - 2 votes
+* [Deserialize into a generic type with serdefrom_value](https://stackoverflow.com/questions/77021782/deserialize-into-a-generic-type-with-serdefrom-value) - 1 votes
 * [Borrowing in Rust](https://stackoverflow.com/questions/77016217/borrowing-in-rust) - 1 votes
-* [How to pass object between modules properly](https://stackoverflow.com/questions/77007565/how-to-pass-object-between-modules-properly) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to set cookies on Jinja2 TemplateResponse in FastAPI](https://stackoverflow.com/questions/77008824/how-to-set-cookies-on-jinja2-templateresponse-in-fastapi) - 1 votes
-* [FastAPI process integers](https://stackoverflow.com/questions/77006884/fastapi-process-integers) - 1 votes
+* [Logging in fastapi This event loop is already running](https://stackoverflow.com/questions/77016193/logging-in-fastapi-this-event-loop-is-already-running) - 1 votes
+* [How to properly mock functions inside FastAPI endpoint handler](https://stackoverflow.com/questions/77024252/how-to-properly-mock-functions-inside-fastapi-endpoint-handler) - 1 votes
+* [How to make the elements of the pydantic schema connected](https://stackoverflow.com/questions/77021901/how-to-make-the-elements-of-the-pydantic-schema-connected) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [What datatype is considered 39listlike39 in Python](https://stackoverflow.com/questions/77004957/what-datatype-is-considered-list-like-in-python) - 4 votes
+* [How to flat a Series list of dictionaries in Dataframe](https://stackoverflow.com/questions/77019152/how-to-flat-a-series-list-of-dictionaries-in-dataframe) - 2 votes
 * [Optimized way to find index pairs of two values in a pandas column](https://stackoverflow.com/questions/77017290/optimized-way-to-find-index-pairs-of-two-values-in-a-pandas-column) - 2 votes
 * [Add a numpy array with one value less to a pandas column](https://stackoverflow.com/questions/77016724/add-a-numpy-array-with-one-value-less-to-a-pandas-column) - 2 votes
 * [Use column names of one df to map values into rows of another df](https://stackoverflow.com/questions/77018742/use-column-names-of-one-df-to-map-values-into-rows-of-another-df) - 2 votes
-* [Efficiently finding values in pandas dataframe filtering by different columns](https://stackoverflow.com/questions/77008355/efficiently-finding-values-in-pandas-dataframe-filtering-by-different-columns) - 1 votes
+* [How to normalize nested fields with json_normalizer](https://stackoverflow.com/questions/77018494/how-to-normalize-nested-fields-with-json-normalizer) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
