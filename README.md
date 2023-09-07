@@ -1,35 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-09-06<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-09-07<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Ensure an argument is a compile time defined string literal](https://stackoverflow.com/questions/77045093/ensure-an-argument-is-a-compile-time-defined-string-literal) - 3 votes
-* [What is the purpose of a type lifetime bound](https://stackoverflow.com/questions/77048048/what-is-the-purpose-of-a-type-lifetime-bound) - 3 votes
-* [24bit Custom Target](https://stackoverflow.com/questions/77041372/24-bit-custom-target) - 2 votes
+* [Rust proc_macro and syn parse whitespace](https://stackoverflow.com/questions/77061395/rust-proc-macro-and-syn-parse-whitespace) - 3 votes
+* [Sorting 2 related arrays](https://stackoverflow.com/questions/77057540/sorting-2-related-arrays) - 2 votes
+* [Cargotoml how to conditionally enable a dependency feature](https://stackoverflow.com/questions/77057406/cargo-toml-how-to-conditionally-enable-a-dependency-feature) - 2 votes
 * [Python byte array equivalent in Rust](https://stackoverflow.com/questions/77054481/python-byte-array-equivalent-in-rust) - 1 votes
-* [Managed multiple connections pools in rust](https://stackoverflow.com/questions/77046779/managed-multiple-connections-pools-in-rust) - 1 votes
+* [How to indicate to rust to move a value to another scope](https://stackoverflow.com/questions/77059044/how-to-indicate-to-rust-to-move-a-value-to-another-scope) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to Use Docker39s Redis Server instead of local redis server](https://stackoverflow.com/questions/77044449/how-to-use-dockers-redis-server-instead-of-local-redis-server) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Filter a Pandas dataframe if cell values exist in another dataframe but with a range](https://stackoverflow.com/questions/77045763/filter-a-pandas-dataframe-if-cell-values-exist-in-another-dataframe-but-with-a-r) - 2 votes
-* [Pandas Fill the table between start date and event date](https://stackoverflow.com/questions/77044544/pandas-fill-the-table-between-start-date-and-event-date) - 2 votes
-* [Best Approach to Split Explode and Tidy Data Using Regex in Python and Pandas](https://stackoverflow.com/questions/77041143/best-approach-to-split-explode-and-tidy-data-using-regex-in-python-and-pandas) - 2 votes
-* [Convert dataframe of dictionary entries to dataframe of all entries based on existing dictionary](https://stackoverflow.com/questions/77051578/convert-dataframe-of-dictionary-entries-to-dataframe-of-all-entries-based-on-exi) - 2 votes
-* [Python extract words surround a word from another column](https://stackoverflow.com/questions/77051212/python-extract-words-surround-a-word-from-another-column) - 2 votes
+* [How to add non grouped column to the output of Pandas groupby](https://stackoverflow.com/questions/77055702/how-to-add-non-grouped-column-to-the-output-of-pandas-groupby) - 2 votes
+* [split up column value into empty column values in a dataframe](https://stackoverflow.com/questions/77059419/split-up-column-value-into-empty-column-values-in-a-dataframe) - 2 votes
+* [how to make long format using one column has a list of items in pandas python](https://stackoverflow.com/questions/77061417/how-to-make-long-format-using-one-column-has-a-list-of-items-in-pandas-python) - 2 votes
+* [How to get the max count of groups using Pandas groupby using alphabetical order to break any ties](https://stackoverflow.com/questions/77056099/how-to-get-the-max-count-of-groups-using-pandas-groupby-using-alphabetical-orde) - 2 votes
+* [how do you modify styled data frame in Pandas](https://stackoverflow.com/questions/77056341/how-do-you-modify-styled-data-frame-in-pandas) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
