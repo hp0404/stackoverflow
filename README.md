@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-09-12<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-09-13<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,9 +8,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### rust
 <!-- rust starts -->
 * [Confusion about type conversion when propagate error with question mark in Rust](https://stackoverflow.com/questions/77086944/confusion-about-type-conversion-when-propagate-error-with-question-mark-in-rust) - 3 votes
-* [Why do I need of reference for the to_string function](https://stackoverflow.com/questions/77082738/why-do-i-need-of-reference-for-the-to-string-function) - 2 votes
+* [How do I get Rust to respect memory volatility across OS interrupts](https://stackoverflow.com/questions/77092599/how-do-i-get-rust-to-respect-memory-volatility-across-os-interrupts) - 3 votes
 * [What is the difference between Closurenew and Closurewrap in Rust wasm](https://stackoverflow.com/questions/77086919/what-is-the-difference-between-closurenew-and-closurewrap-in-rust-wasm) - 2 votes
-* [How to build a crate to a different target with the cargo crate](https://stackoverflow.com/questions/77078529/how-to-build-a-crate-to-a-different-target-with-the-cargo-crate) - 2 votes
+* [Match arms have incompatible types when handling an Err with a panic](https://stackoverflow.com/questions/77096249/match-arms-have-incompatible-types-when-handling-an-err-with-a-panic) - 1 votes
 * [How does yielding from synchronous code via exceptions work](https://stackoverflow.com/questions/77089690/how-does-yielding-from-synchronous-code-via-exceptions-work) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -18,8 +18,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI  multiple examples for Body in Response](https://stackoverflow.com/questions/77081746/fastapi-multiple-examples-for-body-in-response) - 2 votes
-* [Python unittests do not immediately run](https://stackoverflow.com/questions/77084660/python-unittests-do-not-immediately-run) - 1 votes
+* [FastAPI pydantic data validation for put method if body only contains the updated data](https://stackoverflow.com/questions/77095776/fastapi-pydantic-data-validation-for-put-method-if-body-only-contains-the-update) - 1 votes
+* [Calling an API works on the computer but does not work on tablets or smartphones](https://stackoverflow.com/questions/77099169/calling-an-api-works-on-the-computer-but-does-not-work-on-tablets-or-smartphone) - 1 votes
+* [How to use default values for empty parameters in FastAPI](https://stackoverflow.com/questions/77097432/how-to-use-default-values-for-empty-parameters-in-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -27,10 +28,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### pandas
 <!-- pandas starts -->
 * [Python How to groupby one column and then calculate a trailing mean and cumulative count where current start date is after prior end date](https://stackoverflow.com/questions/77085731/python-how-to-groupby-one-column-and-then-calculate-a-trailing-mean-and-cumulat) - 3 votes
+* [Pandas how to concatenate multiple series within the same internal loop](https://stackoverflow.com/questions/77093787/pandas-how-to-concatenate-multiple-series-within-the-same-internal-loop) - 2 votes
 * [Removing unwanted values from a Pandas data frame](https://stackoverflow.com/questions/77088341/removing-unwanted-values-from-a-pandas-data-frame) - 2 votes
-* [Vectorizing an apply function in pandas](https://stackoverflow.com/questions/77082895/vectorizing-an-apply-function-in-pandas) - 2 votes
-* [Is there a faster way to reindex grouped dataframes in pandas groupby](https://stackoverflow.com/questions/77082025/is-there-a-faster-way-to-reindex-grouped-dataframes-in-pandas-groupby) - 2 votes
-* [how to upgrade to pandas 20 in anaconda](https://stackoverflow.com/questions/77079039/how-to-upgrade-to-pandas-2-0-in-anaconda) - 2 votes
+* [Pandas DF column headers not aligned with columns](https://stackoverflow.com/questions/77095741/pandas-df-column-headers-not-aligned-with-columns) - 2 votes
+* [add new rate column base previous column](https://stackoverflow.com/questions/77090701/add-new-rate-column-base-previous-column) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
