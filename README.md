@@ -1,17 +1,14 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-09-13<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-09-14<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Confusion about type conversion when propagate error with question mark in Rust](https://stackoverflow.com/questions/77086944/confusion-about-type-conversion-when-propagate-error-with-question-mark-in-rust) - 3 votes
-* [How do I get Rust to respect memory volatility across OS interrupts](https://stackoverflow.com/questions/77092599/how-do-i-get-rust-to-respect-memory-volatility-across-os-interrupts) - 3 votes
-* [What is the difference between Closurenew and Closurewrap in Rust wasm](https://stackoverflow.com/questions/77086919/what-is-the-difference-between-closurenew-and-closurewrap-in-rust-wasm) - 2 votes
+* [why do std collection iterators use raw pointer  PhantomData instead of normal ref](https://stackoverflow.com/questions/77100925/why-do-std-collection-iterators-use-raw-pointer-phantomdata-instead-of-normal) - 2 votes
 * [Match arms have incompatible types when handling an Err with a panic](https://stackoverflow.com/questions/77096249/match-arms-have-incompatible-types-when-handling-an-err-with-a-panic) - 1 votes
-* [How does yielding from synchronous code via exceptions work](https://stackoverflow.com/questions/77089690/how-does-yielding-from-synchronous-code-via-exceptions-work) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -27,11 +24,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 
 ### pandas
 <!-- pandas starts -->
-* [Python How to groupby one column and then calculate a trailing mean and cumulative count where current start date is after prior end date](https://stackoverflow.com/questions/77085731/python-how-to-groupby-one-column-and-then-calculate-a-trailing-mean-and-cumulat) - 3 votes
-* [Pandas how to concatenate multiple series within the same internal loop](https://stackoverflow.com/questions/77093787/pandas-how-to-concatenate-multiple-series-within-the-same-internal-loop) - 2 votes
-* [Removing unwanted values from a Pandas data frame](https://stackoverflow.com/questions/77088341/removing-unwanted-values-from-a-pandas-data-frame) - 2 votes
+* [Pandas how to flag rows between a start 1 and multiple ends 2 or 3](https://stackoverflow.com/questions/77093787/pandas-how-to-flag-rows-between-a-start-1-and-multiple-ends-2-or-3) - 3 votes
+* [pandas split string column on any character that is not an alphabet](https://stackoverflow.com/questions/77103376/pandas-split-string-column-on-any-character-that-is-not-an-alphabet) - 2 votes
 * [Pandas DF column headers not aligned with columns](https://stackoverflow.com/questions/77095741/pandas-df-column-headers-not-aligned-with-columns) - 2 votes
-* [add new rate column base previous column](https://stackoverflow.com/questions/77090701/add-new-rate-column-base-previous-column) - 2 votes
+* [Consolidate multiple records into one if all columns are the same and dates are consecutive](https://stackoverflow.com/questions/77107398/consolidate-multiple-records-into-one-if-all-columns-are-the-same-and-dates-are) - 2 votes
+* [Convert nested dictionary data in a column into new rows and new columns](https://stackoverflow.com/questions/77093762/convert-nested-dictionary-data-in-a-column-into-new-rows-and-new-columns) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
