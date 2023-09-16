@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-09-15<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-09-16<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Any way to avoid wrappers when implementing third party traits for third party structs](https://stackoverflow.com/questions/77111430/any-way-to-avoid-wrappers-when-implementing-third-party-traits-for-third-party-s) - 1 votes
+* [Why is Deref not implemented on CellltTgt](https://stackoverflow.com/questions/77116392/why-is-deref-not-implemented-on-cellt) - 4 votes
 * [How can I poll a PinltOptionltBoxltdyn Futuregtgt](https://stackoverflow.com/questions/77113869/how-can-i-poll-a-pinoptionboxdyn-future) - 1 votes
+* [Any way to avoid wrappers when implementing third party traits for third party structs](https://stackoverflow.com/questions/77111430/any-way-to-avoid-wrappers-when-implementing-third-party-traits-for-third-party-s) - 1 votes
+* [How do you iterate over continuous subsequences of a slice that contain equal elements](https://stackoverflow.com/questions/77116068/how-do-you-iterate-over-continuous-subsequences-of-a-slice-that-contain-equal-el) - 1 votes
 * [Rust quotuse of borrowedquot compilation error](https://stackoverflow.com/questions/77114502/rust-use-of-borrowed-compilation-error) - 1 votes
-* [Limit macro_rules literal to certain integers](https://stackoverflow.com/questions/77109650/limit-macro-rules-literal-to-certain-integers) - 1 votes
-* [How to get pixel color under cursor](https://stackoverflow.com/questions/77114493/how-to-get-pixel-color-under-cursor) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -25,11 +25,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 
 ### pandas
 <!-- pandas starts -->
-* [How to hide horizontal monotonic sequence of numbers](https://stackoverflow.com/questions/77111774/how-to-hide-horizontal-monotonic-sequence-of-numbers) - 3 votes
-* [Pandas 210 FutureWarning Series__getitem__ treating keys as positions is deprecated](https://stackoverflow.com/questions/77106980/pandas-2-1-0-futurewarning-series-getitem-treating-keys-as-positions-is-dep) - 3 votes
-* [pandas split string column on any character that is not an alphabet](https://stackoverflow.com/questions/77103376/pandas-split-string-column-on-any-character-that-is-not-an-alphabet) - 2 votes
-* [Consolidate multiple records into one if all columns are the same and dates are consecutive](https://stackoverflow.com/questions/77107398/consolidate-multiple-records-into-one-if-all-columns-are-the-same-and-dates-are) - 2 votes
-* [Remove unicode characters emojis carriage returns end lines from pandas dataframe](https://stackoverflow.com/questions/77106211/remove-unicode-characters-emojis-carriage-returns-end-lines-from-pandas-dataf) - 2 votes
+* [How to hide horizontal monotonic sequence of numbers](https://stackoverflow.com/questions/77111774/how-to-hide-horizontal-monotonic-sequence-of-numbers) - 2 votes
+* [Pandas DF Drop duplicates based on condition](https://stackoverflow.com/questions/77111607/pandas-df-drop-duplicates-based-on-condition) - 2 votes
+* [how to specify different types of DataFrames in python](https://stackoverflow.com/questions/77117272/how-to-specify-different-types-of-dataframes-in-python) - 1 votes
+* [copy a dataframe to new variable with method chaining](https://stackoverflow.com/questions/77115274/copy-a-dataframe-to-new-variable-with-method-chaining) - 1 votes
+* [How to avoid storing duplicate dataframe values in memory](https://stackoverflow.com/questions/77116528/how-to-avoid-storing-duplicate-dataframe-values-in-memory) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
