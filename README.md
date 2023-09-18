@@ -1,35 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-09-17<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-09-18<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why is Deref not implemented on CellltTgt](https://stackoverflow.com/questions/77116392/why-is-deref-not-implemented-on-cellt) - 4 votes
-* [How do you iterate over continuous subsequences of a slice that contain equal elements](https://stackoverflow.com/questions/77116068/how-do-you-iterate-over-continuous-subsequences-of-a-slice-that-contain-equal-el) - 2 votes
+* [How to mutate a variable passed by reference from C to Rust](https://stackoverflow.com/questions/77129917/how-to-mutate-a-variable-passed-by-reference-from-c-to-rust) - 2 votes
+* [How to preserve enum variant in match arm on matched experssion in Rust](https://stackoverflow.com/questions/77126097/how-to-preserve-enum-variant-in-match-arm-on-matched-experssion-in-rust) - 1 votes
+* [Specification of a trait to implement getting an id of a struct](https://stackoverflow.com/questions/77123396/specification-of-a-trait-to-implement-getting-an-id-of-a-struct) - 1 votes
 * [how to read serial data at a particular offset of u8 array](https://stackoverflow.com/questions/77121281/how-to-read-serial-data-at-a-particular-offset-of-u8-array) - 1 votes
-* [Rust Tokio to Django Channels 4 secwebsocketkey error](https://stackoverflow.com/questions/77116506/rust-tokio-to-django-channels-4-sec-websocket-key-error) - 1 votes
-* [vs code breaks cargo](https://stackoverflow.com/questions/77119925/vs-code-breaks-cargo) - 1 votes
+* [Changing ownership back and forth](https://stackoverflow.com/questions/77126559/changing-ownership-back-and-forth) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [FastAPI Automatically Roundsoff Decimal Values in Response](https://stackoverflow.com/questions/77124844/fastapi-automatically-rounds-off-decimal-values-in-response) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [how to specify different types of DataFrames in python](https://stackoverflow.com/questions/77117272/how-to-specify-different-types-of-dataframes-in-python) - 1 votes
+* [Converting a list to pandas dataframe where list contains dictionary](https://stackoverflow.com/questions/77130056/converting-a-list-to-pandas-dataframe-where-list-contains-dictionary) - 2 votes
+* [How to plot grouped bars overlaid with lines](https://stackoverflow.com/questions/77123568/how-to-plot-grouped-bars-overlaid-with-lines) - 2 votes
+* [Identify in a series the column with the maximum value for each row of a dataframe](https://stackoverflow.com/questions/77123707/identify-in-a-series-the-column-with-the-maximum-value-for-each-row-of-a-datafra) - 2 votes
+* [Calculating difference between two rows but different columns in Pandas](https://stackoverflow.com/questions/77124612/calculating-difference-between-two-rows-but-different-columns-in-pandas) - 1 votes
 * [Pandas Assign Lambda List Comprehension Question](https://stackoverflow.com/questions/77121063/pandas-assign-lambda-list-comprehension-question) - 1 votes
-* [Groupby 3 column values and find the 3rd column count in descending order and sum up the count values by ignoring the first count value in python](https://stackoverflow.com/questions/77119678/groupby-3-column-values-and-find-the-3rd-column-count-in-descending-order-and-su) - 1 votes
-* [How to avoid storing duplicate dataframe values in memory](https://stackoverflow.com/questions/77116528/how-to-avoid-storing-duplicate-dataframe-values-in-memory) - 1 votes
-* [SQL request in pandas](https://stackoverflow.com/questions/77123240/sql-request-in-pandas) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
