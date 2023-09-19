@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-09-18<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-09-19<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Why does vecVecwith_capacityn create 0 capacity for the subvectors](https://stackoverflow.com/questions/77136991/why-does-vecvecwith-capacityn-create-0-capacity-for-the-sub-vectors) - 4 votes
 * [How to mutate a variable passed by reference from C to Rust](https://stackoverflow.com/questions/77129917/how-to-mutate-a-variable-passed-by-reference-from-c-to-rust) - 2 votes
+* [Direct data transfer from memory mapped file file to network channel in Rust](https://stackoverflow.com/questions/77133482/direct-data-transfer-from-memory-mapped-file-file-to-network-channel-in-rust) - 2 votes
+* [expected an array with a fixed size of x elements found one with y elements](https://stackoverflow.com/questions/77131598/expected-an-array-with-a-fixed-size-of-x-elements-found-one-with-y-elements) - 1 votes
 * [How to preserve enum variant in match arm on matched experssion in Rust](https://stackoverflow.com/questions/77126097/how-to-preserve-enum-variant-in-match-arm-on-matched-experssion-in-rust) - 1 votes
-* [Specification of a trait to implement getting an id of a struct](https://stackoverflow.com/questions/77123396/specification-of-a-trait-to-implement-getting-an-id-of-a-struct) - 1 votes
-* [how to read serial data at a particular offset of u8 array](https://stackoverflow.com/questions/77121281/how-to-read-serial-data-at-a-particular-offset-of-u8-array) - 1 votes
-* [Changing ownership back and forth](https://stackoverflow.com/questions/77126559/changing-ownership-back-and-forth) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -19,6 +19,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### fastapi
 <!-- fastapi starts -->
 * [FastAPI Automatically Roundsoff Decimal Values in Response](https://stackoverflow.com/questions/77124844/fastapi-automatically-rounds-off-decimal-values-in-response) - 1 votes
+* [FastAPI pydantic model property in a JSON response](https://stackoverflow.com/questions/77125922/fastapi-pydantic-model-property-in-a-json-response) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -26,10 +27,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### pandas
 <!-- pandas starts -->
 * [Converting a list to pandas dataframe where list contains dictionary](https://stackoverflow.com/questions/77130056/converting-a-list-to-pandas-dataframe-where-list-contains-dictionary) - 2 votes
-* [How to plot grouped bars overlaid with lines](https://stackoverflow.com/questions/77123568/how-to-plot-grouped-bars-overlaid-with-lines) - 2 votes
-* [Identify in a series the column with the maximum value for each row of a dataframe](https://stackoverflow.com/questions/77123707/identify-in-a-series-the-column-with-the-maximum-value-for-each-row-of-a-datafra) - 2 votes
-* [Calculating difference between two rows but different columns in Pandas](https://stackoverflow.com/questions/77124612/calculating-difference-between-two-rows-but-different-columns-in-pandas) - 1 votes
-* [Pandas Assign Lambda List Comprehension Question](https://stackoverflow.com/questions/77121063/pandas-assign-lambda-list-comprehension-question) - 1 votes
+* [pandas to_json ignoring microseconds](https://stackoverflow.com/questions/77136766/pandas-to-json-ignoring-microseconds) - 2 votes
+* [Joining Function outputs with existing columns as new variable](https://stackoverflow.com/questions/77134637/joining-function-outputs-with-existing-columns-as-new-variable) - 2 votes
+* [Filter all repeated observation with at least one of the record per group with nonmissing cusip identifier](https://stackoverflow.com/questions/77129775/filter-all-repeated-observation-with-at-least-one-of-the-record-per-group-with-n) - 2 votes
+* [Select rows that come after a condition under a condition in pandas](https://stackoverflow.com/questions/77134476/select-rows-that-come-after-a-condition-under-a-condition-in-pandas) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
