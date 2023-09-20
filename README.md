@@ -1,36 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-09-19<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-09-20<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why does vecVecwith_capacityn create 0 capacity for the subvectors](https://stackoverflow.com/questions/77136991/why-does-vecvecwith-capacityn-create-0-capacity-for-the-sub-vectors) - 4 votes
-* [How to mutate a variable passed by reference from C to Rust](https://stackoverflow.com/questions/77129917/how-to-mutate-a-variable-passed-by-reference-from-c-to-rust) - 2 votes
+* [Why does vecVecwith_capacityn create 0 capacity for the subvectors](https://stackoverflow.com/questions/77136991/why-does-vecvecwith-capacityn-create-0-capacity-for-the-sub-vectors) - 6 votes
+* [Understanding into to resolve constant generic expression type mismatch in nightly Rust](https://stackoverflow.com/questions/77139833/understanding-into-to-resolve-constant-generic-expression-type-mismatch-in-nig) - 3 votes
+* [Why does tokio run only n1 of n tasks when called in a weird way](https://stackoverflow.com/questions/77143048/why-does-tokio-run-only-n-1-of-n-tasks-when-called-in-a-weird-way) - 2 votes
+* [What does actixweb use a provided tokio runtime for](https://stackoverflow.com/questions/77141328/what-does-actix-web-use-a-provided-tokio-runtime-for) - 2 votes
 * [Direct data transfer from memory mapped file file to network channel in Rust](https://stackoverflow.com/questions/77133482/direct-data-transfer-from-memory-mapped-file-file-to-network-channel-in-rust) - 2 votes
-* [expected an array with a fixed size of x elements found one with y elements](https://stackoverflow.com/questions/77131598/expected-an-array-with-a-fixed-size-of-x-elements-found-one-with-y-elements) - 1 votes
-* [How to preserve enum variant in match arm on matched experssion in Rust](https://stackoverflow.com/questions/77126097/how-to-preserve-enum-variant-in-match-arm-on-matched-experssion-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI Automatically Roundsoff Decimal Values in Response](https://stackoverflow.com/questions/77124844/fastapi-automatically-rounds-off-decimal-values-in-response) - 1 votes
-* [FastAPI pydantic model property in a JSON response](https://stackoverflow.com/questions/77125922/fastapi-pydantic-model-property-in-a-json-response) - 1 votes
+* [How to set the event for when sending SSE via FastAPIStarlette to have different events on the same stream](https://stackoverflow.com/questions/77141481/how-to-set-the-event-for-when-sending-sse-via-fastapi-starlette-to-have-differen) - 1 votes
+* [Deploying angular app with fastapi and port 0000 disables ui](https://stackoverflow.com/questions/77139629/deploying-angular-app-with-fastapi-and-port-0-0-0-0-disables-ui) - 1 votes
+* [How to handle acknowledging a Pubsub streampull subscription message](https://stackoverflow.com/questions/77138981/how-to-handle-acknowledging-a-pubsub-streampull-subscription-message) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Converting a list to pandas dataframe where list contains dictionary](https://stackoverflow.com/questions/77130056/converting-a-list-to-pandas-dataframe-where-list-contains-dictionary) - 2 votes
+* [Filling the NaN values in a matrix using blocks of random heights](https://stackoverflow.com/questions/77141786/filling-the-nan-values-in-a-matrix-using-blocks-of-random-heights) - 3 votes
+* [Pivoting a tall DataFrame to wide format with a MultiIndex for the columns](https://stackoverflow.com/questions/77145038/pivoting-a-tall-dataframe-to-wide-format-with-a-multiindex-for-the-columns) - 2 votes
+* [Pandas sort by length of list in column](https://stackoverflow.com/questions/77142157/pandas-sort-by-length-of-list-in-column) - 2 votes
 * [pandas to_json ignoring microseconds](https://stackoverflow.com/questions/77136766/pandas-to-json-ignoring-microseconds) - 2 votes
 * [Joining Function outputs with existing columns as new variable](https://stackoverflow.com/questions/77134637/joining-function-outputs-with-existing-columns-as-new-variable) - 2 votes
-* [Filter all repeated observation with at least one of the record per group with nonmissing cusip identifier](https://stackoverflow.com/questions/77129775/filter-all-repeated-observation-with-at-least-one-of-the-record-per-group-with-n) - 2 votes
-* [Select rows that come after a condition under a condition in pandas](https://stackoverflow.com/questions/77134476/select-rows-that-come-after-a-condition-under-a-condition-in-pandas) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
