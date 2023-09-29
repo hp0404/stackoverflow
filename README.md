@@ -1,28 +1,27 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-09-28<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-09-29<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How does boxing a trait affect lifetime of parameters passed to it  with a very specific example](https://stackoverflow.com/questions/77187550/how-does-boxing-a-trait-affect-lifetime-of-parameters-passed-to-it-with-a-ver) - 5 votes
 * [Why does BufReader not actualy buffer over short seeks](https://stackoverflow.com/questions/77192724/why-does-bufreader-not-actualy-buffer-over-short-seeks) - 2 votes
-* [How do I debug where a tokio task is hanging](https://stackoverflow.com/questions/77184023/how-do-i-debug-where-a-tokio-task-is-hanging) - 2 votes
+* [Understanding Rust39s Trait Objects and Lifetime Annotations in Different Function Signatures](https://stackoverflow.com/questions/77194964/understanding-rusts-trait-objects-and-lifetime-annotations-in-different-functio) - 1 votes
 * [Why doesn39t lifetime elision work for a function that returns a Fn](https://stackoverflow.com/questions/77191804/why-doesnt-lifetime-elision-work-for-a-function-that-returns-a-fn) - 1 votes
-* [Reducing overhead of indicatif ProgressBar in Rust](https://stackoverflow.com/questions/77184575/reducing-overhead-of-indicatif-progressbar-in-rust) - 1 votes
+* [Enable inlayHints in Neovim with lspzero](https://stackoverflow.com/questions/77193939/enable-inlayhints-in-neovim-with-lsp-zero) - 1 votes
+* [TLS connection with Rust and pkcs11](https://stackoverflow.com/questions/77199985/tls-connection-with-rust-and-pkcs11) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Reactjs fetch not working with python fast api](https://stackoverflow.com/questions/77185392/reactjs-fetch-not-working-with-python-fast-api) - 3 votes
-* [How to protect docs endpoint in FastAPI using Azure AD fastapi_msal](https://stackoverflow.com/questions/77194759/how-to-protect-docs-endpoint-in-fastapi-using-azure-ad-fastapi-msal) - 2 votes
+* [How to protect docs endpoint in FastAPI using Azure AD fastapi_msal](https://stackoverflow.com/questions/77194759/how-to-protect-docs-endpoint-in-fastapi-using-azure-ad-fastapi-msal) - 3 votes
+* [How to create a relation between a SQLAlchemy model and a table with no model](https://stackoverflow.com/questions/77200751/how-to-create-a-relation-between-a-sqlalchemy-model-and-a-table-with-no-model) - 1 votes
 * [How to do sorting with multiple column using Edge DB](https://stackoverflow.com/questions/77192843/how-to-do-sorting-with-multiple-column-using-edge-db) - 1 votes
 * [Gradio pop up display on success](https://stackoverflow.com/questions/77192757/gradio-pop-up-display-on-success) - 1 votes
-* [How to make video FASTAPI Streaming not returning a whole file](https://stackoverflow.com/questions/77191215/how-to-make-video-fastapi-streaming-not-returning-a-whole-file) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -30,10 +29,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-0
 ### pandas
 <!-- pandas starts -->
 * [Splitting a column with delimiter and place a value in the right column](https://stackoverflow.com/questions/77197671/splitting-a-column-with-delimiter-and-place-a-value-in-the-right-column) - 3 votes
-* [Is there any way to filter a multiindexed pandas DataFrame using a dict](https://stackoverflow.com/questions/77187280/is-there-any-way-to-filter-a-multi-indexed-pandas-dataframe-using-a-dict) - 2 votes
-* [Pandas Excel to DF Throwing the unexpected keyword argument 39index39 Error](https://stackoverflow.com/questions/77188408/pandas-excel-to-df-throwing-the-unexpected-keyword-argument-index-error) - 2 votes
+* [Pandas select three rows per ID amongst varying number of rows](https://stackoverflow.com/questions/77200529/pandas-select-three-rows-per-id-amongst-varying-number-of-rows) - 2 votes
+* [How to create a scatter plot with normalized marker transparencies](https://stackoverflow.com/questions/77201787/how-to-create-a-scatter-plot-with-normalized-marker-transparencies) - 2 votes
+* [Python merge two dataframes fuzzy matching some columns exactly match one does not](https://stackoverflow.com/questions/77201460/python-merge-two-dataframes-fuzzy-matching-some-columns-exactly-match-one-does) - 2 votes
 * [Pandas read_csv with seperators in header names](https://stackoverflow.com/questions/77193397/pandas-read-csv-with-seperators-in-header-names) - 2 votes
-* [Save a Pandas DataFrame to a CSV file without adding extra double quotes](https://stackoverflow.com/questions/77184058/save-a-pandas-dataframe-to-a-csv-file-without-adding-extra-double-quotes) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
