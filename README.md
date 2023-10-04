@@ -1,34 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-10-03<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-10-04<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Why does the implementation of AsyncRead on Box have an Unpin trait bound](https://stackoverflow.com/questions/77227525/why-does-the-implementation-of-asyncread-on-box-have-an-unpin-trait-bound) - 4 votes
 * [Take a known number of inputs](https://stackoverflow.com/questions/77219283/take-a-known-number-of-inputs) - 2 votes
+* [Deserialising this kind of nested JSON structure delivered by reqwest](https://stackoverflow.com/questions/77231365/deserialising-this-kind-of-nested-json-structure-delivered-by-reqwest) - 1 votes
+* [Is insert_str dependent on what39s in the string](https://stackoverflow.com/questions/77224101/is-insert-str-dependent-on-whats-in-the-string) - 1 votes
 * [Rust ObjectOriented Design Pattern](https://stackoverflow.com/questions/77222976/rust-object-oriented-design-pattern) - 1 votes
-* [How can I put a bound on an associated type of a generic method39s trait bound in a trait with its own associated type](https://stackoverflow.com/questions/77218887/how-can-i-put-a-bound-on-an-associated-type-of-a-generic-methods-trait-bound-in) - 1 votes
-* [Why is my Debugger in VSCode not working with Rust after Mac Update to Sonoma 140](https://stackoverflow.com/questions/77218022/why-is-my-debugger-in-vscode-not-working-with-rust-after-mac-update-to-sonoma-14) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [What is the JSON input format for a Lambda function for proxy integration](https://stackoverflow.com/questions/77216567/what-is-the-json-input-format-for-a-lambda-function-for-proxy-integration) - 1 votes
+* [Pydantic accept integer as string input](https://stackoverflow.com/questions/77220728/pydantic-accept-integer-as-string-input) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Ways to speed up rolling weighted mean on a pandas dataframe](https://stackoverflow.com/questions/77218039/ways-to-speed-up-rolling-weighted-mean-on-a-pandas-dataframe) - 2 votes
-* [I want to make a new grouped dataframe that has only the dates with holidays in them using weekday](https://stackoverflow.com/questions/77218116/i-want-to-make-a-new-grouped-dataframe-that-has-only-the-dates-with-holidays-in) - 2 votes
-* [how to merge the multiple dataframes sequentially](https://stackoverflow.com/questions/77216542/how-to-merge-the-multiple-dataframes-sequentially) - 2 votes
-* [drop a single column from a pandas DataFrame index without reset_index](https://stackoverflow.com/questions/77217974/drop-a-single-column-from-a-pandas-dataframe-index-without-reset-index) - 2 votes
+* [Broadcasting when setting on a boolean slice of a DataFrame gives weird results](https://stackoverflow.com/questions/77228389/broadcasting-when-setting-on-a-boolean-slice-of-a-dataframe-gives-weird-results) - 5 votes
+* [How do I subtract a group of rows based on a selected value within that group of rows with a specific identifier](https://stackoverflow.com/questions/77219575/how-do-i-subtract-a-group-of-rows-based-on-a-selected-value-within-that-group-o) - 2 votes
 * [Pandas Adding data from a column to another dataframe until a specific time ends](https://stackoverflow.com/questions/77220345/pandas-adding-data-from-a-column-to-another-dataframe-until-a-specific-time-end) - 2 votes
+* [How to implement customized rowbyrow accumulation calculation](https://stackoverflow.com/questions/77219550/how-to-implement-customized-row-by-row-accumulation-calculation) - 2 votes
+* [Distributing Values in a Pandas dataframe with different time intervals](https://stackoverflow.com/questions/77232406/distributing-values-in-a-pandas-dataframe-with-different-time-intervals) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
