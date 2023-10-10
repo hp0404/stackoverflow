@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-10-09<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-10-10<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,10 +8,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 ### rust
 <!-- rust starts -->
 * [Linked list stack overflow](https://stackoverflow.com/questions/77260271/linked-list-stack-overflow) - 2 votes
-* [Rust ndarray How can i select rows of an array from indexes](https://stackoverflow.com/questions/77259899/rust-ndarray-how-can-i-select-rows-of-an-array-from-indexes) - 1 votes
-* [Serve static files in warp that are bundled in the executable](https://stackoverflow.com/questions/77257503/serve-static-files-in-warp-that-are-bundled-in-the-executable) - 1 votes
-* [Using sse I need to transform BroadcastStreamltStringgt to BroadcastStreamltsseEventgt Is it possible](https://stackoverflow.com/questions/77261121/using-sse-i-need-to-transform-broadcaststreamstring-to-broadcaststreamsse) - 1 votes
-* [Why does a method returning ampSelf makes a trait objectunsafe](https://stackoverflow.com/questions/77260816/why-does-a-method-returning-self-makes-a-trait-object-unsafe) - 1 votes
+* [Can you deprecate an attribute in Rust](https://stackoverflow.com/questions/77267611/can-you-deprecate-an-attribute-in-rust) - 2 votes
+* [Why does a method returning ampSelf makes a trait objectunsafe](https://stackoverflow.com/questions/77260816/why-does-a-method-returning-self-makes-a-trait-object-unsafe) - 2 votes
+* [Equivalent of a heap profiler but for the stack](https://stackoverflow.com/questions/77262515/equivalent-of-a-heap-profiler-but-for-the-stack) - 2 votes
+* [Serializing data structure to an existing array using serde](https://stackoverflow.com/questions/77263218/serializing-data-structure-to-an-existing-array-using-serde) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -19,18 +19,17 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 ### fastapi
 <!-- fastapi starts -->
 * [Tried enabling CORS in FastAPI to make requests in my react code It doesn39t work](https://stackoverflow.com/questions/77256332/tried-enabling-cors-in-fastapi-to-make-requests-in-my-react-code-it-doesnt-wor) - 1 votes
-* [Is it possible to replace textarea with div for reading input in FastAPI or Flask](https://stackoverflow.com/questions/77254169/is-it-possible-to-replace-textarea-with-div-for-reading-input-in-fastapi-or-fla) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [calling loc with a boolean array containing NA](https://stackoverflow.com/questions/77253713/calling-loc-with-a-boolean-array-containing-na) - 3 votes
+* [rearranging words in the header dataframe](https://stackoverflow.com/questions/77262180/rearranging-words-in-the-header-dataframe) - 3 votes
 * [New rows being the combination of old rows in pandas dataframe](https://stackoverflow.com/questions/77258156/new-rows-being-the-combination-of-old-rows-in-pandas-dataframe) - 2 votes
+* [Any Way to Filter Without Renaming Columns](https://stackoverflow.com/questions/77262951/any-way-to-filter-without-renaming-columns) - 2 votes
 * [How to move up values in specific columns as long as possible](https://stackoverflow.com/questions/77257750/how-to-move-up-values-in-specific-columns-as-long-as-possible) - 2 votes
 * [Python swapping numbers in pandas dataframe](https://stackoverflow.com/questions/77260717/python-swapping-numbers-in-pandas-dataframe) - 2 votes
-* [melting only one level of a Multi Index DataFrame](https://stackoverflow.com/questions/77257822/melting-only-one-level-of-a-multi-index-dataframe) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
