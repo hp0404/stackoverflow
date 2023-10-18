@@ -1,26 +1,24 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-10-17<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-10-18<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Rust convert iterator over String to ampampstr](https://stackoverflow.com/questions/77299195/rust-convert-iterator-over-string-to-str) - 2 votes
-* [How to deserialize an array of JSON objects into a HashMapltkey structgt where key is one of the fields](https://stackoverflow.com/questions/77298880/how-to-deserialize-an-array-of-json-objects-into-a-hashmapkey-struct-where-ke) - 1 votes
-* [Sending SIGTERM Signal to Only the Current Thread in Rust](https://stackoverflow.com/questions/77302249/sending-sigterm-signal-to-only-the-current-thread-in-rust) - 1 votes
-* [No output out of llvmobjdump for rustc compiled RISCV32IM binary](https://stackoverflow.com/questions/77299456/no-output-out-of-llvm-objdump-for-rustc-compiled-risc-v32im-binary) - 1 votes
-* [In rust any way to return rows_affected from an sqlxquery_with along with the rows themselves](https://stackoverflow.com/questions/77302041/in-rust-any-way-to-return-rows-affected-from-an-sqlxquery-with-along-with) - 1 votes
+* [Order on types for type level programming](https://stackoverflow.com/questions/77315842/order-on-types-for-type-level-programming) - 3 votes
+* [Question about borrow checker which using the flatmap function](https://stackoverflow.com/questions/77312436/question-about-borrow-checker-which-using-the-flatmap-function) - 2 votes
+* [How can I deserialize a bincode serialised data into something like serde_jsonValue](https://stackoverflow.com/questions/77315666/how-can-i-deserialize-a-bincode-serialised-data-into-something-like-serde-json) - 1 votes
+* [Rust FromInto traits not working as expected](https://stackoverflow.com/questions/77317662/rust-from-into-traits-not-working-as-expected) - 1 votes
+* [Can I stop Bevy from using the CPU when there is no need to redraw the screen](https://stackoverflow.com/questions/77311942/can-i-stop-bevy-from-using-the-cpu-when-there-is-no-need-to-redraw-the-screen) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to download a large file on startup in FastAPI without blocking the event loop](https://stackoverflow.com/questions/77305160/how-to-download-a-large-file-on-startup-in-fastapi-without-blocking-the-event-lo) - 3 votes
-* [422 Unprocessable Entity error in FastAPI when I try to upload an image using React frontend](https://stackoverflow.com/questions/77304548/422-unprocessable-entity-error-in-fastapi-when-i-try-to-upload-an-image-using-re) - 1 votes
-* [How to locally test FastAPI app using AWS JWT authorizer amp API Gateway](https://stackoverflow.com/questions/77303939/how-to-locally-test-fastapi-app-using-aws-jwt-authorizer-api-gateway) - 1 votes
+* [dockercompose up successfully but app does not run](https://stackoverflow.com/questions/77313241/docker-compose-up-successfully-but-app-does-not-run) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -28,10 +26,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 ### pandas
 <!-- pandas starts -->
 * [wide to long in pandas while aligning columns](https://stackoverflow.com/questions/77306397/wide-to-long-in-pandas-while-aligning-columns) - 2 votes
-* [Issue Assigning Values With Iterrows](https://stackoverflow.com/questions/77302816/issue-assigning-values-with-iterrows) - 1 votes
-* [Count number of groups with any certain value across rows pandas](https://stackoverflow.com/questions/77308674/count-number-of-groups-with-any-certain-value-across-rows-pandas) - 1 votes
-* [Dictionary creation from dataframe replace values remove nulls Pandas](https://stackoverflow.com/questions/77307821/dictionary-creation-from-dataframe-replace-values-remove-nulls-pandas) - 1 votes
-* [Join data from two data frame](https://stackoverflow.com/questions/77307788/join-data-from-two-data-frame) - 1 votes
+* [Why does assign lambda sometimes reads the entire column rather each individual row when assigning values](https://stackoverflow.com/questions/77319069/why-does-assign-lambda-sometimes-reads-the-entire-column-rather-each-individua) - 2 votes
+* [Merging multiple dataframes together with pandas](https://stackoverflow.com/questions/77317554/merging-multiple-dataframes-together-with-pandas) - 2 votes
+* [plotting timeseries line graph for unique values in a column](https://stackoverflow.com/questions/77312659/plotting-timeseries-line-graph-for-unique-values-in-a-column) - 2 votes
+* [How do I get Pandas to ignore  at start of header line](https://stackoverflow.com/questions/77305599/how-do-i-get-pandas-to-ignore-at-start-of-header-line) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
