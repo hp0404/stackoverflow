@@ -1,35 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-10-19<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-10-20<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Order on types for type level programming](https://stackoverflow.com/questions/77315842/order-on-types-for-type-level-programming) - 3 votes
-* [How can I deserialize a bincode serialised data into something like serde_jsonValue](https://stackoverflow.com/questions/77315666/how-can-i-deserialize-a-bincode-serialised-data-into-something-like-serde-json) - 1 votes
-* [Using string constants in Rust inline assembly](https://stackoverflow.com/questions/77319561/using-string-constants-in-rust-inline-assembly) - 1 votes
-* [Rust FromInto traits not working as expected](https://stackoverflow.com/questions/77317662/rust-from-into-traits-not-working-as-expected) - 1 votes
-* [Comparing a WPARAM and VIRTUAL_KEY in Rust](https://stackoverflow.com/questions/77324899/comparing-a-wparam-and-virtual-key-in-rust) - 1 votes
+* [Why const lifetime elision does not work with slice in a struct impl](https://stackoverflow.com/questions/77328326/why-const-lifetime-elision-does-not-work-with-slice-in-a-struct-impl) - 5 votes
+* [Why does Option type try block require a type annotation](https://stackoverflow.com/questions/77329438/why-does-option-type-try-block-require-a-type-annotation) - 3 votes
+* [Rust trait object with generic type parameter](https://stackoverflow.com/questions/77333434/rust-trait-object-with-generic-type-parameter) - 3 votes
+* [quottemporary value dropped while borrowedquot  How to work with Path list references](https://stackoverflow.com/questions/77331167/temporary-value-dropped-while-borrowed-how-to-work-with-path-list-references) - 2 votes
+* [Is it possible to use a custom panic_handler when running cargo test](https://stackoverflow.com/questions/77329055/is-it-possible-to-use-a-custom-panic-handler-when-running-cargo-test) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [dockercompose up successfully but app does not run](https://stackoverflow.com/questions/77313241/docker-compose-up-successfully-but-app-does-not-run) - 1 votes
+* [NATS jetstream timeout inside anyio taskgroup](https://stackoverflow.com/questions/77333142/nats-jetstream-timeout-inside-anyio-taskgroup) - 1 votes
+* [How to output an niigz nifiti image with FastAPI whilst keeping everything on memory](https://stackoverflow.com/questions/77329516/how-to-output-an-nii-gz-nifiti-image-with-fastapi-whilst-keeping-everything-on) - 1 votes
+* [Sending Video Stream from Nextjs Frontend to FastAPI Backend and Displaying with OpenCV](https://stackoverflow.com/questions/77327620/sending-video-stream-from-next-js-front-end-to-fastapi-backend-and-displaying-wi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Show percentage of total in pandas pivot table with multiple columns based on single field in dataframe](https://stackoverflow.com/questions/77319901/show-percentage-of-total-in-pandas-pivot-table-with-multiple-columns-based-on-si) - 4 votes
-* [Why does assign lambda sometimes reads the entire column rather each individual row when assigning values](https://stackoverflow.com/questions/77319069/why-does-assign-lambda-sometimes-reads-the-entire-column-rather-each-individua) - 2 votes
-* [Use apply function in all columns at once in Pandas](https://stackoverflow.com/questions/77316898/use-apply-function-in-all-columns-at-once-in-pandas) - 2 votes
-* [Merging multiple dataframes together with pandas](https://stackoverflow.com/questions/77317554/merging-multiple-dataframes-together-with-pandas) - 2 votes
-* [Pandas dataframe with a column containing lists  how to access elements quotdynamicallyquot](https://stackoverflow.com/questions/77326811/pandas-dataframe-with-a-column-containing-lists-how-to-access-elements-dynami) - 2 votes
+* [Group based time difference analysis for large dataset with Pandas](https://stackoverflow.com/questions/77327525/group-based-time-difference-analysis-for-large-dataset-with-pandas) - 4 votes
+* [Pandas dataframe with a column containing lists  how to access elements quotdynamicallyquot](https://stackoverflow.com/questions/77326811/pandas-dataframe-with-a-column-containing-lists-how-to-access-elements-dynami) - 3 votes
+* [subtraction from a dictionary of dictionaries in a pandas dataframe](https://stackoverflow.com/questions/77328739/subtraction-from-a-dictionary-of-dictionaries-in-a-pandas-dataframe) - 3 votes
+* [How do you merge a list to an existing dataframe](https://stackoverflow.com/questions/77333397/how-do-you-merge-a-list-to-an-existing-dataframe) - 2 votes
+* [List the differences between two dataframe columns ignoring case](https://stackoverflow.com/questions/77327162/list-the-differences-between-two-dataframe-columns-ignoring-case) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
