@@ -1,16 +1,16 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-10-24<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-10-25<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Can rust save the compiler39s optimization record](https://stackoverflow.com/questions/77350533/can-rust-save-the-compilers-optimization-record) - 3 votes
-* [Cost of cloning iterator originating from into_iter in Rust](https://stackoverflow.com/questions/77345607/cost-of-cloning-iterator-originating-from-into-iter-in-rust) - 2 votes
-* [Return string how to fix cannot return value referencing temporary value](https://stackoverflow.com/questions/77343756/return-string-how-to-fix-cannot-return-value-referencing-temporary-value) - 2 votes
-* [Swift dylib in Rust without using unsafe](https://stackoverflow.com/questions/77342978/swift-dylib-in-rust-without-using-unsafe) - 1 votes
+* [Can rust save the compiler39s optimization record](https://stackoverflow.com/questions/77350533/can-rust-save-the-compilers-optimization-record) - 4 votes
+* [Why should ampmut buf0buflen trigger a mutableimmutable borrow error](https://stackoverflow.com/questions/77355955/why-should-mut-buf0-buf-len-trigger-a-mutable-immutable-borrow-error) - 1 votes
+* [Allow rust struct entry to be of multiple types](https://stackoverflow.com/questions/77355219/allow-rust-struct-entry-to-be-of-multiple-types) - 1 votes
+* [Return slice or array of unknown size from match expression](https://stackoverflow.com/questions/77361945/return-slice-or-array-of-unknown-size-from-match-expression) - 1 votes
 * [How to speed up copying a file to a socket](https://stackoverflow.com/questions/77350296/how-to-speed-up-copying-a-file-to-a-socket) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -18,7 +18,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 
 ### fastapi
 <!-- fastapi starts -->
-* [Optional str in Pydantic 20 with field constraints](https://stackoverflow.com/questions/77348076/optional-str-in-pydantic-2-0-with-field-constraints) - 1 votes
+* [HEROKU asyncio_redisexceptionsErrorReply NOAUTH Authentication required](https://stackoverflow.com/questions/77359942/heroku-asyncio-redis-exceptions-errorreply-noauth-authentication-required) - 1 votes
+* [SavedModel file does not exist at saved_modelpbsaved_modelpbtxtsaved_modelpb](https://stackoverflow.com/questions/77357020/savedmodel-file-does-not-exist-at-saved-model-pb-saved-model-pbtxtsaved-model) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -26,10 +27,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 ### pandas
 <!-- pandas starts -->
 * [Difference between pdCategorical and pdapitypesCategoricalDtype](https://stackoverflow.com/questions/77349229/difference-between-pd-categorical-and-pd-api-types-categoricaldtype) - 3 votes
-* [read row for given id from pickle file without loading all data](https://stackoverflow.com/questions/77346557/read-row-for-given-id-from-pickle-file-without-loading-all-data) - 2 votes
-* [Change nonNaN values of a column based on condition](https://stackoverflow.com/questions/77352187/change-non-nan-values-of-a-column-based-on-condition) - 2 votes
-* [How to remove the top and bottom eg 10 of data from dataframe](https://stackoverflow.com/questions/77347986/how-to-remove-the-top-and-bottom-e-g-10-of-data-from-dataframe) - 2 votes
-* [Need to Reshape  Transpose Dataframe in Python](https://stackoverflow.com/questions/77342884/need-to-reshape-transpose-dataframe-in-python) - 2 votes
+* [How to make Dataframelike output to dictionary](https://stackoverflow.com/questions/77360947/how-to-make-dataframe-like-output-to-dictionary) - 3 votes
+* [Strip strings and date time from mixed string with numbers](https://stackoverflow.com/questions/77359543/strip-strings-and-date-time-from-mixed-string-with-numbers) - 2 votes
+* [How can I create xticks with varying intervals](https://stackoverflow.com/questions/77357723/how-can-i-create-xticks-with-varying-intervals) - 2 votes
+* [Pandas check if count of occurence of each element of a dataframe column is equal to the element occurence count in another dataframe](https://stackoverflow.com/questions/77359803/pandas-check-if-count-of-occurence-of-each-element-of-a-dataframe-column-is-equ) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
