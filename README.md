@@ -1,24 +1,24 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-10-28<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-10-29<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Safety of using stdptrwrite_volatile for interior mutability in a Copy type ie without UnsafeCell](https://stackoverflow.com/questions/77381860/safety-of-using-stdptrwrite-volatile-for-interior-mutability-in-a-copy-type) - 2 votes
 * [How to return the variable itself if it is not None and if None return quotNonequot](https://stackoverflow.com/questions/77379737/how-to-return-the-variable-itself-if-it-is-not-none-and-if-none-return-none) - 2 votes
-* [Why did Rust require macro names to have an exclamation point at the end](https://stackoverflow.com/questions/77371551/why-did-rust-require-macro-names-to-have-an-exclamation-point-at-the-end) - 1 votes
+* [Is there way to unfoldunpack slices](https://stackoverflow.com/questions/77381639/is-there-way-to-unfold-unpack-slices) - 2 votes
+* [Writing to a reference updates the underlying value but the reference prints unexpected value](https://stackoverflow.com/questions/77385041/writing-to-a-reference-updates-the-underlying-value-but-the-reference-prints-une) - 1 votes
 * [References vs Rc39s to values in Context for tokenization](https://stackoverflow.com/questions/77378717/references-vs-rcs-to-values-in-context-for-tokenization) - 1 votes
-* [Conditional Configuration of Struct Member and Attribute](https://stackoverflow.com/questions/77377420/conditional-configuration-of-struct-member-and-attribute) - 1 votes
-* [rustc cannot infer lifetime in trait implementations](https://stackoverflow.com/questions/77376748/rustc-cannot-infer-lifetime-in-trait-implementations) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to properly run pythontelegrambot together with fastapi](https://stackoverflow.com/questions/77376856/how-to-properly-run-python-telegram-bot-together-with-fastapi) - 1 votes
+* [FastAPI Update whole row with put by either id or a unique name](https://stackoverflow.com/questions/77383857/fastapi-update-whole-row-with-put-by-either-id-or-a-unique-name) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -26,10 +26,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 ### pandas
 <!-- pandas starts -->
 * [Aggregate string column close in time in pandas](https://stackoverflow.com/questions/77379133/aggregate-string-column-close-in-time-in-pandas) - 3 votes
-* [Merge 2 parts of 2 different dataframes separately using pandas](https://stackoverflow.com/questions/77376222/merge-2-parts-of-2-different-dataframes-separately-using-pandas) - 2 votes
-* [Compare 2 dataframes for updated records](https://stackoverflow.com/questions/77377277/compare-2-dataframes-for-updated-records) - 2 votes
+* [Pandas conditionally fill a column using values from another dataframe](https://stackoverflow.com/questions/77384806/pandas-conditionally-fill-a-column-using-values-from-another-dataframe) - 2 votes
 * [Pandas How to list out the numbers between starting and ending values present within a column using another column](https://stackoverflow.com/questions/77380147/pandas-how-to-list-out-the-numbers-between-starting-and-ending-values-present) - 1 votes
-* [List with the names of points in a given radius for all rows of the dataframe](https://stackoverflow.com/questions/77373538/list-with-the-names-of-points-in-a-given-radius-for-all-rows-of-the-dataframe) - 1 votes
+* [Format yaxis as Trillions of US dollars](https://stackoverflow.com/questions/77381775/format-y-axis-as-trillions-of-u-s-dollars) - 1 votes
+* [Filter groupby object select all rows associated with customers satisfying certain criteria](https://stackoverflow.com/questions/77380901/filter-groupby-object-select-all-rows-associated-with-customers-satisfying-cert) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
