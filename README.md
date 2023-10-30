@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-10-29<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-10-30<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [How can I intialize an RcltRefCellltu8gtgt from a ampu8](https://stackoverflow.com/questions/77385871/how-can-i-intialize-an-rcrefcellu8-from-a-u8) - 4 votes
+* [Cannot append a Rust vector to another vector](https://stackoverflow.com/questions/77387381/cannot-append-a-rust-vector-to-another-vector) - 3 votes
 * [Safety of using stdptrwrite_volatile for interior mutability in a Copy type ie without UnsafeCell](https://stackoverflow.com/questions/77381860/safety-of-using-stdptrwrite-volatile-for-interior-mutability-in-a-copy-type) - 2 votes
-* [How to return the variable itself if it is not None and if None return quotNonequot](https://stackoverflow.com/questions/77379737/how-to-return-the-variable-itself-if-it-is-not-none-and-if-none-return-none) - 2 votes
 * [Is there way to unfoldunpack slices](https://stackoverflow.com/questions/77381639/is-there-way-to-unfold-unpack-slices) - 2 votes
-* [Writing to a reference updates the underlying value but the reference prints unexpected value](https://stackoverflow.com/questions/77385041/writing-to-a-reference-updates-the-underlying-value-but-the-reference-prints-une) - 1 votes
-* [References vs Rc39s to values in Context for tokenization](https://stackoverflow.com/questions/77378717/references-vs-rcs-to-values-in-context-for-tokenization) - 1 votes
+* [Convert Vecltu8gt to Vecltfloatgt in rust](https://stackoverflow.com/questions/77388769/convert-vecu8-to-vecfloat-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -19,17 +19,18 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 ### fastapi
 <!-- fastapi starts -->
 * [FastAPI Update whole row with put by either id or a unique name](https://stackoverflow.com/questions/77383857/fastapi-update-whole-row-with-put-by-either-id-or-a-unique-name) - 1 votes
+* [FastAPI recursive response model](https://stackoverflow.com/questions/77389209/fastapi-recursive-response-model) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Aggregate string column close in time in pandas](https://stackoverflow.com/questions/77379133/aggregate-string-column-close-in-time-in-pandas) - 3 votes
-* [Pandas conditionally fill a column using values from another dataframe](https://stackoverflow.com/questions/77384806/pandas-conditionally-fill-a-column-using-values-from-another-dataframe) - 2 votes
-* [Pandas How to list out the numbers between starting and ending values present within a column using another column](https://stackoverflow.com/questions/77380147/pandas-how-to-list-out-the-numbers-between-starting-and-ending-values-present) - 1 votes
-* [Format yaxis as Trillions of US dollars](https://stackoverflow.com/questions/77381775/format-y-axis-as-trillions-of-u-s-dollars) - 1 votes
-* [Filter groupby object select all rows associated with customers satisfying certain criteria](https://stackoverflow.com/questions/77380901/filter-groupby-object-select-all-rows-associated-with-customers-satisfying-cert) - 1 votes
+* [Pandas conditionally fill a column using values from another dataframe](https://stackoverflow.com/questions/77384806/pandas-conditionally-fill-a-column-using-values-from-another-dataframe) - 3 votes
+* [Resample39W39 weird results](https://stackoverflow.com/questions/77391383/resamplew-weird-results) - 2 votes
+* [Format yaxis as Trillions of US dollars](https://stackoverflow.com/questions/77381775/format-y-axis-as-trillions-of-u-s-dollars) - 2 votes
+* [Assign character to unique strings in each column and reset value to that character](https://stackoverflow.com/questions/77385549/assign-character-to-unique-strings-in-each-column-and-reset-value-to-that-charac) - 2 votes
+* [Get names of all numeric columns in a pandas DataFrame filter by dtype](https://stackoverflow.com/questions/77383220/get-names-of-all-numeric-columns-in-a-pandas-dataframe-filter-by-dtype) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
