@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-10-31<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-11-01<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How can I intialize an RcltRefCellltu8gtgt from a ampu8](https://stackoverflow.com/questions/77385871/how-can-i-intialize-an-rcrefcellu8-from-a-u8) - 4 votes
-* [Cannot append a Rust vector to another vector](https://stackoverflow.com/questions/77387381/cannot-append-a-rust-vector-to-another-vector) - 3 votes
+* [How to track the memory usage of a Rust program](https://stackoverflow.com/questions/77402857/how-to-track-the-memory-usage-of-a-rust-program) - 2 votes
+* [More sound approach to designing a spline functor](https://stackoverflow.com/questions/77399825/more-sound-approach-to-designing-a-spline-functor) - 1 votes
+* [Can we be sure that Rust will optimize out clone if it is going to dropped immediately](https://stackoverflow.com/questions/77404261/can-we-be-sure-that-rust-will-optimize-out-clone-if-it-is-going-to-dropped-imm) - 1 votes
 * [Why can a str type be of any size unknown size while a String type size is supposedly known](https://stackoverflow.com/questions/77394164/why-can-a-str-type-be-of-any-size-unknown-size-while-a-string-type-size-is) - 1 votes
-* [Convert Vecltu8gt to Vecltfloatgt in rust](https://stackoverflow.com/questions/77388769/convert-vecu8-to-vecfloat-in-rust) - 1 votes
-* [How to call generic method in a nested generic struct](https://stackoverflow.com/questions/77391862/how-to-call-generic-method-in-a-nested-generic-struct) - 1 votes
+* [How to create a mutable nested iterator](https://stackoverflow.com/questions/77403826/how-to-create-a-mutable-nested-iterator) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,7 +21,6 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 * [Awaiting requestjson in FastAPI hangs forever](https://stackoverflow.com/questions/77394812/awaiting-request-json-in-fastapi-hangs-forever) - 1 votes
 * [Decoding nonutf8 request bodies with fastapi](https://stackoverflow.com/questions/77397956/decoding-non-utf-8-request-bodies-with-fastapi) - 1 votes
 * [How to change pydantic less than or equal validation when inheriting from parent](https://stackoverflow.com/questions/77397275/how-to-change-pydantic-less-than-or-equal-validation-when-inheriting-from-parent) - 1 votes
-* [FastAPI recursive response model](https://stackoverflow.com/questions/77389209/fastapi-recursive-response-model) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -29,10 +28,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 ### pandas
 <!-- pandas starts -->
 * [Iterate through dataframe and create new column based if values in columns are not NaN Pandas](https://stackoverflow.com/questions/77398359/iterate-through-dataframe-and-create-new-column-based-if-values-in-columns-are-n) - 3 votes
+* [How can I use commas inside a csv column to separate multiple floating point values](https://stackoverflow.com/questions/77403294/how-can-i-use-commas-inside-a-csv-column-to-separate-multiple-floating-point-val) - 3 votes
 * [Sum Multiple Columns in Pandas DataFrame Without Losing Data Types](https://stackoverflow.com/questions/77396921/sum-multiple-columns-in-pandas-dataframe-without-losing-data-types) - 3 votes
 * [How to find max value with shift and condition](https://stackoverflow.com/questions/77397723/how-to-find-max-value-with-shift-and-condition) - 2 votes
-* [Resample39W39 weird results](https://stackoverflow.com/questions/77391383/resamplew-weird-results) - 2 votes
-* [How to bar plot the top n categories for each year](https://stackoverflow.com/questions/77392627/how-to-bar-plot-the-top-n-categories-for-each-year) - 2 votes
+* [Impute date value from minimum date in other column based on a condition](https://stackoverflow.com/questions/77400294/impute-date-value-from-minimum-date-in-other-column-based-on-a-condition) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
