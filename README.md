@@ -1,24 +1,23 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-11-09<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-11-10<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [tokiotry_join on a vector of JoinHandles](https://stackoverflow.com/questions/77449521/tokiotry-join-on-a-vector-of-joinhandles) - 1 votes
-* [How to implement Debug for serdeserError](https://stackoverflow.com/questions/77443995/how-to-implement-debug-for-serdesererror) - 1 votes
-* [sqlxquery Macro with uuidUuid Fails to Compile in Rust](https://stackoverflow.com/questions/77443559/sqlxquery-macro-with-uuiduuid-fails-to-compile-in-rust) - 1 votes
-* [Returning references nested a few methods deep inside RefCell](https://stackoverflow.com/questions/77448690/returning-references-nested-a-few-methods-deep-inside-refcell) - 1 votes
-* [Why do arrays automatically convert themselves into slices](https://stackoverflow.com/questions/77446677/why-do-arrays-automatically-convert-themselves-into-slices) - 1 votes
+* [In Rust is there a difference in drop order for a Boxed struct compared to a plain struct](https://stackoverflow.com/questions/77459294/in-rust-is-there-a-difference-in-drop-order-for-a-boxed-struct-compared-to-a-p) - 2 votes
+* [Exhaustively matching a range of integers involving a quotlarger thanquot case](https://stackoverflow.com/questions/77456313/exhaustively-matching-a-range-of-integers-involving-a-larger-than-case) - 2 votes
+* [why does cargo rebuild for each of cargo flamegraph cargo asm profile release 39cargo run profile release](https://stackoverflow.com/questions/77462240/why-does-cargo-rebuild-for-each-of-cargo-flamegraph-cargo-asm-profile-rele) - 2 votes
+* [Cast one generic type to another](https://stackoverflow.com/questions/77459731/cast-one-generic-type-to-another) - 1 votes
+* [Where is the equivalent in Rust of the msgpack Timestamp class in Python](https://stackoverflow.com/questions/77460719/where-is-the-equivalent-in-rust-of-the-msgpack-timestamp-class-in-python) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Can multiple routers be register at once in FastAPI](https://stackoverflow.com/questions/77445628/can-multiple-routers-be-register-at-once-in-fastapi) - 1 votes
 * [gunicorn randomly getting term and not restarting in systemd](https://stackoverflow.com/questions/77450678/gunicorn-randomly-getting-term-and-not-restarting-in-systemd) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
@@ -26,11 +25,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 
 ### pandas
 <!-- pandas starts -->
+* [How to pivot a pandas dataframe and calculate product of combinations](https://stackoverflow.com/questions/77459646/how-to-pivot-a-pandas-dataframe-and-calculate-product-of-combinations) - 2 votes
 * [How would I implement idxmax with random tiebreaking on a dataframe](https://stackoverflow.com/questions/77455334/how-would-i-implement-idxmax-with-random-tiebreaking-on-a-dataframe) - 2 votes
-* [How dataframe sort values from a to b not to aa not alphabetically](https://stackoverflow.com/questions/77444414/how-dataframe-sort-values-from-a-to-b-not-to-aa-not-alphabetically) - 2 votes
-* [Polars localized strftime equivalent from Pandas](https://stackoverflow.com/questions/77449372/polars-localized-strftime-equivalent-from-pandas) - 2 votes
-* [pandas StataWriter Writing an iterator for large queries dta file corrupt](https://stackoverflow.com/questions/77446083/pandas-statawriter-writing-an-iterator-for-large-queries-dta-file-corrupt) - 2 votes
-* [After merging how to interpolate only nonnull intervals](https://stackoverflow.com/questions/77448938/after-merging-how-to-interpolate-only-non-null-intervals) - 1 votes
+* [How to avoid iteration though pandas df and apply affect on multiple columns](https://stackoverflow.com/questions/77452086/how-to-avoid-iteration-though-pandas-df-and-apply-affect-on-multiple-columns) - 1 votes
+* [Matplotlib does not assign color to bar with height 0](https://stackoverflow.com/questions/77457800/matplotlib-does-not-assign-color-to-bar-with-height-0) - 1 votes
+* [How can I add data to the index column of a pandas dataframe](https://stackoverflow.com/questions/77455688/how-can-i-add-data-to-the-index-column-of-a-pandas-dataframe) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
