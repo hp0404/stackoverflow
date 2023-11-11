@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-11-10<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-11-11<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,8 +8,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 ### rust
 <!-- rust starts -->
 * [In Rust is there a difference in drop order for a Boxed struct compared to a plain struct](https://stackoverflow.com/questions/77459294/in-rust-is-there-a-difference-in-drop-order-for-a-boxed-struct-compared-to-a-p) - 2 votes
-* [Exhaustively matching a range of integers involving a quotlarger thanquot case](https://stackoverflow.com/questions/77456313/exhaustively-matching-a-range-of-integers-involving-a-larger-than-case) - 2 votes
 * [why does cargo rebuild for each of cargo flamegraph cargo asm profile release 39cargo run profile release](https://stackoverflow.com/questions/77462240/why-does-cargo-rebuild-for-each-of-cargo-flamegraph-cargo-asm-profile-rele) - 2 votes
+* [How can I return a custom String reference in function](https://stackoverflow.com/questions/77464317/how-can-i-return-a-custom-string-reference-in-function) - 1 votes
 * [Cast one generic type to another](https://stackoverflow.com/questions/77459731/cast-one-generic-type-to-another) - 1 votes
 * [Where is the equivalent in Rust of the msgpack Timestamp class in Python](https://stackoverflow.com/questions/77460719/where-is-the-equivalent-in-rust-of-the-msgpack-timestamp-class-in-python) - 1 votes
 <!-- rust ends -->
@@ -18,7 +18,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 
 ### fastapi
 <!-- fastapi starts -->
-* [gunicorn randomly getting term and not restarting in systemd](https://stackoverflow.com/questions/77450678/gunicorn-randomly-getting-term-and-not-restarting-in-systemd) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -26,10 +26,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 ### pandas
 <!-- pandas starts -->
 * [How to pivot a pandas dataframe and calculate product of combinations](https://stackoverflow.com/questions/77459646/how-to-pivot-a-pandas-dataframe-and-calculate-product-of-combinations) - 2 votes
-* [How would I implement idxmax with random tiebreaking on a dataframe](https://stackoverflow.com/questions/77455334/how-would-i-implement-idxmax-with-random-tiebreaking-on-a-dataframe) - 2 votes
-* [How to avoid iteration though pandas df and apply affect on multiple columns](https://stackoverflow.com/questions/77452086/how-to-avoid-iteration-though-pandas-df-and-apply-affect-on-multiple-columns) - 1 votes
+* [Pandas handling Dictionary inside Dataframe](https://stackoverflow.com/questions/77465332/pandas-handling-dictionary-inside-dataframe) - 2 votes
 * [Matplotlib does not assign color to bar with height 0](https://stackoverflow.com/questions/77457800/matplotlib-does-not-assign-color-to-bar-with-height-0) - 1 votes
-* [How can I add data to the index column of a pandas dataframe](https://stackoverflow.com/questions/77455688/how-can-i-add-data-to-the-index-column-of-a-pandas-dataframe) - 1 votes
+* [Issue with Dataframe manipulation on Python](https://stackoverflow.com/questions/77457194/issue-with-dataframe-manipulation-on-python) - 1 votes
+* [Order plotly figure by CategoricalDtype order](https://stackoverflow.com/questions/77462887/order-plotly-figure-by-categoricaldtype-order) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
