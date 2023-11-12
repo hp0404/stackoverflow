@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-11-11<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-11-12<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [In Rust is there a difference in drop order for a Boxed struct compared to a plain struct](https://stackoverflow.com/questions/77459294/in-rust-is-there-a-difference-in-drop-order-for-a-boxed-struct-compared-to-a-p) - 2 votes
-* [why does cargo rebuild for each of cargo flamegraph cargo asm profile release 39cargo run profile release](https://stackoverflow.com/questions/77462240/why-does-cargo-rebuild-for-each-of-cargo-flamegraph-cargo-asm-profile-rele) - 2 votes
+* [Problem generifying serde_json read into a VecltTgt rust](https://stackoverflow.com/questions/77468870/problem-generify-ing-serde-json-read-into-a-vect-rust) - 3 votes
 * [How can I return a custom String reference in function](https://stackoverflow.com/questions/77464317/how-can-i-return-a-custom-string-reference-in-function) - 1 votes
-* [Cast one generic type to another](https://stackoverflow.com/questions/77459731/cast-one-generic-type-to-another) - 1 votes
-* [Where is the equivalent in Rust of the msgpack Timestamp class in Python](https://stackoverflow.com/questions/77460719/where-is-the-equivalent-in-rust-of-the-msgpack-timestamp-class-in-python) - 1 votes
+* [Webpack backend configuration to inject the bundles in a view template HTML page](https://stackoverflow.com/questions/77466482/webpack-backend-configuration-to-inject-the-bundles-in-a-view-template-html-page) - 1 votes
+* [OpenCL cannot find GPU in Github action pipeline](https://stackoverflow.com/questions/77470370/opencl-cannot-find-gpu-in-github-action-pipeline) - 1 votes
+* [Seams on noise WGSL shader porting gdshader to wgsl bevy](https://stackoverflow.com/questions/77470355/seams-on-noise-wgsl-shader-porting-gdshader-to-wgsl-bevy) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -25,11 +25,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 
 ### pandas
 <!-- pandas starts -->
-* [How to pivot a pandas dataframe and calculate product of combinations](https://stackoverflow.com/questions/77459646/how-to-pivot-a-pandas-dataframe-and-calculate-product-of-combinations) - 2 votes
-* [Pandas handling Dictionary inside Dataframe](https://stackoverflow.com/questions/77465332/pandas-handling-dictionary-inside-dataframe) - 2 votes
-* [Matplotlib does not assign color to bar with height 0](https://stackoverflow.com/questions/77457800/matplotlib-does-not-assign-color-to-bar-with-height-0) - 1 votes
-* [Issue with Dataframe manipulation on Python](https://stackoverflow.com/questions/77457194/issue-with-dataframe-manipulation-on-python) - 1 votes
-* [Order plotly figure by CategoricalDtype order](https://stackoverflow.com/questions/77462887/order-plotly-figure-by-categoricaldtype-order) - 1 votes
+* [Pandas handling Dictionary inside Dataframe](https://stackoverflow.com/questions/77465332/pandas-handling-dictionary-inside-dataframe) - 3 votes
+* [finding the first value of last streak in a column](https://stackoverflow.com/questions/77467685/finding-the-first-value-of-last-streak-in-a-column) - 1 votes
+* [Reading a csv file in pandas not working properly with sep39t39](https://stackoverflow.com/questions/77470035/reading-a-csv-file-in-pandas-not-working-properly-with-sep-t) - 1 votes
+* [Fill in the value in the column based on the condition in another column](https://stackoverflow.com/questions/77469103/fill-in-the-value-in-the-column-based-on-the-condition-in-another-column) - 1 votes
+* [Using the nth command within a groupby and keeping columns](https://stackoverflow.com/questions/77465760/using-the-nth-command-within-a-groupby-and-keeping-columns) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
