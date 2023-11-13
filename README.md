@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-11-12<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-11-13<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,10 +8,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 ### rust
 <!-- rust starts -->
 * [Problem generifying serde_json read into a VecltTgt rust](https://stackoverflow.com/questions/77468870/problem-generify-ing-serde-json-read-into-a-vect-rust) - 3 votes
-* [How can I return a custom String reference in function](https://stackoverflow.com/questions/77464317/how-can-i-return-a-custom-string-reference-in-function) - 1 votes
-* [Webpack backend configuration to inject the bundles in a view template HTML page](https://stackoverflow.com/questions/77466482/webpack-backend-configuration-to-inject-the-bundles-in-a-view-template-html-page) - 1 votes
+* [Seams on noise WGSL shader porting gdshader to wgsl bevy](https://stackoverflow.com/questions/77470355/seams-on-noise-wgsl-shader-porting-gdshader-to-wgsl-bevy) - 3 votes
+* [Get serde_json to recognise this enum representation](https://stackoverflow.com/questions/77470851/get-serde-json-to-recognise-this-enum-representation) - 1 votes
 * [OpenCL cannot find GPU in Github action pipeline](https://stackoverflow.com/questions/77470370/opencl-cannot-find-gpu-in-github-action-pipeline) - 1 votes
-* [Seams on noise WGSL shader porting gdshader to wgsl bevy](https://stackoverflow.com/questions/77470355/seams-on-noise-wgsl-shader-porting-gdshader-to-wgsl-bevy) - 1 votes
+* [Is static dispatch quotalmost alwaysquot faster than boxed dyn trait dispatch](https://stackoverflow.com/questions/77469833/is-static-dispatch-almost-always-faster-than-boxed-dyn-trait-dispatch) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -25,11 +25,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas handling Dictionary inside Dataframe](https://stackoverflow.com/questions/77465332/pandas-handling-dictionary-inside-dataframe) - 3 votes
-* [finding the first value of last streak in a column](https://stackoverflow.com/questions/77467685/finding-the-first-value-of-last-streak-in-a-column) - 1 votes
-* [Reading a csv file in pandas not working properly with sep39t39](https://stackoverflow.com/questions/77470035/reading-a-csv-file-in-pandas-not-working-properly-with-sep-t) - 1 votes
-* [Fill in the value in the column based on the condition in another column](https://stackoverflow.com/questions/77469103/fill-in-the-value-in-the-column-based-on-the-condition-in-another-column) - 1 votes
-* [Using the nth command within a groupby and keeping columns](https://stackoverflow.com/questions/77465760/using-the-nth-command-within-a-groupby-and-keeping-columns) - 1 votes
+* [Datetime mixes day and month when converting strings to datetime format](https://stackoverflow.com/questions/77476151/datetime-mixes-day-and-month-when-converting-strings-to-datetime-format) - 3 votes
+* [Reading a CSV file in Pandas not working properly with sep39t39](https://stackoverflow.com/questions/77470035/reading-a-csv-file-in-pandas-not-working-properly-with-sep-t) - 2 votes
+* [Pandas subtraction for multiindex pivot table](https://stackoverflow.com/questions/77475372/pandas-subtraction-for-multiindex-pivot-table) - 2 votes
+* [Using lambda function how to iterate over the columns having list values in pandas data frame](https://stackoverflow.com/questions/77473952/using-lambda-function-how-to-iterate-over-the-columns-having-list-values-in-pan) - 2 votes
+* [Using loc with on subset of levels from a DataFrame with MultIndex](https://stackoverflow.com/questions/77472710/using-loc-with-on-subset-of-levels-from-a-dataframe-with-multindex) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
