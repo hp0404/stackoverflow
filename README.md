@@ -1,35 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-11-15<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-11-16<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How can I impl IntoIterator for a newtype vec without calling collect](https://stackoverflow.com/questions/77484227/how-can-i-impl-intoiterator-for-a-newtype-vec-without-calling-collect) - 5 votes
+* [rust signed difference of unsigned integers](https://stackoverflow.com/questions/77492137/rust-signed-difference-of-unsigned-integers) - 3 votes
 * [What is this rust code to remove duplicates from an unsorted linked list doing on a lowlevel in the else branch](https://stackoverflow.com/questions/77486751/what-is-this-rust-code-to-remove-duplicates-from-an-unsorted-linked-list-doing-o) - 3 votes
 * [Variable needs explicit type from parse](https://stackoverflow.com/questions/77489425/variable-needs-explicit-type-from-parse) - 2 votes
-* [SIMD algorithm to check of if an integer block is quotconsecutivequot](https://stackoverflow.com/questions/77489397/simd-algorithm-to-check-of-if-an-integer-block-is-consecutive) - 1 votes
-* [Replacing an owned Vector by a reference or const pointer causes a 20 drop in performance](https://stackoverflow.com/questions/77480537/replacing-an-owned-vector-by-a-reference-or-const-pointer-causes-a-20-drop-in-p) - 1 votes
+* [Transmuting nonstatic mutable reference into static mutable reference inside a scope within the lifetime](https://stackoverflow.com/questions/77488584/transmuting-non-static-mutable-reference-into-static-mutable-reference-inside-a) - 2 votes
+* [Investigating the performance of a Ruby gem with Rust extension](https://stackoverflow.com/questions/77494199/investigating-the-performance-of-a-ruby-gem-with-rust-extension) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [How can I configure FastAPI to let the node frontend handle deep path routing like foorbar for a SPA application](https://stackoverflow.com/questions/77495191/how-can-i-configure-fastapi-to-let-the-node-frontend-handle-deep-path-routing-li) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [calculating groupby sum of values on column based on string in pandas](https://stackoverflow.com/questions/77479119/calculating-groupby-sum-of-values-on-column-based-on-string-in-pandas) - 2 votes
+* [Groupby giving same aggregate value for all groups](https://stackoverflow.com/questions/77489704/groupby-giving-same-aggregate-value-for-all-groups) - 2 votes
+* [How to create a stripplot with multiple subplots](https://stackoverflow.com/questions/77492044/how-to-create-a-stripplot-with-multiple-subplots) - 2 votes
 * [Groupby one column if the date column are the same fill in the missing values in the numerical column](https://stackoverflow.com/questions/77485020/groupby-one-column-if-the-date-column-are-the-same-fill-in-the-missing-values) - 1 votes
-* [Pandas compare columns and consider NULLS equal](https://stackoverflow.com/questions/77482582/pandas-compare-columns-and-consider-nulls-equal) - 1 votes
-* [How to Filter Excel Data Before Loading to Pandas](https://stackoverflow.com/questions/77481362/how-to-filter-excel-data-before-loading-to-pandas) - 1 votes
-* [Find substring anywhere in other column](https://stackoverflow.com/questions/77478907/find-substring-anywhere-in-other-column) - 1 votes
+* [How can I move datetime to the closest five minutes](https://stackoverflow.com/questions/77494746/how-can-i-move-datetime-to-the-closest-five-minutes) - 1 votes
+* [Count unique value for each group and subtotal](https://stackoverflow.com/questions/77492920/count-unique-value-for-each-group-and-subtotal) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
