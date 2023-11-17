@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-11-16<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-11-17<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,10 +8,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 ### rust
 <!-- rust starts -->
 * [rust signed difference of unsigned integers](https://stackoverflow.com/questions/77492137/rust-signed-difference-of-unsigned-integers) - 3 votes
-* [What is this rust code to remove duplicates from an unsorted linked list doing on a lowlevel in the else branch](https://stackoverflow.com/questions/77486751/what-is-this-rust-code-to-remove-duplicates-from-an-unsorted-linked-list-doing-o) - 3 votes
-* [Variable needs explicit type from parse](https://stackoverflow.com/questions/77489425/variable-needs-explicit-type-from-parse) - 2 votes
-* [Transmuting nonstatic mutable reference into static mutable reference inside a scope within the lifetime](https://stackoverflow.com/questions/77488584/transmuting-non-static-mutable-reference-into-static-mutable-reference-inside-a) - 2 votes
+* [Converting u64 to f64 between 01](https://stackoverflow.com/questions/77499374/converting-u64-to-f64-between-0-1) - 2 votes
+* [Is there a way to make serde_json handle NaN Inf and Inf properlyimproperly IEEE 754 Specials](https://stackoverflow.com/questions/77502245/is-there-a-way-to-make-serde-json-handle-nan-inf-and-inf-properly-improperly) - 2 votes
 * [Investigating the performance of a Ruby gem with Rust extension](https://stackoverflow.com/questions/77494199/investigating-the-performance-of-a-ruby-gem-with-rust-extension) - 2 votes
+* [Better practice for double or more line breaks in Rust](https://stackoverflow.com/questions/77491771/better-practice-for-double-or-more-line-breaks-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -25,11 +25,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 
 ### pandas
 <!-- pandas starts -->
-* [Groupby giving same aggregate value for all groups](https://stackoverflow.com/questions/77489704/groupby-giving-same-aggregate-value-for-all-groups) - 2 votes
+* [Product between MultiIndex and a list](https://stackoverflow.com/questions/77500616/product-between-multiindex-and-a-list) - 3 votes
 * [How to create a stripplot with multiple subplots](https://stackoverflow.com/questions/77492044/how-to-create-a-stripplot-with-multiple-subplots) - 2 votes
-* [Groupby one column if the date column are the same fill in the missing values in the numerical column](https://stackoverflow.com/questions/77485020/groupby-one-column-if-the-date-column-are-the-same-fill-in-the-missing-values) - 1 votes
-* [How can I move datetime to the closest five minutes](https://stackoverflow.com/questions/77494746/how-can-i-move-datetime-to-the-closest-five-minutes) - 1 votes
-* [Count unique value for each group and subtotal](https://stackoverflow.com/questions/77492920/count-unique-value-for-each-group-and-subtotal) - 1 votes
+* [KeyError on indexing a dataframe on an index that should exist](https://stackoverflow.com/questions/77498521/keyerror-on-indexing-a-dataframe-on-an-index-that-should-exist) - 2 votes
+* [How to perform a left join on two pandas dataframes for a specific use case](https://stackoverflow.com/questions/77498106/how-to-perform-a-left-join-on-two-pandas-dataframes-for-a-specific-use-case) - 1 votes
+* [speed up parse function dateutil](https://stackoverflow.com/questions/77493037/speed-up-parse-function-dateutil) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
