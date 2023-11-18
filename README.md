@@ -1,24 +1,26 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-11-17<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-11-18<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [rust signed difference of unsigned integers](https://stackoverflow.com/questions/77492137/rust-signed-difference-of-unsigned-integers) - 3 votes
+* [Is there a way to make serde_json handle NaN Inf and Inf properlyimproperly IEEE 754 Specials](https://stackoverflow.com/questions/77502245/is-there-a-way-to-make-serde-json-handle-nan-inf-and-inf-properly-improperly) - 3 votes
 * [Converting u64 to f64 between 01](https://stackoverflow.com/questions/77499374/converting-u64-to-f64-between-0-1) - 2 votes
-* [Is there a way to make serde_json handle NaN Inf and Inf properlyimproperly IEEE 754 Specials](https://stackoverflow.com/questions/77502245/is-there-a-way-to-make-serde-json-handle-nan-inf-and-inf-properly-improperly) - 2 votes
-* [Investigating the performance of a Ruby gem with Rust extension](https://stackoverflow.com/questions/77494199/investigating-the-performance-of-a-ruby-gem-with-rust-extension) - 2 votes
-* [Better practice for double or more line breaks in Rust](https://stackoverflow.com/questions/77491771/better-practice-for-double-or-more-line-breaks-in-rust) - 1 votes
+* [Lifetime of Future returned by async function](https://stackoverflow.com/questions/77507692/lifetime-of-future-returned-by-async-function) - 2 votes
+* [why the struct_iterable library does not give the field_value of a struct](https://stackoverflow.com/questions/77503325/why-the-struct-iterable-library-does-not-give-the-field-value-of-a-struct) - 2 votes
+* [How to get rid of extraneous 0 in iteration when its not used](https://stackoverflow.com/questions/77502827/how-to-get-rid-of-extraneous-0-in-iteration-when-its-not-used) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How can I configure FastAPI to let the node frontend handle deep path routing like foorbar for a SPA application](https://stackoverflow.com/questions/77495191/how-can-i-configure-fastapi-to-let-the-node-frontend-handle-deep-path-routing-li) - 1 votes
+* [can39t set cookie in custom local domain](https://stackoverflow.com/questions/77505777/cant-set-cookie-in-custom-local-domain) - 2 votes
+* [FastAPI SQLModel unable to filter with where](https://stackoverflow.com/questions/77508122/fastapi-sqlmodel-unable-to-filter-with-where) - 1 votes
+* [How to upload file and json to fastapi from httpx](https://stackoverflow.com/questions/77504938/how-to-upload-file-and-json-to-fastapi-from-httpx) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -26,10 +28,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 ### pandas
 <!-- pandas starts -->
 * [Product between MultiIndex and a list](https://stackoverflow.com/questions/77500616/product-between-multiindex-and-a-list) - 3 votes
-* [How to create a stripplot with multiple subplots](https://stackoverflow.com/questions/77492044/how-to-create-a-stripplot-with-multiple-subplots) - 2 votes
-* [KeyError on indexing a dataframe on an index that should exist](https://stackoverflow.com/questions/77498521/keyerror-on-indexing-a-dataframe-on-an-index-that-should-exist) - 2 votes
-* [How to perform a left join on two pandas dataframes for a specific use case](https://stackoverflow.com/questions/77498106/how-to-perform-a-left-join-on-two-pandas-dataframes-for-a-specific-use-case) - 1 votes
-* [speed up parse function dateutil](https://stackoverflow.com/questions/77493037/speed-up-parse-function-dateutil) - 1 votes
+* [Finding the largest groups with conditions after using groupby](https://stackoverflow.com/questions/77505772/finding-the-largest-groups-with-conditions-after-using-groupby) - 2 votes
+* [How do I change the index value for the last row of a dataframe in Pandas](https://stackoverflow.com/questions/77508126/how-do-i-change-the-index-value-for-the-last-row-of-a-dataframe-in-pandas) - 2 votes
+* [Order pandas dataframe on contiguous points](https://stackoverflow.com/questions/77504633/order-pandas-dataframe-on-contiguous-points) - 2 votes
+* [Second run of 39npwhere39 overwrites changes from first run](https://stackoverflow.com/questions/77505418/second-run-of-np-where-overwrites-changes-from-first-run) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
