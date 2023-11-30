@@ -1,36 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-11-29<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-11-30<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [prevent a trait function from being implemented by other struct](https://stackoverflow.com/questions/77562161/prevent-a-trait-function-from-being-implemented-by-other-struct) - 9 votes
 * [What are the rules for coercing values to trait objects](https://stackoverflow.com/questions/77568517/what-are-the-rules-for-coercing-values-to-trait-objects) - 4 votes
+* [How to correctly rearrange the code to bypass Rust borrow checker](https://stackoverflow.com/questions/77574075/how-to-correctly-re-arrange-the-code-to-bypass-rust-borrow-checker) - 2 votes
 * [How to refactor rust code so that borrowchecking errors are performed at runtime instead of compile time](https://stackoverflow.com/questions/77568129/how-to-refactor-rust-code-so-that-borrow-checking-errors-are-performed-at-runtim) - 2 votes
-* [Can I split an iterator with Itemkey val into separate key iter and val iter without collecting or cloning](https://stackoverflow.com/questions/77560656/can-i-split-an-iterator-with-item-key-val-into-separate-key-iter-and-val-iter) - 1 votes
-* [Trait to optionally dereference a reference to a Copy object](https://stackoverflow.com/questions/77572582/trait-to-optionally-dereference-a-reference-to-a-copy-object) - 1 votes
+* [How can I make a mutating iterator that locks inner data until dropped](https://stackoverflow.com/questions/77575988/how-can-i-make-a-mutating-iterator-that-locks-inner-data-until-dropped) - 1 votes
+* [Is it possible to write unit tests for rust build scripts](https://stackoverflow.com/questions/77575892/is-it-possible-to-write-unit-tests-for-rust-build-scripts) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI SQLAlchemy  Is there a need for Pydantic with GET only API](https://stackoverflow.com/questions/77561300/fastapi-sqlalchemy-is-there-a-need-for-pydantic-with-get-only-api) - 2 votes
-* [How can I use dynamically defined enums in FastAPIPydantic models run on Uvicorn](https://stackoverflow.com/questions/77566386/how-can-i-use-dynamically-defined-enums-in-fastapi-pydantic-models-run-on-uvicor) - 2 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [pandas groupbytransform with custom condition](https://stackoverflow.com/questions/77564682/pandas-groupby-transform-with-custom-condition) - 3 votes
-* [How to include a text summary within a printed table](https://stackoverflow.com/questions/77561415/how-to-include-a-text-summary-within-a-printed-table) - 3 votes
-* [Getting GPS boundaries for each hexbin in a python plotly 39hexbin_mapbox39 heat map  Both centroid GPS point and GPS points for each corner of hexbin](https://stackoverflow.com/questions/77561341/getting-gps-boundaries-for-each-hexbin-in-a-python-plotly-hexbin-mapbox-heat-m) - 2 votes
-* [Filter pandas dataframe for rows with a specific date](https://stackoverflow.com/questions/77567508/filter-pandas-dataframe-for-rows-with-a-specific-date) - 2 votes
-* [Performing a pandas operation on only a subset of columns when a specific criterion in one column is met](https://stackoverflow.com/questions/77567276/performing-a-pandas-operation-on-only-a-subset-of-columns-when-a-specific-criter) - 2 votes
+* [How to get Anscombe data wide format from long format](https://stackoverflow.com/questions/77578241/how-to-get-anscombe-data-wide-format-from-long-format) - 2 votes
+* [Fast way to check values of one dataframe against another dataframe in pandas](https://stackoverflow.com/questions/77580911/fast-way-to-check-values-of-one-dataframe-against-another-dataframe-in-pandas) - 2 votes
+* [Importing data from two XML parent nodes to a Pandas DataFrame using read_xml](https://stackoverflow.com/questions/77580556/importing-data-from-two-xml-parent-nodes-to-a-pandas-dataframe-using-read-xml) - 2 votes
+* [Sum columns in dynamic range which are from another two columns](https://stackoverflow.com/questions/77578623/sum-columns-in-dynamic-range-which-are-from-another-two-columns) - 1 votes
+* [keep the first row and change the rest of values to NaN in multiple columns](https://stackoverflow.com/questions/77575542/keep-the-first-row-and-change-the-rest-of-values-to-nan-in-multiple-columns) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
