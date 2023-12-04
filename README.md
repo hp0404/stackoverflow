@@ -1,35 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-12-03<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-12-04<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why doesn39t stdcellRef use a reference instead of NonNull](https://stackoverflow.com/questions/77590672/why-doesnt-stdcellref-use-a-reference-instead-of-nonnull) - 5 votes
 * [Avoid turbofish type anotation on collect to ResultltVeclt_gt _gt](https://stackoverflow.com/questions/77593121/avoid-turbofish-type-anotation-on-collect-to-resultvec) - 3 votes
-* [Rust  objectsafety rules are unclear  serde dyn serialize and deserialize](https://stackoverflow.com/questions/77589275/rust-object-safety-rules-are-unclear-serde-dyn-serialize-and-deserialize) - 2 votes
-* [Using the  operator in a voidunit function](https://stackoverflow.com/questions/77589047/using-the-operator-in-a-void-unit-function) - 2 votes
-* [Lifetime of struct with field of type Boxed async callback must outlive 39static](https://stackoverflow.com/questions/77589520/lifetime-of-struct-with-field-of-type-boxed-async-callback-must-outlive-static) - 1 votes
+* [How to pass USB pins into async fn in rust embassy project](https://stackoverflow.com/questions/77596158/how-to-pass-usb-pins-into-async-fn-in-rust-embassy-project) - 2 votes
+* [Why can39t an Alpine Linuxbased Docker image find commands to execute at an absolute path](https://stackoverflow.com/questions/77599776/why-cant-an-alpine-linux-based-docker-image-find-commands-to-execute-at-an-abso) - 1 votes
+* [Creating a Dynamic object selectionreassignment mechanism for a MetaObject Protocol in Rust](https://stackoverflow.com/questions/77596827/creating-a-dynamic-object-selection-reassignment-mechanism-for-a-metaobject-prot) - 1 votes
+* [Borrowed value does not live long enough in function with lifetimes](https://stackoverflow.com/questions/77596879/borrowed-value-does-not-live-long-enough-in-function-with-lifetimes) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [FastAPI Docs security example based logi](https://stackoverflow.com/questions/77594118/fastapi-docs-security-example-based-logi) - 1 votes
+* [How to pass a pydantic model to an endpoint defined in FastAPI with Python](https://stackoverflow.com/questions/77595935/how-to-pass-a-pydantic-model-to-an-endpoint-defined-in-fastapi-with-python) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [Create new rows based on missing grouped by values](https://stackoverflow.com/questions/77592974/create-new-rows-based-on-missing-grouped-by-values) - 3 votes
+* [Error when reading a parquet file with polars which was saved with pandas](https://stackoverflow.com/questions/77601763/error-when-reading-a-parquet-file-with-polars-which-was-saved-with-pandas) - 3 votes
 * [What is an effective way of joining two tables given in different formats using pandas](https://stackoverflow.com/questions/77593296/what-is-an-effective-way-of-joining-two-tables-given-in-different-formats-using) - 2 votes
-* [Create new rows based on missing grouped by values](https://stackoverflow.com/questions/77592974/create-new-rows-based-on-missing-grouped-by-values) - 1 votes
-* [Finding the first row that meets conditions of a mask starting from nth row](https://stackoverflow.com/questions/77592943/finding-the-first-row-that-meets-conditions-of-a-mask-starting-from-nth-row) - 1 votes
-* [apply method didn39t work as expected when DataFrame is empy](https://stackoverflow.com/questions/77592941/apply-method-didnt-work-as-expected-when-dataframe-is-empy) - 1 votes
-* [Pivot or Melt a Pandas DataFrame](https://stackoverflow.com/questions/77591785/pivot-or-melt-a-pandas-dataframe) - 1 votes
+* [Python  Generate new dataframe with first occurance of a value and make it faster](https://stackoverflow.com/questions/77599692/python-generate-new-dataframe-with-first-occurance-of-a-value-and-make-it-fast) - 1 votes
+* [Remove all instances of a character after a specific substring in a Pandas column](https://stackoverflow.com/questions/77596693/remove-all-instances-of-a-character-after-a-specific-substring-in-a-pandas-colum) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
