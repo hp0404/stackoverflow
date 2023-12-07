@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-12-06<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-12-07<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,10 +8,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 ### rust
 <!-- rust starts -->
 * [How to convert OptionltOptionltStringgtgt to OptionltOptionltampstrgtgt in Rust](https://stackoverflow.com/questions/77610091/how-to-convert-optionoptionstring-to-optionoptionstr-in-rust) - 3 votes
-* [Why doesn39t Rust release references to variables as early as possible](https://stackoverflow.com/questions/77604645/why-doesnt-rust-release-references-to-variables-as-early-as-possible) - 3 votes
-* [How to decouple the lifetime of a generic parameter of a closure to that of the closure itself](https://stackoverflow.com/questions/77605528/how-to-decouple-the-lifetime-of-a-generic-parameter-of-a-closure-to-that-of-the) - 2 votes
-* [Is the pure existance of a ampu32 and ampmut u32 to the same data already considered undefined behaviour](https://stackoverflow.com/questions/77606083/is-the-pure-existance-of-a-u32-and-mut-u32-to-the-same-data-already-co) - 1 votes
+* [Why are stdenvArgs ArgsOs not Send and Sync](https://stackoverflow.com/questions/77618289/why-are-stdenvargs-argsos-not-send-and-sync) - 3 votes
+* [Why does wrapping a None with curly braces in my match statement make this following rust code work](https://stackoverflow.com/questions/77617512/why-does-wrapping-a-none-with-curly-braces-in-my-match-statement-make-this-follo) - 1 votes
 * [How to structure semantallycorrect recursive mutable borrow with callback to satisfy borrow checker](https://stackoverflow.com/questions/77615629/how-to-structure-semantally-correct-recursive-mutable-borrow-with-callback-to-sa) - 1 votes
+* [How to use conditional compilation in Cargotoml for lib](https://stackoverflow.com/questions/77621961/how-to-use-conditional-compilation-in-cargo-toml-for-lib) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -27,10 +27,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 
 ### pandas
 <!-- pandas starts -->
+* [How to rename row string based on another row string](https://stackoverflow.com/questions/77621095/how-to-rename-row-string-based-on-another-row-string) - 2 votes
 * [Pandas Vectorized Operation  Making counting function that resets when threshold reaches 5](https://stackoverflow.com/questions/77611459/pandas-vectorized-operation-making-counting-function-that-resets-when-threshol) - 2 votes
-* [How can I create conditional column for two sets in a window of a key](https://stackoverflow.com/questions/77612387/how-can-i-create-conditional-column-for-two-sets-in-a-window-of-a-key) - 1 votes
-* [Computing number of events in cumulative columns per time interval for multiple Ids](https://stackoverflow.com/questions/77606396/computing-number-of-events-in-cumulative-columns-per-time-interval-for-multiple) - 1 votes
-* [Pandas operation to obtain a matrix from a dataframe](https://stackoverflow.com/questions/77604676/pandas-operation-to-obtain-a-matrix-from-a-dataframe) - 1 votes
+* [Impute missing rows in Pandas](https://stackoverflow.com/questions/77616421/impute-missing-rows-in-pandas) - 2 votes
+* [Matplotlib axes formatter is not working correctly in Seaborn Stripplot](https://stackoverflow.com/questions/77616738/matplotlib-axes-formatter-is-not-working-correctly-in-seaborn-stripplot) - 1 votes
 * [Pandas replace specific characters in column based on condition using groupby](https://stackoverflow.com/questions/77613661/pandas-replace-specific-characters-in-column-based-on-condition-using-groupby) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
