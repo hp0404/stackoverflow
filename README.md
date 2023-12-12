@@ -1,35 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-12-11<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-12-12<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Repl In Rust as GHCI in Haskell](https://stackoverflow.com/questions/77636478/repl-in-rust-as-ghci-in-haskell) - 6 votes
+* [What39s the correct way to add workspace devdependencies in Cargotoml](https://stackoverflow.com/questions/77642270/whats-the-correct-way-to-add-workspace-dev-dependencies-in-cargo-toml) - 2 votes
 * [Pinltampmut MaybeUninitltTgtgt into Pinltampmut Tgt](https://stackoverflow.com/questions/77637075/pinmut-maybeuninitt-into-pinmut-t) - 2 votes
-* [Rust application exiting with error code exit code 0xc0000005 STATUS_ACCESS_VIOLATION](https://stackoverflow.com/questions/77638621/rust-application-exiting-with-error-code-exit-code-0xc0000005-status-access) - 1 votes
-* [Is base64 encoding a good way to safe space when using serde_json for a Vecltu8gt](https://stackoverflow.com/questions/77636160/is-base64-encoding-a-good-way-to-safe-space-when-using-serde-json-for-a-vecu8) - 1 votes
-* [Why is it false that anything wrapped inside Mutex is thread safe](https://stackoverflow.com/questions/77636874/why-is-it-false-that-anything-wrapped-inside-mutex-is-thread-safe) - 1 votes
+* [How to abbreviate a list of strings to shortest unambiguous form](https://stackoverflow.com/questions/77640553/how-to-abbreviate-a-list-of-strings-to-shortest-unambiguous-form) - 2 votes
+* [Reuse a BytesMut buffer while reading over tcp](https://stackoverflow.com/questions/77645584/reuse-a-bytesmut-buffer-while-reading-over-tcp) - 2 votes
+* [Is there a Rust idiom for converting types of closure arguments](https://stackoverflow.com/questions/77642878/is-there-a-rust-idiom-for-converting-types-of-closure-arguments) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [python3 ldap3 fastapi how to make a connection pool for authentication endpoint](https://stackoverflow.com/questions/77634774/python3-ldap3-fastapi-how-to-make-a-connection-pool-for-authentication-endpoi) - 1 votes
+* [FastAPI with Azure AD TypeError on OAuth2 Authentication](https://stackoverflow.com/questions/77644510/fastapi-with-azure-ad-typeerror-on-oauth2-authentication) - 2 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas table reshape puzzle  list all items and fill in blanks with NaN or 0](https://stackoverflow.com/questions/77636346/pandas-table-reshape-puzzle-list-all-items-and-fill-in-blanks-with-nan-or-0) - 1 votes
-* [Merge different time series containing duplicate values in multiple columns](https://stackoverflow.com/questions/77640854/merge-different-time-series-containing-duplicate-values-in-multiple-columns) - 1 votes
-* [Filter rows based on maxmin value in a group in Pandas](https://stackoverflow.com/questions/77635238/filter-rows-based-on-max-min-value-in-a-group-in-pandas) - 1 votes
-* [Build a df from two other df based on 01 in the df1 and the values in df2](https://stackoverflow.com/questions/77633675/build-a-df-from-two-other-df-based-on-0-1-in-the-df1-and-the-values-in-df2) - 1 votes
-* [npvectorize and relativedelta returning quotrelativedelta only diffs datetimedatequot](https://stackoverflow.com/questions/77637675/np-vectorize-and-relativedelta-returning-relativedelta-only-diffs-datetime-date) - 1 votes
+* [Combine pandas df datetime time and date columns into one datetime column](https://stackoverflow.com/questions/77647553/combine-pandas-df-datetime-time-and-date-columns-into-one-datetime-column) - 2 votes
+* [Make numbers less than 360 in pandas column](https://stackoverflow.com/questions/77647370/make-numbers-less-than-360-in-pandas-column) - 1 votes
+* [Counting the inequalities in a dataframe column](https://stackoverflow.com/questions/77644469/counting-the-inequalities-in-a-dataframe-column) - 1 votes
+* [Split column by last delimiter AND uppercase values  python](https://stackoverflow.com/questions/77643512/split-column-by-last-delimiter-and-uppercase-values-python) - 1 votes
+* [Comparing columns and list elements for using pdDataFrame](https://stackoverflow.com/questions/77646730/comparing-columns-and-list-elements-for-using-pd-dataframe) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
