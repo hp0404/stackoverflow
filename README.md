@@ -1,24 +1,24 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-12-16<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-12-17<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [NeoVim 010 Language injection for SQL highlighting inside Rust code](https://stackoverflow.com/questions/77667762/neovim-0-10-language-injection-for-sql-highlighting-inside-rust-code) - 2 votes
-* [Rust Tuple destructuring with references](https://stackoverflow.com/questions/77667191/rust-tuple-destructuring-with-references) - 2 votes
-* [Rust How to define functions implementing a struct that have the same name but have different return types](https://stackoverflow.com/questions/77671139/rust-how-to-define-functions-implementing-a-struct-that-have-the-same-name-but) - 1 votes
-* [Unable to define an associated functions named quotnewquot that dont have self as their first parameter](https://stackoverflow.com/questions/77667466/unable-to-define-an-associated-functions-named-new-that-don-t-have-self-as-the) - 1 votes
-* [Is it possible to use rust macro to build items of a tuple](https://stackoverflow.com/questions/77665643/is-it-possible-to-use-rust-macro-to-build-items-of-a-tuple) - 1 votes
+* [how to compile Rust code that its functions can be called through Java](https://stackoverflow.com/questions/77671036/how-to-compile-rust-code-that-its-functions-can-be-called-through-java) - 2 votes
+* [Why are lifetimes a problem only when you take a reference to a mutable reference](https://stackoverflow.com/questions/77673378/why-are-lifetimes-a-problem-only-when-you-take-a-reference-to-a-mutable-referenc) - 2 votes
+* [How to define functions implementing a struct that have the same name but have different return types](https://stackoverflow.com/questions/77671139/how-to-define-functions-implementing-a-struct-that-have-the-same-name-but-have) - 1 votes
+* [How do compilers handle enums with more complex values](https://stackoverflow.com/questions/77672111/how-do-compilers-handle-enums-with-more-complex-values) - 1 votes
+* [gtk4rs Get Monitors as gdkMonitor not as a glibObject](https://stackoverflow.com/questions/77673005/gtk4-rs-get-monitors-as-gdkmonitor-not-as-a-glibobject) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI duplicates APIRouter prefix](https://stackoverflow.com/questions/77666303/fastapi-duplicates-apirouter-prefix) - 1 votes
+* [Problems with initial migrations with Alembic while creating tables with foreign key](https://stackoverflow.com/questions/77674027/problems-with-initial-migrations-with-alembic-while-creating-tables-with-foreign) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -26,10 +26,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 ### pandas
 <!-- pandas starts -->
 * [Replacing second row of each group with first row of another dataframe](https://stackoverflow.com/questions/77669659/replacing-second-row-of-each-group-with-first-row-of-another-dataframe) - 1 votes
-* [Create nested dictionary from a pandas dataframe](https://stackoverflow.com/questions/77669166/create-nested-dictionary-from-a-pandas-dataframe) - 1 votes
-* [Creating column and value from Multivalue field with  sep delimit](https://stackoverflow.com/questions/77664078/creating-column-and-value-from-multivalue-field-with-sep-delimit) - 1 votes
+* [foward fill data frame based on location of quot1quots from 2 columns](https://stackoverflow.com/questions/77672058/foward-fill-data-frame-based-on-location-of-1s-from-2-columns) - 1 votes
 * [Fill dataframe from another dataframe based on condition date range](https://stackoverflow.com/questions/77669451/fill-dataframe-from-another-dataframe-based-on-condition-date-range) - 1 votes
-* [Creating a function to standardize labels for each ID](https://stackoverflow.com/questions/77668372/creating-a-function-to-standardize-labels-for-each-id) - 1 votes
+* [groupby streak of numbers and one row after it then check the first value of a column for each group and create a new column](https://stackoverflow.com/questions/77673792/groupby-streak-of-numbers-and-one-row-after-it-then-check-the-first-value-of-a-c) - 1 votes
+* [Get a column value when a specific date is found](https://stackoverflow.com/questions/77674342/get-a-column-value-when-a-specific-date-is-found) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
