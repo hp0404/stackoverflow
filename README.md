@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-12-17<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-12-18<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [how to compile Rust code that its functions can be called through Java](https://stackoverflow.com/questions/77671036/how-to-compile-rust-code-that-its-functions-can-be-called-through-java) - 2 votes
+* [Rewrite a method in Rust to use ampmut self instead of mut self](https://stackoverflow.com/questions/77675736/rewrite-a-method-in-rust-to-use-mut-self-instead-of-mut-self) - 2 votes
+* [Variables not read correctly in custom Rust kernel](https://stackoverflow.com/questions/77680724/variables-not-read-correctly-in-custom-rust-kernel) - 2 votes
 * [Why are lifetimes a problem only when you take a reference to a mutable reference](https://stackoverflow.com/questions/77673378/why-are-lifetimes-a-problem-only-when-you-take-a-reference-to-a-mutable-referenc) - 2 votes
-* [How to define functions implementing a struct that have the same name but have different return types](https://stackoverflow.com/questions/77671139/how-to-define-functions-implementing-a-struct-that-have-the-same-name-but-have) - 1 votes
-* [How do compilers handle enums with more complex values](https://stackoverflow.com/questions/77672111/how-do-compilers-handle-enums-with-more-complex-values) - 1 votes
-* [gtk4rs Get Monitors as gdkMonitor not as a glibObject](https://stackoverflow.com/questions/77673005/gtk4-rs-get-monitors-as-gdkmonitor-not-as-a-glibobject) - 1 votes
+* [Generics in Rust cannot divide ltT as AddgtOutput by float](https://stackoverflow.com/questions/77680792/generics-in-rust-cannot-divide-t-as-addoutput-by-float) - 1 votes
+* [why do environment variables have String type instead of string slice in Rust](https://stackoverflow.com/questions/77680012/why-do-environment-variables-have-string-type-instead-of-string-slice-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -19,17 +19,19 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 ### fastapi
 <!-- fastapi starts -->
 * [Problems with initial migrations with Alembic while creating tables with foreign key](https://stackoverflow.com/questions/77674027/problems-with-initial-migrations-with-alembic-while-creating-tables-with-foreign) - 1 votes
+* [FastAPI shared HttpClient slow response time](https://stackoverflow.com/questions/77679885/fastapi-shared-httpclient-slow-response-time) - 1 votes
+* [INFO 12700152154  quotPOST apiv1contents HTTP11quot 422 Unprocessable Entity Fastapi and Svelte](https://stackoverflow.com/questions/77678489/info-127-0-0-152154-post-api-v1-contents-http-1-1-422-unprocessable-enti) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Replacing second row of each group with first row of another dataframe](https://stackoverflow.com/questions/77669659/replacing-second-row-of-each-group-with-first-row-of-another-dataframe) - 1 votes
-* [foward fill data frame based on location of quot1quots from 2 columns](https://stackoverflow.com/questions/77672058/foward-fill-data-frame-based-on-location-of-1s-from-2-columns) - 1 votes
-* [Fill dataframe from another dataframe based on condition date range](https://stackoverflow.com/questions/77669451/fill-dataframe-from-another-dataframe-based-on-condition-date-range) - 1 votes
+* [Pandas Take date from one column and add it to other](https://stackoverflow.com/questions/77678190/pandas-take-date-from-one-column-and-add-it-to-other) - 2 votes
+* [How to find matching date index in multiple dataframes FASTER without using a loop](https://stackoverflow.com/questions/77681239/how-to-find-matching-date-index-in-multiple-dataframes-faster-without-using-a-lo) - 1 votes
+* [Finding the first row that meets conditions of a mask and selecting one row after it that meets a condition](https://stackoverflow.com/questions/77676553/finding-the-first-row-that-meets-conditions-of-a-mask-and-selecting-one-row-afte) - 1 votes
 * [groupby streak of numbers and one row after it then check the first value of a column for each group and create a new column](https://stackoverflow.com/questions/77673792/groupby-streak-of-numbers-and-one-row-after-it-then-check-the-first-value-of-a-c) - 1 votes
-* [Get a column value when a specific date is found](https://stackoverflow.com/questions/77674342/get-a-column-value-when-a-specific-date-is-found) - 1 votes
+* [How to get QoQ MoM values from previous years](https://stackoverflow.com/questions/77680539/how-to-get-qoq-mom-values-from-previous-years) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
