@@ -1,37 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-12-21<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-12-22<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Is it possible to automate constraint propagation with Rc in Rust](https://stackoverflow.com/questions/77697160/is-it-possible-to-automate-constraint-propagation-with-rc-in-rust) - 3 votes
+* [Is it possible to automate constraint propagation with Rc in Rust](https://stackoverflow.com/questions/77697160/is-it-possible-to-automate-constraint-propagation-with-rc-in-rust) - 4 votes
 * [What39s the difference between a generic trait and a trait with associative types](https://stackoverflow.com/questions/77695797/whats-the-difference-between-a-generic-trait-and-a-trait-with-associative-types) - 2 votes
+* [How set a new value to a struct field and return the old one in the mutable method in rust](https://stackoverflow.com/questions/77703823/how-set-a-new-value-to-a-struct-field-and-return-the-old-one-in-the-mutable-meth) - 2 votes
 * [Access type from parent scope from module inside function](https://stackoverflow.com/questions/77698331/access-type-from-parent-scope-from-module-inside-function) - 2 votes
-* [Trait bounds with generic data type](https://stackoverflow.com/questions/77691860/trait-bounds-with-generic-data-type) - 1 votes
-* [No method lazy found for enum Result when working with Polars dataframes](https://stackoverflow.com/questions/77688704/no-method-lazy-found-for-enum-result-when-working-with-polars-dataframes) - 1 votes
+* [Prevent a serialized struct in Rust from being deserialized into a different one](https://stackoverflow.com/questions/77700360/prevent-a-serialized-struct-in-rust-from-being-deserialized-into-a-different-one) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to return plain text in FastAPI](https://stackoverflow.com/questions/77690364/how-to-return-plain-text-in-fastapi) - 1 votes
 * [A formdata field called local_kw is added automatically as a mandatory argument in swagger ui for fastapi](https://stackoverflow.com/questions/77696337/a-formdata-field-called-local-kw-is-added-automatically-as-a-mandatory-argument) - 1 votes
-* [fastapi azure auth redirect URI mismatch error](https://stackoverflow.com/questions/77693634/fastapi-azure-auth-redirect-uri-mismatch-error) - 1 votes
+* [Run another service in fastapi and monitor its39 startup and shutdown](https://stackoverflow.com/questions/77703350/run-another-service-in-fastapi-and-monitor-its-startup-and-shutdown) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [create filtered value using pandas](https://stackoverflow.com/questions/77704256/create-filtered-value-using-pandas) - 3 votes
+* [Weird behavior checking if npnan is in list from pandas DataFrame](https://stackoverflow.com/questions/77700624/weird-behavior-checking-if-np-nan-is-in-list-from-pandas-dataframe) - 3 votes
+* [It seems that periodto_timestamp and asfreqquotDquot have different behaviours converting a monthly period to first vs last day of month Why](https://stackoverflow.com/questions/77703000/it-seems-that-period-to-timestamp-and-asfreqd-have-different-behaviours-c) - 1 votes
 * [How to delete a value from list within pandas dataframe when the value Is in another column](https://stackoverflow.com/questions/77696087/how-to-delete-a-value-from-list-within-pandas-dataframe-when-the-value-is-in-ano) - 1 votes
-* [create new pandas column is other column contains a string](https://stackoverflow.com/questions/77693327/create-new-pandas-column-is-other-column-contains-a-string) - 1 votes
-* [nptimedelta  Unit M is not supported error after updating packages version](https://stackoverflow.com/questions/77697440/np-timedelta-unit-m-is-not-supported-error-after-updating-packages-version) - 1 votes
-* [Populate NaN cells in dataframe table based on reference table based on specific rows and column values](https://stackoverflow.com/questions/77693813/populate-nan-cells-in-dataframe-table-based-on-reference-table-based-on-specific) - 1 votes
-* [Fill in missing dates in 2023](https://stackoverflow.com/questions/77690093/fill-in-missing-dates-in-2023) - 1 votes
+* [ColumnTransformer output columns order](https://stackoverflow.com/questions/77702906/columntransformer-output-columns-order) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
