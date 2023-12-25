@@ -1,23 +1,24 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-12-24<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-12-25<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Can replacing a String in a mutable reference leak memory](https://stackoverflow.com/questions/77707870/can-replacing-a-string-in-a-mutable-reference-leak-memory) - 5 votes
+* [Why T Send for stdthreadspawn](https://stackoverflow.com/questions/77713973/why-t-send-for-stdthreadspawn) - 3 votes
 * [How to loop over 0  vlen  1 when v might be empty](https://stackoverflow.com/questions/77709668/how-to-loop-over-0-v-len-1-when-v-might-be-empty) - 2 votes
-* [I have a quotusequot that doesn39t work even though it39s in my src](https://stackoverflow.com/questions/77708092/i-have-a-use-that-doesnt-work-even-though-its-in-my-src) - 1 votes
-* [Unable to read redis request from stream](https://stackoverflow.com/questions/77706629/unable-to-read-redis-request-from-stream) - 1 votes
-* [Can39t figure out how to do imports correctly](https://stackoverflow.com/questions/77710293/cant-figure-out-how-to-do-imports-correctly) - 1 votes
+* [How to compress HTML content with Axum  Tower](https://stackoverflow.com/questions/77711906/how-to-compress-html-content-with-axum-tower) - 2 votes
+* [Other than calling wakerwake how can I make sure the Future will be polled again](https://stackoverflow.com/questions/77714299/other-than-calling-waker-wake-how-can-i-make-sure-the-future-will-be-polled) - 2 votes
+* [How to stop Telnet client from echoing](https://stackoverflow.com/questions/77714430/how-to-stop-telnet-client-from-echoing) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
+* [Streaming results of a large db query in FastAPI takes too long](https://stackoverflow.com/questions/77710362/streaming-results-of-a-large-db-query-in-fastapi-takes-too-long) - 1 votes
 * [columns from add_column not reflected in result in sqlmodel  sqlalchemy](https://stackoverflow.com/questions/77709885/columns-from-add-column-not-reflected-in-result-in-sqlmodel-sqlalchemy) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
@@ -25,10 +26,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas Create new column that contains the most recent index where a condition related to the current row is met](https://stackoverflow.com/questions/77707167/pandas-create-new-column-that-contains-the-most-recent-index-where-a-condition) - 3 votes
-* [Change first and last elements of strings or lists inside a dataframe](https://stackoverflow.com/questions/77708882/change-first-and-last-elements-of-strings-or-lists-inside-a-dataframe) - 2 votes
+* [python sort groupby data by keyfunction](https://stackoverflow.com/questions/77714037/python-sort-groupby-data-by-key-function) - 2 votes
 * [Add rows without duplicates in python](https://stackoverflow.com/questions/77711068/add-rows-without-duplicates-in-python) - 2 votes
-* [How to pick slices of groups and complete some if necessary](https://stackoverflow.com/questions/77708463/how-to-pick-slices-of-groups-and-complete-some-if-necessary) - 1 votes
+* [How to calculate ema in polars](https://stackoverflow.com/questions/77713260/how-to-calculate-ema-in-polars) - 2 votes
+* [39Expanding39 dataframe into matrix index](https://stackoverflow.com/questions/77712979/expanding-dataframe-into-matrix-index) - 2 votes
 * [How to show the minor ticks labels in matplotlib](https://stackoverflow.com/questions/77710651/how-to-show-the-minor-ticks-labels-in-matplotlib) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
