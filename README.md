@@ -1,36 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-12-25<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-12-26<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why T Send for stdthreadspawn](https://stackoverflow.com/questions/77713973/why-t-send-for-stdthreadspawn) - 3 votes
-* [How to loop over 0  vlen  1 when v might be empty](https://stackoverflow.com/questions/77709668/how-to-loop-over-0-v-len-1-when-v-might-be-empty) - 2 votes
-* [How to compress HTML content with Axum  Tower](https://stackoverflow.com/questions/77711906/how-to-compress-html-content-with-axum-tower) - 2 votes
-* [Other than calling wakerwake how can I make sure the Future will be polled again](https://stackoverflow.com/questions/77714299/other-than-calling-waker-wake-how-can-i-make-sure-the-future-will-be-polled) - 2 votes
-* [How to stop Telnet client from echoing](https://stackoverflow.com/questions/77714430/how-to-stop-telnet-client-from-echoing) - 1 votes
+* [Other than calling wakerwake how can I make sure the Future will be polled again](https://stackoverflow.com/questions/77714299/other-than-calling-waker-wake-how-can-i-make-sure-the-future-will-be-polled) - 3 votes
+* [Why T Send for stdthreadspawn](https://stackoverflow.com/questions/77713973/why-t-send-for-stdthreadspawn) - 2 votes
+* [Extract route path param into Axum handler using towerservice_fn](https://stackoverflow.com/questions/77714980/extract-route-path-param-into-axum-handler-using-towerservice-fn) - 2 votes
+* [How to query all keyvalue pairs for a pattern from Redis without making multiple requests](https://stackoverflow.com/questions/77718730/how-to-query-all-key-value-pairs-for-a-pattern-from-redis-without-making-multipl) - 1 votes
+* [How does rust searches for crates](https://stackoverflow.com/questions/77714846/how-does-rust-searches-for-crates) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Streaming results of a large db query in FastAPI takes too long](https://stackoverflow.com/questions/77710362/streaming-results-of-a-large-db-query-in-fastapi-takes-too-long) - 1 votes
-* [columns from add_column not reflected in result in sqlmodel  sqlalchemy](https://stackoverflow.com/questions/77709885/columns-from-add-column-not-reflected-in-result-in-sqlmodel-sqlalchemy) - 1 votes
+* [Is it sufficient use IP Restriction instead of JWTs if there are no userspecific restrictions](https://stackoverflow.com/questions/77715661/is-it-sufficient-use-ip-restriction-instead-of-jwts-if-there-are-no-user-specifi) - 2 votes
+* [How to reuse AsyncClient fixture](https://stackoverflow.com/questions/77714538/how-to-reuse-asyncclient-fixture) - 1 votes
+* [How do I return a FileResponse or StreamingResponse in fletfastapi](https://stackoverflow.com/questions/77713136/how-do-i-return-a-fileresponse-or-streamingresponse-in-flet-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [How to align bar labels on the right in barh plot](https://stackoverflow.com/questions/77715680/how-to-align-bar-labels-on-the-right-in-barh-plot) - 3 votes
 * [python sort groupby data by keyfunction](https://stackoverflow.com/questions/77714037/python-sort-groupby-data-by-key-function) - 2 votes
-* [Add rows without duplicates in python](https://stackoverflow.com/questions/77711068/add-rows-without-duplicates-in-python) - 2 votes
-* [How to calculate ema in polars](https://stackoverflow.com/questions/77713260/how-to-calculate-ema-in-polars) - 2 votes
 * [39Expanding39 dataframe into matrix index](https://stackoverflow.com/questions/77712979/expanding-dataframe-into-matrix-index) - 2 votes
-* [How to show the minor ticks labels in matplotlib](https://stackoverflow.com/questions/77710651/how-to-show-the-minor-ticks-labels-in-matplotlib) - 1 votes
+* [Create a dictionary inside of FOR loop and the Create a data frame](https://stackoverflow.com/questions/77714951/create-a-dictionary-inside-of-for-loop-and-the-create-a-data-frame) - 1 votes
+* [How to select some values of a dataframe based on a list of coordinates](https://stackoverflow.com/questions/77715073/how-to-select-some-values-of-a-dataframe-based-on-a-list-of-coordinates) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
