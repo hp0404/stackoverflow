@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-12-26<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-12-27<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Other than calling wakerwake how can I make sure the Future will be polled again](https://stackoverflow.com/questions/77714299/other-than-calling-waker-wake-how-can-i-make-sure-the-future-will-be-polled) - 3 votes
-* [Why T Send for stdthreadspawn](https://stackoverflow.com/questions/77713973/why-t-send-for-stdthreadspawn) - 2 votes
-* [Extract route path param into Axum handler using towerservice_fn](https://stackoverflow.com/questions/77714980/extract-route-path-param-into-axum-handler-using-towerservice-fn) - 2 votes
+* [How to tap an iterator](https://stackoverflow.com/questions/77720028/how-to-tap-an-iterator) - 5 votes
+* [How can I avoid memory allocation error for large vector](https://stackoverflow.com/questions/77721990/how-can-i-avoid-memory-allocation-error-for-large-vector) - 2 votes
+* [passing ownership in rust](https://stackoverflow.com/questions/77719442/passing-ownership-in-rust) - 1 votes
 * [How to query all keyvalue pairs for a pattern from Redis without making multiple requests](https://stackoverflow.com/questions/77718730/how-to-query-all-key-value-pairs-for-a-pattern-from-redis-without-making-multipl) - 1 votes
-* [How does rust searches for crates](https://stackoverflow.com/questions/77714846/how-does-rust-searches-for-crates) - 1 votes
+* [how to intern a dynamicallycreated String in Rust](https://stackoverflow.com/questions/77720681/how-to-intern-a-dynamically-created-string-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -19,8 +19,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 ### fastapi
 <!-- fastapi starts -->
 * [Is it sufficient use IP Restriction instead of JWTs if there are no userspecific restrictions](https://stackoverflow.com/questions/77715661/is-it-sufficient-use-ip-restriction-instead-of-jwts-if-there-are-no-user-specifi) - 2 votes
-* [How to reuse AsyncClient fixture](https://stackoverflow.com/questions/77714538/how-to-reuse-asyncclient-fixture) - 1 votes
-* [How do I return a FileResponse or StreamingResponse in fletfastapi](https://stackoverflow.com/questions/77713136/how-do-i-return-a-fileresponse-or-streamingresponse-in-flet-fastapi) - 1 votes
+* [How to serve concurrent matplotlib figures as images in an HTTP API](https://stackoverflow.com/questions/77722578/how-to-serve-concurrent-matplotlib-figures-as-images-in-an-http-api) - 1 votes
+* [How order fields in FastAPISwaggerUI](https://stackoverflow.com/questions/77719635/how-order-fields-in-fastapi-swaggerui) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -28,10 +28,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 ### pandas
 <!-- pandas starts -->
 * [How to align bar labels on the right in barh plot](https://stackoverflow.com/questions/77715680/how-to-align-bar-labels-on-the-right-in-barh-plot) - 3 votes
-* [python sort groupby data by keyfunction](https://stackoverflow.com/questions/77714037/python-sort-groupby-data-by-key-function) - 2 votes
-* [39Expanding39 dataframe into matrix index](https://stackoverflow.com/questions/77712979/expanding-dataframe-into-matrix-index) - 2 votes
-* [Create a dictionary inside of FOR loop and the Create a data frame](https://stackoverflow.com/questions/77714951/create-a-dictionary-inside-of-for-loop-and-the-create-a-data-frame) - 1 votes
-* [How to select some values of a dataframe based on a list of coordinates](https://stackoverflow.com/questions/77715073/how-to-select-some-values-of-a-dataframe-based-on-a-list-of-coordinates) - 1 votes
+* [Pandas DataFrame get 3 max values in the row and their column names](https://stackoverflow.com/questions/77718744/pandas-dataframe-get-3-max-values-in-the-row-and-their-column-names) - 1 votes
+* [Drop the duplicated index and keep one in the multiindex dataframe](https://stackoverflow.com/questions/77720053/drop-the-duplicated-index-and-keep-one-in-the-multi-index-dataframe) - 1 votes
+* [Groupby column of sequence of numbers](https://stackoverflow.com/questions/77720235/groupby-column-of-sequence-of-numbers) - 1 votes
+* [How to speed up ordinal encoding of sparse categorical data](https://stackoverflow.com/questions/77722635/how-to-speed-up-ordinal-encoding-of-sparse-categorical-data) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
