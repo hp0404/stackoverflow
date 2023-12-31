@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-12-30<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2023-12-31<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why doesn39t the system free the memory of C and Rust programs properly But C programs seem to have no issues](https://stackoverflow.com/questions/77731366/why-doesnt-the-system-free-the-memory-of-c-and-rust-programs-properly-but-c) - 3 votes
+* [Capturing FnMut closure doesn39t live long enough](https://stackoverflow.com/questions/77738362/capturing-fnmut-closure-doesnt-live-long-enough) - 4 votes
+* [Why does serde39s derivation of SerializeDeserialize produce code in const _  block](https://stackoverflow.com/questions/77738366/why-does-serdes-derivation-of-serialize-deserialize-produce-code-in-const) - 3 votes
+* [Use Rust39s reduce to perform sequential kronecker product to multiple arrays](https://stackoverflow.com/questions/77739178/use-rusts-reduce-to-perform-sequential-kronecker-product-to-multiple-arrays) - 2 votes
+* [Integrating gRPC with Keycloak for Flutter App  Feasibility and Implementation](https://stackoverflow.com/questions/77737364/integrating-grpc-with-keycloak-for-flutter-app-feasibility-and-implementation) - 2 votes
 * [Why is this quotwhile letquot loop an infinite loop](https://stackoverflow.com/questions/77736230/why-is-this-while-let-loop-an-infinite-loop) - 1 votes
-* [How to remove the dock icon on Mac Tauri](https://stackoverflow.com/questions/77736754/how-to-remove-the-dock-icon-on-mac-tauri) - 1 votes
-* [Temporarily Mutating Immutable Structs](https://stackoverflow.com/questions/77735353/temporarily-mutating-immutable-structs) - 1 votes
-* [Integrating gRPC with Keycloak for Flutter App  Feasibility and Implementation](https://stackoverflow.com/questions/77737364/integrating-grpc-with-keycloak-for-flutter-app-feasibility-and-implementation) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -27,9 +27,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2023-1
 <!-- pandas starts -->
 * [Replace spaces with hyphens in target field of csv file header records](https://stackoverflow.com/questions/77736792/replace-spaces-with-hyphens-in-target-field-of-csv-file-header-records) - 3 votes
 * [stack multiple columns in a pandas dataframe](https://stackoverflow.com/questions/77735868/stack-multiple-columns-in-a-pandas-dataframe) - 2 votes
-* [Creating a new column by a condition and selecting the maximum value by shift](https://stackoverflow.com/questions/77734349/creating-a-new-column-by-a-condition-and-selecting-the-maximum-value-by-shift) - 2 votes
-* [Pandas dataframe how to multiply a specific value by using its row index](https://stackoverflow.com/questions/77729786/pandas-dataframe-how-to-multiply-a-specific-value-by-using-its-row-index) - 1 votes
-* [Find mode for each group in pandas DataFrame](https://stackoverflow.com/questions/77732012/find-mode-for-each-group-in-pandas-dataframe) - 1 votes
+* [Breaking up dataframe into chunks for a loop](https://stackoverflow.com/questions/77734544/breaking-up-dataframe-into-chunks-for-a-loop) - 2 votes
+* [Pandas join with multiindex and NaN](https://stackoverflow.com/questions/77737760/pandas-join-with-multi-index-and-nan) - 1 votes
+* [Find max row value using shift and apply in pandas](https://stackoverflow.com/questions/77738358/find-max-row-value-using-shift-and-apply-in-pandas) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
