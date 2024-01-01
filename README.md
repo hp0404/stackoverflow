@@ -1,35 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2023-12-31<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-01<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Why does serde39s derivation of SerializeDeserialize produce code in const _  block](https://stackoverflow.com/questions/77738366/why-does-serdes-derivation-of-serialize-deserialize-produce-code-in-const) - 4 votes
 * [Capturing FnMut closure doesn39t live long enough](https://stackoverflow.com/questions/77738362/capturing-fnmut-closure-doesnt-live-long-enough) - 4 votes
-* [Why does serde39s derivation of SerializeDeserialize produce code in const _  block](https://stackoverflow.com/questions/77738366/why-does-serdes-derivation-of-serialize-deserialize-produce-code-in-const) - 3 votes
 * [Use Rust39s reduce to perform sequential kronecker product to multiple arrays](https://stackoverflow.com/questions/77739178/use-rusts-reduce-to-perform-sequential-kronecker-product-to-multiple-arrays) - 2 votes
-* [Integrating gRPC with Keycloak for Flutter App  Feasibility and Implementation](https://stackoverflow.com/questions/77737364/integrating-grpc-with-keycloak-for-flutter-app-feasibility-and-implementation) - 2 votes
-* [Why is this quotwhile letquot loop an infinite loop](https://stackoverflow.com/questions/77736230/why-is-this-while-let-loop-an-infinite-loop) - 1 votes
+* [Why can39t you return a reference to a temporary](https://stackoverflow.com/questions/77740828/why-cant-you-return-a-reference-to-a-temporary) - 1 votes
+* [How can I export a generic rust function to a C header](https://stackoverflow.com/questions/77742660/how-can-i-export-a-generic-rust-function-to-a-c-header) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI integration with KeyCloak OpenID](https://stackoverflow.com/questions/77735546/fastapi-integration-with-keycloak-openid) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Replace spaces with hyphens in target field of csv file header records](https://stackoverflow.com/questions/77736792/replace-spaces-with-hyphens-in-target-field-of-csv-file-header-records) - 3 votes
-* [stack multiple columns in a pandas dataframe](https://stackoverflow.com/questions/77735868/stack-multiple-columns-in-a-pandas-dataframe) - 2 votes
-* [Breaking up dataframe into chunks for a loop](https://stackoverflow.com/questions/77734544/breaking-up-dataframe-into-chunks-for-a-loop) - 2 votes
-* [Pandas join with multiindex and NaN](https://stackoverflow.com/questions/77737760/pandas-join-with-multi-index-and-nan) - 1 votes
+* [Merge dfs but avoid duplication of columns and maintain the order in Pandas](https://stackoverflow.com/questions/77741075/merge-dfs-but-avoid-duplication-of-columns-and-maintain-the-order-in-pandas) - 3 votes
+* [Replacing a value with its previous value in a column if it is greater](https://stackoverflow.com/questions/77740923/replacing-a-value-with-its-previous-value-in-a-column-if-it-is-greater) - 2 votes
+* [Pandas Groupby  Run Self Function  Then TransformApply](https://stackoverflow.com/questions/77740674/pandas-groupby-run-self-function-then-transformapply) - 2 votes
 * [Find max row value using shift and apply in pandas](https://stackoverflow.com/questions/77738358/find-max-row-value-using-shift-and-apply-in-pandas) - 1 votes
+* [Beginner Level  Python Pandas query working with Pokemon DB](https://stackoverflow.com/questions/77741487/beginner-level-python-pandas-query-working-with-pokemon-db) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
