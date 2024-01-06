@@ -1,23 +1,25 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-05<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-06<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to write a function that takes a closure as a parameter that takes another closure as a parameter](https://stackoverflow.com/questions/77761299/how-to-write-a-function-that-takes-a-closure-as-a-parameter-that-takes-another-c) - 5 votes
-* [Is there a way to specify assertions that would be active in tests only in Rust](https://stackoverflow.com/questions/77758004/is-there-a-way-to-specify-assertions-that-would-be-active-in-tests-only-in-rust) - 3 votes
 * [How can I publishsubscribe to messages without any loss](https://stackoverflow.com/questions/77764335/how-can-i-publish-subscribe-to-messages-without-any-loss) - 3 votes
-* [What happens when I use ic_cdkspawn in an IC canister and then panic after](https://stackoverflow.com/questions/77760705/what-happens-when-i-use-ic-cdkspawn-in-an-ic-canister-and-then-panic-after) - 2 votes
-* [Does operating system thread scheduling factor in to the decision to use stdsyncMutex vs tokiosyncMutex](https://stackoverflow.com/questions/77760324/does-operating-system-thread-scheduling-factor-in-to-the-decision-to-use-stdsy) - 2 votes
+* [How do you get the app version in Tauri on the Rust side](https://stackoverflow.com/questions/77768927/how-do-you-get-the-app-version-in-tauri-on-the-rust-side) - 1 votes
+* [How to properly pass App handler to other modules in Tauri](https://stackoverflow.com/questions/77770029/how-to-properly-pass-app-handler-to-other-modules-in-tauri) - 1 votes
+* [Deserialize a tree having another tree as reference](https://stackoverflow.com/questions/77765756/deserialize-a-tree-having-another-tree-as-reference) - 1 votes
+* [Stream stdsyncmpscReceiver results from function](https://stackoverflow.com/questions/77765668/stream-stdsyncmpscreceiver-results-from-function) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
+* [How to generate a standalone Swagger UI docs page for each endpoint in FastAPI instead of generating API docs for all the endpoints in one page](https://stackoverflow.com/questions/77769625/how-to-generate-a-standalone-swagger-ui-docs-page-for-each-endpoint-in-fastapi) - 2 votes
+* [How do I create a class with async code in the constructor](https://stackoverflow.com/questions/77770168/how-do-i-create-a-class-with-async-code-in-the-constructor) - 1 votes
 * [Pydantic v2 custom field serializer seems to be ignored](https://stackoverflow.com/questions/77764263/pydantic-v2-custom-field-serializer-seems-to-be-ignored) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
@@ -25,11 +27,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### pandas
 <!-- pandas starts -->
+* [Merge 3 dataframes with different timesteps 10min and 15min and 30min using pandas](https://stackoverflow.com/questions/77766887/merge-3-dataframes-with-different-timesteps-10min-and-15min-and-30min-using-pa) - 4 votes
+* [Creating a new column when values in another column is not duplicate](https://stackoverflow.com/questions/77767405/creating-a-new-column-when-values-in-another-column-is-not-duplicate) - 2 votes
+* [Pairwise Conditional Averages in Pandas](https://stackoverflow.com/questions/77770099/pairwise-conditional-averages-in-pandas) - 2 votes
 * [How to set multiple values in a Pandas dataframe at once](https://stackoverflow.com/questions/77764710/how-to-set-multiple-values-in-a-pandas-dataframe-at-once) - 2 votes
-* [Merge 3 dataframes with different timesteps 10min and 15min and 30min using pandas](https://stackoverflow.com/questions/77766887/merge-3-dataframes-with-different-timesteps-10min-and-15min-and-30min-using-pa) - 2 votes
-* [Panda count totals of multiple excel columns](https://stackoverflow.com/questions/77760248/panda-count-totals-of-multiple-excel-columns) - 1 votes
-* [Simplify JSON to help CSV conversion python](https://stackoverflow.com/questions/77764275/simplify-json-to-help-csv-conversion-python) - 1 votes
-* [Max across Groups](https://stackoverflow.com/questions/77755880/max-across-groups) - 1 votes
+* [Facing Memory Issue while parsing XML using ELEMNTREE and Beautifulsoup](https://stackoverflow.com/questions/77764465/facing-memory-issue-while-parsing-xml-using-elemntree-and-beautifulsoup) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
