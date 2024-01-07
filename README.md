@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-06<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-07<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How can I publishsubscribe to messages without any loss](https://stackoverflow.com/questions/77764335/how-can-i-publish-subscribe-to-messages-without-any-loss) - 3 votes
+* [What does integer cast as pointer mean](https://stackoverflow.com/questions/77774197/what-does-integer-cast-as-pointer-mean) - 2 votes
+* [Why doesn39t this 39increment then decrement39 generic const expression work in Rust](https://stackoverflow.com/questions/77772328/why-doesnt-this-increment-then-decrement-generic-const-expression-work-in-rus) - 2 votes
 * [How do you get the app version in Tauri on the Rust side](https://stackoverflow.com/questions/77768927/how-do-you-get-the-app-version-in-tauri-on-the-rust-side) - 1 votes
-* [How to properly pass App handler to other modules in Tauri](https://stackoverflow.com/questions/77770029/how-to-properly-pass-app-handler-to-other-modules-in-tauri) - 1 votes
-* [Deserialize a tree having another tree as reference](https://stackoverflow.com/questions/77765756/deserialize-a-tree-having-another-tree-as-reference) - 1 votes
-* [Stream stdsyncmpscReceiver results from function](https://stackoverflow.com/questions/77765668/stream-stdsyncmpscreceiver-results-from-function) - 1 votes
+* [Why is NodeJS so much faster than Rust for coding Varint according to my tests](https://stackoverflow.com/questions/77768854/why-is-nodejs-so-much-faster-than-rust-for-coding-varint-according-to-my-tests) - 1 votes
+* [How to quit or exit evcxr in Rust without ctrlc39ing](https://stackoverflow.com/questions/77772219/how-to-quit-or-exit-evcxr-in-rust-without-ctrl-cing) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -20,18 +20,17 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 <!-- fastapi starts -->
 * [How to generate a standalone Swagger UI docs page for each endpoint in FastAPI instead of generating API docs for all the endpoints in one page](https://stackoverflow.com/questions/77769625/how-to-generate-a-standalone-swagger-ui-docs-page-for-each-endpoint-in-fastapi) - 2 votes
 * [How do I create a class with async code in the constructor](https://stackoverflow.com/questions/77770168/how-do-i-create-a-class-with-async-code-in-the-constructor) - 1 votes
-* [Pydantic v2 custom field serializer seems to be ignored](https://stackoverflow.com/questions/77764263/pydantic-v2-custom-field-serializer-seems-to-be-ignored) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Merge 3 dataframes with different timesteps 10min and 15min and 30min using pandas](https://stackoverflow.com/questions/77766887/merge-3-dataframes-with-different-timesteps-10min-and-15min-and-30min-using-pa) - 4 votes
-* [Creating a new column when values in another column is not duplicate](https://stackoverflow.com/questions/77767405/creating-a-new-column-when-values-in-another-column-is-not-duplicate) - 2 votes
-* [Pairwise Conditional Averages in Pandas](https://stackoverflow.com/questions/77770099/pairwise-conditional-averages-in-pandas) - 2 votes
-* [How to set multiple values in a Pandas dataframe at once](https://stackoverflow.com/questions/77764710/how-to-set-multiple-values-in-a-pandas-dataframe-at-once) - 2 votes
-* [Facing Memory Issue while parsing XML using ELEMNTREE and Beautifulsoup](https://stackoverflow.com/questions/77764465/facing-memory-issue-while-parsing-xml-using-elemntree-and-beautifulsoup) - 2 votes
+* [Merging DataFrame Columns in Python](https://stackoverflow.com/questions/77771673/merging-dataframe-columns-in-python) - 3 votes
+* [Pairwise Conditional Averages in Pandas](https://stackoverflow.com/questions/77770099/pairwise-conditional-averages-in-pandas) - 3 votes
+* [Excel conditional formatting rule Openpyxl or Pandas](https://stackoverflow.com/questions/77772261/excel-conditional-formatting-rule-openpyxl-or-pandas) - 1 votes
+* [Utilizing a loop or automated method instead of manually typing out each iloc position to change dataframe value](https://stackoverflow.com/questions/77768508/utilizing-a-loop-or-automated-method-instead-of-manually-typing-out-each-iloc-po) - 1 votes
+* [Julian date of timezoneaware timestamp](https://stackoverflow.com/questions/77772928/julian-date-of-timezone-aware-timestamp) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
