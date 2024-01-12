@@ -1,37 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-11<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-12<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [strange performance difference running rust code in powershell vs cmd](https://stackoverflow.com/questions/77796807/strange-performance-difference-running-rust-code-in-powershell-vs-cmd) - 2 votes
-* [static link ffmpeg to rust binary](https://stackoverflow.com/questions/77790321/static-link-ffmpeg-to-rust-binary) - 2 votes
 * [Simpler way to convert array into HashMap](https://stackoverflow.com/questions/77798108/simpler-way-to-convert-array-into-hashmap) - 1 votes
-* [Macro that accepts an expression referencing variables defined by the macro](https://stackoverflow.com/questions/77790344/macro-that-accepts-an-expression-referencing-variables-defined-by-the-macro) - 1 votes
-* [Determine correct gateway for ip in rust](https://stackoverflow.com/questions/77797079/determine-correct-gateway-for-ip-in-rust) - 1 votes
+* [Using stdoslinux and stdoswindows in a crossplatform application](https://stackoverflow.com/questions/77804155/using-stdoslinux-and-stdoswindows-in-a-cross-platform-application) - 1 votes
+* [How to pass pointer through u81 member in struct when use ffi between Rust and C](https://stackoverflow.com/questions/77804481/how-to-pass-pointer-through-u81-member-in-struct-when-use-ffi-between-rust-an) - 1 votes
+* [Lifetime issue in default trait implementation](https://stackoverflow.com/questions/77803966/lifetime-issue-in-default-trait-implementation) - 1 votes
+* [How to specify a different type to const generics paramters in Rust](https://stackoverflow.com/questions/77807654/how-to-specify-a-different-type-to-const-generics-paramters-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Overriding a route dependency in FastAPI](https://stackoverflow.com/questions/77796418/overriding-a-route-dependency-in-fastapi) - 1 votes
-* [Max upload size for Google Cloud Run backend using FastAPI](https://stackoverflow.com/questions/77794927/max-upload-size-for-google-cloud-run-backend-using-fastapi) - 1 votes
-* [FastAPI  dependency for validation something](https://stackoverflow.com/questions/77793561/fastapi-dependency-for-validation-something) - 1 votes
+* [Using FastAPI to get list of containers present on my local not working](https://stackoverflow.com/questions/77805321/using-fastapi-to-get-list-of-containers-present-on-my-local-not-working) - 1 votes
+* [FastAPI instance not working with docker on windows machine](https://stackoverflow.com/questions/77797436/fastapi-instance-not-working-with-docker-on-windows-machine) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How to get common timeintervals in pandas](https://stackoverflow.com/questions/77790973/how-to-get-common-timeintervals-in-pandas) - 3 votes
-* [Combining two dataFrames in which the order of entries don39t match](https://stackoverflow.com/questions/77796639/combining-two-dataframes-in-which-the-order-of-entries-dont-match) - 2 votes
-* [Add column in one dataframe from looking up another one](https://stackoverflow.com/questions/77793899/add-column-in-one-dataframe-from-looking-up-another-one) - 2 votes
-* [Average day of a month on minute precision](https://stackoverflow.com/questions/77792098/average-day-of-a-month-on-minute-precision) - 2 votes
-* [Finding the maximum value between two columns where one of them is shifted](https://stackoverflow.com/questions/77790846/finding-the-maximum-value-between-two-columns-where-one-of-them-is-shifted) - 2 votes
+* [How can I create a list of range of numbers as a column of dataframe](https://stackoverflow.com/questions/77801556/how-can-i-create-a-list-of-range-of-numbers-as-a-column-of-dataframe) - 2 votes
+* [Pandas remove characters from a column of strings](https://stackoverflow.com/questions/77808235/pandas-remove-characters-from-a-column-of-strings) - 2 votes
+* [How to adjust the value counts based on a metric](https://stackoverflow.com/questions/77805621/how-to-adjust-the-value-counts-based-on-a-metric) - 1 votes
+* [How to access sub property in Pandas](https://stackoverflow.com/questions/77803280/how-to-access-sub-property-in-pandas) - 1 votes
+* [How to turn dataframe rows into multiindex levels](https://stackoverflow.com/questions/77799470/how-to-turn-dataframe-rows-into-multiindex-levels) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
