@@ -1,36 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-12<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-13<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Simpler way to convert array into HashMap](https://stackoverflow.com/questions/77798108/simpler-way-to-convert-array-into-hashmap) - 1 votes
-* [Using stdoslinux and stdoswindows in a crossplatform application](https://stackoverflow.com/questions/77804155/using-stdoslinux-and-stdoswindows-in-a-cross-platform-application) - 1 votes
-* [How to pass pointer through u81 member in struct when use ffi between Rust and C](https://stackoverflow.com/questions/77804481/how-to-pass-pointer-through-u81-member-in-struct-when-use-ffi-between-rust-an) - 1 votes
-* [Lifetime issue in default trait implementation](https://stackoverflow.com/questions/77803966/lifetime-issue-in-default-trait-implementation) - 1 votes
-* [How to specify a different type to const generics paramters in Rust](https://stackoverflow.com/questions/77807654/how-to-specify-a-different-type-to-const-generics-paramters-in-rust) - 1 votes
+* [Using stdoslinux and stdoswindows in a crossplatform application](https://stackoverflow.com/questions/77804155/using-stdoslinux-and-stdoswindows-in-a-cross-platform-application) - 2 votes
+* [How to pass pointer through u81 member in struct when use ffi between Rust and C](https://stackoverflow.com/questions/77804481/how-to-pass-pointer-through-u81-member-in-struct-when-use-ffi-between-rust-an) - 2 votes
+* [Easy translation between struct and map format](https://stackoverflow.com/questions/77811744/easy-translation-between-struct-and-map-format) - 2 votes
+* [Mock HTTP server with TLS support](https://stackoverflow.com/questions/77809051/mock-http-server-with-tls-support) - 2 votes
+* [How to handle asynchronous operations with rusty_v8](https://stackoverflow.com/questions/77811053/how-to-handle-asynchronous-operations-with-rusty-v8) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
+* [CORS Issue in FastApi  Graphene No Response Beyond GQL Playground](https://stackoverflow.com/questions/77809587/cors-issue-in-fastapi-graphene-no-response-beyond-gql-playground) - 1 votes
+* [FastAPI exception_handlers and mounted apps](https://stackoverflow.com/questions/77807054/fastapi-exception-handlers-and-mounted-apps) - 1 votes
 * [Using FastAPI to get list of containers present on my local not working](https://stackoverflow.com/questions/77805321/using-fastapi-to-get-list-of-containers-present-on-my-local-not-working) - 1 votes
-* [FastAPI instance not working with docker on windows machine](https://stackoverflow.com/questions/77797436/fastapi-instance-not-working-with-docker-on-windows-machine) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How can I create a list of range of numbers as a column of dataframe](https://stackoverflow.com/questions/77801556/how-can-i-create-a-list-of-range-of-numbers-as-a-column-of-dataframe) - 2 votes
+* [Update the values in the DF based on the column name](https://stackoverflow.com/questions/77808706/update-the-values-in-the-df-based-on-the-column-name) - 2 votes
 * [Pandas remove characters from a column of strings](https://stackoverflow.com/questions/77808235/pandas-remove-characters-from-a-column-of-strings) - 2 votes
-* [How to adjust the value counts based on a metric](https://stackoverflow.com/questions/77805621/how-to-adjust-the-value-counts-based-on-a-metric) - 1 votes
-* [How to access sub property in Pandas](https://stackoverflow.com/questions/77803280/how-to-access-sub-property-in-pandas) - 1 votes
-* [How to turn dataframe rows into multiindex levels](https://stackoverflow.com/questions/77799470/how-to-turn-dataframe-rows-into-multiindex-levels) - 1 votes
+* [Appending to Dataframe inside Dataframe leads to nan](https://stackoverflow.com/questions/77811261/appending-to-dataframe-inside-dataframe-leads-to-nan) - 2 votes
+* [polars equivalent of pandaspivot_tablereindex](https://stackoverflow.com/questions/77811797/polars-equivalent-of-pandas-pivot-table-reindex) - 2 votes
+* [Seeing Groupby results](https://stackoverflow.com/questions/77809925/seeing-groupby-results) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
