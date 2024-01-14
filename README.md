@@ -1,37 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-13<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-14<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Using stdoslinux and stdoswindows in a crossplatform application](https://stackoverflow.com/questions/77804155/using-stdoslinux-and-stdoswindows-in-a-cross-platform-application) - 2 votes
-* [How to pass pointer through u81 member in struct when use ffi between Rust and C](https://stackoverflow.com/questions/77804481/how-to-pass-pointer-through-u81-member-in-struct-when-use-ffi-between-rust-an) - 2 votes
+* [Why are we allowed to convert mutable reference to immutable reference](https://stackoverflow.com/questions/77813165/why-are-we-allowed-to-convert-mutable-reference-to-immutable-reference) - 2 votes
 * [Easy translation between struct and map format](https://stackoverflow.com/questions/77811744/easy-translation-between-struct-and-map-format) - 2 votes
-* [Mock HTTP server with TLS support](https://stackoverflow.com/questions/77809051/mock-http-server-with-tls-support) - 2 votes
+* [How to modify a R string in Rust and assign it to a new R variable and keep the original R string using extendr](https://stackoverflow.com/questions/77815360/how-to-modify-a-r-string-in-rust-and-assign-it-to-a-new-r-variable-and-keep-the) - 2 votes
 * [How to handle asynchronous operations with rusty_v8](https://stackoverflow.com/questions/77811053/how-to-handle-asynchronous-operations-with-rusty-v8) - 2 votes
+* [Calling a function from Typenew](https://stackoverflow.com/questions/77814031/calling-a-function-from-typenew) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [CORS Issue in FastApi  Graphene No Response Beyond GQL Playground](https://stackoverflow.com/questions/77809587/cors-issue-in-fastapi-graphene-no-response-beyond-gql-playground) - 1 votes
-* [FastAPI exception_handlers and mounted apps](https://stackoverflow.com/questions/77807054/fastapi-exception-handlers-and-mounted-apps) - 1 votes
-* [Using FastAPI to get list of containers present on my local not working](https://stackoverflow.com/questions/77805321/using-fastapi-to-get-list-of-containers-present-on-my-local-not-working) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Update the values in the DF based on the column name](https://stackoverflow.com/questions/77808706/update-the-values-in-the-df-based-on-the-column-name) - 2 votes
-* [Pandas remove characters from a column of strings](https://stackoverflow.com/questions/77808235/pandas-remove-characters-from-a-column-of-strings) - 2 votes
 * [Appending to Dataframe inside Dataframe leads to nan](https://stackoverflow.com/questions/77811261/appending-to-dataframe-inside-dataframe-leads-to-nan) - 2 votes
-* [polars equivalent of pandaspivot_tablereindex](https://stackoverflow.com/questions/77811797/polars-equivalent-of-pandas-pivot-table-reindex) - 2 votes
 * [Seeing Groupby results](https://stackoverflow.com/questions/77809925/seeing-groupby-results) - 2 votes
+* [Pandas Dataframe to sliding window](https://stackoverflow.com/questions/77812013/pandas-dataframe-to-sliding-window) - 1 votes
+* [How to pull data from Json and put it in a table format](https://stackoverflow.com/questions/77809879/how-to-pull-data-from-json-and-put-it-in-a-table-format) - 1 votes
+* [Python convert Pandas to nested JSON](https://stackoverflow.com/questions/77811653/python-convert-pandas-to-nested-json) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
