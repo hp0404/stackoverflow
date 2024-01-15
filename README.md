@@ -1,16 +1,14 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-14<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-15<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why are we allowed to convert mutable reference to immutable reference](https://stackoverflow.com/questions/77813165/why-are-we-allowed-to-convert-mutable-reference-to-immutable-reference) - 2 votes
-* [Easy translation between struct and map format](https://stackoverflow.com/questions/77811744/easy-translation-between-struct-and-map-format) - 2 votes
+* [In Rust what is the idiomatic way to run a side effect such as logging if Result is Err](https://stackoverflow.com/questions/77819863/in-rust-what-is-the-idiomatic-way-to-run-a-side-effect-such-as-logging-if-resu) - 2 votes
 * [How to modify a R string in Rust and assign it to a new R variable and keep the original R string using extendr](https://stackoverflow.com/questions/77815360/how-to-modify-a-r-string-in-rust-and-assign-it-to-a-new-r-variable-and-keep-the) - 2 votes
-* [How to handle asynchronous operations with rusty_v8](https://stackoverflow.com/questions/77811053/how-to-handle-asynchronous-operations-with-rusty-v8) - 2 votes
 * [Calling a function from Typenew](https://stackoverflow.com/questions/77814031/calling-a-function-from-typenew) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -18,18 +16,19 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [python avoid catching specific exception](https://stackoverflow.com/questions/77819219/python-avoid-catching-specific-exception) - 1 votes
+* [FastAPI decode JWT id_token returned from Authlib OAuth with Google](https://stackoverflow.com/questions/77817323/fastapi-decode-jwt-id-token-returned-from-authlib-oauth-with-google) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Appending to Dataframe inside Dataframe leads to nan](https://stackoverflow.com/questions/77811261/appending-to-dataframe-inside-dataframe-leads-to-nan) - 2 votes
-* [Seeing Groupby results](https://stackoverflow.com/questions/77809925/seeing-groupby-results) - 2 votes
-* [Pandas Dataframe to sliding window](https://stackoverflow.com/questions/77812013/pandas-dataframe-to-sliding-window) - 1 votes
-* [How to pull data from Json and put it in a table format](https://stackoverflow.com/questions/77809879/how-to-pull-data-from-json-and-put-it-in-a-table-format) - 1 votes
-* [Python convert Pandas to nested JSON](https://stackoverflow.com/questions/77811653/python-convert-pandas-to-nested-json) - 1 votes
+* [pandasto_datetime is off by one hour](https://stackoverflow.com/questions/77820136/pandas-to-datetime-is-off-by-one-hour) - 2 votes
+* [How can I select all dataframe entries between two times when the time is a series](https://stackoverflow.com/questions/77818764/how-can-i-select-all-dataframe-entries-between-two-times-when-the-time-is-a-ser) - 2 votes
+* [PythonPandas  Select rows that match more than one condition on group](https://stackoverflow.com/questions/77819360/python-pandas-select-rows-that-match-more-than-one-condition-on-group) - 2 votes
+* [Expanding Pandas Dataframe for New Variable Set](https://stackoverflow.com/questions/77819065/expanding-pandas-dataframe-for-new-variable-set) - 1 votes
+* [Split json data into multiple column with pandas](https://stackoverflow.com/questions/77821660/split-json-data-into-multiple-column-with-pandas) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
