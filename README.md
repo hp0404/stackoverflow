@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-15<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-16<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,8 +8,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### rust
 <!-- rust starts -->
 * [In Rust what is the idiomatic way to run a side effect such as logging if Result is Err](https://stackoverflow.com/questions/77819863/in-rust-what-is-the-idiomatic-way-to-run-a-side-effect-such-as-logging-if-resu) - 2 votes
-* [How to modify a R string in Rust and assign it to a new R variable and keep the original R string using extendr](https://stackoverflow.com/questions/77815360/how-to-modify-a-r-string-in-rust-and-assign-it-to-a-new-r-variable-and-keep-the) - 2 votes
-* [Calling a function from Typenew](https://stackoverflow.com/questions/77814031/calling-a-function-from-typenew) - 1 votes
+* [implicit socket bind when using sendto on a UdpSocket](https://stackoverflow.com/questions/77825558/implicit-socket-bind-when-using-sendto-on-a-udpsocket) - 2 votes
+* [Prevent Race conditions in Cargo testing](https://stackoverflow.com/questions/77822727/prevent-race-conditions-in-cargo-testing) - 2 votes
+* [Is there a way to configure the value of a const variable in Rust](https://stackoverflow.com/questions/77822706/is-there-a-way-to-configure-the-value-of-a-const-variable-in-rust) - 2 votes
+* [Explicitly boxing lifetimebound conversion closures in Rust](https://stackoverflow.com/questions/77819887/explicitly-boxing-lifetime-bound-conversion-closures-in-rust) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -24,11 +26,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### pandas
 <!-- pandas starts -->
+* [How to colour the outer ring like a doughnut plot in a radar plot according to column values](https://stackoverflow.com/questions/77824830/how-to-colour-the-outer-ring-like-a-doughnut-plot-in-a-radar-plot-according-to) - 4 votes
+* [PythonPandas  Select rows that match more than one condition on group](https://stackoverflow.com/questions/77819360/python-pandas-select-rows-that-match-more-than-one-condition-on-group) - 3 votes
 * [pandasto_datetime is off by one hour](https://stackoverflow.com/questions/77820136/pandas-to-datetime-is-off-by-one-hour) - 2 votes
+* [Filtering data based on boolean columns in python](https://stackoverflow.com/questions/77825112/filtering-data-based-on-boolean-columns-in-python) - 2 votes
 * [How can I select all dataframe entries between two times when the time is a series](https://stackoverflow.com/questions/77818764/how-can-i-select-all-dataframe-entries-between-two-times-when-the-time-is-a-ser) - 2 votes
-* [PythonPandas  Select rows that match more than one condition on group](https://stackoverflow.com/questions/77819360/python-pandas-select-rows-that-match-more-than-one-condition-on-group) - 2 votes
-* [Expanding Pandas Dataframe for New Variable Set](https://stackoverflow.com/questions/77819065/expanding-pandas-dataframe-for-new-variable-set) - 1 votes
-* [Split json data into multiple column with pandas](https://stackoverflow.com/questions/77821660/split-json-data-into-multiple-column-with-pandas) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
