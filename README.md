@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-17<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-18<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Consistently compiling C code with fPIC for a rust ffi crate](https://stackoverflow.com/questions/77838537/consistently-compiling-c-code-with-fpic-for-a-rust-ffi-crate) - 5 votes
 * [Struct that is hashed and sorted via different fields requiring different Eq implementation](https://stackoverflow.com/questions/77831597/struct-that-is-hashed-and-sorted-via-different-fields-requiring-different-eq-im) - 2 votes
-* [implicit socket bind when using sendto on a UdpSocket](https://stackoverflow.com/questions/77825558/implicit-socket-bind-when-using-sendto-on-a-udpsocket) - 2 votes
-* [How to format string passed to Poolnew of mysql crate in Rust](https://stackoverflow.com/questions/77823790/how-to-format-string-passed-to-poolnew-of-mysql-crate-in-rust) - 1 votes
-* [Stack overflow when running Rust code with too much include_bytes in debug mode](https://stackoverflow.com/questions/77823949/stack-overflow-when-running-rust-code-with-too-much-include-bytes-in-debug) - 1 votes
-* [Defining a trait which takes a higherkinded type generic](https://stackoverflow.com/questions/77823424/defining-a-trait-which-takes-a-higher-kinded-type-generic) - 1 votes
+* [Moving value and reassign it by a new one should be restricted by Rust 174 compiler](https://stackoverflow.com/questions/77840304/moving-value-and-reassign-it-by-a-new-one-should-be-restricted-by-rust-1-74-comp) - 1 votes
+* [Can Rust compiler aggressively reorder statements like C compilers](https://stackoverflow.com/questions/77836515/can-rust-compiler-aggressively-reorder-statements-like-c-compilers) - 1 votes
+* [Iterating over lazily synchronised vec](https://stackoverflow.com/questions/77840276/iterating-over-lazily-synchronised-vec) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -26,11 +26,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### pandas
 <!-- pandas starts -->
-* [How to colour the outer ring like a doughnut plot in a radar plot according to column values](https://stackoverflow.com/questions/77824830/how-to-colour-the-outer-ring-like-a-doughnut-plot-in-a-radar-plot-according-to) - 4 votes
-* [Filtering data based on boolean columns in python](https://stackoverflow.com/questions/77825112/filtering-data-based-on-boolean-columns-in-python) - 2 votes
-* [pdioformatsexcelExcelFormatterheader_style  None not working](https://stackoverflow.com/questions/77823443/pd-io-formats-excel-excelformatter-header-style-none-not-working) - 2 votes
-* [Python pandas different separators for header and data](https://stackoverflow.com/questions/77834239/python-pandas-different-separators-for-header-and-data) - 1 votes
-* [How can I merge two dataframes keeping overlapping values and NaN for other values using only timestamps from the first dataframe](https://stackoverflow.com/questions/77831751/how-can-i-merge-two-dataframes-keeping-overlapping-values-and-nan-for-other-val) - 1 votes
+* [Python pandas different separators for header and data](https://stackoverflow.com/questions/77834239/python-pandas-different-separators-for-header-and-data) - 3 votes
+* [Pivoting based on multiple columns and rearrange data in Python Dataframe](https://stackoverflow.com/questions/77842223/pivoting-based-on-multiple-columns-and-rearrange-data-in-python-dataframe) - 2 votes
+* [How can I merge two dataframes keeping overlapping values and NaN for other values using only timestamps from the first dataframe](https://stackoverflow.com/questions/77831751/how-can-i-merge-two-dataframes-keeping-overlapping-values-and-nan-for-other-val) - 2 votes
+* [Drop duplicate rows from a dataframe based on condition](https://stackoverflow.com/questions/77842040/drop-duplicate-rows-from-a-dataframe-based-on-condition) - 1 votes
+* [How to get rows with consecutive dates with groupby in pandas](https://stackoverflow.com/questions/77831986/how-to-get-rows-with-consecutive-dates-with-groupby-in-pandas) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
