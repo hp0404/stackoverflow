@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-18<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-19<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,29 +8,29 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### rust
 <!-- rust starts -->
 * [Consistently compiling C code with fPIC for a rust ffi crate](https://stackoverflow.com/questions/77838537/consistently-compiling-c-code-with-fpic-for-a-rust-ffi-crate) - 5 votes
-* [Struct that is hashed and sorted via different fields requiring different Eq implementation](https://stackoverflow.com/questions/77831597/struct-that-is-hashed-and-sorted-via-different-fields-requiring-different-eq-im) - 2 votes
-* [Moving value and reassign it by a new one should be restricted by Rust 174 compiler](https://stackoverflow.com/questions/77840304/moving-value-and-reassign-it-by-a-new-one-should-be-restricted-by-rust-1-74-comp) - 1 votes
-* [Can Rust compiler aggressively reorder statements like C compilers](https://stackoverflow.com/questions/77836515/can-rust-compiler-aggressively-reorder-statements-like-c-compilers) - 1 votes
-* [Iterating over lazily synchronised vec](https://stackoverflow.com/questions/77840276/iterating-over-lazily-synchronised-vec) - 1 votes
+* [Is there any way in Rust to convert between a pointer and a U64 without UB](https://stackoverflow.com/questions/77845454/is-there-any-way-in-rust-to-convert-between-a-pointer-and-a-u64-without-ub) - 2 votes
+* [How to implement the SerdeDeserialize trait for a generic enum](https://stackoverflow.com/questions/77842742/how-to-implement-the-serdedeserialize-trait-for-a-generic-enum) - 2 votes
+* [In Rust when implementing the trait Display how to obtain the formatting specified by the caller](https://stackoverflow.com/questions/77841351/in-rust-when-implementing-the-trait-display-how-to-obtain-the-formatting-spe) - 1 votes
+* [How to define eitheror trait bounds in rust](https://stackoverflow.com/questions/77845550/how-to-define-either-or-trait-bounds-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Why is this monkeypatch in pytest not working](https://stackoverflow.com/questions/77832899/why-is-this-monkeypatch-in-pytest-not-working) - 1 votes
-* [fastapi swagger docs not rendering list array as query parameter](https://stackoverflow.com/questions/77830587/fastapi-swagger-docs-not-rendering-list-array-as-query-parameter) - 1 votes
+* [Unable to send WhatsApp messages using FastAPI and requests in Python](https://stackoverflow.com/questions/77844137/unable-to-send-whatsapp-messages-using-fastapi-and-requests-in-python) - 1 votes
+* [Fastapi route that accepts a list of dictionaries as form data and testing using postman](https://stackoverflow.com/questions/77841007/fastapi-route-that-accepts-a-list-of-dictionaries-as-form-data-and-testing-using) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Python pandas different separators for header and data](https://stackoverflow.com/questions/77834239/python-pandas-different-separators-for-header-and-data) - 3 votes
+* [how can we set the column data vertically for different sets of column through Pandas](https://stackoverflow.com/questions/77844845/how-can-we-set-the-column-data-vertically-for-different-sets-of-column-through-p) - 2 votes
 * [Pivoting based on multiple columns and rearrange data in Python Dataframe](https://stackoverflow.com/questions/77842223/pivoting-based-on-multiple-columns-and-rearrange-data-in-python-dataframe) - 2 votes
-* [How can I merge two dataframes keeping overlapping values and NaN for other values using only timestamps from the first dataframe](https://stackoverflow.com/questions/77831751/how-can-i-merge-two-dataframes-keeping-overlapping-values-and-nan-for-other-val) - 2 votes
 * [Drop duplicate rows from a dataframe based on condition](https://stackoverflow.com/questions/77842040/drop-duplicate-rows-from-a-dataframe-based-on-condition) - 1 votes
-* [How to get rows with consecutive dates with groupby in pandas](https://stackoverflow.com/questions/77831986/how-to-get-rows-with-consecutive-dates-with-groupby-in-pandas) - 1 votes
+* [Is there a way of expanding nested keyvalue pairs of a pandas dataframe column](https://stackoverflow.com/questions/77842409/is-there-a-way-of-expanding-nested-key-value-pairs-of-a-pandas-dataframe-column) - 1 votes
+* [group dataframe by column process values and normalize other column based on processed values](https://stackoverflow.com/questions/77841256/group-dataframe-by-column-process-values-and-normalize-other-column-based-on-pr) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
