@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-20<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-21<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,29 +8,26 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### rust
 <!-- rust starts -->
 * [Binding lifetime of a newly created variable](https://stackoverflow.com/questions/77849649/binding-lifetime-of-a-newly-created-variable) - 3 votes
-* [Cross compiling in Rust requires both host and target architecture dependencies](https://stackoverflow.com/questions/77847389/cross-compiling-in-rust-requires-both-host-and-target-architecture-dependencies) - 2 votes
-* [Is there any way in Rust to convert between a pointer and a U64 without UB](https://stackoverflow.com/questions/77845454/is-there-any-way-in-rust-to-convert-between-a-pointer-and-a-u64-without-ub) - 2 votes
 * [How does the compiler optimize readswrites to static mut](https://stackoverflow.com/questions/77851496/how-does-the-compiler-optimize-reads-writes-to-static-mut) - 1 votes
-* [How to define eitheror trait bounds in rust](https://stackoverflow.com/questions/77845550/how-to-define-either-or-trait-bounds-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How To use numpyfrombuffer to read a file sent using FastAPI](https://stackoverflow.com/questions/77848941/how-to-use-numpy-frombuffer-to-read-a-file-sent-using-fastapi) - 1 votes
-* [Unable to send WhatsApp messages using FastAPI and requests in Python](https://stackoverflow.com/questions/77844137/unable-to-send-whatsapp-messages-using-fastapi-and-requests-in-python) - 1 votes
+* [How to unify the response format in FastAPI while preserving Pydantic data models](https://stackoverflow.com/questions/77854089/how-to-unify-the-response-format-in-fastapi-while-preserving-pydantic-data-model) - 2 votes
+* [fastAPI Depends does not resolve coroutine dependency when alru_cache is used](https://stackoverflow.com/questions/77855632/fastapi-depends-does-not-resolve-coroutine-dependency-when-alru-cache-is-used) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Simplify dataframe by combining data from various columns together for same instance](https://stackoverflow.com/questions/77848932/simplify-dataframe-by-combining-data-from-various-columns-together-for-same-inst) - 2 votes
-* [how can we set the column data vertically for different sets of column through Pandas](https://stackoverflow.com/questions/77844845/how-can-we-set-the-column-data-vertically-for-different-sets-of-column-through-p) - 2 votes
-* [Reshape stacked form data in csv file using pandas](https://stackoverflow.com/questions/77846639/reshape-stacked-form-data-in-csv-file-using-pandas) - 2 votes
-* [How to fix a column inplace after performing groupby in pandas](https://stackoverflow.com/questions/77848710/how-to-fix-a-column-inplace-after-performing-groupby-in-pandas) - 1 votes
-* [split a column in multiple columns but only keep two of them](https://stackoverflow.com/questions/77847460/split-a-column-in-multiple-columns-but-only-keep-two-of-them) - 1 votes
+* [How improve updating multiple columns of a pandas dataframe when the columns are datetime](https://stackoverflow.com/questions/77854931/how-improve-updating-multiple-columns-of-a-pandas-dataframe-when-the-columns) - 2 votes
+* [Pandas resample signal series with its corresponding label](https://stackoverflow.com/questions/77854397/pandas-resample-signal-series-with-its-corresponding-label) - 2 votes
+* [How can I merge two dataframes based on range of dates](https://stackoverflow.com/questions/77855706/how-can-i-merge-two-dataframes-based-on-range-of-dates) - 1 votes
+* [Pandas missing add row method Python](https://stackoverflow.com/questions/77852489/pandas-missing-add-row-method-python) - 1 votes
+* [Vectorize DataFrame39s operation using only previous rows data for each row](https://stackoverflow.com/questions/77855665/vectorize-dataframes-operation-using-only-previous-rows-data-for-each-row) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
