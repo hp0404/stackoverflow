@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-24<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-25<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,10 +8,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### rust
 <!-- rust starts -->
 * [ok_or works but ok_or_else doesn39t work even the type signature is the same](https://stackoverflow.com/questions/77870548/ok-or-works-but-ok-or-else-doesnt-work-even-the-type-signature-is-the) - 3 votes
+* [quotvalue is never readquot warning that seems to be incorrect Should I ignore it](https://stackoverflow.com/questions/77878078/value-is-never-read-warning-that-seems-to-be-incorrect-should-i-ignore-it) - 2 votes
 * [Can you move values from an ArcltMutexltVecgtgt to a ampmut Vec without the cost of transferring them](https://stackoverflow.com/questions/77870159/can-you-move-values-from-an-arcmutexvec-to-a-mut-vec-without-the-cost-of-tr) - 2 votes
+* [Idiomatic Rust way of making a slice of contiguous integers](https://stackoverflow.com/questions/77876540/idiomatic-rust-way-of-making-a-slice-of-contiguous-integers) - 2 votes
 * [How to improve extend performance for custom Iterator](https://stackoverflow.com/questions/77870870/how-to-improve-extend-performance-for-custom-iterator) - 2 votes
-* [Android missing symbol for Rust library being called from C](https://stackoverflow.com/questions/77864870/android-missing-symbol-for-rust-library-being-called-from-c) - 2 votes
-* [Displaying references](https://stackoverflow.com/questions/77864124/displaying-references) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -26,11 +26,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### pandas
 <!-- pandas starts -->
-* [How to add a column or change data in each group after using group by in Pandas](https://stackoverflow.com/questions/77864953/how-to-add-a-column-or-change-data-in-each-group-after-using-group-by-in-pandas) - 3 votes
-* [Delete 2 column headers and shift the whole column row to left in dataframe](https://stackoverflow.com/questions/77864140/delete-2-column-headers-and-shift-the-whole-column-row-to-left-in-dataframe) - 2 votes
-* [Polars dataframe add columns conditional on other column yielding different lengths](https://stackoverflow.com/questions/77868799/polars-dataframe-add-columns-conditional-on-other-column-yielding-different-len) - 2 votes
 * [Customise forloops in function arguments in Python](https://stackoverflow.com/questions/77874709/customise-for-loops-in-function-arguments-in-python) - 2 votes
-* [Merge Resulted Column From Pandas Dataframe Based on Condition](https://stackoverflow.com/questions/77865964/merge-resulted-column-from-pandas-dataframe-based-on-condition) - 2 votes
+* [Update all values within each subgroup in pandas dataframe](https://stackoverflow.com/questions/77882709/update-all-values-within-each-subgroup-in-pandas-dataframe) - 2 votes
+* [Python Pandas multi index merging with a combined column of data](https://stackoverflow.com/questions/77880673/python-pandas-multi-index-merging-with-a-combined-column-of-data) - 2 votes
+* [TypeCheckError argument quotconfig_filequot None did not match any element in the union pathlibPath is not an instance of pathlibPath](https://stackoverflow.com/questions/77871144/typecheckerror-argument-config-file-none-did-not-match-any-element-in-the-u) - 2 votes
+* [Append new data to existing dataframe more efficiently  python](https://stackoverflow.com/questions/77870975/append-new-data-to-existing-dataframe-more-efficiently-python) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
