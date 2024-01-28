@@ -1,35 +1,32 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-27<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-28<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [quotcycle detected when checking visibilitiesquot in abstract trait](https://stackoverflow.com/questions/77888937/cycle-detected-when-checking-visibilities-in-abstract-trait) - 4 votes
+* [Moving value out of the Box by dereferencing and what it is desugared into](https://stackoverflow.com/questions/77896238/moving-value-out-of-the-box-by-dereferencing-and-what-it-is-desugared-into) - 2 votes
+* [Conflicting traits with generic bound but not without for potential quotdownstreamquot implementations](https://stackoverflow.com/questions/77891259/conflicting-traits-with-generic-bound-but-not-without-for-potential-downstream) - 2 votes
 * [Remove duplicates from vec behind shared ref while doing additional work](https://stackoverflow.com/questions/77889867/remove-duplicates-from-vec-behind-shared-ref-while-doing-additional-work) - 1 votes
-* [Conflicting traits with generic bound but not without for potential quotdownstreamquot implementations](https://stackoverflow.com/questions/77891259/conflicting-traits-with-generic-bound-but-not-without-for-potential-downstream) - 1 votes
-* [Multiply matrix by vector rowwise](https://stackoverflow.com/questions/77888714/multiply-matrix-by-vector-row-wise) - 1 votes
-* [How can I properly organize structs in Rust to minimize mutable borrow problem](https://stackoverflow.com/questions/77883794/how-can-i-properly-organize-structs-in-rust-to-minimize-mutable-borrow-problem) - 1 votes
+* [Unable to understand Rust39s error handling](https://stackoverflow.com/questions/77894499/unable-to-understand-rusts-error-handling) - 1 votes
+* [How to pass a variable from backend to frontend in tauri](https://stackoverflow.com/questions/77895357/how-to-pass-a-variable-from-backend-to-frontend-in-tauri) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Call async function from sync inside async FastAPI application](https://stackoverflow.com/questions/77886724/call-async-function-from-sync-inside-async-fastapi-application) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [wide to long amid merge](https://stackoverflow.com/questions/77888782/wide-to-long-amid-merge) - 3 votes
-* [Filter a pandas DataFrame by a dict](https://stackoverflow.com/questions/77883624/filter-a-pandas-dataframe-by-a-dict) - 1 votes
-* [How to fusion cells of a dataframe by summation](https://stackoverflow.com/questions/77889518/how-to-fusion-cells-of-a-dataframe-by-summation) - 1 votes
-* [how can replace underscore with minus sign in an entire column](https://stackoverflow.com/questions/77887533/how-can-replace-underscore-with-minus-sign-in-an-entire-column) - 1 votes
-* [How to sort dataframe by specific data in a column](https://stackoverflow.com/questions/77889765/how-to-sort-dataframe-by-specific-data-in-a-column) - 1 votes
+* [Beautiful soup parse the listing of many entries and saving in data frame](https://stackoverflow.com/questions/77893107/beautiful-soup-parse-the-listing-of-many-entries-and-saving-in-data-frame) - 2 votes
+* [pandas strsplit and retrieve the second value](https://stackoverflow.com/questions/77895573/pandas-str-split-and-retrieve-the-second-value) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
