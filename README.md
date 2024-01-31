@@ -1,35 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-30<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-31<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why can an instance method to be called like a static method in Rust](https://stackoverflow.com/questions/77897610/why-can-an-instance-method-to-be-called-like-a-static-method-in-rust) - 4 votes
-* [Rust recursion in an async fn](https://stackoverflow.com/questions/77898969/rust-recursion-in-an-async-fn) - 3 votes
-* [Specifying file path in macro  macro fails but inlined version works](https://stackoverflow.com/questions/77901031/specifying-file-path-in-macro-macro-fails-but-inlined-version-works) - 2 votes
-* [Return values from both futures where one future is quotcancelledquot](https://stackoverflow.com/questions/77898040/return-values-from-both-futures-where-one-future-is-cancelled) - 2 votes
+* [How can I specify which GPU glium will use](https://stackoverflow.com/questions/77909272/how-can-i-specify-which-gpu-glium-will-use) - 4 votes
 * [How to pass String as IntoltStrgt argument when using Clap](https://stackoverflow.com/questions/77908700/how-to-pass-string-as-intostr-argument-when-using-clap) - 1 votes
+* [Takes slice iaib on a string slice ampstr returns a str](https://stackoverflow.com/questions/77908613/takes-slice-ia-ib-on-a-string-slice-str-returns-a-str) - 1 votes
+* [How to have multiple let Some in a single line where the second let is dependent on the first](https://stackoverflow.com/questions/77903556/how-to-have-multiple-let-some-in-a-single-line-where-the-second-let-is-dep) - 1 votes
+* [Discrepancy in Time Storage DateTimeltLocalgt vs NaiveDateTime in MySQL with UTC0800 Time Zone](https://stackoverflow.com/questions/77915631/discrepancy-in-time-storage-datetimelocal-vs-naivedatetime-in-mysql-with-utc) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [How can I have a FastAPI dependency fill in a path parameter](https://stackoverflow.com/questions/77908750/how-can-i-have-a-fastapi-dependency-fill-in-a-path-parameter) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [If you specify a background color in pandas in python number formatting is disabled](https://stackoverflow.com/questions/77911172/if-you-specify-a-background-color-in-pandas-in-python-number-formatting-is-disa) - 3 votes
 * [Calculating headtohead records in a DataFrame based on target values in Python](https://stackoverflow.com/questions/77905231/calculating-head-to-head-records-in-a-dataframe-based-on-target-values-in-python) - 3 votes
 * [Remove duplicates in DF and convert into a JSON obj in python](https://stackoverflow.com/questions/77906670/remove-duplicates-in-df-and-convert-into-a-json-obj-in-python) - 3 votes
-* [Pandas background gradient styling per column](https://stackoverflow.com/questions/77901269/pandas-background-gradient-styling-per-column) - 2 votes
-* [How do I calculate the euclidean distance to the nearest neighbour for each coordinates pair in meters in Pandas dataframe](https://stackoverflow.com/questions/77900654/how-do-i-calculate-the-euclidean-distance-to-the-nearest-neighbour-for-each-coor) - 2 votes
-* [fastest way to search pandas dataframe that contains text and duplicate values](https://stackoverflow.com/questions/77906834/fastest-way-to-search-pandas-dataframe-that-contains-text-and-duplicate-values) - 1 votes
+* [Keep all rows before first occurrence of a value](https://stackoverflow.com/questions/77914497/keep-all-rows-before-first-occurrence-of-a-value) - 2 votes
+* [Replace the last occurrence of a value in a column of a DataFrame](https://stackoverflow.com/questions/77910269/replace-the-last-occurrence-of-a-value-in-a-column-of-a-dataframe) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
