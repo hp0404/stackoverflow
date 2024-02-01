@@ -1,24 +1,26 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-01-31<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-02-01<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How can I specify which GPU glium will use](https://stackoverflow.com/questions/77909272/how-can-i-specify-which-gpu-glium-will-use) - 4 votes
-* [How to pass String as IntoltStrgt argument when using Clap](https://stackoverflow.com/questions/77908700/how-to-pass-string-as-intostr-argument-when-using-clap) - 1 votes
-* [Takes slice iaib on a string slice ampstr returns a str](https://stackoverflow.com/questions/77908613/takes-slice-ia-ib-on-a-string-slice-str-returns-a-str) - 1 votes
-* [How to have multiple let Some in a single line where the second let is dependent on the first](https://stackoverflow.com/questions/77903556/how-to-have-multiple-let-some-in-a-single-line-where-the-second-let-is-dep) - 1 votes
-* [Discrepancy in Time Storage DateTimeltLocalgt vs NaiveDateTime in MySQL with UTC0800 Time Zone](https://stackoverflow.com/questions/77915631/discrepancy-in-time-storage-datetimelocal-vs-naivedatetime-in-mysql-with-utc) - 1 votes
+* [Rust FFI  How to wrap Cstyle iterator with Iterator giving returning references](https://stackoverflow.com/questions/77920865/rust-ffi-how-to-wrap-c-style-iterator-with-iterator-giving-returning-reference) - 1 votes
+* [resvg Rust SVG rendering as blank png](https://stackoverflow.com/questions/77917222/resvg-rust-svg-rendering-as-blank-png) - 1 votes
+* [manageremit_all implementation in Tauri](https://stackoverflow.com/questions/77921787/manager-emit-all-implementation-in-tauri) - 1 votes
+* [Syntax question on how to initialize a struct field that is a Weakltdyn T  Send  Syncgt](https://stackoverflow.com/questions/77917195/syntax-question-on-how-to-initialize-a-struct-field-that-is-a-weakdyn-t-send) - 1 votes
+* [When using Tonic Grpc for Rust how to strip url path prefix](https://stackoverflow.com/questions/77912198/when-using-tonic-grpc-for-rust-how-to-strip-url-path-prefix) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How can I have a FastAPI dependency fill in a path parameter](https://stackoverflow.com/questions/77908750/how-can-i-have-a-fastapi-dependency-fill-in-a-path-parameter) - 1 votes
+* [Using starlette TestClient causes an AttributeError  39_UnixSelectorEventLoop39 object has no attribute 39_compute_internal_coro39](https://stackoverflow.com/questions/77920123/using-starlette-testclient-causes-an-attributeerror-unixselectoreventloop-o) - 1 votes
+* [FastAPI How to generate a readable scheme from IntEnum in openapijson with the correct keys not digital ones](https://stackoverflow.com/questions/77918536/fastapi-how-to-generate-a-readable-scheme-from-intenum-in-openapi-json-with-the) - 1 votes
+* [unable to start container process exec quotuvicornquot In Docker and additional questions](https://stackoverflow.com/questions/77916620/unable-to-start-container-process-exec-uvicorn-in-docker-and-additional-que) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -26,10 +28,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### pandas
 <!-- pandas starts -->
 * [If you specify a background color in pandas in python number formatting is disabled](https://stackoverflow.com/questions/77911172/if-you-specify-a-background-color-in-pandas-in-python-number-formatting-is-disa) - 3 votes
-* [Calculating headtohead records in a DataFrame based on target values in Python](https://stackoverflow.com/questions/77905231/calculating-head-to-head-records-in-a-dataframe-based-on-target-values-in-python) - 3 votes
-* [Remove duplicates in DF and convert into a JSON obj in python](https://stackoverflow.com/questions/77906670/remove-duplicates-in-df-and-convert-into-a-json-obj-in-python) - 3 votes
+* [Is the time complexity for pandas inner left and right joins On](https://stackoverflow.com/questions/77919947/is-the-time-complexity-for-pandas-inner-left-and-right-joins-on) - 3 votes
+* [How to get numeric data from the quotobjectquot data type and make it quotintquot in a dataframe](https://stackoverflow.com/questions/77918063/how-to-get-numeric-data-from-the-object-data-type-and-make-it-int-in-a-dataf) - 2 votes
+* [unique melt and pivot crosstab format with a groupby using pandas](https://stackoverflow.com/questions/77917091/unique-melt-and-pivot-crosstab-format-with-a-groupby-using-pandas) - 2 votes
 * [Keep all rows before first occurrence of a value](https://stackoverflow.com/questions/77914497/keep-all-rows-before-first-occurrence-of-a-value) - 2 votes
-* [Replace the last occurrence of a value in a column of a DataFrame](https://stackoverflow.com/questions/77910269/replace-the-last-occurrence-of-a-value-in-a-column-of-a-dataframe) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
