@@ -1,37 +1,33 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-02-02<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-02-03<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [resvg Rust SVG rendering as blank png](https://stackoverflow.com/questions/77917222/resvg-rust-svg-rendering-as-blank-png) - 2 votes
-* [Using stringify for nonRust source code strings eg SQL query](https://stackoverflow.com/questions/77922814/using-stringify-for-non-rust-source-code-strings-e-g-sql-query) - 1 votes
-* [Syntax question on how to initialize a struct field that is a Weakltdyn T  Send  Syncgt](https://stackoverflow.com/questions/77917195/syntax-question-on-how-to-initialize-a-struct-field-that-is-a-weakdyn-t-send) - 1 votes
-* [Rust FFI  How to wrap Cstyle iterator with Iterator giving returning references](https://stackoverflow.com/questions/77920865/rust-ffi-how-to-wrap-c-style-iterator-with-iterator-giving-returning-reference) - 1 votes
-* [manageremit_all implementation in Tauri](https://stackoverflow.com/questions/77921787/manager-emit-all-implementation-in-tauri) - 1 votes
+* [Trait function that takes a closure which takes a lifetime GAT why does the lifetime quotnot appear in the trait input typesquot](https://stackoverflow.com/questions/77930345/trait-function-that-takes-a-closure-which-takes-a-lifetime-gat-why-does-the-lif) - 2 votes
+* [Override trait implementation when two type parameters are the same](https://stackoverflow.com/questions/77933142/override-trait-implementation-when-two-type-parameters-are-the-same) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Using starlette TestClient causes an AttributeError  39_UnixSelectorEventLoop39 object has no attribute 39_compute_internal_coro39](https://stackoverflow.com/questions/77920123/using-starlette-testclient-causes-an-attributeerror-unixselectoreventloop-o) - 4 votes
-* [Bandwidth issues on Google Cloud Run FastApi](https://stackoverflow.com/questions/77923027/bandwidth-issues-on-google-cloud-run-fastapi) - 1 votes
-* [FastAPI How to generate a readable scheme from IntEnum in openapijson with the correct keys not digital ones](https://stackoverflow.com/questions/77918536/fastapi-how-to-generate-a-readable-scheme-from-intenum-in-openapi-json-with-the) - 1 votes
+* [How to run Typercommand Tiangolo in async test pytest](https://stackoverflow.com/questions/77932129/how-to-run-typer-command-tiangolo-in-async-test-pytest) - 1 votes
+* [Python subprocess doesn39t finish executing my script](https://stackoverflow.com/questions/77930218/python-subprocess-doesnt-finish-executing-my-script) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Is the time complexity for pandas inner left and right joins On](https://stackoverflow.com/questions/77919947/is-the-time-complexity-for-pandas-inner-left-and-right-joins-on) - 3 votes
-* [How to get numeric data from the quotobjectquot data type and make it quotintquot in a dataframe](https://stackoverflow.com/questions/77918063/how-to-get-numeric-data-from-the-object-data-type-and-make-it-int-in-a-dataf) - 2 votes
-* [unique melt and pivot crosstab format with a groupby using pandas](https://stackoverflow.com/questions/77917091/unique-melt-and-pivot-crosstab-format-with-a-groupby-using-pandas) - 2 votes
-* [Map the upper group to the column in pandas](https://stackoverflow.com/questions/77918540/map-the-upper-group-to-the-column-in-pandas) - 2 votes
-* [seaborn error 39Input data must be a pandas object to reorder39](https://stackoverflow.com/questions/77918172/seaborn-error-input-data-must-be-a-pandas-object-to-reorder) - 2 votes
+* [Why is it that setting a value on a dataframe that is I think a copy changing the original dataframe](https://stackoverflow.com/questions/77926337/why-is-it-that-setting-a-value-on-a-dataframe-that-is-i-think-a-copy-changing) - 1 votes
+* [How to filter rows containing a string in several columns](https://stackoverflow.com/questions/77932941/how-to-filter-rows-containing-a-string-in-several-columns) - 1 votes
+* [What is quotpythonfwfquot engine in pandas read_csv method and when to use it](https://stackoverflow.com/questions/77931366/what-is-python-fwf-engine-in-pandas-read-csv-method-and-when-to-use-it) - 1 votes
+* [Removing duplicates in a Pandas dataframe for only a specified value](https://stackoverflow.com/questions/77930211/removing-duplicates-in-a-pandas-dataframe-for-only-a-specified-value) - 1 votes
+* [combine 2 dataframes with a duplicate common identifier in both](https://stackoverflow.com/questions/77925087/combine-2-dataframes-with-a-duplicate-common-identifier-in-both) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
