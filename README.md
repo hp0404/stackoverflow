@@ -1,37 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-02-04<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-02-05<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Will Boxnew make a copy from stack to heap](https://stackoverflow.com/questions/77934697/will-boxnew-make-a-copy-from-stack-to-heap) - 11 votes
+* [Will Boxnew make a copy from stack to heap](https://stackoverflow.com/questions/77934697/will-boxnew-make-a-copy-from-stack-to-heap) - 17 votes
+* [What exactly happens when specifying multiple references with the same lifetime](https://stackoverflow.com/questions/77938243/what-exactly-happens-when-specifying-multiple-references-with-the-same-lifetime) - 5 votes
+* [Restricting unused generic causes compile error](https://stackoverflow.com/questions/77943221/restricting-unused-generic-causes-compile-error) - 4 votes
 * [Rotating a Rectangle Around Its Center by Dragging a Corner with Cursor](https://stackoverflow.com/questions/77935364/rotating-a-rectangle-around-its-center-by-dragging-a-corner-with-cursor) - 2 votes
-* [Why is Rust port of function 2x slower than C](https://stackoverflow.com/questions/77932428/why-is-rust-port-of-function-2x-slower-than-c) - 1 votes
-* [Rust  memory management  pop ownership  linked list](https://stackoverflow.com/questions/77931717/rust-memory-management-pop-ownership-linked-list) - 1 votes
-* [How to get the computed mass of a Collider in Bevy  Rapier3d](https://stackoverflow.com/questions/77935600/how-to-get-the-computed-mass-of-a-collider-in-bevy-rapier3d) - 1 votes
+* [Chain an quotif letquot with a boolean expression](https://stackoverflow.com/questions/77938843/chain-an-if-let-with-a-boolean-expression) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [An easier way to store and check if the incoming Id is a MongoDB ObjectID with Pydantic and FastAPI](https://stackoverflow.com/questions/77931009/an-easier-way-to-store-and-check-if-the-incoming-id-is-a-mongodb-objectid-with-p) - 1 votes
-* [FastAPI Application in Docker on Azure App Service Not Responding to HTTP Requests](https://stackoverflow.com/questions/77933423/fastapi-application-in-docker-on-azure-app-service-not-responding-to-http-reques) - 1 votes
-* [How to run Typercommand Tiangolo in async test pytest](https://stackoverflow.com/questions/77932129/how-to-run-typer-command-tiangolo-in-async-test-pytest) - 1 votes
+* [FastAPI Performance results differ between run_in_threadpool and run_in_executor with ThreadPoolExecutor](https://stackoverflow.com/questions/77935269/fastapi-performance-results-differ-between-run-in-threadpool-and-run-in-execu) - 1 votes
+* [Pydantic How to validate json string that has an inner json string](https://stackoverflow.com/questions/77938134/pydantic-how-to-validate-json-string-that-has-an-inner-json-string) - 1 votes
+* [Is there a way to run other code when a FastAPI app is idle](https://stackoverflow.com/questions/77938068/is-there-a-way-to-run-other-code-when-a-fastapi-app-is-idle) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [Pandas Drop row based on condition](https://stackoverflow.com/questions/77940571/pandas-drop-row-based-on-condition) - 2 votes
+* [I need to identify when a series of binary numbers transition based on conditions for a pandas dataframes](https://stackoverflow.com/questions/77943615/i-need-to-identify-when-a-series-of-binary-numbers-transition-based-on-condition) - 2 votes
+* [Join based on substring operation](https://stackoverflow.com/questions/77938741/join-based-on-substring-operation) - 1 votes
 * [Why is pandasDataFrameexplode not working properly](https://stackoverflow.com/questions/77934214/why-is-pandas-dataframe-explode-not-working-properly) - 1 votes
-* [How to filter rows containing a string in several columns](https://stackoverflow.com/questions/77932941/how-to-filter-rows-containing-a-string-in-several-columns) - 1 votes
-* [What is quotpythonfwfquot engine in pandas read_csv method and when to use it](https://stackoverflow.com/questions/77931366/what-is-python-fwf-engine-in-pandas-read-csv-method-and-when-to-use-it) - 1 votes
-* [Major Speedup Question for a for loop in PandasNumpy on a bitwise_xor accumulate](https://stackoverflow.com/questions/77937329/major-speedup-question-for-a-for-loop-in-pandas-numpy-on-a-bitwise-xor-accumulat) - 1 votes
-* [Comparing columns with different length](https://stackoverflow.com/questions/77936165/comparing-columns-with-different-length) - 1 votes
+* [How can I change data in pandas dataframe by condition](https://stackoverflow.com/questions/77940474/how-can-i-change-data-in-pandas-dataframe-by-condition) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
