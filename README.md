@@ -1,37 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-02-08<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-02-09<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Struct with a mutable reference to another instance of the same type](https://stackoverflow.com/questions/77954494/struct-with-a-mutable-reference-to-another-instance-of-the-same-type) - 2 votes
+* [why does std repeat trait bound between impl block and associated function](https://stackoverflow.com/questions/77964439/why-does-std-repeat-trait-bound-between-impl-block-and-associated-function) - 1 votes
+* [stdfsFilecreateunwrap throws the error when file or directory doesn39t exist in rust](https://stackoverflow.com/questions/77965810/stdfsfilecreate-unwrap-throws-the-error-when-file-or-directory-doesnt) - 1 votes
+* [Unconstrained type in trait despite it being used in trait bounds](https://stackoverflow.com/questions/77965645/unconstrained-type-in-trait-despite-it-being-used-in-trait-bounds) - 1 votes
+* [Implement partially overlapping traits on polymorphic collection if members all implement trait](https://stackoverflow.com/questions/77965764/implement-partially-overlapping-traits-on-polymorphic-collection-if-members-all) - 1 votes
 * [Missmatched types  expected opaque type found a different opaque type](https://stackoverflow.com/questions/77962598/missmatched-types-expected-opaque-type-found-a-different-opaque-type) - 1 votes
-* [Are yewrs hooks sound or unsound](https://stackoverflow.com/questions/77956698/are-yew-rs-hooks-sound-or-unsound) - 1 votes
-* [Is this custom JSON parser in a Rust realtime app as efficient as it gets](https://stackoverflow.com/questions/77953956/is-this-custom-json-parser-in-a-rust-realtime-app-as-efficient-as-it-gets) - 1 votes
-* [Rust borrow checker complaining when calling function in a loop](https://stackoverflow.com/questions/77951781/rust-borrow-checker-complaining-when-calling-function-in-a-loop) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Need help restructuring SQLite database rows based on userreordered task cards in front end](https://stackoverflow.com/questions/77955591/need-help-restructuring-sqlite-database-rows-based-on-user-reordered-task-cards) - 2 votes
+* [optional parameters FastAPI](https://stackoverflow.com/questions/77969526/optional-parameters-fastapi) - 1 votes
 * [Is it possible to create a one to many association between a table and an Enum in SQLAlchemy](https://stackoverflow.com/questions/77960851/is-it-possible-to-create-a-one-to-many-association-between-a-table-and-an-enum-i) - 1 votes
-* [Persisting the Order of Draggable Task Cards to a Database](https://stackoverflow.com/questions/77952416/persisting-the-order-of-draggable-task-cards-to-a-database) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [identify same duplicated values  pandas](https://stackoverflow.com/questions/77958819/identify-same-duplicated-values-pandas) - 1 votes
+* [Taking specific value from the CSV file using Pandas DataFrame](https://stackoverflow.com/questions/77965457/taking-specific-value-from-the-csv-file-using-pandas-dataframe) - 2 votes
+* [identify same identical values  pandas](https://stackoverflow.com/questions/77958819/identify-same-identical-values-pandas) - 1 votes
 * [Python string contains does not work with brackets](https://stackoverflow.com/questions/77960321/python-string-contains-does-not-work-with-brackets) - 1 votes
 * [How do I count categorical values from a dataset and transform the summation into a new dataset](https://stackoverflow.com/questions/77963066/how-do-i-count-categorical-values-from-a-dataset-and-transform-the-summation-int) - 1 votes
 * [Determine the length of string and extract the first 15 or 14 characters](https://stackoverflow.com/questions/77962990/determine-the-length-of-string-and-extract-the-first-15-or-14-characters) - 1 votes
-* [Pandas groupby raises ValueError lenindex  lenlabels when trying to aggregate columns](https://stackoverflow.com/questions/77959558/pandas-groupby-raises-valueerror-lenindex-lenlabels-when-trying-to-aggre) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
