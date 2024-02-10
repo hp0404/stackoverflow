@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-02-09<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-02-10<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [why does std repeat trait bound between impl block and associated function](https://stackoverflow.com/questions/77964439/why-does-std-repeat-trait-bound-between-impl-block-and-associated-function) - 1 votes
+* [How to insert comments using syn](https://stackoverflow.com/questions/77971478/how-to-insert-comments-using-syn) - 3 votes
+* [Borrow returned in one branch overlaps with borrow in other branch](https://stackoverflow.com/questions/77973126/borrow-returned-in-one-branch-overlaps-with-borrow-in-other-branch) - 2 votes
+* [How does this acquirerelease relationship work](https://stackoverflow.com/questions/77973840/how-does-this-acquire-release-relationship-work) - 1 votes
+* [Use all from a module but exclude specific one](https://stackoverflow.com/questions/77973949/use-all-from-a-module-but-exclude-specific-one) - 1 votes
 * [stdfsFilecreateunwrap throws the error when file or directory doesn39t exist in rust](https://stackoverflow.com/questions/77965810/stdfsfilecreate-unwrap-throws-the-error-when-file-or-directory-doesnt) - 1 votes
-* [Unconstrained type in trait despite it being used in trait bounds](https://stackoverflow.com/questions/77965645/unconstrained-type-in-trait-despite-it-being-used-in-trait-bounds) - 1 votes
-* [Implement partially overlapping traits on polymorphic collection if members all implement trait](https://stackoverflow.com/questions/77965764/implement-partially-overlapping-traits-on-polymorphic-collection-if-members-all) - 1 votes
-* [Missmatched types  expected opaque type found a different opaque type](https://stackoverflow.com/questions/77962598/missmatched-types-expected-opaque-type-found-a-different-opaque-type) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -19,18 +19,17 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### fastapi
 <!-- fastapi starts -->
 * [optional parameters FastAPI](https://stackoverflow.com/questions/77969526/optional-parameters-fastapi) - 1 votes
-* [Is it possible to create a one to many association between a table and an Enum in SQLAlchemy](https://stackoverflow.com/questions/77960851/is-it-possible-to-create-a-one-to-many-association-between-a-table-and-an-enum-i) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [In multilevel columns pandas dataframe reorder the specific lower level of categories](https://stackoverflow.com/questions/77970330/in-multilevel-columns-pandas-dataframe-reorder-the-specific-lower-level-of-cate) - 2 votes
 * [Taking specific value from the CSV file using Pandas DataFrame](https://stackoverflow.com/questions/77965457/taking-specific-value-from-the-csv-file-using-pandas-dataframe) - 2 votes
-* [identify same identical values  pandas](https://stackoverflow.com/questions/77958819/identify-same-identical-values-pandas) - 1 votes
-* [Python string contains does not work with brackets](https://stackoverflow.com/questions/77960321/python-string-contains-does-not-work-with-brackets) - 1 votes
-* [How do I count categorical values from a dataset and transform the summation into a new dataset](https://stackoverflow.com/questions/77963066/how-do-i-count-categorical-values-from-a-dataset-and-transform-the-summation-int) - 1 votes
-* [Determine the length of string and extract the first 15 or 14 characters](https://stackoverflow.com/questions/77962990/determine-the-length-of-string-and-extract-the-first-15-or-14-characters) - 1 votes
+* [MultiIndex Dataframe Sort values for each group](https://stackoverflow.com/questions/77971020/multiindex-dataframe-sort-values-for-each-group) - 1 votes
+* [How can I use Pandas to format individual cells conditionally in Excel](https://stackoverflow.com/questions/77971878/how-can-i-use-pandas-to-format-individual-cells-conditionally-in-excel) - 1 votes
+* [Python Delete quotUnnamed 0quot header lable in dataframe and shift the rest of the header lables to the left without altering values](https://stackoverflow.com/questions/77971304/python-delete-unnamed-0-header-lable-in-dataframe-and-shift-the-rest-of-the) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
