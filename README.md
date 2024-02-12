@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-02-11<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-02-12<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to insert doc comments using syn](https://stackoverflow.com/questions/77971478/how-to-insert-doc-comments-using-syn) - 4 votes
-* [How does this acquirerelease relationship work](https://stackoverflow.com/questions/77973840/how-does-this-acquire-release-relationship-work) - 2 votes
-* [Can Rust lazyload dynamically linked dllsodylib crates](https://stackoverflow.com/questions/77974087/can-rust-lazy-load-dynamically-linked-dll-so-dylib-crates) - 2 votes
-* [Borrow returned in one branch overlaps with borrow in other branch](https://stackoverflow.com/questions/77973126/borrow-returned-in-one-branch-overlaps-with-borrow-in-other-branch) - 2 votes
-* [Use all from a module but exclude specific one](https://stackoverflow.com/questions/77973949/use-all-from-a-module-but-exclude-specific-one) - 1 votes
+* [Modify an array of slicesreferences](https://stackoverflow.com/questions/77978674/modify-an-array-of-slices-references) - 3 votes
+* [Filter vector inside MutexGuard without cloning](https://stackoverflow.com/questions/77978214/filter-vector-inside-mutexguard-without-cloning) - 2 votes
+* [Why isn39t the sum of a Veclti64gt known to be Optionlti64gt](https://stackoverflow.com/questions/77982367/why-isnt-the-sum-of-a-veci64-known-to-be-optioni64) - 2 votes
+* [How do I partially clean a build based on my current Cargolock](https://stackoverflow.com/questions/77983956/how-do-i-partially-clean-a-build-based-on-my-current-cargo-lock) - 1 votes
+* [How to compile in Rust for Windows with a manifest](https://stackoverflow.com/questions/77980469/how-to-compile-in-rust-for-windows-with-a-manifest) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -26,10 +26,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### pandas
 <!-- pandas starts -->
 * [Speeding up a rolling sum calculation](https://stackoverflow.com/questions/77978204/speeding-up-a-rolling-sum-calculation) - 3 votes
-* [How to write a python function that splits and selects first element in each pandas column](https://stackoverflow.com/questions/77971552/how-to-write-a-python-function-that-splits-and-selects-first-element-in-each-pan) - 1 votes
-* [Find rows in a dataframe with more than 1 nonzero value in certain columns](https://stackoverflow.com/questions/77974705/find-rows-in-a-dataframe-with-more-than-1-non-zero-value-in-certain-columns) - 1 votes
-* [Turn level of MultiIndex columns into a column with values unstack columns](https://stackoverflow.com/questions/77978057/turn-level-of-multiindex-columns-into-a-column-with-values-unstack-columns) - 1 votes
-* [quotwindow must be an integer 0 or greaterquot issue with 3930D39 style rolling calculations](https://stackoverflow.com/questions/77976619/window-must-be-an-integer-0-or-greater-issue-with-30d-style-rolling-calculat) - 1 votes
+* [Delete rows when two conditions is complete in a Pandas dataframe with python](https://stackoverflow.com/questions/77982201/delete-rows-when-two-conditions-is-complete-in-a-pandas-dataframe-with-python) - 1 votes
+* [Pandas  Split string column into multiple rows on punctuation](https://stackoverflow.com/questions/77979884/pandas-split-string-column-into-multiple-rows-on-punctuation) - 1 votes
+* [Apply find_peaks function using groupby in a pandas dataframe](https://stackoverflow.com/questions/77978953/apply-find-peaks-function-using-groupby-in-a-pandas-dataframe) - 1 votes
+* [Plotting a trendline with tensorflow neural network](https://stackoverflow.com/questions/77977309/plotting-a-trendline-with-tensorflow-neural-network) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
