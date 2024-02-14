@@ -1,16 +1,16 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-02-13<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-02-14<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Why is BitVec is missing the Serialize trait](https://stackoverflow.com/questions/77990892/why-is-bitvec-is-missing-the-serialize-trait) - 4 votes
 * [Interpreter over IR without representing everything as an enum](https://stackoverflow.com/questions/77989489/interpreter-over-ir-without-representing-everything-as-an-enum) - 4 votes
 * [Weak references not dropping value](https://stackoverflow.com/questions/77985736/weak-references-not-dropping-value) - 3 votes
-* [How do I partially clean a build based on my current Cargolock](https://stackoverflow.com/questions/77983956/how-do-i-partially-clean-a-build-based-on-my-current-cargo-lock) - 3 votes
-* [Why isn39t the sum of a Veclti64gt known to be Optionlti64gt](https://stackoverflow.com/questions/77982367/why-isnt-the-sum-of-a-veci64-known-to-be-optioni64) - 2 votes
+* [Is there a better way to initialize struct from entries of a HashMap](https://stackoverflow.com/questions/77991618/is-there-a-better-way-to-initialize-struct-from-entries-of-a-hashmap) - 2 votes
 * [Conflicting trait implementation](https://stackoverflow.com/questions/77984939/conflicting-trait-implementation) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -25,11 +25,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### pandas
 <!-- pandas starts -->
-* [Expanding Rows in Pandas DataFrame based on Time Intervals Accounting for Optional Breaks](https://stackoverflow.com/questions/77984267/expanding-rows-in-pandas-dataframe-based-on-time-intervals-accounting-for-optio) - 2 votes
-* [Are all rows per group equal to ](https://stackoverflow.com/questions/77985886/are-all-rows-per-group-equal-to) - 1 votes
-* [Delete rows when two conditions is complete in a Pandas dataframe with python](https://stackoverflow.com/questions/77982201/delete-rows-when-two-conditions-is-complete-in-a-pandas-dataframe-with-python) - 1 votes
-* [Pandas Explode a list of nested dictionaries column and append as new rows](https://stackoverflow.com/questions/77987920/pandas-explode-a-list-of-nested-dictionaries-column-and-append-as-new-rows) - 1 votes
-* [A lightweight approach to processing Django Queryset data](https://stackoverflow.com/questions/77986382/a-lightweight-approach-to-processing-django-queryset-data) - 1 votes
+* [How to reshape a polars dataframe](https://stackoverflow.com/questions/77994817/how-to-reshape-a-polars-dataframe) - 3 votes
+* [How to duplicate rows based on the number of weeks between two dates](https://stackoverflow.com/questions/77996196/how-to-duplicate-rows-based-on-the-number-of-weeks-between-two-dates) - 3 votes
+* [How to group by and find new or disappearing items](https://stackoverflow.com/questions/77992562/how-to-group-by-and-find-new-or-disappearing-items) - 2 votes
+* [Pandas Dataframe Assert Equals with nan](https://stackoverflow.com/questions/77995905/pandas-dataframe-assert-equals-with-nan) - 2 votes
+* [Pandas dataframe background color based on condition](https://stackoverflow.com/questions/77993012/pandas-dataframe-background-color-based-on-condition) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
