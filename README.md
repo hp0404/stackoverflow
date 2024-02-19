@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-02-18<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-02-19<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,28 +8,29 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### rust
 <!-- rust starts -->
 * [Storing ZeroSized type instance into a null pointer](https://stackoverflow.com/questions/78015795/storing-zero-sized-type-instance-into-a-null-pointer) - 3 votes
+* [Read from stdin but only while socket is connected](https://stackoverflow.com/questions/78021629/read-from-stdin-but-only-while-socket-is-connected) - 2 votes
 * [Is an Axum handler cancelled if the requester disconnects](https://stackoverflow.com/questions/78016785/is-an-axum-handler-cancelled-if-the-requester-disconnects) - 2 votes
-* [Rust TcpStream can39t be written after reading but can be written without reading Why](https://stackoverflow.com/questions/78011784/rust-tcpstream-cant-be-written-after-reading-but-can-be-written-without-readin) - 1 votes
+* [define nonoverriable associated type in trait](https://stackoverflow.com/questions/78018140/define-non-overriable-associated-type-in-trait) - 1 votes
 * [What is the significance of lifetime annotations in Rust](https://stackoverflow.com/questions/78015566/what-is-the-significance-of-lifetime-annotations-in-rust) - 1 votes
-* [Vulkano Vertex Shaders failing to access normals in independent normal buffer](https://stackoverflow.com/questions/78011091/vulkano-vertex-shaders-failing-to-access-normals-in-independent-normal-buffer) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Running uvicorn from subfolder results in ModuleNotFoundError](https://stackoverflow.com/questions/78013053/running-uvicorn-from-subfolder-results-in-modulenotfounderror) - 1 votes
+* [No overloads for quotupdatequot match the provided arguments](https://stackoverflow.com/questions/78017822/no-overloads-for-update-match-the-provided-arguments) - 1 votes
+* [FastAPI Application with Uvicorn Runs Differently in Docker Background Tasks Wait to Complete Before Responding](https://stackoverflow.com/questions/78016617/fastapi-application-with-uvicorn-runs-differently-in-docker-background-tasks-wa) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How to generate rolling subsequences into a dataframe in Python](https://stackoverflow.com/questions/78012172/how-to-generate-rolling-subsequences-into-a-dataframe-in-python) - 9 votes
-* [Vectorize a folding process in a dataframe](https://stackoverflow.com/questions/78015392/vectorize-a-folding-process-in-a-dataframe) - 3 votes
-* [How to Lookup multiple Row and Column using PD](https://stackoverflow.com/questions/78010753/how-to-lookup-multiple-row-and-column-using-pd) - 2 votes
-* [Python loc multiindex series with repeated keys](https://stackoverflow.com/questions/78016050/python-loc-multiindex-series-with-repeated-keys) - 2 votes
-* [DataFramegroupbyrank producing wrong results](https://stackoverflow.com/questions/78015379/dataframe-groupby-rank-producing-wrong-results) - 1 votes
+* [Vectorize a folding process in a dataframe](https://stackoverflow.com/questions/78015392/vectorize-a-folding-process-in-a-dataframe) - 4 votes
+* [Pythonic way to get polars data frame absolute max values of all relevant columns](https://stackoverflow.com/questions/78019970/pythonic-way-to-get-polars-data-frame-absolute-max-values-of-all-relevant-column) - 2 votes
+* [Comparing a numeric Python39s list against a Pandas dataframe](https://stackoverflow.com/questions/78020461/comparing-a-numeric-pythons-list-against-a-pandas-dataframe) - 2 votes
+* [How to transform multicolumns to rows](https://stackoverflow.com/questions/78018799/how-to-transform-multi-columns-to-rows) - 2 votes
+* [Pandas merge on nested columns if one column39s entry is contained in the other](https://stackoverflow.com/questions/78016972/pandas-merge-on-nested-columns-if-one-columns-entry-is-contained-in-the-other) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
