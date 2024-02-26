@@ -1,35 +1,34 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-02-25<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-02-26<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Rust Lifetimes Behaviour](https://stackoverflow.com/questions/78051430/rust-lifetimes-behaviour) - 3 votes
-* [Changing lint configuration based on Cargo profile](https://stackoverflow.com/questions/78052315/changing-lint-configuration-based-on-cargo-profile) - 3 votes
-* [Unbounded memory usage using pyo3typesPyIterator](https://stackoverflow.com/questions/78053066/unbounded-memory-usage-using-pyo3typespyiterator) - 2 votes
 * [Conflicting implementations error for two related traits](https://stackoverflow.com/questions/78054905/conflicting-implementations-error-for-two-related-traits) - 1 votes
-* [Where is Rust39s range indexing behavior documented](https://stackoverflow.com/questions/78053840/where-is-rusts-range-indexing-behavior-documented) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI User authentication using JavaScript](https://stackoverflow.com/questions/78052347/fastapi-user-authentication-using-javascript) - 1 votes
+* [FastAPI SQLModel  Pydantic not serializing datetime](https://stackoverflow.com/questions/78054752/fastapi-sqlmodel-pydantic-not-serializing-datetime) - 1 votes
+* [How can I configure an enum list in FastAPI](https://stackoverflow.com/questions/78062295/how-can-i-configure-an-enum-list-in-fastapi) - 1 votes
+* [How to properly handle exceptions raised in the __aiter__ method of an asynchronous iterator in FastAPI](https://stackoverflow.com/questions/78058770/how-to-properly-handle-exceptions-raised-in-the-aiter-method-of-an-asynchron) - 1 votes
+* [I am trying to create an API for a web app](https://stackoverflow.com/questions/78058296/i-am-trying-to-create-an-api-for-a-web-app) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [pandas or Polars find index of previous element larger than current one](https://stackoverflow.com/questions/78056934/pandas-or-polars-find-index-of-previous-element-larger-than-current-one) - 2 votes
+* [pandas or Polars find index of previous element larger than current one](https://stackoverflow.com/questions/78056934/pandas-or-polars-find-index-of-previous-element-larger-than-current-one) - 8 votes
+* [Can I load a pandas dataframe from a Postgres dump file](https://stackoverflow.com/questions/78056601/can-i-load-a-pandas-dataframe-from-a-postgres-dump-file) - 3 votes
+* [Setting multiple columns at once with MultiIndex Dataframe](https://stackoverflow.com/questions/78059951/setting-multiple-columns-at-once-with-multiindex-dataframe) - 2 votes
 * [How to keep a numeric sequence in a pandas DataFrame column that only increase](https://stackoverflow.com/questions/78057088/how-to-keep-a-numeric-sequence-in-a-pandas-dataframe-column-that-only-increase) - 2 votes
-* [pandas multiindex divide aggregated counts](https://stackoverflow.com/questions/78053587/pandas-multi-index-divide-aggregated-counts) - 2 votes
 * [Is there a simple way to access a value in a Polars struct](https://stackoverflow.com/questions/78057705/is-there-a-simple-way-to-access-a-value-in-a-polars-struct) - 2 votes
-* [Finding the index of values of one dataframe in another](https://stackoverflow.com/questions/78055850/finding-the-index-of-values-of-one-dataframe-in-another) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
