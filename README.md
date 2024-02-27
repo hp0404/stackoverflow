@@ -1,22 +1,26 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-02-26<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-02-27<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Conflicting implementations error for two related traits](https://stackoverflow.com/questions/78054905/conflicting-implementations-error-for-two-related-traits) - 1 votes
+* [rust using hashmap arc and rwlock across multiple threads](https://stackoverflow.com/questions/78067790/rust-using-hashmap-arc-and-rwlock-across-multiple-threads) - 2 votes
+* [The difference between defining impl within a function and defining it outside a function](https://stackoverflow.com/questions/78068451/the-difference-between-defining-impl-within-a-function-and-defining-it-outside-a) - 2 votes
+* [Make an argument generic over tuple structs of a specific shape](https://stackoverflow.com/questions/78068711/make-an-argument-generic-over-tuple-structs-of-a-specific-shape) - 1 votes
+* [Unwrap enum variant and return either owned value or reference](https://stackoverflow.com/questions/78067049/unwrap-enum-variant-and-return-either-owned-value-or-reference) - 1 votes
+* [Patched Rust binary in Ghidra on MacOS AARCH64 results in process killed](https://stackoverflow.com/questions/78067270/patched-rust-binary-in-ghidra-on-macos-aarch64-results-in-process-killed) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI SQLModel  Pydantic not serializing datetime](https://stackoverflow.com/questions/78054752/fastapi-sqlmodel-pydantic-not-serializing-datetime) - 1 votes
 * [How can I configure an enum list in FastAPI](https://stackoverflow.com/questions/78062295/how-can-i-configure-an-enum-list-in-fastapi) - 1 votes
 * [How to properly handle exceptions raised in the __aiter__ method of an asynchronous iterator in FastAPI](https://stackoverflow.com/questions/78058770/how-to-properly-handle-exceptions-raised-in-the-aiter-method-of-an-asynchron) - 1 votes
+* [Python Execute longrunning task in a background process forking off FastAPI app](https://stackoverflow.com/questions/78058404/python-execute-long-running-task-in-a-background-process-forking-off-fastapi-ap) - 1 votes
 * [I am trying to create an API for a web app](https://stackoverflow.com/questions/78058296/i-am-trying-to-create-an-api-for-a-web-app) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
@@ -24,11 +28,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### pandas
 <!-- pandas starts -->
-* [pandas or Polars find index of previous element larger than current one](https://stackoverflow.com/questions/78056934/pandas-or-polars-find-index-of-previous-element-larger-than-current-one) - 8 votes
-* [Can I load a pandas dataframe from a Postgres dump file](https://stackoverflow.com/questions/78056601/can-i-load-a-pandas-dataframe-from-a-postgres-dump-file) - 3 votes
+* [Given a value from a pandas column DataFrame select N rows above and below to that closest value in other DataFrame](https://stackoverflow.com/questions/78067486/given-a-value-from-a-pandas-column-dataframe-select-n-rows-above-and-below-to-t) - 5 votes
+* [Pandas modified rolling average](https://stackoverflow.com/questions/78063360/pandas-modified-rolling-average) - 2 votes
 * [Setting multiple columns at once with MultiIndex Dataframe](https://stackoverflow.com/questions/78059951/setting-multiple-columns-at-once-with-multiindex-dataframe) - 2 votes
-* [How to keep a numeric sequence in a pandas DataFrame column that only increase](https://stackoverflow.com/questions/78057088/how-to-keep-a-numeric-sequence-in-a-pandas-dataframe-column-that-only-increase) - 2 votes
-* [Is there a simple way to access a value in a Polars struct](https://stackoverflow.com/questions/78057705/is-there-a-simple-way-to-access-a-value-in-a-polars-struct) - 2 votes
+* [How to access index value in pdSeries aggregation or mapping](https://stackoverflow.com/questions/78063452/how-to-access-index-value-in-pd-series-aggregation-or-mapping) - 2 votes
+* [Populating new pandas column values from different dataframe that match a column value and column name](https://stackoverflow.com/questions/78070420/populating-new-pandas-column-values-from-different-dataframe-that-match-a-column) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
