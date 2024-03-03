@@ -1,33 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-03-02<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-03-03<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Sending mutable reference to async wont give it back after shutdown of async](https://stackoverflow.com/questions/78090685/sending-mutable-reference-to-async-wont-give-it-back-after-shutdown-of-async) - 1 votes
-* [Abstracting mutableimmutable references in rust](https://stackoverflow.com/questions/78085287/abstracting-mutable-immutable-references-in-rust) - 1 votes
+* [Rust idiomatic approach to call functions from trait implementations](https://stackoverflow.com/questions/78096185/rust-idiomatic-approach-to-call-functions-from-trait-implementations) - 4 votes
+* [How to handle dynamic struct instantiation](https://stackoverflow.com/questions/78096842/how-to-handle-dynamic-struct-instantiation) - 2 votes
+* [Sending a vector by chunks from one thread to another using mpsc channel](https://stackoverflow.com/questions/78095358/sending-a-vector-by-chunks-from-one-thread-to-another-using-mpsc-channel) - 2 votes
+* [What is self in a trait with generics](https://stackoverflow.com/questions/78094787/what-is-self-in-a-trait-with-generics) - 1 votes
+* [Do const generics and the typenum crate have an overlapping purpose](https://stackoverflow.com/questions/78096620/do-const-generics-and-the-typenum-crate-have-an-overlapping-purpose) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI  pydantic field_validator not considered when using empty Depends](https://stackoverflow.com/questions/78089139/fastapi-pydantic-field-validator-not-considered-when-using-empty-depends) - 1 votes
-* [How to use websocket running on separate QThread of PyQt application](https://stackoverflow.com/questions/78086247/how-to-use-websocket-running-on-separate-qthread-of-pyqt-application) - 1 votes
+* [How to run a Background Task when using websockets in FastAPIStarlette](https://stackoverflow.com/questions/78095190/how-to-run-a-background-task-when-using-websockets-in-fastapi-starlette) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [How to get spesific unique combinations of a dataframe using only dataframe operations](https://stackoverflow.com/questions/78097177/how-to-get-spesific-unique-combinations-of-a-dataframe-using-only-dataframe-oper) - 3 votes
 * [Pandas  how to transform multi select column to index  column](https://stackoverflow.com/questions/78093070/pandas-how-to-transform-multi-select-column-to-index-column) - 2 votes
+* [I want to read a csv file with pandas I want to skip rows but I want to keep the original line numbers](https://stackoverflow.com/questions/78096005/i-want-to-read-a-csv-file-with-pandas-i-want-to-skip-rows-but-i-want-to-keep-th) - 2 votes
+* [Create an order column in a pandas dataframe based on one date column relative to another date column](https://stackoverflow.com/questions/78096128/create-an-order-column-in-a-pandas-dataframe-based-on-one-date-column-relative-t) - 1 votes
 * [Finding overlapping regions in large DataFrame using start and stop positions](https://stackoverflow.com/questions/78091649/finding-overlapping-regions-in-large-dataframe-using-start-and-stop-positions) - 1 votes
-* [Bar plots with label on top based on another column](https://stackoverflow.com/questions/78087609/bar-plots-with-label-on-top-based-on-another-column) - 1 votes
-* [What is the correct way to set multiple columns in Pandas from a list](https://stackoverflow.com/questions/78092770/what-is-the-correct-way-to-set-multiple-columns-in-pandas-from-a-list) - 1 votes
-* [Merging dataframes in Pandas but dealing with 39nonexistent39 columns](https://stackoverflow.com/questions/78089330/merging-dataframes-in-pandas-but-dealing-with-non-existent-columns) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
