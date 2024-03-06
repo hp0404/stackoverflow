@@ -1,37 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-03-05<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-03-06<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why does it work to pass ampmut Vecltamp39static strgt to a function which takes ampmut Vecltamp39a strgt](https://stackoverflow.com/questions/78102645/why-does-it-work-to-pass-mut-vecstatic-str-to-a-function-which-takes-mu) - 2 votes
+* [Rust borrow checker analogy](https://stackoverflow.com/questions/78114085/rust-borrow-checker-analogy) - 2 votes
+* [Lifetime of arena in longrunning web server](https://stackoverflow.com/questions/78111357/lifetime-of-arena-in-long-running-web-server) - 2 votes
 * [Conditionally pass async function as argument in Rust](https://stackoverflow.com/questions/78106336/conditionally-pass-async-function-as-argument-in-rust) - 2 votes
-* [UnsafeCell getting mutable reference from a function cannot return reference to a temporary value](https://stackoverflow.com/questions/78104254/unsafecell-getting-mutable-reference-from-a-function-cannot-return-reference-to) - 1 votes
-* [Creating dataframe with missing values](https://stackoverflow.com/questions/78100430/creating-dataframe-with-missing-values) - 1 votes
-* [How can I get informations about the parameters on a function or closure](https://stackoverflow.com/questions/78107211/how-can-i-get-informations-about-the-parameters-on-a-function-or-closure) - 1 votes
+* [What is the type for the closure a i32 b i32 a  b](https://stackoverflow.com/questions/78111694/what-is-the-type-for-the-closure-a-i32-b-i32-a-b) - 1 votes
+* [How do I box two objects whose lifetimes are linked](https://stackoverflow.com/questions/78116922/how-do-i-box-two-objects-whose-lifetimes-are-linked) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
+* [Keycloack fastapi user registry](https://stackoverflow.com/questions/78110110/keycloack-fastapi-user-registry) - 2 votes
 * [SQLAlchemy error Could not parse SQLAlchemy URL from string](https://stackoverflow.com/questions/78109512/sqlalchemy-error-could-not-parse-sqlalchemy-url-from-string) - 1 votes
-* [Unable to run uvicorn under gunicorn in a Docker container](https://stackoverflow.com/questions/78099680/unable-to-run-uvicorn-under-gunicorn-in-a-docker-container) - 1 votes
-* [how to return word docfile in fastapi](https://stackoverflow.com/questions/78102383/how-to-return-word-doc-file-in-fastapi) - 1 votes
+* [How to dynamically create FastAPI routeshandlers for a list of Pydantic models](https://stackoverflow.com/questions/78110125/how-to-dynamically-create-fastapi-routes-handlers-for-a-list-of-pydantic-models) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas new column sampled from list based on column value](https://stackoverflow.com/questions/78104696/pandas-new-column-sampled-from-list-based-on-column-value) - 6 votes
+* [Pandas new column sampled from list based on column value](https://stackoverflow.com/questions/78104696/pandas-new-column-sampled-from-list-based-on-column-value) - 7 votes
+* [What is the best way to filter groups by two lambda conditions and create a new column based on the conditions](https://stackoverflow.com/questions/78105399/what-is-the-best-way-to-filter-groups-by-two-lambda-conditions-and-create-a-new) - 4 votes
 * [Pandas find last value before a given timestamp](https://stackoverflow.com/questions/78106827/pandas-find-last-value-before-a-given-timestamp) - 4 votes
-* [What is the best way to filter groups by two lambda conditions and create a new column based on the conditions](https://stackoverflow.com/questions/78105399/what-is-the-best-way-to-filter-groups-by-two-lambda-conditions-and-create-a-new) - 3 votes
+* [pandas slice 3level multiindex based on a list with 2 levels](https://stackoverflow.com/questions/78116908/pandas-slice-3-level-multiindex-based-on-a-list-with-2-levels) - 3 votes
 * [Using doctest with pandas how to fix the number of columns in the output example](https://stackoverflow.com/questions/78107528/using-doctest-with-pandas-how-to-fix-the-number-of-columns-in-the-output-exampl) - 3 votes
-* [as_indexFalse groupBy doesn39t work with count](https://stackoverflow.com/questions/78100258/as-index-false-groupby-doesnt-work-with-count) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
