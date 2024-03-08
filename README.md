@@ -1,36 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-03-07<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-03-08<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How do I box two objects whose lifetimes are linked](https://stackoverflow.com/questions/78116922/how-do-i-box-two-objects-whose-lifetimes-are-linked) - 3 votes
-* [Rust borrow checker analogy](https://stackoverflow.com/questions/78114085/rust-borrow-checker-analogy) - 3 votes
 * [How to create an object with references to variables owned by constructor](https://stackoverflow.com/questions/78118347/how-to-create-an-object-with-references-to-variables-owned-by-constructor) - 2 votes
-* [What would be a Rust idiomatic way to have a vector of traits with aliases for individual vector items](https://stackoverflow.com/questions/78117921/what-would-be-a-rust-idiomatic-way-to-have-a-vector-of-traits-with-aliases-for-i) - 2 votes
-* [Lifetime of arena in longrunning web server](https://stackoverflow.com/questions/78111357/lifetime-of-arena-in-long-running-web-server) - 2 votes
+* [Logic about return in rust](https://stackoverflow.com/questions/78127832/logic-about-return-in-rust) - 2 votes
+* [How do I determine the pixel width of a string of text](https://stackoverflow.com/questions/78127270/how-do-i-determine-the-pixel-width-of-a-string-of-text) - 1 votes
+* [In Rust is there a way for me to define two structs where both will follow a standard struct](https://stackoverflow.com/questions/78123506/in-rust-is-there-a-way-for-me-to-define-two-structs-where-both-will-follow-a-st) - 1 votes
+* [Rust Actix Web Bytes Exractor Returns Empty Bytes Wrongly](https://stackoverflow.com/questions/78121226/rust-actix-web-bytes-exractor-returns-empty-bytes-wrongly) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
+* [Pytest got Future ltFuture pendinggt attached to a different loop](https://stackoverflow.com/questions/78128706/pytest-got-future-future-pending-attached-to-a-different-loop) - 1 votes
 * [Testing AsyncClient websocket does not work AttributeError 39AsyncClient39 object has no attribute 39websocket_connect39](https://stackoverflow.com/questions/78120142/testing-asyncclient-websocket-does-not-work-attributeerror-asyncclient-object) - 1 votes
-* [How can I override my JWT auth dependency in the endponits in FastAPI testing](https://stackoverflow.com/questions/78117533/how-can-i-override-my-jwt-auth-dependency-in-the-endponits-in-fastapi-testing) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [pandas slice 3level multiindex based on a list with 2 levels](https://stackoverflow.com/questions/78116908/pandas-slice-3-level-multiindex-based-on-a-list-with-2-levels) - 3 votes
+* [Pandas make list size in a column same as in another column](https://stackoverflow.com/questions/78130203/pandas-make-list-size-in-a-column-same-as-in-another-column) - 3 votes
+* [Breakwrap long text of column names in Pandas dataframe plain text to_string output](https://stackoverflow.com/questions/78129071/break-wrap-long-text-of-column-names-in-pandas-dataframe-plain-text-to-string-ou) - 3 votes
 * [Pandas Filter dataframe by difference between adjacent rows](https://stackoverflow.com/questions/78118100/pandas-filter-dataframe-by-difference-between-adjacent-rows) - 3 votes
 * [pyarrow Table adds column 39__index_level_0__39](https://stackoverflow.com/questions/78120048/pyarrow-table-adds-column-index-level-0) - 3 votes
 * [How to calculate day difference between rows with specific conditions in Pandas](https://stackoverflow.com/questions/78120071/how-to-calculate-day-difference-between-rows-with-specific-conditions-in-pandas) - 2 votes
-* [Renaming Panda Dataframe indexes](https://stackoverflow.com/questions/78117788/renaming-panda-dataframe-indexes) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
