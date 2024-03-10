@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-03-09<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-03-10<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Why is Copy a supertrait of Pod in the bytemuck crate](https://stackoverflow.com/questions/78134616/why-is-copy-a-supertrait-of-pod-in-the-bytemuck-crate) - 4 votes
 * [How to escape quot and quot in raw string literals](https://stackoverflow.com/questions/78131696/how-to-escape-and-in-raw-string-literals) - 2 votes
-* [Logic about return in rust](https://stackoverflow.com/questions/78127832/logic-about-return-in-rust) - 2 votes
 * [How does sorting a vector of references to references of str work on the strings rather than the outermost references](https://stackoverflow.com/questions/78130891/how-does-sorting-a-vector-of-references-to-references-of-str-work-on-the-strings) - 1 votes
 * [Verifying Powerball174 lottery odds to win Why am I getting different odds than the official website advertises](https://stackoverflow.com/questions/78131155/verifying-powerball-lottery-odds-to-win-why-am-i-getting-different-odds-than-t) - 1 votes
-* [How do I determine the pixel width of a string of text](https://stackoverflow.com/questions/78127270/how-do-i-determine-the-pixel-width-of-a-string-of-text) - 1 votes
+* [How to reformulate multiple trait bounds as a single trait](https://stackoverflow.com/questions/78136752/how-to-reformulate-multiple-trait-bounds-as-a-single-trait) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -19,20 +19,18 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### fastapi
 <!-- fastapi starts -->
 * [Using defer or load_only with sqlmodel will return primary ID How can avoid this natively](https://stackoverflow.com/questions/78133698/using-defer-or-load-only-with-sqlmodel-will-return-primary-id-how-can-avoid-thi) - 1 votes
-* [How to get query parameters after  from a redirect URL in FastAPI](https://stackoverflow.com/questions/78131753/how-to-get-query-parameters-after-from-a-redirect-url-in-fastapi) - 1 votes
-* [Input should be a valid integer unable to parse string as an integer But actually the variabel is integer](https://stackoverflow.com/questions/78129643/input-should-be-a-valid-integer-unable-to-parse-string-as-an-integer-but-actu) - 1 votes
-* [Pytest got Future ltFuture pendinggt attached to a different loop](https://stackoverflow.com/questions/78128706/pytest-got-future-future-pending-attached-to-a-different-loop) - 1 votes
+* [How to get parameters after hash mark  from a redirect URL in FastAPI](https://stackoverflow.com/questions/78131753/how-to-get-parameters-after-hash-mark-from-a-redirect-url-in-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas make list size in a column same as in another column](https://stackoverflow.com/questions/78130203/pandas-make-list-size-in-a-column-same-as-in-another-column) - 4 votes
-* [Breakwrap long text of column names in Pandas dataframe plain text to_string output](https://stackoverflow.com/questions/78129071/break-wrap-long-text-of-column-names-in-pandas-dataframe-plain-text-to-string-ou) - 3 votes
-* [Pandas dataframe titlecaption in plain text to_string output](https://stackoverflow.com/questions/78128890/pandas-dataframe-title-caption-in-plain-text-to-string-output) - 3 votes
-* [Pandas with pyarrow does not use additional memory when splitting dataframe](https://stackoverflow.com/questions/78127591/pandas-with-pyarrow-does-not-use-additional-memory-when-splitting-dataframe) - 3 votes
-* [Groupby as list into new column](https://stackoverflow.com/questions/78130544/groupby-as-list-into-new-column) - 2 votes
+* [Multirow in pandas df  one header with multiple values](https://stackoverflow.com/questions/78133851/multirow-in-pandas-df-one-header-with-multiple-values) - 3 votes
+* [ValueError with ScikitLearn](https://stackoverflow.com/questions/78130876/valueerror-with-scikit-learn) - 2 votes
+* [How to convert pandas DataFrame into a dictionary with specific column as key that contains duplicate value](https://stackoverflow.com/questions/78133578/how-to-convert-pandas-dataframe-into-a-dictionary-with-specific-column-as-key-th) - 2 votes
+* [Construct pandas Dataframe from a dictionary](https://stackoverflow.com/questions/78137374/construct-pandas-dataframe-from-a-dictionary) - 1 votes
+* [Remove duplicates without exact match](https://stackoverflow.com/questions/78134491/remove-duplicates-without-exact-match) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
