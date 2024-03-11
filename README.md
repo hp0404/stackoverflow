@@ -1,16 +1,16 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-03-10<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-03-11<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why is Copy a supertrait of Pod in the bytemuck crate](https://stackoverflow.com/questions/78134616/why-is-copy-a-supertrait-of-pod-in-the-bytemuck-crate) - 4 votes
-* [How to escape quot and quot in raw string literals](https://stackoverflow.com/questions/78131696/how-to-escape-and-in-raw-string-literals) - 2 votes
-* [How does sorting a vector of references to references of str work on the strings rather than the outermost references](https://stackoverflow.com/questions/78130891/how-does-sorting-a-vector-of-references-to-references-of-str-work-on-the-strings) - 1 votes
-* [Verifying Powerball174 lottery odds to win Why am I getting different odds than the official website advertises](https://stackoverflow.com/questions/78131155/verifying-powerball-lottery-odds-to-win-why-am-i-getting-different-odds-than-t) - 1 votes
+* [Why is Copy a supertrait of Pod in the bytemuck crate](https://stackoverflow.com/questions/78134616/why-is-copy-a-supertrait-of-pod-in-the-bytemuck-crate) - 5 votes
+* [How can I remove 3 years from a date in Rust](https://stackoverflow.com/questions/78137121/how-can-i-remove-3-years-from-a-date-in-rust) - 3 votes
+* [Access to shadowed variable in Rust](https://stackoverflow.com/questions/78141031/access-to-shadowed-variable-in-rust) - 2 votes
+* [Table causing a stack overflow](https://stackoverflow.com/questions/78136661/table-causing-a-stack-overflow) - 1 votes
 * [How to reformulate multiple trait bounds as a single trait](https://stackoverflow.com/questions/78136752/how-to-reformulate-multiple-trait-bounds-as-a-single-trait) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -18,19 +18,18 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### fastapi
 <!-- fastapi starts -->
-* [Using defer or load_only with sqlmodel will return primary ID How can avoid this natively](https://stackoverflow.com/questions/78133698/using-defer-or-load-only-with-sqlmodel-will-return-primary-id-how-can-avoid-thi) - 1 votes
-* [How to get parameters after hash mark  from a redirect URL in FastAPI](https://stackoverflow.com/questions/78131753/how-to-get-parameters-after-hash-mark-from-a-redirect-url-in-fastapi) - 1 votes
+* [Deploying dockerize Fast api to google cloud engine](https://stackoverflow.com/questions/78142014/deploying-dockerize-fast-api-to-google-cloud-engine) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Multirow in pandas df  one header with multiple values](https://stackoverflow.com/questions/78133851/multirow-in-pandas-df-one-header-with-multiple-values) - 3 votes
-* [ValueError with ScikitLearn](https://stackoverflow.com/questions/78130876/valueerror-with-scikit-learn) - 2 votes
-* [How to convert pandas DataFrame into a dictionary with specific column as key that contains duplicate value](https://stackoverflow.com/questions/78133578/how-to-convert-pandas-dataframe-into-a-dictionary-with-specific-column-as-key-th) - 2 votes
-* [Construct pandas Dataframe from a dictionary](https://stackoverflow.com/questions/78137374/construct-pandas-dataframe-from-a-dictionary) - 1 votes
-* [Remove duplicates without exact match](https://stackoverflow.com/questions/78134491/remove-duplicates-without-exact-match) - 1 votes
+* [How to relate list items from two pandas DataFrame columns](https://stackoverflow.com/questions/78140607/how-to-relate-list-items-from-two-pandas-dataframe-columns) - 2 votes
+* [Rowwise aggregation of Pandas dataframe](https://stackoverflow.com/questions/78137727/row-wise-aggregation-of-pandas-dataframe) - 2 votes
+* [Pandas remove rows with only one type of value repeated or not](https://stackoverflow.com/questions/78141652/pandas-remove-rows-with-only-one-type-of-value-repeated-or-not) - 2 votes
+* [Pandas select rows with values are present for all elements in array](https://stackoverflow.com/questions/78142171/pandas-select-rows-with-values-are-present-for-all-elements-in-array) - 1 votes
+* [Displayprint column as hex in pandas](https://stackoverflow.com/questions/78140123/display-print-column-as-hex-in-pandas) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
