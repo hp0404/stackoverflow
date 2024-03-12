@@ -1,23 +1,24 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-03-11<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-03-12<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why is Copy a supertrait of Pod in the bytemuck crate](https://stackoverflow.com/questions/78134616/why-is-copy-a-supertrait-of-pod-in-the-bytemuck-crate) - 5 votes
-* [How can I remove 3 years from a date in Rust](https://stackoverflow.com/questions/78137121/how-can-i-remove-3-years-from-a-date-in-rust) - 3 votes
 * [Access to shadowed variable in Rust](https://stackoverflow.com/questions/78141031/access-to-shadowed-variable-in-rust) - 2 votes
-* [Table causing a stack overflow](https://stackoverflow.com/questions/78136661/table-causing-a-stack-overflow) - 1 votes
-* [How to reformulate multiple trait bounds as a single trait](https://stackoverflow.com/questions/78136752/how-to-reformulate-multiple-trait-bounds-as-a-single-trait) - 1 votes
+* [Pylance VSCode not displaying docstrings from my Rust PyO3 Maturin extension](https://stackoverflow.com/questions/78149331/pylance-vscode-not-displaying-docstrings-from-my-rust-pyo3-maturin-extensio) - 2 votes
+* [How to compare a value in struct using match](https://stackoverflow.com/questions/78144441/how-to-compare-a-value-in-struct-using-match) - 1 votes
+* [How to check that a string is among a fixed set of values in rust](https://stackoverflow.com/questions/78143087/how-to-check-that-a-string-is-among-a-fixed-set-of-values-in-rust) - 1 votes
+* [closures in rust like in highlevel language](https://stackoverflow.com/questions/78143033/closures-in-rust-like-in-high-level-language) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
+* [HTTP160response to POST160request with large data](https://stackoverflow.com/questions/78146704/http-response-to-post-request-with-large-data) - 1 votes
 * [Deploying dockerize Fast api to google cloud engine](https://stackoverflow.com/questions/78142014/deploying-dockerize-fast-api-to-google-cloud-engine) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
@@ -25,11 +26,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### pandas
 <!-- pandas starts -->
-* [How to relate list items from two pandas DataFrame columns](https://stackoverflow.com/questions/78140607/how-to-relate-list-items-from-two-pandas-dataframe-columns) - 2 votes
-* [Rowwise aggregation of Pandas dataframe](https://stackoverflow.com/questions/78137727/row-wise-aggregation-of-pandas-dataframe) - 2 votes
-* [Pandas remove rows with only one type of value repeated or not](https://stackoverflow.com/questions/78141652/pandas-remove-rows-with-only-one-type-of-value-repeated-or-not) - 2 votes
-* [Pandas select rows with values are present for all elements in array](https://stackoverflow.com/questions/78142171/pandas-select-rows-with-values-are-present-for-all-elements-in-array) - 1 votes
-* [Displayprint column as hex in pandas](https://stackoverflow.com/questions/78140123/display-print-column-as-hex-in-pandas) - 1 votes
+* [How to get the number of the row that contains a specific value in the given column](https://stackoverflow.com/questions/78147344/how-to-get-the-number-of-the-row-that-contains-a-specific-value-in-the-given-col) - 3 votes
+* [Polars replacing the first n rows with certain values](https://stackoverflow.com/questions/78143771/polars-replacing-the-first-n-rows-with-certain-values) - 3 votes
+* [In a dataframe how can i find if each row number appears in a column of lists](https://stackoverflow.com/questions/78149052/in-a-dataframe-how-can-i-find-if-each-row-number-appears-in-a-column-of-lists) - 2 votes
+* [Create suitable DataFrame for plotly plot](https://stackoverflow.com/questions/78143721/create-suitable-dataframe-for-plotly-plot) - 2 votes
+* [Expand unique values of a column into multiple columns for X columns in a DataFrame](https://stackoverflow.com/questions/78148739/expand-unique-values-of-a-column-into-multiple-columns-for-x-columns-in-a-dataf) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
