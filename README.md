@@ -1,35 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-03-18<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-03-19<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Crossterm not clearing screen properly](https://stackoverflow.com/questions/78174550/crossterm-not-clearing-screen-properly) - 3 votes
-* [What are the pitfalls of this utility function to map over a mutable reference](https://stackoverflow.com/questions/78176620/what-are-the-pitfalls-of-this-utility-function-to-map-over-a-mutable-reference) - 3 votes
-* [Prevent Rest Condition in Rust Match Statement](https://stackoverflow.com/questions/78180792/prevent-rest-condition-in-rust-match-statement) - 2 votes
-* [Calling Rust functions from inline assembly and calling conventions](https://stackoverflow.com/questions/78182688/calling-rust-functions-from-inline-assembly-and-calling-conventions) - 2 votes
-* [How would the Broker pattern look like in Rust](https://stackoverflow.com/questions/78175273/how-would-the-broker-pattern-look-like-in-rust) - 2 votes
+* [Prevent Rest Condition in Rust Match Statement](https://stackoverflow.com/questions/78180792/prevent-rest-condition-in-rust-match-statement) - 3 votes
+* [measure sum of code size of monomorphizations](https://stackoverflow.com/questions/78188580/measure-sum-of-code-size-of-monomorphizations) - 3 votes
+* [Calling Rust functions from inline assembly and calling conventions](https://stackoverflow.com/questions/78182688/calling-rust-functions-from-inline-assembly-and-calling-conventions) - 3 votes
+* [Why is my Mersenne prime code faster with a larger exponent](https://stackoverflow.com/questions/78189488/why-is-my-mersenne-prime-code-faster-with-a-larger-exponent) - 2 votes
+* [How to group enum members but keep match exhaustivity check](https://stackoverflow.com/questions/78180644/how-to-group-enum-members-but-keep-match-exhaustivity-check) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [ECONNRESET error in postman while trying to make a post request to an azure web app](https://stackoverflow.com/questions/78176929/econnreset-error-in-postman-while-trying-to-make-a-post-request-to-an-azure-web) - 1 votes
+* [How to Replace Pydantic39s constr for use outside of BaseModel in FastAPI](https://stackoverflow.com/questions/78187747/how-to-replace-pydantics-constr-for-use-outside-of-basemodel-in-fastapi) - 1 votes
+* [Combining Dependencies in FastAPI using SubDependencies](https://stackoverflow.com/questions/78184666/combining-dependencies-in-fastapi-using-sub-dependencies) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How does pandasconcat work when the input is a dictionary](https://stackoverflow.com/questions/78176271/how-does-pandas-concat-work-when-the-input-is-a-dictionary) - 3 votes
+* [How to reverse the value of column in a dataframe](https://stackoverflow.com/questions/78187026/how-to-reverse-the-value-of-column-in-a-dataframe) - 3 votes
 * [add subtotal column by condition](https://stackoverflow.com/questions/78178154/add-subtotal-column-by-condition) - 2 votes
 * [How do I generate ngroups from a comparison function](https://stackoverflow.com/questions/78179350/how-do-i-generate-ngroups-from-a-comparison-function) - 2 votes
-* [Pandas shuffle rows within groups in dataframe leaving the relative groups order intact](https://stackoverflow.com/questions/78179989/pandas-shuffle-rows-within-groups-in-dataframe-leaving-the-relative-groups-orde) - 2 votes
-* [Transform Postgres recursive query to Python Pandas Dataframe](https://stackoverflow.com/questions/78180508/transform-postgres-recursive-query-to-python-pandas-dataframe) - 2 votes
+* [How to make a regex orderless when validating a list of texts](https://stackoverflow.com/questions/78187376/how-to-make-a-regex-orderless-when-validating-a-list-of-texts) - 2 votes
+* [Conditional Statement On Pandas Dataframe When Column Values Meet A Specific Sequence](https://stackoverflow.com/questions/78183673/conditional-statement-on-pandas-dataframe-when-column-values-meet-a-specific-seq) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
