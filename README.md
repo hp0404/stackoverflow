@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-03-19<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-03-20<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Prevent Rest Condition in Rust Match Statement](https://stackoverflow.com/questions/78180792/prevent-rest-condition-in-rust-match-statement) - 3 votes
 * [measure sum of code size of monomorphizations](https://stackoverflow.com/questions/78188580/measure-sum-of-code-size-of-monomorphizations) - 3 votes
-* [Calling Rust functions from inline assembly and calling conventions](https://stackoverflow.com/questions/78182688/calling-rust-functions-from-inline-assembly-and-calling-conventions) - 3 votes
+* [How to find the positions of a number in a 2D array](https://stackoverflow.com/questions/78190722/how-to-find-the-positions-of-a-number-in-a-2d-array) - 2 votes
 * [Why is my Mersenne prime code faster with a larger exponent](https://stackoverflow.com/questions/78189488/why-is-my-mersenne-prime-code-faster-with-a-larger-exponent) - 2 votes
-* [How to group enum members but keep match exhaustivity check](https://stackoverflow.com/questions/78180644/how-to-group-enum-members-but-keep-match-exhaustivity-check) - 1 votes
+* [Why does this fizz buzz code in Rust slower than Nodejs](https://stackoverflow.com/questions/78195971/why-does-this-fizz-buzz-code-in-rust-slower-than-node-js) - 1 votes
+* [How to separate rust library and exported python extensions which wrap it](https://stackoverflow.com/questions/78188760/how-to-separate-rust-library-and-exported-python-extensions-which-wrap-it) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -26,11 +26,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### pandas
 <!-- pandas starts -->
+* [What is a fast an elegant way to transform a column with a bunch a duplicated without running the transformation on the same value multiple times](https://stackoverflow.com/questions/78190336/what-is-a-fast-an-elegant-way-to-transform-a-column-with-a-bunch-a-duplicated-w) - 3 votes
 * [How to reverse the value of column in a dataframe](https://stackoverflow.com/questions/78187026/how-to-reverse-the-value-of-column-in-a-dataframe) - 3 votes
-* [add subtotal column by condition](https://stackoverflow.com/questions/78178154/add-subtotal-column-by-condition) - 2 votes
-* [How do I generate ngroups from a comparison function](https://stackoverflow.com/questions/78179350/how-do-i-generate-ngroups-from-a-comparison-function) - 2 votes
+* [How to find the indices of matching rows between 2 data frames](https://stackoverflow.com/questions/78193046/how-to-find-the-indices-of-matching-rows-between-2-data-frames) - 2 votes
 * [How to make a regex orderless when validating a list of texts](https://stackoverflow.com/questions/78187376/how-to-make-a-regex-orderless-when-validating-a-list-of-texts) - 2 votes
-* [Conditional Statement On Pandas Dataframe When Column Values Meet A Specific Sequence](https://stackoverflow.com/questions/78183673/conditional-statement-on-pandas-dataframe-when-column-values-meet-a-specific-seq) - 2 votes
+* [What does freq39infer39 do in pandas shift How does it differ from freq39D39](https://stackoverflow.com/questions/78191983/what-does-freq-infer-do-in-pandas-shift-how-does-it-differ-from-freq-d) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
