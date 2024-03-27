@@ -1,37 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-03-26<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-03-27<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why is no_mangle required to see Rust functions in WASM library](https://stackoverflow.com/questions/78221495/why-is-no-mangle-required-to-see-rust-functions-in-wasm-library) - 2 votes
-* [serde deserialize json array into option struct](https://stackoverflow.com/questions/78221058/serde-deserialize-json-array-into-option-struct) - 1 votes
-* [Transform JSON Key into a Polars DataFrame](https://stackoverflow.com/questions/78216815/transform-json-key-into-a-polars-dataframe) - 1 votes
+* [Why is phantom data not auto inferred](https://stackoverflow.com/questions/78228026/why-is-phantom-data-not-auto-inferred) - 1 votes
+* [Collect RangeInclusiveltTgt into VecltTgt](https://stackoverflow.com/questions/78233709/collect-rangeinclusivet-into-vect) - 1 votes
+* [What structure can be made to avoid having to use RefCell](https://stackoverflow.com/questions/78231106/what-structure-can-be-made-to-avoid-having-to-use-refcell) - 1 votes
 * [init a const array with heterogenous data in rust](https://stackoverflow.com/questions/78227965/init-a-const-array-with-heterogenous-data-in-rust) - 1 votes
-* [String slice in a const function](https://stackoverflow.com/questions/78222066/string-slice-in-a-const-function) - 1 votes
+* [CSV with nested structs](https://stackoverflow.com/questions/78226563/csv-with-nested-structs) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Why do we need to use a generator when creating a connection to the database in FastAPI](https://stackoverflow.com/questions/78218927/why-do-we-need-to-use-a-generator-when-creating-a-connection-to-the-database-in) - 1 votes
-* [Initial Fastapi request is not being processed and stays on hold](https://stackoverflow.com/questions/78226087/initial-fastapi-request-is-not-being-processed-and-stays-on-hold) - 1 votes
-* [Client can contact server on all ports except 8080](https://stackoverflow.com/questions/78216605/client-can-contact-server-on-all-ports-except-8080) - 1 votes
+* [Initial Fastapi request is not being processed and stays on hold](https://stackoverflow.com/questions/78226087/initial-fastapi-request-is-not-being-processed-and-stays-on-hold) - 2 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [How to preserve order of columns when concatenating MultiIndexed dataframes](https://stackoverflow.com/questions/78231390/how-to-preserve-order-of-columns-when-concatenating-multi-indexed-dataframes) - 3 votes
 * [How do I update a dataframe column with a formula that uses values from other columns](https://stackoverflow.com/questions/78225517/how-do-i-update-a-dataframe-column-with-a-formula-that-uses-values-from-other-co) - 3 votes
-* [Create pandas dataframe column containing list of previous values](https://stackoverflow.com/questions/78219149/create-pandas-dataframe-column-containing-list-of-previous-values) - 2 votes
+* [Python  Converting DatePrice list to new rows](https://stackoverflow.com/questions/78228212/python-converting-dateprice-list-to-new-rows) - 2 votes
+* [Skip level in nested JSON and convert to Pandas dataframe](https://stackoverflow.com/questions/78231207/skip-level-in-nested-json-and-convert-to-pandas-dataframe) - 2 votes
 * [Read the latest S3 parquet files partitioned by date key using Polars](https://stackoverflow.com/questions/78222522/read-the-latest-s3-parquet-files-partitioned-by-date-key-using-polars) - 2 votes
-* [Pandas concat function giving quotFutureWarning The behavior of DataFrame concatenation with empty or allNA entries is deprecatedquot](https://stackoverflow.com/questions/78225424/pandas-concat-function-giving-futurewarning-the-behavior-of-dataframe-concaten) - 2 votes
-* [Merging and concatinating simultaneously](https://stackoverflow.com/questions/78221852/merging-and-concatinating-simultaneously) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
