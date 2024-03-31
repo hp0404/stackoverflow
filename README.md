@@ -1,35 +1,36 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-03-30<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-03-31<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Implement Mul and other operators where it is implemented on contained generic types](https://stackoverflow.com/questions/78245175/implement-mul-and-other-operators-where-it-is-implemented-on-contained-generic-t) - 2 votes
-* [What39s the difference between using an intermediate variable and not](https://stackoverflow.com/questions/78242353/whats-the-difference-between-using-an-intermediate-variable-and-not) - 1 votes
+* [Mutable borrow problem with inserting Vacant entry into HashMap](https://stackoverflow.com/questions/78250758/mutable-borrow-problem-with-inserting-vacant-entry-into-hashmap) - 2 votes
+* [Why is a slice a DST](https://stackoverflow.com/questions/78251991/why-is-a-slice-a-dst) - 1 votes
+* [Generic property compare](https://stackoverflow.com/questions/78251794/generic-property-compare) - 1 votes
 * [In rust how to modify a boxed function and assign it back](https://stackoverflow.com/questions/78247630/in-rust-how-to-modify-a-boxed-function-and-assign-it-back) - 1 votes
-* [How do I log WASM heap memory usage from Rust](https://stackoverflow.com/questions/78246635/how-do-i-log-wasm-heap-memory-usage-from-rust) - 1 votes
-* [How to correctly generate an HTML report of coverage with grcov](https://stackoverflow.com/questions/78244517/how-to-correctly-generate-an-html-report-of-coverage-with-grcov) - 1 votes
+* [How to encrypt a string at compiletime and decrypt it at runtime in Rust similar to constexpr encryption in c](https://stackoverflow.com/questions/78248927/how-to-encrypt-a-string-at-compile-time-and-decrypt-it-at-runtime-in-rust-simil) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to handle multiple parallel requests in FastAPI for an ML model API](https://stackoverflow.com/questions/78242301/how-to-handle-multiple-parallel-requests-in-fastapi-for-an-ml-model-api) - 1 votes
+* [How to give index id to my uploaded json file in FastAPI](https://stackoverflow.com/questions/78251078/how-to-give-index-id-to-my-uploaded-json-file-in-fastapi) - 1 votes
+* [FastAPI39s mainapplication and subapplication endpoints not the same behavior regarding the root_path](https://stackoverflow.com/questions/78252444/fastapis-main-application-and-sub-application-endpoints-not-the-same-behavior-r) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How to use two key functions when sorting a MultiIndex dataframe](https://stackoverflow.com/questions/78243747/how-to-use-two-key-functions-when-sorting-a-multiindex-dataframe) - 5 votes
-* [Calculating based on rows conditions in pandas](https://stackoverflow.com/questions/78243115/calculating-based-on-rows-conditions-in-pandas) - 2 votes
 * [How can I change the groupby column to find the first row that meets the conditions of a mask if the initial groupby failed to find it](https://stackoverflow.com/questions/78246775/how-can-i-change-the-groupby-column-to-find-the-first-row-that-meets-the-conditi) - 2 votes
-* [How to make regex code apply only to empty target cells](https://stackoverflow.com/questions/78245576/how-to-make-regex-code-apply-only-to-empty-target-cells) - 2 votes
-* [How to extract table from webpage that requires clicktoggle](https://stackoverflow.com/questions/78249402/how-to-extract-table-from-webpage-that-requires-click-toggle) - 1 votes
+* [Export pandas to csv data but before doing so sort date by least to greatest](https://stackoverflow.com/questions/78248599/export-pandas-to-csv-data-but-before-doing-so-sort-date-by-least-to-greatest) - 2 votes
+* [Python Pandas getting hierarchy path till top management](https://stackoverflow.com/questions/78251372/python-pandas-getting-hierarchy-path-till-top-management) - 1 votes
+* [merge dataframe but do not sort by merge key](https://stackoverflow.com/questions/78251935/merge-dataframe-but-do-not-sort-by-merge-key) - 1 votes
+* [AttributeError module 39numba39 has no attribute 39generated_jit39](https://stackoverflow.com/questions/78252285/attributeerror-module-numba-has-no-attribute-generated-jit) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
