@@ -1,16 +1,15 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-04-07<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-04-08<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How do you deserialise JSON in Rust without coupling](https://stackoverflow.com/questions/78283177/how-do-you-deserialise-json-in-rust-without-coupling) - 2 votes
 * [Why is the return type of map over an iterator so complicated](https://stackoverflow.com/questions/78287362/why-is-the-return-type-of-map-over-an-iterator-so-complicated) - 1 votes
-* [How to get ride of quotirrefutable if let patternquot warning for Mutex locking in Rust](https://stackoverflow.com/questions/78282928/how-to-get-ride-of-irrefutable-if-let-pattern-warning-for-mutex-locking-in-r) - 1 votes
-* [Is there a way to add proxy to Tauri webview](https://stackoverflow.com/questions/78285683/is-there-a-way-to-add-proxy-to-tauri-webview) - 1 votes
+* [Reexporting proc macro results in quotunresolved extern cratequot error](https://stackoverflow.com/questions/78289748/re-exporting-proc-macro-results-in-unresolved-extern-crate-error) - 1 votes
+* [Proc macro for terse field setting](https://stackoverflow.com/questions/78289154/proc-macro-for-terse-field-setting) - 1 votes
 * [Async recursive scheduling in Rust](https://stackoverflow.com/questions/78289260/async-recursive-scheduling-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -18,18 +17,18 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### fastapi
 <!-- fastapi starts -->
-* [WebSocket connection to  failed in React but works with Postman WebSocket client](https://stackoverflow.com/questions/78284790/websocket-connection-to-failed-in-react-but-works-with-postman-websocket-cl) - 2 votes
+* [how to verify Django hashed passwords in FastAPI app](https://stackoverflow.com/questions/78292581/how-to-verify-django-hashed-passwords-in-fastapi-app) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas  Percentage from total in pivot table](https://stackoverflow.com/questions/78283909/pandas-percentage-from-total-in-pivot-table) - 4 votes
-* [Rolling standard deviation of all columns ignoring NaNs](https://stackoverflow.com/questions/78285601/rolling-standard-deviation-of-all-columns-ignoring-nans) - 2 votes
-* [Using group_by in pandas but with condition](https://stackoverflow.com/questions/78284936/using-group-by-in-pandas-but-with-condition) - 2 votes
+* [How to highlight the membership of a column of identifiers](https://stackoverflow.com/questions/78290736/how-to-highlight-the-membership-of-a-column-of-identifiers) - 3 votes
+* [How can I change a streaks of numbers according to the previous streak](https://stackoverflow.com/questions/78290178/how-can-i-change-a-streaks-of-numbers-according-to-the-previous-streak) - 2 votes
 * [DataFrame that is a partial view](https://stackoverflow.com/questions/78288826/dataframe-that-is-a-partial-view) - 2 votes
 * [Stacked bar chart from dataframe](https://stackoverflow.com/questions/78287484/stacked-bar-chart-from-dataframe) - 2 votes
+* [Create Dict in Python from excel data](https://stackoverflow.com/questions/78293250/create-dict-in-python-from-excel-data) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
