@@ -1,22 +1,24 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-04-08<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-04-09<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why is the return type of map over an iterator so complicated](https://stackoverflow.com/questions/78287362/why-is-the-return-type-of-map-over-an-iterator-so-complicated) - 1 votes
+* [Why does the equality operator for owned trait object move the right operand](https://stackoverflow.com/questions/78295714/why-does-the-equality-operator-for-owned-trait-object-move-the-right-operand) - 5 votes
+* [Nextjs app built with tauri does not show my 404 page](https://stackoverflow.com/questions/78299806/next-js-app-built-with-tauri-does-not-show-my-404-page) - 1 votes
+* [Assigning to a vector element from another element](https://stackoverflow.com/questions/78295774/assigning-to-a-vector-element-from-another-element) - 1 votes
 * [Reexporting proc macro results in quotunresolved extern cratequot error](https://stackoverflow.com/questions/78289748/re-exporting-proc-macro-results-in-unresolved-extern-crate-error) - 1 votes
-* [Proc macro for terse field setting](https://stackoverflow.com/questions/78289154/proc-macro-for-terse-field-setting) - 1 votes
-* [Async recursive scheduling in Rust](https://stackoverflow.com/questions/78289260/async-recursive-scheduling-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
+* [How to force all exceptions to go through a FastAPI middleware](https://stackoverflow.com/questions/78297309/how-to-force-all-exceptions-to-go-through-a-fastapi-middleware) - 1 votes
+* [How to add a middleware before the application starts up in FastAPI](https://stackoverflow.com/questions/78294978/how-to-add-a-middleware-before-the-application-starts-up-in-fastapi) - 1 votes
 * [how to verify Django hashed passwords in FastAPI app](https://stackoverflow.com/questions/78292581/how-to-verify-django-hashed-passwords-in-fastapi-app) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
@@ -25,10 +27,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### pandas
 <!-- pandas starts -->
 * [How to highlight the membership of a column of identifiers](https://stackoverflow.com/questions/78290736/how-to-highlight-the-membership-of-a-column-of-identifiers) - 3 votes
+* [How to add columns to a Pandas DataFrame containing max of each row AND corresponding column name using iloc or iloc](https://stackoverflow.com/questions/78298555/how-to-add-columns-to-a-pandas-dataframe-containing-max-of-each-row-and-corresp) - 2 votes
+* [Conditional multiplication of DataFrames with NaN](https://stackoverflow.com/questions/78295116/conditional-multiplication-of-dataframes-with-nan) - 2 votes
 * [How can I change a streaks of numbers according to the previous streak](https://stackoverflow.com/questions/78290178/how-can-i-change-a-streaks-of-numbers-according-to-the-previous-streak) - 2 votes
-* [DataFrame that is a partial view](https://stackoverflow.com/questions/78288826/dataframe-that-is-a-partial-view) - 2 votes
-* [Stacked bar chart from dataframe](https://stackoverflow.com/questions/78287484/stacked-bar-chart-from-dataframe) - 2 votes
-* [Create Dict in Python from excel data](https://stackoverflow.com/questions/78293250/create-dict-in-python-from-excel-data) - 1 votes
+* [Pandas change multiple level column name to one level](https://stackoverflow.com/questions/78295104/pandas-change-multiple-level-column-name-to-one-level) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
