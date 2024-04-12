@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-04-11<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-04-12<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,28 +8,29 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### rust
 <!-- rust starts -->
 * [What is a short and concise type for predicates](https://stackoverflow.com/questions/78311724/what-is-a-short-and-concise-type-for-predicates) - 3 votes
-* [Rust program crashes in release build](https://stackoverflow.com/questions/78301680/rust-program-crashes-in-release-build) - 2 votes
-* [Is it possible to return statically stored values as references from a function](https://stackoverflow.com/questions/78307324/is-it-possible-to-return-statically-stored-values-as-references-from-a-function) - 1 votes
-* [How to init a Struct within a Enum in unsafe codes](https://stackoverflow.com/questions/78305404/how-to-init-a-struct-within-a-enum-in-unsafe-codes) - 1 votes
+* [is there a common pattern in rust to define structs that don39t care if they own or borrow a certain value](https://stackoverflow.com/questions/78317865/is-there-a-common-pattern-in-rust-to-define-structs-that-dont-care-if-they-own) - 2 votes
 * [Why is Send trait implemented for a RwLockReadGuard and RwLockWriteGuard in Rust](https://stackoverflow.com/questions/78311670/why-is-send-trait-implemented-for-a-rwlockreadguard-and-rwlockwriteguard-in-rus) - 1 votes
+* [How do I correctly generate applications in production with Tauri v2 Rust for Android](https://stackoverflow.com/questions/78311576/how-do-i-correctly-generate-applications-in-production-with-tauri-v2-rust-for-an) - 1 votes
+* [can I write a typelevel function to find the element type of an arraylike container](https://stackoverflow.com/questions/78313808/can-i-write-a-type-level-function-to-find-the-element-type-of-an-array-like-cont) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [async  await useful when independent network calls shouldn39t block each other](https://stackoverflow.com/questions/78305989/async-await-useful-when-independent-network-calls-shouldnt-block-each-other) - 1 votes
+* [unicorn command is not working fastapi python](https://stackoverflow.com/questions/78314501/unicorn-command-is-not-working-fastapi-python) - 1 votes
+* [How to create routes with FastAPI within a class and classyfastapi  followup](https://stackoverflow.com/questions/78308291/how-to-create-routes-with-fastapi-within-a-class-and-classy-fastapi-followup) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How to get timestamp differences per group](https://stackoverflow.com/questions/78303492/how-to-get-timestamp-differences-per-group) - 3 votes
-* [Calculate car trips to a location in Python](https://stackoverflow.com/questions/78312007/calculate-car-trips-to-a-location-in-python) - 3 votes
-* [How can I remove the lowest possible amount of rows in a dataset of two columns such that each column has unique values](https://stackoverflow.com/questions/78302325/how-can-i-remove-the-lowest-possible-amount-of-rows-in-a-dataset-of-two-columns) - 2 votes
+* [How to filter dataframe column names containing 2 specified substrings](https://stackoverflow.com/questions/78314168/how-to-filter-dataframe-column-names-containing-2-specified-substrings) - 3 votes
+* [Counting number of unique values in groups](https://stackoverflow.com/questions/78316845/counting-number-of-unique-values-in-groups) - 2 votes
 * [Remove everything in string after the first occurrence of a word](https://stackoverflow.com/questions/78309010/remove-everything-in-string-after-the-first-occurrence-of-a-word) - 2 votes
 * [Average of two pandas dataframes elements by elements results concatenatedwhy](https://stackoverflow.com/questions/78309589/average-of-two-pandas-dataframes-elements-by-elements-results-concatenated-why) - 1 votes
+* [What is the best way to slice a dataframe including the the first instance of a mask](https://stackoverflow.com/questions/78314515/what-is-the-best-way-to-slice-a-dataframe-including-the-the-first-instance-of-a) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
