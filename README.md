@@ -1,24 +1,23 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-04-13<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-04-14<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [is there a common pattern in rust to define structs that don39t care if they own or borrow a certain value](https://stackoverflow.com/questions/78317865/is-there-a-common-pattern-in-rust-to-define-structs-that-dont-care-if-they-own) - 2 votes
 * [Why does function not take the ownership of OptionltTgt argument](https://stackoverflow.com/questions/78320309/why-does-function-not-take-the-ownership-of-optiont-argument) - 1 votes
+* [shared library not found but exists in nix flake](https://stackoverflow.com/questions/78324574/shared-library-not-found-but-exists-in-nix-flake) - 1 votes
 * [Creating TCPIP server with multi thread multi client bidirectional communication](https://stackoverflow.com/questions/78320259/creating-tcp-ip-server-with-multi-thread-multi-client-bidirectional-communicat) - 1 votes
-* [Getting a mutable struct reference to an element of a vector of boxes](https://stackoverflow.com/questions/78318076/getting-a-mutable-struct-reference-to-an-element-of-a-vector-of-boxes) - 1 votes
-* [can I write a typelevel function to find the element type of an arraylike container](https://stackoverflow.com/questions/78313808/can-i-write-a-type-level-function-to-find-the-element-type-of-an-array-like-cont) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [unicorn command is not working fastapi python](https://stackoverflow.com/questions/78314501/unicorn-command-is-not-working-fastapi-python) - 1 votes
+* [FastAPI TrustedHostMiddleware refuses my host](https://stackoverflow.com/questions/78323579/fastapi-trustedhostmiddleware-refuses-my-host) - 1 votes
+* [How to display error body on front end using axios](https://stackoverflow.com/questions/78324827/how-to-display-error-body-on-front-end-using-axios) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -26,10 +25,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### pandas
 <!-- pandas starts -->
 * [Pandas Get value counts for each column based off of a group by](https://stackoverflow.com/questions/78319522/pandas-get-value-counts-for-each-column-based-off-of-a-group-by) - 5 votes
-* [How to filter dataframe column names containing 2 specified substrings](https://stackoverflow.com/questions/78314168/how-to-filter-dataframe-column-names-containing-2-specified-substrings) - 3 votes
 * [min from columns from dict](https://stackoverflow.com/questions/78319421/min-from-columns-from-dict) - 2 votes
-* [Counting number of unique values in groups](https://stackoverflow.com/questions/78316845/counting-number-of-unique-values-in-groups) - 2 votes
-* [Pandas bug when trying to loc data on a quarter](https://stackoverflow.com/questions/78315553/pandas-bug-when-trying-to-loc-data-on-a-quarter) - 2 votes
+* [How can I find the first row that meets conditions of a mask for each group](https://stackoverflow.com/questions/78324285/how-can-i-find-the-first-row-that-meets-conditions-of-a-mask-for-each-group) - 2 votes
+* [How to resample a dataframe to stretch from start to enddate in intervals containing 0 for not available values](https://stackoverflow.com/questions/78319882/how-to-resample-a-dataframe-to-stretch-from-start-to-enddate-in-intervals-conta) - 2 votes
+* [Add column depending on dictionary](https://stackoverflow.com/questions/78323502/add-column-depending-on-dictionary) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
