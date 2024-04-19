@@ -1,23 +1,24 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-04-18<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-04-19<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How do I conditionally assign variables in rust](https://stackoverflow.com/questions/78339479/how-do-i-conditionally-assign-variables-in-rust) - 3 votes
 * [Capturing Rust generated panic as C exception](https://stackoverflow.com/questions/78346412/capturing-rust-generated-panic-as-c-exception) - 3 votes
-* [How to avoid repetition of fields when logging with tracing](https://stackoverflow.com/questions/78340472/how-to-avoid-repetition-of-fields-when-logging-with-tracing) - 2 votes
+* [Can I make the result of matching on a const expression be const too](https://stackoverflow.com/questions/78350715/can-i-make-the-result-of-matching-on-a-const-expression-be-const-too) - 2 votes
 * [Replacing any sequences of spaces tabs newlines etc with single spaces using nom](https://stackoverflow.com/questions/78346974/replacing-any-sequences-of-spaces-tabs-newlines-etc-with-single-spaces-using-n) - 1 votes
-* [Generic Pool type sqlx](https://stackoverflow.com/questions/78342183/generic-pool-type-sqlx) - 1 votes
+* [when I disable the default help option and add it as a custom arg it says that help is a required argument](https://stackoverflow.com/questions/78354022/when-i-disable-the-default-help-option-and-add-it-as-a-custom-arg-it-says-that) - 1 votes
+* [Is it possible to have multiple long names for the same commandline argument](https://stackoverflow.com/questions/78349797/is-it-possible-to-have-multiple-long-names-for-the-same-command-line-argument) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
+* [sqlalchemyfile package FileField is not allowing to give custom filename automatically saves the file as unnamed](https://stackoverflow.com/questions/78351590/sqlalchemy-file-package-filefield-is-not-allowing-to-give-custom-filename-autom) - 1 votes
 * [Filter overlapping time periods using sqlalchemy for mySQL](https://stackoverflow.com/questions/78349890/filter-overlapping-time-periods-using-sqlalchemy-for-mysql) - 1 votes
 * [Getting 422 Unprocessable Entity while sending a GET request with list of data to FastAPI backend](https://stackoverflow.com/questions/78345833/getting-422-unprocessable-entity-while-sending-a-get-request-with-list-of-data-t) - 1 votes
 <!-- fastapi ends -->
@@ -26,10 +27,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### pandas
 <!-- pandas starts -->
-* [Why does groupby with dropnaFalse prevent a subsequent MultiIndexdropna to work](https://stackoverflow.com/questions/78340572/why-does-groupby-with-dropna-false-prevent-a-subsequent-multiindex-dropna-to-w) - 4 votes
 * [Pandas Groupby columns and propagate the false value from the bottommost node to the upmost](https://stackoverflow.com/questions/78347667/pandas-groupby-columns-and-propagate-the-false-value-from-the-bottommost-node-t) - 2 votes
-* [Append empty columns from a list to an existing dataframe](https://stackoverflow.com/questions/78342616/append-empty-columns-from-a-list-to-an-existing-dataframe) - 2 votes
+* [Calculating an ongoing win streak in a dataframe](https://stackoverflow.com/questions/78351676/calculating-an-ongoing-win-streak-in-a-dataframe) - 2 votes
 * [How do you turn pairs from a dataframe column into two new columns](https://stackoverflow.com/questions/78349687/how-do-you-turn-pairs-from-a-dataframe-column-into-two-new-columns) - 2 votes
+* [incompatible dtype in dataframe](https://stackoverflow.com/questions/78351871/incompatible-dtype-in-dataframe) - 2 votes
 * [Split and match names in a df with another df and return the matching firms](https://stackoverflow.com/questions/78346026/split-and-match-names-in-a-df-with-another-df-and-return-the-matching-firms) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
