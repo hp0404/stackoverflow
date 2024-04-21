@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-04-20<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-04-21<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,17 +8,18 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### rust
 <!-- rust starts -->
 * [CC crate example won39t link with the C functions](https://stackoverflow.com/questions/78358627/cc-crate-example-wont-link-with-the-c-functions) - 2 votes
-* [Rust polars CSV Is there a way of reading CSV from an impl BufRead or any iterator over bytes](https://stackoverflow.com/questions/78355222/rust-polars-csv-is-there-a-way-of-reading-csv-from-an-impl-bufread-or-any-i) - 2 votes
 * [How can I close a Tokio mpsc channel on the sender side with multiple senders](https://stackoverflow.com/questions/78359643/how-can-i-close-a-tokio-mpsc-channel-on-the-sender-side-with-multiple-senders) - 2 votes
 * [How to fill a buffer in an struct and display it at the same time](https://stackoverflow.com/questions/78359209/how-to-fill-a-buffer-in-an-struct-and-display-it-at-the-same-time) - 1 votes
-* [when I disable the default help option and add it as a custom arg it says that help is a required argument](https://stackoverflow.com/questions/78354022/when-i-disable-the-default-help-option-and-add-it-as-a-custom-arg-it-says-that) - 1 votes
+* [Calculating the distance of a sequence with adjacent transpositions and no insertion or deletion](https://stackoverflow.com/questions/78361098/calculating-the-distance-of-a-sequence-with-adjacent-transpositions-and-no-inse) - 1 votes
+* [PKG_CONFIG missing Rust with EXIF](https://stackoverflow.com/questions/78360582/pkg-config-missing-rust-with-exif) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [sqlalchemyfile package FileField is not allowing to give custom filename automatically saves the file as unnamed](https://stackoverflow.com/questions/78351590/sqlalchemy-file-package-filefield-is-not-allowing-to-give-custom-filename-autom) - 1 votes
+* [FastAPI fails spinning up worker](https://stackoverflow.com/questions/78359764/fastapi-fails-spinning-up-worker) - 1 votes
+* [many to many relationship sqlalchemy in fastapi](https://stackoverflow.com/questions/78357861/many-to-many-relationship-sqlalchemy-in-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -27,9 +28,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 <!-- pandas starts -->
 * [How to remove ltindexing past lexsort depth may impact performancequotgt](https://stackoverflow.com/questions/78358268/how-to-remove-indexing-past-lexsort-depth-may-impact-performance) - 3 votes
 * [Calculating min value with condition](https://stackoverflow.com/questions/78359009/calculating-min-value-with-condition) - 3 votes
-* [How to highly optimize correlation calculations using pandas DataFrames and scipy](https://stackoverflow.com/questions/78356546/how-to-highly-optimize-correlation-calculations-using-pandas-dataframes-and-s) - 2 votes
-* [Calculating an ongoing win streak in a dataframe](https://stackoverflow.com/questions/78351676/calculating-an-ongoing-win-streak-in-a-dataframe) - 2 votes
+* [Rolling Sum with periods given from Pandas Column](https://stackoverflow.com/questions/78360123/rolling-sum-with-periods-given-from-pandas-column) - 2 votes
 * [How to Compare Hierarchy in 2 Pandas DataFrames](https://stackoverflow.com/questions/78358646/how-to-compare-hierarchy-in-2-pandas-dataframes) - 2 votes
+* [return data by column label depending on value from another column](https://stackoverflow.com/questions/78360458/return-data-by-column-label-depending-on-value-from-another-column) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
