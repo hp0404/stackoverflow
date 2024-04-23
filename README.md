@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-04-22<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-04-23<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,10 +8,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### rust
 <!-- rust starts -->
 * [Why would you negate a boolean a  b instead of using not equals  in Rust](https://stackoverflow.com/questions/78363802/why-would-you-negate-a-boolean-a-b-instead-of-using-not-equals-in-r) - 3 votes
+* [Why is my installed command not showing in 39cargo list39](https://stackoverflow.com/questions/78374309/why-is-my-installed-command-not-showing-in-cargo-list) - 2 votes
 * [TypeId of fn is different even when arguments and results have the same types](https://stackoverflow.com/questions/78363990/typeid-of-fn-is-different-even-when-arguments-and-results-have-the-same-type) - 1 votes
+* [Trying to render a checkerboard with Bevy](https://stackoverflow.com/questions/78369979/trying-to-render-a-checkerboard-with-bevy) - 1 votes
 * [wgpu get_mapped_range returns all 0s](https://stackoverflow.com/questions/78363626/wgpu-get-mapped-range-returns-all-0s) - 1 votes
-* [How to get the address of a global in Cranelift](https://stackoverflow.com/questions/78363693/how-to-get-the-address-of-a-global-in-cranelift) - 1 votes
-* [Calculating the distance of a sequence with adjacent transpositions and no insertion or deletion](https://stackoverflow.com/questions/78361098/calculating-the-distance-of-a-sequence-with-adjacent-transpositions-and-no-inse) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -27,11 +27,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### pandas
 <!-- pandas starts -->
-* [Rolling Sum with periods given from Pandas Column](https://stackoverflow.com/questions/78360123/rolling-sum-with-periods-given-from-pandas-column) - 2 votes
+* [Polars compare two dataframes  is there a way to fail immediately on first mismatch](https://stackoverflow.com/questions/78369755/polars-compare-two-dataframes-is-there-a-way-to-fail-immediately-on-first-mism) - 2 votes
+* [How to make horizontal data vertical](https://stackoverflow.com/questions/78373448/how-to-make-horizontal-data-vertical) - 2 votes
 * [Forward filling based on a specific condition](https://stackoverflow.com/questions/78368454/forward-filling-based-on-a-specific-condition) - 2 votes
 * [Move specific column information to a new row under the current row](https://stackoverflow.com/questions/78364978/move-specific-column-information-to-a-new-row-under-the-current-row) - 2 votes
-* [Python Multiprocessing when I launch many processes on a huge pandas data frame the program gets stuck](https://stackoverflow.com/questions/78363215/python-multiprocessing-when-i-launch-many-processes-on-a-huge-pandas-data-frame) - 2 votes
-* [return data by column label depending on value from another column](https://stackoverflow.com/questions/78360458/return-data-by-column-label-depending-on-value-from-another-column) - 2 votes
+* [Move data in dataframe based on a value of a different column](https://stackoverflow.com/questions/78368186/move-data-in-dataframe-based-on-a-value-of-a-different-column) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
