@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-04-24<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-04-25<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to modify rust types passed to python which were initially created in python from Pyo3](https://stackoverflow.com/questions/78374985/how-to-modify-rust-types-passed-to-python-which-were-initially-created-in-python) - 3 votes
-* [Why is my installed command not showing in 39cargo list39](https://stackoverflow.com/questions/78374309/why-is-my-installed-command-not-showing-in-cargo-list) - 2 votes
-* [How to convert a u8 to a char in Rust](https://stackoverflow.com/questions/78369571/how-to-convert-a-u8-to-a-char-in-rust) - 1 votes
+* [Does the use of stdsyncMutex across await point ALWAYS cause deadlock](https://stackoverflow.com/questions/78385295/does-the-use-of-stdsyncmutex-across-await-point-always-cause-deadlock) - 2 votes
 * [Why a variable in a parent scope is quotout of scopequot of a child one](https://stackoverflow.com/questions/78379631/why-a-variable-in-a-parent-scope-is-out-of-scope-of-a-child-one) - 1 votes
-* [Trying to render a checkerboard with Bevy](https://stackoverflow.com/questions/78369979/trying-to-render-a-checkerboard-with-bevy) - 1 votes
+* [explicit lifetime for self in trait seems to cause quotE0499 cannot borrow emitter as mutable more than once at a timequot in a loop](https://stackoverflow.com/questions/78379390/explicit-lifetime-for-self-in-trait-seems-to-cause-e0499-cannot-borrow-emitte) - 1 votes
+* [Struggling with Rust generics](https://stackoverflow.com/questions/78385924/struggling-with-rust-generics) - 1 votes
+* [Type deduction for function pointers](https://stackoverflow.com/questions/78379541/type-deduction-for-function-pointers) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -26,10 +26,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### pandas
 <!-- pandas starts -->
 * [Generating combinations in pandas dataframe](https://stackoverflow.com/questions/78377078/generating-combinations-in-pandas-dataframe) - 5 votes
-* [Create additional rows based on Column value](https://stackoverflow.com/questions/78377152/create-additional-rows-based-on-column-value) - 2 votes
-* [Polars compare two dataframes  is there a way to fail immediately on first mismatch](https://stackoverflow.com/questions/78369755/polars-compare-two-dataframes-is-there-a-way-to-fail-immediately-on-first-mism) - 2 votes
+* [Create additional rows based on Column value](https://stackoverflow.com/questions/78377152/create-additional-rows-based-on-column-value) - 3 votes
 * [Merge same column name data and make it as single for a single dataframe](https://stackoverflow.com/questions/78377745/merge-same-column-name-data-and-make-it-as-single-for-a-single-dataframe) - 2 votes
-* [How to make horizontal data vertical](https://stackoverflow.com/questions/78373448/how-to-make-horizontal-data-vertical) - 2 votes
+* [Groupbymean if condition is true](https://stackoverflow.com/questions/78377954/groupby-mean-if-condition-is-true) - 2 votes
+* [How to add a column on a Pandas DataFrame that is based on the continent a country is](https://stackoverflow.com/questions/78382398/how-to-add-a-column-on-a-pandas-dataframe-that-is-based-on-the-continent-a-count) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
