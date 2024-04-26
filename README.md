@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-04-25<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-04-26<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,28 +8,28 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### rust
 <!-- rust starts -->
 * [Does the use of stdsyncMutex across await point ALWAYS cause deadlock](https://stackoverflow.com/questions/78385295/does-the-use-of-stdsyncmutex-across-await-point-always-cause-deadlock) - 2 votes
-* [Why a variable in a parent scope is quotout of scopequot of a child one](https://stackoverflow.com/questions/78379631/why-a-variable-in-a-parent-scope-is-out-of-scope-of-a-child-one) - 1 votes
-* [explicit lifetime for self in trait seems to cause quotE0499 cannot borrow emitter as mutable more than once at a timequot in a loop](https://stackoverflow.com/questions/78379390/explicit-lifetime-for-self-in-trait-seems-to-cause-e0499-cannot-borrow-emitte) - 1 votes
+* [Porting C Code with Mutable Borrows  Error During Runtime nappgui Example](https://stackoverflow.com/questions/78384450/porting-c-code-with-mutable-borrows-error-during-runtime-nappgui-example) - 2 votes
+* [How do I initialize two variables in match statement without angering borrow checker](https://stackoverflow.com/questions/78389061/how-do-i-initialize-two-variables-in-match-statement-without-angering-borrow-che) - 1 votes
 * [Struggling with Rust generics](https://stackoverflow.com/questions/78385924/struggling-with-rust-generics) - 1 votes
-* [Type deduction for function pointers](https://stackoverflow.com/questions/78379541/type-deduction-for-function-pointers) - 1 votes
+* [Cargo build on workspace rebuilds some crates when run](https://stackoverflow.com/questions/78392507/cargo-build-on-workspace-rebuilds-some-crates-when-run) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI Docker Container is not restarting when FastAPI is terminated](https://stackoverflow.com/questions/78377979/fastapi-docker-container-is-not-restarting-when-fastapi-is-terminated) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Generating combinations in pandas dataframe](https://stackoverflow.com/questions/78377078/generating-combinations-in-pandas-dataframe) - 5 votes
-* [Create additional rows based on Column value](https://stackoverflow.com/questions/78377152/create-additional-rows-based-on-column-value) - 3 votes
-* [Merge same column name data and make it as single for a single dataframe](https://stackoverflow.com/questions/78377745/merge-same-column-name-data-and-make-it-as-single-for-a-single-dataframe) - 2 votes
-* [Groupbymean if condition is true](https://stackoverflow.com/questions/78377954/groupby-mean-if-condition-is-true) - 2 votes
+* [diagonal average calcuation for my df in pandas](https://stackoverflow.com/questions/78390891/diagonal-average-calcuation-for-my-df-in-pandas) - 2 votes
+* [Polars read_parquet method converts the original date value to a different value if the date is invalid](https://stackoverflow.com/questions/78387926/polars-read-parquet-method-converts-the-original-date-value-to-a-different-value) - 1 votes
 * [How to add a column on a Pandas DataFrame that is based on the continent a country is](https://stackoverflow.com/questions/78382398/how-to-add-a-column-on-a-pandas-dataframe-that-is-based-on-the-continent-a-count) - 1 votes
+* [Pandas merge complaining about non unique labels when key is a composite and unique](https://stackoverflow.com/questions/78387122/pandas-merge-complaining-about-non-unique-labels-when-key-is-a-composite-and-uni) - 1 votes
+* [Create Boxplot from median std 25 and 75 values](https://stackoverflow.com/questions/78385134/create-boxplot-from-median-std-25-and-75-values) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
