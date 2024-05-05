@@ -1,36 +1,32 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-05-04<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-05-05<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [polars how to optimize sink_parquet](https://stackoverflow.com/questions/78425804/polars-how-to-optimize-sink-parquet) - 2 votes
-* [Possible contradiction between happensbefore relationship and outoforder execution in a single thread](https://stackoverflow.com/questions/78424338/possible-contradiction-between-happens-before-relationship-and-out-of-order-exec) - 1 votes
 * [WebDriverWait with thirtyfour Rust Selenium](https://stackoverflow.com/questions/78428763/webdriverwait-with-thirtyfour-rust-selenium) - 1 votes
-* [Multiplication of Complexltfloatgt with arbitrary number types](https://stackoverflow.com/questions/78424880/multiplication-of-complexfloat-with-arbitrary-number-types) - 1 votes
+* [How to modify add color to quotErrorquot prefix when returning an error](https://stackoverflow.com/questions/78433357/how-to-modify-add-color-to-error-prefix-when-returning-an-error) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Mounting multiple Gradio apps with FastAPI](https://stackoverflow.com/questions/78426675/mounting-multiple-gradio-apps-with-fastapi) - 1 votes
-* [FastAPI StreamingResponse start download while waiting for data](https://stackoverflow.com/questions/78423618/fastapi-streamingresponse-start-download-while-waiting-for-data) - 1 votes
-* [How do I keep a correct API spec when using a ModelSerializer](https://stackoverflow.com/questions/78423078/how-do-i-keep-a-correct-api-spec-when-using-a-modelserializer) - 1 votes
+* [Model Relationship for different User Roles What am I missing](https://stackoverflow.com/questions/78432660/model-relationship-for-different-user-roles-what-am-i-missing) - 2 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Best way to avoid a loop](https://stackoverflow.com/questions/78426073/best-way-to-avoid-a-loop) - 2 votes
-* [lambda comparing a timestamp to all timestamps from another column within a group](https://stackoverflow.com/questions/78423647/lambda-comparing-a-timestamp-to-all-timestamps-from-another-column-within-a-grou) - 2 votes
-* [Pandas setting frequency in a time series dataframe](https://stackoverflow.com/questions/78424819/pandas-setting-frequency-in-a-time-series-dataframe) - 2 votes
+* [Pandas plot load profiles](https://stackoverflow.com/questions/78431419/pandas-plot-load-profiles) - 2 votes
+* [How to reverse axes when plotting a Series](https://stackoverflow.com/questions/78432208/how-to-reverse-axes-when-plotting-a-series) - 1 votes
 * [filtering a pivoted dataframe](https://stackoverflow.com/questions/78428827/filtering-a-pivoted-dataframe) - 1 votes
-* [Split the data into separate columns and later merge them as one column](https://stackoverflow.com/questions/78426659/split-the-data-into-separate-columns-and-later-merge-them-as-one-column) - 1 votes
+* [Fixing Header rows while writing a pivot dataframe to excel](https://stackoverflow.com/questions/78429087/fixing-header-rows-while-writing-a-pivot-dataframe-to-excel) - 1 votes
+* [Pandas IndexError occurred](https://stackoverflow.com/questions/78433143/pandas-indexerror-occurred) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
