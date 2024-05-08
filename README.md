@@ -1,34 +1,32 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-05-07<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-05-08<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [What is the difference between ampmut transaction and ampmut transaction in SQLx](https://stackoverflow.com/questions/78434614/what-is-the-difference-between-mut-transaction-and-mut-transaction-in-sql) - 4 votes
+* [How to get efficient floating point maximum in Rust](https://stackoverflow.com/questions/78450253/how-to-get-efficient-floating-point-maximum-in-rust) - 3 votes
 * [Rust why does operator applied to a reference coerce but let with an explicit type does not](https://stackoverflow.com/questions/78443315/rust-why-does-operator-applied-to-a-reference-coerce-but-let-with-an-explicit-t) - 2 votes
-* [Lifetime of temporary objects in if let statements](https://stackoverflow.com/questions/78437192/lifetime-of-temporary-objects-in-if-let-statements) - 2 votes
-* [Docopt only accepting extended format for option in Rust](https://stackoverflow.com/questions/78438183/docopt-only-accepting-extended-format-for-option-in-rust) - 2 votes
-* [Sending an audio recording from js to an actixweb server to save to disk](https://stackoverflow.com/questions/78438857/sending-an-audio-recording-from-js-to-an-actix-web-server-to-save-to-disk) - 1 votes
+* [Unsupportedquotcannot serialize enum newtype variant ExampleDataquot](https://stackoverflow.com/questions/78444158/unsupportedcannot-serialize-enum-newtype-variant-exampledata) - 1 votes
+* [How do I reject requests based on IP in hyper service with a tower middleware for a warp server](https://stackoverflow.com/questions/78447218/how-do-i-reject-requests-based-on-ip-in-hyper-service-with-a-tower-middleware-fo) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI with SAM model Only a few workers load properly due to CUDA memory error](https://stackoverflow.com/questions/78436711/fastapi-with-sam-model-only-a-few-workers-load-properly-due-to-cuda-memory-erro) - 2 votes
-* [Does it make sense to specify the user id in the path if I already get it through the JWT token](https://stackoverflow.com/questions/78434536/does-it-make-sense-to-specify-the-user-id-in-the-path-if-i-already-get-it-throu) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Why does filtering based on a condition results in an empty DataFrame in pandas](https://stackoverflow.com/questions/78434699/why-does-filtering-based-on-a-condition-results-in-an-empty-dataframe-in-pandas) - 2 votes
-* [Confusing conversion of types in pandas DataFrame](https://stackoverflow.com/questions/78435157/confusing-conversion-of-types-in-pandas-dataframe) - 2 votes
-* [How to calculate statistics on partially aggregated data](https://stackoverflow.com/questions/78439181/how-to-calculate-statistics-on-partially-aggregated-data) - 2 votes
+* [Create multiple columns from a single column and group by pandas](https://stackoverflow.com/questions/78447053/create-multiple-columns-from-a-single-column-and-group-by-pandas) - 5 votes
+* [How can I increase each group by N percent than the previous group](https://stackoverflow.com/questions/78449726/how-can-i-increase-each-group-by-n-percent-than-the-previous-group) - 2 votes
+* [Python Having trouble Copying Numbering Format and Saving it to Excel](https://stackoverflow.com/questions/78445819/python-having-trouble-copying-numbering-format-and-saving-it-to-excel) - 2 votes
 * [How to update DF incrementally in Python](https://stackoverflow.com/questions/78442027/how-to-update-df-incrementally-in-python) - 1 votes
 * [convert special time string to datetime format](https://stackoverflow.com/questions/78439794/convert-special-time-string-to-datetime-format) - 1 votes
 <!-- pandas ends -->
