@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-05-10<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-05-11<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,9 +8,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### rust
 <!-- rust starts -->
 * [Why is importing Borrow making calling to borrow to be Borrowborrow instead of RefCellborrow](https://stackoverflow.com/questions/78460674/why-is-importing-borrow-making-calling-to-borrow-to-be-borrowborrow-instead-of) - 2 votes
-* [expected struct VecDequeltStudentgt found struct VecDequeltStudentgt Student](https://stackoverflow.com/questions/78457330/expected-struct-vecdequestudent-found-struct-vecdequestudent-student) - 1 votes
-* [rust display a window using the windows crate](https://stackoverflow.com/questions/78454155/rust-display-a-window-using-the-windows-crate) - 1 votes
-* [Attribute macro modify the derived implementation for a derive macro](https://stackoverflow.com/questions/78455257/attribute-macro-modify-the-derived-implementation-for-a-derive-macro) - 1 votes
+* [Implement Debug for dyn Fn member](https://stackoverflow.com/questions/78463535/implement-debug-for-dyn-fn-member) - 1 votes
 * [Why do these FromltAgt and FromltBgt implmentations cause a duplicate implementation error](https://stackoverflow.com/questions/78461744/why-do-these-froma-and-fromb-implmentations-cause-a-duplicate-implementation) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -18,18 +16,19 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [FastAPI Routing submodule functions using APIRouter](https://stackoverflow.com/questions/78462178/fastapi-routing-submodule-functions-using-apirouter) - 1 votes
+* [Save large datasets as JSON or table in postgres](https://stackoverflow.com/questions/78462534/save-large-datasets-as-json-or-table-in-postgres) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [how to add a new column with different length into a existing dataframe](https://stackoverflow.com/questions/78457216/how-to-add-a-new-column-with-different-length-into-a-existing-dataframe) - 4 votes
+* [Python MultiIndex Dataframe to jsonlike list of dictionaries](https://stackoverflow.com/questions/78463386/python-multiindex-dataframe-to-json-like-list-of-dictionaries) - 4 votes
+* [What is the best way to merge two dataframes that one of them has overlapping ranges](https://stackoverflow.com/questions/78464072/what-is-the-best-way-to-merge-two-dataframes-that-one-of-them-has-overlapping-ra) - 3 votes
+* [dataframe count multiple occurrences across all columns and output dataframe with same columns single occcurrances as indexes](https://stackoverflow.com/questions/78462882/dataframe-count-multiple-occurrences-across-all-columns-and-output-dataframe-wi) - 3 votes
 * [Keep columns that contains text in pandas dataframe](https://stackoverflow.com/questions/78459217/keep-columns-that-contains-text-in-pandas-dataframe) - 3 votes
 * [Pandas every nth row from each group](https://stackoverflow.com/questions/78459786/pandas-every-nth-row-from-each-group) - 2 votes
-* [Write Dictionary to Excel](https://stackoverflow.com/questions/78459504/write-dictionary-to-excel) - 2 votes
-* [Pandas read_json Future Warning The behavior of 39to_datetime39 with 39unit39 when parsing strings is deprecated](https://stackoverflow.com/questions/78454457/pandas-read-json-future-warning-the-behavior-of-to-datetime-with-unit-when) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
