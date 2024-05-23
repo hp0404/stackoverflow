@@ -1,37 +1,37 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-05-22<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-05-23<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why does the Rust compiler 39move39 memory](https://stackoverflow.com/questions/78514160/why-does-the-rust-compiler-move-memory) - 2 votes
-* [Rust zerocost handling of C twodimensional array without pointer arithmetic](https://stackoverflow.com/questions/78512867/rust-zero-cost-handling-of-c-two-dimensional-array-without-pointer-arithmetic) - 2 votes
-* [Understanding the unsoundness of Rust type compile time eq  neq](https://stackoverflow.com/questions/78516588/understanding-the-unsoundness-of-rust-type-compile-time-eq-neq) - 2 votes
-* [Any ways to run the Ok branch if the result gives Err when matching](https://stackoverflow.com/questions/78509183/any-ways-to-run-the-ok-branch-if-the-result-gives-err-when-matching) - 1 votes
-* [How to launch the Slint Rust application in maximized mode](https://stackoverflow.com/questions/78512718/how-to-launch-the-slint-rust-application-in-maximized-mode) - 1 votes
+* [Understanding the unsoundness of Rust type compile time eq  neq](https://stackoverflow.com/questions/78516588/understanding-the-unsoundness-of-rust-type-compile-time-eq-neq) - 3 votes
+* [How to use Rust OnceLock get_mut method](https://stackoverflow.com/questions/78522133/how-to-use-rust-oncelock-get-mut-method) - 1 votes
+* [Lifetime error in implementation of mutable Iterator for custom linked list](https://stackoverflow.com/questions/78523775/lifetime-error-in-implementation-of-mutable-iterator-for-custom-linked-list) - 1 votes
+* [How can I convert a number stored as string to binary](https://stackoverflow.com/questions/78518519/how-can-i-convert-a-number-stored-as-string-to-binary) - 1 votes
+* [Rust PyO3asyncio awaiting Python coroutine in spawned tokiotask](https://stackoverflow.com/questions/78516382/rust-pyo3-asyncio-awaiting-python-coroutine-in-spawned-tokiotask) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Validate Additional Info Using Pydantic Model](https://stackoverflow.com/questions/78513762/validate-additional-info-using-pydantic-model) - 3 votes
+* [Pydantic custom type for MongoDB160Binary field](https://stackoverflow.com/questions/78518776/pydantic-custom-type-for-mongodb-binary-field) - 1 votes
 * [fastapi Path examples are generated in the wrong openapi location](https://stackoverflow.com/questions/78518212/fastapi-path-examples-are-generated-in-the-wrong-openapi-location) - 1 votes
-* [Install fastapi using an older version of pip 903](https://stackoverflow.com/questions/78511620/install-fastapi-using-an-older-version-of-pip-9-0-3) - 1 votes
+* [httpx vs requests vs aiohttp](https://stackoverflow.com/questions/78516655/httpx-vs-requests-vs-aiohttp) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Aggregation on sub DataFrames defined by sets of indices without loop](https://stackoverflow.com/questions/78513078/aggregation-on-sub-dataframes-defined-by-sets-of-indices-without-loop) - 4 votes
 * [Dataframe Replace NaN whith random in range](https://stackoverflow.com/questions/78519106/dataframe-replace-nan-whith-random-in-range) - 2 votes
+* [How to distribute pandas dataframe rows evenly across timestamps based on value of the column](https://stackoverflow.com/questions/78522329/how-to-distribute-pandas-dataframe-rows-evenly-across-timestamps-based-on-value) - 2 votes
+* [Lookup by datetime in timestamp index does not work](https://stackoverflow.com/questions/78519636/lookup-by-datetime-in-timestamp-index-does-not-work) - 2 votes
 * [When using Pandas json_normalize function in the JSON i passed for some of the sections quotrecord_pathquot not exists](https://stackoverflow.com/questions/78515851/when-using-pandas-json-normalize-function-in-the-json-i-passed-for-some-of-the) - 2 votes
-* [Python mongodb to geopandas](https://stackoverflow.com/questions/78514209/python-mongodb-to-geopandas) - 2 votes
-* [How can I compare a value in one column to all values that are BEFORE it in another column](https://stackoverflow.com/questions/78515729/how-can-i-compare-a-value-in-one-column-to-all-values-that-are-before-it-in-anot) - 1 votes
+* [Changing values in a dataframe under growth change with year condition](https://stackoverflow.com/questions/78515406/changing-values-in-a-dataframe-under-growth-change-with-year-condition) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
