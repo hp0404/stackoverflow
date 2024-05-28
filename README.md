@@ -1,20 +1,23 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-05-27<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-05-28<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-
+* [Assigning RefCell method parameter to a local variable produces compile error](https://stackoverflow.com/questions/78541557/assigning-refcell-method-parameter-to-a-local-variable-produces-compile-error) - 5 votes
+* [What optimizations does the Rust compiler actually make for optlevel gt 0](https://stackoverflow.com/questions/78541490/what-optimizations-does-the-rust-compiler-actually-make-for-opt-level-0) - 2 votes
+* [How should I write a route in Axum which handles webhook POST events with generic payload data](https://stackoverflow.com/questions/78544881/how-should-i-write-a-route-in-axum-which-handles-webhook-post-events-with-generi) - 1 votes
+* [launching new containers from a container](https://stackoverflow.com/questions/78542832/launching-new-containers-from-a-container) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to visualize a PostgreSQL database with the connection URL](https://stackoverflow.com/questions/78540037/how-to-visualize-a-postgresql-database-with-the-connection-url) - 1 votes
+* [Description for APIRouter in FastAPI](https://stackoverflow.com/questions/78543852/description-for-apirouter-in-fastapi) - 2 votes
 * [Uploading file to OpenAPI via openapits](https://stackoverflow.com/questions/78537087/uploading-file-to-openapi-via-openapi-ts) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
@@ -23,10 +26,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### pandas
 <!-- pandas starts -->
 * [Multiply two different Dataframes  Python](https://stackoverflow.com/questions/78540389/multiply-two-different-dataframes-python) - 3 votes
+* [How to plot rows containing na39s in stacked bar chart python](https://stackoverflow.com/questions/78537616/how-to-plot-rows-containing-nas-in-stacked-bar-chart-python) - 2 votes
 * [Normalizing Nested hierarchical Json in pyhton](https://stackoverflow.com/questions/78538130/normalizing-nested-hierarchical-json-in-pyhton) - 2 votes
-* [change pandas index value base on column condition](https://stackoverflow.com/questions/78536693/change-pandas-index-value-base-on-column-condition) - 1 votes
-* [Pandas Issue 39DataFrame39 object has no attribute 39get_group39](https://stackoverflow.com/questions/78535654/pandas-issue-dataframe-object-has-no-attribute-get-group) - 1 votes
-* [Checking values row per row to assign proper work center to product](https://stackoverflow.com/questions/78539917/checking-values-row-per-row-to-assign-proper-work-center-to-product) - 1 votes
+* [Deprecation Warning with groupbyapply  problem using with lambda and group](https://stackoverflow.com/questions/78542997/deprecation-warning-with-groupby-apply-problem-using-with-lambda-and-group) - 1 votes
+* [Lambda layer Pandas numpy causing dependency error](https://stackoverflow.com/questions/78545208/lambda-layer-pandas-numpy-causing-dependency-error) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
