@@ -1,15 +1,16 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-05-30<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-05-31<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Deserialize json array into existing Vec](https://stackoverflow.com/questions/78552123/deserialize-json-array-into-existing-vec) - 2 votes
-* [How to implement ReaderWriter pattern in Rust](https://stackoverflow.com/questions/78551504/how-to-implement-reader-writer-pattern-in-rust) - 1 votes
-* [rust tokiosyncmpscchannel is_empty returning false when len returns 0](https://stackoverflow.com/questions/78552088/rust-tokiosyncmpscchannel-is-empty-returning-false-when-len-returns-0) - 1 votes
+* [Why isn39t the  39static on my gt impl Futureltgt  39static trait method respected](https://stackoverflow.com/questions/78560915/why-isnt-the-static-on-my-impl-future-static-trait-method-res) - 2 votes
+* [Error Use of moved value while it cannot be used](https://stackoverflow.com/questions/78558233/error-use-of-moved-value-while-it-cannot-be-used) - 1 votes
+* [How to convert an usize value to corresponding ascii bytes](https://stackoverflow.com/questions/78558634/how-to-convert-an-usize-value-to-corresponding-ascii-bytes) - 1 votes
+* [How you can link a Rust library with CC and wasmbindgen for the wasm32unknownunknown target](https://stackoverflow.com/questions/78556000/how-you-can-link-a-rust-library-with-c-c-and-wasm-bindgen-for-the-wasm32-unkno) - 1 votes
 * [How to pass the value of a property to a click handler callback](https://stackoverflow.com/questions/78555556/how-to-pass-the-value-of-a-property-to-a-click-handler-callback) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -24,11 +25,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### pandas
 <!-- pandas starts -->
+* [Hide pandas column headings in a terminal window to save space and reduce cognitive noise](https://stackoverflow.com/questions/78556399/hide-pandas-column-headings-in-a-terminal-window-to-save-space-and-reduce-cognit) - 3 votes
 * [Find all columns with quotdateformatquot in dataframe](https://stackoverflow.com/questions/78555894/find-all-columns-with-dateformat-in-dataframe) - 2 votes
-* [Hide pandas column headings in a terminal window to save space and reduce cognitive noise](https://stackoverflow.com/questions/78556399/hide-pandas-column-headings-in-a-terminal-window-to-save-space-and-reduce-cognit) - 2 votes
-* [Group by specific column value  Pandas](https://stackoverflow.com/questions/78554836/group-by-specific-column-value-pandas) - 2 votes
-* [pandas Access columnlike results from quotgroupbyquot and quotaggquot](https://stackoverflow.com/questions/78551846/pandas-access-column-like-results-from-groupby-and-agg) - 2 votes
-* [pandas cannot set a value for MultiIndex](https://stackoverflow.com/questions/78551302/pandas-cannot-set-a-value-for-multiindex) - 2 votes
+* [Fillna with values from other rows with matching keys](https://stackoverflow.com/questions/78555411/fillna-with-values-from-other-rows-with-matching-keys) - 2 votes
+* [Pandas Map Multiple Columns Based on Specific Conditions](https://stackoverflow.com/questions/78557248/pandas-map-multiple-columns-based-on-specific-conditions) - 2 votes
+* [Filter a pandas DataFrame based on multiple columns with a corresponding list of values](https://stackoverflow.com/questions/78555334/filter-a-pandas-dataframe-based-on-multiple-columns-with-a-corresponding-list-of) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
