@@ -1,16 +1,14 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-06-01<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-06-02<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to redirect to different route and method POST gt GET in ActixWeb](https://stackoverflow.com/questions/78562203/how-to-redirect-to-different-route-and-method-post-get-in-actix-web) - 2 votes
-* [Why isn39t the  39static on my gt impl Futureltgt  39static trait method respected](https://stackoverflow.com/questions/78560915/why-isnt-the-static-on-my-impl-future-static-trait-method-res) - 2 votes
-* [Error Use of moved value while it cannot be used](https://stackoverflow.com/questions/78558233/error-use-of-moved-value-while-it-cannot-be-used) - 1 votes
-* [How to convert an usize value to corresponding ascii bytes](https://stackoverflow.com/questions/78558634/how-to-convert-an-usize-value-to-corresponding-ascii-bytes) - 1 votes
+* [What does 02 in Rust39s println39s formatting syntax do](https://stackoverflow.com/questions/78566874/what-does-02-in-rusts-printlns-formatting-syntax-do) - 1 votes
+* [How check Unique Diesel Rust](https://stackoverflow.com/questions/78566650/how-check-unique-diesel-rust) - 1 votes
 * [Rust Ownership and Borrowing](https://stackoverflow.com/questions/78564801/rust-ownership-and-borrowing) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -25,11 +23,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### pandas
 <!-- pandas starts -->
+* [Pandas adding last row of previous group](https://stackoverflow.com/questions/78564945/pandas-adding-last-row-of-previous-group) - 3 votes
 * [I want to divide different index](https://stackoverflow.com/questions/78562705/i-want-to-divide-different-index) - 2 votes
-* [Pandas takes all columns of a dataframe even when some columns are specified](https://stackoverflow.com/questions/78559070/pandas-takes-all-columns-of-a-dataframe-even-when-some-columns-are-specified) - 2 votes
-* [append row to list if value is True](https://stackoverflow.com/questions/78557765/append-row-to-list-if-value-is-true) - 1 votes
+* [Pandas groupby transform minimum greater than 0](https://stackoverflow.com/questions/78565768/pandas-groupby-transform-minimum-greater-than-0) - 1 votes
 * [Alternative to dfrenamecolumnsstrreplacequot quot quot_quot](https://stackoverflow.com/questions/78564771/alternative-to-df-renamecolumns-str-replace) - 1 votes
-* [Compare if a value from one dataframe is in the list of values of another](https://stackoverflow.com/questions/78560166/compare-if-a-value-from-one-dataframe-is-in-the-list-of-values-of-another) - 1 votes
+* [How to apply different kinds of error regions to some subplots of a facet grid](https://stackoverflow.com/questions/78566318/how-to-apply-different-kinds-of-error-regions-to-some-subplots-of-a-facet-grid) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
