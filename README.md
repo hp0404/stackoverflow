@@ -1,16 +1,16 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-06-04<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-06-05<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Working with matrices integrate Rust and R extendr package](https://stackoverflow.com/questions/78571055/working-with-matrices-integrate-rust-and-r-extendr-package) - 3 votes
-* [How can I remove the quotWindowquot quotEditquot and quotHelpquot buttons from a desktop app](https://stackoverflow.com/questions/78570909/how-can-i-remove-the-window-edit-and-help-buttons-from-a-desktop-app) - 1 votes
-* [tokiotaskspawn and nonSend objects in async context](https://stackoverflow.com/questions/78568646/tokiotaskspawn-and-non-send-objects-in-async-context) - 1 votes
-* [What causes a spurious quotltdependencygt required to be available in rlib format but was not found in this formquot error](https://stackoverflow.com/questions/78567991/what-causes-a-spurious-dependency-required-to-be-available-in-rlib-format-bu) - 1 votes
+* [How do I enable compilation of code that would otherwise be compiled out when running Rust doctests](https://stackoverflow.com/questions/78579937/how-do-i-enable-compilation-of-code-that-would-otherwise-be-compiled-out-when-ru) - 2 votes
+* [How to lookup from BTreeMap with a twotuple as key using the first element](https://stackoverflow.com/questions/78582719/how-to-lookup-from-btreemap-with-a-two-tuple-as-key-using-the-first-element) - 1 votes
+* [Spawning new Async Tasks as result from a Tokio Channel](https://stackoverflow.com/questions/78575372/spawning-new-async-tasks-as-result-from-a-tokio-channel) - 1 votes
+* [Is it possible to compile with commandline arguments](https://stackoverflow.com/questions/78583000/is-it-possible-to-compile-with-command-line-arguments) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -18,18 +18,17 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### fastapi
 <!-- fastapi starts -->
 * [Why FastAPI isn39t validating POST body](https://stackoverflow.com/questions/78574363/why-fastapi-isnt-validating-post-body) - 2 votes
-* [PytestFastAPI asyncio tests run individually but fail when run as a group](https://stackoverflow.com/questions/78571007/pytest-fastapi-asyncio-tests-run-individually-but-fail-when-run-as-a-group) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Survey data many periods transformation to current and previous period wide to long format](https://stackoverflow.com/questions/78569897/survey-data-many-periods-transformation-to-current-and-previous-period-wide-to) - 4 votes
-* [Avoiding iteration in pandas when I want to update the value in a column x when a condition is true where x is given by another column](https://stackoverflow.com/questions/78571193/avoiding-iteration-in-pandas-when-i-want-to-update-the-value-in-a-column-x-when) - 4 votes
-* [Smarter way to create diff between two pandas dataframes](https://stackoverflow.com/questions/78570861/smarter-way-to-create-diff-between-two-pandas-dataframes) - 4 votes
-* [Creating a new column by multiplying the value of row above with the value of the other column](https://stackoverflow.com/questions/78571907/creating-a-new-column-by-multiplying-the-value-of-row-above-with-the-value-of-th) - 3 votes
+* [Check if a string contains all words in a phrase from a list in python](https://stackoverflow.com/questions/78582450/check-if-a-string-contains-all-words-in-a-phrase-from-a-list-in-python) - 2 votes
 * [Reindex to expand and fill value only across one level of multiindex](https://stackoverflow.com/questions/78573638/reindex-to-expand-and-fill-value-only-across-one-level-of-multi-index) - 2 votes
+* [Pandas Dataframe check relation of variable and rolling mean](https://stackoverflow.com/questions/78577950/pandas-dataframe-check-relation-of-variable-and-rolling-mean) - 2 votes
+* [Copy specific values from a cells and then add them above](https://stackoverflow.com/questions/78577752/copy-specific-values-from-a-cells-and-then-add-them-above) - 2 votes
+* [Multi Column and Row Matching and Removal](https://stackoverflow.com/questions/78577205/multi-column-and-row-matching-and-removal) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
