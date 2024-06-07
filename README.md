@@ -1,24 +1,24 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-06-06<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-06-07<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How can I access a method that has the same name as an enum variant](https://stackoverflow.com/questions/78583699/how-can-i-access-a-method-that-has-the-same-name-as-an-enum-variant) - 10 votes
-* [How do I enable compilation of code that would otherwise be compiled out when running Rust doctests](https://stackoverflow.com/questions/78579937/how-do-i-enable-compilation-of-code-that-would-otherwise-be-compiled-out-when-ru) - 3 votes
-* [How to lookup ranges from BTreeMap using slice patterns or vectors](https://stackoverflow.com/questions/78583177/how-to-lookup-ranges-from-btreemap-using-slice-patterns-or-vectors) - 2 votes
-* [How to lookup from BTreeMap with a twotuple as key using the first element](https://stackoverflow.com/questions/78582719/how-to-lookup-from-btreemap-with-a-two-tuple-as-key-using-the-first-element) - 1 votes
+* [Closure is not a Future if a variable is marked 39static](https://stackoverflow.com/questions/78590889/closure-is-not-a-future-if-a-variable-is-marked-static) - 3 votes
+* [Rust FFI works fine until I try and use stdcoutstdvector etc](https://stackoverflow.com/questions/78588994/rust-ffi-works-fine-until-i-try-and-use-stdcout-stdvector-etc) - 1 votes
 * [how can I optimize this simple multivalued simd splatbroadcast](https://stackoverflow.com/questions/78584042/how-can-i-optimize-this-simple-multi-valued-simd-splat-broadcast) - 1 votes
+* [Rust SFCGAL  retrieve the distance from the straight skeleton](https://stackoverflow.com/questions/78593703/rust-sfcgal-retrieve-the-distance-from-the-straight-skeleton) - 1 votes
+* [Retrying an Async Stream Request when Rate Limits are reached](https://stackoverflow.com/questions/78592115/retrying-an-async-stream-request-when-rate-limits-are-reached) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to access tags for current route from Middleware](https://stackoverflow.com/questions/78582415/how-to-access-tags-for-current-route-from-middleware) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -26,10 +26,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### pandas
 <!-- pandas starts -->
 * [Convert count row to one hot encoding efficiently](https://stackoverflow.com/questions/78584847/convert-count-row-to-one-hot-encoding-efficiently) - 3 votes
-* [Check if a string contains all words in a phrase from a list in python](https://stackoverflow.com/questions/78582450/check-if-a-string-contains-all-words-in-a-phrase-from-a-list-in-python) - 2 votes
+* [Group Pandas DataFrame on criteria from another DataFrame to multiindex](https://stackoverflow.com/questions/78592406/group-pandas-dataframe-on-criteria-from-another-dataframe-to-multi-index) - 2 votes
 * [How to use pycountrydbCountry objects as a pdDataFrame index](https://stackoverflow.com/questions/78586783/how-to-use-pycountry-db-country-objects-as-a-pd-dataframe-index) - 2 votes
-* [Avoid full crossjoin in testing each record against every other record](https://stackoverflow.com/questions/78582226/avoid-full-cross-join-in-testing-each-record-against-every-other-record) - 2 votes
-* [Extract certain dictionary values from a list of dictionaries in Pandas dataframe](https://stackoverflow.com/questions/78578552/extract-certain-dictionary-values-from-a-list-of-dictionaries-in-pandas-datafram) - 2 votes
+* [Trying to get input from dataframe and using values cell by cell to output into a text file](https://stackoverflow.com/questions/78589001/trying-to-get-input-from-dataframe-and-using-values-cell-by-cell-to-output-into) - 2 votes
+* [Pandas windowlike function to rid off timestamp overlapping](https://stackoverflow.com/questions/78590133/pandas-window-like-function-to-rid-off-time-stamp-overlapping) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
