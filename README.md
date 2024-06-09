@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-06-08<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-06-09<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Is it possible to implement these array flatteningunflattening functions in current Rust](https://stackoverflow.com/questions/78594074/is-it-possible-to-implement-these-array-flattening-unflattening-functions-in-cur) - 5 votes
-* [Closure is not a Future if a variable is marked 39static](https://stackoverflow.com/questions/78590889/closure-is-not-a-future-if-a-variable-is-marked-static) - 3 votes
 * [Why does my axum handler not implement Handler](https://stackoverflow.com/questions/78594708/why-does-my-axum-handler-not-implement-handler) - 2 votes
-* [What39s the best way to select an enum variant according to a non uniform probability](https://stackoverflow.com/questions/78594263/whats-the-best-way-to-select-an-enum-variant-according-to-a-non-uniform-probabi) - 1 votes
-* [How to use a Threadpool with recursive jobs](https://stackoverflow.com/questions/78590115/how-to-use-a-threadpool-with-recursive-jobs) - 1 votes
+* [lopdf RUST PDF  only getting text](https://stackoverflow.com/questions/78597641/lopdf-rust-pdf-only-getting-text) - 2 votes
+* [Is there any downsides to defining all dependencies in the workspace Cargotoml](https://stackoverflow.com/questions/78595487/is-there-any-downsides-to-defining-all-dependencies-in-the-workspace-cargo-toml) - 2 votes
+* [is memtransmute between enum and tagged union representation safe](https://stackoverflow.com/questions/78599357/is-memtransmute-between-enum-and-tagged-union-representation-safe) - 1 votes
+* [How to interpolate a type name as a string literal inside an invocation of the quote macro from the quote crate](https://stackoverflow.com/questions/78595363/how-to-interpolate-a-type-name-as-a-string-literal-inside-an-invocation-of-the-q) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -26,11 +26,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### pandas
 <!-- pandas starts -->
-* [Group Pandas DataFrame on criteria from another DataFrame to multiindex](https://stackoverflow.com/questions/78592406/group-pandas-dataframe-on-criteria-from-another-dataframe-to-multi-index) - 2 votes
-* [Pandas windowlike function to rid off timestamp overlapping](https://stackoverflow.com/questions/78590133/pandas-window-like-function-to-rid-off-time-stamp-overlapping) - 2 votes
+* [Unpivot with Pandas  Excel a specific type of matrix](https://stackoverflow.com/questions/78597846/unpivot-with-pandas-excel-a-specific-type-of-matrix) - 1 votes
 * [Pandasonic way to combine multiple columns with expected format](https://stackoverflow.com/questions/78595207/pandasonic-way-to-combine-multiple-columns-with-expected-format) - 1 votes
 * [Panda Query with Large Numeric Value Argument](https://stackoverflow.com/questions/78594503/panda-query-with-large-numeric-value-argument) - 1 votes
-* [Groupby and shift without using lambda function](https://stackoverflow.com/questions/78592631/groupby-and-shift-without-using-lambda-function) - 1 votes
+* [How to merge or join two dataframes on the basis of partly matched columns](https://stackoverflow.com/questions/78596853/how-to-merge-or-join-two-dataframes-on-the-basis-of-partly-matched-columns) - 1 votes
+* [Does anyone know how to resolve pandas 39__version__39 attribute error](https://stackoverflow.com/questions/78596518/does-anyone-know-how-to-resolve-pandas-version-attribute-error) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
