@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-06-13<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-06-14<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,10 +8,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### rust
 <!-- rust starts -->
 * [Is there a way to find quothiddenquot unused variables in Rust](https://stackoverflow.com/questions/78619188/is-there-a-way-to-find-hidden-unused-variables-in-rust) - 3 votes
-* [Why is 39impl Trait39 syntax not working with two parameters](https://stackoverflow.com/questions/78614404/why-is-impl-trait-syntax-not-working-with-two-parameters) - 2 votes
-* [possible to map types to next size integer in rust](https://stackoverflow.com/questions/78618880/possible-to-map-types-to-next-size-integer-in-rust) - 1 votes
+* [How to fullscreen a 3rdparty application by its hwnd](https://stackoverflow.com/questions/78624604/how-to-fullscreen-a-3rd-party-application-by-its-hwnd) - 3 votes
+* [Is it possible to bench same function with different features in rust](https://stackoverflow.com/questions/78622646/is-it-possible-to-bench-same-function-with-different-features-in-rust) - 3 votes
 * [In Rust Why does generics needs to specify lifetime as 39static when passed as an argument](https://stackoverflow.com/questions/78618167/in-rust-why-does-generics-needs-to-specify-lifetime-as-static-when-passed-as) - 1 votes
-* [Trying to understand stdmarkerSized trait](https://stackoverflow.com/questions/78618312/trying-to-understand-stdmarkersized-trait) - 1 votes
+* [Why are slices dynamically sized](https://stackoverflow.com/questions/78623908/why-are-slices-dynamically-sized) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -25,11 +25,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### pandas
 <!-- pandas starts -->
-* [What is the most efficient way to fillna multiple columns with values from other columns in a way that they can be paired with a suffix](https://stackoverflow.com/questions/78617300/what-is-the-most-efficient-way-to-fillna-multiple-columns-with-values-from-other) - 7 votes
+* [What is the most efficient way to fillna multiple columns with values from other columns in a way that they can be paired with a suffix](https://stackoverflow.com/questions/78617300/what-is-the-most-efficient-way-to-fillna-multiple-columns-with-values-from-other) - 10 votes
 * [Aggregate columns that fall within range](https://stackoverflow.com/questions/78615700/aggregate-columns-that-fall-within-range) - 5 votes
-* [How can I merge two dataframes based on last date of each group](https://stackoverflow.com/questions/78613926/how-can-i-merge-two-dataframes-based-on-last-date-of-each-group) - 4 votes
-* [converting a dataframe to dictionary in python](https://stackoverflow.com/questions/78617660/converting-a-dataframe-to-dictionary-in-python) - 2 votes
-* [Unable to convert the column data and store it in one new column in dataframe pandas](https://stackoverflow.com/questions/78619084/unable-to-convert-the-column-data-and-store-it-in-one-new-column-in-dataframe-pa) - 2 votes
+* [Efficiently look up a column value in a column containing lists with pandas](https://stackoverflow.com/questions/78621820/efficiently-look-up-a-column-value-in-a-column-containing-lists-with-pandas) - 4 votes
+* [Pandas performance of fillna vs boolean masking  writing value](https://stackoverflow.com/questions/78622674/pandas-performance-of-fillna-vs-boolean-masking-writing-value) - 4 votes
+* [Sorting Months inside a Multi index groupby object](https://stackoverflow.com/questions/78620709/sorting-months-inside-a-multi-index-groupby-object) - 4 votes
 <!-- pandas ends -->
 </td></tr></table>
 
