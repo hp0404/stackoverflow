@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-06-19<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-06-20<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,31 +8,30 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### rust
 <!-- rust starts -->
 * [In Rust stdcollectionsBTreeMap will the allocated memory be kept on calling clear](https://stackoverflow.com/questions/78640890/in-rust-stdcollectionsbtreemap-will-the-allocated-memory-be-kept-on-calling) - 3 votes
-* [I want to call a c dll file from rust code](https://stackoverflow.com/questions/78636084/i-want-to-call-a-c-dll-file-from-rust-code) - 3 votes
-* [Rust JSON serializationdeserialization with serdeserde_json whilst using generics and lifetimes](https://stackoverflow.com/questions/78635375/rust-json-serialization-deserialization-with-serde-serde-json-whilst-using-gener) - 2 votes
-* [Rust HashMap supporting pointer stability to allow key referencing its value](https://stackoverflow.com/questions/78641462/rust-hashmap-supporting-pointer-stability-to-allow-key-referencing-its-value) - 2 votes
-* [Using simple CSS file with Trunk  Yew](https://stackoverflow.com/questions/78638371/using-simple-css-file-with-trunk-yew) - 2 votes
+* [Rust HashMap supporting pointer stability to allow key referencing its value](https://stackoverflow.com/questions/78641462/rust-hashmap-supporting-pointer-stability-to-allow-key-referencing-its-value) - 3 votes
+* [How to iterate over multiple collections simultaneously](https://stackoverflow.com/questions/78645446/how-to-iterate-over-multiple-collections-simultaneously) - 1 votes
+* [How do I use linkedlistallocator in Rust](https://stackoverflow.com/questions/78645054/how-do-i-use-linked-list-allocator-in-rust) - 1 votes
+* [Browser closes connection on chunked data after recieving 6 chunks](https://stackoverflow.com/questions/78644071/browser-closes-connection-on-chunked-data-after-recieving-6-chunks) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI and aioboto3 Use endpoint as proxy](https://stackoverflow.com/questions/78642161/fastapi-and-aioboto3-use-endpoint-as-proxy) - 1 votes
+* [FastAPI and aioboto3 Streaming Download](https://stackoverflow.com/questions/78642161/fastapi-and-aioboto3-streaming-download) - 3 votes
 * [Persistent MySQL connection issues with FastAPI deployed on DigitalOcean and Azure](https://stackoverflow.com/questions/78644422/persistent-mysql-connection-issues-with-fastapi-deployed-on-digitalocean-and-azu) - 1 votes
-* [FastAPI  Pydantic  39Input should be a valid dictionary or object to extract fields from39](https://stackoverflow.com/questions/78636954/fastapi-pydantic-input-should-be-a-valid-dictionary-or-object-to-extract-fi) - 1 votes
-* [Is there a conflict between openai 134 and fastapi v01110](https://stackoverflow.com/questions/78635680/is-there-a-conflict-between-openai-1-34-and-fastapi-v0-111-0) - 1 votes
+* [Why does does my FastAPI route return 404](https://stackoverflow.com/questions/78647858/why-does-does-my-fastapi-route-return-404) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [How do I perform pandas cumsum while skipping rows that are duplicated in another field](https://stackoverflow.com/questions/78645037/how-do-i-perform-pandas-cumsum-while-skipping-rows-that-are-duplicated-in-anothe) - 10 votes
 * [Check following element in list in pandas dataframe](https://stackoverflow.com/questions/78642298/check-following-element-in-list-in-pandas-dataframe) - 4 votes
-* [Scalable approach instead of apply in python](https://stackoverflow.com/questions/78639630/scalable-approach-instead-of-apply-in-python) - 3 votes
-* [Counting items in an array and making counts into columns](https://stackoverflow.com/questions/78636490/counting-items-in-an-array-and-making-counts-into-columns) - 2 votes
-* [Avoiding Merge In Pandas](https://stackoverflow.com/questions/78636936/avoiding-merge-in-pandas) - 2 votes
-* [Dataframe Expansion Generating Genomic Positions  250 Nucleotides](https://stackoverflow.com/questions/78640299/dataframe-expansion-generating-genomic-positions-250-nucleotides) - 2 votes
+* [How to pass optimization options such as read_onlyTrue to pandasread_excel using openpyxl as the engine](https://stackoverflow.com/questions/78649010/how-to-pass-optimization-options-such-as-read-only-true-to-pandas-read-excel) - 2 votes
+* [How can I find the first row after a number of duplicated rows](https://stackoverflow.com/questions/78645930/how-can-i-find-the-first-row-after-a-number-of-duplicated-rows) - 2 votes
+* [pandasDataFramequery  how do I access class variables with ](https://stackoverflow.com/questions/78645531/pandas-dataframe-query-how-do-i-access-class-variables-with) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
