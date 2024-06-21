@@ -1,26 +1,28 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-06-20<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-06-21<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [In Rust stdcollectionsBTreeMap will the allocated memory be kept on calling clear](https://stackoverflow.com/questions/78640890/in-rust-stdcollectionsbtreemap-will-the-allocated-memory-be-kept-on-calling) - 3 votes
-* [Rust HashMap supporting pointer stability to allow key referencing its value](https://stackoverflow.com/questions/78641462/rust-hashmap-supporting-pointer-stability-to-allow-key-referencing-its-value) - 3 votes
+* [How to intentionally leave undefined symbols](https://stackoverflow.com/questions/78649710/how-to-intentionally-leave-undefined-symbols) - 2 votes
 * [How to iterate over multiple collections simultaneously](https://stackoverflow.com/questions/78645446/how-to-iterate-over-multiple-collections-simultaneously) - 1 votes
+* [Understanding Rust Move Semantics Does Ownership Transfer Involve Data Copying](https://stackoverflow.com/questions/78653532/understanding-rust-move-semantics-does-ownership-transfer-involve-data-copying) - 1 votes
+* [How to avoid E0515 error when using dynamically generated SQL queries with sqlx in Rust](https://stackoverflow.com/questions/78651546/how-to-avoid-e0515-error-when-using-dynamically-generated-sql-queries-with-sqlx) - 1 votes
 * [How do I use linkedlistallocator in Rust](https://stackoverflow.com/questions/78645054/how-do-i-use-linked-list-allocator-in-rust) - 1 votes
-* [Browser closes connection on chunked data after recieving 6 chunks](https://stackoverflow.com/questions/78644071/browser-closes-connection-on-chunked-data-after-recieving-6-chunks) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI and aioboto3 Streaming Download](https://stackoverflow.com/questions/78642161/fastapi-and-aioboto3-streaming-download) - 3 votes
-* [Persistent MySQL connection issues with FastAPI deployed on DigitalOcean and Azure](https://stackoverflow.com/questions/78644422/persistent-mysql-connection-issues-with-fastapi-deployed-on-digitalocean-and-azu) - 1 votes
-* [Why does does my FastAPI route return 404](https://stackoverflow.com/questions/78647858/why-does-does-my-fastapi-route-return-404) - 1 votes
+* [Subprocess Task Is not teriminating in the celery_apptask](https://stackoverflow.com/questions/78652491/subprocess-task-is-not-teriminating-in-the-celery-app-task) - 2 votes
+* [What is the benefit of FastAPISQLAlchemy onesessionperrequest architecture vs onesessionforeverything](https://stackoverflow.com/questions/78648595/what-is-the-benefit-of-fastapisqlalchemy-one-session-per-request-architecture-v) - 2 votes
+* [FastAPI SQLAlchemy TypeError vars argument must have __dict__ attribute when querying joined tables](https://stackoverflow.com/questions/78654070/fastapi-sqlalchemy-typeerror-vars-argument-must-have-dict-attribute-when) - 1 votes
+* [FastAPI How to get request Request object in route decorator](https://stackoverflow.com/questions/78651413/fastapi-how-to-get-request-request-object-in-route-decorator) - 1 votes
+* [always apply exclude_none to a model Pydantic 110](https://stackoverflow.com/questions/78651357/always-apply-exclude-none-to-a-model-pydantic-1-10) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -28,10 +30,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### pandas
 <!-- pandas starts -->
 * [How do I perform pandas cumsum while skipping rows that are duplicated in another field](https://stackoverflow.com/questions/78645037/how-do-i-perform-pandas-cumsum-while-skipping-rows-that-are-duplicated-in-anothe) - 10 votes
-* [Check following element in list in pandas dataframe](https://stackoverflow.com/questions/78642298/check-following-element-in-list-in-pandas-dataframe) - 4 votes
+* [How can I form groups by a mask and N rows after that mask](https://stackoverflow.com/questions/78653471/how-can-i-form-groups-by-a-mask-and-n-rows-after-that-mask) - 3 votes
 * [How to pass optimization options such as read_onlyTrue to pandasread_excel using openpyxl as the engine](https://stackoverflow.com/questions/78649010/how-to-pass-optimization-options-such-as-read-only-true-to-pandas-read-excel) - 2 votes
-* [How can I find the first row after a number of duplicated rows](https://stackoverflow.com/questions/78645930/how-can-i-find-the-first-row-after-a-number-of-duplicated-rows) - 2 votes
-* [pandasDataFramequery  how do I access class variables with ](https://stackoverflow.com/questions/78645531/pandas-dataframe-query-how-do-i-access-class-variables-with) - 2 votes
+* [pandas groupby expanding mean does not accept missing values](https://stackoverflow.com/questions/78649817/pandas-groupby-expanding-mean-does-not-accept-missing-values) - 2 votes
+* [add column of length longer than dataframe pandas](https://stackoverflow.com/questions/78651392/add-column-of-length-longer-than-dataframe-pandas) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
