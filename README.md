@@ -1,27 +1,25 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-06-23<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-06-24<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Immutable function argument changes immediately after being passed in](https://stackoverflow.com/questions/78657047/immutable-function-argument-changes-immediately-after-being-passed-in) - 2 votes
-* [How to work with a type from a Rust made library in Python](https://stackoverflow.com/questions/78657011/how-to-work-with-a-type-from-a-rust-made-library-in-python) - 1 votes
+* [In Rust during sorting in place will moving elements in a vector becomes expensive](https://stackoverflow.com/questions/78662206/in-rust-during-sorting-in-place-will-moving-elements-in-a-vector-becomes-expen) - 3 votes
 * [Rust use impl39s generic argument for trait39s function generic argument](https://stackoverflow.com/questions/78657642/rust-use-impls-generic-argument-for-traits-function-generic-argument) - 1 votes
+* [Understanding lifetime across async](https://stackoverflow.com/questions/78660862/understanding-lifetime-across-async) - 1 votes
 * [Testing logs in Rust](https://stackoverflow.com/questions/78658269/testing-logs-in-rust) - 1 votes
-* [Why does Rust allow multiple mutable borrows of struct fields but not array elements](https://stackoverflow.com/questions/78657004/why-does-rust-allow-multiple-mutable-borrows-of-struct-fields-but-not-array-elem) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Where to put boto3Session creation in my FastAPI application](https://stackoverflow.com/questions/78656991/where-to-put-boto3-session-creation-in-my-fastapi-application) - 1 votes
+* [FastAPI via Docker is not running](https://stackoverflow.com/questions/78660804/fastapi-via-docker-is-not-running) - 1 votes
+* [Returning a chain with a custom runnable in Langchain to use with Langserve](https://stackoverflow.com/questions/78660622/returning-a-chain-with-a-custom-runnable-in-langchain-to-use-with-langserve) - 1 votes
 * [How to select one row from several tables with unique user_ids](https://stackoverflow.com/questions/78658256/how-to-select-one-row-from-several-tables-with-unique-user-ids) - 1 votes
-* [Why does importing FastAPI TestClient into my PyCharm debugger session take 24 seconds](https://stackoverflow.com/questions/78656297/why-does-importing-fastapi-testclient-into-my-pycharm-debugger-session-take-24-s) - 1 votes
-* [How to avoid pydantic cyclic reference when expanding relationship](https://stackoverflow.com/questions/78656259/how-to-avoid-pydantic-cyclic-reference-when-expanding-relationship) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -29,10 +27,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### pandas
 <!-- pandas starts -->
 * [Save data to a new tab in the xlsx file](https://stackoverflow.com/questions/78657980/save-data-to-a-new-tab-in-the-xlsx-file) - 3 votes
-* [How to efficiently compare 2 dataframe and produce a column value based on condition](https://stackoverflow.com/questions/78655732/how-to-efficiently-compare-2-dataframe-and-produce-a-column-value-based-on-condi) - 2 votes
 * [Add the row counts as a list to column using groupby](https://stackoverflow.com/questions/78658024/add-the-row-counts-as-a-list-to-column-using-groupby) - 1 votes
-* [Get minimum through record iterations in pandas dataframe](https://stackoverflow.com/questions/78659009/get-minimum-through-record-iterations-in-pandas-dataframe) - 1 votes
-* [Folium Choropleth no colors](https://stackoverflow.com/questions/78656847/folium-choropleth-no-colors) - 1 votes
+* [Interchange Start Date End Date and other Columns with Earlier Row if Dates greater than 8 in pandas dataframe](https://stackoverflow.com/questions/78662706/interchange-start-date-end-date-and-other-columns-with-earlier-row-if-dates-gre) - 1 votes
+* [How can I compare a value in one column to all values that are BEFORE it in another column to find the number of unique values that are less than](https://stackoverflow.com/questions/78661005/how-can-i-compare-a-value-in-one-column-to-all-values-that-are-before-it-in-anot) - 1 votes
+* [pandas value assignment of 1 element 1 dimension numpy array set a 0 dimensional array](https://stackoverflow.com/questions/78663299/pandas-value-assignment-of-1-element-1-dimension-numpy-array-set-a-0-dimensional) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
