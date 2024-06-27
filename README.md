@@ -1,35 +1,34 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-06-26<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-06-27<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [what is the syn typestruct that represents the nested field offset parameter to offset_of macro](https://stackoverflow.com/questions/78664954/what-is-the-syn-type-struct-that-represents-the-nested-field-offset-parameter-to) - 4 votes
-* [How to parse complicated JSON data in rust correctly](https://stackoverflow.com/questions/78669751/how-to-parse-complicated-json-data-in-rust-correctly) - 3 votes
-* [Can I resolve a domain without a port](https://stackoverflow.com/questions/78669474/can-i-resolve-a-domain-without-a-port) - 2 votes
-* [How to enable rustcrustanalyzer Full Compiler Diagnostic in Neovim](https://stackoverflow.com/questions/78666491/how-to-enable-rustc-rust-analyzer-full-compiler-diagnostic-in-neovim) - 2 votes
-* [What are the differences between tokio_utilStreamExt and futuresStreamExt](https://stackoverflow.com/questions/78665204/what-are-the-differences-between-tokio-utilstreamext-and-futuresstreamext) - 2 votes
+* [How to cast concrete type to generic manual specialization](https://stackoverflow.com/questions/78673983/how-to-cast-concrete-type-to-generic-manual-specialization) - 1 votes
+* [How to use default attribute when generating struct in rust macros](https://stackoverflow.com/questions/78670442/how-to-use-default-attribute-when-generating-struct-in-rust-macros) - 1 votes
+* [Rust compile error cannot assign to last_childnext_sibling which is behind a amp reference](https://stackoverflow.com/questions/78678479/rust-compile-error-cannot-assign-to-last-child-next-sibling-which-is-behind) - 1 votes
+* [How to iterate over the RGB wheel](https://stackoverflow.com/questions/78675345/how-to-iterate-over-the-rgb-wheel) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Is it okay to encrypt a 3rd party access token and refresh token in an encrypted JWT](https://stackoverflow.com/questions/78669660/is-it-okay-to-encrypt-a-3rd-party-access-token-and-refresh-token-in-an-encrypte) - 1 votes
+* [How to access app dependency in FastAPI when not injecting to endpoint](https://stackoverflow.com/questions/78674771/how-to-access-app-dependency-in-fastapi-when-not-injecting-to-endpoint) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Calculate Distance to the nearest object](https://stackoverflow.com/questions/78665686/calculate-distance-to-the-nearest-object) - 2 votes
+* [Pandas compact rows when data is missing](https://stackoverflow.com/questions/78675968/pandas-compact-rows-when-data-is-missing) - 3 votes
+* [How can I preserve the previous value to find the row that is greater than it](https://stackoverflow.com/questions/78676973/how-can-i-preserve-the-previous-value-to-find-the-row-that-is-greater-than-it) - 3 votes
+* [Turn a list of tuples into pandas dataframe with single column](https://stackoverflow.com/questions/78676037/turn-a-list-of-tuples-into-pandas-dataframe-with-single-column) - 3 votes
 * [How can I filter groups by comparing the first value of each group and the last cummax that changes conditionally](https://stackoverflow.com/questions/78671711/how-can-i-filter-groups-by-comparing-the-first-value-of-each-group-and-the-last) - 2 votes
-* [Pandas expand Dataframe to calculate Fractions](https://stackoverflow.com/questions/78665660/pandas-expand-dataframe-to-calculate-fractions) - 1 votes
-* [rearrange columns in dataframe depending on sorting output](https://stackoverflow.com/questions/78669299/rearrange-columns-in-dataframe-depending-on-sorting-output) - 1 votes
-* [How to merge 2 pandas dataframes based on criteria](https://stackoverflow.com/questions/78674348/how-to-merge-2-pandas-dataframes-based-on-criteria) - 1 votes
+* [Why does x1 not reverse a grouped pandas dataframe column in Python 3123](https://stackoverflow.com/questions/78676685/why-does-x-1-not-reverse-a-grouped-pandas-dataframe-column-in-python-3-12-3) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
