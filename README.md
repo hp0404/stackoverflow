@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-06-28<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-06-29<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -11,25 +11,24 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 * [In Rust how can I unittest a struct in isolation from any structs it depends on](https://stackoverflow.com/questions/78683603/in-rust-how-can-i-unittest-a-struct-in-isolation-from-any-structs-it-depends-on) - 1 votes
 * [BellmanFord for getting the full path](https://stackoverflow.com/questions/78683077/bellman-ford-for-getting-the-full-path) - 1 votes
 * [Iterator Optimization done by the rust compiler](https://stackoverflow.com/questions/78682490/iterator-optimization-done-by-the-rust-compiler) - 1 votes
-* [Rust into implementation conflict core](https://stackoverflow.com/questions/78679909/rust-into-implementation-conflict-core) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [422 Unprocessable Entity error when sending Form data to FastAPI backend using ReactJs and Fetch API in the frontend](https://stackoverflow.com/questions/78686504/422-unprocessable-entity-error-when-sending-form-data-to-fastapi-backend-using-r) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas compact rows when data is missing](https://stackoverflow.com/questions/78675968/pandas-compact-rows-when-data-is-missing) - 3 votes
-* [How can I preserve the previous value to find the row that is greater than it](https://stackoverflow.com/questions/78676973/how-can-i-preserve-the-previous-value-to-find-the-row-that-is-greater-than-it) - 3 votes
-* [How to get groups of rows bounded by specific values in Pandas](https://stackoverflow.com/questions/78679925/how-to-get-groups-of-rows-bounded-by-specific-values-in-pandas) - 3 votes
-* [Turn a list of tuples into pandas dataframe with single column](https://stackoverflow.com/questions/78676037/turn-a-list-of-tuples-into-pandas-dataframe-with-single-column) - 3 votes
-* [Finding count of unique sequence made up of values spanned over several columns in Python](https://stackoverflow.com/questions/78679079/finding-count-of-unique-sequence-made-up-of-values-spanned-over-several-columns) - 3 votes
+* [Using CREATE TEMPORARY TABLE with pandas](https://stackoverflow.com/questions/78681020/using-create-temporary-table-with-pandas) - 3 votes
+* [How to predict the resulting type after indexing a Pandas DataFrame](https://stackoverflow.com/questions/78680411/how-to-predict-the-resulting-type-after-indexing-a-pandas-dataframe) - 2 votes
+* [Encountering ValueError upon joining two pandas dataframes on a datetime index column](https://stackoverflow.com/questions/78686253/encountering-valueerror-upon-joining-two-pandas-dataframes-on-a-datetime-index-c) - 2 votes
+* [New column calculation error based on datetime and timedelta column based on two dataframes](https://stackoverflow.com/questions/78682653/new-column-calculation-error-based-on-datetime-and-timedelta-column-based-on-two) - 1 votes
+* [Combine list of dataframes into one big dataframe avoiding duplicates on columns and indices](https://stackoverflow.com/questions/78682498/combine-list-of-dataframes-into-one-big-dataframe-avoiding-duplicates-on-columns) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
