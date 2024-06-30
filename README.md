@@ -1,16 +1,15 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-06-29<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-06-30<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why does Optionmap work with immutable data but not with mutable data](https://stackoverflow.com/questions/78684159/why-does-optionmap-work-with-immutable-data-but-not-with-mutable-data) - 3 votes
-* [In Rust how can I unittest a struct in isolation from any structs it depends on](https://stackoverflow.com/questions/78683603/in-rust-how-can-i-unittest-a-struct-in-isolation-from-any-structs-it-depends-on) - 1 votes
-* [BellmanFord for getting the full path](https://stackoverflow.com/questions/78683077/bellman-ford-for-getting-the-full-path) - 1 votes
-* [Iterator Optimization done by the rust compiler](https://stackoverflow.com/questions/78682490/iterator-optimization-done-by-the-rust-compiler) - 1 votes
+* [git untracked files not being ignored](https://stackoverflow.com/questions/78687311/git-untracked-files-not-being-ignored) - 2 votes
+* [neovim rustanalyzer adds quotrewriting staticquot at the top of the file if the static or const keywords are being used in code](https://stackoverflow.com/questions/78685738/neovim-rust-analyzer-adds-rewriting-static-at-the-top-of-the-file-if-the-stat) - 2 votes
+* [Issue while building DOCKER using official example](https://stackoverflow.com/questions/78689112/issue-while-building-docker-using-official-example) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -24,11 +23,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### pandas
 <!-- pandas starts -->
-* [Using CREATE TEMPORARY TABLE with pandas](https://stackoverflow.com/questions/78681020/using-create-temporary-table-with-pandas) - 3 votes
-* [How to predict the resulting type after indexing a Pandas DataFrame](https://stackoverflow.com/questions/78680411/how-to-predict-the-resulting-type-after-indexing-a-pandas-dataframe) - 2 votes
-* [Encountering ValueError upon joining two pandas dataframes on a datetime index column](https://stackoverflow.com/questions/78686253/encountering-valueerror-upon-joining-two-pandas-dataframes-on-a-datetime-index-c) - 2 votes
-* [New column calculation error based on datetime and timedelta column based on two dataframes](https://stackoverflow.com/questions/78682653/new-column-calculation-error-based-on-datetime-and-timedelta-column-based-on-two) - 1 votes
-* [Combine list of dataframes into one big dataframe avoiding duplicates on columns and indices](https://stackoverflow.com/questions/78682498/combine-list-of-dataframes-into-one-big-dataframe-avoiding-duplicates-on-columns) - 1 votes
+* [Encountering ValueError upon joining two pandas dataframes on a datetime index column](https://stackoverflow.com/questions/78686253/encountering-valueerror-upon-joining-two-pandas-dataframes-on-a-datetime-index-c) - 3 votes
+* [Creating a column based on column values and dictionaries using vectorization in pandas](https://stackoverflow.com/questions/78689540/creating-a-column-based-on-column-values-and-dictionaries-using-vectorization-in) - 1 votes
+* [How Would One Go About Creating A Graph Like This In PlotlyPandas](https://stackoverflow.com/questions/78689478/how-would-one-go-about-creating-a-graph-like-this-in-plotly-pandas) - 1 votes
+* [Altair Barchart is blank matplotlib equivalent shows correct visualization](https://stackoverflow.com/questions/78688703/altair-barchart-is-blank-matplotlib-equivalent-shows-correct-visualization) - 1 votes
+* [How to predict price behavior according to model predictions for a week ahead](https://stackoverflow.com/questions/78686743/how-to-predict-price-behavior-according-to-model-predictions-for-a-week-ahead) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
