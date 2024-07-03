@@ -1,35 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-07-02<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-07-03<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Safely treating a ampT as a ampMaybeUninitltTgt in Rust](https://stackoverflow.com/questions/78699139/safely-treating-a-t-as-a-maybeuninitt-in-rust) - 3 votes
 * [Emulating Switchable Memory Banks via Overlayed Byte Slices](https://stackoverflow.com/questions/78694735/emulating-switchable-memory-banks-via-overlayed-byte-slices) - 2 votes
-* [Safely treating a ampT as a ampMaybeUninitltTgt in Rust](https://stackoverflow.com/questions/78699139/safely-treating-a-t-as-a-maybeuninitt-in-rust) - 1 votes
-* [Rust Generic with trait constraint where trait also has a generic with a trait constraint](https://stackoverflow.com/questions/78693756/rust-generic-with-trait-constraint-where-trait-also-has-a-generic-with-a-trait) - 1 votes
+* [How to preserve file modification times when zipping and unzipping in Rust](https://stackoverflow.com/questions/78702982/how-to-preserve-file-modification-times-when-zipping-and-unzipping-in-rust) - 1 votes
+* [How to use relative path with sqlite in workspace](https://stackoverflow.com/questions/78700559/how-to-use-relative-path-with-sqlite-in-workspace) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
+* [mounting multiple routes on a FastAPI app results in 404 not found error](https://stackoverflow.com/questions/78703491/mounting-multiple-routes-on-a-fastapi-app-results-in-404-not-found-error) - 1 votes
 * [Dynamic query parameters](https://stackoverflow.com/questions/78698133/dynamic-query-parameters) - 1 votes
-* [Is a backend API servicing redundant in microservice designed to proxyingtransfer API calls to another API service](https://stackoverflow.com/questions/78691524/is-a-backend-api-servicing-redundant-in-microservice-designed-to-proxying-tran) - 1 votes
-* [Pydantic V2 model field_validation is not executed with Form Data in Fastapi 01110](https://stackoverflow.com/questions/78690676/pydantic-v2-model-field-validation-is-not-executed-with-form-data-in-fastapi-0-1) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How to efficiently calculate the share of an aggregated column](https://stackoverflow.com/questions/78693052/how-to-efficiently-calculate-the-share-of-an-aggregated-column) - 2 votes
-* [Merge Dataframe based on substring column labeld while keep the original columns label](https://stackoverflow.com/questions/78692255/merge-dataframe-based-on-substring-column-labeld-while-keep-the-original-columns) - 2 votes
-* [Sum multiple rows from multiple columns in a dataframe for a group](https://stackoverflow.com/questions/78692139/sum-multiple-rows-from-multiple-columns-in-a-dataframe-for-a-group) - 2 votes
+* [What is the fastest way to calculate a daily balance with compound interest in Pandas or Spark](https://stackoverflow.com/questions/78699450/what-is-the-fastest-way-to-calculate-a-daily-balance-with-compound-interest-in-p) - 2 votes
 * [Weird behavior when updating the values using iloc in pandas dataframe](https://stackoverflow.com/questions/78695314/weird-behavior-when-updating-the-values-using-iloc-in-pandas-dataframe) - 2 votes
-* [How to efficiently apply a spacy model to encode an entire pandas dataframe](https://stackoverflow.com/questions/78694344/how-to-efficiently-apply-a-spacy-model-to-encode-an-entire-pandas-dataframe) - 2 votes
+* [Python pandasmarketcalendars](https://stackoverflow.com/questions/78702312/python-pandas-market-calendars) - 2 votes
+* [pandas string selection](https://stackoverflow.com/questions/78701305/pandas-string-selection) - 2 votes
+* [How to generate a hierarchical colourmap in matplotlib](https://stackoverflow.com/questions/78700997/how-to-generate-a-hierarchical-colourmap-in-matplotlib) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
