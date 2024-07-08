@@ -1,34 +1,34 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-07-07<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-07-08<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [What is memtake doing in Writewrite for slice ampmut u8](https://stackoverflow.com/questions/78714107/what-is-memtake-doing-in-writewrite-for-slice-mut-u8) - 2 votes
-* [Storing NodeRef inside Context](https://stackoverflow.com/questions/78715708/storing-noderef-inside-context) - 2 votes
+* [Borrow checking for C struct field](https://stackoverflow.com/questions/78718192/borrow-checking-for-c-struct-field) - 3 votes
 * [Avoid clone when reusing a Rust Polars DataFrame](https://stackoverflow.com/questions/78718310/avoid-clone-when-re-using-a-rust-polars-dataframe) - 1 votes
 * [Stepping into functions results in an unknown file error](https://stackoverflow.com/questions/78717149/stepping-into-functions-results-in-an-unknown-file-error) - 1 votes
+* [How to have different set of features when compiled as a binary and used as a library in a Rust project](https://stackoverflow.com/questions/78720528/how-to-have-different-set-of-features-when-compiled-as-a-binary-and-used-as-a-li) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Poetry permission denied](https://stackoverflow.com/questions/78715322/poetry-permission-denied) - 1 votes
+* [ValueError callable ltdependency_injectorprovidersSingletongt is not supported by signature with MySQLDatabase](https://stackoverflow.com/questions/78719980/valueerror-callable-dependency-injector-providers-singleton-is-not-supported) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [How can I change values of a column if the group nunique is more than N](https://stackoverflow.com/questions/78721860/how-can-i-change-values-of-a-column-if-the-group-nunique-is-more-than-n) - 2 votes
 * [How can I use groupby in a way that each group is grouped with the previous overlapping group](https://stackoverflow.com/questions/78716778/how-can-i-use-groupby-in-a-way-that-each-group-is-grouped-with-the-previous-over) - 2 votes
-* [Cumulative sum in Pandas DataFrame based on multiple column value matches between two dataframes](https://stackoverflow.com/questions/78714936/cumulative-sum-in-pandas-dataframe-based-on-multiple-column-value-matches-betwee) - 1 votes
-* [How can I calculate Pearson Correlation in a memoryefficient way using Pandas](https://stackoverflow.com/questions/78717730/how-can-i-calculate-pearson-correlation-in-a-memory-efficient-way-using-pandas) - 1 votes
-* [Pandas outer join not working as expected](https://stackoverflow.com/questions/78715983/pandas-outer-join-not-working-as-expected) - 1 votes
-* [How to solve quotThe truth value of a Series is ambiguous Use aempty abool aitem aany or aallquot in python](https://stackoverflow.com/questions/78715863/how-to-solve-the-truth-value-of-a-series-is-ambiguous-use-a-empty-a-bool-a) - 1 votes
+* [Getting error when trying to install Pandas using pip](https://stackoverflow.com/questions/78718762/getting-error-when-trying-to-install-pandas-using-pip) - 1 votes
+* [Efficiently remove rows from pandas df based on second latest time in column](https://stackoverflow.com/questions/78721341/efficiently-remove-rows-from-pandas-df-based-on-second-latest-time-in-column) - 1 votes
+* [pdset_optionquotstylerformatna_repquot quotNULLquot and pdoptionsstylerformatna_rep  quotNULLquot not working](https://stackoverflow.com/questions/78719963/pd-set-optionstyler-format-na-rep-null-and-pd-options-styler-format-na-re) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
