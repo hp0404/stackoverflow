@@ -1,16 +1,16 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-07-10<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-07-11<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Require a field to be an integer or null but not missing in JSON](https://stackoverflow.com/questions/78724893/require-a-field-to-be-an-integer-or-null-but-not-missing-in-json) - 5 votes
 * [Why is a temporary closure inferred to not implement Fn when it should](https://stackoverflow.com/questions/78730792/why-is-a-temporary-closure-inferred-to-not-implement-fn-when-it-should) - 3 votes
-* [BufReader Issues with Inconsistent Reads Across Multiple Buffer Sizes](https://stackoverflow.com/questions/78726305/bufreader-issues-with-inconsistent-reads-across-multiple-buffer-sizes) - 1 votes
-* [Serde serialize a HashMap like flatten but keeping the field name of the HashMap](https://stackoverflow.com/questions/78723480/serde-serialize-a-hashmap-like-flatten-but-keeping-the-field-name-of-the-hashmap) - 1 votes
+* [Compile and run Rust program on save in VS Code](https://stackoverflow.com/questions/78732215/compile-and-run-rust-program-on-save-in-vs-code) - 2 votes
+* [Multiple Borrows Error For simple application](https://stackoverflow.com/questions/78736570/multiple-borrows-error-for-simple-application) - 1 votes
+* [How to extend usize](https://stackoverflow.com/questions/78732688/how-to-extend-usize) - 1 votes
 * [Cannot create wgpu surface due to lifetime constraint](https://stackoverflow.com/questions/78728851/cannot-create-wgpu-surface-due-to-lifetime-constraint) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -18,8 +18,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to use Depends and Path at the same time in FastAPI](https://stackoverflow.com/questions/78725322/how-to-use-depends-and-path-at-the-same-time-in-fastapi) - 2 votes
-* [Swagger API  should not accept Null](https://stackoverflow.com/questions/78726520/swagger-api-should-not-accept-null) - 1 votes
+* [the values of ENUM type in SQLAlchemy with PostgreSQL is the variable not the value](https://stackoverflow.com/questions/78733442/the-values-of-enum-type-in-sqlalchemy-with-postgresql-is-the-variable-not-the-va) - 2 votes
+* [FastAPI curl works inside a container curl on host machine Connection reset by peer](https://stackoverflow.com/questions/78733083/fastapi-curl-works-inside-a-container-curl-on-host-machine-connection-reset-by) - 1 votes
 * [ConnectionRefusedError Errno 111 Connection refused Docker Python](https://stackoverflow.com/questions/78729345/connectionrefusederror-errno-111-connection-refused-docker-python) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
@@ -27,11 +27,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### pandas
 <!-- pandas starts -->
-* [Translate Pandas groupby plus resample to Polars in Python](https://stackoverflow.com/questions/78725967/translate-pandas-groupby-plus-resample-to-polars-in-python) - 7 votes
-* [How to vectorize groupby combination lists of two columns in Pandas Dataframe](https://stackoverflow.com/questions/78727040/how-to-vectorize-groupby-combination-lists-of-two-columns-in-pandas-dataframe) - 4 votes
-* [Polars apply function to check if a row value is a substring of another string](https://stackoverflow.com/questions/78728576/polars-apply-function-to-check-if-a-row-value-is-a-substring-of-another-string) - 3 votes
-* [Convert string to dataframe after extracting using BeautifulSoup](https://stackoverflow.com/questions/78723998/convert-string-to-dataframe-after-extracting-using-beautifulsoup) - 2 votes
+* [Groupby multiple columns and extract top rows based on nongrouped column value](https://stackoverflow.com/questions/78732336/groupby-multiple-columns-and-extract-top-rows-based-on-non-grouped-column-value) - 3 votes
+* [How do I extract part of a string data from a specific column in pandas](https://stackoverflow.com/questions/78736814/how-do-i-extract-part-of-a-string-data-from-a-specific-column-in-pandas) - 2 votes
 * [How to add a time column that increments based on id column value in pandas](https://stackoverflow.com/questions/78729621/how-to-add-a-time-column-that-increments-based-on-id-column-value-in-pandas) - 2 votes
+* [Complicated triple sum in pandas dataframe](https://stackoverflow.com/questions/78728834/complicated-triple-sum-in-pandas-dataframe) - 1 votes
+* [Pandas multilevel PivotTranspose](https://stackoverflow.com/questions/78731847/pandas-multilevel-pivot-transpose) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
