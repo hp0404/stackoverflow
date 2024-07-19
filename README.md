@@ -1,35 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-07-17<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-07-19<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why is fully qualified syntax needed for default type arguments](https://stackoverflow.com/questions/78754884/why-is-fully-qualified-syntax-needed-for-default-type-arguments) - 2 votes
-* [How to get rustanalyzer to find definition of hashbrown from the standard library in VS Code](https://stackoverflow.com/questions/78754358/how-to-get-rust-analyzer-to-find-definition-of-hashbrown-from-the-standard-libra) - 1 votes
-* [can I use comparison operators overloaded from Rust PartialOrd and PartialEg in Polars in Rust programs](https://stackoverflow.com/questions/78753192/can-i-use-comparison-operators-overloaded-from-rust-partialord-and-partialeg-in) - 1 votes
-* [Handling non_exhaustive structs in Rust unit tests with MongoDB and Axum](https://stackoverflow.com/questions/78760352/handling-non-exhaustive-structs-in-rust-unit-tests-with-mongodb-and-axum) - 1 votes
-* [Compiling RaylibRust game to WASM](https://stackoverflow.com/questions/78756654/compiling-raylib-rust-game-to-wasm) - 1 votes
+* [How to upload BC7 mipmaps less than 4x4 for D2Array](https://stackoverflow.com/questions/78766559/how-to-upload-bc7-mipmaps-less-than-4x4-for-d2array) - 2 votes
+* [Why does using extern allow for runtime linking](https://stackoverflow.com/questions/78762309/why-does-using-extern-allow-for-runtime-linking) - 1 votes
+* [Side effects of constructing an explicitly unused object](https://stackoverflow.com/questions/78767556/side-effects-of-constructing-an-explicitly-unused-object) - 1 votes
+* [Clamp matrix cells in nalgebra](https://stackoverflow.com/questions/78766468/clamp-matrix-cells-in-nalgebra) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Is it correct to create a new instance of sqlalchemy engine for each request](https://stackoverflow.com/questions/78754819/is-it-correct-to-create-a-new-instance-of-sqlalchemy-engine-for-each-request) - 2 votes
+* [Why can39t my FastAPI Router parse Pydantic39s Enum type when I use Union params](https://stackoverflow.com/questions/78767465/why-cant-my-fastapi-router-parse-pydantics-enum-type-when-i-use-union-params) - 1 votes
+* [How can I read the response body in a FastAPI middleware without making my endpoint wait for its background tasks to finish](https://stackoverflow.com/questions/78764579/how-can-i-read-the-response-body-in-a-fastapi-middleware-without-making-my-endpo) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas new column based on other dataframe with matching condition](https://stackoverflow.com/questions/78755222/pandas-new-column-based-on-other-dataframe-with-matching-condition) - 1 votes
-* [How to concatenate three dataframes with the same indexes and columns in Pandas](https://stackoverflow.com/questions/78758463/how-to-concatenate-three-dataframes-with-the-same-indexes-and-columns-in-pandas) - 1 votes
-* [Unpack values from column which consist of list of dictionaries](https://stackoverflow.com/questions/78761470/unpack-values-from-column-which-consist-of-list-of-dictionaries) - 1 votes
-* [Pandas Convert Headers to DOW and Count](https://stackoverflow.com/questions/78759866/pandas-convert-headers-to-dow-and-count) - 1 votes
-* [Dropping rows of a dataframe where selected columns has na values](https://stackoverflow.com/questions/78759751/dropping-rows-of-a-dataframe-where-selected-columns-has-na-values) - 1 votes
+* [Resample ohlc pandas](https://stackoverflow.com/questions/78768197/resample-ohlc-pandas) - 3 votes
+* [How do I get variable length slices of values using Pandas](https://stackoverflow.com/questions/78770796/how-do-i-get-variable-length-slices-of-values-using-pandas) - 3 votes
+* [How do I merge multiple dataframes and sum common values into column](https://stackoverflow.com/questions/78764991/how-do-i-merge-multiple-dataframes-and-sum-common-values-into-column) - 2 votes
+* [number every first unique piece in each group](https://stackoverflow.com/questions/78766657/number-every-first-unique-piece-in-each-group) - 2 votes
+* [Reshape issue on a pandas dataframe which was converted from polars](https://stackoverflow.com/questions/78765916/reshape-issue-on-a-pandas-dataframe-which-was-converted-from-polars) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
