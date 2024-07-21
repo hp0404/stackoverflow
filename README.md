@@ -1,13 +1,14 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-07-20<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-07-21<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Side effects of constructing an explicitly unused object](https://stackoverflow.com/questions/78767556/side-effects-of-constructing-an-explicitly-unused-object) - 1 votes
+* [Parse every kelement subset of an nelement vector](https://stackoverflow.com/questions/78774029/parse-every-k-element-subset-of-an-n-element-vector) - 1 votes
+* [Neo4rs rust panic when executing query with large result set](https://stackoverflow.com/questions/78776053/neo4rs-rust-panic-when-executing-query-with-large-result-set) - 1 votes
 * [How can I enter decimal numbers in a TextEdit field](https://stackoverflow.com/questions/78773390/how-can-i-enter-decimal-numbers-in-a-textedit-field) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -15,18 +16,18 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### fastapi
 <!-- fastapi starts -->
-* [Why can39t my FastAPI Router parse Pydantic39s Enum type when I use Union params](https://stackoverflow.com/questions/78767465/why-cant-my-fastapi-router-parse-pydantics-enum-type-when-i-use-union-params) - 1 votes
+* [How to link existing Azure function to static web app using Terraform and FastAPI](https://stackoverflow.com/questions/78775938/how-to-link-existing-azure-function-to-static-web-app-using-terraform-and-fastap) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Resample ohlc pandas](https://stackoverflow.com/questions/78768197/resample-ohlc-pandas) - 4 votes
-* [How do I get variable length slices of values using Pandas](https://stackoverflow.com/questions/78770796/how-do-i-get-variable-length-slices-of-values-using-pandas) - 3 votes
+* [How to plot a line on the second axis over a HORIZONTAL not VERTICAL bar chart with Matplotlib](https://stackoverflow.com/questions/78775206/how-to-plot-a-line-on-the-second-axis-over-a-horizontal-not-vertical-bar-chart) - 2 votes
 * [Read Met Office Data Point JSON into Panda](https://stackoverflow.com/questions/78772540/read-met-office-data-point-json-into-panda) - 2 votes
-* [How to compare rows within the same csv file faster](https://stackoverflow.com/questions/78770763/how-to-compare-rows-within-the-same-csv-file-faster) - 2 votes
-* [Map Dataframe Column Values Based on Two Dictionaries Conditionally](https://stackoverflow.com/questions/78770947/map-dataframe-column-values-based-on-two-dictionaries-conditionally) - 1 votes
+* [dataframe filter groupby based on a subset](https://stackoverflow.com/questions/78775408/dataframe-filter-groupby-based-on-a-subset) - 1 votes
+* [Identify starting row of actual data in Pandas DataFrame with merged header cells](https://stackoverflow.com/questions/78772541/identify-starting-row-of-actual-data-in-pandas-dataframe-with-merged-header-cell) - 1 votes
+* [pdto_datetime not working for old dates](https://stackoverflow.com/questions/78776334/pd-to-datetime-not-working-for-old-dates) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
