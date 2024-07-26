@@ -1,15 +1,16 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-07-25<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-07-26<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Read a slice of bytes ampu8 bit by bit](https://stackoverflow.com/questions/78792463/read-a-slice-of-bytes-u8-bit-by-bit) - 2 votes
+* [How to add tracesspans to async function](https://stackoverflow.com/questions/78798754/how-to-add-traces-spans-to-async-function) - 3 votes
 * [Is AcqRel necessary in the atomic readmodifywrite operation to avoid data race in a lockfree multiproducer single consumer queue](https://stackoverflow.com/questions/78792081/is-acqrel-necessary-in-the-atomic-read-modify-write-operation-to-avoid-data-ra) - 2 votes
-* [Avoiding dependencies when using Rust traits](https://stackoverflow.com/questions/78787611/avoiding-dependencies-when-using-rust-traits) - 1 votes
+* [Read a slice of bytes ampu8 bit by bit](https://stackoverflow.com/questions/78792463/read-a-slice-of-bytes-u8-bit-by-bit) - 2 votes
+* [Why Rust thinks that value is borrowed as mutable twice](https://stackoverflow.com/questions/78798162/why-rust-thinks-that-value-is-borrowed-as-mutable-twice) - 1 votes
 * [Learning to write an HTTP 11 server why does my server pause amp surge with a high number of requests](https://stackoverflow.com/questions/78791965/learning-to-write-an-http-1-1-server-why-does-my-server-pause-surge-with-a-hi) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -24,11 +25,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### pandas
 <!-- pandas starts -->
-* [How to plot justify bar labels to the right side and add a title to the bar labels in Python39s matplotlib](https://stackoverflow.com/questions/78786324/how-to-plot-justify-bar-labels-to-the-right-side-and-add-a-title-to-the-bar-labe) - 3 votes
+* [How do I categorize projects in a dataframe according to its title](https://stackoverflow.com/questions/78798650/how-do-i-categorize-projects-in-a-dataframe-according-to-its-title) - 4 votes
+* [Python Pandas difference in boolean indexing between   and ](https://stackoverflow.com/questions/78797421/python-pandas-difference-in-boolean-indexing-between-and) - 3 votes
+* [How to filter Pandas Dataframe to integer values](https://stackoverflow.com/questions/78799154/how-to-filter-pandas-dataframe-to-integer-values) - 3 votes
 * [How to compare lists in two Pandas dataframes to get the common elements](https://stackoverflow.com/questions/78793287/how-to-compare-lists-in-two-pandas-dataframes-to-get-the-common-elements) - 2 votes
 * [How to convert timedelta to integer in pandas dataframe](https://stackoverflow.com/questions/78791962/how-to-convert-timedelta-to-integer-in-pandas-dataframe) - 2 votes
-* [how do you sort column names in Date in descending order in pandas](https://stackoverflow.com/questions/78789944/how-do-you-sort-column-names-in-date-in-descending-order-in-pandas) - 2 votes
-* [Pandas dataframe groupby apply function with variable number of arguments](https://stackoverflow.com/questions/78790207/pandas-dataframe-groupby-apply-function-with-variable-number-of-arguments) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
