@@ -1,29 +1,35 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-07-28<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-07-29<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [What39s the polite way for my library to return types from another crate](https://stackoverflow.com/questions/78802663/whats-the-polite-way-for-my-library-to-return-types-from-another-crate) - 2 votes
+* [optimize indexing while inside of a loop](https://stackoverflow.com/questions/78804812/optimize-indexing-while-inside-of-a-loop) - 2 votes
+* [How do add a conditional key to an attribute based on a Cargo feature](https://stackoverflow.com/questions/78804003/how-do-add-a-conditional-key-to-an-attribute-based-on-a-cargo-feature) - 1 votes
+* [How To Find Missing Dependency in Cargotoml for Rust Example](https://stackoverflow.com/questions/78805243/how-to-find-missing-dependency-in-cargo-toml-for-rust-example) - 1 votes
+* [Extracting executable39s icon in rust](https://stackoverflow.com/questions/78803192/extracting-executables-icon-in-rust) - 1 votes
+* [How do I parse the escape characters of the content of a string literal input with nom](https://stackoverflow.com/questions/78807349/how-do-i-parse-the-escape-characters-of-the-content-of-a-string-literal-input-wi) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Problem with Heroku deployment  H10 error code](https://stackoverflow.com/questions/78801820/problem-with-heroku-deployment-h10-error-code) - 1 votes
+* [How is it best to implement is_active in FastAPI  JWT authentication](https://stackoverflow.com/questions/78802976/how-is-it-best-to-implement-is-active-in-fastapi-jwt-authentication) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How to filter pandas dataframe for strings that contain all substrings in a given list](https://stackoverflow.com/questions/78802365/how-to-filter-pandas-dataframe-for-strings-that-contain-all-substrings-in-a-give) - 2 votes
-* [Why is PyCharm asking for old version of Pandas and how can I make it stop](https://stackoverflow.com/questions/78801520/why-is-pycharm-asking-for-old-version-of-pandas-and-how-can-i-make-it-stop) - 2 votes
-* [How to distinguish between quotquot Empty String and quotmissing entryquot values in CSV file with python](https://stackoverflow.com/questions/78801381/how-to-distinguish-between-empty-string-and-missing-entry-values-in-csv-f) - 1 votes
+* [Pandas merge without copying the data](https://stackoverflow.com/questions/78807256/pandas-merge-without-copying-the-data) - 2 votes
+* [How extract regex with variable from string in pandas](https://stackoverflow.com/questions/78805127/how-extract-regex-with-variable-from-string-in-pandas) - 2 votes
+* [Join same name dataframe column values into list](https://stackoverflow.com/questions/78806818/join-same-name-dataframe-column-values-into-list) - 2 votes
+* [How to style groups of rows differently based on a column39s value with Pandas Styler](https://stackoverflow.com/questions/78808445/how-to-style-groups-of-rows-differently-based-on-a-columns-value-with-pandas-st) - 1 votes
+* [pandas read_sql resulting in Value error quotyear 10100 is out of rangequot caused by corrupted dates in database](https://stackoverflow.com/questions/78808903/pandas-read-sql-resulting-in-value-error-year-10100-is-out-of-range-caused-b) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
