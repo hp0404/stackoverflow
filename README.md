@@ -1,14 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-07-31<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-08-01<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [reading a TOML file with serde  camelCase vs snake_case](https://stackoverflow.com/questions/78818330/reading-a-toml-file-with-serde-camelcase-vs-snake-case) - 1 votes
-* [Using common part of supertrait and subtrait in struct](https://stackoverflow.com/questions/78810540/using-common-part-of-supertrait-and-subtrait-in-struct) - 1 votes
+* [reading a TOML file with serde  camelCase vs snake_case](https://stackoverflow.com/questions/78818330/reading-a-toml-file-with-serde-camelcase-vs-snake-case) - 2 votes
+* [How can I have a widgetOverlay contain multiple elements in iced](https://stackoverflow.com/questions/78821812/how-can-i-have-a-widgetoverlay-contain-multiple-elements-in-iced) - 2 votes
+* [Different behaviour for same match and if let blocks](https://stackoverflow.com/questions/78819292/different-behaviour-for-same-match-and-if-let-blocks) - 2 votes
+* [How to properly instrument Boxltdyn Futureltgtgt](https://stackoverflow.com/questions/78822475/how-to-properly-instrument-boxdyn-future) - 1 votes
+* [Default initialization of tree_sitterNode](https://stackoverflow.com/questions/78819072/default-initialization-of-tree-sitternode) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -16,21 +19,21 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### fastapi
 <!-- fastapi starts -->
 * [Why dartconvert  jsonencoder turns everything into a string](https://stackoverflow.com/questions/78816624/why-dartconvert-json-encoder-turns-everything-into-a-string) - 3 votes
+* [How to Control Recursion Depth in Pydantics model_dump Serialization](https://stackoverflow.com/questions/78817297/how-to-control-recursion-depth-in-pydantic-s-model-dump-serialization) - 2 votes
 * [How to add priority task to celery queue without fetching disabling](https://stackoverflow.com/questions/78815656/how-to-add-priority-task-to-celery-queue-without-fetching-disabling) - 2 votes
-* [Error running Docker with FastAPI Problem finding the main module](https://stackoverflow.com/questions/78812942/error-running-docker-with-fastapi-problem-finding-the-main-module) - 2 votes
-* [How to Control Recursion Depth in Pydantics model_dump Serialization](https://stackoverflow.com/questions/78817297/how-to-control-recursion-depth-in-pydantic-s-model-dump-serialization) - 1 votes
-* [Nginx failednetERR_HTTP2_PROTOCOL_ERROR with file upload](https://stackoverflow.com/questions/78816905/nginx-failedneterr-http2-protocol-error-with-file-upload) - 1 votes
+* [Stripe Webhook timeout on localhost with FastAPI](https://stackoverflow.com/questions/78819839/stripe-webhook-timeout-on-localhost-with-fastapi) - 1 votes
+* [Is there any issue with aioboto3 library in python](https://stackoverflow.com/questions/78817755/is-there-any-issue-with-aioboto3-library-in-python) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Split strings in a Series convert to array and average the values](https://stackoverflow.com/questions/78812183/split-strings-in-a-series-convert-to-array-and-average-the-values) - 3 votes
-* [Pandas dataframe to yaml preserving hierarchy](https://stackoverflow.com/questions/78810473/pandas-dataframe-to-yaml-preserving-hierarchy) - 2 votes
-* [How to delete row with maxmin values](https://stackoverflow.com/questions/78816988/how-to-delete-row-with-max-min-values) - 1 votes
-* [Merge asof missing values](https://stackoverflow.com/questions/78811028/merge-asof-missing-values) - 1 votes
-* [Count the number of identical values in a DataFrame Python](https://stackoverflow.com/questions/78816122/count-the-number-of-identical-values-in-a-dataframe-python) - 1 votes
+* [quotClose Enoughquot Matching of Rows from Two Pandas Data Frames Comparing Multiple Columns](https://stackoverflow.com/questions/78822426/close-enough-matching-of-rows-from-two-pandas-data-frames-comparing-multiple-c) - 4 votes
+* [How to delete row with maxmin values](https://stackoverflow.com/questions/78816988/how-to-delete-row-with-max-min-values) - 3 votes
+* [How can I link the records in the training dataset to the corresponding model predictions](https://stackoverflow.com/questions/78816181/how-can-i-link-the-records-in-the-training-dataset-to-the-corresponding-model-pr) - 3 votes
+* [How can I find the maximum value of a dynamic window and the minimum value below it](https://stackoverflow.com/questions/78820057/how-can-i-find-the-maximum-value-of-a-dynamic-window-and-the-minimum-value-below) - 2 votes
+* [Get a single row in a tupleindexed DataFrame](https://stackoverflow.com/questions/78818244/get-a-single-row-in-a-tuple-indexed-dataframe) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
