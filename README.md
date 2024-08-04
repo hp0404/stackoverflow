@@ -1,20 +1,20 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-08-03<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-08-04<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why does StdinLockStdoutLock need a lifetime annotation](https://stackoverflow.com/questions/78826915/why-does-stdinlock-stdoutlock-need-a-lifetime-annotation) - 2 votes
+* [RP2040 reconciling ownership and glitchy hardware](https://stackoverflow.com/questions/78829487/rp2040-reconciling-ownership-and-glitchy-hardware) - 2 votes
+* [seaorm for Postgres generating cast syntax for enum value and it doesn39t work](https://stackoverflow.com/questions/78828162/sea-orm-for-postgres-generating-cast-syntax-for-enum-value-and-it-doesnt-work) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [A FastAPI project with asyncpg has dependencies from psycopg2 which causes the error ModuleNotFoundError No module named 39psycopg239](https://stackoverflow.com/questions/78824613/a-fastapi-project-with-asyncpg-has-dependencies-from-psycopg2-which-causes-the) - 1 votes
 * [Cannot dump SQLModel entity](https://stackoverflow.com/questions/78829306/cannot-dump-sqlmodel-entity) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
@@ -22,11 +22,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### pandas
 <!-- pandas starts -->
-* [What is the best way to return the group that has the largest streak of negative numbers in a column](https://stackoverflow.com/questions/78824644/what-is-the-best-way-to-return-the-group-that-has-the-largest-streak-of-negative) - 3 votes
+* [ValueError while saving a dataframe](https://stackoverflow.com/questions/78828636/valueerror-while-saving-a-dataframe) - 3 votes
 * [How can I get the group that has the largest streak of negative numbers in a column and add another condition to filter the groups](https://stackoverflow.com/questions/78828009/how-can-i-get-the-group-that-has-the-largest-streak-of-negative-numbers-in-a-col) - 2 votes
-* [How to make a barplot with a double grouped axis using Pandas](https://stackoverflow.com/questions/78826115/how-to-make-a-barplot-with-a-double-grouped-axis-using-pandas) - 2 votes
-* [Pandas resample dataframe based on one column but selecting corresponding row from other columns](https://stackoverflow.com/questions/78825437/pandas-resample-dataframe-based-on-one-column-but-selecting-corresponding-row-fr) - 2 votes
-* [I am getting Memory Error on Merging Data Frames](https://stackoverflow.com/questions/78824556/i-am-getting-memory-error-on-merging-data-frames) - 1 votes
+* [In a pandas dataframe for a given column How to multiple a value in same row of df with another value in previous row of its own column](https://stackoverflow.com/questions/78830955/in-a-pandas-dataframe-for-a-given-column-how-to-multiple-a-value-in-same-row-o) - 1 votes
+* [Shortest intervals that contain X rows](https://stackoverflow.com/questions/78829382/shortest-intervals-that-contain-x-rows) - 1 votes
+* [Map function without passing it a function](https://stackoverflow.com/questions/78828399/map-function-without-passing-it-a-function) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
