@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-08-05<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-08-06<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,27 +8,30 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### rust
 <!-- rust starts -->
 * [How to use string slices in Rust targeting WebAssembly](https://stackoverflow.com/questions/78833480/how-to-use-string-slices-in-rust-targeting-webassembly) - 3 votes
+* [Why is  expected here](https://stackoverflow.com/questions/78836328/why-is-expected-here) - 3 votes
 * [How to send command to a program run with bash in rust](https://stackoverflow.com/questions/78834641/how-to-send-command-to-a-program-run-with-bash-in-rust) - 2 votes
 * [Implementing a trait where the order of generics matter](https://stackoverflow.com/questions/78833525/implementing-a-trait-where-the-order-of-generics-matter) - 2 votes
-* [Does deriving copy for large structs have any effect on performance](https://stackoverflow.com/questions/78832229/does-deriving-copy-for-large-structs-have-any-effect-on-performance) - 2 votes
+* [How to deserialize a JSON encoded DateTime with a specified Timezone in Rust with serde](https://stackoverflow.com/questions/78838933/how-to-deserialize-a-json-encoded-datetime-with-a-specified-timezone-in-rust-wit) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Python requests POST request hangs when used with websockets library](https://stackoverflow.com/questions/78830030/python-requests-post-request-hangs-when-used-with-websockets-library) - 2 votes
+* [Path parameter type in Python39s FastAPI](https://stackoverflow.com/questions/78836482/path-parameter-type-in-pythons-fastapi) - 3 votes
+* [Upload file along with JSON body](https://stackoverflow.com/questions/78838247/upload-file-along-with-json-body) - 2 votes
+* [request BETWEEN in fastapi orm](https://stackoverflow.com/questions/78840470/request-between-in-fastapi-orm) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Read XML Into Pandas DataFrame](https://stackoverflow.com/questions/78835617/read-xml-into-pandas-dataframe) - 3 votes
+* [Read XML Into Pandas DataFrame](https://stackoverflow.com/questions/78835617/read-xml-into-pandas-dataframe) - 4 votes
+* [set the value of Column B based on the value in the column name that corresponds to Column A value](https://stackoverflow.com/questions/78837002/set-the-value-of-column-b-based-on-the-value-in-the-column-name-that-corresponds) - 3 votes
 * [Replace an empty value with nan in dataframe](https://stackoverflow.com/questions/78834627/replace-an-empty-value-with-nan-in-dataframe) - 2 votes
-* [What tool should I use to create new column in dataframe based on multiple condition](https://stackoverflow.com/questions/78834792/what-tool-should-i-use-to-create-new-column-in-dataframe-based-on-multiple-condi) - 1 votes
-* [In a pandas dataframe for a given column How to multiple a value in same row of df with another value in previous row of its own column](https://stackoverflow.com/questions/78830955/in-a-pandas-dataframe-for-a-given-column-how-to-multiple-a-value-in-same-row-o) - 1 votes
-* [Pandas group and sort entire dataframe basing on the value of two columns preserving withingroup order](https://stackoverflow.com/questions/78833640/pandas-group-and-sort-entire-dataframe-basing-on-the-value-of-two-columns-pres) - 1 votes
+* [How do I get all sheet names in an Excel file using Polars](https://stackoverflow.com/questions/78838584/how-do-i-get-all-sheet-names-in-an-excel-file-using-polars) - 2 votes
+* [Flag Dataframe Rows Based on Multicolumn Match from Another Dataframe](https://stackoverflow.com/questions/78836430/flag-dataframe-rows-based-on-multicolumn-match-from-another-dataframe) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
