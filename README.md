@@ -1,16 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-08-11<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-08-12<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why some of compiler errors don39t have error codes](https://stackoverflow.com/questions/78856172/why-some-of-compiler-errors-dont-have-error-codes) - 4 votes
-* [Why does Rust users crate return quotrootquot in list of groups for user](https://stackoverflow.com/questions/78856399/why-does-rust-users-crate-return-root-in-list-of-groups-for-user) - 2 votes
-* [Cannot return closure from function](https://stackoverflow.com/questions/78857196/cannot-return-closure-from-function) - 1 votes
-* [How can I restore the cpu status restoring the cpu registers x86_64](https://stackoverflow.com/questions/78856665/how-can-i-restore-the-cpu-status-restoring-the-cpu-registers-x86-64) - 1 votes
+* [Rust  Sequoia OpenPGP with Botan backend  wasmbindgen fails](https://stackoverflow.com/questions/78862123/rust-sequoia-openpgp-with-botan-backend-wasm-bindgen-fails) - 3 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -24,8 +21,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### pandas
 <!-- pandas starts -->
-* [Filter strings with high proportion of lowercase letters](https://stackoverflow.com/questions/78857605/filter-strings-with-high-proportion-of-lowercase-letters) - 1 votes
-* [transform an exploded data frame into a deeply nested dictionary with headers](https://stackoverflow.com/questions/78855983/transform-an-exploded-data-frame-into-a-deeply-nested-dictionary-with-headers) - 1 votes
+* [Dataframe multi columns condition with groupby](https://stackoverflow.com/questions/78863088/dataframe-multi-columns-condition-with-groupby) - 2 votes
+* [Can39t convert it to excel from dataframe due to not enough space but i have space on my disk](https://stackoverflow.com/questions/78861122/cant-convert-it-to-excel-from-dataframe-due-to-not-enough-space-but-i-have-spa) - 2 votes
+* [Force PyArrow table write to ignore NULL type and use original schema type for a column](https://stackoverflow.com/questions/78863540/force-pyarrow-table-write-to-ignore-null-type-and-use-original-schema-type-for-a) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
