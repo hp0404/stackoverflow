@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-08-12<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-08-13<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -21,9 +21,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### pandas
 <!-- pandas starts -->
+* [Applying function that takes a list as input and a list as output to a pandas dataframe](https://stackoverflow.com/questions/78867241/applying-function-that-takes-a-list-as-input-and-a-list-as-output-to-a-pandas-da) - 2 votes
 * [Dataframe multi columns condition with groupby](https://stackoverflow.com/questions/78863088/dataframe-multi-columns-condition-with-groupby) - 2 votes
+* [Force PyArrow table write to ignore NULL type and use original schema type for a column](https://stackoverflow.com/questions/78863540/force-pyarrow-table-write-to-ignore-null-type-and-use-original-schema-type-for-a) - 2 votes
 * [Can39t convert it to excel from dataframe due to not enough space but i have space on my disk](https://stackoverflow.com/questions/78861122/cant-convert-it-to-excel-from-dataframe-due-to-not-enough-space-but-i-have-spa) - 2 votes
-* [Force PyArrow table write to ignore NULL type and use original schema type for a column](https://stackoverflow.com/questions/78863540/force-pyarrow-table-write-to-ignore-null-type-and-use-original-schema-type-for-a) - 1 votes
+* [How can I have annotation bboxes above all lines when using multiple axes](https://stackoverflow.com/questions/78864724/how-can-i-have-annotation-bboxes-above-all-lines-when-using-multiple-axes) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
