@@ -1,20 +1,23 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-08-13<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-08-14<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Rust  Sequoia OpenPGP with Botan backend  wasmbindgen fails](https://stackoverflow.com/questions/78862123/rust-sequoia-openpgp-with-botan-backend-wasm-bindgen-fails) - 3 votes
+* [Is there a way to define a generic type generically](https://stackoverflow.com/questions/78872914/is-there-a-way-to-define-a-generic-type-generically) - 3 votes
+* [What does the address of a function item represent in rustlldb](https://stackoverflow.com/questions/78865217/what-does-the-address-of-a-function-item-represent-in-rust-lldb) - 1 votes
+* [Skip struct field when deriving Debug](https://stackoverflow.com/questions/78870773/skip-struct-field-when-deriving-debug) - 1 votes
+* [How to add aftererroring logic on  and returning Result](https://stackoverflow.com/questions/78872716/how-to-add-after-erroring-logic-on-and-returning-result) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [Problem with using NewType for parameters validation with Fast API](https://stackoverflow.com/questions/78872512/problem-with-using-newtype-for-parameters-validation-with-fast-api) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -22,10 +25,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### pandas
 <!-- pandas starts -->
 * [Applying function that takes a list as input and a list as output to a pandas dataframe](https://stackoverflow.com/questions/78867241/applying-function-that-takes-a-list-as-input-and-a-list-as-output-to-a-pandas-da) - 2 votes
-* [Dataframe multi columns condition with groupby](https://stackoverflow.com/questions/78863088/dataframe-multi-columns-condition-with-groupby) - 2 votes
-* [Force PyArrow table write to ignore NULL type and use original schema type for a column](https://stackoverflow.com/questions/78863540/force-pyarrow-table-write-to-ignore-null-type-and-use-original-schema-type-for-a) - 2 votes
-* [Can39t convert it to excel from dataframe due to not enough space but i have space on my disk](https://stackoverflow.com/questions/78861122/cant-convert-it-to-excel-from-dataframe-due-to-not-enough-space-but-i-have-spa) - 2 votes
-* [How can I have annotation bboxes above all lines when using multiple axes](https://stackoverflow.com/questions/78864724/how-can-i-have-annotation-bboxes-above-all-lines-when-using-multiple-axes) - 1 votes
+* [Selecting rows in pandas dataframe that contain same id and were created within 1 minute](https://stackoverflow.com/questions/78869438/selecting-rows-in-pandas-dataframe-that-contain-same-id-and-were-created-within) - 1 votes
+* [How to read a csv into pandas with missing columns in the header](https://stackoverflow.com/questions/78870514/how-to-read-a-csv-into-pandas-with-missing-columns-in-the-header) - 1 votes
+* [Get boolean expression from hierarchical Pandas DataFrame](https://stackoverflow.com/questions/78869587/get-boolean-expression-from-hierarchical-pandas-dataframe) - 1 votes
+* [Compare Two Different DFs](https://stackoverflow.com/questions/78869164/compare-two-different-dfs) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
