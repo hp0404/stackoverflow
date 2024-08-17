@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-08-16<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-08-17<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -9,9 +9,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 <!-- rust starts -->
 * [How to construct Send objects on another thread](https://stackoverflow.com/questions/78879864/how-to-construct-send-objects-on-another-thread) - 2 votes
 * [How to Trigger Specific Error for Enum Deserialization Failure in Axum with Serde](https://stackoverflow.com/questions/78878770/how-to-trigger-specific-error-for-enum-deserialization-failure-in-axum-with-serd) - 2 votes
+* [Is using a function to manipulate a CellltTgt a code smell in Rust](https://stackoverflow.com/questions/78882771/is-using-a-function-to-manipulate-a-cellt-a-code-smell-in-rust) - 1 votes
 * [Using CC enumeration from h in Rust](https://stackoverflow.com/questions/78880127/using-c-c-enumeration-from-h-in-rust) - 1 votes
-* [Trait bound not satisfied for MaybeTlsStreamltTcpStreamgt in tokiotungstenite](https://stackoverflow.com/questions/78876577/trait-bound-not-satisfied-for-maybetlsstreamtcpstream-in-tokio-tungstenite) - 1 votes
-* [How to wrap a PyDict in PyO3 with a constructor that takes a new parameter](https://stackoverflow.com/questions/78873598/how-to-wrap-a-pydict-in-pyo3-with-a-constructor-that-takes-a-new-parameter) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -25,11 +24,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### pandas
 <!-- pandas starts -->
-* [lists from a column in dataframe](https://stackoverflow.com/questions/78875434/lists-from-a-column-in-dataframe) - 4 votes
-* [split dataframe by multiple lists loop](https://stackoverflow.com/questions/78876875/split-dataframe-by-multiple-lists-loop) - 1 votes
-* [How to merge dictionary of dataframes and make key values a column in merged dataframe](https://stackoverflow.com/questions/78875128/how-to-merge-dictionary-of-dataframes-and-make-key-values-a-column-in-merged-dat) - 1 votes
-* [Polars gives exception for empty json but Pandas works](https://stackoverflow.com/questions/78880609/polars-gives-exception-for-empty-json-but-pandas-works) - 1 votes
-* [remove NANs and create value field as a row](https://stackoverflow.com/questions/78877725/remove-nans-and-create-value-field-as-a-row) - 1 votes
+* [Plotting a timeseries as bar plot with pandas results in an incorrect year](https://stackoverflow.com/questions/78882352/plotting-a-timeseries-as-bar-plot-with-pandas-results-in-an-incorrect-year) - 3 votes
+* [New rows in Pandas Dataframe by considering combination of rows in the original dataframe and applying function to it](https://stackoverflow.com/questions/78882469/new-rows-in-pandas-dataframe-by-considering-combination-of-rows-in-the-original) - 2 votes
+* [weighted sum on multiple dataframes](https://stackoverflow.com/questions/78880945/weighted-sum-on-multiple-dataframes) - 2 votes
+* [Polars gives exception for empty json but Pandas works](https://stackoverflow.com/questions/78880609/polars-gives-exception-for-empty-json-but-pandas-works) - 2 votes
+* [Pandas create complex rolling calculation in groupby](https://stackoverflow.com/questions/78880786/pandas-create-complex-rolling-calculation-in-groupby) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
