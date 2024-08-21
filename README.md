@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-08-20<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-08-21<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -9,9 +9,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 <!-- rust starts -->
 * [Create type with same layout and niches but no Drop impl](https://stackoverflow.com/questions/78891865/create-type-with-same-layout-and-niches-but-no-drop-impl) - 3 votes
 * [Why do I get ParseIntError  kind InvalidDigit  when parsing what seems to be a valid integer string](https://stackoverflow.com/questions/78890172/why-do-i-get-parseinterror-kind-invaliddigit-when-parsing-what-seems-to-b) - 2 votes
+* [Rust ioctl analog to ioctlfd UI_SET_EVBIT EV_KEY](https://stackoverflow.com/questions/78892583/rust-ioctl-analog-to-ioctlfd-ui-set-evbit-ev-key) - 2 votes
+* [Does a mutable reference means an ownership loss in Rust](https://stackoverflow.com/questions/78896307/does-a-mutable-reference-means-an-ownership-loss-in-rust) - 1 votes
 * [Why do we need to tell compiler the lifetime when it can detect problematic lifetime on its own](https://stackoverflow.com/questions/78892516/why-do-we-need-to-tell-compiler-the-lifetime-when-it-can-detect-problematic-life) - 1 votes
-* [Rust ioctl analog to ioctlfd UI_SET_EVBIT EV_KEY](https://stackoverflow.com/questions/78892583/rust-ioctl-analog-to-ioctlfd-ui-set-evbit-ev-key) - 1 votes
-* [why does tokiospawn require a Send bound for local variables](https://stackoverflow.com/questions/78888203/why-does-tokiospawn-require-a-send-bound-for-local-variables) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -26,10 +26,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 ### pandas
 <!-- pandas starts -->
 * [Pandas string replace with regex argument for nonregex replacements](https://stackoverflow.com/questions/78891481/pandas-string-replace-with-regex-argument-for-non-regex-replacements) - 3 votes
+* [How to use apply on DataFrame using a custom function](https://stackoverflow.com/questions/78895383/how-to-use-apply-on-dataframe-using-a-custom-function) - 3 votes
 * [Merging the two quotreplacequot methods](https://stackoverflow.com/questions/78890348/merging-the-two-replace-methods) - 2 votes
-* [Comparing Multiple Values Across Columns of Pandas Dataframe Based on Column Names](https://stackoverflow.com/questions/78888819/comparing-multiple-values-across-columns-of-pandas-dataframe-based-on-column-nam) - 2 votes
-* [How can Pandas loc take three arguments](https://stackoverflow.com/questions/78886152/how-can-pandas-loc-take-three-arguments) - 2 votes
-* [Preserving subclass type during pandas groupby aggregate for subclassed DataFrame](https://stackoverflow.com/questions/78889486/preserving-subclass-type-during-pandas-groupby-aggregate-for-subclassed-datafram) - 2 votes
+* [Spurious zero printed in seaborn barplot while plotting pandas dataframe](https://stackoverflow.com/questions/78896486/spurious-zero-printed-in-seaborn-barplot-while-plotting-pandas-dataframe) - 2 votes
+* [Polars Dataframe via Django Query](https://stackoverflow.com/questions/78894954/polars-dataframe-via-django-query) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
