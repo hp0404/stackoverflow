@@ -1,32 +1,34 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-08-28<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-08-29<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Most elegant way to 39write39 to slice without stdlib possibly on microcontrollers](https://stackoverflow.com/questions/78929168/most-elegant-way-to-write-to-slice-without-stdlib-possibly-on-microcontroller) - 2 votes
 * [Implement BitOr trait for quotgroup of typesquot](https://stackoverflow.com/questions/78922712/implement-bitor-trait-for-group-of-types) - 1 votes
+* [How to avoid duplicate code when I impl a trait for many structs in rust](https://stackoverflow.com/questions/78926546/how-to-avoid-duplicate-code-when-i-impl-a-trait-for-many-structs-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Unable to run Uvicorn serverFastAPI app through Docker](https://stackoverflow.com/questions/78919689/unable-to-run-uvicorn-server-fastapi-app-through-docker) - 2 votes
-* [Is there a best practice for defining optional fields in Pydantic models](https://stackoverflow.com/questions/78920271/is-there-a-best-practice-for-defining-optional-fields-in-pydantic-models) - 1 votes
+* [Keep a variable between two threads in python](https://stackoverflow.com/questions/78929244/keep-a-variable-between-two-threads-in-python) - 1 votes
+* [How to use the same class instance across multiple FastAPI endpoints and asynchronous tasks](https://stackoverflow.com/questions/78928676/how-to-use-the-same-class-instance-across-multiple-fastapi-endpoints-and-asynchr) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [Pandas Unpack List of Dicts to Columns](https://stackoverflow.com/questions/78925432/pandas-unpack-list-of-dicts-to-columns) - 5 votes
 * [Filter a pandas row if it is significantly larger than neighbours given that it starts with specific character](https://stackoverflow.com/questions/78923520/filter-a-pandas-row-if-it-is-significantly-larger-than-neighbours-given-that-it) - 3 votes
-* [How to Skip over Consecutive Delimeters in Preprocessing Data](https://stackoverflow.com/questions/78920280/how-to-skip-over-consecutive-delimeters-in-preprocessing-data) - 2 votes
-* [How to swap values between two columns based on conditions in Python](https://stackoverflow.com/questions/78925095/how-to-swap-values-between-two-columns-based-on-conditions-in-python) - 2 votes
-* [How to form groups based on the length of a column and total of another](https://stackoverflow.com/questions/78917241/how-to-form-groups-based-on-the-length-of-a-column-and-total-of-another) - 1 votes
-* [Adding values of one column in duplicate rows of dataframe in python](https://stackoverflow.com/questions/78924932/adding-values-of-one-column-in-duplicate-rows-of-dataframe-in-python) - 1 votes
+* [Find rows where pandas dataframe column which is a paragraph or list contains any value in another list](https://stackoverflow.com/questions/78925465/find-rows-where-pandas-dataframe-column-which-is-a-paragraph-or-list-contains) - 3 votes
+* [How to swap values between two columns based on conditions in Python](https://stackoverflow.com/questions/78925095/how-to-swap-values-between-two-columns-based-on-conditions-in-python) - 3 votes
+* [Hiding facet row axis in Altair chart](https://stackoverflow.com/questions/78927980/hiding-facet-row-axis-in-altair-chart) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
