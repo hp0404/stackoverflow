@@ -1,14 +1,14 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-08-31<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-09-01<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to quotmarkquot a functionlike trait to be optionally executed in parallel](https://stackoverflow.com/questions/78930929/how-to-mark-a-function-like-trait-to-be-optionally-executed-in-parallel) - 2 votes
 * [Implementation of Send is not general enough](https://stackoverflow.com/questions/78935314/implementation-of-send-is-not-general-enough) - 1 votes
+* [borrowed data escapes outside of closure reassigning buffer to slice of itself in closure](https://stackoverflow.com/questions/78937584/borrowed-data-escapes-outside-of-closure-reassigning-buffer-to-slice-of-itself) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -22,10 +22,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### pandas
 <!-- pandas starts -->
+* [How can I assign a new column that is equal to the mean of the rows of another dataframe which fall in a range](https://stackoverflow.com/questions/78937094/how-can-i-assign-a-new-column-that-is-equal-to-the-mean-of-the-rows-of-another-d) - 1 votes
 * [Pandas adding a new column to MultiIndex](https://stackoverflow.com/questions/78935645/pandas-adding-a-new-column-to-multiindex) - 1 votes
-* [Pandas sort one column by custom order and the other naturally](https://stackoverflow.com/questions/78932725/pandas-sort-one-column-by-custom-order-and-the-other-naturally) - 1 votes
-* [Pandas getting first alphabetically value of each group](https://stackoverflow.com/questions/78930185/pandas-getting-first-alphabetically-value-of-each-group) - 1 votes
-* [Count and groupby a specfic value](https://stackoverflow.com/questions/78931722/count-and-groupby-a-specfic-value) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
