@@ -1,22 +1,22 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-09-17<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-09-18<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Puzzling visibility issues with Rust tuplelike structs](https://stackoverflow.com/questions/78993800/puzzling-visibility-issues-with-rust-tuple-like-structs) - 4 votes
-* [Recursive async function future cannot be sent between threads safely](https://stackoverflow.com/questions/78990686/recursive-async-function-future-cannot-be-sent-between-threads-safely) - 2 votes
-* [How create signature for return type when wrapping complex library func](https://stackoverflow.com/questions/78990525/how-create-signature-for-return-type-when-wrapping-complex-library-func) - 2 votes
-* [Regular reference vs Bound in PyO3](https://stackoverflow.com/questions/78989851/regular-reference-vs-bound-in-pyo3) - 1 votes
+* [Puzzling visibility issues with Rust tuplelike structs](https://stackoverflow.com/questions/78993800/puzzling-visibility-issues-with-rust-tuple-like-structs) - 5 votes
+* [How does the log crate know which logger to use](https://stackoverflow.com/questions/78995988/how-does-the-log-crate-know-which-logger-to-use) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
+* [How to initialize db connection in FastAPI with lifespan events](https://stackoverflow.com/questions/78994516/how-to-initialize-db-connection-in-fastapi-with-lifespan-events) - 1 votes
+* [chatbot server with llamaindex and FastAPI](https://stackoverflow.com/questions/78996860/chatbot-server-with-llamaindex-and-fastapi) - 1 votes
 * [FastAPI amp AsyncIO amp Threding amp Beanie](https://stackoverflow.com/questions/78993169/fastapi-asyncio-threding-beanie) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
@@ -24,11 +24,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-0
 
 ### pandas
 <!-- pandas starts -->
-* [How to merge and match different length dataframes lists in PythonPandas](https://stackoverflow.com/questions/78990589/how-to-merge-and-match-different-length-dataframes-lists-in-python-pandas) - 3 votes
 * [setting consistent column type for streamlit tables](https://stackoverflow.com/questions/78992492/setting-consistent-column-type-for-streamlit-tables) - 3 votes
 * [how to pandas fast nested for loop for quotnon numericquot columns](https://stackoverflow.com/questions/78992395/how-to-pandas-fast-nested-for-loop-for-non-numeric-columns) - 2 votes
-* [Checking count discrepancies from one date to another in dataframe](https://stackoverflow.com/questions/78991877/checking-count-discrepancies-from-one-date-to-another-in-dataframe) - 2 votes
+* [getting argument of typingOptional in python](https://stackoverflow.com/questions/78992321/getting-argument-of-typing-optional-in-python) - 2 votes
 * [Parameter problems of iloc functions in pandas](https://stackoverflow.com/questions/78992288/parameter-problems-of-iloc-functions-in-pandas) - 2 votes
+* [How to improve pandas DF processing time on different combinations of calculated data](https://stackoverflow.com/questions/78993284/how-to-improve-pandas-df-processing-time-on-different-combinations-of-calculated) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
