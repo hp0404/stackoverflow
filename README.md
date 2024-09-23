@@ -1,31 +1,34 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-09-22<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-09-23<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Debug derive macro adds extra quotampquot to last field](https://stackoverflow.com/questions/79009624/debug-derive-macro-adds-extra-to-last-field) - 4 votes
+* [Indexing from HashMapltampString Vgt with ampstr](https://stackoverflow.com/questions/79016010/indexing-from-hashmapstring-v-with-str) - 2 votes
+* [Closure referencing object on which it is attached](https://stackoverflow.com/questions/79012631/closure-referencing-object-on-which-it-is-attached) - 2 votes
+* [Type annotations needed for Axum handler with more than one generics](https://stackoverflow.com/questions/79014338/type-annotations-needed-for-axum-handler-with-more-than-one-generics) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to trigger a POST request API to add a record in a SQLite database table using FastAPI and HTML forms using Jinja2](https://stackoverflow.com/questions/79010931/how-to-trigger-a-post-request-api-to-add-a-record-in-a-sqlite-database-table-usi) - 1 votes
+* [How to trigger a POST request API to add a record in a SQLite database table using FastAPI and HTML forms using Jinja2](https://stackoverflow.com/questions/79010931/how-to-trigger-a-post-request-api-to-add-a-record-in-a-sqlite-database-table-usi) - 2 votes
+* [Converting SQLAlchemy models to Pydantic model](https://stackoverflow.com/questions/79012841/converting-sqlalchemy-models-to-pydantic-model) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Convert a list of time string to unique string format](https://stackoverflow.com/questions/79009454/convert-a-list-of-time-string-to-unique-string-format) - 2 votes
-* [How to move the title outside of plotting frame in panda plot](https://stackoverflow.com/questions/79010020/how-to-move-the-title-outside-of-plotting-frame-in-panda-plot) - 1 votes
-* [How to predict an event if I have a machine learning model](https://stackoverflow.com/questions/79012138/how-to-predict-an-event-if-i-have-a-machine-learning-model) - 1 votes
-* [How to calculate the Exponential Moving Average EMA through record iterations in pandas dataframe](https://stackoverflow.com/questions/79009647/how-to-calculate-the-exponential-moving-average-ema-through-record-iterations) - 1 votes
-* [how to get excel file data from google drive](https://stackoverflow.com/questions/79009135/how-to-get-excel-file-data-from-google-drive) - 1 votes
+* [How to add up value in column v by multiplying previous cell with a fixed factor then add current cell of another column](https://stackoverflow.com/questions/79013954/how-to-add-up-value-in-column-v-by-multiplying-previous-cell-with-a-fixed-facto) - 3 votes
+* [pandasPeriod for a custom time period](https://stackoverflow.com/questions/79013441/pandas-period-for-a-custom-time-period) - 3 votes
+* [How to fill blank cells created by join but keep original null in pandas](https://stackoverflow.com/questions/79014004/how-to-fill-blank-cells-created-by-join-but-keep-original-null-in-pandas) - 2 votes
+* [Cleaning an erroneous cumulative sum with Pandas](https://stackoverflow.com/questions/79015417/cleaning-an-erroneous-cumulative-sum-with-pandas) - 1 votes
+* [how to merge dfs without duplicate lines](https://stackoverflow.com/questions/79013939/how-to-merge-dfs-without-duplicate-lines) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
