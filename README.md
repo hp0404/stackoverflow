@@ -1,32 +1,32 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-09-24<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-09-25<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Indexing from HashMapltampString Vgt with ampstr](https://stackoverflow.com/questions/79016010/indexing-from-hashmapstring-v-with-str) - 4 votes
-* [Type annotations needed for Axum handler with more than one generics](https://stackoverflow.com/questions/79014338/type-annotations-needed-for-axum-handler-with-more-than-one-generics) - 1 votes
+* [Split string on boundaries in Rust](https://stackoverflow.com/questions/79022663/split-string-on-boundaries-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Converting SQLAlchemy models to Pydantic model](https://stackoverflow.com/questions/79012841/converting-sqlalchemy-models-to-pydantic-model) - 1 votes
+* [Handling Circular Imports in Pydantic models with FastAPI](https://stackoverflow.com/questions/79023460/handling-circular-imports-in-pydantic-models-with-fastapi) - 5 votes
+* [How do I have Cloudflare respect CacheControl directives for a FastAPI App deployed on Digitalocean App Platform](https://stackoverflow.com/questions/79023803/how-do-i-have-cloudflare-respect-cache-control-directives-for-a-fastapi-app-depl) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How to add up value in column v by multiplying previous cell with a fixed factor then add current cell of another column](https://stackoverflow.com/questions/79013954/how-to-add-up-value-in-column-v-by-multiplying-previous-cell-with-a-fixed-facto) - 3 votes
+* [How to split pandas Series into two based on whether or not the index contains a certain word](https://stackoverflow.com/questions/79023227/how-to-split-pandas-series-into-two-based-on-whether-or-not-the-index-contains-a) - 3 votes
 * [Converting pandas dataframe to wiki markup table](https://stackoverflow.com/questions/79019358/converting-pandas-dataframe-to-wiki-markup-table) - 3 votes
-* [pandasPeriod for a custom time period](https://stackoverflow.com/questions/79013441/pandas-period-for-a-custom-time-period) - 3 votes
-* [How to fill blank cells created by join but keep original null in pandas](https://stackoverflow.com/questions/79014004/how-to-fill-blank-cells-created-by-join-but-keep-original-null-in-pandas) - 2 votes
-* [chang pandas dataframe from long to wide](https://stackoverflow.com/questions/79014724/chang-pandas-dataframe-from-long-to-wide) - 1 votes
+* [Error quottable  already exitsquot when using to_sqlif_exists39append39 with Pandas and SQLite](https://stackoverflow.com/questions/79019484/error-table-already-exits-when-using-to-sql-if-exists-append-with-p) - 2 votes
+* [How to reduce the dimension of CSV file](https://stackoverflow.com/questions/79019231/how-to-reduce-the-dimension-of-csv-file) - 2 votes
+* [Pandas Return Corresponding Column Based on Date Being Between Two Values](https://stackoverflow.com/questions/79024010/pandas-return-corresponding-column-based-on-date-being-between-two-values) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
