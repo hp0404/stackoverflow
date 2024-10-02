@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-10-01<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-10-02<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -9,16 +9,15 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-1
 <!-- rust starts -->
 * [Rust apparent nonassociativity of lifetimes](https://stackoverflow.com/questions/79042611/rust-apparent-non-associativity-of-lifetimes) - 2 votes
 * [Downcasting of Rcltdyn Anygt to RcltGenericTypeltTgtgt fails](https://stackoverflow.com/questions/79042556/downcasting-of-rcdyn-any-to-rcgenerictypet-fails) - 2 votes
-* [Bitwise operation for all elements of a vector](https://stackoverflow.com/questions/79039312/bitwise-operation-for-all-elements-of-a-vector) - 1 votes
-* [Axum middleware  how to retrieve Extensions data in a middleware fn](https://stackoverflow.com/questions/79041908/axum-middleware-how-to-retrieve-extensions-data-in-a-middleware-fn) - 1 votes
-* [How to distinguish the incoming packets group when joining multiple multicast feeds in UdpSocket](https://stackoverflow.com/questions/79040650/how-to-distinguish-the-incoming-packets-group-when-joining-multiple-multicast-fe) - 1 votes
+* [Rust error propagation in block expression try like block](https://stackoverflow.com/questions/79048195/rust-error-propagation-in-block-expression-try-like-block) - 1 votes
+* [is it possible to limit the file size without fullly received the entire file](https://stackoverflow.com/questions/79045265/is-it-possible-to-limit-the-file-size-without-fullly-received-the-entire-file) - 1 votes
+* [Idiomatic way to compute a default for an Option](https://stackoverflow.com/questions/79045161/idiomatic-way-to-compute-a-default-for-an-option) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Asynchronous S3 downloads in FastAPI](https://stackoverflow.com/questions/79040327/asynchronous-s3-downloads-in-fastapi) - 1 votes
 * [Why is SQLAlchemy  Pydantic autoloading relations only sometimes and not always](https://stackoverflow.com/questions/79043944/why-is-sqlalchemy-pydantic-auto-loading-relations-only-sometimes-and-not-alway) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
@@ -26,11 +25,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-1
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas pct_change but loop back to start](https://stackoverflow.com/questions/79039949/pandas-pct-change-but-loop-back-to-start) - 2 votes
+* [Conditionally slice a pandas multiindex on specific level](https://stackoverflow.com/questions/79044322/conditionally-slice-a-pandas-multiindex-on-specific-level) - 3 votes
+* [Remove special character and units form Pandas column name with Python](https://stackoverflow.com/questions/79046408/remove-special-character-and-units-form-pandas-column-name-with-python) - 2 votes
 * [pandas version 214 method mad](https://stackoverflow.com/questions/79041308/pandas-version-2-1-4-method-mad) - 2 votes
-* [How to efficiently handle large datasets in Python using Pandas](https://stackoverflow.com/questions/79041162/how-to-efficiently-handle-large-datasets-in-python-using-pandas) - 2 votes
-* [Conditionally slice a pandas multiindex on specific level](https://stackoverflow.com/questions/79044322/conditionally-slice-a-pandas-multiindex-on-specific-level) - 1 votes
-* [pandasseriesstrsplit not accepting 3 keyword arguments](https://stackoverflow.com/questions/79038956/pandas-series-str-split-not-accepting-3-keyword-arguments) - 1 votes
+* [How to reformat strings replacing first instance of character with set number of blanks](https://stackoverflow.com/questions/79042289/how-to-reformat-strings-replacing-first-instance-of-character-with-set-number-o) - 1 votes
+* [Python Data  Insert Subtotals in original dataframe](https://stackoverflow.com/questions/79047679/python-data-insert-subtotals-in-original-dataframe) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
