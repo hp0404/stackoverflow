@@ -1,16 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-10-03<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-10-04<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Rust error propagation in block expression try like block](https://stackoverflow.com/questions/79048195/rust-error-propagation-in-block-expression-try-like-block) - 1 votes
-* [is it possible to limit the file size without fullly received the entire file](https://stackoverflow.com/questions/79045265/is-it-possible-to-limit-the-file-size-without-fullly-received-the-entire-file) - 1 votes
-* [Idiomatic way to compute a default for an Option](https://stackoverflow.com/questions/79045161/idiomatic-way-to-compute-a-default-for-an-option) - 1 votes
-* [How to decapsulate a structure data from Form with Rocket in rust](https://stackoverflow.com/questions/79047062/how-to-decapsulate-a-structure-data-from-form-with-rocket-in-rust) - 1 votes
+* [Production SQLX and PgBouncer39s Prepared Statement Issue](https://stackoverflow.com/questions/79048888/production-sqlx-and-pgbouncers-prepared-statement-issue) - 1 votes
 * [Trivial quotlookupquot type for struct](https://stackoverflow.com/questions/79050907/trivial-lookup-type-for-struct) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -18,17 +15,19 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-1
 
 ### fastapi
 <!-- fastapi starts -->
-* [Unable to add multiple images to upload in Swagger at a go using FastAPI](https://stackoverflow.com/questions/79045663/unable-to-add-multiple-images-to-upload-in-swagger-at-a-go-using-fastapi) - 1 votes
+* [pyotp couldn39t pass the same secret key to multiple methods](https://stackoverflow.com/questions/79053694/pyotp-couldnt-pass-the-same-secret-key-to-multiple-methods) - 1 votes
+* [Celery task processing issues on Windows](https://stackoverflow.com/questions/79052769/celery-task-processing-issues-on-windows) - 1 votes
+* [Websocket client closing when server sends data](https://stackoverflow.com/questions/79050972/websocket-client-closing-when-server-sends-data) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Remove special character and units form Pandas column name with Python](https://stackoverflow.com/questions/79046408/remove-special-character-and-units-form-pandas-column-name-with-python) - 3 votes
 * [how to make pandas merge without inner data](https://stackoverflow.com/questions/79049400/how-to-make-pandas-merge-without-inner-data) - 1 votes
-* [Conditional marker for scatterplot Matplotlib](https://stackoverflow.com/questions/79048534/conditional-marker-for-scatterplot-matplotlib) - 1 votes
+* [Why is numpy fill_diagonal not changing dataframe values](https://stackoverflow.com/questions/79055461/why-is-numpy-fill-diagonal-not-changing-dataframe-values) - 1 votes
 * [Group rows that contains at least one common element in list from same column and aggregate other column](https://stackoverflow.com/questions/79052002/group-rows-that-contains-at-least-one-common-element-in-list-from-same-column-an) - 1 votes
+* [counting the number of success after certain date every year in Pandas using groupby cumsum](https://stackoverflow.com/questions/79051504/counting-the-number-of-success-after-certain-date-every-year-in-pandas-using-gro) - 1 votes
 * [How to create a panda DataFrame containing tuples](https://stackoverflow.com/questions/79050876/how-to-create-a-panda-dataframe-containing-tuples) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
