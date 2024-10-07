@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-10-06<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-10-07<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-
+* [What is the best way to concatenate two rust ffiCString](https://stackoverflow.com/questions/79061795/what-is-the-best-way-to-concatenate-two-rust-fficstring) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,7 +21,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-1
 
 ### pandas
 <!-- pandas starts -->
-* [most frequent rolling value on a objectstr pandas dataframe column](https://stackoverflow.com/questions/79057299/most-frequent-rolling-value-on-a-object-str-pandas-dataframe-column) - 2 votes
+* [Check for duplicates in a column while excluding a substring](https://stackoverflow.com/questions/79062305/check-for-duplicates-in-a-column-while-excluding-a-sub-string) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
