@@ -1,24 +1,24 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-10-11<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-10-12<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How can I return quotowning iteratorquot from trait function in Rust](https://stackoverflow.com/questions/79073414/how-can-i-return-owning-iterator-from-trait-function-in-rust) - 4 votes
 * [Why I don39t get copy trait error when I use a const for initilizing a string array](https://stackoverflow.com/questions/79078737/why-i-dont-get-copy-trait-error-when-i-use-a-const-for-initilizing-a-string-arr) - 2 votes
 * [Custom deserializer to deserialize a HashMap over arbitrary types](https://stackoverflow.com/questions/79077079/custom-deserializer-to-deserialize-a-hashmap-over-arbitrary-types) - 2 votes
 * [Could Sized bounds be inferred](https://stackoverflow.com/questions/79078769/could-sized-bounds-be-inferred) - 1 votes
-* [Conditional Returns vs Multiplication in Rust](https://stackoverflow.com/questions/79076038/conditional-returns-vs-multiplication-in-rust) - 1 votes
+* [Mismatched associated types but the types are the same](https://stackoverflow.com/questions/79081279/mismatched-associated-types-but-the-types-are-the-same) - 1 votes
+* [Parallel random access of vector using indices that are guaranteed to not overlap](https://stackoverflow.com/questions/79081036/parallel-random-access-of-vector-using-indices-that-are-guaranteed-to-not-overla) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Sharing data schemas between distributed systems](https://stackoverflow.com/questions/79074129/sharing-data-schemas-between-distributed-systems) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
