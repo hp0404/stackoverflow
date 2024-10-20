@@ -1,22 +1,21 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-10-19<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-10-20<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How do I sort a sequence of slices in a vector](https://stackoverflow.com/questions/79102909/how-do-i-sort-a-sequence-of-slices-in-a-vector) - 4 votes
-* [Is it possible to get the path from an opened file object in Rust](https://stackoverflow.com/questions/79103960/is-it-possible-to-get-the-path-from-an-opened-file-object-in-rust) - 1 votes
-* [Dynamically sized struct in Arc](https://stackoverflow.com/questions/79103076/dynamically-sized-struct-in-arc) - 1 votes
+* [How to structure the type of a Rust object to share between threads](https://stackoverflow.com/questions/79106183/how-to-structure-the-type-of-a-rust-object-to-share-between-threads) - 5 votes
+* [could not compile rustlsplatformverifier lib in LTO mode](https://stackoverflow.com/questions/79106139/could-not-compile-rustls-platform-verifier-lib-in-lto-mode) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Undocumented Error response status is 502 displaying content as text](https://stackoverflow.com/questions/79103138/undocumented-error-response-status-is-502-displaying-content-as-text) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -24,6 +23,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-1
 ### pandas
 <!-- pandas starts -->
 * [pdto_datetime fails with old dates](https://stackoverflow.com/questions/79104578/pd-to-datetime-fails-with-old-dates) - 3 votes
+* [multi index with loc on columns](https://stackoverflow.com/questions/79105984/multi-index-with-loc-on-columns) - 2 votes
+* [How to filter out a dataframe based on another dataframe](https://stackoverflow.com/questions/79106128/how-to-filter-out-a-dataframe-based-on-another-dataframe) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
