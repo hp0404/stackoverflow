@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-10-20<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-10-21<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,23 +8,23 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-1
 ### rust
 <!-- rust starts -->
 * [How to structure the type of a Rust object to share between threads](https://stackoverflow.com/questions/79106183/how-to-structure-the-type-of-a-rust-object-to-share-between-threads) - 5 votes
-* [could not compile rustlsplatformverifier lib in LTO mode](https://stackoverflow.com/questions/79106139/could-not-compile-rustls-platform-verifier-lib-in-lto-mode) - 1 votes
+* [I need to use an associated constant in an associated type in Rust](https://stackoverflow.com/questions/79111627/i-need-to-use-an-associated-constant-in-an-associated-type-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [Tests fail on GitHub Actions but not on my local environment](https://stackoverflow.com/questions/79108753/tests-fail-on-github-actions-but-not-on-my-local-environment) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [pdto_datetime fails with old dates](https://stackoverflow.com/questions/79104578/pd-to-datetime-fails-with-old-dates) - 3 votes
-* [multi index with loc on columns](https://stackoverflow.com/questions/79105984/multi-index-with-loc-on-columns) - 2 votes
-* [How to filter out a dataframe based on another dataframe](https://stackoverflow.com/questions/79106128/how-to-filter-out-a-dataframe-based-on-another-dataframe) - 1 votes
+* [Dataframe manipulation quotexplode rowsquot on new dataframe with repeated indices](https://stackoverflow.com/questions/79109524/dataframe-manipulation-explode-rows-on-new-dataframe-with-repeated-indices) - 2 votes
+* [Break up a sparse 2D array or table into multiple subarrays or subtables](https://stackoverflow.com/questions/79110939/break-up-a-sparse-2d-array-or-table-into-multiple-subarrays-or-subtables) - 1 votes
+* [Resample on pandas api on spark](https://stackoverflow.com/questions/79110560/resample-on-pandas-api-on-spark) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
