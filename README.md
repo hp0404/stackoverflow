@@ -1,15 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-10-25<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-10-26<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Providing lifetime of the struct itself to trait39s lifetime argument](https://stackoverflow.com/questions/79120808/providing-lifetime-of-the-struct-itself-to-traits-lifetime-argument) - 2 votes
-* [Rust version for dependencies](https://stackoverflow.com/questions/79121490/rust-version-for-dependencies) - 1 votes
-* [Rust async 39with_resource39 bracket pattern](https://stackoverflow.com/questions/79127093/rust-async-with-resource-bracket-pattern) - 1 votes
+* [Why did this Rust code from December 18 2021 compile](https://stackoverflow.com/questions/79127750/why-did-this-rust-code-from-december-18-2021-compile) - 3 votes
+* [Do I have to allocate with Box or similar in order for different types which share an trait to be accepted by the compiler](https://stackoverflow.com/questions/79128713/do-i-have-to-allocate-with-box-or-similar-in-order-for-different-types-which-s) - 3 votes
+* [testing for bytemuck casting alignment issues](https://stackoverflow.com/questions/79127223/testing-for-bytemuck-casting-alignment-issues) - 1 votes
+* [I can39t figure out what is wrong with my output to the program perftree](https://stackoverflow.com/questions/79126973/i-cant-figure-out-what-is-wrong-with-my-output-to-the-program-perftree) - 1 votes
+* [How do I call a Rascal function from Rust](https://stackoverflow.com/questions/79128461/how-do-i-call-a-rascal-function-from-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -23,10 +25,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-1
 
 ### pandas
 <!-- pandas starts -->
-* [How to efficiently multiply all nondiagonal elements by a constant in a pandas DataFrame](https://stackoverflow.com/questions/79126303/how-to-efficiently-multiply-all-non-diagonal-elements-by-a-constant-in-a-pandas) - 2 votes
+* [How to efficiently multiply all nondiagonal elements by a constant in a pandas DataFrame](https://stackoverflow.com/questions/79126303/how-to-efficiently-multiply-all-non-diagonal-elements-by-a-constant-in-a-pandas) - 3 votes
 * [Pandas HTML generation reproducible output](https://stackoverflow.com/questions/79125266/pandas-html-generation-reproducible-output) - 2 votes
-* [Adding column in upsert using on_conflict_do_update](https://stackoverflow.com/questions/79126807/adding-column-in-upsert-using-on-conflict-do-update) - 1 votes
-* [Why pandasmerge_asof working with error in my case](https://stackoverflow.com/questions/79122605/why-pandas-merge-asof-working-with-error-in-my-case) - 1 votes
+* [How to efficiently remove overlapping circles from the dataset](https://stackoverflow.com/questions/79126042/how-to-efficiently-remove-overlapping-circles-from-the-dataset) - 1 votes
+* [Pandas precision not working for last dataframe column](https://stackoverflow.com/questions/79128612/pandas-precision-not-working-for-last-dataframe-column) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
