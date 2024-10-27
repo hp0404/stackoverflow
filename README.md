@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-10-26<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-10-27<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,10 +8,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-1
 ### rust
 <!-- rust starts -->
 * [Why did this Rust code from December 18 2021 compile](https://stackoverflow.com/questions/79127750/why-did-this-rust-code-from-december-18-2021-compile) - 3 votes
+* [What is Rust39s uselt39lifetimegt syntax](https://stackoverflow.com/questions/79129687/what-is-rusts-uselifetime-syntax) - 3 votes
 * [Do I have to allocate with Box or similar in order for different types which share an trait to be accepted by the compiler](https://stackoverflow.com/questions/79128713/do-i-have-to-allocate-with-box-or-similar-in-order-for-different-types-which-s) - 3 votes
-* [testing for bytemuck casting alignment issues](https://stackoverflow.com/questions/79127223/testing-for-bytemuck-casting-alignment-issues) - 1 votes
-* [I can39t figure out what is wrong with my output to the program perftree](https://stackoverflow.com/questions/79126973/i-cant-figure-out-what-is-wrong-with-my-output-to-the-program-perftree) - 1 votes
-* [How do I call a Rascal function from Rust](https://stackoverflow.com/questions/79128461/how-do-i-call-a-rascal-function-from-rust) - 1 votes
+* [Why does a  pipe in a rust pattern match cause a quotvalue used after movequot](https://stackoverflow.com/questions/79129620/why-does-a-pipe-in-a-rust-pattern-match-cause-a-value-used-after-move) - 3 votes
+* [How to add a common module to examples in Rust](https://stackoverflow.com/questions/79130858/how-to-add-a-common-module-to-examples-in-rust) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -25,9 +25,6 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-1
 
 ### pandas
 <!-- pandas starts -->
-* [How to efficiently multiply all nondiagonal elements by a constant in a pandas DataFrame](https://stackoverflow.com/questions/79126303/how-to-efficiently-multiply-all-non-diagonal-elements-by-a-constant-in-a-pandas) - 3 votes
-* [Pandas HTML generation reproducible output](https://stackoverflow.com/questions/79125266/pandas-html-generation-reproducible-output) - 2 votes
-* [How to efficiently remove overlapping circles from the dataset](https://stackoverflow.com/questions/79126042/how-to-efficiently-remove-overlapping-circles-from-the-dataset) - 1 votes
 * [Pandas precision not working for last dataframe column](https://stackoverflow.com/questions/79128612/pandas-precision-not-working-for-last-dataframe-column) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
