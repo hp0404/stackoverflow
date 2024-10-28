@@ -1,31 +1,31 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-10-27<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-10-28<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why did this Rust code from December 18 2021 compile](https://stackoverflow.com/questions/79127750/why-did-this-rust-code-from-december-18-2021-compile) - 3 votes
-* [What is Rust39s uselt39lifetimegt syntax](https://stackoverflow.com/questions/79129687/what-is-rusts-uselifetime-syntax) - 3 votes
-* [Do I have to allocate with Box or similar in order for different types which share an trait to be accepted by the compiler](https://stackoverflow.com/questions/79128713/do-i-have-to-allocate-with-box-or-similar-in-order-for-different-types-which-s) - 3 votes
-* [Why does a  pipe in a rust pattern match cause a quotvalue used after movequot](https://stackoverflow.com/questions/79129620/why-does-a-pipe-in-a-rust-pattern-match-cause-a-value-used-after-move) - 3 votes
+* [What is Rust39s uselt39lifetimegt syntax](https://stackoverflow.com/questions/79129687/what-is-rusts-uselifetime-syntax) - 5 votes
+* [The concept of a singlethreaded program doesn39t exist to Rust](https://stackoverflow.com/questions/79133869/the-concept-of-a-single-threaded-program-doesnt-exist-to-rust) - 3 votes
 * [How to add a common module to examples in Rust](https://stackoverflow.com/questions/79130858/how-to-add-a-common-module-to-examples-in-rust) - 2 votes
+* [Cannot find int_range function even with the listed features enabled](https://stackoverflow.com/questions/79133979/cannot-find-int-range-function-even-with-the-listed-features-enabled) - 2 votes
+* [How and why does Rust39s OptionltVecltTgtgt get optimized to 24 bytes](https://stackoverflow.com/questions/79131922/how-and-why-does-rusts-optionvect-get-optimized-to-24-bytes) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [fixture for current user pytest  fastapi](https://stackoverflow.com/questions/79134199/fixture-for-current-user-pytest-fastapi) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas precision not working for last dataframe column](https://stackoverflow.com/questions/79128612/pandas-precision-not-working-for-last-dataframe-column) - 1 votes
+* [How to add types to pandas DataFrames](https://stackoverflow.com/questions/79132609/how-to-add-types-to-pandas-dataframes) - 3 votes
 <!-- pandas ends -->
 </td></tr></table>
 
