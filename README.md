@@ -1,17 +1,16 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-11-03<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-11-04<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [In Rust what happens if you move an object a Box points to](https://stackoverflow.com/questions/79150814/in-rust-what-happens-if-you-move-an-object-a-box-points-to) - 2 votes
-* [Is there a way to print strings in quotes without Debug](https://stackoverflow.com/questions/79151515/is-there-a-way-to-print-strings-in-quotes-without-debug) - 2 votes
-* [Mutex unlock in function argument blocks forever](https://stackoverflow.com/questions/79151045/mutex-unlock-in-function-argument-blocks-forever) - 1 votes
-* [How to correctly capture writer in a macro that wraps multiple calls to write](https://stackoverflow.com/questions/79153514/how-to-correctly-capture-writer-in-a-macro-that-wraps-multiple-calls-to-write) - 1 votes
-* [How should I stop a thread from the outside in Rust](https://stackoverflow.com/questions/79151456/how-should-i-stop-a-thread-from-the-outside-in-rust) - 1 votes
+* [How to correctly capture writer in a macro that wraps multiple calls to write](https://stackoverflow.com/questions/79153514/how-to-correctly-capture-writer-in-a-macro-that-wraps-multiple-calls-to-write) - 3 votes
+* [Why does while let in a Future implementation trigger the Waker but if let does not](https://stackoverflow.com/questions/79156647/why-does-while-let-in-a-future-implementation-trigger-the-waker-but-if-let) - 2 votes
+* [const Iteration over values of an array](https://stackoverflow.com/questions/79152932/const-iteration-over-values-of-an-array) - 1 votes
+* [Mock subscriber of a threaded publisher in Rust](https://stackoverflow.com/questions/79153602/mock-subscriber-of-a-threaded-publisher-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -25,11 +24,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-1
 
 ### pandas
 <!-- pandas starts -->
-* [How can I do onehot encoding from multiple columns](https://stackoverflow.com/questions/79150393/how-can-i-do-one-hot-encoding-from-multiple-columns) - 2 votes
-* [too large dataframe python spider](https://stackoverflow.com/questions/79151289/too-large-dataframe-python-spider) - 2 votes
-* [Pandas memory_usage inconsistent for inline numpy](https://stackoverflow.com/questions/79149716/pandas-memory-usage-inconsistent-for-in-line-numpy) - 1 votes
-* [Generate a stacked bar chart in python out of groupby based on multiindex](https://stackoverflow.com/questions/79153289/generate-a-stacked-bar-chart-in-python-out-of-groupby-based-on-multi-index) - 1 votes
-* [Pandas Dataframe fill with last value base on multiple condition](https://stackoverflow.com/questions/79150811/pandas-dataframe-fill-with-last-value-base-on-multiple-condition) - 1 votes
+* [Pandas to excel decimal columns are getting converted to text](https://stackoverflow.com/questions/79155856/pandas-to-excel-decimal-columns-are-getting-converted-to-text) - 2 votes
+* [Generate a stacked bar chart in python out of groupby based on multiindex](https://stackoverflow.com/questions/79153289/generate-a-stacked-bar-chart-in-python-out-of-groupby-based-on-multi-index) - 2 votes
+* [Unusual Memory Error when plotting line on secondary y axis using PandasMatplotlib](https://stackoverflow.com/questions/79155283/unusual-memory-error-when-plotting-line-on-secondary-y-axis-using-pandas-matplot) - 2 votes
+* [How to expand data where specific condition is met in Pandas Python](https://stackoverflow.com/questions/79154573/how-to-expand-data-where-specific-condition-is-met-in-pandas-python) - 1 votes
+* [Converting dataframe to json with nested arrays](https://stackoverflow.com/questions/79153586/converting-dataframe-to-json-with-nested-arrays) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
