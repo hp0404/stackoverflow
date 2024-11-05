@@ -1,34 +1,32 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-11-04<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-11-05<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to correctly capture writer in a macro that wraps multiple calls to write](https://stackoverflow.com/questions/79153514/how-to-correctly-capture-writer-in-a-macro-that-wraps-multiple-calls-to-write) - 3 votes
-* [Why does while let in a Future implementation trigger the Waker but if let does not](https://stackoverflow.com/questions/79156647/why-does-while-let-in-a-future-implementation-trigger-the-waker-but-if-let) - 2 votes
-* [const Iteration over values of an array](https://stackoverflow.com/questions/79152932/const-iteration-over-values-of-an-array) - 1 votes
-* [Mock subscriber of a threaded publisher in Rust](https://stackoverflow.com/questions/79153602/mock-subscriber-of-a-threaded-publisher-in-rust) - 1 votes
+* [Why does while let in a Future implementation trigger the Waker but if let does not](https://stackoverflow.com/questions/79156647/why-does-while-let-in-a-future-implementation-trigger-the-waker-but-if-let) - 4 votes
+* [How does serde export both a trait and a derive macro with the same name](https://stackoverflow.com/questions/79156888/how-does-serde-export-both-a-trait-and-a-derive-macro-with-the-same-name) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to explicitly set values to None in FastAPI with Pydantic models](https://stackoverflow.com/questions/79152226/how-to-explicitly-set-values-to-none-in-fastapi-with-pydantic-models) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas to excel decimal columns are getting converted to text](https://stackoverflow.com/questions/79155856/pandas-to-excel-decimal-columns-are-getting-converted-to-text) - 2 votes
-* [Generate a stacked bar chart in python out of groupby based on multiindex](https://stackoverflow.com/questions/79153289/generate-a-stacked-bar-chart-in-python-out-of-groupby-based-on-multi-index) - 2 votes
+* [How to place DataFrame data in one unique index](https://stackoverflow.com/questions/79157015/how-to-place-dataframe-data-in-one-unique-index) - 2 votes
+* [dfto_excel converts Decimal columns to text](https://stackoverflow.com/questions/79155856/df-to-excel-converts-decimal-columns-to-text) - 2 votes
 * [Unusual Memory Error when plotting line on secondary y axis using PandasMatplotlib](https://stackoverflow.com/questions/79155283/unusual-memory-error-when-plotting-line-on-secondary-y-axis-using-pandas-matplot) - 2 votes
-* [How to expand data where specific condition is met in Pandas Python](https://stackoverflow.com/questions/79154573/how-to-expand-data-where-specific-condition-is-met-in-pandas-python) - 1 votes
-* [Converting dataframe to json with nested arrays](https://stackoverflow.com/questions/79153586/converting-dataframe-to-json-with-nested-arrays) - 1 votes
+* [How can I check previous values of a column to find the value that is greater than the selected row in another column](https://stackoverflow.com/questions/79158535/how-can-i-check-previous-values-of-a-column-to-find-the-value-that-is-greater-th) - 1 votes
+* [Replace overlapping intervals with nonoverlapping intervals in a dataframe](https://stackoverflow.com/questions/79159921/replace-overlapping-intervals-with-non-overlapping-intervals-in-a-dataframe) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
