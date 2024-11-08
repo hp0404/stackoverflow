@@ -1,16 +1,15 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-11-07<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-11-08<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Deserialize enum variant with and without fields](https://stackoverflow.com/questions/79162958/deserialize-enum-variant-with-and-without-fields) - 3 votes
-* [What is the cleanest way to reimplement Rust39s BufRead Read and Seek traits for WASM](https://stackoverflow.com/questions/79164626/what-is-the-cleanest-way-to-re-implement-rusts-bufread-read-and-seek-traits-f) - 2 votes
-* [idiomatic way to Test if a range contains another range](https://stackoverflow.com/questions/79168007/idiomatic-way-to-test-if-a-range-contains-another-range) - 1 votes
-* [Dynamically changing underlying crate code depending on cargo features](https://stackoverflow.com/questions/79163402/dynamically-changing-underlying-crate-code-depending-on-cargo-features) - 1 votes
+* [Understanding lifetimes within options in rust](https://stackoverflow.com/questions/79168973/understanding-lifetimes-within-options-in-rust) - 2 votes
+* [idiomatic way to Test if a range contains another range](https://stackoverflow.com/questions/79168007/idiomatic-way-to-test-if-a-range-contains-another-range) - 2 votes
+* [Proper way to enumerate rust ndarray arrays in parallel](https://stackoverflow.com/questions/79169086/proper-way-to-enumerate-rust-ndarray-arrays-in-parallel) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -24,11 +23,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-1
 
 ### pandas
 <!-- pandas starts -->
-* [How to filter a DataFrame with different conditions for each column](https://stackoverflow.com/questions/79162352/how-to-filter-a-dataframe-with-different-conditions-for-each-column) - 3 votes
-* [Pandas  extract multiple sparsely packed responses to yesno identifiers while preserving row information](https://stackoverflow.com/questions/79164771/pandas-extract-multiple-sparsely-packed-responses-to-yes-no-identifiers-while) - 2 votes
-* [What is the best way to filter the groups that have at least N rows that meets the conditions of a mask](https://stackoverflow.com/questions/79161804/what-is-the-best-way-to-filter-the-groups-that-have-at-least-n-rows-that-meets-t) - 2 votes
-* [How to select column range based on partial column names in Pandas](https://stackoverflow.com/questions/79162993/how-to-select-column-range-based-on-partial-column-names-in-pandas) - 2 votes
-* [How to interpolate pandas time series using different timestamps](https://stackoverflow.com/questions/79165925/how-to-interpolate-pandas-time-series-using-different-timestamps) - 1 votes
+* [How can I split this data into rows in a data frame with column names with pandas](https://stackoverflow.com/questions/79170625/how-can-i-split-this-data-into-rows-in-a-data-frame-with-column-names-with-panda) - 3 votes
+* [Extract multiple sparsely packed responses to yesno identifiers while preserving row information](https://stackoverflow.com/questions/79164771/extract-multiple-sparsely-packed-responses-to-yes-no-identifiers-while-preservin) - 2 votes
+* [2 date columns comparison to indicate whether a record occured after another](https://stackoverflow.com/questions/79166664/2-date-columns-comparison-to-indicate-whether-a-record-occured-after-another) - 2 votes
+* [Interpolating Battery Capacity Data in Logarithmic Scale with Python](https://stackoverflow.com/questions/79168495/interpolating-battery-capacity-data-in-logarithmic-scale-with-python) - 2 votes
+* [performance issues of using lambda for assigning variables in pandas in a method chain](https://stackoverflow.com/questions/79169874/performance-issues-of-using-lambda-for-assigning-variables-in-pandas-in-a-method) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
