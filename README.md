@@ -1,23 +1,25 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-11-12<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-11-13<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [What sort order does Rust39s builtin cmp for ampstr use](https://stackoverflow.com/questions/79180725/what-sort-order-does-rusts-built-in-cmp-for-str-use) - 3 votes
-* [Const generic unconstrained generic constant](https://stackoverflow.com/questions/79178293/const-generic-unconstrained-generic-constant) - 1 votes
-* [How do I perform this aggregation over columns based on data from other columns in Polars](https://stackoverflow.com/questions/79181190/how-do-i-perform-this-aggregation-over-columns-based-on-data-from-other-columns) - 1 votes
-* [How to extract the Tls certificate over the https protocol on the Vector by Datadog project](https://stackoverflow.com/questions/79180645/how-to-extract-the-tls-certificate-over-the-https-protocol-on-the-vector-by-data) - 1 votes
-* [esp no_std rust persist data during deep sleeps](https://stackoverflow.com/questions/79177001/esp-no-std-rust-persist-data-during-deep-sleeps) - 1 votes
+* [What sort order does Rust39s builtin cmp for ampstr use](https://stackoverflow.com/questions/79180725/what-sort-order-does-rusts-built-in-cmp-for-str-use) - 4 votes
+* [Assign to an expression](https://stackoverflow.com/questions/79185185/assign-to-an-expression) - 2 votes
+* [What exactly is the scope of the use statement in Rust and why](https://stackoverflow.com/questions/79182928/what-exactly-is-the-scope-of-the-use-statement-in-rust-and-why) - 1 votes
+* [Subtle difference between for loop and for_each](https://stackoverflow.com/questions/79180125/subtle-difference-between-for-loop-and-for-each) - 1 votes
+* [How to embed all the files of a directory in a Rust executable at compile time](https://stackoverflow.com/questions/79186025/how-to-embed-all-the-files-of-a-directory-in-a-rust-executable-at-compile-time) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
+* [How to make concurrently not kill my NextJS front when the FastAPI back restart](https://stackoverflow.com/questions/79185189/how-to-make-concurrently-not-kill-my-nextjs-front-when-the-fastapi-back-restart) - 1 votes
+* [Change enums and OpenAPI spec at runtime](https://stackoverflow.com/questions/79185069/change-enums-and-openapi-spec-at-runtime) - 1 votes
 * [CORS problem between localhost and Azure backend](https://stackoverflow.com/questions/79180331/cors-problem-between-localhost-and-azure-backend) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
@@ -25,11 +27,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-1
 
 ### pandas
 <!-- pandas starts -->
-* [Count elements in a row and create column counter in pandas](https://stackoverflow.com/questions/79178919/count-elements-in-a-row-and-create-column-counter-in-pandas) - 3 votes
-* [Count occurrences of each type of event within a time window in Pandas](https://stackoverflow.com/questions/79177384/count-occurrences-of-each-type-of-event-within-a-time-window-in-pandas) - 2 votes
-* [Calculating the correlation coefficient of time series data of unqual length](https://stackoverflow.com/questions/79179193/calculating-the-correlation-coefficient-of-time-series-data-of-unqual-length) - 1 votes
-* [Cannot understand why pdSeriesmap fails with a lambda function](https://stackoverflow.com/questions/79181355/cannot-understand-why-pd-series-map-fails-with-a-lambda-function) - 1 votes
-* [How to properly use function with dataframe argument in another ipywidget interact function](https://stackoverflow.com/questions/79176959/how-to-properly-use-function-with-dataframe-argument-in-another-ipywidget-intera) - 1 votes
+* [What should dfplotsharexTrue do](https://stackoverflow.com/questions/79181967/what-should-df-plotsharex-true-do) - 2 votes
+* [Discard rows with a string value from a dataframe](https://stackoverflow.com/questions/79183144/discard-rows-with-a-string-value-from-a-dataframe) - 1 votes
+* [What is the pandas version of npselect](https://stackoverflow.com/questions/79186037/what-is-the-pandas-version-of-np-select) - 1 votes
+* [Detect row change by group and bring result back to original data frame](https://stackoverflow.com/questions/79186378/detect-row-change-by-group-and-bring-result-back-to-original-data-frame) - 1 votes
+* [group by order and detect change between rows](https://stackoverflow.com/questions/79182808/group-by-order-and-detect-change-between-rows) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
