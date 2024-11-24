@@ -1,14 +1,14 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-11-23<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-11-24<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why does Rust include devonly features as part of a release build](https://stackoverflow.com/questions/79216222/why-does-rust-include-dev-only-features-as-part-of-a-release-build) - 1 votes
-* [The SQLite used in tauri 2 is there any security barrier to accessing the content](https://stackoverflow.com/questions/79213484/the-sqlite-used-in-tauri-2-is-there-any-security-barrier-to-accessing-the-conten) - 1 votes
+* [How to write an abstraction in Rust with multiple implementations](https://stackoverflow.com/questions/79217868/how-to-write-an-abstraction-in-rust-with-multiple-implementations) - 1 votes
+* [Segmentation fault disappears after renaming a function](https://stackoverflow.com/questions/79220961/segmentation-fault-disappears-after-renaming-a-function) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -22,8 +22,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-1
 
 ### pandas
 <!-- pandas starts -->
-* [Linear interpolation lookup of a dataframe](https://stackoverflow.com/questions/79216200/linear-interpolation-lookup-of-a-dataframe) - 2 votes
 * [Plotting cumulative distribution from data](https://stackoverflow.com/questions/79217960/plotting-cumulative-distribution-from-data) - 1 votes
+* [Convert Pandas sales data to pie chart report](https://stackoverflow.com/questions/79219732/convert-pandas-sales-data-to-pie-chart-report) - 1 votes
 * [How can I efficiently filter and process large CSV files with pandas](https://stackoverflow.com/questions/79218651/how-can-i-efficiently-filter-and-process-large-csv-files-with-pandas) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
