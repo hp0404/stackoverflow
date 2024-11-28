@@ -1,36 +1,34 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-11-27<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-11-28<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [HashMaps and returning immutable references to inserted keys with std39s HashMap was reference demoting](https://stackoverflow.com/questions/79227669/hashmaps-and-returning-immutable-references-to-inserted-keys-with-stds-hashmap) - 3 votes
-* [Lazy evaluation in Rust](https://stackoverflow.com/questions/79227493/lazy-evaluation-in-rust) - 2 votes
-* [unexpected cfg condition value solana](https://stackoverflow.com/questions/79225593/unexpected-cfg-condition-value-solana) - 2 votes
-* [Run command in newly open windows terminal tab using rust](https://stackoverflow.com/questions/79231259/run-command-in-newly-open-windows-terminal-tab-using-rust) - 1 votes
-* [Share data for an async block without it escaping the scope in rust](https://stackoverflow.com/questions/79228505/share-data-for-an-async-block-without-it-escaping-the-scope-in-rust) - 1 votes
+* [Run command in newly open windows terminal tab using rust](https://stackoverflow.com/questions/79231259/run-command-in-newly-open-windows-terminal-tab-using-rust) - 2 votes
+* [Why am I getting quotApp state is not configuredquot in Ntex despite using Appstate](https://stackoverflow.com/questions/79231326/why-am-i-getting-app-state-is-not-configured-in-ntex-despite-using-appstate) - 1 votes
+* [Is there a preferred way of handling mock types and automock](https://stackoverflow.com/questions/79228865/is-there-a-preferred-way-of-handling-mock-types-and-automock) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Why can39t my FastAPI application find the css file when I rerouted to HTTPS when it could find it using HTTP](https://stackoverflow.com/questions/79228574/why-cant-my-fastapi-application-find-the-css-file-when-i-rerouted-to-https-when) - 1 votes
-* [Vuejs app mounted to FastAPI behind domain forwards back to HTTP](https://stackoverflow.com/questions/79227068/vuejs-app-mounted-to-fastapi-behind-domain-forwards-back-to-http) - 1 votes
+* [I want to test my token path with FastAPI](https://stackoverflow.com/questions/79234613/i-want-to-test-my-token-path-with-fastapi) - 1 votes
+* [How to extend the lifespan of an object under asynccontextmanager into a background task in FastAPI](https://stackoverflow.com/questions/79234199/how-to-extend-the-lifespan-of-an-object-under-asynccontextmanager-into-a-backgro) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Shift column in dataframe without deleting one](https://stackoverflow.com/questions/79227254/shift-column-in-dataframe-without-deleting-one) - 3 votes
 * [Skipping empty row and fixing length mismatch](https://stackoverflow.com/questions/79230796/skipping-empty-row-and-fixing-length-mismatch) - 3 votes
-* [Pandas replace and downcasting deprecation since version 220](https://stackoverflow.com/questions/79226735/pandas-replace-and-downcasting-deprecation-since-version-2-2-0) - 3 votes
-* [How to prevent Pandas to_csv double quoting empty fields in output csv](https://stackoverflow.com/questions/79227057/how-to-prevent-pandas-to-csv-double-quoting-empty-fields-in-output-csv) - 1 votes
-* [Python using oracledb to connect to Oracle database with Pandas DataFrame Error quotpandas only supports SQLAlchemy connectable engineconnectionquot](https://stackoverflow.com/questions/79228345/python-using-oracledb-to-connect-to-oracle-database-with-pandas-dataframe-error) - 1 votes
+* [How to get relative frequencies from pandas groupby with two grouping variables](https://stackoverflow.com/questions/79233242/how-to-get-relative-frequencies-from-pandas-groupby-with-two-grouping-variables) - 2 votes
+* [Convert NBB XBRL into DataFrame](https://stackoverflow.com/questions/79233942/convert-nbb-xbrl-into-dataframe) - 2 votes
+* [flattening pandas columns in a nontrivial way](https://stackoverflow.com/questions/79234492/flattening-pandas-columns-in-a-non-trivial-way) - 1 votes
+* [Perform a binary op on values in a pandas dataframe column by a value in that same column chosen based on a value in another column](https://stackoverflow.com/questions/79232452/perform-a-binary-op-on-values-in-a-pandas-dataframe-column-by-a-value-in-that-sa) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
