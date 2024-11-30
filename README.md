@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-11-29<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-11-30<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,27 +8,26 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-1
 ### rust
 <!-- rust starts -->
 * [How can I debug why a dependency is in my Cargolock](https://stackoverflow.com/questions/79237361/how-can-i-debug-why-a-dependency-is-in-my-cargo-lock) - 3 votes
-* [What is the correct signature for a rust function which wants to iterate several times over an iteratorcollection and avoid unnecessary cloning](https://stackoverflow.com/questions/79238389/what-is-the-correct-signature-for-a-rust-function-which-wants-to-iterate-several) - 1 votes
+* [Migrating from BASIC to Rust what do I do with On Gosub](https://stackoverflow.com/questions/79239752/migrating-from-basic-to-rust-what-do-i-do-with-on-gosub) - 1 votes
+* [Is MutexLock required if runing on a single core CPU](https://stackoverflow.com/questions/79239728/is-mutex-lock-required-if-runing-on-a-single-core-cpu) - 1 votes
 * [Matching enum variant without specifying variants in Rust macro](https://stackoverflow.com/questions/79238266/matching-enum-variant-without-specifying-variants-in-rust-macro) - 1 votes
+* [What is the correct signature for a rust function which wants to iterate several times over an iteratorcollection and avoid unnecessary cloning](https://stackoverflow.com/questions/79238389/what-is-the-correct-signature-for-a-rust-function-which-wants-to-iterate-several) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [I want to test my token path with FastAPI](https://stackoverflow.com/questions/79234613/i-want-to-test-my-token-path-with-fastapi) - 1 votes
-* [How to extend the lifespan of an object under asynccontextmanager into a background task in FastAPI](https://stackoverflow.com/questions/79234199/how-to-extend-the-lifespan-of-an-object-under-asynccontextmanager-into-a-backgro) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How to get relative frequencies from pandas groupby with two grouping variables](https://stackoverflow.com/questions/79233242/how-to-get-relative-frequencies-from-pandas-groupby-with-two-grouping-variables) - 2 votes
-* [Convert NBB XBRL into DataFrame](https://stackoverflow.com/questions/79233942/convert-nbb-xbrl-into-dataframe) - 2 votes
-* [flattening pandas columns in a nontrivial way](https://stackoverflow.com/questions/79234492/flattening-pandas-columns-in-a-non-trivial-way) - 1 votes
-* [Perform a binary op on values in a pandas dataframe column by a value in that same column chosen based on a value in another column](https://stackoverflow.com/questions/79232452/perform-a-binary-op-on-values-in-a-pandas-dataframe-column-by-a-value-in-that-sa) - 1 votes
-* [Pandas Merge  Elegant way to deal with same columns](https://stackoverflow.com/questions/79235198/pandas-merge-elegant-way-to-deal-with-same-columns) - 1 votes
+* [How to access the last 10 rows and first two columns of a DataFrame](https://stackoverflow.com/questions/79235819/how-to-access-the-last-10-rows-and-first-two-columns-of-a-dataframe) - 1 votes
+* [Problem renaming index value in pandas multiindex series](https://stackoverflow.com/questions/79240068/problem-renaming-index-value-in-pandas-multiindex-series) - 1 votes
+* [How do I transfer data from pandas Dataframe to a Dataframe variable of a different type](https://stackoverflow.com/questions/79238707/how-do-i-transfer-data-from-pandas-dataframe-to-a-dataframe-variable-of-a-differ) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
