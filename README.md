@@ -1,32 +1,33 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-12-03<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-12-04<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Rust trait bound does not propagate to sub traits](https://stackoverflow.com/questions/79248092/rust-trait-bound-does-not-propagate-to-sub-traits) - 1 votes
-* [insert_account_info does not set the account balance](https://stackoverflow.com/questions/79244534/insert-account-info-does-not-set-the-account-balance) - 1 votes
-* [HigherRank trait bounds with multiple generics](https://stackoverflow.com/questions/79244116/higher-rank-trait-bounds-with-multiple-generics) - 1 votes
-* [Cookies Set After Facebook OAuth Redirect Are Stored Under facebookcom Instead of My Domain](https://stackoverflow.com/questions/79243950/cookies-set-after-facebook-oauth-redirect-are-stored-under-facebook-com-instead) - 1 votes
+* [Idiomatic way to early return on OptionNone with a lot of Options](https://stackoverflow.com/questions/79252520/idiomatic-way-to-early-return-on-optionnone-with-a-lot-of-options) - 1 votes
+* [How to use the remote repositorys reference advertisement list in git2](https://stackoverflow.com/questions/79251018/how-to-use-the-remote-repository-s-reference-advertisement-list-in-git2) - 1 votes
+* [Trait bound does not propagate to sub traits](https://stackoverflow.com/questions/79248092/trait-bound-does-not-propagate-to-sub-traits) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI swagger authentication authorise button not handling verification](https://stackoverflow.com/questions/79243343/fastapi-swagger-authentication-authorise-button-not-handling-verification) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [Is there a way to type hint pandas column names](https://stackoverflow.com/questions/79250500/is-there-a-way-to-type-hint-pandas-column-names) - 2 votes
 * [Pandas dataframe  finding row comparing two cell values](https://stackoverflow.com/questions/79247499/pandas-dataframe-finding-row-comparing-two-cell-values) - 1 votes
-* [Filter Pandas DataFrame when all IDs are blank](https://stackoverflow.com/questions/79245819/filter-pandas-dataframe-when-all-ids-are-blank) - 1 votes
-* [Is Using pandastest Equivalent to Running pytest Directly](https://stackoverflow.com/questions/79244236/is-using-pandas-test-equivalent-to-running-pytest-directly) - 1 votes
+* [Pandas Filter and Sum but Apply to All Rows](https://stackoverflow.com/questions/79252245/pandas-filter-and-sum-but-apply-to-all-rows) - 1 votes
+* [Pandas DST ambiguous](https://stackoverflow.com/questions/79252297/pandas-dst-ambiguous) - 1 votes
+* [Why is the plot of the refractive index wavelengthdependent Fresnel39s equation not showing as expected](https://stackoverflow.com/questions/79249769/why-is-the-plot-of-the-refractive-index-wavelength-dependent-fresnels-equation) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
