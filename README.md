@@ -1,12 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-12-14<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-12-15<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [In rust How to allocate a large vector to a linked list without stack overflow](https://stackoverflow.com/questions/79282951/in-rust-how-to-allocate-a-large-vector-to-a-linked-list-without-stack-overflow) - 1 votes
 * [glVertexAttribPointer not taking effect on first call](https://stackoverflow.com/questions/79281139/glvertexattribpointer-not-taking-effect-on-first-call) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -22,11 +23,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-1
 
 ### pandas
 <!-- pandas starts -->
-* [How to use numpywhere in a pipe function for pandas dataframe groupby](https://stackoverflow.com/questions/79279060/how-to-use-numpy-where-in-a-pipe-function-for-pandas-dataframe-groupby) - 2 votes
 * [Skip rows with pandasread_csv commentquotquot but allow hash in the data](https://stackoverflow.com/questions/79280318/skip-rows-with-pandas-read-csv-comment-but-allow-hash-in-the-data) - 2 votes
-* [Update Pandas DataFrame slice rowwise using dictionary](https://stackoverflow.com/questions/79278796/update-pandas-dataframe-slice-row-wise-using-dictionary) - 1 votes
-* [Interpolating time series data for step values](https://stackoverflow.com/questions/79279588/interpolating-time-series-data-for-step-values) - 1 votes
-* [How to Vectorize Timezone Offset Calculation in Pandas DatetimeIndex for Improved Performance](https://stackoverflow.com/questions/79278065/how-to-vectorize-timezone-offset-calculation-in-pandas-datetimeindex-for-improve) - 1 votes
+* [Behavior of dfmap inside another dfapply](https://stackoverflow.com/questions/79280091/behavior-of-df-map-inside-another-df-apply) - 1 votes
+* [Split a Pandas column of lists with different lengths into multiple columns](https://stackoverflow.com/questions/79282130/split-a-pandas-column-of-lists-with-different-lengths-into-multiple-columns) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
