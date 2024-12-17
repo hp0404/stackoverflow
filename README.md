@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-12-16<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-12-17<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-
+* [Difference between declarations of trait bounds](https://stackoverflow.com/questions/79288786/difference-between-declarations-of-trait-bounds) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,9 +21,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-1
 
 ### pandas
 <!-- pandas starts -->
-* [Find average rate per group in specific years using groupby transform](https://stackoverflow.com/questions/79285449/find-average-rate-per-group-in-specific-years-using-groupby-transform) - 1 votes
-* [Split a Pandas column of lists with different lengths into multiple columns](https://stackoverflow.com/questions/79282130/split-a-pandas-column-of-lists-with-different-lengths-into-multiple-columns) - 1 votes
-* [Pandas  Change specific input based on row and column name](https://stackoverflow.com/questions/79283177/pandas-change-specific-input-based-on-row-and-column-name) - 1 votes
+* [Find average rate per group in specific years using groupby transform](https://stackoverflow.com/questions/79285449/find-average-rate-per-group-in-specific-years-using-groupby-transform) - 2 votes
+* [Use attribute name as column name for sqlalchemy in pandas read_sql](https://stackoverflow.com/questions/79286117/use-attribute-name-as-column-name-for-sqlalchemy-in-pandas-read-sql) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
