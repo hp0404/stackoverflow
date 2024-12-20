@@ -1,34 +1,34 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-12-19<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-12-20<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Is there a way to perform a scan of an inner byte range of a file containing multiple parquets in polars](https://stackoverflow.com/questions/79294841/is-there-a-way-to-perform-a-scan-of-an-inner-byte-range-of-a-file-containing-mul) - 2 votes
-* [Rust type inference failing with const generic](https://stackoverflow.com/questions/79289824/rust-type-inference-failing-with-const-generic) - 1 votes
+* [Implementing a ThreadSafe and Efficient Interning Map for Strings in Rust](https://stackoverflow.com/questions/79296359/implementing-a-thread-safe-and-efficient-interning-map-for-strings-in-rust) - 1 votes
 * [Increment constants inside macro](https://stackoverflow.com/questions/79294124/increment-constants-inside-macro) - 1 votes
 * [cargo build fails with quoterror failed to build archive no such file or directoryquot after adding any dependencies](https://stackoverflow.com/questions/79292903/cargo-build-fails-with-error-failed-to-build-archive-no-such-file-or-director) - 1 votes
+* [How to have different implementation for tuple of references vs tuple of values](https://stackoverflow.com/questions/79295722/how-to-have-different-implementation-for-tuple-of-references-vs-tuple-of-values) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [How to patch a 3rd party lib in a unit test with FastAPI client](https://stackoverflow.com/questions/79296005/how-to-patch-a-3rd-party-lib-in-a-unit-test-with-fastapi-client) - 1 votes
+* [sqlmodel ValueError ltclass 39list39gt has no matching SQLAlchemy type](https://stackoverflow.com/questions/79296853/sqlmodel-valueerror-class-list-has-no-matching-sqlalchemy-type) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [In Pandas how to reference and use a value from a dictionary based on column AND index values in a dataframe](https://stackoverflow.com/questions/79294574/in-pandas-how-to-reference-and-use-a-value-from-a-dictionary-based-on-column-an) - 2 votes
+* [How should I parse times in the Japanese quot30hourquot format for data analysis](https://stackoverflow.com/questions/79297758/how-should-i-parse-times-in-the-japanese-30-hour-format-for-data-analysis) - 3 votes
 * [How can I efficiently handle filtering and processing large datasets in Python with limited memory](https://stackoverflow.com/questions/79295381/how-can-i-efficiently-handle-filtering-and-processing-large-datasets-in-python-w) - 2 votes
-* [Model Training for Segmentation](https://stackoverflow.com/questions/79289735/model-training-for-segmentation) - 2 votes
-* [Groupby a df column based on more than 3 columns](https://stackoverflow.com/questions/79290203/groupby-a-df-column-based-on-more-than-3-columns) - 1 votes
-* [Fill pandas columns based on datetime condition](https://stackoverflow.com/questions/79291770/fill-pandas-columns-based-on-datetime-condition) - 1 votes
+* [In Pandas how to reference and use a value from a dictionary based on column AND index values in a dataframe](https://stackoverflow.com/questions/79294574/in-pandas-how-to-reference-and-use-a-value-from-a-dictionary-based-on-column-an) - 2 votes
+* [Rolling window selection with groupby in pandas](https://stackoverflow.com/questions/79296597/rolling-window-selection-with-groupby-in-pandas) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
