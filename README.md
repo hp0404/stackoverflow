@@ -1,12 +1,15 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-12-22<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-12-23<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Calling a Rust function that calls a Python function from Python code](https://stackoverflow.com/questions/79302101/calling-a-rust-function-that-calls-a-python-function-from-python-code) - 1 votes
+* [Is there a way using serde to define a struct as the result of an quotexplodequot](https://stackoverflow.com/questions/79303082/is-there-a-way-using-serde-to-define-a-struct-as-the-result-of-an-explode) - 1 votes
+* [How to pass NumPy arrays into Rust function using PyO3](https://stackoverflow.com/questions/79301787/how-to-pass-numpy-arrays-into-rust-function-using-pyo3) - 1 votes
 * [Convert pyclass instance to PyObject](https://stackoverflow.com/questions/79301595/convert-pyclass-instance-to-pyobject) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -14,16 +17,15 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-1
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [FastAPI and Couchbase](https://stackoverflow.com/questions/79300862/fastapi-and-couchbase) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Select rows if a condition is met in any two columns](https://stackoverflow.com/questions/79299908/select-rows-if-a-condition-is-met-in-any-two-columns) - 1 votes
-* [Issue with Pandas Handling Dictionaries with Mixed Lists and Ranges](https://stackoverflow.com/questions/79301051/issue-with-pandas-handling-dictionaries-with-mixed-lists-and-ranges) - 1 votes
-* [Create a dataframe from another dataframe and a list of formulas in Pandas Dataframe](https://stackoverflow.com/questions/79299616/create-a-dataframe-from-another-dataframe-and-a-list-of-formulas-in-pandas-dataf) - 1 votes
+* [Issue with Pandas Handling Dictionaries with Mixed Lists and Ranges](https://stackoverflow.com/questions/79301051/issue-with-pandas-handling-dictionaries-with-mixed-lists-and-ranges) - 2 votes
+* [Pandas Dataframe Creating a new column and filling it with values according to 2 conditional statements on other columns](https://stackoverflow.com/questions/79303358/pandas-dataframe-creating-a-new-column-and-filling-it-with-values-according-to) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
