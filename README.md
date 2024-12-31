@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2024-12-30<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2024-12-31<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,24 +8,28 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2024-1
 ### rust
 <!-- rust starts -->
 * [Rust WASM memory ptr is not same as JS Arraybuffer offset](https://stackoverflow.com/questions/79318121/rust-wasm-memory-ptr-is-not-same-as-js-arraybuffer-offset) - 2 votes
-* [Cargo Lambda not recognizing Axum Routes](https://stackoverflow.com/questions/79316363/cargo-lambda-not-recognizing-axum-routes) - 2 votes
-* [Why are these fields in this youtube XML data not being deserialized properly using quickxml in Rust](https://stackoverflow.com/questions/79314973/why-are-these-fields-in-this-youtube-xml-data-not-being-deserialized-properly-us) - 2 votes
 * [How to do priori calculations for rust iterators only once](https://stackoverflow.com/questions/79317784/how-to-do-priori-calculations-for-rust-iterators-only-once) - 1 votes
-* [Rust iterator that writes to collection](https://stackoverflow.com/questions/79318162/rust-iterator-that-writes-to-collection) - 1 votes
+* [Why is returning a private type a warning but not returning a public type of a private module](https://stackoverflow.com/questions/79319142/why-is-returning-a-private-type-a-warning-but-not-returning-a-public-type-of-a) - 1 votes
+* [How should I create a background process that communicates with many instances of a shell in a performant way](https://stackoverflow.com/questions/79320306/how-should-i-create-a-background-process-that-communicates-with-many-instances-o) - 1 votes
+* [Set of columns with struct fields or vectors](https://stackoverflow.com/questions/79319084/set-of-columns-with-struct-fields-or-vectors) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [FastAPI  Apache 409 response from FastAPI is converted to 502 What can be the reason](https://stackoverflow.com/questions/79319663/fastapi-apache-409-response-from-fastapi-is-converted-to-502-what-can-be-the) - 2 votes
+* [How can I run Uvicorn in ECS](https://stackoverflow.com/questions/79320768/how-can-i-run-uvicorn-in-ecs) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [Unable to replace the prefix in a Panda series](https://stackoverflow.com/questions/79320297/unable-to-replace-the-prefix-in-a-panda-series) - 1 votes
 * [Converting Pandas dataframe from long to wide format](https://stackoverflow.com/questions/79317617/converting-pandas-dataframe-from-long-to-wide-format) - 1 votes
+* [How to create combinations from dataframes for a specific combination size](https://stackoverflow.com/questions/79318743/how-to-create-combinations-from-dataframes-for-a-specific-combination-size) - 1 votes
+* [Comparing lociloc to tuples and chained indexing](https://stackoverflow.com/questions/79320067/comparing-loc-iloc-to-tuples-and-chained-indexing) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
