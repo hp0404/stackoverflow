@@ -1,30 +1,30 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-01-07<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-01-08<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Why can a const fn refer to a static but a const value cannot](https://stackoverflow.com/questions/79337453/why-can-a-const-fn-refer-to-a-static-but-a-const-value-cannot) - 5 votes
 * [Mapping VecltTgt to VecltKgt without new heap allocation where sizeT gt sizeK](https://stackoverflow.com/questions/79334662/mapping-vect-to-veck-without-new-heap-allocation-where-sizet-sizek) - 3 votes
-* [Packing dependent crates without publishng](https://stackoverflow.com/questions/79334495/packing-dependent-crates-without-publishng) - 1 votes
-* [Printing Polars dataframe in RUST](https://stackoverflow.com/questions/79331893/printing-polars-dataframe-in-rust) - 1 votes
+* [Is there something akin to Common Lisps quotspecial variablequot in Rust](https://stackoverflow.com/questions/79337586/is-there-something-akin-to-common-lisps-special-variable-in-rust) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to authenticate FastAPI from UI application deployed in Snowflake Container Services](https://stackoverflow.com/questions/79333208/how-to-authenticate-fastapi-from-ui-application-deployed-in-snowflake-container) - 2 votes
+* [AWS Lambda Internal Server Error when Deploying FastAPI with Serverless Framework  Unable to Import FastAPI](https://stackoverflow.com/questions/79338024/aws-lambda-internal-server-error-when-deploying-fastapi-with-serverless-framewor) - 2 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [Panda iterate rows and multiply nth row values to nextn1 row value](https://stackoverflow.com/questions/79338219/panda-iterate-rows-and-multiply-nth-row-values-to-nextn1-row-value) - 2 votes
 * [Getting strange output when using group by apply with npselect function](https://stackoverflow.com/questions/79335580/getting-strange-output-when-using-group-by-apply-with-np-select-function) - 1 votes
-* [Using one dataframe to find matching combinations in fixed sets](https://stackoverflow.com/questions/79331776/using-one-dataframe-to-find-matching-combinations-in-fixed-sets) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
