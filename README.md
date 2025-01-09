@@ -1,15 +1,14 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-01-08<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-01-09<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why can a const fn refer to a static but a const value cannot](https://stackoverflow.com/questions/79337453/why-can-a-const-fn-refer-to-a-static-but-a-const-value-cannot) - 5 votes
-* [Mapping VecltTgt to VecltKgt without new heap allocation where sizeT gt sizeK](https://stackoverflow.com/questions/79334662/mapping-vect-to-veck-without-new-heap-allocation-where-sizet-sizek) - 3 votes
-* [Is there something akin to Common Lisps quotspecial variablequot in Rust](https://stackoverflow.com/questions/79337586/is-there-something-akin-to-common-lisps-special-variable-in-rust) - 2 votes
+* [Running Rust app without showing the terminal  for MacOS](https://stackoverflow.com/questions/79340670/running-rust-app-without-showing-the-terminal-for-macos) - 1 votes
+* [How not to capture or move a String in a match branche or ok_or argument](https://stackoverflow.com/questions/79341727/how-not-to-capture-or-move-a-string-in-a-match-branche-or-ok-or-argument) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -24,7 +23,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 ### pandas
 <!-- pandas starts -->
 * [Panda iterate rows and multiply nth row values to nextn1 row value](https://stackoverflow.com/questions/79338219/panda-iterate-rows-and-multiply-nth-row-values-to-nextn1-row-value) - 2 votes
-* [Getting strange output when using group by apply with npselect function](https://stackoverflow.com/questions/79335580/getting-strange-output-when-using-group-by-apply-with-np-select-function) - 1 votes
+* [Missing some part of the groupby syntax](https://stackoverflow.com/questions/79343929/missing-some-part-of-the-groupby-syntax) - 1 votes
+* [Creating a link id between two related columns](https://stackoverflow.com/questions/79343315/creating-a-link-id-between-two-related-columns) - 1 votes
+* [How can I read in csv with columns that start and end withquot](https://stackoverflow.com/questions/79343679/how-can-i-read-in-csv-with-columns-that-start-and-end-with) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
