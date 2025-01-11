@@ -1,14 +1,14 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-01-10<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-01-11<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [What39s the difference between stdmemswap and stdintrinsicstyped_swap](https://stackoverflow.com/questions/79343833/whats-the-difference-between-stdmemswap-and-stdintrinsicstyped-swap) - 1 votes
-* [How not to capture or move a String in a match branch or ok_or argument](https://stackoverflow.com/questions/79341727/how-not-to-capture-or-move-a-string-in-a-match-branch-or-ok-or-argument) - 1 votes
+* [What is the difference between ltTypegtmethod AND Typemethod](https://stackoverflow.com/questions/79346708/what-is-the-difference-between-typemethod-and-typemethod) - 3 votes
+* [How to focus text_editor in rust Iced](https://stackoverflow.com/questions/79345013/how-to-focus-text-editor-in-rust-iced) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -22,9 +22,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [Missing some part of the groupby syntax](https://stackoverflow.com/questions/79343929/missing-some-part-of-the-groupby-syntax) - 2 votes
-* [Creating a link id between two related columns](https://stackoverflow.com/questions/79343315/creating-a-link-id-between-two-related-columns) - 1 votes
-* [Pandas shaping with adjustment](https://stackoverflow.com/questions/79342223/pandas-shaping-with-adjustment) - 1 votes
+* [Issues in updating Excel table range and conditional formatting programmatically using openpyxl python](https://stackoverflow.com/questions/79346838/issues-in-updating-excel-table-range-and-conditional-formatting-programmatically) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
