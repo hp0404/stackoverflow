@@ -1,17 +1,15 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-01-13<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-01-14<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [quotone type is more general than the otherquot for OsStr and tokiospawn](https://stackoverflow.com/questions/79350718/one-type-is-more-general-than-the-other-for-osstr-and-tokiospawn) - 3 votes
-* [Twice number of page faults for access to zeroinitialized memory](https://stackoverflow.com/questions/79349599/twice-number-of-page-faults-for-access-to-zero-initialized-memory) - 2 votes
-* [Iterator  multithreading fails in for loop](https://stackoverflow.com/questions/79350142/iterator-multithreading-fails-in-for-loop) - 1 votes
-* [Optional generic callbacksfunctions parameters for structure in the Rust](https://stackoverflow.com/questions/79350021/optional-generic-callbacks-functions-parameters-for-structure-in-the-rust) - 1 votes
-* [SendInput Only sending a single character instead of holding down a key](https://stackoverflow.com/questions/79349316/sendinput-only-sending-a-single-character-instead-of-holding-down-a-key) - 1 votes
+* [How to only build the tests using cargo](https://stackoverflow.com/questions/79353050/how-to-only-build-the-tests-using-cargo) - 2 votes
+* [Cast option values directly](https://stackoverflow.com/questions/79354594/cast-option-values-directly) - 2 votes
+* [Rust equivalent of C stdrank and stdextent](https://stackoverflow.com/questions/79354554/rust-equivalent-of-c-stdrank-and-stdextent) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -19,17 +17,16 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 ### fastapi
 <!-- fastapi starts -->
 * [How can I redirect a user from login page to another page and save their cookies](https://stackoverflow.com/questions/79352532/how-can-i-redirect-a-user-from-login-page-to-another-page-and-save-their-cookies) - 1 votes
-* [How to update Request39s session in a FastAPI middleware](https://stackoverflow.com/questions/79349609/how-to-update-requests-session-in-a-fastapi-middleware) - 1 votes
+* [Why does my FastAPI application redirect to HTTP and not HTTPS](https://stackoverflow.com/questions/79352184/why-does-my-fastapi-application-redirect-to-http-and-not-https) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How do I multiply the values of an array contained in a column in a dataframe by the value in another column](https://stackoverflow.com/questions/79349155/how-do-i-multiply-the-values-of-an-array-contained-in-a-column-in-a-dataframe-b) - 2 votes
-* [Assignment of tuple to pandas dataframe cell fails on joined dataframe](https://stackoverflow.com/questions/79349347/assignment-of-tuple-to-pandas-dataframe-cell-fails-on-joined-dataframe) - 2 votes
-* [suddenly getting quotOperands are not aligned Do left right  leftalignright axis1 copyFalse before operatingquot error](https://stackoverflow.com/questions/79350477/suddenly-getting-operands-are-not-aligned-do-left-right-left-alignright) - 2 votes
 * [How to make Numpy comparisons involving NaN to return NaN instead of False](https://stackoverflow.com/questions/79353068/how-to-make-numpy-comparisons-involving-nan-to-return-nan-instead-of-false) - 1 votes
+* [Reshape dictionary to make violin plot](https://stackoverflow.com/questions/79354633/reshape-dictionary-to-make-violin-plot) - 1 votes
+* [How can I scrape a table from baseball reference using pandas and beautiful soup](https://stackoverflow.com/questions/79354118/how-can-i-scrape-a-table-from-baseball-reference-using-pandas-and-beautiful-soup) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
