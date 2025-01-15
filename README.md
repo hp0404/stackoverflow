@@ -1,31 +1,34 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-01-14<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-01-15<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to only build the tests using cargo](https://stackoverflow.com/questions/79353050/how-to-only-build-the-tests-using-cargo) - 2 votes
 * [Cast option values directly](https://stackoverflow.com/questions/79354594/cast-option-values-directly) - 2 votes
-* [Rust equivalent of C stdrank and stdextent](https://stackoverflow.com/questions/79354554/rust-equivalent-of-c-stdrank-and-stdextent) - 1 votes
+* [What effect does _i32 generate for the element in an array of i32 used to filter](https://stackoverflow.com/questions/79356984/what-effect-does-i32-generate-for-the-element-in-an-array-of-i32-used-to-filter) - 2 votes
+* [Modulo operator in a match expression](https://stackoverflow.com/questions/79357198/modulo-operator-in-a-match-expression) - 1 votes
+* [What does the lifetime 39b 39a mean](https://stackoverflow.com/questions/79355012/what-does-the-lifetime-b-a-mean) - 1 votes
+* [how to clean specific crates in cargo cache  during dockerfile build optimization](https://stackoverflow.com/questions/79358273/how-to-clean-specific-crates-in-cargo-cache-during-dockerfile-build-optimizati) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How can I redirect a user from login page to another page and save their cookies](https://stackoverflow.com/questions/79352532/how-can-i-redirect-a-user-from-login-page-to-another-page-and-save-their-cookies) - 1 votes
-* [Why does my FastAPI application redirect to HTTP and not HTTPS](https://stackoverflow.com/questions/79352184/why-does-my-fastapi-application-redirect-to-http-and-not-https) - 1 votes
+* [FastAPI not being found in PATH after installing with uv in a Docker container](https://stackoverflow.com/questions/79356437/fastapi-not-being-found-in-path-after-installing-with-uv-in-a-docker-container) - 2 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How to make Numpy comparisons involving NaN to return NaN instead of False](https://stackoverflow.com/questions/79353068/how-to-make-numpy-comparisons-involving-nan-to-return-nan-instead-of-false) - 1 votes
+* [Crashing matplotlib with special chars in strings](https://stackoverflow.com/questions/79357992/crashing-matplotlib-with-special-chars-in-strings) - 1 votes
+* [Quick way to create hundreds of new columns in Pandas dataframe](https://stackoverflow.com/questions/79355334/quick-way-to-create-hundreds-of-new-columns-in-pandas-dataframe) - 1 votes
 * [Reshape dictionary to make violin plot](https://stackoverflow.com/questions/79354633/reshape-dictionary-to-make-violin-plot) - 1 votes
+* [Issue with histogram creation](https://stackoverflow.com/questions/79355299/issue-with-histogram-creation) - 1 votes
 * [How can I scrape a table from baseball reference using pandas and beautiful soup](https://stackoverflow.com/questions/79354118/how-can-i-scrape-a-table-from-baseball-reference-using-pandas-and-beautiful-soup) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
