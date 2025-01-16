@@ -1,16 +1,16 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-01-15<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-01-16<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Cast option values directly](https://stackoverflow.com/questions/79354594/cast-option-values-directly) - 2 votes
 * [What effect does _i32 generate for the element in an array of i32 used to filter](https://stackoverflow.com/questions/79356984/what-effect-does-i32-generate-for-the-element-in-an-array-of-i32-used-to-filter) - 2 votes
 * [Modulo operator in a match expression](https://stackoverflow.com/questions/79357198/modulo-operator-in-a-match-expression) - 1 votes
-* [What does the lifetime 39b 39a mean](https://stackoverflow.com/questions/79355012/what-does-the-lifetime-b-a-mean) - 1 votes
+* [Rust Win32 CreateMutexA not working to prevent duplicate application instances](https://stackoverflow.com/questions/79361543/rust-win32-createmutexa-not-working-to-prevent-duplicate-application-instances) - 1 votes
+* [Polars Rust equivalent to pllit repeated value in df](https://stackoverflow.com/questions/79360936/polars-rust-equivalent-to-pl-lit-repeated-value-in-df) - 1 votes
 * [how to clean specific crates in cargo cache  during dockerfile build optimization](https://stackoverflow.com/questions/79358273/how-to-clean-specific-crates-in-cargo-cache-during-dockerfile-build-optimizati) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -18,18 +18,18 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI not being found in PATH after installing with uv in a Docker container](https://stackoverflow.com/questions/79356437/fastapi-not-being-found-in-path-after-installing-with-uv-in-a-docker-container) - 2 votes
+* [Unable to Generate Prisma Client in Vercel Deployment for Python FastAPI Project](https://stackoverflow.com/questions/79361877/unable-to-generate-prisma-client-in-vercel-deployment-for-python-fastapi-project) - 1 votes
+* [Can ltasync_generatorgt be converted into BytesIO or similar](https://stackoverflow.com/questions/79360240/can-async-generator-be-converted-into-bytesio-or-similar) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [Creating reusable and composable filters for Pandas DataFrames](https://stackoverflow.com/questions/79361494/creating-reusable-and-composable-filters-for-pandas-dataframes) - 2 votes
 * [Crashing matplotlib with special chars in strings](https://stackoverflow.com/questions/79357992/crashing-matplotlib-with-special-chars-in-strings) - 1 votes
-* [Quick way to create hundreds of new columns in Pandas dataframe](https://stackoverflow.com/questions/79355334/quick-way-to-create-hundreds-of-new-columns-in-pandas-dataframe) - 1 votes
-* [Reshape dictionary to make violin plot](https://stackoverflow.com/questions/79354633/reshape-dictionary-to-make-violin-plot) - 1 votes
-* [Issue with histogram creation](https://stackoverflow.com/questions/79355299/issue-with-histogram-creation) - 1 votes
-* [How can I scrape a table from baseball reference using pandas and beautiful soup](https://stackoverflow.com/questions/79354118/how-can-i-scrape-a-table-from-baseball-reference-using-pandas-and-beautiful-soup) - 1 votes
+* [Pandas Change values of a dataframe based on an override](https://stackoverflow.com/questions/79362404/pandas-change-values-of-a-dataframe-based-on-an-override) - 1 votes
+* [Replace affects stuff it shouldn39t](https://stackoverflow.com/questions/79361211/replace-affects-stuff-it-shouldnt) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
