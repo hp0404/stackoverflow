@@ -1,13 +1,14 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-01-19<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-01-20<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Overflow when checking trait bound on a custom Add implementation](https://stackoverflow.com/questions/79369370/overflow-when-checking-trait-bound-on-a-custom-add-implementation) - 3 votes
+* [Overflow when checking trait bound on a custom Add implementation](https://stackoverflow.com/questions/79369370/overflow-when-checking-trait-bound-on-a-custom-add-implementation) - 4 votes
+* [Discrepancies between cargo check command and rustanalyzer](https://stackoverflow.com/questions/79368520/discrepancies-between-cargo-check-command-and-rust-analyzer) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,9 +22,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas dataframe add a mark columns by two other columns condition](https://stackoverflow.com/questions/79367366/pandas-dataframe-add-a-mark-columns-by-two-other-columns-condition) - 1 votes
-* [Image scan not enough values to unpack expected 4 got 2](https://stackoverflow.com/questions/79368140/image-scan-not-enough-values-to-unpack-expected-4-got-2) - 1 votes
-* [Pandas plot or matplotlib first plot very slow](https://stackoverflow.com/questions/79367432/pandas-plot-or-matplotlib-first-plot-very-slow) - 1 votes
+* [Have only 2 classes but why am I getting ValueError Target is multiclass but average  39binary39 Please choose another average setting](https://stackoverflow.com/questions/79371534/have-only-2-classes-but-why-am-i-getting-valueerror-target-is-multiclass-but-av) - 1 votes
+* [Parse the path directory and file location upto last x paths in pandas](https://stackoverflow.com/questions/79370983/parse-the-path-directory-and-file-location-upto-last-x-paths-in-pandas) - 1 votes
+* [Why is Dask slower than Pandas in computing the mean of a large dataset and how can I improve performance](https://stackoverflow.com/questions/79369679/why-is-dask-slower-than-pandas-in-computing-the-mean-of-a-large-dataset-and-how) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
