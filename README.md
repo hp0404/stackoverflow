@@ -1,22 +1,20 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-01-26<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-01-27<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Linking against GHCWASM foreign library](https://stackoverflow.com/questions/79387468/linking-against-ghc-wasm-foreign-library) - 5 votes
-* [Any way to constrain lifetime of associated type](https://stackoverflow.com/questions/79387520/any-way-to-constrain-lifetime-of-associated-type) - 1 votes
-* [How to load glb Assets via bevy_asset_loader](https://stackoverflow.com/questions/79385993/how-to-load-glb-assets-via-bevy-asset-loader) - 1 votes
+* [Rust ndarray statically allocate an array](https://stackoverflow.com/questions/79389132/rust-ndarray-statically-allocate-an-array) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to read a file into memory in FastAPI and pass it to MarkItDown library](https://stackoverflow.com/questions/79386093/how-to-read-a-file-into-memory-in-fastapi-and-pass-it-to-markitdown-library) - 1 votes
+* [Python fastapi yield content of streaming response](https://stackoverflow.com/questions/79390309/python-fastapi-yield-content-of-streaming-response) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -24,6 +22,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 ### pandas
 <!-- pandas starts -->
 * [How to make values into rows instead of columns when using pivot table in pandas](https://stackoverflow.com/questions/79387911/how-to-make-values-into-rows-instead-of-columns-when-using-pivot-table-in-pandas) - 1 votes
+* [CSV file not generating in expected folder Prints out in terminal window](https://stackoverflow.com/questions/79388899/csv-file-not-generating-in-expected-folder-prints-out-in-terminal-window) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
