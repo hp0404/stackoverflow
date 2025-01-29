@@ -1,32 +1,33 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-01-28<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-01-29<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Type of slicing a slice](https://stackoverflow.com/questions/79395480/type-of-slicing-a-slice) - 5 votes
+* [Mutex lock not released in Dropdrop](https://stackoverflow.com/questions/79396801/mutex-lock-not-released-in-dropdrop) - 1 votes
+* [configure to run buildrs only under specific conditions](https://stackoverflow.com/questions/79395794/configure-to-run-build-rs-only-under-specific-conditions) - 1 votes
 * [Why can I not use BufReader with cloudflare workerSocket](https://stackoverflow.com/questions/79394339/why-can-i-not-use-bufreader-with-cloudflare-workersocket) - 1 votes
-* [How to use swc_ecma_codegen](https://stackoverflow.com/questions/79392332/how-to-use-swc-ecma-codegen) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Python fastapi yield content of streaming response](https://stackoverflow.com/questions/79390309/python-fastapi-yield-content-of-streaming-response) - 1 votes
 * [How to get the formdata from bytes objects](https://stackoverflow.com/questions/79394583/how-to-get-the-form-data-from-bytes-objects) - 1 votes
-* [Python SQLModel inheritance returns AttributeError](https://stackoverflow.com/questions/79391332/python-sqlmodel-inheritance-returns-attributeerror) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
+* [Converting a pandas dataframe in wide format to long format](https://stackoverflow.com/questions/79396950/converting-a-pandas-dataframe-in-wide-format-to-long-format) - 2 votes
 * [Transforming Data with implicit categories in header with pandas](https://stackoverflow.com/questions/79393122/transforming-data-with-implicit-categories-in-header-with-pandas) - 2 votes
-* [Pandas Batch Update Account String](https://stackoverflow.com/questions/79392038/pandas-batch-update-account-string) - 1 votes
-* [How to Dynamically Map DirectoryBased Identifiers to a Specific Column in Annotated Output Files](https://stackoverflow.com/questions/79392369/how-to-dynamically-map-directory-based-identifiers-to-a-specific-column-in-annot) - 1 votes
+* [Datatype checks and assigning dynamic values in Pandas](https://stackoverflow.com/questions/79392973/datatype-checks-and-assigning-dynamic-values-in-pandas) - 1 votes
+* [How can I extract specific objects transpose and combine multiple complexnested JSON files into a CSV using python and pandas](https://stackoverflow.com/questions/79395343/how-can-i-extract-specific-objects-transpose-and-combine-multiple-complex-nes) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
