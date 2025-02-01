@@ -1,14 +1,14 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-01-31<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-02-01<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to create a custom function expression](https://stackoverflow.com/questions/79398676/how-to-create-a-custom-function-expression) - 2 votes
 * [How to iterate through a collection but only a required number of items](https://stackoverflow.com/questions/79402886/how-to-iterate-through-a-collection-but-only-a-required-number-of-items) - 1 votes
+* [How to make Rust Analyzer to check when you type in Zed](https://stackoverflow.com/questions/79404807/how-to-make-rust-analyzer-to-check-when-you-type-in-zed) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -22,9 +22,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [How to sample Pandas DataFrame using a normal distribution by using random_state and numpy Generators](https://stackoverflow.com/questions/79399929/how-to-sample-pandas-dataframe-using-a-normal-distribution-by-using-random-state) - 1 votes
+* [Using named columns and relative row numbers with Pandas 3](https://stackoverflow.com/questions/79405200/using-named-columns-and-relative-row-numbers-with-pandas-3) - 1 votes
+* [Conditional mapping in pandas](https://stackoverflow.com/questions/79404815/conditional-mapping-in-pandas) - 1 votes
+* [Pandas  Read Datasets That Came in Multiple Files](https://stackoverflow.com/questions/79403434/pandas-read-datasets-that-came-in-multiple-files) - 1 votes
 * [Token caching when using Pandas to read files from Azure Storage](https://stackoverflow.com/questions/79402987/token-caching-when-using-pandas-to-read-files-from-azure-storage) - 1 votes
-* [How to bold part of a cell value in a pandas data frame while writing to excel using xlsxwriter](https://stackoverflow.com/questions/79401370/how-to-bold-part-of-a-cell-value-in-a-pandas-data-frame-while-writing-to-excel-u) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
