@@ -1,15 +1,14 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-02-15<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-02-16<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to sum a column](https://stackoverflow.com/questions/79438719/how-to-sum-a-column) - 1 votes
+* [Get a ampmut u8 from a MaybeUninit for writing to](https://stackoverflow.com/questions/79443431/get-a-mut-u8-from-a-maybeuninit-for-writing-to) - 1 votes
 * [How can I make multiple copies of a slice to use in different threads](https://stackoverflow.com/questions/79441897/how-can-i-make-multiple-copies-of-a-slice-to-use-in-different-threads) - 1 votes
-* [Why does replace work on a raw pointer but as_mut doesn39t in Rust](https://stackoverflow.com/questions/79439307/why-does-replace-work-on-a-raw-pointer-but-as-mut-doesnt-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -24,8 +23,6 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 ### pandas
 <!-- pandas starts -->
 * [Subtle mistake in pandas applylambda g gshift1 fill_value0cumsum](https://stackoverflow.com/questions/79442105/subtle-mistake-in-pandas-applylambda-g-g-shift1-fill-value-0-cumsum) - 1 votes
-* [How to accurately implement typing with pandas](https://stackoverflow.com/questions/79440392/how-to-accurately-implement-typing-with-pandas) - 1 votes
-* [Should we precalculate scalar calculations before we apply them to dataframe columns](https://stackoverflow.com/questions/79440315/should-we-pre-calculate-scalar-calculations-before-we-apply-them-to-dataframe-co) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
