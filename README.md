@@ -1,24 +1,25 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-02-23<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-02-24<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why does the introduction of a variable cause the returned Future to be Send](https://stackoverflow.com/questions/79459356/why-does-the-introduction-of-a-variable-cause-the-returned-future-to-be-send) - 4 votes
-* [Using AsyncFnOnce with tokiospawn](https://stackoverflow.com/questions/79459939/using-asyncfnonce-with-tokiospawn) - 3 votes
+* [Initializing Rcltu8gt directly without double allocation](https://stackoverflow.com/questions/79462776/initializing-rcu8-directly-without-double-allocation) - 4 votes
+* [Renaming a single column with unknown name in PolarsRust](https://stackoverflow.com/questions/79463690/renaming-a-single-column-with-unknown-name-in-polars-rust) - 2 votes
 * [Use pattern matching to split array into subarrays](https://stackoverflow.com/questions/79460690/use-pattern-matching-to-split-array-into-sub-arrays) - 2 votes
-* [Is the observer pattern impossible to implement in embedded Rust](https://stackoverflow.com/questions/79461379/is-the-observer-pattern-impossible-to-implement-in-embedded-rust) - 1 votes
-* [need to know how use a wildcard output with Spidev gt ioResult in Rust](https://stackoverflow.com/questions/79459420/need-to-know-how-use-a-wildcard-output-with-spidev-ioresult-in-rust) - 1 votes
+* [Is the observer pattern impossible to implement in embedded Rust](https://stackoverflow.com/questions/79461379/is-the-observer-pattern-impossible-to-implement-in-embedded-rust) - 2 votes
+* [How to map an integer in a specific range to the same range randomly and uniquely](https://stackoverflow.com/questions/79462619/how-to-map-an-integer-in-a-specific-range-to-the-same-range-randomly-and-uniquel) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [FastAPI lifespan does not work when running with docker](https://stackoverflow.com/questions/79462013/fastapi-lifespan-does-not-work-when-running-with-docker) - 3 votes
+* [Pydantic serialization  return a flat response from nested models](https://stackoverflow.com/questions/79464031/pydantic-serialization-return-a-flat-response-from-nested-models) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
