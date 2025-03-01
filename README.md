@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-02-28<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-03-01<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to iterate a String by words in Rust](https://stackoverflow.com/questions/79474118/how-to-iterate-a-string-by-words-in-rust) - 3 votes
-* [Complex lifetime issue](https://stackoverflow.com/questions/79476292/complex-lifetime-issue) - 2 votes
-* [Call Boxltdyn FnMutgt as struct field](https://stackoverflow.com/questions/79471410/call-boxdyn-fnmut-as-struct-field) - 2 votes
-* [Polars expressions that switches on data type](https://stackoverflow.com/questions/79471471/polars-expressions-that-switches-on-data-type) - 1 votes
-* [Upgrading argon2 from 05 to 053 gives error no OsRng in the root](https://stackoverflow.com/questions/79473286/upgrading-argon2-from-0-5-to-0-5-3-gives-error-no-osrng-in-the-root) - 1 votes
+* [Is there a C polymorphic memory resource equivalent in Rust](https://stackoverflow.com/questions/79477130/is-there-a-c-polymorphic-memory-resource-equivalent-in-rust) - 4 votes
+* [How to specify lifetime for referencing a value from an iterator in order to peek its contents](https://stackoverflow.com/questions/79476292/how-to-specify-lifetime-for-referencing-a-value-from-an-iterator-in-order-to-pee) - 2 votes
+* [Trying to make bounded floating point types in rust problem with From and Into](https://stackoverflow.com/questions/79477879/trying-to-make-bounded-floating-point-types-in-rust-problem-with-from-and-into) - 2 votes
+* [Why does the resulting WAT code not seem to align with the function which produced it](https://stackoverflow.com/questions/79477526/why-does-the-resulting-wat-code-not-seem-to-align-with-the-function-which-produc) - 2 votes
+* [What is the idiomatic way to handle code duplication in match bindings for Result](https://stackoverflow.com/questions/79477164/what-is-the-idiomatic-way-to-handle-code-duplication-in-match-bindings-for-resul) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -25,10 +25,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [how to access a dictionary key storing a list in a list of lists and dictionaries](https://stackoverflow.com/questions/79472665/how-to-access-a-dictionary-key-storing-a-list-in-a-list-of-lists-and-dictionarie) - 2 votes
-* [How to group by on multiple columns and retain the original index in a pandas dataframe](https://stackoverflow.com/questions/79473874/how-to-group-by-on-multiple-columns-and-retain-the-original-index-in-a-pandas-da) - 1 votes
-* [Python definition of a function which accepts any dataframe and any of the first inputted dataframe columns](https://stackoverflow.com/questions/79473658/python-definition-of-a-function-which-accepts-any-dataframe-and-any-of-the-first) - 1 votes
-* [In Python Pandas DataFrameapply method lambda expression is taking apply method39s argument](https://stackoverflow.com/questions/79473657/in-python-pandas-dataframe-apply-method-lambda-expression-is-taking-apply-me) - 1 votes
+* [Getting count of unqiue column values based on another column in df](https://stackoverflow.com/questions/79477395/getting-count-of-unqiue-column-values-based-on-another-column-in-df) - 2 votes
+* [Pandas groupby make all elements 0 if first element is 1](https://stackoverflow.com/questions/79476892/pandas-groupby-make-all-elements-0-if-first-element-is-1) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
