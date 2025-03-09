@@ -2,37 +2,37 @@ name: Build README
 
 on:
   schedule:
-    - cron:  '15 21 * * *'
+    - cron: '15 21 * * *'
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
-    - name: Check out repo
-      uses: actions/checkout@v2
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.8
-    - uses: actions/cache@v2
-      name: Configure pip caching
-      with:
-        path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-pip-
-    - name: Install Python dependencies
-      run: |
-        python -m pip install -r requirements.txt
-    - name: Update README
-      run: |-
-        python build_readme.py
-        cat README.md
-    - name: Commit and push if changed
-      run: |-
-        git diff
-        git config --global user.email "readme-bot@example.com"
-        git config --global user.name "README-bot"
-        git add README.md
-        git commit -m "Updated README" || exit 0
-        git push
+      - name: Check out repo
+        uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.8
+      - name: Configure pip caching
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Install Python dependencies
+        run: |
+          python -m pip install -r requirements.txt
+      - name: Update README
+        run: |
+          python build_readme.py
+          cat README.md
+      - name: Commit and push if changed
+        run: |
+          git diff
+          git config --global user.email "readme-bot@example.com"
+          git config --global user.name "README-bot"
+          git add README.md
+          git commit -m "Updated README" || exit 0
+          git push
