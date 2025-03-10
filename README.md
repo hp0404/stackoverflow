@@ -1,16 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-03-02<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-03-10<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Is there a C polymorphic memory resource equivalent in Rust](https://stackoverflow.com/questions/79477130/is-there-a-c-polymorphic-memory-resource-equivalent-in-rust) - 4 votes
-* [Trying to make bounded floating point types in rust problem with From and Into](https://stackoverflow.com/questions/79477879/trying-to-make-bounded-floating-point-types-in-rust-problem-with-from-and-into) - 4 votes
-* [Why does the resulting WAT code not seem to align with the function which produced it](https://stackoverflow.com/questions/79477526/why-does-the-resulting-wat-code-not-seem-to-align-with-the-function-which-produc) - 2 votes
-* [What is the idiomatic way to handle code duplication in match bindings for Result](https://stackoverflow.com/questions/79477164/what-is-the-idiomatic-way-to-handle-code-duplication-in-match-bindings-for-resul) - 1 votes
+* [In Rust fastnum make division yield Inf](https://stackoverflow.com/questions/79496220/in-rust-fastnum-make-division-yield-inf) - 4 votes
+* [Convert fastnum decimal number to usize](https://stackoverflow.com/questions/79496890/convert-fastnum-decimal-number-to-usize) - 3 votes
+* [Rust optimizes away all the interruptexception handlers from riscvrt](https://stackoverflow.com/questions/79496840/rust-optimizes-away-all-the-interrupt-exception-handlers-from-riscv-rt) - 3 votes
+* [Is writing to the same file from multiple threads thread safe](https://stackoverflow.com/questions/79497289/is-writing-to-the-same-file-from-multiple-threads-thread-safe) - 1 votes
+* [how to return value with lifetime bound with struct39s field](https://stackoverflow.com/questions/79497555/how-to-return-value-with-lifetime-bound-with-structs-field) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -24,8 +25,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [Getting count of unqiue column values based on another column in df](https://stackoverflow.com/questions/79477395/getting-count-of-unqiue-column-values-based-on-another-column-in-df) - 2 votes
-* [Is it possible to increase the space between trace lines that are overlapping on the Xaxis and Yaxis in Plotly](https://stackoverflow.com/questions/79479347/is-it-possible-to-increase-the-space-between-trace-lines-that-are-overlapping-on) - 1 votes
+* [Index Pandas with multiple boolean arrays](https://stackoverflow.com/questions/79497724/index-pandas-with-multiple-boolean-arrays) - 2 votes
+* [Python Pandas extract quotrangequot object column values to 2 other colulmns with int type](https://stackoverflow.com/questions/79497048/python-pandas-extract-range-object-column-values-to-2-other-colulmns-with-int) - 2 votes
+* [Mean value with special dependency](https://stackoverflow.com/questions/79497570/mean-value-with-special-dependency) - 1 votes
+* [plotting vertical lines on pandas line plot with multiindex x axis](https://stackoverflow.com/questions/79496136/plotting-vertical-lines-on-pandas-line-plot-with-multiindex-x-axis) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
