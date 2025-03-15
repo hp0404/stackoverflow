@@ -1,16 +1,16 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-03-14<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-03-15<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Returning multiple values Pair from Rust to Android through JNI](https://stackoverflow.com/questions/79505671/returning-multiple-values-pair-from-rust-to-android-through-jni) - 3 votes
-* [Using an iterator in a loop always returns the first element](https://stackoverflow.com/questions/79509022/using-an-iterator-in-a-loop-always-returns-the-first-element) - 1 votes
+* [My struct has a field implementing a generic trait GltTgt but it has no fields using T directly Is this a legitimate use of PhantomData](https://stackoverflow.com/questions/79511161/my-struct-has-a-field-implementing-a-generic-trait-gt-but-it-has-no-fields-us) - 5 votes
+* [Pass cargo build options to trunk](https://stackoverflow.com/questions/79511384/pass-cargo-build-options-to-trunk) - 2 votes
 * [implied bounds on associated type work independently but don39t compose](https://stackoverflow.com/questions/79509978/implied-bounds-on-associated-type-work-independently-but-dont-compose) - 1 votes
-* [Passing file name dynamically to a procedural macro as argument](https://stackoverflow.com/questions/79506264/passing-file-name-dynamically-to-a-procedural-macro-as-argument) - 1 votes
+* [Can I use OptionNonNull for pointers in Rust when calling C functions](https://stackoverflow.com/questions/79511120/can-i-use-option-nonnull-for-pointers-in-rust-when-calling-c-functions) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -18,16 +18,14 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 ### fastapi
 <!-- fastapi starts -->
 * [How to apply a global rate limit for all routes using SlowAPI and FastAPI](https://stackoverflow.com/questions/79508238/how-to-apply-a-global-rate-limit-for-all-routes-using-slowapi-and-fastapi) - 1 votes
-* [Passing Integers to FastAPI post endpoint](https://stackoverflow.com/questions/79506954/passing-integers-to-fastapi-post-endpoint) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Dataframe fill for null values  Pandas](https://stackoverflow.com/questions/79507131/dataframe-fill-for-null-values-pandas) - 2 votes
 * [Polars group_by  describe return all columns as single dataframe](https://stackoverflow.com/questions/79509728/polars-group-by-describe-return-all-columns-as-single-dataframe) - 2 votes
-* [Why can I read a file with pandas but not with polars](https://stackoverflow.com/questions/79505931/why-can-i-read-a-file-with-pandas-but-not-with-polars) - 1 votes
+* [how to read a file and reformat some columns into new rows](https://stackoverflow.com/questions/79509755/how-to-read-a-file-and-reformat-some-columns-into-new-rows) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
