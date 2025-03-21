@@ -1,16 +1,15 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-03-20<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-03-21<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to initialize all unit tests with the same value and only once in Rust](https://stackoverflow.com/questions/79521303/how-to-initialize-all-unit-tests-with-the-same-value-and-only-once-in-rust) - 2 votes
 * [Is It Possible To Call Diesel ORM Functions In A Trait39s Default Implementation](https://stackoverflow.com/questions/79523768/is-it-possible-to-call-diesel-orm-functions-in-a-traits-default-implementation) - 1 votes
-* [Is moving a value guarantee it39s copy](https://stackoverflow.com/questions/79521513/is-moving-a-value-guarantee-its-copy) - 1 votes
-* [Is there a way to see interpolated mysql query for debugging in Rust](https://stackoverflow.com/questions/79520298/is-there-a-way-to-see-interpolated-mysql-query-for-debugging-in-rust) - 1 votes
+* [compilingbuilding rustc from sources](https://stackoverflow.com/questions/79523988/compiling-building-rustc-from-sources) - 1 votes
+* [Achieve async FFI swiftrust with swiftrs crate](https://stackoverflow.com/questions/79522963/achieve-async-ffi-swift-rust-with-swift-rs-crate) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -24,10 +23,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [Why stdskipnaFalse and stdskipnaTrue yield different results even when there are no NaN or null values in the Series](https://stackoverflow.com/questions/79518999/why-stdskipna-false-and-stdskipna-true-yield-different-results-even-when-the) - 3 votes
-* [What is the best way to get the last non zero value in a window of N rows](https://stackoverflow.com/questions/79519830/what-is-the-best-way-to-get-the-last-non-zero-value-in-a-window-of-n-rows) - 2 votes
+* [Replace values in series with first regex group if found if not leave nan](https://stackoverflow.com/questions/79524057/replace-values-in-series-with-first-regex-group-if-found-if-not-leave-nan) - 5 votes
 * [NonExistentTime error caused by pandasTimestampfloor with localised timestamp](https://stackoverflow.com/questions/79522783/nonexistenttime-error-caused-by-pandas-timestamp-floor-with-localised-timestamp) - 2 votes
 * [Error opening Excel file in python edited on Excel Web Interface](https://stackoverflow.com/questions/79522491/error-opening-excel-file-in-python-edited-on-excel-web-interface) - 2 votes
+* [Nullable ints and pandera unit testing](https://stackoverflow.com/questions/79525541/nullable-ints-and-pandera-unit-testing) - 1 votes
+* [ValueError could not convert string to float 3976498401890452700039geopandas](https://stackoverflow.com/questions/79525356/valueerror-could-not-convert-string-to-float-76-4984018-904527-000geopandas) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
