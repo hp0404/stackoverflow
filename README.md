@@ -1,32 +1,32 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-03-26<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-03-27<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why use Rust traits for quotimplementing shared behaviorquot if each object with the same trait still needs its own implementation written](https://stackoverflow.com/questions/79533740/why-use-rust-traits-for-implementing-shared-behavior-if-each-object-with-the-s) - 1 votes
-* [How to append a row with columnwise means in a Polars DataFrame in Rust](https://stackoverflow.com/questions/79533444/how-to-append-a-row-with-column-wise-means-in-a-polars-dataframe-in-rust) - 1 votes
+* [enabledisable enum variant with const generic parameter](https://stackoverflow.com/questions/79537402/enable-disable-enum-variant-with-const-generic-parameter) - 2 votes
+* [Rust macro to turn a struct into a hashmap](https://stackoverflow.com/questions/79536908/rust-macro-to-turn-a-struct-into-a-hashmap) - 2 votes
+* [Force dependency to use same version of subdependency](https://stackoverflow.com/questions/79539628/force-dependency-to-use-same-version-of-sub-dependency) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to use validators in pydantic for default values in combination with ORM mode](https://stackoverflow.com/questions/79533481/how-to-use-validators-in-pydantic-for-default-values-in-combination-with-orm-mod) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Using vectors to manipulate columns and add new ones in multiindex dataframes](https://stackoverflow.com/questions/79532506/using-vectors-to-manipulate-columns-and-add-new-ones-in-multiindex-dataframes) - 2 votes
-* [Saving df to excel without deleting other sheets](https://stackoverflow.com/questions/79534642/saving-df-to-excel-without-deleting-other-sheets) - 2 votes
-* [Explode Function and Reshaping in one Step](https://stackoverflow.com/questions/79534705/explode-function-and-reshaping-in-one-step) - 1 votes
+* [Extract the names and regexes of individual regex groups](https://stackoverflow.com/questions/79537565/extract-the-names-and-regexes-of-individual-regex-groups) - 3 votes
+* [Pandas group by  maximum row for a subset](https://stackoverflow.com/questions/79537356/pandas-group-by-maximum-row-for-a-subset) - 2 votes
+* [Pandas read_parquet can39t understand time data type in dataframe columns](https://stackoverflow.com/questions/79539480/pandas-read-parquet-cant-understand-time-data-type-in-dataframe-columns) - 1 votes
 * [How can I verify the value of a dataframe element](https://stackoverflow.com/questions/79536625/how-can-i-verify-the-value-of-a-dataframe-element) - 1 votes
-* [how to write the json with subdocument column names to json](https://stackoverflow.com/questions/79534710/how-to-write-the-json-with-subdocument-column-names-to-json) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
