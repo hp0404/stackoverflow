@@ -1,14 +1,14 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-03-27<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-03-28<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [enabledisable enum variant with const generic parameter](https://stackoverflow.com/questions/79537402/enable-disable-enum-variant-with-const-generic-parameter) - 2 votes
-* [Rust macro to turn a struct into a hashmap](https://stackoverflow.com/questions/79536908/rust-macro-to-turn-a-struct-into-a-hashmap) - 2 votes
+* [How to instantiate a struct containing many private properties in a separate module without using a constructor function](https://stackoverflow.com/questions/79541857/how-to-instantiate-a-struct-containing-many-private-properties-in-a-separate-mod) - 2 votes
+* [Idiomatic way to use the  operator in rust when not returning a Result](https://stackoverflow.com/questions/79540164/idiomatic-way-to-use-the-operator-in-rust-when-not-returning-a-result) - 1 votes
 * [Force dependency to use same version of subdependency](https://stackoverflow.com/questions/79539628/force-dependency-to-use-same-version-of-sub-dependency) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -24,9 +24,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 ### pandas
 <!-- pandas starts -->
 * [Extract the names and regexes of individual regex groups](https://stackoverflow.com/questions/79537565/extract-the-names-and-regexes-of-individual-regex-groups) - 3 votes
-* [Pandas group by  maximum row for a subset](https://stackoverflow.com/questions/79537356/pandas-group-by-maximum-row-for-a-subset) - 2 votes
+* [Plotly express histogram custom bin size](https://stackoverflow.com/questions/79540085/plotly-express-histogram-custom-bin-size) - 1 votes
 * [Pandas read_parquet can39t understand time data type in dataframe columns](https://stackoverflow.com/questions/79539480/pandas-read-parquet-cant-understand-time-data-type-in-dataframe-columns) - 1 votes
-* [How can I verify the value of a dataframe element](https://stackoverflow.com/questions/79536625/how-can-i-verify-the-value-of-a-dataframe-element) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
