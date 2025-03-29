@@ -1,15 +1,15 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-03-28<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-03-29<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to instantiate a struct containing many private properties in a separate module without using a constructor function](https://stackoverflow.com/questions/79541857/how-to-instantiate-a-struct-containing-many-private-properties-in-a-separate-mod) - 2 votes
-* [Idiomatic way to use the  operator in rust when not returning a Result](https://stackoverflow.com/questions/79540164/idiomatic-way-to-use-the-operator-in-rust-when-not-returning-a-result) - 1 votes
-* [Force dependency to use same version of subdependency](https://stackoverflow.com/questions/79539628/force-dependency-to-use-same-version-of-sub-dependency) - 1 votes
+* [T Traitimpl Trait doesn39t satisfy dyn Trait except when it does](https://stackoverflow.com/questions/79542660/t-trait-impl-trait-doesnt-satisfy-dyn-trait-except-when-it-does) - 5 votes
+* [UB in SeqLock implementation in Rust](https://stackoverflow.com/questions/79542941/ub-in-seqlock-implementation-in-rust) - 4 votes
+* [How to instantiate a struct containing many private properties in a separate module without using a constructor function](https://stackoverflow.com/questions/79541857/how-to-instantiate-a-struct-containing-many-private-properties-in-a-separate-mod) - 3 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -23,9 +23,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [Extract the names and regexes of individual regex groups](https://stackoverflow.com/questions/79537565/extract-the-names-and-regexes-of-individual-regex-groups) - 3 votes
-* [Plotly express histogram custom bin size](https://stackoverflow.com/questions/79540085/plotly-express-histogram-custom-bin-size) - 1 votes
-* [Pandas read_parquet can39t understand time data type in dataframe columns](https://stackoverflow.com/questions/79539480/pandas-read-parquet-cant-understand-time-data-type-in-dataframe-columns) - 1 votes
+* [How to add aliases to consecutive occurrences in column](https://stackoverflow.com/questions/79541633/how-to-add-aliases-to-consecutive-occurrences-in-column) - 1 votes
+* [How to strip quotes from CSV table](https://stackoverflow.com/questions/79542528/how-to-strip-quotes-from-csv-table) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
