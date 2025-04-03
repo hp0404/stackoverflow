@@ -1,16 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-04-02<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-04-03<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Why does a refcell borrowed within an expression live longer than intended while borrowing to a variable works](https://stackoverflow.com/questions/79552781/why-does-a-refcell-borrowed-within-an-expression-live-longer-than-intended-whil) - 2 votes
+* [How do I move as many elements as possible from a Vec into a preexisting slice](https://stackoverflow.com/questions/79551210/how-do-i-move-as-many-elements-as-possible-from-a-vec-into-a-pre-existing-slice) - 1 votes
+* [Using is_in in rustpolars](https://stackoverflow.com/questions/79552814/using-is-in-in-rust-polars) - 1 votes
 * [why it cant compile when i remove 39static in method](https://stackoverflow.com/questions/79549572/why-it-cant-compile-when-i-remove-static-in-method) - 1 votes
-* [Writing a nom parser combinator that tries various parsers built from a supplied parser and combinators](https://stackoverflow.com/questions/79548220/writing-a-nom-parser-combinator-that-tries-various-parsers-built-from-a-supplied) - 1 votes
-* [How to pass a pointer provenance over FFI boundaries](https://stackoverflow.com/questions/79551556/how-to-pass-a-pointer-provenance-over-ffi-boundaries) - 1 votes
-* [How to share HashMap between blocking and async functions in Rust](https://stackoverflow.com/questions/79550372/how-to-share-hashmap-between-blocking-and-async-functions-in-rust) - 1 votes
+* [How to insert a character from a virtual keyboard into the focused window using Tauri and pure JS](https://stackoverflow.com/questions/79551800/how-to-insert-a-character-from-a-virtual-keyboard-into-the-focused-window-using) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -24,8 +25,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [Get a row subset of a Pandas Dataframe based on conditions with query](https://stackoverflow.com/questions/79550403/get-a-row-subset-of-a-pandas-dataframe-based-on-conditions-with-query) - 1 votes
-* [How to do a groupby on a cxvpy Variable is there a way using pandas](https://stackoverflow.com/questions/79548243/how-to-do-a-groupby-on-a-cxvpy-variable-is-there-a-way-using-pandas) - 1 votes
+* [How to preprocess multivalue attributes in a dataframe](https://stackoverflow.com/questions/79551904/how-to-preprocess-multivalue-attributes-in-a-dataframe) - 2 votes
+* [Get a row subset of a Pandas Dataframe based on conditions with query](https://stackoverflow.com/questions/79550403/get-a-row-subset-of-a-pandas-dataframe-based-on-conditions-with-query) - 2 votes
+* [Python DataFrame structure breaks when appending the File](https://stackoverflow.com/questions/79550795/python-dataframe-structure-breaks-when-appending-the-file) - 1 votes
+* [How Can I Match Percentile Results in Postgres and Pandas](https://stackoverflow.com/questions/79551824/how-can-i-match-percentile-results-in-postgres-and-pandas) - 1 votes
+* [Pandas  custom duplicate comparison method](https://stackoverflow.com/questions/79550255/pandas-custom-duplicate-comparison-method) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
