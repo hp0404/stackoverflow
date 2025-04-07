@@ -1,28 +1,30 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-04-06<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-04-07<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [C sorting of parallel vectors with zip range how efficient it really is and can Rust do this too](https://stackoverflow.com/questions/79558046/c-sorting-of-parallel-vectors-with-zip-range-how-efficient-it-really-is-and-c) - 4 votes
-* [How to create a trait that forces the implementation of serde serialize and deserialize to all of its implementations without crates](https://stackoverflow.com/questions/79557096/how-to-create-a-trait-that-forces-the-implementation-of-serde-serialize-and-dese) - 2 votes
+* [C sorting of parallel vectors with zip range how efficient it really is and can Rust do this too](https://stackoverflow.com/questions/79558046/c-sorting-of-parallel-vectors-with-zip-range-how-efficient-it-really-is-and-c) - 12 votes
+* [Why are these two trait implementations not conflicting](https://stackoverflow.com/questions/79560766/why-are-these-two-trait-implementations-not-conflicting) - 1 votes
+* [Create async function in Rust to save SurrealDB record](https://stackoverflow.com/questions/79558371/create-async-function-in-rust-to-save-surrealdb-record) - 1 votes
+* [Why do dynamic value prints panic in my no_std kernel](https://stackoverflow.com/questions/79558296/why-do-dynamic-value-prints-panic-in-my-no-std-kernel) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [Set SwaggerUI Access Token on App Startup](https://stackoverflow.com/questions/79558863/set-swaggerui-access-token-on-app-startup) - 2 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Why does pdisnull behave differently on DataFrame vs single element](https://stackoverflow.com/questions/79557064/why-does-pd-isnull-behave-differently-on-dataframe-vs-single-element) - 2 votes
+* [Creating new rows in a dataframe based on previous values](https://stackoverflow.com/questions/79560135/creating-new-rows-in-a-dataframe-based-on-previous-values) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
