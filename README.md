@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-04-11<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-04-12<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why is ampRangeltTgt not an iterator but ampmut RangeltTgt is](https://stackoverflow.com/questions/79567110/why-is-ranget-not-an-iterator-but-mut-ranget-is) - 4 votes
-* [How to convince the compiler that my async FnMut is not invoked in parallel](https://stackoverflow.com/questions/79566762/how-to-convince-the-compiler-that-my-async-fnmut-is-not-invoked-in-parallel) - 3 votes
-* [Axum rust handler arguments need to be in order](https://stackoverflow.com/questions/79567139/axum-rust-handler-arguments-need-to-be-in-order) - 2 votes
-* [Interoperability between two crates with pyo3 bindings](https://stackoverflow.com/questions/79565568/interoperability-between-two-crates-with-pyo3-bindings) - 2 votes
+* [Is this string interner logic sound](https://stackoverflow.com/questions/79569717/is-this-string-interner-logic-sound) - 3 votes
 * [Failing to link static libraries during Rust unit testing](https://stackoverflow.com/questions/79568040/failing-to-link-static-libraries-during-rust-unit-testing) - 2 votes
+* [Why does cfg_attr using path attribute loose the path](https://stackoverflow.com/questions/79570350/why-does-cfg-attr-using-path-attribute-loose-the-path) - 1 votes
+* [How can I poll a Future from a Rust WASM app](https://stackoverflow.com/questions/79569479/how-can-i-poll-a-future-from-a-rust-wasm-app) - 1 votes
+* [How to initialize rarely mutable rust services shared globally with easy access](https://stackoverflow.com/questions/79570871/how-to-initialize-rarely-mutable-rust-services-shared-globally-with-easy-access) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -25,9 +25,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [Seeking Advice on Efficient Pandas Operations for Conditional Summing](https://stackoverflow.com/questions/79569269/seeking-advice-on-efficient-pandas-operations-for-conditional-summing) - 2 votes
-* [Duplicate and rename columns on pandas DataFrame](https://stackoverflow.com/questions/79567429/duplicate-and-rename-columns-on-pandas-dataframe) - 1 votes
-* [How can I sort order of index based on my preference in multiindex pandas dataframes](https://stackoverflow.com/questions/79569500/how-can-i-sort-order-of-index-based-on-my-preference-in-multi-index-pandas-dataf) - 1 votes
+* [Seeking Advice on Efficient Pandas Operations for Conditional Summing](https://stackoverflow.com/questions/79569269/seeking-advice-on-efficient-pandas-operations-for-conditional-summing) - 4 votes
+* [How can I sort order of index based on my preference in multiindex pandas dataframes](https://stackoverflow.com/questions/79569500/how-can-i-sort-order-of-index-based-on-my-preference-in-multi-index-pandas-dataf) - 2 votes
+* [How can I calculate averages and min max values in a climate data frame after Creating an Index on Datetime in Pandas](https://stackoverflow.com/questions/79570345/how-can-i-calculate-averages-and-min-max-values-in-a-climate-data-frame-after-cr) - 1 votes
+* [Random sample with multivariate conditions](https://stackoverflow.com/questions/79569831/random-sample-with-multi-variate-conditions) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
