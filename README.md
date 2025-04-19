@@ -1,16 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-04-18<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-04-19<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Issue with crate hexhex and no std](https://stackoverflow.com/questions/79579650/issue-with-crate-hexhex-and-no-std) - 3 votes
-* [How to fix missing headers when compiling Rust program with Nix](https://stackoverflow.com/questions/79579036/how-to-fix-missing-headers-when-compiling-rust-program-with-nix) - 1 votes
-* [How to use Polars to read specific columns from a CSV file](https://stackoverflow.com/questions/79578841/how-to-use-polars-to-read-specific-columns-from-a-csv-file) - 1 votes
-* [How to set the number of threads for LazyCsvReader](https://stackoverflow.com/questions/79579111/how-to-set-the-number-of-threads-for-lazycsvreader) - 1 votes
+* [Using amp several times does not cause a compilation error](https://stackoverflow.com/questions/79581717/using-several-times-does-not-cause-a-compilation-error) - 2 votes
+* [rust running rabbitmq null pointer dereference occurred exit code 0xc0000409 STATUS_STACK_BUFFER_OVERRUN](https://stackoverflow.com/questions/79582187/rust-running-rabbitmq-null-pointer-dereference-occurred-exit-code-0xc0000409) - 2 votes
+* [Is it safe to call as_ref or as_mut on NonNullltu8gt from Allocatorallocate before initialization Rust allocator_api](https://stackoverflow.com/questions/79582579/is-it-safe-to-call-as-ref-or-as-mut-on-nonnullu8-from-allocator) - 1 votes
+* [In Rust can I blanketimplement a supertrait on types that attempt to implement one of its subtraits](https://stackoverflow.com/questions/79582626/in-rust-can-i-blanket-implement-a-supertrait-on-types-that-attempt-to-implement) - 1 votes
+* [Problem using GDAL 39layerfeatures39 iterator](https://stackoverflow.com/questions/79582591/problem-using-gdal-layer-features-iterator) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -24,7 +25,6 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [Python  How to check for missing values not represented by NaN](https://stackoverflow.com/questions/79578293/python-how-to-check-for-missing-values-not-represented-by-nan) - 1 votes
 * [Unequal time interval and unequal time series modelling](https://stackoverflow.com/questions/79580999/unequal-time-interval-and-unequal-time-series-modelling) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
