@@ -1,17 +1,16 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-04-20<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-04-21<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Why doesn39t Rust require me to specify the namespace when using quotderivequot](https://stackoverflow.com/questions/79584879/why-doesnt-rust-require-me-to-specify-the-namespace-when-using-derive) - 3 votes
+* [How to create an Axum Body from an OpenDAL reader](https://stackoverflow.com/questions/79583717/how-to-create-an-axum-body-from-an-opendal-reader) - 2 votes
+* [Why does the compiler fail to find the correct function](https://stackoverflow.com/questions/79585146/why-does-the-compiler-fail-to-find-the-correct-function) - 2 votes
 * [How to integrate thirdparty error types into a single error type in Rust](https://stackoverflow.com/questions/79583221/how-to-integrate-third-party-error-types-into-a-single-error-type-in-rust) - 2 votes
-* [rust running rabbitmq null pointer dereference occurred exit code 0xc0000409 STATUS_STACK_BUFFER_OVERRUN](https://stackoverflow.com/questions/79582187/rust-running-rabbitmq-null-pointer-dereference-occurred-exit-code-0xc0000409) - 2 votes
-* [Is it safe to call as_ref or as_mut on NonNullltu8gt from Allocatorallocate before initialization Rust allocator_api](https://stackoverflow.com/questions/79582579/is-it-safe-to-call-as-ref-or-as-mut-on-nonnullu8-from-allocator) - 1 votes
-* [What is the semantic difference in Rust between defining and initializing an instance of a structure and a reference to structure](https://stackoverflow.com/questions/79582363/what-is-the-semantic-difference-in-rust-between-defining-and-initializing-an-ins) - 1 votes
-* [In Rust can I blanketimplement a supertrait on types that attempt to implement one of its subtraits](https://stackoverflow.com/questions/79582626/in-rust-can-i-blanket-implement-a-supertrait-on-types-that-attempt-to-implement) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -25,7 +24,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas39s gt and lt not working when chained together](https://stackoverflow.com/questions/79583700/pandass-gt-and-lt-not-working-when-chained-together) - 1 votes
+* [Pandas39s gt and lt not working when chained together](https://stackoverflow.com/questions/79583700/pandass-gt-and-lt-not-working-when-chained-together) - 3 votes
+* [How to represent ranges of time in a pandas index](https://stackoverflow.com/questions/79584468/how-to-represent-ranges-of-time-in-a-pandas-index) - 2 votes
+* [How to preprocess date in Isolation Forest sklearn](https://stackoverflow.com/questions/79585010/how-to-preprocess-date-in-isolation-forest-sklearn) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
