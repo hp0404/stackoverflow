@@ -1,16 +1,14 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-04-26<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-04-27<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why does iter behave differently for i32 vs Veclti32gt](https://stackoverflow.com/questions/79593518/why-does-iter-behave-differently-for-i32-vs-veci32) - 3 votes
-* [How does Rust know how big any of the smart pointer types are supposed to be](https://stackoverflow.com/questions/79592975/how-does-rust-know-how-big-any-of-the-smart-pointer-types-are-supposed-to-be) - 2 votes
-* [How do I implement error handler as a middleware function in Actix Web](https://stackoverflow.com/questions/79592641/how-do-i-implement-error-handler-as-a-middleware-function-in-actix-web) - 1 votes
-* [Wasmtime multivalue returns](https://stackoverflow.com/questions/79591738/wasmtime-multi-value-returns) - 1 votes
+* [Why does iter behave differently for i32 vs Veclti32gt](https://stackoverflow.com/questions/79593518/why-does-iter-behave-differently-for-i32-vs-veci32) - 5 votes
+* [Reason for a single value block in Rust](https://stackoverflow.com/questions/79594980/reason-for-a-single-value-block-in-rust) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
