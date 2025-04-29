@@ -1,15 +1,14 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-04-28<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-04-29<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Reason for a single value block in Rust](https://stackoverflow.com/questions/79594980/reason-for-a-single-value-block-in-rust) - 3 votes
-* [Insert to a HashMap if the key doesn39t already exist without unnecessary clone if the key already exists](https://stackoverflow.com/questions/79596768/insert-to-a-hashmap-if-the-key-doesnt-already-exist-without-unnecessary-clone) - 1 votes
-* [Rust How To ReExport 3rd Party Crate](https://stackoverflow.com/questions/79595543/rust-how-to-re-export-3rd-party-crate) - 1 votes
+* [Insert to a HashMap if the key doesn39t already exist without cloning the key if it already exists](https://stackoverflow.com/questions/79596768/insert-to-a-hashmap-if-the-key-doesnt-already-exist-without-cloning-the-key-if) - 2 votes
+* [quotlldlink error could not open 39blosclib39 quot for crosscompiling in Rust LinuxgtWindows](https://stackoverflow.com/questions/79597055/lld-link-error-could-not-open-blosc-lib-for-cross-compiling-in-rust-linu) - 2 votes
 * [rust toolchain error on NixOS when installed via nix](https://stackoverflow.com/questions/79596991/rust-toolchain-error-on-nixos-when-installed-via-nix) - 1 votes
 * [How to implement a transactional event bus](https://stackoverflow.com/questions/79596993/how-to-implement-a-transactional-event-bus) - 1 votes
 <!-- rust ends -->
@@ -25,8 +24,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [how to convert month to frensh month name manuelly using pandas](https://stackoverflow.com/questions/79596631/how-to-convert-month-to-frensh-month-name-manuelly-using-pandas) - 1 votes
-* [Python Pandasread_csv header and index column not lining up](https://stackoverflow.com/questions/79595489/python-pandas-read-csv-header-and-index-column-not-lining-up) - 1 votes
+* [Convert month abbreviation to full name](https://stackoverflow.com/questions/79596631/convert-month-abbreviation-to-full-name) - 3 votes
+* [How to fix read_csv system error in pandas](https://stackoverflow.com/questions/79597894/how-to-fix-read-csv-system-error-in-pandas) - 1 votes
+* [Downsampling with Dask  Python](https://stackoverflow.com/questions/79597424/down-sampling-with-dask-python) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
