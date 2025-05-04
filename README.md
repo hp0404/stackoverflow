@@ -1,30 +1,27 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-05-03<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-05-04<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [A shared reference in Rust is cheaper than transferring ownership](https://stackoverflow.com/questions/79603961/a-shared-reference-in-rust-is-cheaper-than-transferring-ownership) - 4 votes
-* [Is it safe to publish a crate whose MSRV is lower than its devdependencies39](https://stackoverflow.com/questions/79603931/is-it-safe-to-publish-a-crate-whose-msrv-is-lower-than-its-dev-dependencies) - 2 votes
+* [error The default runtime flavor is multi_thread but the rtmultithread feature is disabled](https://stackoverflow.com/questions/79605357/error-the-default-runtime-flavor-is-multi-thread-but-the-rt-multi-thread-f) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [Django downloads binary file from FastAPI MinIO presigned URL but the file is corrupted and downloaded with wrong name](https://stackoverflow.com/questions/79605539/django-downloads-binary-file-from-fastapi-minio-presigned-url-but-the-file-is) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [What is the oldest leap year in pandas](https://stackoverflow.com/questions/79603298/what-is-the-oldest-leap-year-in-pandas) - 2 votes
-* [Pandas time series dataframe take random samples by group date ignore missing dates](https://stackoverflow.com/questions/79604183/pandas-time-series-dataframe-take-random-samples-by-group-date-ignore-missing) - 2 votes
-* [pandas memory issue when apply list to groupby](https://stackoverflow.com/questions/79604001/pandas-memory-issue-when-apply-list-to-groupby) - 1 votes
+
 <!-- pandas ends -->
 </td></tr></table>
 
