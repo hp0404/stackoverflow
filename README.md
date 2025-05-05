@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-05-04<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-05-05<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [error The default runtime flavor is multi_thread but the rtmultithread feature is disabled](https://stackoverflow.com/questions/79605357/error-the-default-runtime-flavor-is-multi-thread-but-the-rt-multi-thread-f) - 1 votes
+* [error The default runtime flavor is multi_thread but the rtmultithread feature is disabled](https://stackoverflow.com/questions/79605357/error-the-default-runtime-flavor-is-multi-thread-but-the-rt-multi-thread-f) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,7 +21,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-
+* [I am trying to delete some repeat columns from my dataframe using drop method by specifiying column locations an extra column is getting dropped](https://stackoverflow.com/questions/79605997/i-am-trying-to-delete-some-repeat-columns-from-my-dataframe-using-drop-method-by) - 1 votes
+* [How to set a boolean flag True after entry and back to False after exit using Pandas vectorized](https://stackoverflow.com/questions/79605688/how-to-set-a-boolean-flag-true-after-entry-and-back-to-false-after-exit-using-pa) - 1 votes
+* [Select a range of data based on a selected value using Pandas](https://stackoverflow.com/questions/79606785/select-a-range-of-data-based-on-a-selected-value-using-pandas) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
