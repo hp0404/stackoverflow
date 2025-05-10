@@ -1,23 +1,22 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-05-09<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-05-10<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [How do I know when the spawncommands are finished](https://stackoverflow.com/questions/79614702/how-do-i-know-when-the-spawn-commands-are-finished) - 2 votes
+* [Why using Rust raw pointers in this case leads to useafterfree](https://stackoverflow.com/questions/79614510/why-using-rust-raw-pointers-in-this-case-leads-to-use-after-free) - 1 votes
 * [Seeding Surrealdb Schemafull tables using the Rust sdk](https://stackoverflow.com/questions/79613333/seeding-surrealdb-schemafull-tables-using-the-rust-sdk) - 1 votes
-* [How do I know when the spawncommands are finished](https://stackoverflow.com/questions/79614702/how-do-i-know-when-the-spawn-commands-are-finished) - 1 votes
-* [How can I write a generic hex deserializer for all unsigned integers using Serde and Num traits](https://stackoverflow.com/questions/79612960/how-can-i-write-a-generic-hex-deserializer-for-all-unsigned-integers-using-serde) - 1 votes
-* [Cargo says quotOperation not permittedquot when compiling on Arch Linux](https://stackoverflow.com/questions/79612554/cargo-says-operation-not-permitted-when-compiling-on-arch-linux) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [threading in fast api](https://stackoverflow.com/questions/79614632/threading-in-fast-api) - 1 votes
+* [Threading in FastAPI](https://stackoverflow.com/questions/79614632/threading-in-fastapi) - 1 votes
 * [How to pass a List of strings as FormData to FastAPI using JavaScript Fetch API](https://stackoverflow.com/questions/79613773/how-to-pass-a-list-of-strings-as-formdata-to-fastapi-using-javascript-fetch-api) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
@@ -25,8 +24,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [Assign a number for every matching value in list](https://stackoverflow.com/questions/79613039/assign-a-number-for-every-matching-value-in-list) - 4 votes
-* [How to pass a dynamic list of CSV files from Snakemake input to a Pandas DataFrame concat operation](https://stackoverflow.com/questions/79611884/how-to-pass-a-dynamic-list-of-csv-files-from-snakemake-input-to-a-pandas-datafra) - 2 votes
+* [how to remove duplicates from this nested dataframe](https://stackoverflow.com/questions/79615284/how-to-remove-duplicates-from-this-nested-dataframe) - 1 votes
+* [How to display 39years39 on the the yaxis of horizontal bar chart subplot when the scale is in months without changing the plotted data itself](https://stackoverflow.com/questions/79614700/how-to-display-years-on-the-the-y-axis-of-horizontal-bar-chart-subplot-when-th) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
