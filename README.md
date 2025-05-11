@@ -1,31 +1,29 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-05-10<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-05-11<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How do I know when the spawncommands are finished](https://stackoverflow.com/questions/79614702/how-do-i-know-when-the-spawn-commands-are-finished) - 2 votes
-* [Why using Rust raw pointers in this case leads to useafterfree](https://stackoverflow.com/questions/79614510/why-using-rust-raw-pointers-in-this-case-leads-to-use-after-free) - 1 votes
-* [Seeding Surrealdb Schemafull tables using the Rust sdk](https://stackoverflow.com/questions/79613333/seeding-surrealdb-schemafull-tables-using-the-rust-sdk) - 1 votes
+* [why does nginx say quot91 Protocol wrong type for socketquot when it tries to connect to my rustbased unix socket server](https://stackoverflow.com/questions/79615519/why-does-nginx-say-91-protocol-wrong-type-for-socket-when-it-tries-to-connect) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Threading in FastAPI](https://stackoverflow.com/questions/79614632/threading-in-fastapi) - 1 votes
-* [How to pass a List of strings as FormData to FastAPI using JavaScript Fetch API](https://stackoverflow.com/questions/79613773/how-to-pass-a-list-of-strings-as-formdata-to-fastapi-using-javascript-fetch-api) - 1 votes
+* [LangGraph resume after interrupt is not working properly when running with more than 1 worker in uvicorn](https://stackoverflow.com/questions/79615551/langgraph-resume-after-interrupt-is-not-working-properly-when-running-with-more) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [how to remove duplicates from this nested dataframe](https://stackoverflow.com/questions/79615284/how-to-remove-duplicates-from-this-nested-dataframe) - 1 votes
-* [How to display 39years39 on the the yaxis of horizontal bar chart subplot when the scale is in months without changing the plotted data itself](https://stackoverflow.com/questions/79614700/how-to-display-years-on-the-the-y-axis-of-horizontal-bar-chart-subplot-when-th) - 1 votes
+* [how to remove duplicates from this nested dataframe](https://stackoverflow.com/questions/79615284/how-to-remove-duplicates-from-this-nested-dataframe) - 2 votes
+* [How to concatenate n rows of content to current row in a rolling window in pandas](https://stackoverflow.com/questions/79615990/how-to-concatenate-n-rows-of-content-to-current-row-in-a-rolling-window-in-pa) - 2 votes
+* [recoding labels categories in categorical columns df pandas](https://stackoverflow.com/questions/79616387/recoding-labels-categories-in-categorical-columns-df-pandas) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
