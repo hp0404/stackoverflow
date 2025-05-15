@@ -1,32 +1,33 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-05-14<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-05-15<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How is nprepeat so fast](https://stackoverflow.com/questions/79620845/how-is-np-repeat-so-fast) - 3 votes
-* [When comparing a value and a reference should I dereference the reference or create a reference to the value](https://stackoverflow.com/questions/79620014/when-comparing-a-value-and-a-reference-should-i-dereference-the-reference-or-cr) - 1 votes
-* [Specify multiple constraints on generic type when implementing method on generic struct](https://stackoverflow.com/questions/79620835/specify-multiple-constraints-on-generic-type-when-implementing-method-on-generic) - 1 votes
+* [How is nprepeat so fast](https://stackoverflow.com/questions/79620845/how-is-np-repeat-so-fast) - 4 votes
+* [What39s the difference between cloning an mpscSender and wrapping it in Arc for sharing between threads](https://stackoverflow.com/questions/79623635/whats-the-difference-between-cloning-an-mpscsender-and-wrapping-it-in-arc-for) - 2 votes
+* [Not able to understand mutablity when it comes to mutable refferences](https://stackoverflow.com/questions/79622673/not-able-to-understand-mutablity-when-it-comes-to-mutable-refferences) - 2 votes
+* [Why is the lock in Rust held throughout the if let block](https://stackoverflow.com/questions/79621758/why-is-the-lock-in-rust-held-throughout-the-if-let-block) - 1 votes
+* [Handling cyclic borrows in Rust without reference counting](https://stackoverflow.com/questions/79622780/handling-cyclic-borrows-in-rust-without-reference-counting) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Uvicorn workers greater than one apparently reduce performance by half](https://stackoverflow.com/questions/79618851/uvicorn-workers-greater-than-one-apparently-reduce-performance-by-half) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Replacing values in columns with values from another columns according to mapping](https://stackoverflow.com/questions/79619061/replacing-values-in-columns-with-values-from-another-columns-according-to-mappin) - 5 votes
-* [Insert new column of blanks into an existing dataframe](https://stackoverflow.com/questions/79620333/insert-new-column-of-blanks-into-an-existing-dataframe) - 2 votes
-* [It is not possible to load data from a specific column in the dataset](https://stackoverflow.com/questions/79620454/it-is-not-possible-to-load-data-from-a-specific-column-in-the-dataset) - 2 votes
-* [Is there a way to filter columns of a pandas dataframe which include elements of a list](https://stackoverflow.com/questions/79619950/is-there-a-way-to-filter-columns-of-a-pandas-dataframe-which-include-elements-of) - 1 votes
+* [Sorting a dataframe column using a list with repeated values](https://stackoverflow.com/questions/79623716/sorting-a-dataframe-column-using-a-list-with-repeated-values) - 4 votes
+* [Calculating a pct_change between 3 values in a pandas series where one of more of these values can be nan](https://stackoverflow.com/questions/79623174/calculating-a-pct-change-between-3-values-in-a-pandas-series-where-one-of-more) - 1 votes
+* [How do I repeat one Dataframe to match the length of another DataFrame](https://stackoverflow.com/questions/79620883/how-do-i-repeat-one-dataframe-to-match-the-length-of-another-dataframe) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
