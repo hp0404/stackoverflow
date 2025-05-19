@@ -1,28 +1,31 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-05-18<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-05-19<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Using a global Wasmtime Linker object in Rust](https://stackoverflow.com/questions/79626576/using-a-global-wasmtime-linker-object-in-rust) - 1 votes
-* [How can I express a lifetime transmutation of a covariant closure in Rust without boxing](https://stackoverflow.com/questions/79626328/how-can-i-express-a-lifetime-transmutation-of-a-covariant-closure-in-rust-withou) - 1 votes
+* [Go shared library doesn39t get reloaded to newest version](https://stackoverflow.com/questions/79627787/go-shared-library-doesnt-get-reloaded-to-newest-version) - 1 votes
+* [Is there an easier way to check if two elements in a Rust array are equal](https://stackoverflow.com/questions/79628516/is-there-an-easier-way-to-check-if-two-elements-in-a-rust-array-are-equal) - 1 votes
+* [Need help optimizing nested parallel iterators in Rust](https://stackoverflow.com/questions/79627150/need-help-optimizing-nested-parallel-iterators-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [What happens to the asyncio event loop when multiple CPUbound tasks run concurrently in a ThreadPoolExecutor given Pythons GIL](https://stackoverflow.com/questions/79626334/what-happens-to-the-asyncio-event-loop-when-multiple-cpu-bound-tasks-run-concurr) - 3 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Create datetime object accounting for possible next day](https://stackoverflow.com/questions/79626316/create-datetime-object-accounting-for-possible-next-day) - 1 votes
+* [Pandas Timedelta UnitChoices typing](https://stackoverflow.com/questions/79627995/pandas-timedelta-unitchoices-typing) - 2 votes
+* [Pandas zstd compression level 10 better than Apache Spark39s](https://stackoverflow.com/questions/79627670/pandas-zstd-compression-level-10-better-than-apache-sparks) - 2 votes
+* [Improve code that finds nan values with a condition and removes them](https://stackoverflow.com/questions/79628910/improve-code-that-finds-nan-values-with-a-condition-and-removes-them) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
