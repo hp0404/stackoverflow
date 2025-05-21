@@ -1,17 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-05-20<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-05-21<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [What39s the difference between reprRust reprC and reprpacked in Rust](https://stackoverflow.com/questions/79631106/whats-the-difference-between-reprrust-reprc-and-reprpacked-in-r) - 6 votes
 * [Does strfrom_utf8 copy input data](https://stackoverflow.com/questions/79629692/does-strfrom-utf8-copy-input-data) - 3 votes
 * [Dealing with poor closure inference causing unbounded borrows](https://stackoverflow.com/questions/79629805/dealing-with-poor-closure-inference-causing-unbounded-borrows) - 3 votes
-* [Why does Rust complain about the lifetime of a type whose value is never actually used](https://stackoverflow.com/questions/79630762/why-does-rust-complain-about-the-lifetime-of-a-type-whose-value-is-never-actuall) - 3 votes
-* [How to curry a function that captures a mutable reference](https://stackoverflow.com/questions/79629048/how-to-curry-a-function-that-captures-a-mutable-reference) - 1 votes
-* [What39s the difference between reprRust reprC and reprpacked in Rust](https://stackoverflow.com/questions/79631106/whats-the-difference-between-reprrust-reprc-and-reprpacked-in-r) - 1 votes
+* [Why does Rust complain about the lifetime of a type whose value is never actually used](https://stackoverflow.com/questions/79630762/why-does-rust-complain-about-the-lifetime-of-a-type-whose-value-is-never-actuall) - 2 votes
+* [Rust hashmaps where the keys are refences to contained values](https://stackoverflow.com/questions/79632686/rust-hashmaps-where-the-keys-are-refences-to-contained-values) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -25,10 +25,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas Timedelta UnitChoices typing](https://stackoverflow.com/questions/79627995/pandas-timedelta-unitchoices-typing) - 2 votes
-* [Improve code that finds nan values with a condition and removes them](https://stackoverflow.com/questions/79628910/improve-code-that-finds-nan-values-with-a-condition-and-removes-them) - 2 votes
-* [Update Values in a Column Based on Conditions Across Multiple Rows Within Groups](https://stackoverflow.com/questions/79629556/update-values-in-a-column-based-on-conditions-across-multiple-rows-within-groups) - 2 votes
+* [Why does pandasSeries allow a list as an index label eg 39A39 39B39 39C39](https://stackoverflow.com/questions/79631997/why-does-pandas-series-allow-a-list-as-an-index-label-e-g-a-b-c) - 2 votes
 * [How to align all columns in VSC jupyter interactive window](https://stackoverflow.com/questions/79630359/how-to-align-all-columns-in-vsc-jupyter-interactive-window) - 1 votes
+* [How to save xls file in pandas 20](https://stackoverflow.com/questions/79632701/how-to-save-xls-file-in-pandas-2-0) - 1 votes
+* [RuntimeWarning 39lt39 not supported between instances of 39int39 and 39tuple39 sort order is undefined for incomparable objects while using Pandas concat](https://stackoverflow.com/questions/79631713/runtimewarning-not-supported-between-instances-of-int-and-tuple-sort-o) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
