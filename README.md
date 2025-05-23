@@ -1,15 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-05-22<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-05-23<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Rust hashmaps where the keys are refences to contained values](https://stackoverflow.com/questions/79632686/rust-hashmaps-where-the-keys-are-refences-to-contained-values) - 2 votes
-* [Const expression optional fields](https://stackoverflow.com/questions/79632514/const-expression-optional-fields) - 2 votes
-* [How does Rust39s Command handle cmdexe and batch script arguments](https://stackoverflow.com/questions/79634443/how-does-rusts-command-handle-cmd-exe-and-batch-script-arguments) - 2 votes
+* [Ensure a generic parameter type has size N at compile time](https://stackoverflow.com/questions/79634737/ensure-a-generic-parameter-type-has-size-n-at-compile-time) - 4 votes
+* [How does Rust39s Command handle cmdexe and batch script arguments](https://stackoverflow.com/questions/79634443/how-does-rusts-command-handle-cmd-exe-and-batch-script-arguments) - 3 votes
+* [Is there a Rust alternative to the GCC __attribute__constructor and __attribute__destructor](https://stackoverflow.com/questions/79635601/is-there-a-rust-alternative-to-the-gcc-attribute-constructor-and-attrib) - 2 votes
+* [Is flushing of data really required when written to a Vec or VecDeque](https://stackoverflow.com/questions/79634993/is-flushing-of-data-really-required-when-written-to-a-vec-or-vecdeque) - 1 votes
+* [Cannot return Status type on tonic layer](https://stackoverflow.com/questions/79635432/cannot-return-status-type-on-tonic-layer) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -23,11 +25,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [Why does pandasSeries allow a list as an index label eg 39A39 39B39 39C39](https://stackoverflow.com/questions/79631997/why-does-pandas-series-allow-a-list-as-an-index-label-e-g-a-b-c) - 2 votes
-* [How to save xls file in pandas 20](https://stackoverflow.com/questions/79632701/how-to-save-xls-file-in-pandas-2-0) - 2 votes
 * [How to make plotly text bold using scatter](https://stackoverflow.com/questions/79633258/how-to-make-plotly-text-bold-using-scatter) - 1 votes
-* [RuntimeWarning 39lt39 not supported between instances of 39int39 and 39tuple39 sort order is undefined for incomparable objects while using Pandas concat](https://stackoverflow.com/questions/79631713/runtimewarning-not-supported-between-instances-of-int-and-tuple-sort-o) - 1 votes
-* [Combine two pandas Dataframes with Timestamp Index](https://stackoverflow.com/questions/79631672/combine-two-pandas-dataframes-with-timestamp-index) - 1 votes
+* [In pandas what is the difference between a datetimebased Interval and Period](https://stackoverflow.com/questions/79633336/in-pandas-what-is-the-difference-between-a-datetime-based-interval-and-period) - 1 votes
+* [Getting Date String from Pandas automatically changing to timestamp](https://stackoverflow.com/questions/79634831/getting-date-string-from-pandas-automatically-changing-to-timestamp) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
