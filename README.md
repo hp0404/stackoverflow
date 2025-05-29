@@ -1,34 +1,34 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-05-28<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-05-29<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-
+* [Why errorE0121 the placeholder _ is not allowed within types on item signatures for constants](https://stackoverflow.com/questions/79643282/why-errore0121-the-placeholder-is-not-allowed-within-types-on-item-signat) - 2 votes
+* [Get the global logger under its real type](https://stackoverflow.com/questions/79644062/get-the-global-logger-under-its-real-type) - 1 votes
+* [I don39t understand the return code value of xlib XGrabKey function](https://stackoverflow.com/questions/79643043/i-dont-understand-the-return-code-value-of-xlib-xgrabkey-function) - 1 votes
+* [Can39t get Rust39s mockall library to mock a module](https://stackoverflow.com/questions/79642988/cant-get-rusts-mockall-library-to-mock-a-module) - 1 votes
+* [Getting ownership back out of a Rust if let block](https://stackoverflow.com/questions/79643123/getting-ownership-back-out-of-a-rust-if-let-block) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Remove exeption type in Pydantic field validator error message](https://stackoverflow.com/questions/79641101/remove-exeption-type-in-pydantic-field-validator-error-message) - 2 votes
 * [Running Uvicorn on Mac command line results in error uvicorn error unrecognized arguments](https://stackoverflow.com/questions/79641447/running-uvicorn-on-mac-command-line-results-in-error-uvicorn-error-unrecognize) - 1 votes
-* [Connecting n8n with local MCP server failed  Error in subnode 39MCP Client39 Could not connect to your MCP server](https://stackoverflow.com/questions/79641296/connecting-n8n-with-local-mcp-server-failed-error-in-sub-node-mcp-client-cou) - 1 votes
-* [Bot Framework FastAPI No response in Web Chat and Emulator despite 200 OK and correct activity schema](https://stackoverflow.com/questions/79640581/bot-framework-fastapi-no-response-in-web-chat-and-emulator-despite-200-ok-an) - 1 votes
-* [Can I use generator function as a dependency in FastAPI websocket endpoints](https://stackoverflow.com/questions/79640061/can-i-use-generator-function-as-a-dependency-in-fastapi-websocket-endpoints) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How can I assign iterables to columns in pandas dataframes](https://stackoverflow.com/questions/79639750/how-can-i-assign-iterables-to-columns-in-pandas-dataframes) - 4 votes
+* [Pandas is_year_end](https://stackoverflow.com/questions/79643566/pandas-is-year-end) - 2 votes
 * [How do I make pandasread_csv parse one column as datetime while treating all others as strings](https://stackoverflow.com/questions/79642757/how-do-i-make-pandas-read-csv-parse-one-column-as-datetime-while-treating-all) - 1 votes
-* [win32com pywintypesdatetime in Pandas DataFrame](https://stackoverflow.com/questions/79641325/win32com-pywintypes-datetime-in-pandas-dataframe) - 1 votes
-* [Pylance type error supplying SQLAlchemy NVARCHAR length](https://stackoverflow.com/questions/79641078/pylance-type-error-supplying-sqlalchemy-nvarchar-length) - 1 votes
+* [Remove rows where pdto_datetime fails and create separate DF baesd on failed rows](https://stackoverflow.com/questions/79644379/remove-rows-where-pd-to-datetime-fails-and-create-separate-df-baesd-on-failed-ro) - 1 votes
+* [Extract the max of a cumulative sum from dataframe column](https://stackoverflow.com/questions/79644324/extract-the-max-of-a-cumulative-sum-from-dataframe-column) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
