@@ -1,16 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-06-10<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-06-11<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Explicit type annotation in closures](https://stackoverflow.com/questions/79659486/explicit-type-annotation-in-closures) - 3 votes
-* [Is the following lifetime shortage conversion sound](https://stackoverflow.com/questions/79660019/is-the-following-lifetime-shortage-conversion-sound) - 1 votes
-* [LazyLock not taking closure](https://stackoverflow.com/questions/79658281/lazylock-not-taking-closure) - 1 votes
-* [What is the appropriate shape and values of the tensor expected by ModernBertSequentialClassification with Candle in Rust](https://stackoverflow.com/questions/79658561/what-is-the-appropriate-shape-and-values-of-the-tensor-expected-by-modernbertseq) - 1 votes
+* [Is the following lifetime shortage conversion sound](https://stackoverflow.com/questions/79660019/is-the-following-lifetime-shortage-conversion-sound) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -24,7 +21,6 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [Create multiple rows based on column](https://stackoverflow.com/questions/79659380/create-multiple-rows-based-on-column) - 1 votes
 * [Additional decimal dots observed after writing the data through ExcelWriter](https://stackoverflow.com/questions/79660430/additional-decimal-dots-observed-after-writing-the-data-through-excelwriter) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
