@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-06-13<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-06-14<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [launch application using app id and get pid in return on windows](https://stackoverflow.com/questions/79663939/launch-application-using-app-id-and-get-pid-in-return-on-windows) - 1 votes
+* [How and how much does the variable type affect the code in Rust](https://stackoverflow.com/questions/79665380/how-and-how-much-does-the-variable-type-affect-the-code-in-rust) - 3 votes
 * [Rust lifetime parameters when using a reference to another struct inside a struct](https://stackoverflow.com/questions/79664732/rust-lifetime-parameters-when-using-a-reference-to-another-struct-inside-a-struc) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -15,15 +15,16 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### fastapi
 <!-- fastapi starts -->
-* [Is predict_proba function thread safe when callin modelpredict_proba from multiple threads](https://stackoverflow.com/questions/79664201/is-predict-proba-function-thread-safe-when-callin-model-predict-proba-from-mult) - 1 votes
-* [FastAPI state not isolated between concurrent users](https://stackoverflow.com/questions/79663656/fastapi-state-not-isolated-between-concurrent-users) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-
+* [Converting Pandas dataframe from float to int handling NaN values](https://stackoverflow.com/questions/79665790/converting-pandas-dataframe-from-float-to-int-handling-nan-values) - 2 votes
+* [How to convert a datafram into two arrays  One containing the data and the second containing column names](https://stackoverflow.com/questions/79665073/how-to-convert-a-datafram-into-two-arrays-one-containing-the-data-and-the-seco) - 1 votes
+* [Facing this issue when loading data using pdread_csv from a url](https://stackoverflow.com/questions/79665487/facing-this-issue-when-loading-data-using-pd-read-csv-from-a-url) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
