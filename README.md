@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-06-16<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-06-17<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -21,7 +21,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [How to split a DataFrame on missing blocks of data](https://stackoverflow.com/questions/79666551/how-to-split-a-dataframe-on-missing-blocks-of-data) - 1 votes
+* [Pandas Subtract One Dataframe From Another if match](https://stackoverflow.com/questions/79669389/pandas-subtract-one-dataframe-from-another-if-match) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
