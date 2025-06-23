@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-06-22<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-06-23<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Function Call leads to infinite loop](https://stackoverflow.com/questions/79674591/function-call-leads-to-infinite-loop) - 1 votes
+* [How to idiomatically loop over an array of variables and mutate them](https://stackoverflow.com/questions/79676142/how-to-idiomatically-loop-over-an-array-of-variables-and-mutate-them) - 3 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
