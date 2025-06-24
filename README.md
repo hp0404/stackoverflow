@@ -1,13 +1,15 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-06-23<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-06-24<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to idiomatically loop over an array of variables and mutate them](https://stackoverflow.com/questions/79676142/how-to-idiomatically-loop-over-an-array-of-variables-and-mutate-them) - 3 votes
+* [How to idiomatically loop over an array of variables and mutate them](https://stackoverflow.com/questions/79676142/how-to-idiomatically-loop-over-an-array-of-variables-and-mutate-them) - 4 votes
+* [How to access Windows network shares with Rust on Linux](https://stackoverflow.com/questions/79677881/how-to-access-windows-network-shares-with-rust-on-linux) - 1 votes
+* [How to make an iterator that stores inner iterators](https://stackoverflow.com/questions/79677399/how-to-make-an-iterator-that-stores-inner-iterators) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,7 +23,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-
+* [Python Excel Printing Actual Value of Long Number](https://stackoverflow.com/questions/79676893/python-excel-printing-actual-value-of-long-number) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
