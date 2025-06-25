@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-06-24<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-06-25<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to idiomatically loop over an array of variables and mutate them](https://stackoverflow.com/questions/79676142/how-to-idiomatically-loop-over-an-array-of-variables-and-mutate-them) - 4 votes
+* [How to cancel a task which includes a file operation](https://stackoverflow.com/questions/79678392/how-to-cancel-a-task-which-includes-a-file-operation) - 3 votes
 * [How to access Windows network shares with Rust on Linux](https://stackoverflow.com/questions/79677881/how-to-access-windows-network-shares-with-rust-on-linux) - 1 votes
 * [How to make an iterator that stores inner iterators](https://stackoverflow.com/questions/79677399/how-to-make-an-iterator-that-stores-inner-iterators) - 1 votes
 <!-- rust ends -->
@@ -16,7 +16,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [StarletteFastAPI Default Exception Handler Overriding Error](https://stackoverflow.com/questions/79677784/starlette-fastapi-default-exception-handler-overriding-error) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
