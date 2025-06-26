@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-06-25<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-06-26<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,22 +8,25 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 ### rust
 <!-- rust starts -->
 * [How to cancel a task which includes a file operation](https://stackoverflow.com/questions/79678392/how-to-cancel-a-task-which-includes-a-file-operation) - 3 votes
-* [How to access Windows network shares with Rust on Linux](https://stackoverflow.com/questions/79677881/how-to-access-windows-network-shares-with-rust-on-linux) - 1 votes
-* [How to make an iterator that stores inner iterators](https://stackoverflow.com/questions/79677399/how-to-make-an-iterator-that-stores-inner-iterators) - 1 votes
+* [Question about Rust bracket operator plus ampersand](https://stackoverflow.com/questions/79679795/question-about-rust-bracket-operator-plus-ampersand) - 1 votes
+* [Default for a struct where most but not all fields implement default](https://stackoverflow.com/questions/79680424/default-for-a-struct-where-most-but-not-all-fields-implement-default) - 1 votes
+* [Is it safe to use a Box that allocates in the stack instead of on the heap in rust](https://stackoverflow.com/questions/79679776/is-it-safe-to-use-a-box-that-allocates-in-the-stack-instead-of-on-the-heap-in-ru) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [StarletteFastAPI Default Exception Handler Overriding Error](https://stackoverflow.com/questions/79677784/starlette-fastapi-default-exception-handler-overriding-error) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Python Excel Printing Actual Value of Long Number](https://stackoverflow.com/questions/79676893/python-excel-printing-actual-value-of-long-number) - 1 votes
+* [Can39t get frequency data right for Seaborn histogram](https://stackoverflow.com/questions/79680409/cant-get-frequency-data-right-for-seaborn-histogram) - 2 votes
+* [How did data frames end up with multiple indexing methods](https://stackoverflow.com/questions/79679773/how-did-data-frames-end-up-with-multiple-indexing-methods) - 1 votes
+* [How can I force pandas to read the last Excel column when it is empty for the first few rows](https://stackoverflow.com/questions/79679016/how-can-i-force-pandas-to-read-the-last-excel-column-when-it-is-empty-for-the-fi) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
