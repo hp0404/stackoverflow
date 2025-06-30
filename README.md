@@ -1,15 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-06-29<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-06-30<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How can I use trait objects and monomorphism together](https://stackoverflow.com/questions/79683187/how-can-i-use-trait-objects-and-monomorphism-together) - 2 votes
-* [How to index the overlaps between two vectors in rust](https://stackoverflow.com/questions/79683070/how-to-index-the-overlaps-between-two-vectors-in-rust) - 1 votes
-* [Axum request handlers bottleneck if they await futures](https://stackoverflow.com/questions/79683430/axum-request-handlers-bottleneck-if-they-await-futures) - 1 votes
+* [How would calling into_iter on BoxltT Ngt behave](https://stackoverflow.com/questions/79684512/how-would-calling-into-iter-on-boxt-n-behave) - 2 votes
+* [Don39t understand how borrowed value doesn39t live long enough when used with GATs](https://stackoverflow.com/questions/79684230/dont-understand-how-borrowed-value-doesnt-live-long-enough-when-used-with-gats) - 2 votes
+* [Implementing a super trait across trait and cast to the super trait](https://stackoverflow.com/questions/79685278/implementing-a-super-trait-across-trait-and-cast-to-the-super-trait) - 1 votes
+* [How to shutdown Tokio BroadcastStream](https://stackoverflow.com/questions/79685241/how-to-shutdown-tokio-broadcaststream) - 1 votes
+* [How to listen for many dbus signals](https://stackoverflow.com/questions/79684288/how-to-listen-for-many-dbus-signals) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -23,7 +25,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [How to calculate interest based on conditions and add cumulatively to following rows balance and interest](https://stackoverflow.com/questions/79683477/how-to-calculate-interest-based-on-conditions-and-add-cumulatively-to-following) - 1 votes
+* [How to calculate interest based on conditions and add cumulatively to following rows balance and interest](https://stackoverflow.com/questions/79683477/how-to-calculate-interest-based-on-conditions-and-add-cumulatively-to-following) - 3 votes
 <!-- pandas ends -->
 </td></tr></table>
 
