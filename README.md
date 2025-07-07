@@ -1,14 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-06<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-07<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How can I get rid of the blended part of the progress bar from indicatif](https://stackoverflow.com/questions/79691267/how-can-i-get-rid-of-the-blended-part-of-the-progress-bar-from-indicatif) - 2 votes
-* [Are there practical applications of Haskell39s Higher Kinded Types especially functors application in real code](https://stackoverflow.com/questions/79691336/are-there-practical-applications-of-haskells-higher-kinded-types-especially-fu) - 1 votes
+
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -22,8 +21,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [calculate diff to previous matching row in a dataframe](https://stackoverflow.com/questions/79691109/calculate-diff-to-previous-matching-row-in-a-dataframe) - 3 votes
-* [Efficient way creating a dict of dict from a pandas dataframe](https://stackoverflow.com/questions/79691774/efficient-way-creating-a-dict-of-dict-from-a-pandas-dataframe) - 3 votes
+* [Efficient way creating a dict of dict from a pandas dataframe](https://stackoverflow.com/questions/79691774/efficient-way-creating-a-dict-of-dict-from-a-pandas-dataframe) - 4 votes
+* [Why does Pandas rolling std output different results for different tail sizes](https://stackoverflow.com/questions/79692689/why-does-pandas-rolling-std-output-different-results-for-different-tail-sizes) - 3 votes
+* [In python How to find difference between a specific column in one dataframe and numeric columns of another dataframe](https://stackoverflow.com/questions/79692191/in-python-how-to-find-difference-between-a-specific-column-in-one-dataframe-and) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
