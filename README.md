@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-07<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-08<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -21,9 +21,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [Efficient way creating a dict of dict from a pandas dataframe](https://stackoverflow.com/questions/79691774/efficient-way-creating-a-dict-of-dict-from-a-pandas-dataframe) - 4 votes
-* [Why does Pandas rolling std output different results for different tail sizes](https://stackoverflow.com/questions/79692689/why-does-pandas-rolling-std-output-different-results-for-different-tail-sizes) - 3 votes
-* [In python How to find difference between a specific column in one dataframe and numeric columns of another dataframe](https://stackoverflow.com/questions/79692191/in-python-how-to-find-difference-between-a-specific-column-in-one-dataframe-and) - 1 votes
+* [Why does Pandas rolling std output different results for different tail sizes](https://stackoverflow.com/questions/79692689/why-does-pandas-rolling-std-output-different-results-for-different-tail-sizes) - 5 votes
+* [Plotly Heatmap Exclude specific column](https://stackoverflow.com/questions/79694270/plotly-heatmap-exclude-specific-column) - 4 votes
+* [In python How to find difference between a specific column in one dataframe and numeric columns of another dataframe](https://stackoverflow.com/questions/79692191/in-python-how-to-find-difference-between-a-specific-column-in-one-dataframe-and) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
