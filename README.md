@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-08<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-09<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-
+* [How to deserialize a borrowed serde struct once and pass it across tokiospawn tasks without cloning or DeserializeOwned](https://stackoverflow.com/questions/79695449/how-to-deserialize-a-borrowed-serde-struct-once-and-pass-it-across-tokiospawn) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,9 +21,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [Why does Pandas rolling std output different results for different tail sizes](https://stackoverflow.com/questions/79692689/why-does-pandas-rolling-std-output-different-results-for-different-tail-sizes) - 5 votes
 * [Plotly Heatmap Exclude specific column](https://stackoverflow.com/questions/79694270/plotly-heatmap-exclude-specific-column) - 4 votes
-* [In python How to find difference between a specific column in one dataframe and numeric columns of another dataframe](https://stackoverflow.com/questions/79692191/in-python-how-to-find-difference-between-a-specific-column-in-one-dataframe-and) - 2 votes
+* [How to assign subgraph IDs based on weakly connected user pairs but split when no shared connection exists](https://stackoverflow.com/questions/79695981/how-to-assign-subgraph-ids-based-on-weakly-connected-user-pairs-but-split-when) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
