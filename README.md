@@ -1,29 +1,27 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-10<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-11<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to deserialize a borrowed serde struct once and pass it across tokiospawn tasks without cloning or DeserializeOwned](https://stackoverflow.com/questions/79695449/how-to-deserialize-a-borrowed-serde-struct-once-and-pass-it-across-tokiospawn) - 2 votes
+
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [How can I improve the file streaming performance in FastAPI for large obj files](https://stackoverflow.com/questions/79698459/how-can-i-improve-the-file-streaming-performance-in-fastapi-for-large-obj-files) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How to assign subgraph IDs based on weakly connected user pairs but split when no shared connection exists](https://stackoverflow.com/questions/79695981/how-to-assign-subgraph-ids-based-on-weakly-connected-user-pairs-but-split-when) - 2 votes
-* [Pandas create date time column based on other column with relative milliseconds time](https://stackoverflow.com/questions/79695102/pandas-create-date-time-column-based-on-other-column-with-relative-milliseconds) - 2 votes
-* [csv file wide to long Float value gets truncated and getting integer for index column](https://stackoverflow.com/questions/79695141/csv-file-wide-to-long-float-value-gets-truncated-and-getting-integer-for-index) - 1 votes
+* [How do I compute group means in a pandas DataFrame when grouped by ranking](https://stackoverflow.com/questions/79697772/how-do-i-compute-group-means-in-a-pandas-dataframe-when-grouped-by-ranking) - 4 votes
 <!-- pandas ends -->
 </td></tr></table>
 
