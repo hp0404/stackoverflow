@@ -1,27 +1,27 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-12<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-13<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-
+* [Why isn39t the lifetime of RefMut over at the end of if let statement](https://stackoverflow.com/questions/79699807/why-isnt-the-lifetime-of-refmut-over-at-the-end-of-if-let-statement) - 3 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How can I improve the file streaming performance in FastAPI for large obj files](https://stackoverflow.com/questions/79698459/how-can-i-improve-the-file-streaming-performance-in-fastapi-for-large-obj-files) - 1 votes
+* [How can I reduce the startup time of FastAPI](https://stackoverflow.com/questions/79699331/how-can-i-reduce-the-startup-time-of-fastapi) - 2 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How do I compute group means in a pandas DataFrame when grouped by ranking](https://stackoverflow.com/questions/79697772/how-do-i-compute-group-means-in-a-pandas-dataframe-when-grouped-by-ranking) - 4 votes
+
 <!-- pandas ends -->
 </td></tr></table>
 
