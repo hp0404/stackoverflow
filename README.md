@@ -1,15 +1,16 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-15<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-16<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Is this a bug with the inner product function in the bulletproofs crate](https://stackoverflow.com/questions/79701213/is-this-a-bug-with-the-inner-product-function-in-the-bulletproofs-crate) - 3 votes
-* [Rust OAUTH2 token extra_field](https://stackoverflow.com/questions/79700793/rust-oauth2-token-extra-field) - 1 votes
-* [Send big tokiofsFile as response body with hyper 10 in a streaming fashion](https://stackoverflow.com/questions/79700999/send-big-tokiofsfile-as-response-body-with-hyper-1-0-in-a-streaming-fashi) - 1 votes
+* [Is it UB to twice drop the same value of a type for which needs_drop returns false](https://stackoverflow.com/questions/79703253/is-it-ub-to-twice-drop-the-same-value-of-a-type-for-which-needs-drop-returns-f) - 5 votes
+* [If the return value of a function has the same lifetime as one of the arguments then the return value is considered a borrow of the argument](https://stackoverflow.com/questions/79703538/if-the-return-value-of-a-function-has-the-same-lifetime-as-one-of-the-arguments) - 3 votes
+* [Why is cloning Trait Objects not supported but possible via a crate](https://stackoverflow.com/questions/79703692/why-is-cloning-trait-objects-not-supported-but-possible-via-a-crate) - 3 votes
+* [How to implement insertion into BST iteratively in Rust](https://stackoverflow.com/questions/79702461/how-to-implement-insertion-into-bst-iteratively-in-rust) - 1 votes
 * [What does Arc do in rust](https://stackoverflow.com/questions/79701650/what-does-arc-do-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -25,9 +26,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 ### pandas
 <!-- pandas starts -->
 * [Indicating which column wins in a dfmin call](https://stackoverflow.com/questions/79701884/indicating-which-column-wins-in-a-df-min-call) - 2 votes
-* [How to identify price regimes  trends in Pandas](https://stackoverflow.com/questions/79702145/how-to-identify-price-regimes-trends-in-pandas) - 1 votes
-* [fill row value based on column identifier](https://stackoverflow.com/questions/79701359/fill-row-value-based-on-column-identifier) - 1 votes
-* [Is there a way to select the entire arbitrary string value in a pandas data frame and replace with a given value](https://stackoverflow.com/questions/79702441/is-there-a-way-to-select-the-entire-arbitrary-string-value-in-a-pandas-data-fram) - 1 votes
+* [Replace all nonempty strings in a column with a constant](https://stackoverflow.com/questions/79702441/replace-all-non-empty-strings-in-a-column-with-a-constant) - 2 votes
+* [How to identify price regimes  trends in Pandas](https://stackoverflow.com/questions/79702145/how-to-identify-price-regimes-trends-in-pandas) - 2 votes
+* [How to do pandas grouping filtering and a pie chart using chained operations](https://stackoverflow.com/questions/79701793/how-to-do-pandas-grouping-filtering-and-a-pie-chart-using-chained-operations) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
