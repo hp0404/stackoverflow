@@ -1,15 +1,15 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-17<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-18<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Is it UB to twice drop the same value of a type for which needs_drop returns false](https://stackoverflow.com/questions/79703253/is-it-ub-to-twice-drop-the-same-value-of-a-type-for-which-needs-drop-returns-f) - 6 votes
-* [If the return value of a function has the same lifetime as one of the arguments then the return value is considered a borrow of the argument](https://stackoverflow.com/questions/79703538/if-the-return-value-of-a-function-has-the-same-lifetime-as-one-of-the-arguments) - 4 votes
-* [Why is cloning Trait Objects not supported but possible via a crate](https://stackoverflow.com/questions/79703692/why-is-cloning-trait-objects-not-supported-but-possible-via-a-crate) - 3 votes
+* [Comparing Swift39s and Rust39s function signatures](https://stackoverflow.com/questions/79705756/comparing-swifts-and-rusts-function-signatures) - 1 votes
+* [Getting 39lifetime may not live long enough39 while expecting 39cannot move out39](https://stackoverflow.com/questions/79706063/getting-lifetime-may-not-live-long-enough-while-expecting-cannot-move-out) - 1 votes
+* [Lifetime issue when implementing traits returning impltype objects](https://stackoverflow.com/questions/79706593/lifetime-issue-when-implementing-traits-returning-impl-type-objects) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
