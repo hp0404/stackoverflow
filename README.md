@@ -1,15 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-19<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-20<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Getting 39lifetime may not live long enough39 while expecting 39cannot move out39](https://stackoverflow.com/questions/79706063/getting-lifetime-may-not-live-long-enough-while-expecting-cannot-move-out) - 2 votes
-* [Lifetime issue when implementing traits returning impltype objects](https://stackoverflow.com/questions/79706593/lifetime-issue-when-implementing-traits-returning-impl-type-objects) - 2 votes
-* [Comparing Swift39s and Rust39s function signatures](https://stackoverflow.com/questions/79705756/comparing-swifts-and-rusts-function-signatures) - 1 votes
+* [How to use two different expressions in one filter in Diesel ORM](https://stackoverflow.com/questions/79707800/how-to-use-two-different-expressions-in-one-filter-in-diesel-orm) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -23,7 +21,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [How to generate only one box plot for a matrix in Pandas](https://stackoverflow.com/questions/79705942/how-to-generate-only-one-box-plot-for-a-matrix-in-pandas) - 1 votes
+* [how to get nonaggregate columns using pandas using group by](https://stackoverflow.com/questions/79708053/how-to-get-non-aggregate-columns-using-pandas-using-group-by) - 4 votes
+* [Can39t make candle chart due to some error with mpfplot](https://stackoverflow.com/questions/79707491/cant-make-candle-chart-due-to-some-error-with-mpf-plot) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
