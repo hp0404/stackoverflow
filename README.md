@@ -1,12 +1,15 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-20<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-21<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Why is ampself allowed in the parameters of ampmut self methods but not ampmut self](https://stackoverflow.com/questions/79709273/why-is-self-allowed-in-the-parameters-of-mut-self-methods-but-not-mut-s) - 4 votes
+* [Why does this code that moves a closure into another closure and returns both even compile](https://stackoverflow.com/questions/79708503/why-does-this-code-that-moves-a-closure-into-another-closure-and-returns-both-ev) - 3 votes
+* [How to make rustanalyzer ignore errors in tests](https://stackoverflow.com/questions/79708362/how-to-make-rust-analyzer-ignore-errors-in-tests) - 3 votes
 * [How to use two different expressions in one filter in Diesel ORM](https://stackoverflow.com/questions/79707800/how-to-use-two-different-expressions-in-one-filter-in-diesel-orm) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -14,15 +17,14 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to make concurrent writes in SQLite with FastAPI  SQLAlchemy without quotdatabase is lockedquot error](https://stackoverflow.com/questions/79707043/how-to-make-concurrent-writes-in-sqlite-with-fastapi-sqlalchemy-without-datab) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [how to get nonaggregate columns using pandas using group by](https://stackoverflow.com/questions/79708053/how-to-get-non-aggregate-columns-using-pandas-using-group-by) - 4 votes
-* [Can39t make candle chart due to some error with mpfplot](https://stackoverflow.com/questions/79707491/cant-make-candle-chart-due-to-some-error-with-mpf-plot) - 1 votes
+* [How do I get nonaggregated columns using groupby in Pandas](https://stackoverflow.com/questions/79708053/how-do-i-get-non-aggregated-columns-using-groupby-in-pandas) - 4 votes
 <!-- pandas ends -->
 </td></tr></table>
 
