@@ -1,16 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-21<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-22<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why is ampself allowed in the parameters of ampmut self methods but not ampmut self](https://stackoverflow.com/questions/79709273/why-is-self-allowed-in-the-parameters-of-mut-self-methods-but-not-mut-s) - 4 votes
-* [Why does this code that moves a closure into another closure and returns both even compile](https://stackoverflow.com/questions/79708503/why-does-this-code-that-moves-a-closure-into-another-closure-and-returns-both-ev) - 3 votes
-* [How to make rustanalyzer ignore errors in tests](https://stackoverflow.com/questions/79708362/how-to-make-rust-analyzer-ignore-errors-in-tests) - 3 votes
-* [How to use two different expressions in one filter in Diesel ORM](https://stackoverflow.com/questions/79707800/how-to-use-two-different-expressions-in-one-filter-in-diesel-orm) - 1 votes
+* [Why is ampself allowed in the parameters of ampmut self methods but not ampmut self](https://stackoverflow.com/questions/79709273/why-is-self-allowed-in-the-parameters-of-mut-self-methods-but-not-mut-s) - 16 votes
+* [Why does this code that moves a closure into another closure and returns both even compile](https://stackoverflow.com/questions/79708503/why-does-this-code-that-moves-a-closure-into-another-closure-and-returns-both-ev) - 5 votes
+* [Use UnsafeCell to get around rules for uninitialized memory](https://stackoverflow.com/questions/79709781/use-unsafecell-to-get-around-rules-for-uninitialized-memory) - 2 votes
+* [How can I handle blocking input and a fixed UI tick rate](https://stackoverflow.com/questions/79710267/how-can-i-handle-blocking-input-and-a-fixed-ui-tick-rate) - 1 votes
+* [rustanalyzer in neovim does not give full error messages unless file is saved](https://stackoverflow.com/questions/79709947/rust-analyzer-in-neovim-does-not-give-full-error-messages-unless-file-is-saved) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -24,7 +25,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [How do I get nonaggregated columns using groupby in Pandas](https://stackoverflow.com/questions/79708053/how-do-i-get-non-aggregated-columns-using-groupby-in-pandas) - 4 votes
+
 <!-- pandas ends -->
 </td></tr></table>
 
