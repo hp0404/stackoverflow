@@ -1,16 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-23<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-24<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Use UnsafeCell to get around rules for uninitialized memory](https://stackoverflow.com/questions/79709781/use-unsafecell-to-get-around-rules-for-uninitialized-memory) - 4 votes
-* [How can I handle blocking input and a fixed UI tick rate](https://stackoverflow.com/questions/79710267/how-can-i-handle-blocking-input-and-a-fixed-ui-tick-rate) - 1 votes
-* [Environment variables not accessible in dynamically loaded dylib on macOS using Rust libloading but works on Windows](https://stackoverflow.com/questions/79710119/environment-variables-not-accessible-in-dynamically-loaded-dylib-on-macos-using) - 1 votes
-* [rustanalyzer in neovim does not give full error messages unless file is saved](https://stackoverflow.com/questions/79709947/rust-analyzer-in-neovim-does-not-give-full-error-messages-unless-file-is-saved) - 1 votes
+* [Minimum between two lifetimes](https://stackoverflow.com/questions/79713696/minimum-between-two-lifetimes) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -24,7 +21,6 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [How to cleanup some content from the text file](https://stackoverflow.com/questions/79711008/how-to-cleanup-some-content-from-the-text-file) - 3 votes
 * [Parse a CSV translation file that contains quotNonequot as a standalone string](https://stackoverflow.com/questions/79711862/parse-a-csv-translation-file-that-contains-none-as-a-standalone-string) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
