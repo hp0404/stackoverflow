@@ -1,13 +1,16 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-24<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-07-25<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Minimum between two lifetimes](https://stackoverflow.com/questions/79713696/minimum-between-two-lifetimes) - 2 votes
+* [Minimum between two lifetimes](https://stackoverflow.com/questions/79713696/minimum-between-two-lifetimes) - 3 votes
+* [Rust39s mutable borrows in closure parameter](https://stackoverflow.com/questions/79714686/rusts-mutable-borrows-in-closure-parameter) - 3 votes
+* [Can I use loadAcquire  read data  compare_exchange_weakRelaxed Acquire in a concurrent ring buffer](https://stackoverflow.com/questions/79715050/can-i-use-loadacquire-read-data-compare-exchange-weakrelaxed-acquire-in) - 1 votes
+* [Rust zbus call_method with complext structs that include zvariantValue](https://stackoverflow.com/questions/79714483/rust-zbus-call-method-with-complext-structs-that-include-zvariantvalue) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,7 +24,10 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [Parse a CSV translation file that contains quotNonequot as a standalone string](https://stackoverflow.com/questions/79711862/parse-a-csv-translation-file-that-contains-none-as-a-standalone-string) - 1 votes
+* [Assign column status retrospectively in pandas](https://stackoverflow.com/questions/79714421/assign-column-status-retrospectively-in-pandas) - 2 votes
+* [How to set up nonlinear sinusoidal multiple variable regression problems for tensorflow](https://stackoverflow.com/questions/79713620/how-to-set-up-non-linear-sinusoidal-multiple-variable-regression-problems-for) - 2 votes
+* [Pandas dataframe insert to sql server using pyodbc fails if more than 1 record is present in batch](https://stackoverflow.com/questions/79714721/pandas-dataframe-insert-to-sql-server-using-pyodbc-fails-if-more-than-1-record-i) - 1 votes
+* [Fit the rows and column names using pandasset_option](https://stackoverflow.com/questions/79714931/fit-the-rows-and-column-names-using-pandas-set-option) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
