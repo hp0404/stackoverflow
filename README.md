@@ -1,13 +1,15 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-08-03<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-08-04<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to downcast any List or any Option in rust](https://stackoverflow.com/questions/79723390/how-to-downcast-any-list-or-any-option-in-rust) - 1 votes
+* [Robot test framework for Rust](https://stackoverflow.com/questions/79724591/robot-test-framework-for-rust) - 2 votes
+* [How to receive raw input from terminal It still echos after crosstermterminalenable_raw_mode](https://stackoverflow.com/questions/79725303/how-to-receive-raw-input-from-terminal-it-still-echos-after-crosstermterminal) - 1 votes
+* [How to use the quotis_inquot function correctly](https://stackoverflow.com/questions/79724809/how-to-use-the-is-in-function-correctly) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,7 +23,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-
+* [Convert Decimal values to float64 when creating a Pandas DataFrame](https://stackoverflow.com/questions/79724845/convert-decimal-values-to-float64-when-creating-a-pandas-dataframe) - 4 votes
+* [pandas pivot_table can aggfunc work over a different grouping period from the table](https://stackoverflow.com/questions/79724387/pandas-pivot-table-can-aggfunc-work-over-a-different-grouping-period-from-the-t) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
