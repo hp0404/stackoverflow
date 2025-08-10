@@ -1,13 +1,15 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-08-09<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-08-10<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why does my custom global allocator crash on large allocations and how can I handle alignment properly](https://stackoverflow.com/questions/79729778/why-does-my-custom-global-allocator-crash-on-large-allocations-and-how-can-i-ha) - 2 votes
+* [How to kill a task that runs alongside the main program](https://stackoverflow.com/questions/79730990/how-to-kill-a-task-that-runs-alongside-the-main-program) - 3 votes
+* [Manually polling a future using Tokio](https://stackoverflow.com/questions/79731211/manually-polling-a-future-using-tokio) - 2 votes
+* [Implementing ZeroCost HigherKinded Types with Associated Type Constructors in Rust  Lifetime Propagation Issues](https://stackoverflow.com/questions/79731480/implementing-zero-cost-higher-kinded-types-with-associated-type-constructors-in) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
