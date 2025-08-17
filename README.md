@@ -1,15 +1,14 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-08-16<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-08-17<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How can I write a convenient API that accepts a list of functions](https://stackoverflow.com/questions/79736096/how-can-i-write-a-convenient-api-that-accepts-a-list-of-functions) - 4 votes
-* [How does Rust lexer handle the integer literal](https://stackoverflow.com/questions/79736446/how-does-rust-lexer-handle-the-integer-literal) - 2 votes
-* [Rust aliasing do references to the parent struct count as references to its fields](https://stackoverflow.com/questions/79736341/rust-aliasing-do-references-to-the-parent-struct-count-as-references-to-its-fie) - 2 votes
+* [How to use plain RDTSC without using asm](https://stackoverflow.com/questions/79737778/how-to-use-plain-rdtsc-without-using-asm) - 3 votes
+* [Design dilemma with enum_dispatch in Rust](https://stackoverflow.com/questions/79737925/design-dilemma-with-enum-dispatch-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
