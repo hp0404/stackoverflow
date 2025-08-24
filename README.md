@@ -1,15 +1,15 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-08-23<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-08-24<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to specify associated type in Boxltdyn Traitgt](https://stackoverflow.com/questions/79743788/how-to-specify-associated-type-in-boxdyn-trait) - 2 votes
-* [When was no_mangle required to be wrapped in unsafe](https://stackoverflow.com/questions/79744068/when-was-no-mangle-required-to-be-wrapped-in-unsafe) - 1 votes
-* [How to call an async closure multiple times](https://stackoverflow.com/questions/79743846/how-to-call-an-async-closure-multiple-times) - 1 votes
+* [When was no_mangle required to be wrapped in unsafe](https://stackoverflow.com/questions/79744068/when-was-no-mangle-required-to-be-wrapped-in-unsafe) - 3 votes
+* [How can I automatically implement a commutative operation for the other side](https://stackoverflow.com/questions/79744377/how-can-i-automatically-implement-a-commutative-operation-for-the-other-side) - 1 votes
+* [What is best practice use of defaultfeatures  false on crate features](https://stackoverflow.com/questions/79744789/what-is-best-practice-use-of-default-features-false-on-crate-features) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -23,7 +23,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [graph_objectsSurface axis tic spacing inconsistent on x and y](https://stackoverflow.com/questions/79743895/graph-objects-surface-axis-tic-spacing-inconsistent-on-x-and-y) - 2 votes
+* [Pandas find max value of a column then find another value in the same row and copy that value to a new column](https://stackoverflow.com/questions/79744663/pandas-find-max-value-of-a-column-then-find-another-value-in-the-same-row-and) - 4 votes
 <!-- pandas ends -->
 </td></tr></table>
 
