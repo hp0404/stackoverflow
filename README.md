@@ -1,15 +1,15 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-08-24<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-08-25<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [When was no_mangle required to be wrapped in unsafe](https://stackoverflow.com/questions/79744068/when-was-no-mangle-required-to-be-wrapped-in-unsafe) - 3 votes
-* [How can I automatically implement a commutative operation for the other side](https://stackoverflow.com/questions/79744377/how-can-i-automatically-implement-a-commutative-operation-for-the-other-side) - 1 votes
-* [What is best practice use of defaultfeatures  false on crate features](https://stackoverflow.com/questions/79744789/what-is-best-practice-use-of-default-features-false-on-crate-features) - 1 votes
+* [Cannot get the same sequence of random numbers with Julia and Rust despite using the same seed and the same method](https://stackoverflow.com/questions/79745692/cannot-get-the-same-sequence-of-random-numbers-with-julia-and-rust-despite-usin) - 2 votes
+* [When to make use of defaultfeatures  false on crate features](https://stackoverflow.com/questions/79744789/when-to-make-use-of-default-features-false-on-crate-features) - 2 votes
+* [Unexpected thread blocking during spawned tokio file read](https://stackoverflow.com/questions/79744888/unexpected-thread-blocking-during-spawned-tokio-file-read) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -23,7 +23,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas find max value of a column then find another value in the same row and copy that value to a new column](https://stackoverflow.com/questions/79744663/pandas-find-max-value-of-a-column-then-find-another-value-in-the-same-row-and) - 4 votes
+* [Find max value of a column then find another value in the same row and copy that value to a new column in Pandas](https://stackoverflow.com/questions/79744663/find-max-value-of-a-column-then-find-another-value-in-the-same-row-and-copy-th) - 6 votes
+* [How do you remove already filtered category values from DataFrames from plots and pivot tables](https://stackoverflow.com/questions/79745115/how-do-you-remove-already-filtered-category-values-from-dataframes-from-plots-an) - 3 votes
+* [Pandas Stylerbar not showing on Excel column](https://stackoverflow.com/questions/79744978/pandas-styler-bar-not-showing-on-excel-column) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
