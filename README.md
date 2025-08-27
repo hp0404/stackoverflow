@@ -1,13 +1,14 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-08-26<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-08-27<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Cannot get the same sequence of random numbers with Julia and Rust despite using the same seed and the same method](https://stackoverflow.com/questions/79745692/cannot-get-the-same-sequence-of-random-numbers-with-julia-and-rust-despite-usin) - 2 votes
+* [Why is quotreturn by valuequot idiomatic in Rust](https://stackoverflow.com/questions/79747651/why-is-return-by-value-idiomatic-in-rust) - 15 votes
+* [Command START_REPLICATION failing while trying to conusme logical replication](https://stackoverflow.com/questions/79747999/command-start-replication-failing-while-trying-to-conusme-logical-replication) - 1 votes
 * [How is memory allocated and deallocated in rust](https://stackoverflow.com/questions/79746403/how-is-memory-allocated-and-deallocated-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -22,7 +23,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [I am trying to create a seperate data frame when specific conditions are met](https://stackoverflow.com/questions/79746959/i-am-trying-to-create-a-seperate-data-frame-when-specific-conditions-are-met) - 1 votes
+* [How to sort pandas groups by multipleall values of the groups](https://stackoverflow.com/questions/79747317/how-to-sort-pandas-groups-by-multiple-all-values-of-the-groups) - 7 votes
+* [Conversion of a pyspark DataFrame with a Variant column to pandas fails with an error](https://stackoverflow.com/questions/79747926/conversion-of-a-pyspark-dataframe-with-a-variant-column-to-pandas-fails-with-an) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
