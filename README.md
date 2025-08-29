@@ -1,14 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-08-28<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-08-29<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why is quotreturn by valuequot idiomatic in Rust](https://stackoverflow.com/questions/79747651/why-is-return-by-value-idiomatic-in-rust) - 22 votes
-* [Command START_REPLICATION failing while trying to conusme logical replication](https://stackoverflow.com/questions/79747999/command-start-replication-failing-while-trying-to-conusme-logical-replication) - 1 votes
+
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -22,9 +21,11 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
+* [Pandas read_csv load emptymissing column values as NaN while loading empty string for quoted empty strings values in csv file](https://stackoverflow.com/questions/79749522/pandas-read-csv-load-empty-missing-column-values-as-nan-while-loading-empty-str) - 3 votes
 * [How to pass argument to func in pandasresampleragg when using dict input](https://stackoverflow.com/questions/79748930/how-to-pass-argument-to-func-in-pandas-resampler-agg-when-using-dict-input) - 3 votes
-* [Pandas read_csv load emptymissing column values as NaN while loading empty string for quoted empty strings values in csv file](https://stackoverflow.com/questions/79749522/pandas-read-csv-load-empty-missing-column-values-as-nan-while-loading-empty-str) - 1 votes
-* [Conversion of a pyspark DataFrame with a Variant column to pandas fails with an error](https://stackoverflow.com/questions/79747926/conversion-of-a-pyspark-dataframe-with-a-variant-column-to-pandas-fails-with-an) - 1 votes
+* [How to retrieve one data value from the result of a pandas DataFramegroupbymean](https://stackoverflow.com/questions/79749580/how-to-retrieve-one-data-value-from-the-result-of-a-pandas-dataframe-groupby-m) - 2 votes
+* [Pandas read_csv Skip rows contains invalid data that can cause data_type parsing errors](https://stackoverflow.com/questions/79749770/pandas-read-csv-skip-rows-contains-invalid-data-that-can-cause-data-type-parsin) - 1 votes
+* [How to do linear interpolation in PySpark without Pandas UDF only using Spark API](https://stackoverflow.com/questions/79749829/how-to-do-linear-interpolation-in-pyspark-without-pandas-udf-only-using-spark-a) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
