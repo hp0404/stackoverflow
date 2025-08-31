@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-08-30<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-08-31<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -21,8 +21,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [How to do linear interpolation in PySpark without Pandas UDF only using Spark API](https://stackoverflow.com/questions/79749829/how-to-do-linear-interpolation-in-pyspark-without-pandas-udf-only-using-spark-a) - 2 votes
-* [Pandas read_csv Skip rows contains invalid data that can cause data_type parsing errors](https://stackoverflow.com/questions/79749770/pandas-read-csv-skip-rows-contains-invalid-data-that-can-cause-data-type-parsin) - 1 votes
+* [splitting a data frame in a way like dealing cards](https://stackoverflow.com/questions/79751529/splitting-a-data-frame-in-a-way-like-dealing-cards) - 2 votes
+* [Can a DataFrame have multiple different types in the same column](https://stackoverflow.com/questions/79751965/can-a-dataframe-have-multiple-different-types-in-the-same-column) - 1 votes
 * [Sorting a column of max values from a multicolumn pandas data frame](https://stackoverflow.com/questions/79751371/sorting-a-column-of-max-values-from-a-multicolumn-pandas-data-frame) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
