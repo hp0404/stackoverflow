@@ -1,13 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-09-02<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-09-03<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [How do I store an atomic pointer with sentinel values in Rust](https://stackoverflow.com/questions/79754400/how-do-i-store-an-atomic-pointer-with-sentinel-values-in-rust) - 3 votes
+* [Why destruction order of array elements is not from last to first](https://stackoverflow.com/questions/79754764/why-destruction-order-of-array-elements-is-not-from-last-to-first) - 1 votes
 * [Avoiding double references in Rust](https://stackoverflow.com/questions/79753188/avoiding-double-references-in-rust) - 1 votes
+* [How to integrate push notifications with speechtotext functionality in Flutter IOS](https://stackoverflow.com/questions/79755085/how-to-integrate-push-notifications-with-speech-to-text-functionality-in-flutter) - 1 votes
+* [Rust mpscsync_channel after send returns can try_recv still return Empty](https://stackoverflow.com/questions/79753705/rust-mpscsync-channel-after-send-returns-can-try-recv-still-return-empty) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,7 +25,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas continous time periods](https://stackoverflow.com/questions/79752604/pandas-continous-time-periods) - 4 votes
+* [ModuleNotFoundError No module named 39pandas39 on Raspberry Pi even after installing from requirementstxt](https://stackoverflow.com/questions/79754631/modulenotfounderror-no-module-named-pandas-on-raspberry-pi-even-after-install) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
