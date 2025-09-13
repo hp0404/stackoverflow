@@ -1,24 +1,22 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-09-12<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-09-13<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Rust does not compile anymap](https://stackoverflow.com/questions/79762062/rust-does-not-compile-anymap) - 2 votes
-* [Using as_mut with a constant pointer](https://stackoverflow.com/questions/79762009/using-as-mut-with-a-constant-pointer) - 2 votes
-* [Is it okay to dereference a RwLockReadGuard on the same line](https://stackoverflow.com/questions/79761444/is-it-okay-to-dereference-a-rwlockreadguard-on-the-same-line) - 2 votes
 * [Borrow value does not live long enough in lifetimed trait](https://stackoverflow.com/questions/79762744/borrow-value-does-not-live-long-enough-in-lifetimed-trait) - 1 votes
-* [How to pass arguments to ffmpeg in rust](https://stackoverflow.com/questions/79761405/how-to-pass-arguments-to-ffmpeg-in-rust) - 1 votes
+* [esp_wifi in module  borrow checker issue](https://stackoverflow.com/questions/79763475/esp-wifi-in-module-borrow-checker-issue) - 1 votes
+* [Difference in flushing behavior in OpenSSL and Apple Secure Transport](https://stackoverflow.com/questions/79762468/difference-in-flushing-behavior-in-openssl-and-apple-secure-transport) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Having trouble with asyc_sessiomaker in FastAPI](https://stackoverflow.com/questions/79761506/having-trouble-with-asyc-sessiomaker-in-fastapi) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
