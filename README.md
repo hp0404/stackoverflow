@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-09-15<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-09-16<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-
+* [How do I specialize the implementation of a function or struct for a single type](https://stackoverflow.com/questions/79765026/how-do-i-specialize-the-implementation-of-a-function-or-struct-for-a-single-type) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,6 +21,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
+* [Get rows with unique value in a specific column in pandas](https://stackoverflow.com/questions/79765445/get-rows-with-unique-value-in-a-specific-column-in-pandas) - 3 votes
 * [Why does Pandera print failing rows with pacheck and a lambda function but not on a column check](https://stackoverflow.com/questions/79765484/why-does-pandera-print-failing-rows-with-pa-check-and-a-lambda-function-but-no) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
