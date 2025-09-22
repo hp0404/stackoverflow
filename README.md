@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-09-21<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-09-22<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-
+* [Rust corearchasm throwing error where type u64 doesn39t fit into class reg](https://stackoverflow.com/questions/79771829/rust-corearchasm-throwing-error-where-type-u64-doesnt-fit-into-class-reg) - 5 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
