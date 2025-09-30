@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-09-29<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-09-30<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Value display in debug with vscode and CodeLLDB](https://stackoverflow.com/questions/79777067/value-display-in-debug-with-vscode-and-code-lldb) - 1 votes
+
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,6 +21,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-0
 
 ### pandas
 <!-- pandas starts -->
+* [How to transfer Python variables from one Flask view to another](https://stackoverflow.com/questions/79778443/how-to-transfer-python-variables-from-one-flask-view-to-another) - 1 votes
 * [Is there a way to complement  supplement a stubs package with additional type information in a stubs file](https://stackoverflow.com/questions/79777919/is-there-a-way-to-complement-supplement-a-stubs-package-with-additional-type-i) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
