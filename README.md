@@ -1,13 +1,14 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-03<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-04<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-
+* [Is deserializing usize with Serde platformdependent](https://stackoverflow.com/questions/79782666/is-deserializing-usize-with-serde-platform-dependent) - 1 votes
+* [How can I control whether a u64 is encoded as varint or standard in bincode](https://stackoverflow.com/questions/79782435/how-can-i-control-whether-a-u64-is-encoded-as-varint-or-standard-in-bincode) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
