@@ -1,14 +1,14 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-06<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-07<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Do lifetime parameters have any effect on memory layout](https://stackoverflow.com/questions/79783256/do-lifetime-parameters-have-any-effect-on-memory-layout) - 3 votes
-* [Can a channel39s Drop omit Acquire ordering as in the Rust Atomics and Locks book](https://stackoverflow.com/questions/79783279/can-a-channels-drop-omit-acquire-ordering-as-in-the-rust-atomics-and-locks-boo) - 2 votes
+* [How to execute async code for threadlocals in a nonthreaded environment](https://stackoverflow.com/questions/79783292/how-to-execute-async-code-for-thread-locals-in-a-non-threaded-environment) - 1 votes
+* [Why does mouse look feel jittery in winit  wgpu despite smooth frame rendering](https://stackoverflow.com/questions/79783359/why-does-mouse-look-feel-jittery-in-winit-wgpu-despite-smooth-frame-rendering) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -22,7 +22,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### pandas
 <!-- pandas starts -->
-
+* [How to count pandas DataFrame cells using unique cell values as rows and columns](https://stackoverflow.com/questions/79784134/how-to-count-pandas-dataframe-cells-using-unique-cell-values-as-rows-and-columns) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
