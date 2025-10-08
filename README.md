@@ -1,14 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-07<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-08<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to execute async code for threadlocals in a nonthreaded environment](https://stackoverflow.com/questions/79783292/how-to-execute-async-code-for-thread-locals-in-a-non-threaded-environment) - 1 votes
-* [Why does mouse look feel jittery in winit  wgpu despite smooth frame rendering](https://stackoverflow.com/questions/79783359/why-does-mouse-look-feel-jittery-in-winit-wgpu-despite-smooth-frame-rendering) - 1 votes
+
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -22,7 +21,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### pandas
 <!-- pandas starts -->
-* [How to count pandas DataFrame cells using unique cell values as rows and columns](https://stackoverflow.com/questions/79784134/how-to-count-pandas-dataframe-cells-using-unique-cell-values-as-rows-and-columns) - 1 votes
+* [Importing a table from a webpage as a dataframe in Python](https://stackoverflow.com/questions/79784978/importing-a-table-from-a-webpage-as-a-dataframe-in-python) - 3 votes
+* [Why does Pandas not recognise my sqlalchemy connection engine](https://stackoverflow.com/questions/79785397/why-does-pandas-not-recognise-my-sqlalchemy-connection-engine) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
