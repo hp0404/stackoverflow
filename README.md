@@ -1,14 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-09<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-10<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Share buffer during a loop in Rust](https://stackoverflow.com/questions/79786682/share-buffer-during-a-loop-in-rust) - 2 votes
-* [Rust impl trait for type if it has trait](https://stackoverflow.com/questions/79785232/rust-impl-trait-for-type-if-it-has-trait) - 1 votes
+* [Share buffer during a loop in Rust](https://stackoverflow.com/questions/79786682/share-buffer-during-a-loop-in-rust) - 8 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -22,9 +21,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas concat doesn39t do a copy when one of the dataframes is empty](https://stackoverflow.com/questions/79785937/pandas-concat-doesnt-do-a-copy-when-one-of-the-dataframes-is-empty) - 3 votes
-* [Why does Pandas not recognise my sqlalchemy connection engine](https://stackoverflow.com/questions/79785397/why-does-pandas-not-recognise-my-sqlalchemy-connection-engine) - 2 votes
-* [Reconfigure a Pandas Dataframe](https://stackoverflow.com/questions/79785896/reconfigure-a-pandas-dataframe) - 1 votes
+* [python plotly scatter ols trendline has a kink in it](https://stackoverflow.com/questions/79787051/python-plotly-scatter-ols-trendline-has-a-kink-in-it) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
