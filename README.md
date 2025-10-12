@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-11<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-12<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -14,15 +14,14 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [How to handle custom date format ddmmyyyy in query params with inherited model](https://stackoverflow.com/questions/79788585/how-to-handle-custom-date-format-dd-mm-yyyy-in-query-params-with-inherited-mod) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How to combine multiple rows of Pandas dataframe into one row using a key](https://stackoverflow.com/questions/79787585/how-to-combine-multiple-rows-of-pandas-dataframe-into-one-row-using-a-key) - 2 votes
-* [python plotly scatter ols trendline has a kink in it](https://stackoverflow.com/questions/79787051/python-plotly-scatter-ols-trendline-has-a-kink-in-it) - 1 votes
+
 <!-- pandas ends -->
 </td></tr></table>
 
