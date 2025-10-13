@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-12<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-13<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -14,14 +14,14 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to handle custom date format ddmmyyyy in query params with inherited model](https://stackoverflow.com/questions/79788585/how-to-handle-custom-date-format-dd-mm-yyyy-in-query-params-with-inherited-mod) - 1 votes
+* [How to handle custom date format ddmmyyyy in query params with inherited model](https://stackoverflow.com/questions/79788585/how-to-handle-custom-date-format-dd-mm-yyyy-in-query-params-with-inherited-mod) - 3 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-
+* [Is there a way in Python to make a row of an HTML table multilined](https://stackoverflow.com/questions/79788916/is-there-a-way-in-python-to-make-a-row-of-an-html-table-multi-lined) - 3 votes
 <!-- pandas ends -->
 </td></tr></table>
 
