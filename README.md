@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-13<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-14<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -14,7 +14,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to handle custom date format ddmmyyyy in query params with inherited model](https://stackoverflow.com/questions/79788585/how-to-handle-custom-date-format-dd-mm-yyyy-in-query-params-with-inherited-mod) - 3 votes
+* [DeprecationWarning 39HTTP_422_UNPROCESSABLE_ENTITY39 is deprecated Use 39HTTP_422_UNPROCESSABLE_CONTENT39 instead](https://stackoverflow.com/questions/79789459/deprecationwarning-http-422-unprocessable-entity-is-deprecated-use-http-422) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -22,6 +22,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 ### pandas
 <!-- pandas starts -->
 * [Is there a way in Python to make a row of an HTML table multilined](https://stackoverflow.com/questions/79788916/is-there-a-way-in-python-to-make-a-row-of-an-html-table-multi-lined) - 3 votes
+* [Increase the date by number of months in pandas](https://stackoverflow.com/questions/79789768/increase-the-date-by-number-of-months-in-pandas) - 2 votes
+* [How to write a pandascompatible nonelementary expression in narwhals](https://stackoverflow.com/questions/79790533/how-to-write-a-pandas-compatible-non-elementary-expression-in-narwhals) - 2 votes
+* [How to change names of pandas MultiIndex using Styler](https://stackoverflow.com/questions/79790153/how-to-change-names-of-pandas-multiindex-using-styler) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
