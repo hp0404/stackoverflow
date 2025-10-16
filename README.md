@@ -1,31 +1,31 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-15<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-16<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why does 39borrowed valued does not live long enough39 error appear when storing value and its reference in a struct](https://stackoverflow.com/questions/79790684/why-does-borrowed-valued-does-not-live-long-enough-error-appear-when-storing-v) - 1 votes
+* [How do I efficiently share state with a background thread owned by the same struct](https://stackoverflow.com/questions/79791833/how-do-i-efficiently-share-state-with-a-background-thread-owned-by-the-same-stru) - 6 votes
+* [Is data race between processes UB](https://stackoverflow.com/questions/79791893/is-data-race-between-processes-ub) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to design a payment acquirer API wrapper ERede Cielo or CGNet abstracting transaction and tokenization routes](https://stackoverflow.com/questions/79790648/how-to-design-a-payment-acquirer-api-wrapper-e-rede-cielo-or-cgnet-abstracti) - 3 votes
+* [Error 401 when authenticating with Bearer to fastapi_users](https://stackoverflow.com/questions/79791228/error-401-when-authenticating-with-bearer-to-fastapi-users) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How to write a pandascompatible nonelementary expression in narwhals](https://stackoverflow.com/questions/79790533/how-to-write-a-pandas-compatible-non-elementary-expression-in-narwhals) - 6 votes
-* [Create an incremental suffix for values in a pandas column that have duplicate values in another column](https://stackoverflow.com/questions/79790517/create-an-incremental-suffix-for-values-in-a-pandas-column-that-have-duplicate-v) - 4 votes
-* [Failing to fill empty date values with numpy nan](https://stackoverflow.com/questions/79790995/failing-to-fill-empty-date-values-with-numpy-nan) - 3 votes
-* [Increase the date by number of months in pandas](https://stackoverflow.com/questions/79789768/increase-the-date-by-number-of-months-in-pandas) - 3 votes
-* [How to change names of pandas MultiIndex using Styler](https://stackoverflow.com/questions/79790153/how-to-change-names-of-pandas-multiindex-using-styler) - 3 votes
+* [Failing to fill empty date values with numpy nan](https://stackoverflow.com/questions/79790995/failing-to-fill-empty-date-values-with-numpy-nan) - 4 votes
+* [How to control the zorder values on superimposed bars in a histogram plot in matplotlib](https://stackoverflow.com/questions/79791271/how-to-control-the-zorder-values-on-superimposed-bars-in-a-histogram-plot-in-mat) - 2 votes
+* [Error due to singlelevel dataframe merge with multilevel indexed dataframe](https://stackoverflow.com/questions/79792272/error-due-to-single-level-dataframe-merge-with-multi-level-indexed-dataframe) - 1 votes
+* [How to efficiently detect and handle inconsistent date formats across multiple columns in pandas DataFrame](https://stackoverflow.com/questions/79791223/how-to-efficiently-detect-and-handle-inconsistent-date-formats-across-multiple-c) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
