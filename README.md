@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-18<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-19<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why does the memory order need to be Acquire in a single consumer linkedlist queue when comparing pointer values](https://stackoverflow.com/questions/79793240/why-does-the-memory-order-need-to-be-acquire-in-a-single-consumer-linked-list-qu) - 8 votes
+
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
