@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-19<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-20<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-
+* [How do I place a DynamicallySizedType in an Rc](https://stackoverflow.com/questions/79794760/how-do-i-place-a-dynamically-sized-type-in-an-rc) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,7 +21,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### pandas
 <!-- pandas starts -->
-* [Calculating mean for a column of arrays in pandas](https://stackoverflow.com/questions/79793610/calculating-mean-for-a-column-of-arrays-in-pandas) - 3 votes
+* [Drop duplicate values when merging dataframe](https://stackoverflow.com/questions/79794520/drop-duplicate-values-when-merging-dataframe) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
