@@ -1,14 +1,15 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-22<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-23<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Detect leaking of private types which are only public in their module](https://stackoverflow.com/questions/79796941/detect-leaking-of-private-types-which-are-only-public-in-their-module) - 1 votes
-* [How to avoid different indentation in rustc error messages](https://stackoverflow.com/questions/79795598/how-to-avoid-different-indentation-in-rustc-error-messages) - 1 votes
+* [Detect leaking of private types which are only public in their module](https://stackoverflow.com/questions/79796941/detect-leaking-of-private-types-which-are-only-public-in-their-module) - 3 votes
+* [Rust and lifetime with generics and included structure](https://stackoverflow.com/questions/79798142/rust-and-lifetime-with-generics-and-included-structure) - 1 votes
+* [Problems with lifetime annotations in a parser combinator library](https://stackoverflow.com/questions/79797230/problems-with-lifetime-annotations-in-a-parser-combinator-library) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -22,9 +23,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### pandas
 <!-- pandas starts -->
-* [Creating a new pandas dataframe from shape](https://stackoverflow.com/questions/79796094/creating-a-new-pandas-dataframe-from-shape) - 3 votes
-* [How can I write a matrix or a pandas DataFrame to an Excel file using openpyxl without iterating cell by cell](https://stackoverflow.com/questions/79795953/how-can-i-write-a-matrix-or-a-pandas-dataframe-to-an-excel-file-using-openpyxl) - 2 votes
-* [pandasread_csv uses only utf8 encoding for django file upload](https://stackoverflow.com/questions/79795928/pandas-read-csv-uses-only-utf-8-encoding-for-django-file-upload) - 1 votes
+* [How do you get specific data in unknown row from a csv file using known data from the same row](https://stackoverflow.com/questions/79797958/how-do-you-get-specific-data-in-unknown-row-from-a-csv-file-using-known-data-fro) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
