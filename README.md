@@ -1,15 +1,14 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-23<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-10-24<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Detect leaking of private types which are only public in their module](https://stackoverflow.com/questions/79796941/detect-leaking-of-private-types-which-are-only-public-in-their-module) - 3 votes
+* [Speeding up Polars rust plugin branching](https://stackoverflow.com/questions/79797682/speeding-up-polars-rust-plugin-branching) - 2 votes
 * [Rust and lifetime with generics and included structure](https://stackoverflow.com/questions/79798142/rust-and-lifetime-with-generics-and-included-structure) - 1 votes
-* [Problems with lifetime annotations in a parser combinator library](https://stackoverflow.com/questions/79797230/problems-with-lifetime-annotations-in-a-parser-combinator-library) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -23,6 +22,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### pandas
 <!-- pandas starts -->
+* [How to create a column based on 2 other columns of the dataframe](https://stackoverflow.com/questions/79798995/how-to-create-a-column-based-on-2-other-columns-of-the-dataframe) - 1 votes
 * [How do you get specific data in unknown row from a csv file using known data from the same row](https://stackoverflow.com/questions/79797958/how-do-you-get-specific-data-in-unknown-row-from-a-csv-file-using-known-data-fro) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
