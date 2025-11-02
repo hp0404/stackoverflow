@@ -1,28 +1,28 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-01<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-02<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Actix Web server fails to restart on the same port when on WSL](https://stackoverflow.com/questions/79805850/actix-web-server-fails-to-restart-on-the-same-port-when-on-wsl) - 4 votes
-* [Perf callgraph output doesn39t look as I would expect for a test program with a delay loop that should take near 100 of the time](https://stackoverflow.com/questions/79805950/perf-callgraph-output-doesnt-look-as-i-would-expect-for-a-test-program-with-a-d) - 1 votes
+* [Trouble deserializing TOML with Serde and Clap](https://stackoverflow.com/questions/79807335/trouble-deserializing-toml-with-serde-and-clap) - 1 votes
+* [Why do I observe so high memory usage for copying a Parquet file with streaming using Polars with Rust](https://stackoverflow.com/questions/79807227/why-do-i-observe-so-high-memory-usage-for-copying-a-parquet-file-with-streaming) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Why does my microservice return inconsistent results when using Redis caching with async SQLAlchemy](https://stackoverflow.com/questions/79805542/why-does-my-microservice-return-inconsistent-results-when-using-redis-caching-wi) - 2 votes
+* [Uvicorn FastAPI strange behavior](https://stackoverflow.com/questions/79806825/uvicorn-fastapi-strange-behavior) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [How to read mixed data numbers and strings from Excel with xlwings without converting 123  1230](https://stackoverflow.com/questions/79805740/how-to-read-mixed-data-numbers-and-strings-from-excel-with-xlwings-without-con) - 5 votes
+* [How to extract table from PDF with boxes into pandas dataframe](https://stackoverflow.com/questions/79806769/how-to-extract-table-from-pdf-with-boxes-into-pandas-dataframe) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
