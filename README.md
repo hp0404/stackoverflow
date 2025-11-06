@@ -1,17 +1,15 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-05<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-06<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [quotlifetime may not live long enoughquot for static reference to function pointer](https://stackoverflow.com/questions/79809366/lifetime-may-not-live-long-enough-for-static-reference-to-function-pointer) - 6 votes
-* [How can i get rid of this trait bound error](https://stackoverflow.com/questions/79808434/how-can-i-get-rid-of-this-trait-bound-error) - 2 votes
-* [How to loop over a polars column in Rust](https://stackoverflow.com/questions/79809229/how-to-loop-over-a-polars-column-in-rust) - 1 votes
+* [What39s the idiomaticcorrect way to split a string into its first word and the rest of the string](https://stackoverflow.com/questions/79810939/whats-the-idiomatic-correct-way-to-split-a-string-into-its-first-word-and-the-r) - 2 votes
+* [dockerized rust application shrank](https://stackoverflow.com/questions/79811535/dockerized-rust-application-shrank) - 1 votes
 * [Search in BTreeMap with partial Borrow](https://stackoverflow.com/questions/79809957/search-in-btreemap-with-partial-borrow) - 1 votes
-* [Collect information from multiple expansions of a proc macro and then output the result all at once](https://stackoverflow.com/questions/79809727/collect-information-from-multiple-expansions-of-a-proc-macro-and-then-output-the) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -25,8 +23,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### pandas
 <!-- pandas starts -->
-* [How to find a common value using if statement](https://stackoverflow.com/questions/79809062/how-to-find-a-common-value-using-if-statement) - 2 votes
-* [Concatenate Tables Based on Column Information in Python](https://stackoverflow.com/questions/79809179/concatenate-tables-based-on-column-information-in-python) - 2 votes
+* [Filter a pandas df per group keep only nonnull rows if we have them else keep a single null row](https://stackoverflow.com/questions/79810618/filter-a-pandas-df-per-group-keep-only-non-null-rows-if-we-have-them-else-kee) - 3 votes
+* [Calculate cumulative value based on another column](https://stackoverflow.com/questions/79811433/calculate-cumulative-value-based-on-another-column) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
