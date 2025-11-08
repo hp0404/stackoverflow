@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-07<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-08<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -22,7 +22,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### pandas
 <!-- pandas starts -->
-* [Calculate cumulative value based on another column](https://stackoverflow.com/questions/79811433/calculate-cumulative-value-based-on-another-column) - 3 votes
+
 <!-- pandas ends -->
 </td></tr></table>
 
