@@ -1,14 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-08<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-09<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why does stdthreadScope need the first lifetime parameter 39scope](https://stackoverflow.com/questions/79812197/why-does-stdthreadscope-need-the-first-lifetime-parameter-scope) - 2 votes
-* [FPS locked to 61 in glium](https://stackoverflow.com/questions/79811911/fps-locked-to-61-in-glium) - 1 votes
+* [Generic method cannot invoke specialized implementation](https://stackoverflow.com/questions/79814699/generic-method-cannot-invoke-specialized-implementation) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
