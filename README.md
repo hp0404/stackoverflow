@@ -1,21 +1,20 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-11<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-12<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why is a mutable reference with any lifetime not enough to make a type invariant in a lifetime parameter](https://stackoverflow.com/questions/79815367/why-is-a-mutable-reference-with-any-lifetime-not-enough-to-make-a-type-invariant) - 3 votes
-* [How can a function accept a collection of FnOnce closures of disparate types without boxing them](https://stackoverflow.com/questions/79815425/how-can-a-function-accept-a-collection-of-fnonce-closures-of-disparate-types-wit) - 3 votes
+* [Cannot infer type when using an associated type from a trait but only if two different lifetimes appear](https://stackoverflow.com/questions/79817266/cannot-infer-type-when-using-an-associated-type-from-a-trait-but-only-if-two-di) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [How to delete a persistent chromadb collection](https://stackoverflow.com/questions/79815515/how-to-delete-a-persistent-chromadb-collection) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
@@ -23,8 +22,6 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 ### pandas
 <!-- pandas starts -->
 * [How to store number as a text while exporting from pandas to excel](https://stackoverflow.com/questions/79816331/how-to-store-number-as-a-text-while-exporting-from-pandas-to-excel) - 1 votes
-* [How to assign int input value as column name in pandas](https://stackoverflow.com/questions/79815935/how-to-assign-int-input-value-as-column-name-in-pandas) - 1 votes
-* [Why does DataFrameapply use axis1 for rows instead of axis0 in pandas](https://stackoverflow.com/questions/79815898/why-does-dataframe-apply-use-axis-1-for-rows-instead-of-axis-0-in-pandas) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
