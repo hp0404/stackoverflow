@@ -1,12 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-12<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-13<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Generic reprC structs and possibly zerosized members](https://stackoverflow.com/questions/79818399/generic-reprc-structs-and-possibly-zero-sized-members) - 4 votes
 * [Cannot infer type when using an associated type from a trait but only if two different lifetimes appear](https://stackoverflow.com/questions/79817266/cannot-infer-type-when-using-an-associated-type-from-a-trait-but-only-if-two-di) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -21,7 +22,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### pandas
 <!-- pandas starts -->
-* [How to store number as a text while exporting from pandas to excel](https://stackoverflow.com/questions/79816331/how-to-store-number-as-a-text-while-exporting-from-pandas-to-excel) - 1 votes
+
 <!-- pandas ends -->
 </td></tr></table>
 
