@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-19<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-20<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to build a doc test from multiple snippets in the same comment](https://stackoverflow.com/questions/79822936/how-to-build-a-doc-test-from-multiple-snippets-in-the-same-comment) - 2 votes
+* [Why does stdthreadScopespawn need the bound T 39scope](https://stackoverflow.com/questions/79825066/why-does-stdthreadscopespawn-need-the-bound-t-scope) - 7 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,7 +21,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### pandas
 <!-- pandas starts -->
-* [Problem converting a column to datetime format](https://stackoverflow.com/questions/79823495/problem-converting-a-column-to-datetime-format) - 2 votes
+* [Pandas converts Excel strings like 2004E205 to scientific notation  how to prevent this](https://stackoverflow.com/questions/79825662/pandas-converts-excel-strings-like-2004e205-to-scientific-notation-how-to-pr) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
