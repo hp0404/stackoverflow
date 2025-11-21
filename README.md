@@ -1,13 +1,16 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-20<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-21<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why does stdthreadScopespawn need the bound T 39scope](https://stackoverflow.com/questions/79825066/why-does-stdthreadscopespawn-need-the-bound-t-scope) - 7 votes
+* [Why does stdthreadScopespawn need the bound T 39scope](https://stackoverflow.com/questions/79825066/why-does-stdthreadscopespawn-need-the-bound-t-scope) - 10 votes
+* [How to use Serde to deserialize JSON data containing relative path references](https://stackoverflow.com/questions/79826463/how-to-use-serde-to-deserialize-json-data-containing-relative-path-references) - 3 votes
+* [How to implement read trait](https://stackoverflow.com/questions/79826842/how-to-implement-read-trait) - 1 votes
+* [How to fetchstore related structs by ID with SQLx](https://stackoverflow.com/questions/79826225/how-to-fetch-store-related-structs-by-id-with-sqlx) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
