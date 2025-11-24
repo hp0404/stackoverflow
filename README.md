@@ -1,14 +1,14 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-23<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-24<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why can39t I use reference parameters on methods within impls that return an impl trait](https://stackoverflow.com/questions/79827212/why-cant-i-use-reference-parameters-on-methods-within-impls-that-return-an-imp) - 4 votes
 * [Rust generic type results in trait not found anymore](https://stackoverflow.com/questions/79827711/rust-generic-type-results-in-trait-not-found-anymore) - 1 votes
+* [Rust language server not working in neovim](https://stackoverflow.com/questions/79828561/rust-language-server-not-working-in-neovim) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -22,7 +22,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### pandas
 <!-- pandas starts -->
-
+* [How to resample timeseries with origin aligned to start of year](https://stackoverflow.com/questions/79828200/how-to-resample-timeseries-with-origin-aligned-to-start-of-year) - 3 votes
 <!-- pandas ends -->
 </td></tr></table>
 
