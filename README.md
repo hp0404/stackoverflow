@@ -1,14 +1,14 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-24<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-25<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Rust generic type results in trait not found anymore](https://stackoverflow.com/questions/79827711/rust-generic-type-results-in-trait-not-found-anymore) - 1 votes
-* [Rust language server not working in neovim](https://stackoverflow.com/questions/79828561/rust-language-server-not-working-in-neovim) - 1 votes
+* [Rust global variable lifetime safety](https://stackoverflow.com/questions/79830030/rust-global-variable-lifetime-safety) - 3 votes
+* [Rust language server not working in neovim](https://stackoverflow.com/questions/79828561/rust-language-server-not-working-in-neovim) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -22,7 +22,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### pandas
 <!-- pandas starts -->
-* [How to resample timeseries with origin aligned to start of year](https://stackoverflow.com/questions/79828200/how-to-resample-timeseries-with-origin-aligned-to-start-of-year) - 3 votes
+* [How to resample timeseries with origin aligned to start of year](https://stackoverflow.com/questions/79828200/how-to-resample-timeseries-with-origin-aligned-to-start-of-year) - 5 votes
+* [Best way to clean awkward Excel column headers in pythonpandas](https://stackoverflow.com/questions/79830100/best-way-to-clean-awkward-excel-column-headers-in-python-pandas) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
