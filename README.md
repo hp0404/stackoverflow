@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-28<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-29<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-
+* [How to implement Gtk 4 Rust file drag and drop](https://stackoverflow.com/questions/79833336/how-to-implement-gtk-4-rust-file-drag-and-drop) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,7 +21,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### pandas
 <!-- pandas starts -->
-* [Use pandas merge_asof to achieve inexact left join](https://stackoverflow.com/questions/79831600/use-pandas-merge-asof-to-achieve-inexact-left-join) - 3 votes
+
 <!-- pandas ends -->
 </td></tr></table>
 
