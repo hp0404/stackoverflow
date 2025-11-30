@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-29<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-11-30<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -21,7 +21,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### pandas
 <!-- pandas starts -->
-
+* [How to modify mulitple columns applying if else to multiple pandas dataframe columns](https://stackoverflow.com/questions/79833029/how-to-modify-mulitple-columns-applying-if-else-to-multiple-pandas-dataframe-col) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
