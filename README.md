@@ -1,14 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-04<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-05<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to specify fPIC and fPIE options when building Rust binaries](https://stackoverflow.com/questions/79836568/how-to-specify-fpic-and-fpie-options-when-building-rust-binaries) - 3 votes
-* [Make newtype iterable same as underlying](https://stackoverflow.com/questions/79836573/make-newtype-iterable-same-as-underlying) - 1 votes
+* [Make a custom rust class input to polars expression plugin](https://stackoverflow.com/questions/79838684/make-a-custom-rust-class-input-to-polars-expression-plugin) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -22,7 +21,6 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### pandas
 <!-- pandas starts -->
-* [Utilizing a loop or automated approach to join all possible elements in one dataframes together based on defined criteria](https://stackoverflow.com/questions/79837276/utilizing-a-loop-or-automated-approach-to-join-all-possible-elements-in-one-data) - 2 votes
 * [How to merge pandas dataframes with MultiIndexes on the columns](https://stackoverflow.com/questions/79837737/how-to-merge-pandas-dataframes-with-multiindexes-on-the-columns) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
