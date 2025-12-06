@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-05<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-06<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -21,7 +21,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### pandas
 <!-- pandas starts -->
-* [How to merge pandas dataframes with MultiIndexes on the columns](https://stackoverflow.com/questions/79837737/how-to-merge-pandas-dataframes-with-multiindexes-on-the-columns) - 1 votes
+* [Multiindexed Pandas Series to YesNo table](https://stackoverflow.com/questions/79839281/multiindexed-pandas-series-to-yes-no-table) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
