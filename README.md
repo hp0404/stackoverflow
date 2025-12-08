@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-07<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-08<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Rust Chumsky parser  is not an iterator when folding repeated BinOp Expr](https://stackoverflow.com/questions/79840321/rust-chumsky-parser-is-not-an-iterator-when-folding-repeated-binop-expr) - 1 votes
+* [Shared assembly between Rust and C using preprocessor](https://stackoverflow.com/questions/79840723/shared-assembly-between-rust-and-c-using-preprocessor) - 4 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,7 +21,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### pandas
 <!-- pandas starts -->
-
+* [How can I handle missing values in a large pandas DataFrame without running out of memory](https://stackoverflow.com/questions/79840254/how-can-i-handle-missing-values-in-a-large-pandas-dataframe-without-running-out) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
