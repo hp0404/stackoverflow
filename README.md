@@ -1,13 +1,15 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-10<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-11<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How would I create a shared memory buffer to display animations using the Kitty Graphics Protocol in Rust](https://stackoverflow.com/questions/79842458/how-would-i-create-a-shared-memory-buffer-to-display-animations-using-the-kitty) - 1 votes
+* [calling type_id on a ampmut variable](https://stackoverflow.com/questions/79843725/calling-type-id-on-a-mut-variable) - 2 votes
+* [quotif letquot assignment with specified datatype](https://stackoverflow.com/questions/79844102/if-let-assignment-with-specified-data-type) - 1 votes
+* [How to do equality check on subset of Rust struct without excessive boilerplate code](https://stackoverflow.com/questions/79843896/how-to-do-equality-check-on-subset-of-rust-struct-without-excessive-boilerplate) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,9 +23,9 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### pandas
 <!-- pandas starts -->
-* [Behavior of groupby and transform  length mismatch](https://stackoverflow.com/questions/79842936/behavior-of-groupby-and-transform-length-mismatch) - 2 votes
+* [Behavior of groupby and transform  length mismatch](https://stackoverflow.com/questions/79842936/behavior-of-groupby-and-transform-length-mismatch) - 5 votes
+* [Python delta time series conversion to time data type](https://stackoverflow.com/questions/79843343/python-delta-time-series-conversion-to-time-data-type) - 1 votes
 * [How to find corrupted date entry when date column type is object](https://stackoverflow.com/questions/79843205/how-to-find-corrupted-date-entry-when-date-column-type-is-object) - 1 votes
-* [Conditionnal IF use not working with PDNOTNA](https://stackoverflow.com/questions/79842390/conditionnal-if-use-not-working-with-pd-notna) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
