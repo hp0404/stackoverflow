@@ -1,15 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-12<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-13<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to do equality check on subset of Rust struct without excessive boilerplate code](https://stackoverflow.com/questions/79843896/how-to-do-equality-check-on-subset-of-rust-struct-without-excessive-boilerplate) - 3 votes
-* [calling type_id on a ampmut variable](https://stackoverflow.com/questions/79843725/calling-type-id-on-a-mut-variable) - 2 votes
-* [quotif letquot assignment with specified datatype](https://stackoverflow.com/questions/79844102/if-let-assignment-with-specified-data-type) - 1 votes
+* [How do I build Kismet Debugger as described by the developer](https://stackoverflow.com/questions/79846389/how-do-i-build-kismet-debugger-as-described-by-the-developer) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -23,7 +21,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### pandas
 <!-- pandas starts -->
-* [pdTimestamp has attribute isoformat but the series accessor dt does not](https://stackoverflow.com/questions/79845055/pd-timestamp-has-attribute-isoformat-but-the-series-accessor-dt-does-not) - 1 votes
+* [pdTimestamp has attribute isoformat but the series accessor dt does not](https://stackoverflow.com/questions/79845055/pd-timestamp-has-attribute-isoformat-but-the-series-accessor-dt-does-not) - 3 votes
+* [Bizzare quotkernel has diedquot error in pandas dfto_excel caused by geopandas](https://stackoverflow.com/questions/79844967/bizzare-kernel-has-died-error-in-pandas-df-to-excel-caused-by-geopandas) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
