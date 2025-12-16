@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-15<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-16<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How do I display a continuation prompt with rustyline](https://stackoverflow.com/questions/79846984/how-do-i-display-a-continuation-prompt-with-rustyline) - 1 votes
+* [mock feature in SeaORM v1119 makes DatabaseConnection lose the trait to clone it](https://stackoverflow.com/questions/79848239/mock-feature-in-seaorm-v1-1-19-makes-databaseconnection-lose-the-trait-to-clone) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,8 +21,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### pandas
 <!-- pandas starts -->
-* [Access data frame from binary file](https://stackoverflow.com/questions/79847020/access-data-frame-from-binary-file) - 1 votes
-* [How to delete one single element in a DataFrame](https://stackoverflow.com/questions/79847298/how-to-delete-one-single-element-in-a-dataframe) - 1 votes
+* [How to query columns that are lists or dicts](https://stackoverflow.com/questions/79848158/how-to-query-columns-that-are-lists-or-dicts) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
