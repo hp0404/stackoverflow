@@ -1,14 +1,15 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-17<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-18<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [Deserialize the same JSON field into two different struct fields](https://stackoverflow.com/questions/79849874/deserialize-the-same-json-field-into-two-different-struct-fields) - 3 votes
 * [Flipping line of 4Byte pixels horizontally](https://stackoverflow.com/questions/79849495/flipping-line-of-4-byte-pixels-horizontally) - 3 votes
-* [mock feature in SeaORM v1119 makes DatabaseConnection lose the trait to clone it](https://stackoverflow.com/questions/79848239/mock-feature-in-seaorm-v1-1-19-makes-databaseconnection-lose-the-trait-to-clone) - 1 votes
+* [How to optimize enum size](https://stackoverflow.com/questions/79849626/how-to-optimize-enum-size) - 3 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -22,7 +23,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### pandas
 <!-- pandas starts -->
-* [How to query columns that are lists or dicts](https://stackoverflow.com/questions/79848158/how-to-query-columns-that-are-lists-or-dicts) - 3 votes
+
 <!-- pandas ends -->
 </td></tr></table>
 
