@@ -1,15 +1,15 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-18<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-19<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Deserialize the same JSON field into two different struct fields](https://stackoverflow.com/questions/79849874/deserialize-the-same-json-field-into-two-different-struct-fields) - 3 votes
-* [Flipping line of 4Byte pixels horizontally](https://stackoverflow.com/questions/79849495/flipping-line-of-4-byte-pixels-horizontally) - 3 votes
-* [How to optimize enum size](https://stackoverflow.com/questions/79849626/how-to-optimize-enum-size) - 3 votes
+* [Show documentation of a crate only when it is reexported from another crate](https://stackoverflow.com/questions/79851041/show-documentation-of-a-crate-only-when-it-is-re-exported-from-another-crate) - 2 votes
+* [How to prevent quotappstartingquot cursor when calling IContextMenuQueryContextMenu](https://stackoverflow.com/questions/79851038/how-to-prevent-appstarting-cursor-when-calling-icontextmenuquerycontextmenu) - 1 votes
+* [Simultaneous mutable references to 2 or more elements of a struct in rust](https://stackoverflow.com/questions/79850933/simultaneous-mutable-references-to-2-or-more-elements-of-a-struct-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
