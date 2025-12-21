@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-20<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-21<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,16 +8,14 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 ### rust
 <!-- rust starts -->
 * [Why Aren39t JoinSets with recursive calls Send](https://stackoverflow.com/questions/79851524/why-arent-joinsets-with-recursive-calls-send) - 3 votes
-* [Show documentation of a crate only when it is reexported from another crate](https://stackoverflow.com/questions/79851041/show-documentation-of-a-crate-only-when-it-is-re-exported-from-another-crate) - 2 votes
-* [How to prevent quotappstartingquot cursor when calling IContextMenuQueryContextMenu](https://stackoverflow.com/questions/79851038/how-to-prevent-appstarting-cursor-when-calling-icontextmenuquerycontextmenu) - 2 votes
-* [Simultaneous mutable references to 2 or more elements of a struct in rust](https://stackoverflow.com/questions/79850933/simultaneous-mutable-references-to-2-or-more-elements-of-a-struct-in-rust) - 1 votes
+* [Any Rust terminal sessions longer than VS Code integrated terminal height causes terminal to not clear from previous sessions](https://stackoverflow.com/questions/79852185/any-rust-terminal-sessions-longer-than-vs-code-integrated-terminal-height-causes) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [POST request with listUploadFile results in HTTP 422 Unprocessable Entity](https://stackoverflow.com/questions/79851952/post-request-with-listuploadfile-results-in-http-422-unprocessable-entity) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
