@@ -1,28 +1,30 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-21<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-22<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Why Aren39t JoinSets with recursive calls Send](https://stackoverflow.com/questions/79851524/why-arent-joinsets-with-recursive-calls-send) - 3 votes
-* [Any Rust terminal sessions longer than VS Code integrated terminal height causes terminal to not clear from previous sessions](https://stackoverflow.com/questions/79852185/any-rust-terminal-sessions-longer-than-vs-code-integrated-terminal-height-causes) - 1 votes
+* [Rust unpack tuple in place like args in Python](https://stackoverflow.com/questions/79852274/rust-unpack-tuple-in-place-like-args-in-python) - 1 votes
+* [including a python script with my rust CLI program](https://stackoverflow.com/questions/79852581/including-a-python-script-with-my-rust-cli-program) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [POST request with listUploadFile results in HTTP 422 Unprocessable Entity](https://stackoverflow.com/questions/79851952/post-request-with-listuploadfile-results-in-http-422-unprocessable-entity) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-
+* [Nuitka amp PyQt6 specifying imports to reducing exe size currently 1gb](https://stackoverflow.com/questions/79852974/nuitka-pyqt6-specifying-imports-to-reducing-exe-size-currently-1gb) - 1 votes
+* [faster methods to remove substrings stored in one column from strings stored in another column](https://stackoverflow.com/questions/79852467/faster-methods-to-remove-substrings-stored-in-one-column-from-strings-stored-in) - 1 votes
+* [Broadcasting DataFrames across NumPy array dimensions](https://stackoverflow.com/questions/79852075/broadcasting-dataframes-across-numpy-array-dimensions) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
