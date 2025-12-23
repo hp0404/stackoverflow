@@ -1,14 +1,17 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-22<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-23<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Rust unpack tuple in place like args in Python](https://stackoverflow.com/questions/79852274/rust-unpack-tuple-in-place-like-args-in-python) - 1 votes
+* [Does a dereference operator expect a placeexpression or a valueexpression](https://stackoverflow.com/questions/79853297/does-a-dereference-operator-expect-a-place-expression-or-a-value-expression) - 2 votes
 * [including a python script with my rust CLI program](https://stackoverflow.com/questions/79852581/including-a-python-script-with-my-rust-cli-program) - 1 votes
+* [How can an expression be of type ampmut T and not be a mutable place expression](https://stackoverflow.com/questions/79853957/how-can-an-expression-be-of-type-mut-t-and-not-be-a-mutable-place-expression) - 1 votes
+* [Unexpectedly poor performance of io_uring for multiple TCP socket writes](https://stackoverflow.com/questions/79853762/unexpectedly-poor-performance-of-io-uring-for-multiple-tcp-socket-writes) - 1 votes
+* [Rust reorders method params in machine code](https://stackoverflow.com/questions/79853691/rust-reorders-method-params-in-machine-code) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -23,8 +26,6 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 ### pandas
 <!-- pandas starts -->
 * [Nuitka amp PyQt6 specifying imports to reducing exe size currently 1gb](https://stackoverflow.com/questions/79852974/nuitka-pyqt6-specifying-imports-to-reducing-exe-size-currently-1gb) - 1 votes
-* [faster methods to remove substrings stored in one column from strings stored in another column](https://stackoverflow.com/questions/79852467/faster-methods-to-remove-substrings-stored-in-one-column-from-strings-stored-in) - 1 votes
-* [Broadcasting DataFrames across NumPy array dimensions](https://stackoverflow.com/questions/79852075/broadcasting-dataframes-across-numpy-array-dimensions) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
