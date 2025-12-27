@@ -1,20 +1,20 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-26<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-27<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Generate XML from generated Rust from XSD file containg xschoice elements](https://stackoverflow.com/questions/79855493/generate-xml-from-generated-rust-from-xsd-file-containg-xschoice-elements) - 1 votes
+* [Generate XML from Rust generated from XSD file containing xschoice elements](https://stackoverflow.com/questions/79855493/generate-xml-from-rust-generated-from-xsd-file-containing-xschoice-elements) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-* [Kafka consumer is blocking event loop in FastAPI](https://stackoverflow.com/questions/79854750/kafka-consumer-is-blocking-event-loop-in-fastapi) - 2 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
