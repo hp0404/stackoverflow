@@ -1,13 +1,15 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-30<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2025-12-31<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Unique combinations preserving order](https://stackoverflow.com/questions/79857332/unique-combinations-preserving-order) - 2 votes
+* [Unique combinations preserving order](https://stackoverflow.com/questions/79857332/unique-combinations-preserving-order) - 3 votes
+* [Rust and C FFI orchestrating destructorsdrops of struct fields](https://stackoverflow.com/questions/79858100/rust-and-c-ffi-orchestrating-destructors-drops-of-struct-fields) - 2 votes
+* [quotfield must implement Copyquot in union on field with derived Copy](https://stackoverflow.com/questions/79858170/field-must-implement-copy-in-union-on-field-with-derived-copy) - 1 votes
 * [Allow mutable borrow alongside immutable borrow in Rust](https://stackoverflow.com/questions/79857562/allow-mutable-borrow-alongside-immutable-borrow-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
@@ -15,14 +17,14 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2025-1
 
 ### fastapi
 <!-- fastapi starts -->
-* [Cloud Run POST request fails with CORS preflight 405 FastAPI backend](https://stackoverflow.com/questions/79856763/cloud-run-post-request-fails-with-cors-preflight-405-fastapi-backend) - 3 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-
+* [pandas last 3 weeks same day average in groups](https://stackoverflow.com/questions/79858187/pandas-last-3-weeks-same-day-average-in-groups) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
