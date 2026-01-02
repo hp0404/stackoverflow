@@ -1,14 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-01<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-02<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Rust and C FFI orchestrating destructorsdrops of struct fields](https://stackoverflow.com/questions/79858100/rust-and-c-ffi-orchestrating-destructors-drops-of-struct-fields) - 2 votes
-* [quotfield must implement Copyquot in union on field with derived Copy](https://stackoverflow.com/questions/79858170/field-must-implement-copy-in-union-on-field-with-derived-copy) - 2 votes
+* [Can and should a page table entry contain its own lock on RISCV in Rust](https://stackoverflow.com/questions/79858714/can-and-should-a-page-table-entry-contain-its-own-lock-on-risc-v-in-rust) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -22,7 +21,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2026-0
 
 ### pandas
 <!-- pandas starts -->
-* [pandas last 3 weeks same day average in groups](https://stackoverflow.com/questions/79858187/pandas-last-3-weeks-same-day-average-in-groups) - 3 votes
+
 <!-- pandas ends -->
 </td></tr></table>
 
