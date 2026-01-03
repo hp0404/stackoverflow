@@ -1,13 +1,14 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-02<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-03<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Can and should a page table entry contain its own lock on RISCV in Rust](https://stackoverflow.com/questions/79858714/can-and-should-a-page-table-entry-contain-its-own-lock-on-risc-v-in-rust) - 2 votes
+* [how to make my program be displayed only in tray and not in taskbar and hide the console window](https://stackoverflow.com/questions/79859837/how-to-make-my-program-be-displayed-only-in-tray-and-not-in-taskbar-and-hide-the) - 1 votes
+* [How do I implement ToString for my custom primitive type that does not need a Formatter without going against Rust39s guidelines](https://stackoverflow.com/questions/79859190/how-do-i-implement-tostring-for-my-custom-primitive-type-that-does-not-need-a-fo) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,7 +22,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2026-0
 
 ### pandas
 <!-- pandas starts -->
-
+* [Reading in XML data in python](https://stackoverflow.com/questions/79859541/reading-in-xml-data-in-python) - 3 votes
 <!-- pandas ends -->
 </td></tr></table>
 
