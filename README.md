@@ -1,14 +1,14 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-03<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-04<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
+* [How does provenance work in a kernel in Rust](https://stackoverflow.com/questions/79859944/how-does-provenance-work-in-a-kernel-in-rust) - 3 votes
 * [how to make my program be displayed only in tray and not in taskbar and hide the console window](https://stackoverflow.com/questions/79859837/how-to-make-my-program-be-displayed-only-in-tray-and-not-in-taskbar-and-hide-the) - 1 votes
-* [How do I implement ToString for my custom primitive type that does not need a Formatter without going against Rust39s guidelines](https://stackoverflow.com/questions/79859190/how-do-i-implement-tostring-for-my-custom-primitive-type-that-does-not-need-a-fo) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
