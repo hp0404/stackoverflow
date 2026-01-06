@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-05<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-06<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How does provenance work in a kernel in Rust](https://stackoverflow.com/questions/79859944/how-does-provenance-work-in-a-kernel-in-rust) - 4 votes
+* [Replacing atomicpolyfillAtomicUsizefetch_add with criticalsection on thumbv6mnoneeabi](https://stackoverflow.com/questions/79860874/replacing-atomic-polyfillatomicusizefetch-add-with-critical-section-on-thumb) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
