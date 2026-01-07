@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-06<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-07<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Replacing atomicpolyfillAtomicUsizefetch_add with criticalsection on thumbv6mnoneeabi](https://stackoverflow.com/questions/79860874/replacing-atomic-polyfillatomicusizefetch-add-with-critical-section-on-thumb) - 1 votes
+* [What39s the best way to handle a callback wiith named type that might be unsafe if misused](https://stackoverflow.com/questions/79861965/whats-the-best-way-to-handle-a-callback-wiith-named-type-that-might-be-unsafe) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
