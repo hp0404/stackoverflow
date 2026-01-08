@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-07<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-08<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [What39s the best way to handle a callback wiith named type that might be unsafe if misused](https://stackoverflow.com/questions/79861965/whats-the-best-way-to-handle-a-callback-wiith-named-type-that-might-be-unsafe) - 2 votes
+
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,7 +21,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2026-0
 
 ### pandas
 <!-- pandas starts -->
-
+* [How can I convert sto to csv with pandas](https://stackoverflow.com/questions/79862797/how-can-i-convert-sto-to-csv-with-pandas) - 1 votes
+* [Why does my PCA scatter plot not show wellseparated clusters](https://stackoverflow.com/questions/79862745/why-does-my-pca-scatter-plot-not-show-well-separated-clusters) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
