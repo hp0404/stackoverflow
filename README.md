@@ -1,21 +1,20 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-11<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-12<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to compare a u16 variable with a u16 enum](https://stackoverflow.com/questions/79864933/how-to-compare-a-u16-variable-with-a-u16-enum) - 3 votes
-* [Dioxus CSS styling not consistent when using fullstack feature](https://stackoverflow.com/questions/79865095/dioxus-css-styling-not-consistent-when-using-fullstack-feature) - 1 votes
+
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [FastAPI  Mangum on AWS Lambda Function URL passthrough gzipped response without decompression is true streaming possible](https://stackoverflow.com/questions/79865785/fastapi-mangum-on-aws-lambda-function-url-pass-through-gzipped-response-wit) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
