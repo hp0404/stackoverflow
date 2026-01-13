@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-12<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-13<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -14,14 +14,15 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2026-0
 
 ### fastapi
 <!-- fastapi starts -->
-* [FastAPI  Mangum on AWS Lambda Function URL passthrough gzipped response without decompression is true streaming possible](https://stackoverflow.com/questions/79865785/fastapi-mangum-on-aws-lambda-function-url-pass-through-gzipped-response-wit) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Why pandas module is not found even though it is already installed](https://stackoverflow.com/questions/79865535/why-pandas-module-is-not-found-even-though-it-is-already-installed) - 1 votes
+* [In Pandas how to run multiple statistical distributions across all possible combinations of values in a column amp assign the minimum to a new column](https://stackoverflow.com/questions/79867312/in-pandas-how-to-run-multiple-statistical-distributions-across-all-possible-com) - 1 votes
+* [Visualizing categorical features with severe Class Imbalance for ML Absolute Counts vs Normalized Percentages](https://stackoverflow.com/questions/79866222/visualizing-categorical-features-with-severe-class-imbalance-for-ml-absolute-co) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
