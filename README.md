@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-13<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-14<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-
+* [Rust chrono in mongodb v341](https://stackoverflow.com/questions/79866891/rust-chrono-in-mongodb-v3-4-1) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,8 +21,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2026-0
 
 ### pandas
 <!-- pandas starts -->
-* [In Pandas how to run multiple statistical distributions across all possible combinations of values in a column amp assign the minimum to a new column](https://stackoverflow.com/questions/79867312/in-pandas-how-to-run-multiple-statistical-distributions-across-all-possible-com) - 1 votes
-* [Visualizing categorical features with severe Class Imbalance for ML Absolute Counts vs Normalized Percentages](https://stackoverflow.com/questions/79866222/visualizing-categorical-features-with-severe-class-imbalance-for-ml-absolute-co) - 1 votes
+* [SettingWithCopyWarning unexpected issues with python pandas views vs copy while already using loc](https://stackoverflow.com/questions/79867770/settingwithcopywarning-unexpected-issues-with-python-pandas-views-vs-copy-while) - 2 votes
+* [How to run multiple statistical distributions across all possible combinations of values in a column amp assign the minimum to a new column](https://stackoverflow.com/questions/79867312/how-to-run-multiple-statistical-distributions-across-all-possible-combinations-o) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
