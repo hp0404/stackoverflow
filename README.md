@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-14<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-15<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Rust chrono in mongodb v341](https://stackoverflow.com/questions/79866891/rust-chrono-in-mongodb-v3-4-1) - 1 votes
+
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,8 +21,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2026-0
 
 ### pandas
 <!-- pandas starts -->
-* [SettingWithCopyWarning unexpected issues with python pandas views vs copy while already using loc](https://stackoverflow.com/questions/79867770/settingwithcopywarning-unexpected-issues-with-python-pandas-views-vs-copy-while) - 2 votes
-* [How to run multiple statistical distributions across all possible combinations of values in a column amp assign the minimum to a new column](https://stackoverflow.com/questions/79867312/how-to-run-multiple-statistical-distributions-across-all-possible-combinations-o) - 2 votes
+* [SettingWithCopyWarning DataFrameiterrows using loc  pandas views vs copy](https://stackoverflow.com/questions/79867770/settingwithcopywarning-dataframe-iterrows-using-loc-pandas-views-vs-copy) - 3 votes
 <!-- pandas ends -->
 </td></tr></table>
 
