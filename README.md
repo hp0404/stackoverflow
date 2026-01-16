@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-15<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-16<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -21,7 +21,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2026-0
 
 ### pandas
 <!-- pandas starts -->
-* [SettingWithCopyWarning DataFrameiterrows using loc  pandas views vs copy](https://stackoverflow.com/questions/79867770/settingwithcopywarning-dataframe-iterrows-using-loc-pandas-views-vs-copy) - 3 votes
+
 <!-- pandas ends -->
 </td></tr></table>
 
