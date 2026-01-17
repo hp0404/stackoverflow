@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-16<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-17<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-
+* [In singlethread Rust what39s the most idiomatic or concise way to mut borrow one field in a struct and leave the rest available](https://stackoverflow.com/questions/79869935/in-single-thread-rust-whats-the-most-idiomatic-or-concise-way-to-mut-borrow-on) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
