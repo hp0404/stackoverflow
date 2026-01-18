@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-17<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-18<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,6 +8,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2026-0
 ### rust
 <!-- rust starts -->
 * [In singlethread Rust what39s the most idiomatic or concise way to mut borrow one field in a struct and leave the rest available](https://stackoverflow.com/questions/79869935/in-single-thread-rust-whats-the-most-idiomatic-or-concise-way-to-mut-borrow-on) - 1 votes
+* [Where can I find copies of malicious packages that have been removed from cratesio](https://stackoverflow.com/questions/79870563/where-can-i-find-copies-of-malicious-packages-that-have-been-removed-from-crates) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,7 +22,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2026-0
 
 ### pandas
 <!-- pandas starts -->
-
+* [Pandas rename not working on MultiIndex columns with tuples](https://stackoverflow.com/questions/79870504/pandas-rename-not-working-on-multiindex-columns-with-tuples) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
