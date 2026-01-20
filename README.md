@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-19<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-20<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Where can I find copies of malicious packages that have been removed from cratesio](https://stackoverflow.com/questions/79870563/where-can-i-find-copies-of-malicious-packages-that-have-been-removed-from-crates) - 2 votes
+* [Dynamically change log level with tracing rust](https://stackoverflow.com/questions/79871488/dynamically-change-log-level-with-tracing-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,7 +21,6 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2026-0
 
 ### pandas
 <!-- pandas starts -->
-* [Pandas rename not working on MultiIndex columns with tuples](https://stackoverflow.com/questions/79870504/pandas-rename-not-working-on-multiindex-columns-with-tuples) - 4 votes
 * [ChainedAssignmentError when adding a conditional to a pandas dataframe](https://stackoverflow.com/questions/79870853/chainedassignmenterror-when-adding-a-conditional-to-a-pandas-dataframe) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
