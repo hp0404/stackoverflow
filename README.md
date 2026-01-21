@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-20<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-21<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Dynamically change log level with tracing rust](https://stackoverflow.com/questions/79871488/dynamically-change-log-level-with-tracing-rust) - 1 votes
+
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,7 +21,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2026-0
 
 ### pandas
 <!-- pandas starts -->
-* [ChainedAssignmentError when adding a conditional to a pandas dataframe](https://stackoverflow.com/questions/79870853/chainedassignmenterror-when-adding-a-conditional-to-a-pandas-dataframe) - 1 votes
+* [Using pivot with Pandas](https://stackoverflow.com/questions/79872672/using-pivot-with-pandas) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
