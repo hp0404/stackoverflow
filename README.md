@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-21<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-22<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -21,7 +21,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2026-0
 
 ### pandas
 <!-- pandas starts -->
-* [Using pivot with Pandas](https://stackoverflow.com/questions/79872672/using-pivot-with-pandas) - 1 votes
+* [Using pivot with Pandas](https://stackoverflow.com/questions/79872672/using-pivot-with-pandas) - 2 votes
+* [Unbalanced diagonal matrix from a symmetric matrix](https://stackoverflow.com/questions/79873611/unbalanced-diagonal-matrix-from-a-symmetric-matrix) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
