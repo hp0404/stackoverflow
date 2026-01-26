@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-25<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-26<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-
+* [Iteratively get a mut reference from a nested structure](https://stackoverflow.com/questions/79875762/iteratively-get-a-mut-reference-from-a-nested-structure) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
