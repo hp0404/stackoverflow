@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-28<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-01-29<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-
+* [Allowing Access to Fields in Inner Struct with Different Names in Rust](https://stackoverflow.com/questions/79878534/allowing-access-to-fields-in-inner-struct-with-different-names-in-rust) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
