@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-02-05<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-02-06<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -8,7 +8,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2026-0
 ### rust
 <!-- rust starts -->
 * [What does an quotimplementation of FnOnce is not general enoughquot error mean](https://stackoverflow.com/questions/79883421/what-does-an-implementation-of-fnonce-is-not-general-enough-error-mean) - 7 votes
-* [Why is Option with if let Some seemingly interfering with interior mutability](https://stackoverflow.com/questions/79883848/why-is-option-with-if-let-some-seemingly-interfering-with-interior-mutability) - 1 votes
+* [How do I require an async closure type39s future to be Send](https://stackoverflow.com/questions/79884006/how-do-i-require-an-async-closure-types-future-to-be-send) - 3 votes
+* [Why is Option with if let Some seemingly interfering with interior mutability](https://stackoverflow.com/questions/79883848/why-is-option-with-if-let-some-seemingly-interfering-with-interior-mutability) - 2 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -23,6 +24,8 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2026-0
 ### pandas
 <!-- pandas starts -->
 * [Merging 2 dataframes using ffill but finally only retaining the rows from the first dataframe](https://stackoverflow.com/questions/79883287/merging-2-dataframes-using-ffill-but-finally-only-retaining-the-rows-from-the-f) - 4 votes
+* [Query executed with PyMySQL resulting in copies of column names](https://stackoverflow.com/questions/79884111/query-executed-with-pymysql-resulting-in-copies-of-column-names) - 3 votes
+* [Extract nested dictionary values into flat data for dataframe](https://stackoverflow.com/questions/79883151/extract-nested-dictionary-values-into-flat-data-for-dataframe) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
