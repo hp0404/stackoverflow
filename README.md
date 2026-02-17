@@ -1,13 +1,12 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-02-16<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-02-17<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How can I get my table to sort columns and keep the rows intact in egui](https://stackoverflow.com/questions/79889736/how-can-i-get-my-table-to-sort-columns-and-keep-the-rows-intact-in-egui) - 2 votes
 * [How to get data headers from response of Reqwest in concurrent requests](https://stackoverflow.com/questions/79890193/how-to-get-data-headers-from-response-of-reqwest-in-concurrent-requests) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
