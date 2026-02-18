@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-02-17<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-02-18<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How to get data headers from response of Reqwest in concurrent requests](https://stackoverflow.com/questions/79890193/how-to-get-data-headers-from-response-of-reqwest-in-concurrent-requests) - 1 votes
+
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
