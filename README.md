@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-02-18<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-02-19<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -14,7 +14,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2026-0
 
 ### fastapi
 <!-- fastapi starts -->
-
+* [Pydantic avoid duplicating validation logic for create and update models](https://stackoverflow.com/questions/79892055/pydantic-avoid-duplicating-validation-logic-for-create-and-update-models) - 1 votes
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
