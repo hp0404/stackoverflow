@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-02-19<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-02-20<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -21,7 +21,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2026-0
 
 ### pandas
 <!-- pandas starts -->
-
+* [Removing Series content from another Series](https://stackoverflow.com/questions/79892823/removing-series-content-from-another-series) - 2 votes
 <!-- pandas ends -->
 </td></tr></table>
 
