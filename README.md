@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-02-20<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-02-21<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -14,14 +14,14 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2026-0
 
 ### fastapi
 <!-- fastapi starts -->
-* [Pydantic avoid duplicating validation logic for create and update models](https://stackoverflow.com/questions/79892055/pydantic-avoid-duplicating-validation-logic-for-create-and-update-models) - 1 votes
+
 <!-- fastapi ends -->
 </td><td valign="top" width="34%">
 
 
 ### pandas
 <!-- pandas starts -->
-* [Removing Series content from another Series](https://stackoverflow.com/questions/79892823/removing-series-content-from-another-series) - 2 votes
+* [Removing Series content from another Series](https://stackoverflow.com/questions/79892823/removing-series-content-from-another-series) - 5 votes
 <!-- pandas ends -->
 </td></tr></table>
 
