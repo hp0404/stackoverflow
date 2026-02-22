@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-02-21<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-02-22<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-
+* [How should we handle centralize logging in Hexagonal Architecture Should there be a logging service](https://stackoverflow.com/questions/79893811/how-should-we-handle-centralize-logging-in-hexagonal-architecture-should-there) - 1 votes
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,7 +21,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2026-0
 
 ### pandas
 <!-- pandas starts -->
-* [Removing Series content from another Series](https://stackoverflow.com/questions/79892823/removing-series-content-from-another-series) - 5 votes
+
 <!-- pandas ends -->
 </td></tr></table>
 
