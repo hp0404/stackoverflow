@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-02-24<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-02-25<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Deriving where constraints](https://stackoverflow.com/questions/79894785/deriving-where-constraints) - 1 votes
+
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
@@ -21,6 +21,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2026-0
 
 ### pandas
 <!-- pandas starts -->
+* [Register metadata in accessor that survives pipes](https://stackoverflow.com/questions/79896089/register-metadata-in-accessor-that-survives-pipes) - 2 votes
 * [Pandas dataframe conditional value assignemnt leads to error when there are exactly 2 rows in the dataframe](https://stackoverflow.com/questions/79895203/pandas-dataframe-conditional-value-assignemnt-leads-to-error-when-there-are-exac) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
