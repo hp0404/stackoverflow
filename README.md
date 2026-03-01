@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-02-28<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-03-01<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -21,7 +21,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2026-0
 
 ### pandas
 <!-- pandas starts -->
-* [How to remove column name from facet titles in Plotly Express histogram](https://stackoverflow.com/questions/79898053/how-to-remove-column-name-from-facet-titles-in-plotly-express-histogram) - 1 votes
+
 <!-- pandas ends -->
 </td></tr></table>
 
