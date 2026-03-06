@@ -1,13 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-03-05<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-03-06<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [How can a Rust android application declare that it usespermission](https://stackoverflow.com/questions/79901038/how-can-a-rust-android-application-declare-that-it-uses-permission) - 1 votes
+
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
