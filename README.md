@@ -1,15 +1,13 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-03-11<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-03-12<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
 
 ### rust
 <!-- rust starts -->
-* [Idiomatic rust for sorting a pair of integers ab such that a lt b](https://stackoverflow.com/questions/79904622/idiomatic-rust-for-sorting-a-pair-of-integers-a-b-such-that-a-b) - 2 votes
-* [Connect two processes stdinstdout back to back with safe Rust](https://stackoverflow.com/questions/79904585/connect-two-processes-stdin-stdout-back-to-back-with-safe-rust) - 1 votes
-* [How to get data in a child thread based on a time condition](https://stackoverflow.com/questions/79904423/how-to-get-data-in-a-child-thread-based-on-a-time-condition) - 1 votes
+
 <!-- rust ends -->
 </td><td valign="top" width="34%">
 
