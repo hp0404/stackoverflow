@@ -1,6 +1,6 @@
 # Stackoverflow. Daily top questions 
 
-Automatically updates via GitHub Action, last update: <!-- date starts -->2026-03-13<!-- date ends -->
+Automatically updates via GitHub Action, last update: <!-- date starts -->2026-03-14<!-- date ends -->
 
 
 <table><tr><td valign="top" width="33%">
@@ -22,6 +22,7 @@ Automatically updates via GitHub Action, last update: <!-- date starts -->2026-0
 ### pandas
 <!-- pandas starts -->
 * [LossySetItemError when converting column type of 39int6439 to 39float6439 with astype](https://stackoverflow.com/questions/79906667/lossysetitemerror-when-converting-column-type-of-int64-to-float64-with-astyp) - 2 votes
+* [Why doesn39t copy_on_write work when modifying a copy of an entire DataFrame](https://stackoverflow.com/questions/79907288/why-doesnt-copy-on-write-work-when-modifying-a-copy-of-an-entire-dataframe) - 1 votes
 <!-- pandas ends -->
 </td></tr></table>
 
